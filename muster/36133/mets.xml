@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Z METS:mets/@TYPE[.='collection'] določimo metapodatke o menuju.
+     Vse ostale @TYPE oznake so označba za sistory publikacijo (nova oznaka Entity).
+     Privzeta vrednost nemenujev je entity,
+     ki pa jo kasneje lahko spremenimo v poljubno semantično vrednost (razen rezerviranega imena za menu (collection)).
+     Z nekaterimi od njih bomo lahko (npr. "data" za raziskovalne podatke za OpenAIRE data provaiderse) na ta način določali za posebno nadaljno obdelavo.
+     
+     Ideja za frontend: vsak različen METS:mets/@TYPE ima:
+       - svoj način prikazovanja metapodatkov na frontendu;
+       - temu primerno je potrebno modularno urediti različne stile;
+       
+-->
+<!-- identifikatorja te entitete ne zapisujemo v ID atribut mets elementa, temveč spodaj v -->
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+    xmlns:xlink="http://www.w3.org/TR/xlink"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+    xmlns:premis="http://www.loc.gov/standards/premis/v1"
+    xmlns:mods="http://www.loc.gov/mods/v3"
+    TYPE="entity"
+    OBJID="http://hdl.handle.net/11686/36113"
+    xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd
+                        http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd
+                        http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd
+                        http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+    <!-- Sem zapišemo čim več metapodatkov, ki so potrebni za delovanje in kontrolo SIstory
+         DATETIME_ADDED = @CREATEDATE
+         DATETIME_MODIFIED = @LASTMODDATE
+         STATUS = @RECORDSTATUS='Active'
+         USER_ID_ADDED v METS:agent[@ROLE='CREATOR']
+         LOCK več ne uporabljamo
+    -->
+    <METS:metsHdr CREATEDATE="2016-12-07T11:25:58" LASTMODDATE="2016-12-08T07:21:21" RECORDSTATUS="Active">
+        <!-- Zaradi zunanje prepoznavnosti vedno dodamo spodnje podatke.
+        -->
+        <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+            <METS:name>SIstory</METS:name>
+            <METS:note>http://sistory.si/</METS:note>
+        </METS:agent>
+        <METS:agent ROLE="CREATOR" ID="user.11" TYPE="INDIVIDUAL">
+            <METS:name>Pančur, Andrej</METS:name>
+        </METS:agent>
+    </METS:metsHdr>
+    <!-- metapodatkovna skupina obveznih Dublin Core metapodatkov -->
+    <!-- Ti imajo id vedno sestavljen iz dc. in številčnim identifikatorjem iz relacijske baze
+         Preko @GROUPID, ki ima tudi zapisan ta identifikator, so povezani z ostalimi morebitnimi nujnimi 
+         opisnimi metapodatki iz dosedanjega sistory 3.
+         Preko tega @GROUPID so tako ti metapodatki povezani z glavno skupino metapodatkov -->
+    <METS:dmdSec ID="dc.36113" GROUPID="36113">
+        <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+            <METS:xmlData>
+                <!-- ime in priimek avtorja se po novem zapisuje ločeno z vejico v dc:creator Pančur, Andrej -->
+                <!-- razen dc:title so vsi ostali metapodatki opcijski -->
+                <dcterms:title xml:lang="slv">Prispevki za novejšo zgodovino, 2015, No. 3</dcterms:title>
+                <dcterms:title xml:lang="eng">Complex Parliaments in Transition</dcterms:title>
+                <dcterms:title xml:lang="eng">Central European Federations Facing Regime Change</dcterms:title>
+                <dcterms:publisher>Inštitut za novejšo zgodovino, Ljubljana</dcterms:publisher>
+                <dcterms:indentifier xsi:type="dcterms:URI">http://ojs.inz.si/pnz/issue/view/8</dcterms:indentifier>
+                <dcterms:date>2015</dcterms:date>
+                <!-- Za izpis tega podatka na SIstory se naredi prevodna tabela. V tem primeru bi tabelo dopolnili, da bi lahko dodajali tudi dvoznakovne kode. -->
+                <dcterms:language>eng</dcterms:language>
+                <!-- Sistory Type ukinemo: Ga mapiramo v dcterms:type (in jih hkrati prevedemo). -->
+                <dcterms:type xsi:type="dcterms:DCMIType">Text</dcterms:type>
+                <!-- Ukinemo Avtorske pravice kot HTML kodo.
+                     V veliki večini namreč uporabljamo samo Creative Commons licence,
+                     zato bo HTML za te licence raje prikazalo programsko s pretvorbo iz licence URI oznake.
+                -->
+                <dcterms:license xsi:type="dcterms:URI">http://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+            </METS:xmlData>
+        </METS:mdWrap>
+    </METS:dmdSec>
+    <!-- v MODS shranimo podatke o COLLECTION iz dosedanjih sistory 3 metapodatkov za zbirke knjig
+        (na frontendu prikazano kot Zbirka). -->
+    <!-- id ima vedno sestavljen iz mods. in identifikatorja te entitete.
+         Vedno tudi atribut GROUPID z vrednostjo identifikatorja entitete
+    -->
+    <METS:dmdSec ID="mods.36113" GROUPID="36113">
+        <METS:mdWrap MDTYPE="MODS" MIMETYPE="text/xml">
+            <METS:xmlData>
+                <mods:relatedItem type="series">
+                    <mods:titleInfo>
+                        <mods:title>Zbirka</mods:title>
+                    </mods:titleInfo>
+                </mods:relatedItem>
+            </METS:xmlData>
+        </METS:mdWrap>
+    </METS:dmdSec>
+    <!-- Opcijski opisni metapodatki za datoteke -->
+    <METS:dmdSec ID="dmd-file22731">
+        <METS:mdWrap MDTYPE="DC">
+            <METS:xmlData>
+                <!-- Prikaže na frontednu kot Naslov -->
+                <dcterms:title>Prispevki za novejšo zgodovino, 2015, No. 3, Complex Parliaments in Transition: Central European Federations Facing Regime Change</dcterms:title>
+                <!-- Prikaže kot Opis -->
+                <dcterms:description>Master PDF file</dcterms:description>
+            </METS:xmlData>
+        </METS:mdWrap>
+    </METS:dmdSec>
+    <METS:dmdSec ID="dmd-file18649">
+        <METS:mdWrap MDTYPE="DC">
+            <METS:xmlData>
+                <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by/4.0/</dcterms:license>
+                <dcterms:creator>Pančur, Andrej</dcterms:creator>
+                <dcterms:description>Naslovna stran</dcterms:description>
+            </METS:xmlData>
+        </METS:mdWrap>
+    </METS:dmdSec>
+    <!-- METS XML nima najboljšega načina za zapis identifikatorja, ki je samo številka.
+         Ker ga lahko zapiše samo v atributu, ki ima data type ID, se ne more začeti s številko.
+         Zato za zapis SIstory ID v METS uporabljamo PREMIS:OBJECT opisne metapodatke.
+    -->
+    <!-- Tukaj so shranjeni glavni administrativni metapodatki te entitete, predvsem njegov identifikator -->
+    <!-- V id dodamo pri entitetah vedno vrednost entity, pri zbirkah pa collection -->
+    <METS:amdSec ID="entity">
+        <!-- v premis:object je najprej zapisan identifikator te entitete tako v relacijski bazi kot handle različica -->
+        <METS:techMD ID="premis.36113">
+            <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+                <METS:xmlData>
+                    <premis:object>
+                        <!-- trenutno sem spodaj prenesel tako SIstory ID kot URN (oziroma handle) -->
+                        <premis:objectIdentifier>
+                            <premis:objectIdentifierType>Repository Entity ID</premis:objectIdentifierType>
+                            <premis:objectIdentifierValue>36113</premis:objectIdentifierValue>
+                        </premis:objectIdentifier>
+                        <!-- lahko pa spodaj tudi http://hdl.handle.net/11686/36113 in 
+                         zato ni potrebno tega zapisati v obvezne DC metapodatke -->
+                        <premis:objectIdentifier>
+                            <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                            <premis:objectIdentifierValue>11686/36113</premis:objectIdentifierValue>
+                        </premis:objectIdentifier>
+                        <!-- Tukaj je nujno zapisano Entity za entitete in Collection za zbirke -->
+                        <premis:objectCategory>Entity</premis:objectCategory>
+                    </premis:object>
+                </METS:xmlData>
+            </METS:mdWrap>
+        </METS:techMD>
+        <!-- Za SIstory aplikacijo potrebni dodatni administrativni tehnični metapodki (use characteristics): 
+        XML shemo, ki jo sedaj dostopam lokalno, obvezno shrani na primernem mestu na SIstory!!!!! -->
+        <METS:techMD ID="entity.36113">
+            <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+                <METS:xmlData xmlns:entity="http://sistory.si/schema/sistory/v3/entity" xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+                    <!-- Nujno dodamo leto??? Jaz bi to odstranil!! -->
+                    <entity:description xml:lang="slv">Opisni podatki za slovensko stran, skupaj z morebitnimi <strong>html</strong>.</entity:description>
+                    <!-- sem se vstavi polje Stran publikacije  -->
+                    <entity:page>1</entity:page>
+                    <!-- Sem se vstavi polje URL umaknjene publikacije.
+                         Debata: Naredili bi dve možnosti:
+                           - isto kot sedaj za umaknjeno publikacijo, ki te potem, ko ti pove,
+                             da je digitalni objekt umaknjen, preusmeri na nov naslov;
+                           - če se v repositorij naloži novo verzijo digitalnega objekta,
+                             se pojavi popup, ki te seznani s tem in ti da na izbiro:
+                                - da pogledaš nov digitalni objekt (nato preusmeritev na njega);
+                                - da vseeno pogledaš to verzijo.
+                    -->
+                    <entity:removedTo></entity:removedTo>
+                    <!-- sem se vstavi podatke za tage: obvezno samo identifikacijska številka -->
+                    <entity:tag label="population censuses">2</entity:tag>
+                </METS:xmlData>
+            </METS:mdWrap>
+        </METS:techMD>
+    </METS:amdSec>
+    <!-- Seznam datotek za posamezno entiteto:
+         Za vsako datoteko se avtomatično zgenerirajo in zapišejo:
+         - v METS:file/@ID unikatni sistory identifikator za file id, ki je tudi sestavni del handle identifikatorja za datoteko
+         - v METS:file/@OWNERID ime datoteke
+         - v METS:file/@MIMETYPE dosedanji dc:format datoteke, ki se avtomatično zgenerira (ga lahko kasneje ročno popravimo)
+         - v METS:file/@SIZE velikost datoteke v bajtih (na spletni strani sistory publikacije podatek Velikost v MB)
+         - v METS:file/@CREATED datum in čas, ko smo naložili datoteko (ali preko admina, ali pa z uvozom)
+         Vpeljati moramo tudi checksum. Ko to storimo, se tudi ti podatki zapišejo tukaj v atribta:
+         - METS:file/@CHECKSUM
+         - METS:file/@CHECKSUMTYPE 
+         V METS:FLocat/@xlink:href se avtomatično zapiše lokacija, na kateri se nahaja datoteka v sistemu sistory.
+         Pri tem je obvezen atribut LOCTYPE. Za datoteke, ki imajo že sedaj handle identifikator je to seveda HANDLE.
+    -->
+    <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink">
+        <!-- Dodan thumbnail (sedaj v adminu Slika).
+             Ali ima smisel, da se sem avtomatično zapišejo tudi podatki o zgenerirani predlogledni sliki??
+             DEBATA!!
+             Seveda thumbnail nima enakih lasnosti kot ostale datoteke, naložene na sistory (tiste s handle)
+        -->
+        <METS:fileGrp USE="THUMB">
+            <!-- izmišljen primer za thumbnail -->
+            <METS:file ID="thumbnail" CREATED="2016-12-07T11:25:58">
+                <METS:FLocat LOCTYPE="URL" xlink:href="http://www.sistory.si/cdn/publikacije/36001-37000/36113/PNZ-2015-3-naslovnica.png"/>
+            </METS:file>
+        </METS:fileGrp>
+        <!-- Pod DEFAULT so shranjene vse preko admina naložene datoteke.
+             Te datoteke so prikazane tako kot sedaj
+        -->
+        <METS:fileGrp USE="DEFAULT">
+            <!-- Izmišljen primer za HTTP link: 
+                  NOVOST!! je v tem, da je lahko dodajamo poljubno število linkov, na katere lahko tudi vežemo opisne metapodatke.
+                  Od ostalih datotek, naloženh na sistory, se loči po tem, da ima samo povezavo na zunanjo lokacijo (URL oznaka):
+                  METS:FLocat[@LOCTYPE='URL']
+                  Njegov ID dodamo na roke: npr. external1, external2 itd.
+            -->
+            <!-- obvezno moramo spodaj dodati USE="EXTERNAL", da SIstory lahko ve, da je to zunanja povezava  -->
+            <METS:file ID="external1" USE="EXTERNAL" CREATED="2016-12-07T11:25:58">
+                <!-- možen dodaten USE atribute: Za razlog glej spodaj primer Videokode. -->
+                <METS:FLocat USE="HTTP" LOCTYPE="URL" xlink:href="http://ojs.inz.si/pnz/issue/view/8"/>
+            </METS:file>
+            <!-- DILEMA: Videokoda??? -->
+            <!-- Obvezno moramo spodaj dodati USE="EXTERNAL", da SIstory lahko ve, da je to zunanja povezava  -->
+            <METS:file ID="video1" USE="EXTERNAL">
+                <!-- dodamo USE atribut YOUTUBE, da sistory lahko ve, kako ga prikaže -->
+                <!-- V tem primeru damo tudi zgoraj pri linku dodaten USE -->
+                <METS:FLocat USE="YOUTUBE" LOCTYPE="URL" xlink:href="http://www.youtube.com/embed/6HvZKFT90zw"/>
+            </METS:file>
+            <!-- To je pa lep primer za PDF -->
+            <METS:file ID="file22731" OWNERID="PNZ-2015-3.pdf" MIMETYPE="application/pdf" CREATED="2016-12-07T11:25:58" SIZE="2338324" DMDID="dmd-file22731">
+                <METS:FLocat LOCTYPE="HANDLE" xlink:href="https://hdl.handle.net/11686/file22731"/>
+            </METS:file>
+        </METS:fileGrp>
+        <!-- Zunaj default skupine se lahko naredi posebna skupina.
+             Tukaj praviloma združimo večjo skupino datotek, ki skupaj sestavljajo (npr. spletna strana) en prikaz intelektualne entitete (glej npr. razlago https://www.loc.gov/standards/mets/METSOverview.html#filegrp ).
+             Na SIstory frontend so te datoteke prikazane znotraj accordion (ki je privzeto zaprt).
+             Ime tega accordion je vzeto iz METS:fileGrp/@USE (spodaj tako HTML)
+        -->
+        <METS:fileGrp USE="HTML">
+            <!-- Povezava na opcijske Dublin Core opisne metapodatke za to datoteko so na atributu @DMDID  -->
+            <METS:file ID="file18649" OWNERID="index.html" MIMETYPE="text/html" SIZE="100000" CREATED="2016-12-07T11:25:58" DMDID="dmd-file18649">
+                <METS:FLocat LOCTYPE="HANDLE" xlink:href="https://hdl.handle.net/11686/file18649"/>
+            </METS:file>
+            <METS:file ID="file18650" OWNERID="impressum.html" MIMETYPE="text/html" SIZE="100000" CREATED="2016-12-07T11:25:58">
+                <METS:FLocat LOCTYPE="HANDLE" xlink:href="https://hdl.handle.net/11686/file18650"/>
+            </METS:file>
+            <METS:file ID="file18651" OWNERID="teiHeader.html" MIMETYPE="text/html" SIZE="100000" CREATED="2016-12-07T11:25:58">
+                <METS:FLocat LOCTYPE="HANDLE" xlink:href="https://hdl.handle.net/11686/file18651"/>
+            </METS:file>
+            <METS:file ID="file18652" OWNERID="tocJournal.html" MIMETYPE="text/html" SIZE="100000" CREATED="2016-12-07T11:25:58">
+                <METS:FLocat LOCTYPE="HANDLE" xlink:href="https://hdl.handle.net/11686/file18652"/>
+            </METS:file>
+        </METS:fileGrp>
+    </METS:fileSec>
+    <!-- Spodaj je prikazana logična struktura tega objekta znotraj sistory modela digitalnega objekta.
+         Aplikcijski profil repozitorija upošteva le prvi METS:structMap, morebitnih ostalih ne upošteva.
+         Prvi METS:structMap ima lahko le sledeče TYPE atribute:
+           - primary (če sta entity ali collection tudi v relacijski bazi označena s tem Entity oziroma Collection type);
+           - dependent (če sta entity ali collection tudi v relacijski bazi označena s tem Entity oziroma Collection type).
+         Ta vrednost se koordinirano zapiše tako v tem mets.xml kot v relacijski bazi repozitorija.
+         Prvi METS:structMap mora tudi imeti atribut LABEL z imenom repozitorija (v našem primeru SIstory, kmalu tudi SIDIH).
+         Ta LABEL mora biti isti kot zgoraj ime //METS:metsHdr/METS:agent[™ROLE='DISSEMINATOR']/METS:name
+    -->
+    <!-- Z atributom TYPE je označeno, da ta mets.xml velja za primarno intelektualno datoteko.
+         Če je intelektualna entiteta v vlogi child publikacije, je označena kot dependent.
+    -->
+    <METS:structMap TYPE="primary" LABEL="SIstory" xmlns:xlink="http://www.w3.org/1999/xlink">
+        <!-- Primarne intelektualne entitete nujno izhajajo iz zbirke.
+             Dependent entitete pa vedno izhajajo iz njegove neposredne parent entitete
+        -->
+        <!-- Z atributom TYPE označimo, da primarna entiteta izhaja iz zbirke/collection -->
+        <METS:div TYPE="collection">
+            <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/menu76"/>
+            <!-- Entiteta te mets.xml datoteke. Z DMDID prikažemo, da ima ta entiteta nujne DC metapodatke.
+                 S TYPE prikažemo, da je to eniteta.  -->
+            <METS:div TYPE="entity" DMDID="dc.36113">
+                <!-- Povezave na datoteke te entitete -->
+                <METS:fptr FILEID="thumbnail"/>
+                <METS:fptr FILEID="external1"/>
+                <METS:fptr FILEID="file22731"/>
+                <METS:fptr FILEID="file18649"/>
+                <METS:fptr FILEID="file18650"/>
+                <METS:fptr FILEID="file18651"/>
+                <METS:fptr FILEID="file18652"/>
+                <!-- Child entitete (publikacije). 
+                     Če imajo te child entitete tudi svoje child entitete, slednjih tukaj ne prikažemo. -->
+                <!-- Dodani ORDER atributi iz CHILD_ORDER 
+                     Potrebujemo to informacijo ali zadostuje vrstni red? 
+                     Če aplikacija potrebuje ta podatek, ki je tudi zapisan v relacijsko bazo,
+                     potem priporočam, da se v XML zapiše samo pri parent publikaciji. 
+                     Se v adminu za ta primer doda še novo polje.
+                -->
+                <METS:div TYPE="entity" ORDER="0">
+                    <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/36114"/>
+                </METS:div>
+                <METS:div TYPE="entity" ORDER="1">
+                    <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/36115"/>
+                </METS:div>
+                <METS:div TYPE="entity" ORDER="2">
+                    <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/36116"/>
+                </METS:div>
+                <METS:div ORDER="3">
+                    <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/36117"/>
+                </METS:div>
+                <METS:div TYPE="entity" ORDER="4">
+                    <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/36118"/>
+                </METS:div>
+                <METS:div TYPE="entity" ORDER="5">
+                    <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/36119"/>
+                </METS:div>
+                <METS:div TYPE="entity" ORDER="6">
+                    <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/36120"/>
+                </METS:div>
+                <METS:div TYPE="entity" ORDER="7">
+                    <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/36121"/>
+                </METS:div>
+                <METS:div TYPE="entity" ORDER="8">
+                    <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/36122"/>
+                </METS:div>
+                <METS:div TYPE="entity" ORDER="9">
+                    <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/36123"/>
+                </METS:div>
+            </METS:div>
+        </METS:div>
+    </METS:structMap>
+    
+</METS:mets>

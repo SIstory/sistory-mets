@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema 
+  targetNamespace="http://sistory.si/schema/sistory/v2/menu" xmlns="http://sistory.si/schema/sistory/v2/menu"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:collection="http://sistory.si/schema/sistory/v3/collection"
+  xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+  elementFormDefault="qualified">
+  <xs:import namespace="http://purl.org/dc/terms/" schemaLocation="http://dublincore.org/schemas/xmls/qdc/dcterms.xsd"/>
+  <xs:import namespace="http://sistory.si/schema/sistory/v3/collection" schemaLocation="../../v3/collection.1.0.xsd"/>
+  <xs:element name="repository">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="collection"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="collection">
+    <xs:annotation>
+      <xs:documentation>Menu v SIstory</xs:documentation>
+    </xs:annotation>
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element ref="collection"/>
+        <xs:element ref="title"/>
+        <xs:element ref="dublincore" minOccurs="0"/>
+        <xs:element ref="menu" minOccurs="0"/>
+      </xs:choice>
+      <xs:attribute name="id" use="required" type="xs:integer">
+        <xs:annotation>
+          <xs:documentation>Števični identifikator iz relacijske baze SIstory</xs:documentation>
+        </xs:annotation>
+      </xs:attribute>
+      <xs:attribute name="publications" type="xs:NCName" default="true">
+        <xs:annotation>
+          <xs:documentation>Če menu vsebuje publikacije, je true</xs:documentation>
+        </xs:annotation>
+      </xs:attribute>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="title">
+    <xs:annotation>
+      <xs:documentation>Naslov menuja v navigaciji</xs:documentation>
+    </xs:annotation>
+    <xs:complexType>
+      <xs:simpleContent>
+        <xs:extension base="xs:string">
+          <xs:attribute name="lang" use="required">
+            <xs:annotation>
+              <xs:documentation>Monžni samo dve jezikovni verziji: slovenščina ali angleščina</xs:documentation>
+            </xs:annotation>
+            <xs:simpleType>
+              <xs:restriction base="xs:language">
+                <xs:enumeration value="slv"/>
+                <xs:enumeration value="eng"/>
+              </xs:restriction>
+            </xs:simpleType>
+          </xs:attribute>
+        </xs:extension>
+      </xs:simpleContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="dublincore">
+    <xs:annotation>
+      <xs:documentation>Vsebuje Dublin Core elemente z opisnimi metapodatki</xs:documentation>
+    </xs:annotation>
+    <xs:complexType>
+      <xs:sequence>
+        <xs:any namespace="http://purl.org/dc/terms/" maxOccurs="unbounded"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="menu">
+    <xs:annotation>
+      <xs:documentation>Vsebuje tehnične metapodatke za menuje v SIstory 3</xs:documentation>
+    </xs:annotation>
+    <xs:complexType>
+      <xs:sequence>
+        <xs:any namespace="http://sistory.si/schema/sistory/v3/collection" maxOccurs="unbounded"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

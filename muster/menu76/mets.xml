@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Zbirka/collection označena z atributom TYPE.
+     To ime je v repozitoriju rezervirano samo za ta namen in se ga za razliko od TYPE entity ne sme spreminjati.
+     Posledično je rezervirana tudi oznaka LABEL za to, da označimo, 
+     ali zbirka pripada zgornjemu (nav) ali spodnjemu (footer) menuju repozitorija.
+-->
+<!-- 
+    PROBLEM: Ker sedaj na novo potrebujemo tudi izhodiščni nav in footer zbirko, 
+             jima moramo dati nove identifikacijske številke za relacijsko bazo.
+             Številki 1 in 2 pa sta že zasedeni!
+             Zato morata dobiti trenutno najvišji novi številki!
+             Jaz pa ne vem, kateri številki sta to. Lahko tudi vzamem številki trenutno praznih map 
+             (npr. nekdanji številki menija Zgodovina in šola (4) za nav)!
+-->
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+    xmlns:xlink="http://www.w3.org/TR/xlink"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/" 
+    xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+    xmlns:premis="http://www.loc.gov/standards/premis/v1"
+    xmlns:mods="http://www.loc.gov/mods/v3"
+    TYPE="collection" 
+    LABEL="nav"
+    OBJID="http://hdl.handle.net/11686/36113"
+    xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd
+    http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd
+    http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd
+    http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+    <!-- Aktiven = @RECORDSTATUS='Active'
+         @CREATEDATE = kdaj smo prvič shanili podatke o zbirki
+         @LASTMODDATE = kdaj smo nazadnje shranili podatke o zbirki
+    -->
+    <METS:metsHdr CREATEDATE="2016-12-07T11:25:58" LASTMODDATE="2016-12-08T07:21:21" RECORDSTATUS="Active">
+        <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+            <METS:name>SIstory</METS:name>
+            <METS:note>http://sistory.si/</METS:note>
+        </METS:agent>
+        <METS:agent ROLE="CREATOR" ID="user.11" TYPE="INDIVIDUAL">
+            <METS:name>Pančur, Andrej</METS:name>
+        </METS:agent>
+    </METS:metsHdr>
+    <METS:dmdSec ID="dc.menu76" GROUPID="menu76">
+        <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+            <METS:xmlData>
+                <dcterms:title xml:lang="slv">Prispevki za novejšo zgodovino</dcterms:title>
+                <dcterms:title xml:lang="eng">Contributions to the contemporary history</dcterms:title>
+                <dcterms:title xml:lang="deu">Beiträge zur Zeitgeschichte</dcterms:title>
+                <dcterms:description xml:lang="slv">Prispevki za novejšo zgodovino je ena osrednjih slovenskih znanstvenih zgodovinopisnih revij, ki objavlja teme s področja novejše zgodovine (19. in 20. stoletje) srednje in jugovzhodne Evrope. Od leta 1960 revijo redno izdaja Inštitut za novejšo zgodovino (do leta 1986 je izhajala pod imenom Prispevki za zgodovino delavskega gibanja).</dcterms:description>
+                <dcterms:description xml:lang="eng">Contributions to Contemporary History is one of the central Slovenian scientific historiographic journals, dedicated to publishing articles from the field of contemporary history (the 19th and 20th century). It has been published regularly since 1960 by the Institute of Contemporary History, and until 1986 it was entitled Contributions to the History of the Workers' Movement.</dcterms:description>
+                <dcterms:publisher>Inštitut za novejšo zgodovino</dcterms:publisher>
+                <dcterms:language>slv</dcterms:language>
+                <dcterms:language>eng</dcterms:language>
+                <dcterms:type xsi:type="dcterms:DCMIType">Collection</dcterms:type>
+            </METS:xmlData>
+        </METS:mdWrap>
+    </METS:dmdSec>
+    <!-- Tukaj so shranjeni glavni administrativni metapodatki te zbirke, predvsem njegov identifikator -->
+    <!-- V id dodamo pri entitetah vedno vrednost entity, pri zbirkah pa collection -->
+    <METS:amdSec ID="collection">
+        <!-- v premis:object je najprej zapisan identifikator te entitete tako v relacijski bazi kot handle različica -->
+        <METS:techMD ID="premis.menu76">
+            <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+                <METS:xmlData>
+                    <premis:object>
+                        <premis:objectIdentifier>
+                            <premis:objectIdentifierType>Repository Collection ID</premis:objectIdentifierType>
+                            <premis:objectIdentifierValue>76</premis:objectIdentifierValue>
+                        </premis:objectIdentifier>
+                        <premis:objectIdentifier>
+                            <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                            <premis:objectIdentifierValue>11686/menu76</premis:objectIdentifierValue>
+                        </premis:objectIdentifier>
+                        <premis:objectCategory>Collection</premis:objectCategory>
+                    </premis:object>
+                </METS:xmlData>
+            </METS:mdWrap>
+        </METS:techMD>
+        <METS:techMD ID="collection.menu76">
+            <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="COLLECTION" MIMETYPE="text/xml">
+                <METS:xmlData xmlns:collection="http://sistory.si/schema/sistory/v3/collection" xsi:schemaLocation="http://sistory.si/schema/sistory/v3/collection ../../v3/collection.1.0.xsd">
+                    <collection:title xml:lang="slv">Prispevki za novejšo zgodovino</collection:title>
+                    <collection:title xml:lang="eng">Prispevki za novejšo zgodovino</collection:title>
+                    <collection:description xml:lang="slv"><p>Prispevki za novejšo zgodovino je ena osrednjih slovenskih znanstvenih zgodovinopisnih revij, ki objavlja teme s področja novejše zgodovine (19. in 20. stoletje) srednje in jugovzhodne Evrope. Od leta 1960 revijo redno izdaja Inštitut za novejšo zgodovino (v letih 1957-58 je izhajala pod imenom Letopis muzeja narodne osvoboditve LRS, med leti 1960-86 pod imenom Prispevki za zgodovino delavskega gibanja). Revija izide trikrat letno v slovenskem jeziku in v naslednjih tujih jezikih: angleščina, nemščina, srbščina, hrvaščina, bosanščina, italijanščina, slovaščina in češčina. Članki izhajajo z izvlečki v angleščini in slovenščini ter s povzetki v angleščini.</p><p>Revija seznanja javnost z novejšimi raziskavami slovenskega (in tudi tujega) zgodovinopisja s področja zgodovine srednje in jugovzhodne Evrope 19. in 20. stoletja (politična, gospodarska, kulturna in socialna zgodovina). V prvih letih izhajanja je bil poudarek sicer na zgodovini delavskega gibanja, nato pa se je vsebina razširila tudi na druge teme. Poleg znanstvenih člankov revija objavlja ocene in poročila o pomembnejših delih iz novejše zgodovine. Med ustaljenimi rubrikami je objavljanje historične dokumentacije, v kateri so s strokovnimi komentarji objavljani izbrani zgodovinski viri.</p></collection:description>
+                    <collection:description xml:lang="eng"><p>Prispevki za novejšo zgodovino [Contributions to Contemporary History] is one of the central Slovenian scientific historiographic journals, dedicated to publishing articles from the field of contemporary history (the 19th and 20th century). It has been published regularly since 1960 by the Institute of Contemporary History, and until 1986 it was entitled Contributions to the History of the Workers' Movement. The journal is published three times per year in Slovenian and in the following foreign languages: English, German, Serbian, Croatian, Bosnian, Italian, Slovak and Czech. The articles are all published with abstracts in English and Slovenian as well as summaries in English.</p></collection:description>
+                    <!-- Morebitna povezava na zunanjo zbirko -->
+                    <!-- Mogoče bi naredili podobno kot pri entitetah? -->
+                    <collection:externalCollection></collection:externalCollection>
+                    <collection:wholeContent>false</collection:wholeContent>
+                    <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                    <collection:searchResultsShow>Multiple per line</collection:searchResultsShow>
+                </METS:xmlData>
+            </METS:mdWrap>
+        </METS:techMD>
+    </METS:amdSec>
+    <!-- Označeno, da je ta zbirka dependent. 
+         Razen root zbirk za zgornji in spodnji menu, ki nista prikazani na portali, so vse ostale zbirke dependent -->
+    <!-- Z LABEL označimo ime repozitorija. tudi ostala pravila enaka kot pri entitetah. -->
+    <METS:structMap TYPE="dependent" LABEL="SIstory" xmlns:xlink="http://www.w3.org/1999/xlink">
+        <!-- če je dependent collection, je vedno najprej njegova neposredna parent zbirka -->
+        <METS:div TYPE="collection">
+            <!-- handle povezava na parent zbirko -->
+            <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/menu16"/>
+            <!-- Potem takoj sledi zbirke tega mets.xml -->
+            <!-- Z DMID in ADMID označeno, da je to ta zbirka -->
+            <!-- v ORDER atribut se zapiše Vrstni red iz trenutnega admina.
+                 Bi bilo verjetno bolj smiselno ta podatek zapisati samo v mets.xml parenta te zbirke?!
+            -->
+            <METS:div TYPE="collection" DMDID="dc.menu76" ADMID="collection" ORDER="60">
+                <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/menu76"/>
+                <!-- nato sledijo morebitne child zbirke -->
+            </METS:div>
+        </METS:div>
+    </METS:structMap>
+</METS:mets>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS_Profile 
+    xmlns:mets="http://www.loc.gov/METS/" 
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xmlns:xlink="http://www.w3.org/1999/xlink" 
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"  
+    xmlns="http://www.loc.gov/METS_Profile/v2"
+    xsi:schemaLocation="http://www.loc.gov/METS_Profile/v2 http://www.loc.gov/standards/mets/profile_docs/mets.profile.v2-0.xsd http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd"
+    STATUS="provisional" REGISTRATION="unregistered">
+    <URI LOCTYPE="URL" ASSIGNEDBY="local">http://sistory.si/schema/sistory/v3/sistory-mets-profile.1.0.xml</URI>
+    <title>SIstory METS Profile 1.0</title>
+    <abstract>Opis METS profila za implementacijo digitalnih objektov portala SIstory</abstract>
+    <date>2017-07-18T00:00:00</date>
+    <contact>
+        <address>Kongresni trg 1</address>
+        <email>andrej.pancur@inz.si</email>
+    </contact>
+    
+</METS_Profile>

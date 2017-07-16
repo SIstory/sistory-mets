@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repository xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://sistory.si/schema/sistory/v2/menu menu.xsd"
+ xmlns="http://sistory.si/schema/sistory/v2/menu" xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:collection="http://sistory.si/schema/sistory/v3/collection"
+ xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <collection id="4">
+      <!-- PROBLEM: Ker sedaj na novo potrebujemo tudi izhodiščni nav in footer zbirko, 
+                 jima moramo dati nove identifikacijske številke za relacijsko bazo.
+                 Številki 1 in 2 pa sta že zasedeni!
+                 Zato morata dobiti trenutno najvišji novi številki!
+                 Jaz pa ne vem, kateri številki sta to. Lahko tudi vzamem številki trenutno praznih map 
+                 (npr. nekdanji številki menija Zgodovina in šola (4) za nav)! -->
+      <collection id="211">
+         <title lang="slv">Neobjavljeno</title>
+      </collection>
+      <collection id="1">
+         <title lang="slv">Viri</title>
+      </collection>
+      <collection id="2">
+         <title lang="slv">Literatura</title>
+         <collection id="207"></collection>
+         <collection id="17" publications="true">
+            <title lang="slv">Monografije</title>
+            <title lang="eng">Monographs</title>
+         </collection>
+      </collection>
+      <collection id="122">
+         <title lang="slv">Dogodki</title>
+      </collection>
+   </collection>
+</repository>
