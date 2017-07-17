@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/37353"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2017-03-29T07:07:30"
+                 LASTMODDATE="2017-04-07T11:11:03"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.4" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.37353" GROUPID="37353">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="slv">Plenarno zasedanje - uvodni referat</dcterms:title>
+            <dcterms:title xml:lang="slv">Izobraževanje od ustnega izročila do visoke šole v koroški regiji. Oris razvoja šolstva med Peco in Pohorjem</dcterms:title>
+            <dcterms:alternative xml:lang="eng">Plenary session - Keynote lecture</dcterms:alternative>
+            <dcterms:alternative xml:lang="eng">Education from oral tradition to high school in Koroška region. Outline of the development of education between Peca and Pohorje</dcterms:alternative>
+            <dcterms:creator>Oder, Karla</dcterms:creator>
+            <dcterms:abstract xml:lang="slv">Na območju treh dolin, Mežiške, Mislinjske in dela Dravske, so bili do 19. stoletja le redki deležni formalnega izobraževanja v župnijski, meščanski, trški šoli ali trivialki. Znanja in vedenja o zemlji, vremenu, boleznih pri živalih in ljudeh, njihovem zdravljenju in zdravilnih učinkih zelišč so na mlajše generacije prenašali z ustnim izročilom. Prvi zapisi teh znanj so na Koroškem nastali v 18. stoletju. Prvi ohranjen pisni dokument o rabi slovenskega jezika v Mežiški dolini je Črnjanski rokopis iz 17. stoletja, stoletje mlajši Leški rokopis je primer za Koroško značilne bukovniške dejavnosti. Pismenost in tisk sta krepila gospodarski razvoj in znanstvene raziskave. Na Koroškem je pomembno izobraževalno vlogo opravljala leta 1851 ustanovljena slovenska založba Mohorjeva družba v Celovcu. V vse slovensko gibanje bralne kulture se je razvila Bralna značka, prvič podeljena leta 1961 na Prevaljah. 51 Raba slovenskega jezika v osnovnih šolah v 19. stoletju ni bila samoumevna. Pod vplivom germanizacije so prevladale utrakvistične šole, s prevladujočim nemškim jezikom. K temu so dodatno pripomogla tudi nemška društva Schulverein. Nemščino je po prvi vojni zamenja srbščina. Gospodarske in politične spremembe so vplivale na organiziranost šol in zaradi geografskega terena so za območje značilne številne podružnične osnovne šole, s specifičnim učnim procesom. Uvedba obveznega šolstva je tesno povezana z razvojem industrije, ki je za ustvarjanje vedno večjega kapitala potrebovala vse več in bolj izobražene delavce. Posamezniki so strokovna znanja pridobili na tujih višjih šolah in univerzah, a večina je bila priučenih delavcev. Vrzel so nekoliko zapolnili po letu 1920 z uvedbo meščanskih šol, v obdobju socializma pa s poklicnimi šolami in gimnazijo. Podjetja so organizirala interno izobraževanje ter podpirala program Ljudske univerze in fakultet v Mariboru in Ljubljani. Pomemben institut izobraževanja je štipendiranje, sprva v podporo posameznikom, v obdobju socializma pa skoraj slehernemu dijaku in študentu, kar je vplivalo na splošen dvig izobrazbe. Bivanje v dijaškem domu je omogočilo izobraževanje tudi najbolj oddaljenim. Neformalno izobraževanje je od druge polovice 19. stoletja potekalo v okviru različnih in številnih društev, ki so prirejala številna predavanja. V proces izobraževanja odraslih so se s predavanji in razstavami vključili učitelji, zdravniki in drugi izobraženci.</dcterms:abstract>
+            <dcterms:abstract xml:lang="eng">Until the 19th century in the area of three valleys, Meža, Mislinja and Drava, only few received formal education in parish, burgher and trivial schools. Knowledge about the Earth, weather, diseases in animals and humans, their treatment and healing herbs was passed on to younger generations by oral tradition. In Koroška region the first records of this knowledge arose in the 18th century. The oldest preserved written document about the use of Slovenian language in the Meža Valley is the Črna manuscript (“Črnjanski rokopis”) from the 17th century. A century younger Leše manuscript (“Leški rokopis”) is an example of ‘Bukovništvo’ in Koroška region. Literacy and printing strengthened the economic development and scientific research. The in 1851 established Slovenian publishing house Mohor’s Society (Mohorjeva družba) in Klagenfurt had an important educational role in Koroška region. The Reading badge (Bralna značka) developed into an all Slovenian movement of reading culture. It was first presented in Prevalje in 1961. The use of Slovenian language in primary schools in the 19th century was not self-evident. Under the influence of Germanisation the utraquist schools predominated, with the dominant German language. Additionally this was aided by the German Society Schulverein. After World War I German language was replaced with Serbian. Economic and political changes affected the organization of schools. Due to the geographical terrain numerous branch schools with a specific learning process are characteristic of the area. The introduction of compulsory education is closely linked to the development of industry, which needed more and more educated workers for creating more capital. Individuals gained expert knowledge at foreign colleges and universities, but most of them were trained workers. The gap was filled in after 1920, with the introduction of burgher schools, and in the period of socialism with vocational and grammar schools. Companies organized private education and supported the program of Aduld education institutes and faculties in Maribor and Ljubljana. An important part of education are scholarships, initially to support individuals, but in the period of state-socialism to support almost every student, which resulted in a general increase of education. Staying in a dormitory enabled also the education of the most faraway students. From the second half of the 19th century informal education took place in various and numerous associations, which have hosted a number of lectures. Teachers, doctors and other intellectuals involved themselves in the process of adult education, with lectures and exhibitions.</dcterms:abstract>
+            <dcterms:subject xml:lang="slv">zgodovina izobraževanja</dcterms:subject>
+            <dcterms:subject xml:lang="slv">osnovne šole</dcterms:subject>
+            <dcterms:subject xml:lang="slv">meščanske šole</dcterms:subject>
+            <dcterms:subject xml:lang="slv">Gimnazija Ravne</dcterms:subject>
+            <dcterms:subject xml:lang="slv">štipendiranje</dcterms:subject>
+            <dcterms:subject xml:lang="eng">scholarships</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Grammar school Ravne</dcterms:subject>
+            <dcterms:subject xml:lang="eng">burgher school</dcterms:subject>
+            <dcterms:subject xml:lang="eng">primary school</dcterms:subject>
+            <dcterms:subject xml:lang="eng">history of education</dcterms:subject>
+            <dcterms:publisher>Zveza zgodovinskih društev Slovenije, Ljubljana</dcterms:publisher>
+            <dcterms:publisher>Inštitut za novejšo zgodovino, Ljubljana</dcterms:publisher>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2016-09-28</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">MovingImage</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">slv</dcterms:language>
+            <dcterms:language xsi:type="dcterms:ISO639-3">eng</dcterms:language>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.37353">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>37353</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/37353</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.37353">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Na območju treh dolin,
+                                    Mežiške, Mislinjske in dela Dravske, so bili do 19. stoletja le
+                                    redki deležni formalnega izobraževanja v župnijski, meščanski,
+                                    trški šoli ali trivialki. Znanja in vedenja o zemlji, vremenu,
+                                    boleznih pri živalih in ljudeh, njihovem zdravljenju in
+                                    zdravilnih učinkih zelišč so na mlajše generacije prenašali z
+                                    ustnim izročilom. Prvi zapisi teh znanj so na Koroškem nastali v
+                                    18. stoletju. Prvi ohranjen pisni dokument o rabi slovenskega
+                                    jezika v Mežiški dolini je Črnjanski rokopis iz 17. stoletja,
+                                    stoletje mlajši Leški rokopis je primer za Koroško značilne
+                                    bukovniške dejavnosti. Pismenost in tisk sta krepila gospodarski
+                                    razvoj in znanstvene raziskave. Na Koroškem je pomembno
+                                    izobraževalno vlogo opravljala leta 1851 ustanovljena slovenska
+                                    založba Mohorjeva družba v Celovcu. V vse slovensko gibanje
+                                    bralne kulture se je razvila Bralna značka, prvič podeljena leta
+                                    1961 na Prevaljah. 51 Raba slovenskega jezika v osnovnih šolah v
+                                    19. stoletju ni bila samoumevna. Pod vplivom germanizacije so
+                                    prevladale utrakvistične šole, s prevladujočim nemškim jezikom.
+                                    K temu so dodatno pripomogla tudi nemška društva Schulverein.
+                                    Nemščino je po prvi vojni zamenja srbščina. Gospodarske in
+                                    politične spremembe so vplivale na organiziranost šol in zaradi
+                                    geografskega terena so za območje značilne številne podružnične
+                                    osnovne šole, s specifičnim učnim procesom. Uvedba obveznega
+                                    šolstva je tesno povezana z razvojem industrije, ki je za
+                                    ustvarjanje vedno večjega kapitala potrebovala vse več in bolj
+                                    izobražene delavce. Posamezniki so strokovna znanja pridobili na
+                                    tujih višjih šolah in univerzah, a večina je bila priučenih
+                                    delavcev. Vrzel so nekoliko zapolnili po letu 1920 z uvedbo
+                                    meščanskih šol, v obdobju socializma pa s poklicnimi šolami in
+                                    gimnazijo. Podjetja so organizirala interno izobraževanje ter
+                                    podpirala program Ljudske univerze in fakultet v Mariboru in
+                                    Ljubljani. Pomemben institut izobraževanja je štipendiranje,
+                                    sprva v podporo posameznikom, v obdobju socializma pa skoraj
+                                    slehernemu dijaku in študentu, kar je vplivalo na splošen dvig
+                                    izobrazbe. Bivanje v dijaškem domu je omogočilo izobraževanje
+                                    tudi najbolj oddaljenim. Neformalno izobraževanje je od druge
+                                    polovice 19. stoletja potekalo v okviru različnih in številnih
+                                    društev, ki so prirejala številna predavanja. V proces
+                                    izobraževanja odraslih so se s predavanji in razstavami
+                                    vključili učitelji, zdravniki in drugi izobraženci. </entity:description>
+               <entity:description xml:lang="eng"> Until the 19th century
+                                    in the area of three valleys, Meža, Mislinja and Drava, only few
+                                    received formal education in parish, burgher and trivial
+                                    schools. Knowledge about the Earth, weather, diseases in animals
+                                    and humans, their treatment and healing herbs was passed on to
+                                    younger generations by oral tradition. In Koroška region the
+                                    first records of this knowledge arose in the 18th century. The
+                                    oldest preserved written document about the use of Slovenian
+                                    language in the Meža Valley is the Črna manuscript (“Črnjanski
+                                    rokopis”) from the 17th century. A century younger Leše
+                                    manuscript (“Leški rokopis”) is an example of ‘Bukovništvo’ in
+                                    Koroška region. Literacy and printing strengthened the economic
+                                    development and scientific research. The in 1851 established
+                                    Slovenian publishing house Mohor’s Society (Mohorjeva družba) in
+                                    Klagenfurt had an important educational role in Koroška region.
+                                    The Reading badge (Bralna značka) developed into an all
+                                    Slovenian movement of reading culture. It was first presented in
+                                    Prevalje in 1961. The use of Slovenian language in primary
+                                    schools in the 19th century was not self-evident. Under the
+                                    influence of Germanisation the utraquist schools predominated,
+                                    with the dominant German language. Additionally this was aided
+                                    by the German Society Schulverein. After World War I German
+                                    language was replaced with Serbian. Economic and political
+                                    changes affected the organization of schools. Due to the
+                                    geographical terrain numerous branch schools with a specific
+                                    learning process are characteristic of the area. The
+                                    introduction of compulsory education is closely linked to the
+                                    development of industry, which needed more and more educated
+                                    workers for creating more capital. Individuals gained expert
+                                    knowledge at foreign colleges and universities, but most of them
+                                    were trained workers. The gap was filled in after 1920, with the
+                                    introduction of burgher schools, and in the period of socialism
+                                    with vocational and grammar schools. Companies organized private
+                                    education and supported the program of Aduld education
+                                    institutes and faculties in Maribor and Ljubljana. An important
+                                    part of education are scholarships, initially to support
+                                    individuals, but in the period of state-socialism to support
+                                    almost every student, which resulted in a general increase of
+                                    education. Staying in a dormitory enabled also the education of
+                                    the most faraway students. From the second half of the 19th
+                                    century informal education took place in various and numerous
+                                    associations, which have hosted a number of lectures. Teachers,
+                                    doctors and other intellectuals involved themselves in the
+                                    process of adult education, with lectures and exhibitions.
+                                </entity:description>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="video1" USE="EXTERNAL">
+            <METS:FLocat USE="YOUTUBE"
+                         LOCTYPE="URL"
+                         xlink:href="https://www.youtube.com/embed/rWdxtPvLsiU"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37351"/>
+         <METS:div TYPE="entity" DMDID="dc.37353" ADMID="premis.37353 entity.37353">
+            <METS:fptr FILEID="video1"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/37693"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2017-05-31T09:11:44"
+                 LASTMODDATE="2017-06-16T10:53:58"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.37693" GROUPID="37693">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="eng">The importance of Teachers Association in the establishment of pedagogical museum in Prague</dcterms:title>
+            <dcterms:alternative xml:lang="ces">Význam Ústředního spolku jednot učitelských při vzniku pražského pedagogického muzea</dcterms:alternative>
+            <dcterms:creator>Šimek, Jan</dcterms:creator>
+            <dcterms:description xml:lang="eng">In 1880 the Central Association of Teachers Unity (CAoTU) which unified other regional Unity Czech teachers of elementary schools was established. The activities of this Association was considerably wide, the range of questions discussed at the annual general meetings included matters from questions concerning material provision of teachers (in the last decades of the 19th century it was a significant part of the agenda of Association) to the practical issues of teaching methods. This contribution briefly introduces the CAoTU itself, but primarily will focus on the problem of formation of Czech pedagogical museum and the first decades of its existence: the founding of pedagogical museum was one of the most discussed topics in the Central Association of Teachers Unity. The idea of establishing of a museum was partially realized in 1890, when a Permanent exhibition of teaching aids (not directly the museum which was originally intended) was opened. This contribution will analyse gradual growth of Permanent school exhibition and its financial difficulties; sources on this issue are deposited partly in the archive of The National pedagogical museum in Prague, partly in the archive of Teachers Trade Union, where the materials of the history of the Central Association of Teachers Unity are deposited. The formation of the Permanent school exhibition is inseparably connected with Josef Klika (1857- 1906), an outstanding teacher and active organizer and leader of Prague teachers, who was also engaged in the Central Association of Teachers Unity. Therefore this contribution cannot omit this extraordinary personality of the movement of Czech teachers in the last decades of the 19th century. In fact, Josef Klika is a good example to demonstrate, how the strong individuality was able to reach through the Teachers Association the realization of many extraordinary projects, e. g. the founding of the Permanent exhibition /1890/, the founding of Comenius Museum /1892/ or the publishing of Encyclopedia of Education, the greatest scientific and editorial project of Czech teachers in the 19th century (the inheritance of Josef Klika is a part of collections of The National pedagogical museum in Prague).</dcterms:description>
+            <dcterms:description xml:lang="ces">Roku 1880 byl založen Ústřední spolek jednot učitelských, který sdružoval jednotlivé regionální jednoty českých učitelů nižších stupňů škol. Činnost tohoto spolku byla značně široká, na každoročních valných hromadách se řešily otázky od hmotného zabezpečení učitelů (to tvořilo v posledních desetiletích 19. století značnou část agendy) až po praktické otázky metod vyučování. Příspěvek stručně představí samotný ÚSJU, především se ale bude koncentrovat na otázku vzniku pedagogického muzea, kterou spolek řešil už od svého vzniku. Myšlenku se podařilo částečně realizovat až roku 1890, kdy byla zpřístupněna stálá výstava školních pomůcek (nikoliv přímo školní muzeum, jak bylo původně zamýšleno). Vhled do prvních let existence Stálé výstavy školské - spojených s postupným nárůstem vystavovaných předmětů i potížemi s finančním zabezpečením - můžeme poznat na základě analýzy pramenů uložených v archivu Národního pedagogického muzea v Praze a částečně i Všeodborového archivu, kde jsou uloženy materiály k dějinám Ústředního spolku jednot učitelských. Vznik stálé výstavy školské je neodmyslitelně spojen s osobností Josefa Kliky (1857-1906), vynikajícího pedagoga a zároveň organizátora, který se angažoval ve vedoucích funkcích Pražského učitelského spolku i Ústředního spolku jednot učitelských (byť nikdy nebyl přímo jeho předsedou). Příspěvek proto nemůže pominout zmínku o této mimořádné osobnosti českého učitelského hnutí konce 19. století. Právě Josef Klika je totiž názornou ukázkou, jak mohla výrazná individualita prostřednictvím učitelské organizace realizovat řadu pozoruhodných projektů, např. založení Stálé výstavy školské /1890/, založení Komenského muzea /1892/ či vydávání Pedagogické encyklopedie, největšího vědeckého a edičního počinu českého učitelstva konce 19. století (pozůstalost Josefa Kliky, který je dnes prakticky zapomenut, je součástí sbírek Národního pedagogického muzea v Praze).</dcterms:description>
+            <dcterms:subject xml:lang="slv">zgodovina</dcterms:subject>
+            <dcterms:subject xml:lang="slv">šolstvo</dcterms:subject>
+            <dcterms:subject xml:lang="slv">muzej</dcterms:subject>
+            <dcterms:subject xml:lang="eng">history</dcterms:subject>
+            <dcterms:subject xml:lang="eng">school system</dcterms:subject>
+            <dcterms:subject xml:lang="eng">museum</dcterms:subject>
+            <dcterms:publisher>Slovenski šolski muzej, Ljubljana</dcterms:publisher>
+            <dcterms:publisher>Zveza zgodovinskih društev Slovenije, Ljubljana</dcterms:publisher>
+            <dcterms:publisher>ICOM Slovenija, Celje</dcterms:publisher>
+            <dcterms:publisher>Inštitut za novejšo zgodovino, Ljubljana</dcterms:publisher>
+            <dcterms:contributor>Uwe Krebs (moderator)</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2013-06-28</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">MovingImage</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">eng</dcterms:language>
+            <dcterms:license xsi:type="dcterms:URI">http://creativecommons.org/licenses/by-nc-nd/2.5/si/</dcterms:license>
+            <dcterms:license xml:lang="slv">Priznanje avtorstva-Nekomercialo-Brez predelav 2.5 Slovenija (CC BY-NC-ND 2.5 SI)</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.37693">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>37693</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/37693</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.37693">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="eng">
+                  <p xmlns="http://sistory.si/schema/sistory/v3/entity">In 1880 the Central Association of Teachers Unity (CAoTU)
+                                        which unified other regional Unity Czech teachers of
+                                        elementary schools was established. The activities of this
+                                        Association was considerably wide, the range of questions
+                                        discussed at the annual general meetings included matters
+                                        from questions concerning material provision of teachers (in
+                                        the last decades of the 19th century it was a significant
+                                        part of the agenda of Association) to the practical issues
+                                        of teaching methods. This contribution briefly introduces
+                                        the CAoTU itself, but primarily will focus on the problem of
+                                        formation of Czech pedagogical museum and the first decades
+                                        of its existence: the founding of pedagogical museum was one
+                                        of the most discussed topics in the Central Association of
+                                        Teachers Unity. The idea of establishing of a museum was
+                                        partially realized in 1890, when a Permanent exhibition of
+                                        teaching aids (not directly the museum which was originally
+                                        intended) was opened. This contribution will analyse gradual
+                                        growth of Permanent school exhibition and its financial
+                                        difficulties; sources on this issue are deposited partly in
+                                        the archive of The National pedagogical museum in Prague,
+                                        partly in the archive of Teachers Trade Union, where the
+                                        materials of the history of the Central Association of
+                                        Teachers Unity are deposited. The formation of the Permanent
+                                        school exhibition is inseparably connected with Josef Klika
+                                        (1857- 1906), an outstanding teacher and active organizer
+                                        and leader of Prague teachers, who was also engaged in the
+                                        Central Association of Teachers Unity. Therefore this
+                                        contribution cannot omit this extraordinary personality of
+                                        the movement of Czech teachers in the last decades of the
+                                        19th century. In fact, Josef Klika is a good example to
+                                        demonstrate, how the strong individuality was able to reach
+                                        through the Teachers Association the realization of many
+                                        extraordinary projects, e. g. the founding of the Permanent
+                                        exhibition /1890/, the founding of Comenius Museum /1892/ or
+                                        the publishing of Encyclopedia of Education, the greatest
+                                        scientific and editorial project of Czech teachers in the
+                                        19th century (the inheritance of Josef Klika is a part of
+                                        collections of The National pedagogical museum in
+                                        Prague).</p>
+               </entity:description>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="video1" USE="EXTERNAL">
+            <METS:FLocat USE="YOUTUBE"
+                         LOCTYPE="URL"
+                         xlink:href="//www.youtube.com/embed/T41eVxBHwMg"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37690"/>
+         <METS:div TYPE="entity" DMDID="dc.37693" ADMID="premis.37693 entity.37693">
+            <METS:fptr FILEID="video1"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

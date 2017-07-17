@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/37252"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2017-03-13T09:11:20"
+                 LASTMODDATE="2017-03-14T13:48:28"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.81" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.37252" GROUPID="37252">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="eng">Consequences and legacies of the desert borders of Jordan, 1921–1965</dcterms:title>
+            <dcterms:alternative xml:lang="slv">Posledice in dediščina puščavskih meja v Jordaniji, 1921–1965</dcterms:alternative>
+            <dcterms:creator>Halsnes, Magnus</dcterms:creator>
+            <dcterms:subject xml:lang="slv">Jordanija</dcterms:subject>
+            <dcterms:subject xml:lang="slv">puščavska meja</dcterms:subject>
+            <dcterms:subject xml:lang="slv">1921–1965</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Jordan</dcterms:subject>
+            <dcterms:subject xml:lang="eng">desert borders</dcterms:subject>
+            <dcterms:subject xml:lang="eng">1921–1965</dcterms:subject>
+            <dcterms:publisher>Inštitut za novejšo zgodovino, Ljubljana</dcterms:publisher>
+            <dcterms:publisher>Oddelek za zgodovino Filozofske fakultete Univerze v Ljubljani, Ljubljana</dcterms:publisher>
+            <dcterms:contributor>Marko Zajc</dcterms:contributor>
+            <dcterms:contributor>Jernej Kosi</dcterms:contributor>
+            <dcterms:contributor>Zdenko Čepič</dcterms:contributor>
+            <dcterms:contributor>Neja Blaj Hribar</dcterms:contributor>
+            <dcterms:contributor>Irina Marin</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:Period">start=24.11.2016; end=26.11.2016; name=; scheme=; </dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">MovingImage</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">eng</dcterms:language>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.37252">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>37252</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/37252</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.37252">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Prispevek bo obravnaval
+                                    zgodovinski razvoj političnih in upravnih puščavskih meja
+                                    Jordanije (Transjordanije), pri čemer se bo osredotočil zlasti
+                                    na zgodovinsko mejo med današnjima državama Jordanijo in Savdsko
+                                    Arabijo. Tema prispevka so dolgoročne posledice ustvarjanja
+                                    političnih mejnih črt globoko v redko naseljenem nomadskem
+                                    puščavskem prostoru. Preden je bil dosežen dogovor je določanje
+                                    meja ad hoc štirideset let povzročalo dvome in nepravilnosti v
+                                    nomadski puščavi. V medvojnem obdobju na Bližnjem vzhodu se je
+                                    sirska puščava spremenila iz nestalnega in spremenljivega
+                                    mejnega območja na robu Osmanskega cesarstva v obmejno pokrajino
+                                    z določenimi mejami, razdeljeno med štiri nove različne
+                                    nacionalne države, ki so imele vsaka svoj pristop do puščavske
+                                    pokrajine in njenih nomadskih prebivalcev. Prispevek pa
+                                    zagovarja tezo, da se je dediščina "puščavskih in setvenih
+                                    površin" – stara spremenljiva meja med nomadskim in stalno
+                                    naseljenim prostorom na Bližnjem vzhodu – ohranila tudi pri
+                                    upravnih delitvah v času nove države Transjordanije. </entity:description>
+               <entity:description xml:lang="eng"> This paper will discuss
+                                    the historical development of the political and administrative
+                                    desert borders of (Trans)Jordan, especially focusing on the
+                                    historical border between the present day states of Jordan and
+                                    Saudi Arabia. The long-term consequences of creating political
+                                    borderlines deep into a sparsely populated and nomadic desert
+                                    space constitute the topic of this paper. The ad hoc bordering
+                                    process produced uncertainties and inaccuracies in the nomadic
+                                    desert for 40 years before a solution was reached. During the
+                                    interwar years in the Middle East, the Syrian desert was
+                                    transformed from a fluid and fluctuating frontier on the edge of
+                                    the Ottoman Empire to a borderland region with fixed borderlines
+                                    divided between four new and different nation states, each with
+                                    their own approach to both the desert region and its nomadic
+                                    inhabitants. The paper argues, however, that the legacy of ‘the
+                                    desert and the sown’, the old fluctuating frontier between the
+                                    nomadic and sedentary space in the Middle East, was continued
+                                    through the administrative divisions of the new state of
+                                    Transjordan during the mandate period. </entity:description>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="video1" USE="EXTERNAL">
+            <METS:FLocat USE="YOUTUBE"
+                         LOCTYPE="URL"
+                         xlink:href="https://www.youtube.com/embed/K93YYqnMPNg"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37178"/>
+         <METS:div TYPE="entity" DMDID="dc.37252" ADMID="premis.37252 entity.37252">
+            <METS:fptr FILEID="video1"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

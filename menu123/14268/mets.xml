@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/14268"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2012-11-30T11:46:15"
+                 LASTMODDATE="2017-02-09T10:44:48"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.14268" GROUPID="14268">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="slv">Represija v Prekmurju med drugo svetovno vojno in v povojnem obdobju – primer internacije v Sárvár in Hrastovec</dcterms:title>
+            <dcterms:alternative xml:lang="eng">Repression in Prekmurje During World War II and After the War: an Example of Internment into Sárvár and Hrastovec</dcterms:alternative>
+            <dcterms:creator>Kovács, Attila</dcterms:creator>
+            <dcterms:abstract xml:lang="eng">In Prekmurje, one of the most diverse Slovenian regions in terms of nationalities and religions, the ethnic as well as religious structure was changed bythe violence of World War II and the post-war period. Due to the holocaust the Prekmurje Jews were virtually gone, and because of the forced relocation in the post-war period the local German minority also disappeared. The wartime and post-war developments also affected the Prekmurje Slovenians and Hungarians.The interwar repression in the Prekmurje region had mostly been carried outduring the period of the Hungarian authorities, as the soldiers of the Red Army had liberated the territory by the river Mura a month before World War II ended. During the rule of the Hungarian authorities, the colonists from the Slovenian littoral (Primorska), who had settled in Prekmurje after World War I, were, besides the afore mentioned Jews, the primary target of the repression. However,the post-war period was also characterised by the repression of the communist authorities, involving, besides the deportation of the Germans, measures agains ta part of the Hungarian minority. While during World War II the victims of repression were Slovenians from the Primorska, region whom the Hungarian occupiers interned into the Sárvár camp, the post-war authorities in Prekmurje resorted to repression against Hungarians and interned them into the camp at the Hrastovec castle (near Lenart). These are the most characteristic examplesof wartime and post-war repression against Slovenians and Hungarians in Prekmurje. In the period between both world wars the Yugoslav authorities populated the hamlets with predominantly Hungarian population in the vicinity of Dolnja Lendava (today Lendava-Lendva) with Slovenians and some Croatians from Primorska, Istria, the interior of Slovenia, and also from Prekmurje, who settled the expropriated lands of former landowning nobles. After the annexation of Prekmurje to Hungary in 1941, the Hungarian authorities interned these colonists, who had not lived in the territory of the Kingdom of Hungary before 31 October 1918, into the Sárvár camp in Vas County. Unlike the colonists from Bačka and Baranja, who had already been interned in 1941, the colonists from Prekmurje were taken there in 1942. It was in the middle of 1941 that the Hungarian Ministry of Foreign Affairs contacted the Italian Foreign Ministry with the aim of extraditing these colonists to Italy as the state of their origin. However, as the negotiations were not »successful«, on 22 and 23 June 1942 the Hungarian authorities interned the colonists – whole families from Primorska and Istria, according to certain sources 587 people, and according to others 589– to the Sárvár camp. Of these 35 people died: approximately one third (23 internees) in the camp (due to hunger, cold, disease), and 12 of them in the rest of Hungary and Independent State of Croatia. Soon after World War II – on 9 and 10 July 1945 – the Yugoslav (Slovenian) communist authorities interned 558 Hungarians from the Prekmurje region into the Hrastovec concentration camp, once again whole families. According to the opinion of many Prekmurje Hungarians, especially internees, this was a retaliatory measure of the Yugoslav (Slovenian) authorities for the internment of the colonists into Sárvár. After three weeks of internment most of those who were capable to work were taken into the Sterntal camp (Strnišče pri Ptuju, today Kidričevo). Due to a breakout of typhus in Hrastovec, 31 children were sent home. The remaining Hungarian internees from Prekmurje (those located in Hrastovec as well as those in Sterntal) could return home in the end of September. The deputy mayor of Budapest at the time, Kővágó (Küronya) József, hailing from Lendava on his mother’s side, played an instrumental role in their release. On the basis of his information the Hungarian Ministry of Foreign Affairs intervened, and this led to the intervention of the Yugoslav authorities. It turned out that neither Belgrade nor Ljubljana or Maribor had been informed about the internment of the Prekmurje Hungarians; so probably it was a local action. The precise number of Hungarians who died during internment or because of it is not yet known, but according to the research carried out among the families of the internees around ten of them died.</dcterms:abstract>
+            <dcterms:abstract xml:lang="slv">V Prekmurju, eni od narodnostno in religiozno najbolj pestrih pokrajin Slovenije,je represija med 2. svetovno vojno in po njej med drugim povzročila, da se je tako etnična kot verska podoba pokrajine delno spremenila. Zaradi holokavsta prekmurskega judovstva skorajda ni bilo več, zaradi nasilne izselitve v povojnem obdobju pa je izginila tudi tamkajšnja nemška manjšina. Dogajanja medvojno in po njej pa so imela posledice tudi na prekmurske Slovence in Madžare.Medvojna represija v Prekmurju se v glavnem veže na obdobje madžarske oblasti, saj so vojaki Rdeče armade osvobodili pokrajino ob Muri mesec dni pred koncem 2. svetovne vojne. V času madžarske oblasti so bili, poleg že omenjenih Judov, najmočneje na udaru primorski kolonisti. Poleg izgona Nemcevpa je povojno obdobje zaznamovala tudi represija nove komunistične oblasti nad delom madžarske manjšine. Ker bo v sklopu konference predstavljena represija nad Judi in Nemci na Slovenskem, se bom v razpravi osredotočil le na represijo nad slovenskim in madžarskim življem v Prekmurju, oz. na internacijo primorskih Slovencev v Sárvár in pripadnikov madžarske manjšine v taborišče Hrastovec, kot na dogodka, ki sta med Slovenci in Madžari v Prekmurju najmočneje označevala medvojno in povojno represijo.V obdobju med obema vojnama so v naselja s pretežno madžarskim prebivalstvom v okolici Dolnje Lendave (danes Lendava-Lendva) jugoslovanske oblasti na razlaščeno veleposestniško zemljo naselile predvsem Slovence in tudi nekaj Hrvatov s Primorske, iz Istre, notranjosti Slovenije in tudi Prekmurja. Po priključitvi Prekmurja k Madžarski leta 1941 so madžarske oblasti koloniste, ki pred 31. oktobrom 1918 niso živeli na področju Kraljevine Madžarske, internirali v taborišče Sárvár v Železni županiji. Za razliko od kolonistov iz Bačke in Baranje, ki so jih internirali že leta 1941, so koloniste iz Prekmurja tja odpeljali leta 1942. Madžarsko zunanje ministrstvo je namreč sredi leta 1941 navezalo stike z italijanskim zunanjim ministrstvom glede izročitve kolonistov Italiji kot državi, iz katere so prihajali. Ker pogajanja niso bila »uspešna«, so madžarske oblasti koloniste s Primorske in iz Istre 22. in 23. junija 1942 internirali v taborišče Sárvár, in to cele družine, po nekaterih podatkih 587 oseb, po drugih 589.Od teh je umrlo 35 oseb, približno ena tretjina (23 internirancev) v taborišču (zaradi lakote, mraza, bolezni), v drugih krajih Madžarske in NDH pa 12 oseb. Kmalu po koncu 2. svetovne vojne, 9. in 10. julija 1945, je jugoslovanska (slovenska) komunistična oblast v koncentracijsko taborišče Hrastovec internirala 558 prekmurskih Madžarov, tudi v tem primeru celotne družine. Po mnenju številnih prekmurskih Madžarov, predvsem internirancev, je bila to povračilna akcija jugoslovanskih (slovenskih) oblasti zaradi internacije kolonistov v Sárvar. Po treh tednih internacije so predvsem za delo sposobne prepeljali v taborišče Sterntal (Strnišče pri Ptuju). Konec julija so zaradi tifusa, ki je izbruhnil v taborišču Hrastovec, domov poslali 31 otrok. Ostali internirani prekmurski Madžari, tako tisti, ki so bili v Hrastovcu, kakor tudi tisti v Sterntalu, pa so domovodšli konec septembra. Pri njihovi izpustitvi je zelo pomembno vlogo odigral tedanji podžupan Budimpešte Kővágó (Küronya) József, ki je po mamini strani imel lendavske korenine. Na podlagi njegovih podatkov je madžarsko zunanje ministrstvo interveniralo, kar je privedlo do posredovanja jugoslovanskih oblasti. Izkazalo se je, da o internaciji prekmurskih Madžarov niso bili seznanjeni ne v Beogradu, ne v Ljubljani in ne v Mariboru in je verjetno šlo za lokalno akcijo. Natančno število umrlih Madžarov v internaciji oz. zaradi posledic internacije za enkrat še ni znano, na podlagi raziskav med družinami interniranih pa jih je bilo kakšnih deset.</dcterms:abstract>
+            <dcterms:publisher>Inštitut za novejšo zgodovino/Institute of Contemporary History, Ljubljana</dcterms:publisher>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2012-11-07</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">MovingImage</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">slv</dcterms:language>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.14268">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>14268</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/14268</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.14268">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="slv">
+                  <p xmlns="http://sistory.si/schema/sistory/v3/entity">V Prekmurju, eni od narodnostno in religiozno najbolj pestrih
+                                        pokrajin Slovenije,je represija med 2. svetovno vojno in po
+                                        njej med drugim povzročila, da se je tako etnična kot verska
+                                        podoba pokrajine delno spremenila. Zaradi holokavsta
+                                        prekmurskega judovstva skorajda ni bilo več, zaradi nasilne
+                                        izselitve v povojnem obdobju pa je izginila tudi tamkajšnja
+                                        nemška manjšina. Dogajanja medvojno in po njej pa so imela
+                                        posledice tudi na prekmurske Slovence in Madžare.Medvojna
+                                        represija v Prekmurju se v glavnem veže na obdobje madžarske
+                                        oblasti, saj so vojaki Rdeče armade osvobodili pokrajino ob
+                                        Muri mesec dni pred koncem 2. svetovne vojne. V času
+                                        madžarske oblasti so bili, poleg že omenjenih Judov,
+                                        najmočneje na udaru primorski kolonisti. Poleg izgona
+                                        Nemcevpa je povojno obdobje zaznamovala tudi represija nove
+                                        komunistične oblasti nad delom madžarske manjšine. Ker bo v
+                                        sklopu konference predstavljena represija nad Judi in Nemci
+                                        na Slovenskem, se bom v razpravi osredotočil le na represijo
+                                        nad slovenskim in madžarskim življem v Prekmurju, oz. na
+                                        internacijo primorskih Slovencev v Sárvár in pripadnikov
+                                        madžarske manjšine v taborišče Hrastovec, kot na dogodka, ki
+                                        sta med Slovenci in Madžari v Prekmurju najmočneje
+                                        označevala medvojno in povojno represijo.V obdobju med obema
+                                        vojnama so v naselja s pretežno madžarskim prebivalstvom v
+                                        okolici Dolnje Lendave (danes Lendava-Lendva) jugoslovanske
+                                        oblasti na razlaščeno veleposestniško zemljo naselile
+                                        predvsem Slovence in tudi nekaj Hrvatov s Primorske, iz
+                                        Istre, notranjosti Slovenije in tudi Prekmurja. Po
+                                        priključitvi Prekmurja k Madžarski leta 1941 so madžarske
+                                        oblasti koloniste, ki pred 31. oktobrom 1918 niso živeli na
+                                        področju Kraljevine Madžarske, internirali v taborišče
+                                        Sárvár v Železni županiji. Za razliko od kolonistov iz Bačke
+                                        in Baranje, ki so jih internirali že leta 1941, so koloniste
+                                        iz Prekmurja tja odpeljali leta 1942. Madžarsko zunanje
+                                        ministrstvo je namreč sredi leta 1941 navezalo stike z
+                                        italijanskim zunanjim ministrstvom glede izročitve
+                                        kolonistov Italiji kot državi, iz katere so prihajali. Ker
+                                        pogajanja niso bila »uspešna«, so madžarske oblasti
+                                        koloniste s Primorske in iz Istre 22. in 23. junija 1942
+                                        internirali v taborišče Sárvár, in to cele družine, po
+                                        nekaterih podatkih 587 oseb, po drugih 589.Od teh je umrlo
+                                        35 oseb, približno ena tretjina (23 internirancev) v
+                                        taborišču (zaradi lakote, mraza, bolezni), v drugih krajih
+                                        Madžarske in NDH pa 12 oseb. Kmalu po koncu 2. svetovne
+                                        vojne, 9. in 10. julija 1945, je jugoslovanska (slovenska)
+                                        komunistična oblast v koncentracijsko taborišče Hrastovec
+                                        internirala 558 prekmurskih Madžarov, tudi v tem primeru
+                                        celotne družine. Po mnenju številnih prekmurskih Madžarov,
+                                        predvsem internirancev, je bila to povračilna akcija
+                                        jugoslovanskih (slovenskih) oblasti zaradi internacije
+                                        kolonistov v Sárvar. Po treh tednih internacije so predvsem
+                                        za delo sposobne prepeljali v taborišče Sterntal (Strnišče
+                                        pri Ptuju). Konec julija so zaradi tifusa, ki je izbruhnil v
+                                        taborišču Hrastovec, domov poslali 31 otrok. Ostali
+                                        internirani prekmurski Madžari, tako tisti, ki so bili v
+                                        Hrastovcu, kakor tudi tisti v Sterntalu, pa so domovodšli
+                                        konec septembra. Pri njihovi izpustitvi je zelo pomembno
+                                        vlogo odigral tedanji podžupan Budimpešte Kővágó (Küronya)
+                                        József, ki je po mamini strani imel lendavske korenine. Na
+                                        podlagi njegovih podatkov je madžarsko zunanje ministrstvo
+                                        interveniralo, kar je privedlo do posredovanja
+                                        jugoslovanskih oblasti. Izkazalo se je, da o internaciji
+                                        prekmurskih Madžarov niso bili seznanjeni ne v Beogradu, ne
+                                        v Ljubljani in ne v Mariboru in je verjetno šlo za lokalno
+                                        akcijo. Natančno število umrlih Madžarov v internaciji oz.
+                                        zaradi posledic internacije za enkrat še ni znano, na
+                                        podlagi raziskav med družinami interniranih pa jih je bilo
+                                        kakšnih deset.</p>
+               </entity:description>
+               <entity:description xml:lang="eng">
+                  <p xmlns="http://sistory.si/schema/sistory/v3/entity">In Prekmurje, one of the most diverse Slovenian regions in
+                                        terms of nationalities and religions, the ethnic as well as
+                                        religious structure was changed bythe violence of World War
+                                        II and the post-war period. Due to the holocaust the
+                                        Prekmurje Jews were virtually gone, and because of the
+                                        forced relocation in the post-war period the local German
+                                        minority also disappeared. The wartime and post-war
+                                        developments also affected the Prekmurje Slovenians and
+                                        Hungarians.The interwar repression in the Prekmurje region
+                                        had mostly been carried outduring the period of the
+                                        Hungarian authorities, as the soldiers of the Red Army had
+                                        liberated the territory by the river Mura a month before
+                                        World War II ended. During the rule of the Hungarian
+                                        authorities, the colonists from the Slovenian littoral
+                                        (Primorska), who had settled in Prekmurje after World War I,
+                                        were, besides the afore mentioned Jews, the primary target
+                                        of the repression. However,the post-war period was also
+                                        characterised by the repression of the communist
+                                        authorities, involving, besides the deportation of the
+                                        Germans, measures agains ta part of the Hungarian minority.
+                                        While during World War II the victims of repression were
+                                        Slovenians from the Primorska, region whom the Hungarian
+                                        occupiers interned into the Sárvár camp, the post-war
+                                        authorities in Prekmurje resorted to repression against
+                                        Hungarians and interned them into the camp at the Hrastovec
+                                        castle (near Lenart). These are the most characteristic
+                                        examplesof wartime and post-war repression against
+                                        Slovenians and Hungarians in Prekmurje. In the period
+                                        between both world wars the Yugoslav authorities populated
+                                        the hamlets with predominantly Hungarian population in the
+                                        vicinity of Dolnja Lendava (today Lendava-Lendva) with
+                                        Slovenians and some Croatians from Primorska, Istria, the
+                                        interior of Slovenia, and also from Prekmurje, who settled
+                                        the expropriated lands of former landowning nobles. After
+                                        the annexation of Prekmurje to Hungary in 1941, the
+                                        Hungarian authorities interned these colonists, who had not
+                                        lived in the territory of the Kingdom of Hungary before 31
+                                        October 1918, into the Sárvár camp in Vas County. Unlike the
+                                        colonists from Bačka and Baranja, who had already been
+                                        interned in 1941, the colonists from Prekmurje were taken
+                                        there in 1942. It was in the middle of 1941 that the
+                                        Hungarian Ministry of Foreign Affairs contacted the Italian
+                                        Foreign Ministry with the aim of extraditing these colonists
+                                        to Italy as the state of their origin. However, as the
+                                        negotiations were not »successful«, on 22 and 23 June 1942
+                                        the Hungarian authorities interned the colonists – whole
+                                        families from Primorska and Istria, according to certain
+                                        sources 587 people, and according to others 589– to the
+                                        Sárvár camp. Of these 35 people died: approximately one
+                                        third (23 internees) in the camp (due to hunger, cold,
+                                        disease), and 12 of them in the rest of Hungary and
+                                        Independent State of Croatia. Soon after World War II – on 9
+                                        and 10 July 1945 – the Yugoslav (Slovenian) communist
+                                        authorities interned 558 Hungarians from the Prekmurje
+                                        region into the Hrastovec concentration camp, once again
+                                        whole families. According to the opinion of many Prekmurje
+                                        Hungarians, especially internees, this was a retaliatory
+                                        measure of the Yugoslav (Slovenian) authorities for the
+                                        internment of the colonists into Sárvár. After three weeks
+                                        of internment most of those who were capable to work were
+                                        taken into the Sterntal camp (Strnišče pri Ptuju, today
+                                        Kidričevo). Due to a breakout of typhus in Hrastovec, 31
+                                        children were sent home. The remaining Hungarian internees
+                                        from Prekmurje (those located in Hrastovec as well as those
+                                        in Sterntal) could return home in the end of September. The
+                                        deputy mayor of Budapest at the time, Kővágó (Küronya)
+                                        József, hailing from Lendava on his mother’s side, played an
+                                        instrumental role in their release. On the basis of his
+                                        information the Hungarian Ministry of Foreign Affairs
+                                        intervened, and this led to the intervention of the Yugoslav
+                                        authorities. It turned out that neither Belgrade nor
+                                        Ljubljana or Maribor had been informed about the internment
+                                        of the Prekmurje Hungarians; so probably it was a local
+                                        action. The precise number of Hungarians who died during
+                                        internment or because of it is not yet known, but according
+                                        to the research carried out among the families of the
+                                        internees around ten of them died.</p>
+               </entity:description>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="video1" USE="EXTERNAL">
+            <METS:FLocat USE="YOUTUBE"
+                         LOCTYPE="URL"
+                         xlink:href="http://www.youtube.com/embed/sY8hIrFvOtE"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/14256"/>
+         <METS:div TYPE="entity" DMDID="dc.14268" ADMID="premis.14268 entity.14268">
+            <METS:fptr FILEID="video1"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

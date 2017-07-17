@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/37458"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2017-04-05T09:06:14"
+                 LASTMODDATE="2017-04-07T11:54:33"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.4" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.37458" GROUPID="37458">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="slv">Vzgoja in izobraževanje v nacistični Nemčiji na primeru Mežiške doline</dcterms:title>
+            <dcterms:alternative xml:lang="eng">Education in Nazi Germany in the Meža Valley</dcterms:alternative>
+            <dcterms:creator>Skitek, Vinko</dcterms:creator>
+            <dcterms:description xml:lang="slv">V nacistični Nemčiji sta imela vzgoja in izobraževanje zelo pomembno vlogo, mogoče celo pomembnejšo kot se zdi na prvi pogled. Del nacistične stranke NSDAP je bila strankina organizacija Hitlerjugend, ki je skrbela za vzgojo mladih fantov v bodoče nemške vojake. Znotraj nje je delovala podorganizacija za dekleta imenovana Bund deutscher Mädchen, ki je vzgajala dekleta za bodoče nemške žene, ki bodo skrbele za dom in družino. Obe organizaciji sta bili zelo dejavni v nemškem izobraževalnem sistemu. Le tega so Nemci v času druge svetovne vojne vzpostavili tudi na okupiranih slovenskih območjih Gorenjske, Spodnje Štajerske in Mežiške doline. Cilj nemških oblasti je bil s ponemčevanjem Slovencev pričeti že v predšolski in šolski dobi ter tako v nekaj letih popolnoma ponemčiti slovenski narod. V Mežiški dolini je nemški okupator že v prvih tednih okupacije pričel s prvimi jezikovnimi tečaji za šolsko mladino in odrasle, ki so potekali v vseh večjih krajih po Mežiški dolini. Jeseni leta 1941 se je pričel redni pouk v ljudskih šolah pod vodstvom učiteljev iz avstrijske Koroške. Leta 1943 je pogosta partizanska dejavnost na podeželju ovirala šolsko delo. Stanje se je leta 1944 razširilo tudi na šole v večjih krajih Mežiške doline, ki so morale svoje prostore odstopiti vedno večjemu številu nemških vojaških in policijskih enot. Nemško ponemčevanje in izpad pouka sta povzročili, da je bilo ob koncu vojne precej slovenskih otrok in mladostnikov popolnoma ali deloma nepismenih in so imeli težave pri ponovnem vključevanju v učni proces.</dcterms:description>
+            <dcterms:description xml:lang="eng">In Nazi Germany education had a very important role, perhaps even more important than it would seem at a first glance. Part of the Nazi Party NSDAP was the organization Hitlerjugend, which was responsible for educating young boys into future German soldiers. Within Hitlerjugend a suborganization for girls called Bund deutscher Mädchen was active. It educated girls for future German wives, who will take care of home and family. Both organizations were very active in the German educational system. During World War II Germans established this system in the occupied areas of Slovenian Upper Carniola (Gorenjska), Lower Styria (Spodnja Štajerska) and the Meža Valley. The aim of German authorities was the complete Germanisation of Slovenia and this process should already start at preschool and school level. In the Meža Valley, the German occupying forces started with language courses for schoolchildren and adults in the first weeks of the occupation. They were held in all major towns of the Mežica Valley. In the autumn of 1941, regular school began under the guidance of teachers from Carinthia. In 1943, frequent partisan activity in rural areas hampered lessons. In 1944, the situation extended to schools in larger towns in the Mežica Valley, which had to resign their space to the increasing number of German military and police units. Germanisation and irregular lessons have caused a large number of fully or partly illiterate Slovenian children and adolescents at the end of World War II, who had difficulties reintegrating into the learning process.</dcterms:description>
+            <dcterms:subject xml:lang="slv">Mežiška dolina</dcterms:subject>
+            <dcterms:subject xml:lang="slv">1941-1945</dcterms:subject>
+            <dcterms:subject xml:lang="slv">nemška okupacija</dcterms:subject>
+            <dcterms:subject xml:lang="slv">nemški šolski sistem</dcterms:subject>
+            <dcterms:subject xml:lang="slv">Koroška</dcterms:subject>
+            <dcterms:subject xml:lang="eng">the Meža Valley</dcterms:subject>
+            <dcterms:subject xml:lang="eng">1941-1945</dcterms:subject>
+            <dcterms:subject xml:lang="eng">German occupation</dcterms:subject>
+            <dcterms:subject xml:lang="eng">the German school system</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Carinthia</dcterms:subject>
+            <dcterms:publisher>Zveza zgodovinskih društev Slovenije, Ljubljana</dcterms:publisher>
+            <dcterms:publisher>Inštitut za novejšo zgodovino, Ljubljana</dcterms:publisher>
+            <dcterms:contributor>Jure Maček (moderator)</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2016-09-30</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">MovingImage</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">slv</dcterms:language>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.37458">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>37458</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/37458</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.37458">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> V nacistični Nemčiji sta
+                                    imela vzgoja in izobraževanje zelo pomembno vlogo, mogoče celo
+                                    pomembnejšo kot se zdi na prvi pogled. Del nacistične stranke
+                                    NSDAP je bila strankina organizacija Hitlerjugend, ki je skrbela
+                                    za vzgojo mladih fantov v bodoče nemške vojake. Znotraj nje je
+                                    delovala podorganizacija za dekleta imenovana Bund deutscher
+                                    Mädchen, ki je vzgajala dekleta za bodoče nemške žene, ki bodo
+                                    skrbele za dom in družino. Obe organizaciji sta bili zelo
+                                    dejavni v nemškem izobraževalnem sistemu. Le tega so Nemci v
+                                    času druge svetovne vojne vzpostavili tudi na okupiranih
+                                    slovenskih območjih Gorenjske, Spodnje Štajerske in Mežiške
+                                    doline. Cilj nemških oblasti je bil s ponemčevanjem Slovencev
+                                    pričeti že v predšolski in šolski dobi ter tako v nekaj letih
+                                    popolnoma ponemčiti slovenski narod. V Mežiški dolini je nemški
+                                    okupator že v prvih tednih okupacije pričel s prvimi jezikovnimi
+                                    tečaji za šolsko mladino in odrasle, ki so potekali v vseh
+                                    večjih krajih po Mežiški dolini. Jeseni leta 1941 se je pričel
+                                    redni pouk v ljudskih šolah pod vodstvom učiteljev iz avstrijske
+                                    Koroške. Leta 1943 je pogosta partizanska dejavnost na podeželju
+                                    ovirala šolsko delo. Stanje se je leta 1944 razširilo tudi na
+                                    šole v večjih krajih Mežiške doline, ki so morale svoje prostore
+                                    odstopiti vedno večjemu številu nemških vojaških in policijskih
+                                    enot. Nemško ponemčevanje in izpad pouka sta povzročili, da je
+                                    bilo ob koncu vojne precej slovenskih otrok in mladostnikov
+                                    popolnoma ali deloma nepismenih in so imeli težave pri ponovnem
+                                    vključevanju v učni proces. </entity:description>
+               <entity:description xml:lang="eng"> In Nazi Germany
+                                    education had a very important role, perhaps even more important
+                                    than it would seem at a first glance. Part of the Nazi Party
+                                    NSDAP was the organization Hitlerjugend, which was responsible
+                                    for educating young boys into future German soldiers. Within
+                                    Hitlerjugend a suborganization for girls called Bund deutscher
+                                    Mädchen was active. It educated girls for future German wives,
+                                    who will take care of home and family. Both organizations were
+                                    very active in the German educational system. During World War
+                                    II Germans established this system in the occupied areas of
+                                    Slovenian Upper Carniola (Gorenjska), Lower Styria (Spodnja
+                                    Štajerska) and the Meža Valley. The aim of German authorities
+                                    was the complete Germanisation of Slovenia and this process
+                                    should already start at preschool and school level. In the Meža
+                                    Valley, the German occupying forces started with language
+                                    courses for schoolchildren and adults in the first weeks of the
+                                    occupation. They were held in all major towns of the Mežica
+                                    Valley. In the autumn of 1941, regular school began under the
+                                    guidance of teachers from Carinthia. In 1943, frequent partisan
+                                    activity in rural areas hampered lessons. In 1944, the situation
+                                    extended to schools in larger towns in the Mežica Valley, which
+                                    had to resign their space to the increasing number of German
+                                    military and police units. Germanisation and irregular lessons
+                                    have caused a large number of fully or partly illiterate
+                                    Slovenian children and adolescents at the end of World War II,
+                                    who had difficulties reintegrating into the learning process.
+                                </entity:description>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="video1" USE="EXTERNAL">
+            <METS:FLocat USE="YOUTUBE"
+                         LOCTYPE="URL"
+                         xlink:href="https://www.youtube.com/embed/iQMAE_HFW7E"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37395"/>
+         <METS:div TYPE="entity" DMDID="dc.37458" ADMID="premis.37458 entity.37458">
+            <METS:fptr FILEID="video1"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

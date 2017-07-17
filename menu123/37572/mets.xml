@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/37572"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2017-05-18T13:44:16"
+                 LASTMODDATE="2017-05-19T10:38:34"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.37572" GROUPID="37572">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="slv">Prva svetovna vojna in soška fronta 1914–2014</dcterms:title>
+            <dcterms:alternative xml:lang="eng">World War I and Isonzo front 1914-2014</dcterms:alternative>
+            <dcterms:creator>Podberšič, Renato</dcterms:creator>
+            <dcterms:description xml:lang="slv">Stoletnica začetka prve svetovne vojne nam ponuja priložnost, da ponovno ovrednotimo naš odnos to trpljenja slovenskih mož in fantov v vojaški suknji habsburške države ter civilistov v zaledju in v begunstvu v času tega krvavega spopada. Šele zadnjega četrt stoletja je na Slovenskem ponovno zaznati zanimanje za dogodke iz prve svetovne vojne. Priča smo pravi renesansi ukvarjanja s to tematiko, kot gobe po dežju rastejo zbirke, zasebni muzeji in društva, ki se poklicno in ljubiteljsko ukvarjajo s tovrstnimi zgodovinskimi temami. Pred nov izziv je postavljena tudi slovenska šola. Kakšen naj bo torej odnos izobraževalnega procesa v povezavi med zgodovino, obletnicami (povezanimi s prvo svetovno vojno) in domačim okoljem? Kako lahko slovenska šola pri tem sodeluje?</dcterms:description>
+            <dcterms:subject xml:lang="slv">prva svetovna vojna</dcterms:subject>
+            <dcterms:subject xml:lang="slv">šolstvo</dcterms:subject>
+            <dcterms:subject xml:lang="slv">ekskurzije po nekdanjih bojiščih</dcterms:subject>
+            <dcterms:subject xml:lang="slv">soška fronta</dcterms:subject>
+            <dcterms:subject xml:lang="eng">World War I</dcterms:subject>
+            <dcterms:subject xml:lang="eng">education</dcterms:subject>
+            <dcterms:subject xml:lang="eng">field trips along the former battlefields</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Isonzo front</dcterms:subject>
+            <dcterms:publisher>Zveza zgodovinskih društev Slovenije, Ljubljana</dcterms:publisher>
+            <dcterms:publisher>Inštitut za novejšo zgodovino, Ljubljana</dcterms:publisher>
+            <dcterms:contributor>Andreja Valič Zver (moderator)</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2014-10-22</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">MovingImage</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">slv</dcterms:language>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.37572">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>37572</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/37572</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.37572">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Stoletnica začetka prve
+                                    svetovne vojne nam ponuja priložnost, da ponovno ovrednotimo naš
+                                    odnos to trpljenja slovenskih mož in fantov v vojaški suknji
+                                    habsburške države ter civilistov v zaledju in v begunstvu v času
+                                    tega krvavega spopada. Šele zadnjega četrt stoletja je na
+                                    Slovenskem ponovno zaznati zanimanje za dogodke iz prve svetovne
+                                    vojne. Priča smo pravi renesansi ukvarjanja s to tematiko, kot
+                                    gobe po dežju rastejo zbirke, zasebni muzeji in društva, ki se
+                                    poklicno in ljubiteljsko ukvarjajo s tovrstnimi zgodovinskimi
+                                    temami. Pred nov izziv je postavljena tudi slovenska šola.
+                                    Kakšen naj bo torej odnos izobraževalnega procesa v povezavi med
+                                    zgodovino, obletnicami (povezanimi s prvo svetovno vojno) in
+                                    domačim okoljem? Kako lahko slovenska šola pri tem sodeluje?
+                                </entity:description>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="video1" USE="EXTERNAL">
+            <METS:FLocat USE="YOUTUBE"
+                         LOCTYPE="URL"
+                         xlink:href="//www.youtube.com/embed/EAp-lplNkWE"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37571"/>
+         <METS:div TYPE="entity" DMDID="dc.37572" ADMID="premis.37572 entity.37572">
+            <METS:fptr FILEID="video1"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

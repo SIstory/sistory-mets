@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/37667"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2017-05-29T09:19:01"
+                 LASTMODDATE="2017-05-29T09:20:41"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.37667" GROUPID="37667">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="eng">The past, the future, now! A schoolmuseum for the 21 century</dcterms:title>
+            <dcterms:alternative xml:lang="nld">Over vroeger, voor later, van nu. Een onderwijsmuseum voor de 21e eeuw</dcterms:alternative>
+            <dcterms:creator>van Ruiten, Tijs</dcterms:creator>
+            <dcterms:description xml:lang="eng">The Nationaal Onderwijmuseum has moved from Rotterdam to Dordrecht, an old historic city just 20 kilometers southeast of Rotterdam. This sudden change of location has opened new opportunities and ideas which enable the staff and stakeholders to reinvent the museum. In the fall of 2014 the Nationaal Onderwijsmuseum will reopen as an audience focused, distinctive and contemporary museum in which history, future and current debates on education have a platform. Tijs van Ruiten will focus on the choices that have been made prior to the change of location and the way in which the museum sought support from stakeholders, politicians and the general public. He will show the new outline for the exhibitions, the new personal approach towards visitors en researchers and he will go in to the business model the museum has chosen. The new museum does not portray the history as a chronological story, nor will it offer the public a range of historical classrooms. A new approach towards remembering your schooldays and youth, using personal storytelling and direct experience with the objects will offer the public a new and more intense visit. The museum will further focus on the period after the second World War and will also incorporate youth culture in its storylines. Last but not least Tijs van Ruiten will show the plans for the new museum building, a much appreciated architectural monument, that offers a radiant perspective on the outside, and near limitless possibilities on the inside. In Dordrecht the Nationaal Onderwijsmuseum will be able to grow both in visitor numbers and in nationwide attention and interest in its activities in the museum and elsewhere.</dcterms:description>
+            <dcterms:description xml:lang="nld">Het Nationaal Onderwijsmuseum is verhuisd van Rotterdam naar Dordrecht, een oude historische stad, 20 kilometer ten zuidoosten van Rotterdam. Deze plotselinge verhuizing betekent voor het museum dat zich nieuwe mogelijkheden en ideeën voor hebben gedaan die het museum in staat hebben gesteld zichzelf opnieuw uit te vinden. Het museum heropent in het najaar van 2014 als een vernieuwd publieksgericht, onderscheidend en modern museum, dat onderwijsgeschiedenis, onderwijsontwikkeling, toekomst en actuele debatten over onderwijs en opvoeding een platform biedt. Tijs van Ruiten zal stilstaan bij de keuze die het museum heeft gemaakt voordat tot de beslissing tot verhuizing genomen werd en hij zal ingaan op de manier waarop het museum in de politiek, het onderwijsveld en bij het publiek naar draagvlak heeft gezocht. Daarnaast wordt een beeld geschetst van de nieuwe opzet van de tentoonstellingen en projecten, het publieksbereik, onderzoekssamenwerking en het verdienmodel dat is gekozen om financieel minder afhankelijk te worden. Het nieuwe museum laat de chronologische tijdlijn aan de hand van ingerichte klaslokalen los. De nieuwe aanpak voorziet in het actief terughalen van de herinnering aan de hand van persoonlijke verhalen en direct contact met de collectie die uiteindelijk leidt tot een meer intense museumervaring. Het museum zal verder de focus verleggen naar de periode na de Tweede Wereldoorlog en ook jeugdcultuur verwerken in de verhaallijnen. Verder zal Tijs van Ruiten aandacht besteden aan de plannen voor het nieuwe museumgebouw, een geliefd architectuurmonument dat een bijzondere uitstraling aan de buitenkant combineert met een grote flexibiliteit aan de binnenkant. Dat stelt het museum in staat in Dordrecht te groeien, zowel in bezoekersaantallen als in nationale en internationale uitstraling.</dcterms:description>
+            <dcterms:subject xml:lang="slv">zgodovina</dcterms:subject>
+            <dcterms:subject xml:lang="slv">šolstvo</dcterms:subject>
+            <dcterms:subject xml:lang="slv">muzej</dcterms:subject>
+            <dcterms:subject xml:lang="eng">history</dcterms:subject>
+            <dcterms:subject xml:lang="eng">school system</dcterms:subject>
+            <dcterms:subject xml:lang="eng">museum</dcterms:subject>
+            <dcterms:publisher>Slovenski šolski muzej, Ljubljana</dcterms:publisher>
+            <dcterms:publisher>Zveza zgodovinskih društev Slovenije, Ljubljana</dcterms:publisher>
+            <dcterms:publisher>ICOM Slovenija, Celje</dcterms:publisher>
+            <dcterms:publisher>Inštitut za novejšo zgodovino, Ljubljana</dcterms:publisher>
+            <dcterms:contributor>Mathias Rösch (moderator)</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2013-06-27</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">MovingImage</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">eng</dcterms:language>
+            <dcterms:license xsi:type="dcterms:URI">http://creativecommons.org/licenses/by-nc-nd/2.5/si/</dcterms:license>
+            <dcterms:license xml:lang="slv">Priznanje avtorstva-Nekomercialo-Brez predelav 2.5 Slovenija (CC BY-NC-ND 2.5 SI)</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.37667">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>37667</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/37667</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.37667">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="eng">
+                  <pre xmlns="http://sistory.si/schema/sistory/v3/entity">The Nationaal Onderwijmuseum has moved from Rotterdam to Dordrecht, an old historic city just 20
+kilometers southeast of Rotterdam. This sudden change of location has opened new opportunities and ideas
+which enable the staff and stakeholders to reinvent the museum. In the fall of 2014 the Nationaal
+Onderwijsmuseum will reopen as an audience focused, distinctive and contemporary museum in which history,
+future and current debates on education have a platform. Tijs van Ruiten will focus on the choices that have
+been made prior to the change of location and the way in which the museum sought support from stakeholders,
+politicians and the general public. He will show the new outline for the exhibitions, the new personal approach
+towards visitors en researchers and he will go in to the business model the museum has chosen. The new
+museum does not portray the history as a chronological story, nor will it offer the public a range of historical
+classrooms. A new approach towards remembering your schooldays and youth, using personal storytelling and
+direct experience with the objects will offer the public a new and more intense visit. The museum will further
+focus on the period after the second World War and will also incorporate youth culture in its storylines. Last but
+not least Tijs van Ruiten will show the plans for the new museum building, a much appreciated architectural
+monument, that offers a radiant perspective on the outside, and near limitless possibilities on the inside. In
+Dordrecht the Nationaal Onderwijsmuseum will be able to grow both in visitor numbers and in nationwide
+attention and interest in its activities in the museum and elsewhere.</pre>
+               </entity:description>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="video1" USE="EXTERNAL">
+            <METS:FLocat USE="YOUTUBE"
+                         LOCTYPE="URL"
+                         xlink:href="//www.youtube.com/embed/B8IM0JIHi9k"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37663"/>
+         <METS:div TYPE="entity" DMDID="dc.37667" ADMID="premis.37667 entity.37667">
+            <METS:fptr FILEID="video1"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

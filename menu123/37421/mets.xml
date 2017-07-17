@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/37421"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2017-04-05T08:36:04"
+                 LASTMODDATE="2017-04-07T11:24:31"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.4" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.37421" GROUPID="37421">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="slv">Od pedagoške misli prof. Frana Orožna do sodobne interpretacije dediščine</dcterms:title>
+            <dcterms:alternative xml:lang="slv">From Prof. Fran Orožen’s Pedagogical Thought to Modern Interpretation of Heritage</dcterms:alternative>
+            <dcterms:creator>Keršič Svetel, Marjeta</dcterms:creator>
+            <dcterms:description xml:lang="slv">Fran Orožen (1853-1912), geograf in zgodovinar, ki se je šolal na Dunaju in diplomiral pri prof. Symoniju, je v letih 1906-1909 vodil društvo slovenskih profesorjev. Njegov profesor in mentor Symony je nanj zelo močno vplival s poudarjanjem empiričnega raziskovanja in opazovanja gora. Orožen je bil med pobudniki ustanovitve Slovenskega planinskega društva in tudi prvi predsednik SPD ter pobudnik za izhajanje planinskega vestnika. V planinstvu je videl predvsem način spoznavanja gora z vso naravno in kulturno dediščino, v svoji pedagoški misli, ki se je odrazila predvsem v razpravah, objavljenih v Učiteljskem tovarišu, pa je predvsem utemeljeval doživljajsko in izkustveno učenje domoznanstva. »Pouk se mora naslanjati na mnogo vprašanj, ki vodijo učenca do tega, da kolikor mogoče sam reši zahtevano zemljepisno nalogo. Kar si je učenec sam pridobil, to postane njegova prava lastnina in vzbuja v njem veselje do dela in zanimanje do predmeta, kar je ravno pri zemljepisnem pouku velike važnosti. Iz tega pa je razvidno, da se mora učitelj posluževati pri zemljepisu heuristične metode in nato gledati, da postanejo učenci samouki, ki si bodo v poznejših letih sami razširili potrebno zemljepisno znanje« je zapisal že leta 1900. Planinski vestnik je videl predvsem kot poljudnoznanstveno revijo in v času njegovega SPD je to pretežno tudi bila. Dobrih sto let kasneje je zelo zanimivo primerjati Orožnove poglede in izhodišča stroke, ki je v Sloveniji žal zelo malo prepoznana in poznana, še manj pa uporabljena – to je interpretacija dediščine. Gre za izrazito interdisciplinarno stroko, ki jo zlasti avtorji v ZDA štejejo v širši okvir strateškega komuniciranja s poudarkom na vrednotah, v Evropi pa se uveljavlja predvsem kot humanistični koncept vseživljenjskega izobraževanja, ki temelji na doživljanju naravne in kulturne dediščine in oblikovanju osebnega, poglobljenega odnosa do nje. Več kot sto let stare Orožnove misli o učenju domoznanstva ob dejavnostih v naravi, zlasti gorski, se kažejo v kontekstu sodobne stroke interpretacije dediščine kot presenetljivo daljnovidne. Zlasti v današnjem času, ko večina obiskovalcev gorski svet doživlja le kot športni poligon, brez poglobljene želje odkrivati, spoznavati in razumeti.</dcterms:description>
+            <dcterms:description xml:lang="eng">Orožen was among the initiators of the Slovenian Mountaineering Society establishment and its first chairman, as well as the initiator of the mountaineering gazette. For him, mountaineering was a way to discover mountains with the natural and cultural heritage. In his pedagogical thought, which was reflected primarily in debates published in the Teacher’s Comrade (“Učiteljski tovariš”) he substantiated experiential learning of local studies."Lessons should rest on many questions that lead students in solving the required geographical assignment by themselves. The knowledge that the student gained by himself, becomes his real belonging and arouses in him the pleasure for work and the interest for the subject, which is very important in geographical teaching. This shows that the teacher should make use of heuristic methods in geography and then make sure, that his students become self-taught and in later years expand the required geographical knowledge themselves, "he wrote in 1900. He perceived the mountaineering gazette as a popular scientific magazine, and during his time in the Slovenian Mountaineering Society it mainly was. One hundred years later, it is very interesting to compare Orožen’s views and the basis of the profession, which in Slovenia is unfortunately poorly known and recognized, much less used - this is the interpretation of heritage. It is a highly interdisciplinary profession that is considered, particularly by authors in the United States, in the wider context of strategic communications with an emphasis on values. In Europe it is considered mainly as a humanistic concept of a lifelong learning based on the experience of the natural and cultural heritage and the creation of a personal, in-depth relationship. Orožen’s more than one hundred-year-old thoughts on teaching local studies with activities in nature, especially mountains, are reflected in the context of the modern professional heritage interpretation as surprisingly farsighted. Especially nowadays when most visitors experience the world of mountains only as a sports range, without the desire for discovery, learning and understanding</dcterms:description>
+            <dcterms:subject xml:lang="slv">Fran Orožen</dcterms:subject>
+            <dcterms:subject xml:lang="slv">doživljajsko učenje</dcterms:subject>
+            <dcterms:subject xml:lang="slv">interpretacija dediščine</dcterms:subject>
+            <dcterms:subject xml:lang="slv">planinstvo</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Fran Orožen</dcterms:subject>
+            <dcterms:subject xml:lang="eng">experiential learning</dcterms:subject>
+            <dcterms:subject xml:lang="eng">heritage interpretation</dcterms:subject>
+            <dcterms:subject xml:lang="eng">mountaineering</dcterms:subject>
+            <dcterms:publisher>Zveza zgodovinskih društev Slovenije, Ljubljana</dcterms:publisher>
+            <dcterms:publisher>Inštitut za novejšo zgodovino, Ljubljana</dcterms:publisher>
+            <dcterms:contributor>Robert Devetak (moderator)</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2016-09-28</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">MovingImage</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">slv</dcterms:language>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.37421">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>37421</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/37421</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.37421">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Fran Orožen (1853-1912),
+                                    geograf in zgodovinar, ki se je šolal na Dunaju in diplomiral
+                                    pri prof. Symoniju, je v letih 1906-1909 vodil društvo
+                                    slovenskih profesorjev. Njegov profesor in mentor Symony je nanj
+                                    zelo močno vplival s poudarjanjem empiričnega raziskovanja in
+                                    opazovanja gora. Orožen je bil med pobudniki ustanovitve
+                                    Slovenskega planinskega društva in tudi prvi predsednik SPD ter
+                                    pobudnik za izhajanje planinskega vestnika. V planinstvu je
+                                    videl predvsem način spoznavanja gora z vso naravno in kulturno
+                                    dediščino, v svoji pedagoški misli, ki se je odrazila predvsem v
+                                    razpravah, objavljenih v Učiteljskem tovarišu, pa je predvsem
+                                    utemeljeval doživljajsko in izkustveno učenje domoznanstva.
+                                    »Pouk se mora naslanjati na mnogo vprašanj, ki vodijo učenca do
+                                    tega, da kolikor mogoče sam reši zahtevano zemljepisno nalogo.
+                                    Kar si je učenec sam pridobil, to postane njegova prava lastnina
+                                    in vzbuja v njem veselje do dela in zanimanje do predmeta, kar
+                                    je ravno pri zemljepisnem pouku velike važnosti. Iz tega pa je
+                                    razvidno, da se mora učitelj posluževati pri zemljepisu
+                                    heuristične metode in nato gledati, da postanejo učenci samouki,
+                                    ki si bodo v poznejših letih sami razširili potrebno zemljepisno
+                                    znanje« je zapisal že leta 1900. Planinski vestnik je videl
+                                    predvsem kot poljudnoznanstveno revijo in v času njegovega SPD
+                                    je to pretežno tudi bila. Dobrih sto let kasneje je zelo
+                                    zanimivo primerjati Orožnove poglede in izhodišča stroke, ki je
+                                    v Sloveniji žal zelo malo prepoznana in poznana, še manj pa
+                                    uporabljena – to je interpretacija dediščine. Gre za izrazito
+                                    interdisciplinarno stroko, ki jo zlasti avtorji v ZDA štejejo v
+                                    širši okvir strateškega komuniciranja s poudarkom na vrednotah,
+                                    v Evropi pa se uveljavlja predvsem kot humanistični koncept
+                                    vseživljenjskega izobraževanja, ki temelji na doživljanju
+                                    naravne in kulturne dediščine in oblikovanju osebnega,
+                                    poglobljenega odnosa do nje. Več kot sto let stare Orožnove
+                                    misli o učenju domoznanstva ob dejavnostih v naravi, zlasti
+                                    gorski, se kažejo v kontekstu sodobne stroke interpretacije
+                                    dediščine kot presenetljivo daljnovidne. Zlasti v današnjem
+                                    času, ko večina obiskovalcev gorski svet doživlja le kot športni
+                                    poligon, brez poglobljene želje odkrivati, spoznavati in
+                                    razumeti. </entity:description>
+               <entity:description xml:lang="eng"> Orožen was among the
+                                    initiators of the Slovenian Mountaineering Society establishment
+                                    and its first chairman, as well as the initiator of the
+                                    mountaineering gazette. For him, mountaineering was a way to
+                                    discover mountains with the natural and cultural heritage. In
+                                    his pedagogical thought, which was reflected primarily in
+                                    debates published in the Teacher’s Comrade (“Učiteljski
+                                    tovariš”) he substantiated experiential learning of local
+                                    studies."Lessons should rest on many questions that lead
+                                    students in solving the required geographical assignment by
+                                    themselves. The knowledge that the student gained by himself,
+                                    becomes his real belonging and arouses in him the pleasure for
+                                    work and the interest for the subject, which is very important
+                                    in geographical teaching. This shows that the teacher should
+                                    make use of heuristic methods in geography and then make sure,
+                                    that his students become self-taught and in later years expand
+                                    the required geographical knowledge themselves, "he wrote in
+                                    1900. He perceived the mountaineering gazette as a popular
+                                    scientific magazine, and during his time in the Slovenian
+                                    Mountaineering Society it mainly was. One hundred years later,
+                                    it is very interesting to compare Orožen’s views and the basis
+                                    of the profession, which in Slovenia is unfortunately poorly
+                                    known and recognized, much less used - this is the
+                                    interpretation of heritage. It is a highly interdisciplinary
+                                    profession that is considered, particularly by authors in the
+                                    United States, in the wider context of strategic communications
+                                    with an emphasis on values. In Europe it is considered mainly as
+                                    a humanistic concept of a lifelong learning based on the
+                                    experience of the natural and cultural heritage and the creation
+                                    of a personal, in-depth relationship. Orožen’s more than one
+                                    hundred-year-old thoughts on teaching local studies with
+                                    activities in nature, especially mountains, are reflected in the
+                                    context of the modern professional heritage interpretation as
+                                    surprisingly farsighted. Especially nowadays when most visitors
+                                    experience the world of mountains only as a sports range,
+                                    without the desire for discovery, learning and understanding
+                                </entity:description>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="video1" USE="EXTERNAL">
+            <METS:FLocat USE="YOUTUBE"
+                         LOCTYPE="URL"
+                         xlink:href="https://www.youtube.com/embed/UBBu9xWTK3s"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37380"/>
+         <METS:div TYPE="entity" DMDID="dc.37421" ADMID="premis.37421 entity.37421">
+            <METS:fptr FILEID="video1"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

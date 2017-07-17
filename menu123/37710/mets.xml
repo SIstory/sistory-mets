@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/37710"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2017-05-31T12:05:42"
+                 LASTMODDATE="2017-06-16T10:58:23"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.37710" GROUPID="37710">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="eng">The section of Padua of the Italian Pedagogical Association (Associazione Pedagogica Italiana) in the late XXth Century</dcterms:title>
+            <dcterms:alternative xml:lang="ita">La sezione padovana dell'Associazione Pedagogica Italiana nel secondo novecento</dcterms:alternative>
+            <dcterms:creator>Targhetta, Fabio</dcterms:creator>
+            <dcterms:description xml:lang="eng">The As.Pe.I., Italian Pedagogical Association (Associazione Pedagogica Italiana), founded in Florence in 1950 by Giovanni Calò in cooperation with some of the major scholars of Pedagogy (Aldo Agazzi, Giovanni Maria Bertin, Giuseppe Flores d’Arcais), is still active throughout the country, thanks to the coordinated effort of the numerous local sections. The distinctive feature of the As.Pe.I is to bring together school teachers of all levels and university professors in order to improve and renovate the school and any other educational institution, as well as to enhance studies and researches in the field of Pedagogy and education. To this end, its work is mainly direct to the construction and the planning of activities like training and upgrading of teachers and every person involved in education. The section of Padua has distinguished itself since its founding by the organization of conferences and refresher courses for teachers of elementary schools. A significant amount of documentation relating to the activity of this section is currently preserved at the Museum of Education (University of Padua). It is possible to consult teachers’ meeting minutes, programs for refresher courses, lists of members, notes, lessons plans, collections of photographs, administrative documents, correspondence with the other sections, and so on. All these relevant documents, not yet studied, the proceedings of the National congress – including two symposiums organized in Padua (1956 and 1996) – and the examination of the As.Pe.I. Bulletin have made possible the reenactment of a very interesting experience of teachers’ association during the second half of the twentieth century.</dcterms:description>
+            <dcterms:description xml:lang="ita">L’As.Pe.I., Associazione Pedagogica Italiana, fondata a Firenze nel 1950 da Giovanni Calò con la collaborazione di alcuni dei maggiori pedagogisti del tempo ( Aldo Agazzi, Giovanni Maria Bertin, Giuseppe Flores d’Arcais ) è ancor oggi attiva su tutto il territorio nazionale grazie al coordinato impegno di numerose sezioni locali. Caratteristica principale dell’As.Pe.I. è quella di riunire docenti delle scuole di ogni ordine e grado e professori universitari allo scopo di migliorare e rinnovare la scuola ed ogni altra istituzione a carattere educativo, nonché di valorizzare e potenziare gli studi e le ricerche di carattere pedagogico. A tal fine, la sua opera è prevalentemente rivolta alla realizzazione e alla progettazione di attività quali la formazione, l’aggiornamento e la qualificazione dei docenti e di quanti si impegnano in ambito educativo. La sezione di Padova si è distinta fin dalla sua fondazione nell’organizzazione di convegni e corsi di aggiornamento per docenti delle scuole elementari. Una significativa mole di documentazione relativa all’attività di questa sezione è attualmente conservata presso il Museo dell’Educazione dell’Università di Padova. È possibile consultare verbali degli incontri tra docenti, programmi dei corsi di aggiornamento, elenchi degli iscritti, appunti, schemi di lezioni, raccolte di fotografie, documenti amministrativi, corrispondenza con le altre sezioni etc. Unendo a questo già ricco materiale, non ancora studiato, gli atti dei Congressi nazionali di pedagogia - tra cui i due organizzati a Padova (1956 e 1996) - e lo spoglio del Bollettino dell’Associazione è stato possibile ricostruire le vicende di un’esperienza tra le più interessanti e qualificate di associazione tra insegnanti lungo la seconda metà del novecento.</dcterms:description>
+            <dcterms:subject xml:lang="slv">zgodovina</dcterms:subject>
+            <dcterms:subject xml:lang="slv">šolstvo</dcterms:subject>
+            <dcterms:subject xml:lang="slv">muzej</dcterms:subject>
+            <dcterms:subject xml:lang="eng">history</dcterms:subject>
+            <dcterms:subject xml:lang="eng">school system</dcterms:subject>
+            <dcterms:subject xml:lang="eng">museum</dcterms:subject>
+            <dcterms:publisher>Slovenski šolski muzej, Ljubljana</dcterms:publisher>
+            <dcterms:publisher>Zveza zgodovinskih društev Slovenije, Ljubljana</dcterms:publisher>
+            <dcterms:publisher>ICOM Slovenija, Celje</dcterms:publisher>
+            <dcterms:publisher>Inštitut za novejšo zgodovino, Ljubljana</dcterms:publisher>
+            <dcterms:contributor>Ljiljana Stankov (moderator)</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2013-06-28</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">MovingImage</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">eng</dcterms:language>
+            <dcterms:license xsi:type="dcterms:URI">http://creativecommons.org/licenses/by-nc-nd/2.5/si/</dcterms:license>
+            <dcterms:license xml:lang="slv">Priznanje avtorstva-Nekomercialo-Brez predelav 2.5 Slovenija (CC BY-NC-ND 2.5 SI)</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.37710">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>37710</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/37710</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.37710">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="eng">
+                  <p xmlns="http://sistory.si/schema/sistory/v3/entity">The As.Pe.I., Italian Pedagogical Association (Associazione
+                                        Pedagogica Italiana), founded in Florence in 1950 by
+                                        Giovanni Calò in cooperation with some of the major scholars
+                                        of Pedagogy (Aldo Agazzi, Giovanni Maria Bertin, Giuseppe
+                                        Flores d’Arcais), is still active throughout the country,
+                                        thanks to the coordinated effort of the numerous local
+                                        sections. The distinctive feature of the As.Pe.I is to bring
+                                        together school teachers of all levels and university
+                                        professors in order to improve and renovate the school and
+                                        any other educational institution, as well as to enhance
+                                        studies and researches in the field of Pedagogy and
+                                        education. To this end, its work is mainly direct to the
+                                        construction and the planning of activities like training
+                                        and upgrading of teachers and every person involved in
+                                        education. The section of Padua has distinguished itself
+                                        since its founding by the organization of conferences and
+                                        refresher courses for teachers of elementary schools. A
+                                        significant amount of documentation relating to the activity
+                                        of this section is currently preserved at the Museum of
+                                        Education (University of Padua). It is possible to consult
+                                        teachers’ meeting minutes, programs for refresher courses,
+                                        lists of members, notes, lessons plans, collections of
+                                        photographs, administrative documents, correspondence with
+                                        the other sections, and so on. All these relevant documents,
+                                        not yet studied, the proceedings of the National congress –
+                                        including two symposiums organized in Padua (1956 and 1996)
+                                        – and the examination of the As.Pe.I. Bulletin have made
+                                        possible the reenactment of a very interesting experience of
+                                        teachers’ association during the second half of the
+                                        twentieth century.</p>
+               </entity:description>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="video1" USE="EXTERNAL">
+            <METS:FLocat USE="YOUTUBE"
+                         LOCTYPE="URL"
+                         xlink:href="//www.youtube.com/embed/S75RDlykfr8"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37707"/>
+         <METS:div TYPE="entity" DMDID="dc.37710" ADMID="premis.37710 entity.37710">
+            <METS:fptr FILEID="video1"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

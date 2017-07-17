@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/37683"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2017-05-29T11:49:00"
+                 LASTMODDATE="2017-06-16T10:51:36"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.37683" GROUPID="37683">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="eng">Museum - Center for adult literacy education delivery in Nigeria, 2000-2010: An Assessment</dcterms:title>
+            <dcterms:alternative xml:lang="">Ayewo ile isenbaye se da oriko eko mooko - mooka ni orile ede Naijeria, 2000-2010</dcterms:alternative>
+            <dcterms:creator>Jayeola-Omoyeni, Moses Sunday</dcterms:creator>
+            <dcterms:description xml:lang="eng">The European colonial masters discovered that Nigeria had a high rate of adult illiteracy and thus launched the first Mass Literacy Campaign in 1946. Efforts at combating the scourge of high rate of adult illiteracy by government, non-governmental and voluntary organizations, Unesco and other bodies to promote adult literacy education in Nigeria, did not yield any appreciable results. Open fields, market places etc., were used as literacy centers to reach and teach the illiterates how to read and write in the printed word. The main problem affecting the effective promotion of adult literacy education in Nigeria, is that of the withdrawal of participants from the literacy centers after the initial enrolment. From the research conducted and being reported in this paper, some community museums in Ekiti, Ondo and Osun states of Nigeria, were used as literacy centers to complement the conventional literacy centers of the government and other agencies. Between 2000 and 2010, a total enrolment in the conventional literacy programme in those three states in Nigeria, was 37,648 with only 8,467 (22.5%) sustained to a nine month annual literacy graduation. But at the museum literacy centers in the three states, a total enrolment of 4,084 from which 3,857( 94.4%) participants were sustained. It is therefore seen that the community museums could be a valuable literacy center and thus recommended its use and integration as effective sources for promoting adult literacy education in Nigeria.</dcterms:description>
+            <dcterms:description xml:lang="">Awon oyinbo a-munisin rii pe orile ede Naijeria ni ogooro agbalagba ti ko mooko-mooka lati igbati won ti da ilana eto eko tiwon sile ni odun 1842.Nidi eyi ,awon oyinbo wonyi se afilole eko kari-aye ni odun 1946. Gbogbo akitiyan ijoba ,awon ti ko rogboku le ijoba,awon miran,ati paapaa UNESCO, lati le din tabi le aimooko-mooka lo ni Naijeria,dabi pe ko so eso rere.Orisirisi ona ni ijoba lo lati le jeki awon alaimooko-mooka di eni to ni imo eko mooko-mooka.Eyi to mu ijakule ba eto eko yii ni sisa ti awon akeko nsa kuro ni ibijoko ikeko lehin iforuko sile. Eyi lo mu oluwadi yii se iwadi lori ile isenbaye pe ole je ibi ikeko fun awon akeko agba.Ninun iwadi ti a se ni ipile Ekiti, Ondo ati Osun ni Naijeria,ni aarin odun 2000-2010.A rii pe awon tofi oruko sile ni oriko ati ti ilana ijoba ni akoko yii je 37,648, ti o si je pe 8,467 (22.5%) ni won yori eko naa ni alafo osu mesan odoodun.Sugbon ni igbati a lo ile isenbaye agbegbe, a rii pe iforuko sile awon akeko fun akoko kan naa je 4,084 ti 3,857(94.4%), yori eko naa. Eyi jasi pe ile isenbaye agbegbe kookan le je pataki iloro fun eko mooko-mooka ati wipe o ye ki a gbe igbese ki ile isenbaye agbegbe je igboke-gbodo fun eko kari-aye fun awon agba orile ede Naijeria.</dcterms:description>
+            <dcterms:subject xml:lang="slv">zgodovina</dcterms:subject>
+            <dcterms:subject xml:lang="slv">šolstvo</dcterms:subject>
+            <dcterms:subject xml:lang="slv">muzej</dcterms:subject>
+            <dcterms:subject xml:lang="eng">history</dcterms:subject>
+            <dcterms:subject xml:lang="eng">school system</dcterms:subject>
+            <dcterms:subject xml:lang="eng">museum</dcterms:subject>
+            <dcterms:publisher>Slovenski šolski muzej, Ljubljana</dcterms:publisher>
+            <dcterms:publisher>Zveza zgodovinskih društev Slovenije, Ljubljana</dcterms:publisher>
+            <dcterms:publisher>ICOM Slovenija, Celje</dcterms:publisher>
+            <dcterms:publisher>Inštitut za novejšo zgodovino, Ljubljana</dcterms:publisher>
+            <dcterms:contributor>Branko Šuštar (moderator)</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2013-06-27</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">MovingImage</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">eng</dcterms:language>
+            <dcterms:license xsi:type="dcterms:URI">http://creativecommons.org/licenses/by-nc-nd/2.5/si/</dcterms:license>
+            <dcterms:license xml:lang="slv">Priznanje avtorstva-Nekomercialo-Brez predelav 2.5 Slovenija (CC BY-NC-ND 2.5 SI)</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.37683">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>37683</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/37683</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.37683">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="eng">
+                  <p xmlns="http://sistory.si/schema/sistory/v3/entity">The European colonial masters discovered that Nigeria had a
+                                        high rate of adult illiteracy and thus launched the first
+                                        Mass Literacy Campaign in 1946. Efforts at combating the
+                                        scourge of high rate of adult illiteracy by government,
+                                        non-governmental and voluntary organizations, Unesco and
+                                        other bodies to promote adult literacy education in Nigeria,
+                                        did not yield any appreciable results. Open fields, market
+                                        places etc., were used as literacy centers to reach and
+                                        teach the illiterates how to read and write in the printed
+                                        word. The main problem affecting the effective promotion of
+                                        adult literacy education in Nigeria, is that of the
+                                        withdrawal of participants from the literacy centers after
+                                        the initial enrolment. From the research conducted and being
+                                        reported in this paper, some community museums in Ekiti,
+                                        Ondo and Osun states of Nigeria, were used as literacy
+                                        centers to complement the conventional literacy centers of
+                                        the government and other agencies. Between 2000 and 2010, a
+                                        total enrolment in the conventional literacy programme in
+                                        those three states in Nigeria, was 37,648 with only 8,467
+                                        (22.5%) sustained to a nine month annual literacy
+                                        graduation. But at the museum literacy centers in the three
+                                        states, a total enrolment of 4,084 from which 3,857( 94.4%)
+                                        participants were sustained. It is therefore seen that the
+                                        community museums could be a valuable literacy center and
+                                        thus recommended its use and integration as effective
+                                        sources for promoting adult literacy education in
+                                        Nigeria.</p>
+               </entity:description>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="video1" USE="EXTERNAL">
+            <METS:FLocat USE="YOUTUBE"
+                         LOCTYPE="URL"
+                         xlink:href="//www.youtube.com/embed/LvN-68AFQao"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37681"/>
+         <METS:div TYPE="entity" DMDID="dc.37683" ADMID="premis.37683 entity.37683">
+            <METS:fptr FILEID="video1"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

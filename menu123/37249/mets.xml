@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/37249"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2017-03-13T09:09:44"
+                 LASTMODDATE="2017-03-14T13:42:21"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.81" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.37249" GROUPID="37249">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="eng">The significance of Central European border settlements in the work of the North-Eastern Boundary Bureau and the Boundary Commission in Ireland before 1925</dcterms:title>
+            <dcterms:alternative xml:lang="slv">Pomen urejanja srednjeevropskih mej za delo Urada za severovzhodno mejo (North-Eastern Boundary Bureau) in Mejne komisije (Boundary Commission) na Irskem pred letom 1925</dcterms:alternative>
+            <dcterms:creator>Zách, Lili</dcterms:creator>
+            <dcterms:subject xml:lang="slv">srednjeevropske meje</dcterms:subject>
+            <dcterms:subject xml:lang="slv">Urad za severovzhodno mejo</dcterms:subject>
+            <dcterms:subject xml:lang="slv">Mejna komisija</dcterms:subject>
+            <dcterms:subject xml:lang="slv">Irska</dcterms:subject>
+            <dcterms:subject xml:lang="slv">pred 1925</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Central European border</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Boundary Commission</dcterms:subject>
+            <dcterms:subject xml:lang="eng">North-Eastern Boundary Bureau</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Ireland</dcterms:subject>
+            <dcterms:subject xml:lang="eng">before 1925</dcterms:subject>
+            <dcterms:publisher>Inštitut za novejšo zgodovino, Ljubljana</dcterms:publisher>
+            <dcterms:publisher>Oddelek za zgodovino Filozofske fakultete Univerze v Ljubljani, Ljubljana</dcterms:publisher>
+            <dcterms:contributor>Marko Zajc</dcterms:contributor>
+            <dcterms:contributor>Jernej Kosi</dcterms:contributor>
+            <dcterms:contributor>Zdenko Čepič</dcterms:contributor>
+            <dcterms:contributor>Neja Blaj Hribar</dcterms:contributor>
+            <dcterms:contributor>Irina Marin</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:Period">start=24.11.2016; end=26.11.2016; name=; scheme=; </dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">MovingImage</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">eng</dcterms:language>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.37249">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>37249</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/37249</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.37249">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Po koncu prve svetovne
+                                    vojne so irski nacionalistični krogi zaradi možne delitve Irske
+                                    zavzeto spremljali rojstvo novih malih neodvisnih držav v
+                                    vzhodni Srednji Evropi. Iz časopisnih uvodnikov in člankov ter
+                                    diplomatskih poročil je razvidno, da je bila povojna Irska
+                                    naklonjena urejanju meja v celinski Evropi, saj je bil razpad
+                                    Avstro-Ogrske podobno sporen. Ta prispevek preučuje, kako so
+                                    takratni irski poročevalci dojemali vprašanje urejanja mej v
+                                    Srednji Evropi, s čimer omogoča vpogled v preoblikovanje
+                                    političnega prostora na Irskem in v Srednji Evropi. Čeprav je
+                                    bil spopad med unionisti in nacionalisti glede vprašanja
+                                    samouprave (Home Rule) del irskih političnih razprav že pred
+                                    prvo svetovno vojno, je ustanovitev dveh držav na irskem otoku
+                                    temeljila na zakonu o vladi Irske (Government of Ireland Act) iz
+                                    leta 1920. Leto pozneje je angleško-irski sporazum omogočil
+                                    novoustanovljeni državi Severni Irski ločitev od Svobodne države
+                                    Irske. Pozneje sta bila ustanovljena Urad za severovzhodno mejo
+                                    (NEBB – oktobra 1922) in Mejna komisija (novembra 1924), da bi
+                                    popravila (prvo začasno) mejo med Severno Irsko in Svobodno
+                                    državo Irsko v skladu z željami prebivalcev. Za utemeljitev
+                                    zahtev je Urad za severovzhodno mejo preučil podobne dogovore o
+                                    mejah v povojni Evropi. Prispevek se osredotoča na pomen
+                                    precedensov z ozemlja nekdanje Avstro-Ogrske in njihov vpliv na
+                                    irsko mejno vprašanje v obdobju 1920–1925. Namen prispevka je
+                                    prikazati, kako je dejstvo, da so bile meje v središču spora,
+                                    spodbudilo irsko zanimanje za ozemeljske dogovore v Evropi.
+                                </entity:description>
+               <entity:description xml:lang="eng"> In the aftermath of the
+                                    Great War, the birth of new independent small states in
+                                    East-Central Europe was closely followed in Irish nationalist
+                                    circles due to the possibility of Partition in Ireland.
+                                    Newspaper editorials, journal articles and diplomatic accounts
+                                    illustrate that post-war Ireland had an open attitude toward the
+                                    settlement of borders on the Continent as the dissolution of the
+                                    Austro-Hungarian Empire was similarly controversial. This paper
+                                    proposes to investigate how contemporary Irish commentators
+                                    perceived the question of boundary settlements in Central Europe
+                                    in order to provide an insight into the transformation of
+                                    political space in both Ireland and Central Europe. Even though
+                                    the struggle between unionists and nationalists over the Home
+                                    Rule question had been part of Irish political debates before
+                                    the Great War, it was the Government of Ireland Act of 1920 that
+                                    eventually sought to create two states on the Irish Isle. A year
+                                    later, the Anglo-Irish Treaty allowed the recently formed state
+                                    of Northern Ireland to opt out of the Irish Free State.
+                                    Eventually, the North-Eastern Boundary Bureau (NEBB - October
+                                    1922) and later the Boundary Commission (November 1924) were
+                                    established to amend the (first provisional) border between
+                                    Northern Ireland and the Irish Free State, in accordance with
+                                    the wishes of the inhabitants. In order to support their claim,
+                                    the NEBB investigated similar boundary settlements in post-war
+                                    Europe. This paper will focus on the significance of precedents
+                                    from the territory of the former Austro-Hungarian Empire and the
+                                    impact these had on the Irish border question, 1920-1925.
+                                    Overall, the aim will be to illustrate how the very fact that
+                                    the question of boundaries was in dispute created a greater
+                                    Irish interest in territorial settlements in Europe. </entity:description>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="video1" USE="EXTERNAL">
+            <METS:FLocat USE="YOUTUBE"
+                         LOCTYPE="URL"
+                         xlink:href="https://www.youtube.com/embed/wkPhidqIwow"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37178"/>
+         <METS:div TYPE="entity" DMDID="dc.37249" ADMID="premis.37249 entity.37249">
+            <METS:fptr FILEID="video1"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/14267"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2012-11-30T16:18:38"
+                 LASTMODDATE="2017-02-09T10:49:39"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.14267" GROUPID="14267">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="slv">Represija nad pripadnicima njemačke manjine u Hrvatskoj, Bosni i Hercegovini i Vojvodini, 1944.–1948.</dcterms:title>
+            <dcterms:alternative xml:lang="eng">Repression against the Members of the German Minority in Croatia, Bosnia and Herzegovina, and Vojvodina 1944–1948</dcterms:alternative>
+            <dcterms:creator>Geiger, Vladimir</dcterms:creator>
+            <dcterms:abstract xml:lang="eng">Due to the wartime developments, until the end of World War II the majorityof Germans living in Croatia, Bosnia and Herzegovina and Vojvodina had fledor been driven from their homes, mostly to Austria and Germany where they also awaited the end of the war. Only those Germans not in immediate danger because of the war remained home. However, at the end of 1944 and in the beginning of 1945 a systematic persecution of the remaining ethnic Germans(»Volksdeutche«) in Yugoslavia was initiated by the partisan movement and the newly established people’s authorities. In particular, the decision of the Presidency of AVNOJ (Anti-Fascist Council of National Liberation of Yugoslavia)of 21 November 1944, pronouncing the members of the German minority as collectively guilty, contributed to this. War crimes perpetrated by some of the Yugoslav ethnic Germans and their disloyalty during the occupation served asa reason and justify caution for the inhuman actions taken against the German minorityat the end of the war and in the post-war period. During the wartime operations and immediately after them the German inhabitants who failed to escape were at the mercy of the victors. After the war the Yugoslav communist authorities confiscated the property of the members of the German minority and took away their national and citizen rights. Those Yugoslav Germans who could prove that they had participated in the partisan movementor supported it were not among the victims of collective retaliation. Immediately after the war the Yugoslav communist authorities prohibited the return of ethnic Germans who had escaped or been exiled, while those of them still in Yugoslavia were to be deported from the country and were interned into the repatriation camps. As the deportation of the ethnic Germans from Yugoslavia was, in the summer of 1945, prevented by the closing of the Austrian-Yugoslav border by the Allied occupation authorities, who opposed the Yugoslav intentions, most of the Volksdeutsche ended up in the camps, condemned to several years of forced labour. After the camps had been abolished and the prisoners had been released, in the 1950s the majority of Germans from Croatia, Bosnia and Herzegovina and Vojvodina moved to Austria and Germany because of their difficult position and lack of any prospects in Yugoslavia. The attitude of the partisan movement and the »people’s« authorities towards the Yugoslav Germans, legally declared as collectively guilty, is an evident example of ethnic cleansingin Yugoslavia at the end of World War II and in the immediate post-war period.</dcterms:abstract>
+            <dcterms:abstract xml:lang="hrv">Do potkraj Drugoga svjetskog rata većina hrvatskih, bosansko-hercegovačkihi vojvođanskih Nijemaca, uslijed ratnih događanja, izbjegla je ili je protjeranaiz svojih domova, pretežito u Austriju i Njemačku, gdje su i dočekali završetak rata. U zavičaju su ostali mahom oni Nijemci koji nisu bili izloženine posrednoj ratnoj opasnosti. No, potkraj 1944. i početkom 1945. počinje odstrane partizanskog pokreta i novo uspostavljenih narodnih vlasti sustavan progon preostalih folksdojčera u Jugoslaviji. Tome je napose pridonijela i odluka Predsjedništva AVNOJ-a od 21. studenoga 1944., koja je pripadnike njemačke manjine proglasila kolektivnim krivcima. Ratni zločini koje je dio jugoslavenskih folksdojčera počinio, te njihovo nelojalno držanje tijekom okupacije, poslužilisu i kao razlog i kao opravdanje za neljudsko postupanje sa njemačkom manjinom potkraj i nakon rata. Njemačko stanovništvo, koje nije izbjeglo, bilo je tijekom i neposredno nakonratnih djelovanja prepušteno samovolji pobjednika. Nakon rata komunistička vlast u Jugoslaviji pripadnicima njemačke manjine konfiscirala je imovinu i oduzela nacionalna i građanska prava. Žrtve kolektivne odmazde nisu bili oni jugoslavenski Nijemci koji su mogli dokazati sudjelovanje u partizanskom pokretuili njegovo potpomaganje. U neposrednom poraću jugoslavenske komunističkevlasti su zauzele stajalište o zabrani povratka izbjeglih i protjeranih folksdojčera, a one preostale u Jugoslaviji namjeravale su protjerati iz zemlje,te su ih internirali u logore za repatrijaciju. Kako je protjerivanje folksdojčeraiz Jugoslavije zbog zatvaranja austrijsko-jugoslavenske granice od strane savezničkihokupacijskih vlasti u ljeto 1945., koje su iskazivale protivljenje jugoslavenskimnastojanjima, to onemogućilo za većinu folksdojčera slijede logorii višegodišnji prisilni rad. Nakon ukidanja logora i puštanja na slobodu, najvećibroj hrvatskih, bosansko-hercegovačkih i vojvođanskih Nijemaca je zbog svogapoložaja i bezperspektivnosti u Jugoslaviji, tijekom pedesetih godina 20. stoljećaiselio u Austriju i Njemačku. Odnos partizanskog pokreta i »narodnih« vlastiprema jugoslavenskim Nijemcima, kojima je pripisana i ozakonjena kolektivnakrivnja, ogledni je primjer etničkoga čišćenja u Jugoslaviji potkraj Drugogasvjetskog rata i u neposrednom poraću.</dcterms:abstract>
+            <dcterms:publisher>Inštitut za novejšo zgodovino/Institute of Contemporary History, Ljubljana</dcterms:publisher>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2012-11-07</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">MovingImage</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">hrv</dcterms:language>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.14267">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>14267</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/14267</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.14267">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="slv">
+                  <p xmlns="http://sistory.si/schema/sistory/v3/entity">Do potkraj Drugoga svjetskog rata većina hrvatskih,
+                                        bosansko-hercegovačkihi vojvođanskih Nijemaca, uslijed
+                                        ratnih događanja, izbjegla je ili je protjeranaiz svojih
+                                        domova, pretežito u Austriju i Njemačku, gdje su i dočekali
+                                        završetak rata. U zavičaju su ostali mahom oni Nijemci koji
+                                        nisu bili izloženine posrednoj ratnoj opasnosti. No, potkraj
+                                        1944. i početkom 1945. počinje odstrane partizanskog pokreta
+                                        i novo uspostavljenih narodnih vlasti sustavan progon
+                                        preostalih folksdojčera u Jugoslaviji. Tome je napose
+                                        pridonijela i odluka Predsjedništva AVNOJ-a od 21. studenoga
+                                        1944., koja je pripadnike njemačke manjine proglasila
+                                        kolektivnim krivcima. Ratni zločini koje je dio
+                                        jugoslavenskih folksdojčera počinio, te njihovo nelojalno
+                                        držanje tijekom okupacije, poslužilisu i kao razlog i kao
+                                        opravdanje za neljudsko postupanje sa njemačkom manjinom
+                                        potkraj i nakon rata. Njemačko stanovništvo, koje nije
+                                        izbjeglo, bilo je tijekom i neposredno nakonratnih
+                                        djelovanja prepušteno samovolji pobjednika. Nakon rata
+                                        komunistička vlast u Jugoslaviji pripadnicima njemačke
+                                        manjine konfiscirala je imovinu i oduzela nacionalna i
+                                        građanska prava. Žrtve kolektivne odmazde nisu bili oni
+                                        jugoslavenski Nijemci koji su mogli dokazati sudjelovanje u
+                                        partizanskom pokretuili njegovo potpomaganje. U neposrednom
+                                        poraću jugoslavenske komunističkevlasti su zauzele
+                                        stajalište o zabrani povratka izbjeglih i protjeranih
+                                        folksdojčera, a one preostale u Jugoslaviji namjeravale su
+                                        protjerati iz zemlje,te su ih internirali u logore za
+                                        repatrijaciju. Kako je protjerivanje folksdojčeraiz
+                                        Jugoslavije zbog zatvaranja austrijsko-jugoslavenske granice
+                                        od strane savezničkihokupacijskih vlasti u ljeto 1945., koje
+                                        su iskazivale protivljenje jugoslavenskimnastojanjima, to
+                                        onemogućilo za većinu folksdojčera slijede logorii
+                                        višegodišnji prisilni rad. Nakon ukidanja logora i puštanja
+                                        na slobodu, najvećibroj hrvatskih, bosansko-hercegovačkih i
+                                        vojvođanskih Nijemaca je zbog svogapoložaja i
+                                        bezperspektivnosti u Jugoslaviji, tijekom pedesetih godina
+                                        20. stoljećaiselio u Austriju i Njemačku. Odnos partizanskog
+                                        pokreta i »narodnih« vlastiprema jugoslavenskim Nijemcima,
+                                        kojima je pripisana i ozakonjena kolektivnakrivnja, ogledni
+                                        je primjer etničkoga čišćenja u Jugoslaviji potkraj
+                                        Drugogasvjetskog rata i u neposrednom poraću.</p>
+               </entity:description>
+               <entity:description xml:lang="eng">
+                  <p xmlns="http://sistory.si/schema/sistory/v3/entity">Due to the wartime developments, until the end of World War
+                                        II the majorityof Germans living in Croatia, Bosnia and
+                                        Herzegovina and Vojvodina had fledor been driven from their
+                                        homes, mostly to Austria and Germany where they also awaited
+                                        the end of the war. Only those Germans not in immediate
+                                        danger because of the war remained home. However, at the end
+                                        of 1944 and in the beginning of 1945 a systematic
+                                        persecution of the remaining ethnic Germans(»Volksdeutche«)
+                                        in Yugoslavia was initiated by the partisan movement and the
+                                        newly established people’s authorities. In particular, the
+                                        decision of the Presidency of AVNOJ (Anti-Fascist Council of
+                                        National Liberation of Yugoslavia)of 21 November 1944,
+                                        pronouncing the members of the German minority as
+                                        collectively guilty, contributed to this. War crimes
+                                        perpetrated by some of the Yugoslav ethnic Germans and their
+                                        disloyalty during the occupation served asa reason and
+                                        justify caution for the inhuman actions taken against the
+                                        German minorityat the end of the war and in the post-war
+                                        period. During the wartime operations and immediately after
+                                        them the German inhabitants who failed to escape were at the
+                                        mercy of the victors. After the war the Yugoslav communist
+                                        authorities confiscated the property of the members of the
+                                        German minority and took away their national and citizen
+                                        rights. Those Yugoslav Germans who could prove that they had
+                                        participated in the partisan movementor supported it were
+                                        not among the victims of collective retaliation. Immediately
+                                        after the war the Yugoslav communist authorities prohibited
+                                        the return of ethnic Germans who had escaped or been exiled,
+                                        while those of them still in Yugoslavia were to be deported
+                                        from the country and were interned into the repatriation
+                                        camps. As the deportation of the ethnic Germans from
+                                        Yugoslavia was, in the summer of 1945, prevented by the
+                                        closing of the Austrian-Yugoslav border by the Allied
+                                        occupation authorities, who opposed the Yugoslav intentions,
+                                        most of the Volksdeutsche ended up in the camps, condemned
+                                        to several years of forced labour. After the camps had been
+                                        abolished and the prisoners had been released, in the 1950s
+                                        the majority of Germans from Croatia, Bosnia and Herzegovina
+                                        and Vojvodina moved to Austria and Germany because of their
+                                        difficult position and lack of any prospects in Yugoslavia.
+                                        The attitude of the partisan movement and the »people’s«
+                                        authorities towards the Yugoslav Germans, legally declared
+                                        as collectively guilty, is an evident example of ethnic
+                                        cleansingin Yugoslavia at the end of World War II and in the
+                                        immediate post-war period.</p>
+               </entity:description>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="video1" USE="EXTERNAL">
+            <METS:FLocat USE="YOUTUBE"
+                         LOCTYPE="URL"
+                         xlink:href="http://www.youtube.com/embed/ytXUTSEODTg"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/14256"/>
+         <METS:div TYPE="entity" DMDID="dc.14267" ADMID="premis.14267 entity.14267">
+            <METS:fptr FILEID="video1"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

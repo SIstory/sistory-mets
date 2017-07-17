@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/20424"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2014-01-05T10:16:11"
+                 LASTMODDATE="2017-02-13T12:15:26"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.20424" GROUPID="20424">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="slv">Mojega življenja pot</dcterms:title>
+            <dcterms:title xml:lang="slv">Spomini dr. Vladimirja Ravniharja</dcterms:title>
+            <dcterms:creator>Ravnihar, Vladimir</dcterms:creator>
+            <dcterms:description xml:lang="slv">Prvi Ravnihar, ki ga omenja Slovenski biografski leksikon, je Janez (1798-1876), rojen ob koncu 18. stoletja v Škofji Loki, oskrbnik raznih graščin in vinski trgovec. Sledijo mu trije njegovi sinovi: Ludvik (1827-1901), sodnik in politik, v letih 1867- 1870 prvi slovenski deželni poslanec dolenjskih mest, Franc (1832-1904), deželni uradnik, eden ustanoviteljev ljubljanske čitalnice, Sokola, Dramatičnega društva in Glasbene matice, in sodnik Nikomed (1840-1928). Tretjo generacijo zastopa v Slovenskem biografskem leksikonu Francetov sin Vladimir (1871-1954), pisec naših spominov, četrto pa njegova otroka Evgenij (1912-1949) in Božena (rojena 1914). Dr. Vladimir Ravnihar je s svojim delom v Glasbeni matici, Sokolu in drugih društvih nadaljeval in širil očetovo delo, po politični aktivnosti pa je daleč presegel strica Ludvika. O političnih prilikah njegovega časa naj tu spregovorim nekaj besed. Od prve službe (1895) do nemško-italijanskega napada na Jugoslavijo (1941), ki z njim zaključuje svoje spomine, je preživel Ravnihar približno pol časa v habsburški monarhiji, pol pa v kraljevini Jugoslaviji. Obe obdobji sta bili seveda zelo različni. V prvem je gospodoval Dunaj, v drugem Beograd. Drugačno je bilo gospodarsko, geografsko, kulturno, jezikovno, politično in še marsikakšno okolje. Vendar pa so obe obdobji pretresali narodnostni boji, v vsaki državi drugačni, Slovence pa še boji med liberalnim in katoliškim taborom, v obeh državah podobni.</dcterms:description>
+            <dcterms:tableOfContents xml:lang="slv">Janez CVIRN ............................................................................................................. 7 UREDNIŠKI ZAPIS Božena RAVNIHAR.................................................................................................. 8 SPOMINI NA OČETA Vasilij MELIK............................................................................................................ 10 POLITIČNA SLIKA RAVNIHARJEVEGA ČASA Vladimir RAVNIHAR............................................................................................... 17 MOJEGA ŽIVLJENJA POT</dcterms:tableOfContents>
+            <dcterms:tableOfContents xml:lang="eng">Janez CVIRN ............................................................................................................. 7 UREDNIŠKI ZAPIS Božena RAVNIHAR.................................................................................................. 8 SPOMINI NA OČETA Vasilij MELIK............................................................................................................ 10 POLITIČNA SLIKA RAVNIHARJEVEGA ČASA Vladimir RAVNIHAR............................................................................................... 17 MOJEGA ŽIVLJENJA POT</dcterms:tableOfContents>
+            <dcterms:subject xml:lang="slv">Slovenija</dcterms:subject>
+            <dcterms:subject xml:lang="slv">politična zgodovina</dcterms:subject>
+            <dcterms:subject xml:lang="slv">20. stoletje</dcterms:subject>
+            <dcterms:subject xml:lang="slv">slovenski politiki</dcterms:subject>
+            <dcterms:subject xml:lang="slv">spomini</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Slovenia</dcterms:subject>
+            <dcterms:subject xml:lang="eng">political history</dcterms:subject>
+            <dcterms:subject xml:lang="eng">20 century</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Slovenian politicians</dcterms:subject>
+            <dcterms:subject xml:lang="eng">memories</dcterms:subject>
+            <dcterms:publisher>Oddelek za zgodovino Filozofske fakultete Univerze v Ljubljani, Ljubljana</dcterms:publisher>
+            <dcterms:contributor>Božena Ravnihar</dcterms:contributor>
+            <dcterms:contributor>Janez Cvirn</dcterms:contributor>
+            <dcterms:contributor>Vasilij Melik</dcterms:contributor>
+            <dcterms:contributor>Dušan Nećak</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:W3CDTF">1997</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">Text</dcterms:type>
+            <dcterms:identifier>COBISS.SI-ID 68126208</dcterms:identifier>
+            <dcterms:language xsi:type="dcterms:ISO639-3">slv</dcterms:language>
+            <dcterms:isPartOf xsi:type="dcterms:URI">http://hdl.handle.net/11686/20230</dcterms:isPartOf>
+            <dcterms:isPartOf xsi:type="dcterms:URI">http://hdl.handle.net/11686/20273</dcterms:isPartOf>
+            <dcterms:license xsi:type="dcterms:URI">http://creativecommons.org/licenses/by-nc-nd/2.5/si/</dcterms:license>
+            <dcterms:license xml:lang="slv">Priznanje avtorstva-Nekomercialo-Brez predelav 2.5 Slovenija (CC BY-NC-ND 2.5 SI)</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:dmdSec ID="mods.20424" GROUPID="20424">
+      <METS:mdWrap MDTYPE="MODS" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <mods:relatedItem type="series">
+               <mods:relatedItem type="series">
+                  <mods:titleInfo>
+                     <mods:title>Historia: znanstvena zbirka Oddelka za zgodovino Filozofska fakultete v Ljubljani</mods:title>
+                  </mods:titleInfo>
+                  <mods:part>
+                     <mods:detail type="volumens">
+                        <mods:number>2</mods:number>
+                     </mods:detail>
+                  </mods:part>
+               </mods:relatedItem>
+            </mods:relatedItem>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.20424">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>20424</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/20424</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.20424">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="slv">
+                  <p xmlns="http://sistory.si/schema/sistory/v3/entity"> Prvi Ravnihar, ki ga omenja Slovenski biografski leksikon,
+                                        je Janez (1798-1876), rojen ob koncu 18. stoletja v Škofji
+                                        Loki, oskrbnik raznih graščin in vinski trgovec. Sledijo mu
+                                        trije njegovi sinovi: Ludvik (1827-1901), sodnik in politik,
+                                        v letih 1867- 1870 prvi slovenski deželni poslanec
+                                        dolenjskih mest, Franc (1832-1904), deželni uradnik, eden
+                                        ustanoviteljev ljubljanske čitalnice, Sokola, Dramatičnega
+                                        društva in Glasbene matice, in sodnik Nikomed (1840-1928).
+                                        Tretjo generacijo zastopa v Slovenskem biografskem leksikonu
+                                        Francetov sin Vladimir (1871-1954), pisec naših spominov,
+                                        četrto pa njegova otroka Evgenij (1912-1949) in Božena
+                                        (rojena 1914). Dr. Vladimir Ravnihar je s svojim delom v
+                                        Glasbeni matici, Sokolu in drugih društvih nadaljeval in
+                                        širil očetovo delo, po politični aktivnosti pa je daleč
+                                        presegel strica Ludvika. O političnih prilikah njegovega
+                                        časa naj tu spregovorim nekaj besed. Od prve službe (1895)
+                                        do nemško-italijanskega napada na Jugoslavijo (1941), ki z
+                                        njim zaključuje svoje spomine, je preživel Ravnihar
+                                        približno pol časa v habsburški monarhiji, pol pa v
+                                        kraljevini Jugoslaviji. Obe obdobji sta bili seveda zelo
+                                        različni. V prvem je gospodoval Dunaj, v drugem Beograd.
+                                        Drugačno je bilo gospodarsko, geografsko, kulturno,
+                                        jezikovno, politično in še marsikakšno okolje. Vendar pa so
+                                        obe obdobji pretresali narodnostni boji, v vsaki državi
+                                        drugačni, Slovence pa še boji med liberalnim in katoliškim
+                                        taborom, v obeh državah podobni. </p>
+               </entity:description>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="file9735"
+                    OWNERID="Mojega_zivljenja_pot.pdf"
+                    MIMETYPE="application/pdf">
+            <METS:FLocat LOCTYPE="HANDLE" xlink:href="https://hdl.handle.net/11686/file9735"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="primary">
+      <METS:div TYPE="collection">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/menu17"/>
+         <METS:div TYPE="entity"
+                   DMDID="dc.20424 mods.20424"
+                   ADMID="premis.20424 entity.20424">
+            <METS:fptr FILEID="file9735"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

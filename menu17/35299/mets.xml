@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/35299"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2016-06-16T11:37:39"
+                 LASTMODDATE="2017-02-13T11:43:07"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.35299" GROUPID="35299">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="slv">"Reakcionarna suha veja na živem narodovem telesu..." (Boris Kidrič)</dcterms:title>
+            <dcterms:title xml:lang="slv">Rdeča legenda o kolaboraciji</dcterms:title>
+            <dcterms:alternative xml:lang="eng">»A Reactionary Dry Branch on the Living Body of Our Nation ...« (Boris Kidrič)</dcterms:alternative>
+            <dcterms:alternative xml:lang="eng">The Red Legend about Collaboration</dcterms:alternative>
+            <dcterms:creator>Griesser-Pečar, Tamara</dcterms:creator>
+            <dcterms:abstract xml:lang="slv">V Sloveniji so si komunisti po drugi svetovni vojni oblast zagotovili tako, da so večplastni osvobodilni boj proti okupatorju izkoristili za svoje načrte o prevzemu oblasti, ga izkrivili in izrabili zase. Uspelo jim ga je izenačiti s komunističnim odporom in predstavnike nekomunističnih tokov izločiti kot »kolaboracioniste«. Ta falzifikat je učinkovit še danes - tudi kot posledica ideološko pobarvanih učbenikov. Začeli so ga graditi 16.9.1941, ko je Vrhovni plenum OF monopoliziral odpor in sprejet t. i. »zaščitni odlok«. Prispevek bo prikazal nastanek in razvoj tega falzifikata, ki je imel za posledico številne zločine, tudi povojne množične pomore, izločitev vsake opozicije v deželi, zapiranje in sojenje nasprotnikov, proticerkveno naravnane prisilne ukrepe, izselitve itd.</dcterms:abstract>
+            <dcterms:abstract xml:lang="eng">At the end of the Second World War, communists in Slovenia seized power by manipulating, adjusting, and distorting the multi-layered national liberation war to correspond to their own plans. A resuit of their successful manipulation was that the war for the liberation of Yugoslavia and Slovenia was perceived as communist resistance and all non-communists branded as »collaborators.« Largely due to ideologically distorted textbooks for history this falsification is still in effect. It was b om on September 16, 1941, when the Liberation Front Supreme Plenum passed the so-called protective decree and monopolized the resistance. The paper will examine the origin and the development of this falsification that resulted in numerous crimes, mass executions after the war, elimination of any opposition, imprisonment and trial of politicai opponents, forced measures against representatives and supporters of the Catholic Church, deportations, etc.</dcterms:abstract>
+            <dcterms:subject xml:lang="slv">mit</dcterms:subject>
+            <dcterms:subject xml:lang="slv">kolaboracija</dcterms:subject>
+            <dcterms:subject xml:lang="slv">revolucija</dcterms:subject>
+            <dcterms:subject xml:lang="slv">NOB</dcterms:subject>
+            <dcterms:subject xml:lang="slv">OF</dcterms:subject>
+            <dcterms:subject xml:lang="slv">zaščitni odlok</dcterms:subject>
+            <dcterms:subject xml:lang="slv">monopolizacija</dcterms:subject>
+            <dcterms:subject xml:lang="slv">propaganda</dcterms:subject>
+            <dcterms:subject xml:lang="eng">myth</dcterms:subject>
+            <dcterms:subject xml:lang="eng">collaboration</dcterms:subject>
+            <dcterms:subject xml:lang="eng">revolution</dcterms:subject>
+            <dcterms:subject xml:lang="eng">National Liberation War</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Liberation Front</dcterms:subject>
+            <dcterms:subject xml:lang="eng">protective decree</dcterms:subject>
+            <dcterms:subject xml:lang="eng">monopolization</dcterms:subject>
+            <dcterms:subject xml:lang="eng">propaganda</dcterms:subject>
+            <dcterms:publisher>Zveza Zgodovinskih društev Slovenije, Ljubljana</dcterms:publisher>
+            <dcterms:contributor>Mitja Ferenc (ur.)</dcterms:contributor>
+            <dcterms:contributor>Branka Petkovšek (ur.)</dcterms:contributor>
+            <dcterms:contributor>Nives Sulič Dular (prev. ang.)</dcterms:contributor>
+            <dcterms:contributor>Matjaž Klemenčič (prev. ang.)</dcterms:contributor>
+            <dcterms:contributor>Stanislav Južnič (prev. ang.)</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2006</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">Text</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">slv</dcterms:language>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:dmdSec ID="mods.35299" GROUPID="35299">
+      <METS:mdWrap MDTYPE="MODS" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <mods:relatedItem type="series">
+               <mods:relatedItem type="series">
+                  <mods:titleInfo>
+                     <mods:title>Zbirka Zgodovinskega časopisa</mods:title>
+                  </mods:titleInfo>
+                  <mods:part>
+                     <mods:detail type="volumens">
+                        <mods:number>32</mods:number>
+                     </mods:detail>
+                  </mods:part>
+               </mods:relatedItem>
+            </mods:relatedItem>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.35299">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>35299</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/35299#page=363</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.35299">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> V Sloveniji so si
+                                    komunisti po drugi svetovni vojni oblast zagotovili tako, da so
+                                    večplastni osvobodilni boj proti okupatorju izkoristili za svoje
+                                    načrte o prevzemu oblasti, ga izkrivili in izrabili zase. Uspelo
+                                    jim ga je izenačiti s komunističnim odporom in predstavnike
+                                    nekomunističnih tokov izločiti kot »kolaboracioniste«. Ta
+                                    falzifikat je učinkovit še danes - tudi kot posledica ideološko
+                                    pobarvanih učbenikov. Začeli so ga graditi 16.9.1941, ko je
+                                    Vrhovni plenum OF monopoliziral odpor in sprejet t. i. »zaščitni
+                                    odlok«. Prispevek bo prikazal nastanek in razvoj tega
+                                    falzifikata, ki je imel za posledico številne zločine, tudi
+                                    povojne množične pomore, izločitev vsake opozicije v deželi,
+                                    zapiranje in sojenje nasprotnikov, proticerkveno naravnane
+                                    prisilne ukrepe, izselitve itd. </entity:description>
+               <entity:description xml:lang="eng"> At the end of the Second
+                                    World War, communists in Slovenia seized power by manipulating,
+                                    adjusting, and distorting the multi-layered national liberation
+                                    war to correspond to their own plans. A resuit of their
+                                    successful manipulation was that the war for the liberation of
+                                    Yugoslavia and Slovenia was perceived as communist resistance
+                                    and all non-communists branded as »collaborators.« Largely due
+                                    to ideologically distorted textbooks for history this
+                                    falsification is still in effect. It was b om on September 16,
+                                    1941, when the Liberation Front Supreme Plenum passed the
+                                    so-called protective decree and monopolized the resistance. The
+                                    paper will examine the origin and the development of this
+                                    falsification that resulted in numerous crimes, mass executions
+                                    after the war, elimination of any opposition, imprisonment and
+                                    trial of politicai opponents, forced measures against
+                                    representatives and supporters of the Catholic Church,
+                                    deportations, etc. </entity:description>
+               <entity:page>363</entity:page>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/35240"/>
+         <METS:div TYPE="entity"
+                   DMDID="dc.35299 mods.35299"
+                   ADMID="premis.35299 entity.35299"/>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

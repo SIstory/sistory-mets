@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/37253"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2017-03-13T09:11:48"
+                 LASTMODDATE="2017-03-14T13:52:46"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.81" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.37253" GROUPID="37253">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="eng">Border Rivers as a Global Feature</dcterms:title>
+            <dcterms:alternative xml:lang="slv">Mejne reke kot globalni pojav</dcterms:alternative>
+            <dcterms:creator>Kladnik, Drago</dcterms:creator>
+            <dcterms:creator>Zorn, Matija</dcterms:creator>
+            <dcterms:subject xml:lang="slv">mejne reke</dcterms:subject>
+            <dcterms:subject xml:lang="slv">naravne meje</dcterms:subject>
+            <dcterms:subject xml:lang="slv">politične meje</dcterms:subject>
+            <dcterms:subject xml:lang="slv">geografija</dcterms:subject>
+            <dcterms:subject xml:lang="eng">natural borders</dcterms:subject>
+            <dcterms:subject xml:lang="eng">political borders</dcterms:subject>
+            <dcterms:subject xml:lang="eng">border rivers</dcterms:subject>
+            <dcterms:subject xml:lang="eng">geography</dcterms:subject>
+            <dcterms:publisher>Inštitut za novejšo zgodovino, Ljubljana</dcterms:publisher>
+            <dcterms:publisher>Oddelek za zgodovino Filozofske fakultete Univerze v Ljubljani, Ljubljana</dcterms:publisher>
+            <dcterms:contributor>Marko Zajc</dcterms:contributor>
+            <dcterms:contributor>Jernej Kosi</dcterms:contributor>
+            <dcterms:contributor>Zdenko Čepič</dcterms:contributor>
+            <dcterms:contributor>Neja Blaj Hribar</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:Period">start=24.11.2016; end=26.11.2016; name=; scheme=; </dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">MovingImage</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">eng</dcterms:language>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.37253">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>37253</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/37253</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.37253">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Politične meje se,
+                                    kolikor je le mogoče, naslanjajo na naravne, zlasti orografske
+                                    in hidrografske meje. Čeprav je reka v smislu vodotoka izvorno
+                                    naraven pojav, je mejna reka s pridobitvijo razmejitvene
+                                    funkcije povsem družbeno dejstvo. Podobno kot za Slovenijo to
+                                    velja, ponekod še bolj izrazito, za reke po svetu in v Evropi,
+                                    kjer ta fenomen ponekod že sistematično raziskujejo. V prispevku
+                                    podajamo sistematičen pregled mejnih rek za ves planet,
+                                    posamezne celine in tudi posamezne države, pri čemer
+                                    izpostavljamo tiste, kjer je delež rečnih mej od celotne dolžine
+                                    njihovih državnih mej največji. Mejne reke analiziramo z vidika
+                                    njihovih dimenzij, stopnje preoblikovanosti po človeku in
+                                    pomembnejših geografskih pojavov ob in na njih, kot so velika
+                                    mesta, mostovi, hidroelektrarne, akumulacijska jezera, rečna
+                                    pristanišča. Razvrščamo jih z vidika velikosti državnega
+                                    ozemlja, temeljnih naravnih značilnosti (gorski tok, srednji
+                                    tok, nižinski tok), podnebnih pasov in gostote poseljenosti
+                                    vzdolž njih. Podajamo tudi pregled sodobnih in zgodovinskih
+                                    najbolj znanih mejnih sporov vzdolž rek po svetu, pri čemer je
+                                    lahko mejna reka le prizorišče dogajanj ali pa predmet
+                                    meddržavnega spora, ki je prerasel v oborožen spopad. </entity:description>
+               <entity:description xml:lang="eng"> Political borders rely
+                                    as much as possible on natural borders, especially those created
+                                    by mountains and rivers. Even though a river in the sense of a
+                                    watercourse is a natural feature, a border river primarily
+                                    becomes a social fact when it acquires a demarcating function.
+                                    As in Slovenia, this applies ‒ sometimes even more distinctly ‒
+                                    to rivers throughout the world and in Europe, where this
+                                    phenomenon has already been systematically studied. This article
+                                    systematically reviews border rivers for the entire planet,
+                                    individual continents, and individual countries, highlighting
+                                    those where the share of river borders is the greatest in
+                                    relation to the total length of the country’s borders. Border
+                                    rivers are analyzed with regard to their dimensions, degree of
+                                    artificial transformation, and important geographical features
+                                    along and on them, such as major towns, bridges, hydroelectric
+                                    plants, reservoirs, and river ports. They are categorized with
+                                    regard to the size of the country, basic natural features
+                                    (upper, middle, and lower flow), climate zones, and density of
+                                    settlement along them. The current and historically best-known
+                                    border disputes along rivers throughout the world are also
+                                    examined, in which a border river may have only been the scene
+                                    of events or the object in an international dispute that led to
+                                    armed conflict. </entity:description>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="video1" USE="EXTERNAL">
+            <METS:FLocat USE="YOUTUBE"
+                         LOCTYPE="URL"
+                         xlink:href="https://www.youtube.com/embed/30FiaiShX3o"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37178"/>
+         <METS:div TYPE="entity" DMDID="dc.37253" ADMID="premis.37253 entity.37253">
+            <METS:fptr FILEID="video1"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

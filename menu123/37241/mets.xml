@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/37241"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2017-03-13T09:05:14"
+                 LASTMODDATE="2017-03-14T13:22:57"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.81" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.37241" GROUPID="37241">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="eng">Presentation of the edited volume Borderland Studies Meets Child Studies A European Encounter (Frankfurt am M., Peter Lang Verlag, 2017)</dcterms:title>
+            <dcterms:alternative xml:lang="slv">Predstavitev knjige Obmejne študije in otroške študije. Evropsko srečanje. Frankfurt na Majni., Peter Lang Verlag, 2017.</dcterms:alternative>
+            <dcterms:creator>Venken, Machteld</dcterms:creator>
+            <dcterms:subject xml:lang="slv">predstavitev knjige</dcterms:subject>
+            <dcterms:subject xml:lang="slv">obmejne študije</dcterms:subject>
+            <dcterms:subject xml:lang="slv">Evropsko srečanje</dcterms:subject>
+            <dcterms:subject xml:lang="slv">otroške študije</dcterms:subject>
+            <dcterms:subject xml:lang="eng">book presentation</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Borderland Studies</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Child Studies</dcterms:subject>
+            <dcterms:subject xml:lang="eng">European Encounter</dcterms:subject>
+            <dcterms:publisher>Inštitut za novejšo zgodovino, Ljubljana</dcterms:publisher>
+            <dcterms:publisher>Oddelek za zgodovino Filozofske fakultete Univerze v Ljubljani, Ljubljana</dcterms:publisher>
+            <dcterms:contributor>Marko Zajc</dcterms:contributor>
+            <dcterms:contributor>Jernej Kosi</dcterms:contributor>
+            <dcterms:contributor>Zdenko Čepič</dcterms:contributor>
+            <dcterms:contributor>Neja Blaj Hribar</dcterms:contributor>
+            <dcterms:contributor>Elif Becan</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:Period">start=24.11.2016; end=26.11.2016; name=; scheme=; </dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">MovingImage</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">eng</dcterms:language>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.37241">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>37241</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/37241</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.37241">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Čeprav so se v 20.
+                                    stoletju meje v Evropi precej spreminjale in so se evropske
+                                    nacionalne države vedno bolj zanimale za otroke, tematika
+                                    obmejnih otrok v Evropi še vedno ni dovolj raziskana. Na podlagi
+                                    ugotovitev raziskovalcev s področja obmejnih študij, ki so
+                                    pokazale, da so bila obmejna območja središče bojev za prevlado,
+                                    ter raziskovalcev s področja otroških študij, ki so opisali,
+                                    kako natančno so države izrazile svoje načrte v programih za
+                                    otroke, je v tem urejenem delu predstavljena primerjalna analiza
+                                    zgodovine otrok ob mejah. V prispevkih je predstavljenih več
+                                    novih ugotovitev in nova hipoteza. Kot se je izkazalo, naj bi
+                                    imeli otroci, ne pa njihovi starši, glavno vlogo pri doseganju
+                                    cilja miroljubne Evrope, ki so si ga zamislili udeleženci
+                                    mednarodnih mirovnih konferenc, ko so spreminjali suverenost
+                                    obmejnih območij, na katerih so ti otroci prebivali. Iz vseh
+                                    prispevkov je razvidna kompleksnost nacionalizacije na različnih
+                                    in pogosto predhodno neodkritih področij življenja otrok ob
+                                    mejah. Prispevki so nam omogočili tudi podrobnejši vpogled v
+                                    dihotomijo med nacionalističnimi politikami, namenjenimi
+                                    obmejnim otrokom, in jasnimi ne-nacionalnimi praksami teh otrok,
+                                    ki so jih raziskovali zgodovinarji šolstva v medvojnem obdobju.
+                                    Razkrivajo tudi druge vidike življenja otrok med vojnama in
+                                    nacionalistično izobraževanje na obmejnih področjih po drugi
+                                    svetovni vojni. Če prispevke beremo primerjalno, si lahko
+                                    drznemo postaviti novo hipotezo. Kljub različnim predstavam
+                                    Vzhoda in Zahoda, ki so vplivale na odločitve mirovnih
+                                    pogajalcev po obeh svetovnih vojnah, so obmejni otroci vzhodne
+                                    in zahodne polovice evropske celine iznašli presenetljivo
+                                    podobne prakse, ki so prispevale k nastanku kohezivnejše
+                                    evropske družbe. To bržkone pomeni, da bi bilo treba pri
+                                    definiciji evropeizacije upoštevati specifičnost različnih
+                                    zgodovinskih dejavnikov, vključno z otroki, ne pa da temelji
+                                    zgolj na diskurzu oblastnikov v danem zgodovinskem trenutku.
+                                </entity:description>
+               <entity:description xml:lang="eng"> Although the 20th
+                                    century experienced a significant number of border changes in
+                                    Europe and saw European nation-states substantially increasing
+                                    their interest in children, Europe's borderland children remain
+                                    under-researched. Starting from the research findings of
+                                    borderland scholars, who found that borderlands were central
+                                    sites of power struggle, and of childhood scholars, who
+                                    delineated how precisely states expressed their plans in their
+                                    programs for children, this edited volume provides a comparative
+                                    analysis of the history of borderland children. The
+                                    contributions revealed various new findings and a new
+                                    hypothesis. More than their parents, it turned out, it was the
+                                    children who were envisioned to play a crucial role in bringing
+                                    about the peaceful Europe that representatives at international
+                                    peace conferences had had in mind while changing the sovereignty
+                                    of the borderlands these children inhabited. Each of the
+                                    individual contributions showed the complexity of
+                                    nationalisation within various, often previously undiscovered,
+                                    spheres of borderland children´s lives. They also deepened our
+                                    insights into the dichotomy between the nationalist policies
+                                    executed towards borderland children and the manifest
+                                    non-national practices of these children that had been
+                                    investigated by historians for schooling during the interwar
+                                    period. They shed light on other aspects of interwar children´s
+                                    life-worlds, as well as on borderland nationalist education
+                                    after the Second World War. Reading the contributions
+                                    comparatively, one might hazard a new hypothesis. Despite the
+                                    different imaginations of East and West that had influenced the
+                                    decisions of peace negotiators after both World Wars, borderland
+                                    children, in strikingly similar ways on the Eastern and Western
+                                    halves of the European continent, came to invent practices that
+                                    contributed to the creation of a more socially cohesive Europe.
+                                    This seems to indicate that a definition of Europeanisation
+                                    should be sensitive to the specificity of various historical
+                                    agents, including children, instead of simply being based on the
+                                    discourse of those who held the reigns of power at a given time
+                                    in the past. </entity:description>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="video1" USE="EXTERNAL">
+            <METS:FLocat USE="YOUTUBE"
+                         LOCTYPE="URL"
+                         xlink:href="https://www.youtube.com/embed/BoMuQDDDLWo"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37178"/>
+         <METS:div TYPE="entity" DMDID="dc.37241" ADMID="premis.37241 entity.37241">
+            <METS:fptr FILEID="video1"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

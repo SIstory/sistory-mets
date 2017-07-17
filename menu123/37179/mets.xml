@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/37179"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2017-03-07T16:24:15"
+                 LASTMODDATE="2017-05-16T12:15:24"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.37179" GROUPID="37179">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="slv">Starost – izzivi historičnega raziskovanja</dcterms:title>
+            <dcterms:title xml:lang="slv">Ljubljana, 8. – 9. november 2016</dcterms:title>
+            <dcterms:description xml:lang="slv">Na Inštitutu za novejšo zgodovino je med 8. in 9. novembrom 2016 potekal dvodnevni znanstveni simpozij o socialno-historičnih problematikah starosti in staranja. Predavatelji so se bodo posvečali problematikam, kot so percepcije starosti in staranje skozi čas, skrb za ostarele in institucionalizirana oskrba skozi čas, upokojevanje in pokojninski sistemi ter prizadevanja za aktivno starost.</dcterms:description>
+            <dcterms:subject xml:lang="slv">simpozij</dcterms:subject>
+            <dcterms:subject xml:lang="slv">starost</dcterms:subject>
+            <dcterms:subject xml:lang="eng">symposium</dcterms:subject>
+            <dcterms:subject xml:lang="eng">oldness</dcterms:subject>
+            <dcterms:publisher>Inštitut za novejšo zgodovino, Ljubljana</dcterms:publisher>
+            <dcterms:contributor>Žarko Lazarević</dcterms:contributor>
+            <dcterms:contributor>Mojca Šorn</dcterms:contributor>
+            <dcterms:contributor>Meta Remec</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:Period">start=8.11.2016; end=9.11.2016; name=; scheme=; </dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">MovingImage</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">slv</dcterms:language>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.37179">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>37179</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/37179</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.37179">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Na Inštitutu za novejšo
+                                    zgodovino je med 8. in 9. novembrom 2016 potekal dvodnevni
+                                    znanstveni simpozij o socialno-historičnih problematikah
+                                    starosti in staranja. Predavatelji so se bodo posvečali
+                                    problematikam, kot so percepcije starosti in staranje skozi čas,
+                                    skrb za ostarele in institucionalizirana oskrba skozi čas,
+                                    upokojevanje in pokojninski sistemi ter prizadevanja za aktivno
+                                    starost. </entity:description>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink">
+      <METS:fileGrp USE="THUMB">
+         <METS:file ID="thumbnail">
+            <METS:FLocat LOCTYPE="URL"
+                         xlink:href="http://www.sistory.si/cdn/publikacije/37001-38000/37179/2016-10-19_110635.jpg"/>
+         </METS:file>
+      </METS:fileGrp>
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="file22585" OWNERID="Starost.pdf" MIMETYPE="application/pdf">
+            <METS:FLocat LOCTYPE="HANDLE" xlink:href="https://hdl.handle.net/11686/file22585"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="primary">
+      <METS:div TYPE="collection">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/menu123"/>
+         <METS:div TYPE="entity" DMDID="dc.37179" ADMID="premis.37179 entity.37179">
+            <METS:fptr FILEID="thumbnail"/>
+            <METS:fptr FILEID="file22585"/>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37202"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37203"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37204"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37205"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37206"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37207"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37208"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37209"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37210"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37211"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37212"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37213"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37214"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37215"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37216"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37217"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37218"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37219"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37220"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37221"/>
+            </METS:div>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

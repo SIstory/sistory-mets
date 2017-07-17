@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/31004"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2015-05-15T08:36:16"
+                 LASTMODDATE="2017-02-15T09:26:14"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.31004" GROUPID="31004">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="slv">Banski svet Dravske banovine 1930-1941, naslednik "deželnega zbora in oblastnih samouprav"</dcterms:title>
+            <dcterms:alternative xml:lang="eng">The Banovinian Council of Drava Banovina 1930-1941, the successor of the »Provincial Assembly and Self-authority«</dcterms:alternative>
+            <dcterms:creator>Stiplovšek, Miroslav</dcterms:creator>
+            <dcterms:abstract xml:lang="slv">Na Slovenskem so od uveljavitve deželne avtonomije leta 1861 do zloma habsburške monarhije delovali kot njeni nosilci deželni zbori, v prvi Jugoslaviji pa so z ustavo in zakoni dobili značaj predstavniških teles skupščini ljubljanske in mariborske oblasti (1927—1929) ter banski svet Dravske banovine (1930-1941). Ti organi so imeli nalogo, da z različnimi pristojnostmi sodelujejo pri izvajanju gospodarsko-socialnih in prosvetno-kulturnih dejavnosti, ki so jih osrednje centralistične oblasti prepustile največjim upravnim enotam deželam, oblastem in banovinam, pri svoji dejavnosti pa so si prizadevali uveljavljati parlamentarne metode. Uspešno delovanje deželnega zbora Kranjske po letu 1908 je bilo za Slovensko ljudsko stranko pomembna izkušnja pri vodenju slovenskih oblastnih samouprav, ki ga je prevzela po volilni zmagi leta 1927. Po njeni zaslugi so samoupravni organi ljubljanske in mariborske oblasti razširili svoje pristojnosti in dosegli pomembne uspehe v prizadevanjih za razvoj Slovenije. Tudi imenovani banski svet je pod njenim vodstvom v drugi polovici tridesetih let v ugodnih gospodarskih razmerah in s privilegiji vladne stranke precej avtonomno izvajal pomembne naloge za napredek Slovenije v primerjavi s prvim obdobjem svojega delovanja, ko so ga vodili liberalci in je moral reševati zlasti socialne posledice gospodarske krize.</dcterms:abstract>
+            <dcterms:abstract xml:lang="eng">From the enforcement of autonomy of the land of Slovenia in 1861 to the collapse of the Habsburg monarchy, there were provincial assemblies as the principles. In first Yugoslavia with the Constitution and laws, the character of representative bodies also obtained the assemblies of Ljubljana and Maribor's authority (1927-1929) and the Banovian council of the Drava Banovina (1930—1941). These organs had the role to participate with various jurisdictions in executing economic - social and secular - cultural activities, which the central centralistic authorities gave to the largest administrative units of the land, authorities and banovinas. The organs also endeavoured to enforce parliamental methods in their actions. The successful Operation of the provincial assembly of Carniola after 1908 was an important experience for the Slovenian People's Party in running Slovenian local self-governments, which it took over after an electoral win in 1927. Thanks to it, the self-governmental organs of Ljubljana and Maribor spread their activities and achieved important breakthroughs in the strive for the development o f Slovenia. Even the so-called Banovian council under its leadership in the second half of the thirties, during favourable economic conditions and with the Privileges o f the leading party, rather autonomously carried out important assignments for the progress of Slovenia in comparison to the first period, led by the liberals and when the council had to deal with the social consequences of the economic crisis.</dcterms:abstract>
+            <dcterms:subject xml:lang="slv">deželni zbor</dcterms:subject>
+            <dcterms:subject xml:lang="slv">oblastna skupščina</dcterms:subject>
+            <dcterms:subject xml:lang="slv">banski svet</dcterms:subject>
+            <dcterms:subject xml:lang="slv">samouprava</dcterms:subject>
+            <dcterms:subject xml:lang="slv">avtonomija</dcterms:subject>
+            <dcterms:subject xml:lang="slv">Ljubljanska oblast</dcterms:subject>
+            <dcterms:subject xml:lang="slv">Mariborska oblast</dcterms:subject>
+            <dcterms:subject xml:lang="slv">Dravska banovina</dcterms:subject>
+            <dcterms:subject xml:lang="eng">provincial council</dcterms:subject>
+            <dcterms:subject xml:lang="eng">seif-government autonomy</dcterms:subject>
+            <dcterms:subject xml:lang="eng">assembly</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Banovian council</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Ljubljana's authorities</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Maribor's authorities</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Drava Banovina</dcterms:subject>
+            <dcterms:publisher>Oddelek za zgodovino Filozofske fakultete Univerze v Ljubljani, Ljubljana</dcterms:publisher>
+            <dcterms:contributor>Danijela Trškan (ur.)</dcterms:contributor>
+            <dcterms:contributor>Darja Pipuš Sunesko (prev.)</dcterms:contributor>
+            <dcterms:contributor>Danijela Trškan (prev.)</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2011</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">Text</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">slv</dcterms:language>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:dmdSec ID="mods.31004" GROUPID="31004">
+      <METS:mdWrap MDTYPE="MODS" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <mods:relatedItem type="series">
+               <mods:relatedItem type="series">
+                  <mods:titleInfo>
+                     <mods:title>Historia: znanstvena zbirka Oddelka za zgodovino Filozofska fakultete v Ljubljani</mods:title>
+                  </mods:titleInfo>
+                  <mods:part>
+                     <mods:detail type="volumens">
+                        <mods:number>19</mods:number>
+                     </mods:detail>
+                  </mods:part>
+               </mods:relatedItem>
+            </mods:relatedItem>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.31004">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>31004</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/31004#page=421</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.31004">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Na Slovenskem so od
+                                    uveljavitve deželne avtonomije leta 1861 do zloma habsburške
+                                    monarhije delovali kot njeni nosilci deželni zbori, v prvi
+                                    Jugoslaviji pa so z ustavo in zakoni dobili značaj
+                                    predstavniških teles skupščini ljubljanske in mariborske oblasti
+                                    (1927—1929) ter banski svet Dravske banovine (1930-1941). Ti
+                                    organi so imeli nalogo, da z različnimi pristojnostmi sodelujejo
+                                    pri izvajanju gospodarsko-socialnih in prosvetno-kulturnih
+                                    dejavnosti, ki so jih osrednje centralistične oblasti prepustile
+                                    največjim upravnim enotam deželam, oblastem in banovinam, pri
+                                    svoji dejavnosti pa so si prizadevali uveljavljati parlamentarne
+                                    metode. Uspešno delovanje deželnega zbora Kranjske po letu 1908
+                                    je bilo za Slovensko ljudsko stranko pomembna izkušnja pri
+                                    vodenju slovenskih oblastnih samouprav, ki ga je prevzela po
+                                    volilni zmagi leta 1927. Po njeni zaslugi so samoupravni organi
+                                    ljubljanske in mariborske oblasti razširili svoje pristojnosti
+                                    in dosegli pomembne uspehe v prizadevanjih za razvoj Slovenije.
+                                    Tudi imenovani banski svet je pod njenim vodstvom v drugi
+                                    polovici tridesetih let v ugodnih gospodarskih razmerah in s
+                                    privilegiji vladne stranke precej avtonomno izvajal pomembne
+                                    naloge za napredek Slovenije v primerjavi s prvim obdobjem
+                                    svojega delovanja, ko so ga vodili liberalci in je moral
+                                    reševati zlasti socialne posledice gospodarske krize. </entity:description>
+               <entity:description xml:lang="eng"> From the enforcement of
+                                    autonomy of the land of Slovenia in 1861 to the collapse of the
+                                    Habsburg monarchy, there were provincial assemblies as the
+                                    principles. In first Yugoslavia with the Constitution and laws,
+                                    the character of representative bodies also obtained the
+                                    assemblies of Ljubljana and Maribor's authority (1927-1929) and
+                                    the Banovian council of the Drava Banovina (1930—1941). These
+                                    organs had the role to participate with various jurisdictions in
+                                    executing economic - social and secular - cultural activities,
+                                    which the central centralistic authorities gave to the largest
+                                    administrative units of the land, authorities and banovinas. The
+                                    organs also endeavoured to enforce parliamental methods in their
+                                    actions. The successful Operation of the provincial assembly of
+                                    Carniola after 1908 was an important experience for the
+                                    Slovenian People's Party in running Slovenian local
+                                    self-governments, which it took over after an electoral win in
+                                    1927. Thanks to it, the self-governmental organs of Ljubljana
+                                    and Maribor spread their activities and achieved important
+                                    breakthroughs in the strive for the development o f Slovenia.
+                                    Even the so-called Banovian council under its leadership in the
+                                    second half of the thirties, during favourable economic
+                                    conditions and with the Privileges o f the leading party, rather
+                                    autonomously carried out important assignments for the progress
+                                    of Slovenia in comparison to the first period, led by the
+                                    liberals and when the council had to deal with the social
+                                    consequences of the economic crisis. </entity:description>
+               <entity:page>421</entity:page>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/30974"/>
+         <METS:div TYPE="entity"
+                   DMDID="dc.31004 mods.31004"
+                   ADMID="premis.31004 entity.31004"/>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

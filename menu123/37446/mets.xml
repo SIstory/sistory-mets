@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/37446"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2017-04-05T09:01:49"
+                 LASTMODDATE="2017-04-07T11:49:45"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.4" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.37446" GROUPID="37446">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="slv">Naj nam muze pomagajo usmerjati pouk zgodovine</dcterms:title>
+            <dcterms:alternative xml:lang="eng">Let the Muses Help Us Lead History Lessons</dcterms:alternative>
+            <dcterms:creator>Berzelak, Stane</dcterms:creator>
+            <dcterms:description xml:lang="slv">Pouk zgodovine je precej bolj dinamičen proces, kot smo si pripravljeni priznati, saj prehiteva tudi najbolj inovativne učitelje. Zato še toliko bolj potrebuje sistematično organiziran premislek o tem, kako nanj vplivajo prihajajoče novosti. 38. zborovanje ZZDS je s tematskim sklopom Pogledi na pouk zgodovine v šoli idealen prostor za strokovni premislek o tem ali pouk zgodovine ustrezno sledi naglemu razvoju družbe ter ali so njegove vsebine ustrezne za sodobni čas. Sodobna informacijsko-komunikacijska tehnologija nam pri pouku omogoča enostaven in hiter dostop do informacij, a vemo, da so te zares uporabne le za tistega, ki ima dovolj znanja, da jih lahko kritično sprejema. Znanja, ki jih pridobimo v šoli, morajo ostati živa in se tiho razvijati dalje. V mladih ne smemo ubiti radovednosti, kajti ta je ključna tako v šoli kot v znanosti. Zato ne le avtonomija, temveč strokovno premišljena podpora učiteljem je tisto, kar bi moralo usmerjati sodobni pouk zgodovine. Prispevek skuša na podlagi analize učnih načrtov in srednješolskih veljavnih učbenikov usmeriti premislek o tem kam in do kod hoče srednješolski pouk zgodovine ter odgovoriti na vprašanji kaj pričakujejo poslušalci (dijaki) ter kaj zmoremo pripovedovalci (profesorji). Naj nam torej v prihodnosti raje muze (in ne šolski politiki) usmerjajo pouk zgodovine.</dcterms:description>
+            <dcterms:description xml:lang="eng">Teaching history is a much more dynamic process then we are willing to admit, for it is ahead of even the most innovative teachers. Therefore it needs a systematically organized consideration of how it is influenced by the upcoming innovations. The 38th Assembly of the HAS with its thematic set Views on teaching history in schools is the perfect place for a professional consideration whether history lessons appropriately follow the rapid development of society and whether the teaching contents are in accordance with modern times. Modern information and communication technologies enable us with easy and fast information access in teaching. But we know that this information is only useful for individuals with enough knowledge for critical reception. Knowledge we gain from school has to remain alive and it has to quietly develop further. We mustn’t ruin the curiosity of the youth, for it is essential, both in school and science. Therefore, not only autonomy, but also professionally premeditated support for teachers should guide the modern history lessons. Based on an analysis of curricula and secondary school textbooks the article tries to direct the consideration on where and how far the secondary school history lessons want to go and to answer two questions – what do the listeners (students) expect and what can the narrators (professors) do. Therefore, in the future let the muses (and not the school politicians) help us lead history lessons.</dcterms:description>
+            <dcterms:subject xml:lang="slv">splošna izobrazba</dcterms:subject>
+            <dcterms:subject xml:lang="slv">pouk zgodovine</dcterms:subject>
+            <dcterms:subject xml:lang="slv">humanistična dimenzija</dcterms:subject>
+            <dcterms:subject xml:lang="slv">komunikacijskoinformacijska tehnologija</dcterms:subject>
+            <dcterms:subject xml:lang="slv">učni načrti</dcterms:subject>
+            <dcterms:subject xml:lang="eng">general education</dcterms:subject>
+            <dcterms:subject xml:lang="eng">history lessons</dcterms:subject>
+            <dcterms:subject xml:lang="eng">humanistic dimension</dcterms:subject>
+            <dcterms:subject xml:lang="eng">communication and information technology</dcterms:subject>
+            <dcterms:subject xml:lang="slv">curriculum</dcterms:subject>
+            <dcterms:publisher>Zveza zgodovinskih društev Slovenije, Ljubljana</dcterms:publisher>
+            <dcterms:publisher>Inštitut za novejšo zgodovino, Ljubljana</dcterms:publisher>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2016-09-29</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">MovingImage</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">slv</dcterms:language>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.37446">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>37446</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/37446</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.37446">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Pouk zgodovine je precej
+                                    bolj dinamičen proces, kot smo si pripravljeni priznati, saj
+                                    prehiteva tudi najbolj inovativne učitelje. Zato še toliko bolj
+                                    potrebuje sistematično organiziran premislek o tem, kako nanj
+                                    vplivajo prihajajoče novosti. 38. zborovanje ZZDS je s tematskim
+                                    sklopom Pogledi na pouk zgodovine v šoli idealen prostor za
+                                    strokovni premislek o tem ali pouk zgodovine ustrezno sledi
+                                    naglemu razvoju družbe ter ali so njegove vsebine ustrezne za
+                                    sodobni čas. Sodobna informacijsko-komunikacijska tehnologija
+                                    nam pri pouku omogoča enostaven in hiter dostop do informacij, a
+                                    vemo, da so te zares uporabne le za tistega, ki ima dovolj
+                                    znanja, da jih lahko kritično sprejema. Znanja, ki jih pridobimo
+                                    v šoli, morajo ostati živa in se tiho razvijati dalje. V mladih
+                                    ne smemo ubiti radovednosti, kajti ta je ključna tako v šoli kot
+                                    v znanosti. Zato ne le avtonomija, temveč strokovno premišljena
+                                    podpora učiteljem je tisto, kar bi moralo usmerjati sodobni pouk
+                                    zgodovine. Prispevek skuša na podlagi analize učnih načrtov in
+                                    srednješolskih veljavnih učbenikov usmeriti premislek o tem kam
+                                    in do kod hoče srednješolski pouk zgodovine ter odgovoriti na
+                                    vprašanji kaj pričakujejo poslušalci (dijaki) ter kaj zmoremo
+                                    pripovedovalci (profesorji). Naj nam torej v prihodnosti raje
+                                    muze (in ne šolski politiki) usmerjajo pouk zgodovine. </entity:description>
+               <entity:description xml:lang="eng"> Teaching history is a
+                                    much more dynamic process then we are willing to admit, for it
+                                    is ahead of even the most innovative teachers. Therefore it
+                                    needs a systematically organized consideration of how it is
+                                    influenced by the upcoming innovations. The 38th Assembly of the
+                                    HAS with its thematic set Views on teaching history in schools
+                                    is the perfect place for a professional consideration whether
+                                    history lessons appropriately follow the rapid development of
+                                    society and whether the teaching contents are in accordance with
+                                    modern times. Modern information and communication technologies
+                                    enable us with easy and fast information access in teaching. But
+                                    we know that this information is only useful for individuals
+                                    with enough knowledge for critical reception. Knowledge we gain
+                                    from school has to remain alive and it has to quietly develop
+                                    further. We mustn’t ruin the curiosity of the youth, for it is
+                                    essential, both in school and science. Therefore, not only
+                                    autonomy, but also professionally premeditated support for
+                                    teachers should guide the modern history lessons. Based on an
+                                    analysis of curricula and secondary school textbooks the article
+                                    tries to direct the consideration on where and how far the
+                                    secondary school history lessons want to go and to answer two
+                                    questions – what do the listeners (students) expect and what can
+                                    the narrators (professors) do. Therefore, in the future let the
+                                    muses (and not the school politicians) help us lead history
+                                    lessons. </entity:description>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="video1" USE="EXTERNAL">
+            <METS:FLocat USE="YOUTUBE"
+                         LOCTYPE="URL"
+                         xlink:href="https://www.youtube.com/embed/SXRIx5ZK4KA"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37391"/>
+         <METS:div TYPE="entity" DMDID="dc.37446" ADMID="premis.37446 entity.37446">
+            <METS:fptr FILEID="video1"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

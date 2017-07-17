@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/35296"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2016-06-16T08:57:36"
+                 LASTMODDATE="2017-02-10T13:00:03"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.35296" GROUPID="35296">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="slv">Razvoj stanovanjske kulture v Sloveniji v evropskem kontekstu 20. stoletja</dcterms:title>
+            <dcterms:alternative xml:lang="eng">Slovenian Domestic Interior Design in the Context of European Twentieth Century</dcterms:alternative>
+            <dcterms:creator>Lozar Štamcar, Maja</dcterms:creator>
+            <dcterms:abstract xml:lang="slv">20. stoletje je tudi Slovencem prineslo burne čase. Doživeli smo tri vojne, štiri zaporedne države in nekaj vzporednih, pa dvakrat preskok v diametralno nasprotna si politična in gospodarska sistema. Vse to se je seveda poznalo tudi na kulturni ravni. Na starodavni srednjeevropski podlagi so izstopali vplivi zdaj enega zdaj drugega sosednjega ali bolj oddaljenega kulturnega okolja. Zelo neposredno je mogoče slediti tem menjavam skozi razvoj stanovanjske kulture, predvsem pohištva. V sto letih se je korenito spremenila struktura naročnikov in kupcev. Ob manj zahtevni večini prej kmečkega prebivalstva in malomeščanstva, zdaj delavstva, je maloštevilno plemstvo in številčnejše premožno meščanstvo kot glavni nosilec kulture nadomestil širši sloj izobražencev. Kot snovalci pohištva so se obrtnim mojstrom in absolventom srednjih tehnično-oblikovnih šol v večjem številu pridružili univerzitetno izobraženi arhitekti in drugi.</dcterms:abstract>
+            <dcterms:abstract xml:lang="eng">The stormy 20th Century proved to be turbulent also for Slovenes. They endured three wars, lived in four consecutive states - as well as some parallel ones - and experienced two leaps into diametrically opposite political and economic systems. All of these certainly had a profound impact upon the Slovene culture. Built on ancient Central European foundations, influences from various cultures, both from the vicinity or from afar, grew and diminished. It is possible to trace them almost directly through the development of interior design, particularly furniture. The structure of furniture consumers changed drastically in the course of the Century. At the time when the rural population (now the working class) with a relatively unpretentious taste was predominant the sparse nobility and the more numerous well-to-do urban middle classes represented the principal transmitters of culture; later on have been replaced by a wider circle of cultural elite. Formerly designed by master craftsmen and later on by graduates of design and technical high schools fumiture is now largely designed by university graduate engineers of architecture and others.</dcterms:abstract>
+            <dcterms:subject xml:lang="slv">stanovanjska kultura 20. stoletja</dcterms:subject>
+            <dcterms:subject xml:lang="slv">pohištveni slogi</dcterms:subject>
+            <dcterms:subject xml:lang="slv">pohištveni materiali</dcterms:subject>
+            <dcterms:subject xml:lang="slv">pohištvene tehnike</dcterms:subject>
+            <dcterms:subject xml:lang="slv">uporabna umetnost</dcterms:subject>
+            <dcterms:subject xml:lang="eng">20th-century interior design</dcterms:subject>
+            <dcterms:subject xml:lang="eng">homes</dcterms:subject>
+            <dcterms:subject xml:lang="eng">furniture styles</dcterms:subject>
+            <dcterms:subject xml:lang="eng">furniture materials</dcterms:subject>
+            <dcterms:subject xml:lang="eng">furniture techniques</dcterms:subject>
+            <dcterms:subject xml:lang="eng">applied arts</dcterms:subject>
+            <dcterms:publisher>Zveza zgodovinskih društev Slovenije, Ljubljana</dcterms:publisher>
+            <dcterms:contributor>Nevenka Troha (ur.)</dcterms:contributor>
+            <dcterms:contributor>Mojca Šorn (ur.)</dcterms:contributor>
+            <dcterms:contributor>Bojan Balkovec (ur.)</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2008</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">Text</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">slv</dcterms:language>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:dmdSec ID="mods.35296" GROUPID="35296">
+      <METS:mdWrap MDTYPE="MODS" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <mods:relatedItem type="series">
+               <mods:relatedItem type="series">
+                  <mods:titleInfo>
+                     <mods:title>Zbirka zgodovinskega časopisa</mods:title>
+                  </mods:titleInfo>
+                  <mods:part>
+                     <mods:detail type="volumens">
+                        <mods:number>35</mods:number>
+                     </mods:detail>
+                  </mods:part>
+               </mods:relatedItem>
+            </mods:relatedItem>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.35296">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>35296</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/35296#page=261</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.35296">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> 20. stoletje je tudi
+                                    Slovencem prineslo burne čase. Doživeli smo tri vojne, štiri
+                                    zaporedne države in nekaj vzporednih, pa dvakrat preskok v
+                                    diametralno nasprotna si politična in gospodarska sistema. Vse
+                                    to se je seveda poznalo tudi na kulturni ravni. Na starodavni
+                                    srednjeevropski podlagi so izstopali vplivi zdaj enega zdaj
+                                    drugega sosednjega ali bolj oddaljenega kulturnega okolja. Zelo
+                                    neposredno je mogoče slediti tem menjavam skozi razvoj
+                                    stanovanjske kulture, predvsem pohištva. V sto letih se je
+                                    korenito spremenila struktura naročnikov in kupcev. Ob manj
+                                    zahtevni večini prej kmečkega prebivalstva in malomeščanstva,
+                                    zdaj delavstva, je maloštevilno plemstvo in številčnejše
+                                    premožno meščanstvo kot glavni nosilec kulture nadomestil širši
+                                    sloj izobražencev. Kot snovalci pohištva so se obrtnim mojstrom
+                                    in absolventom srednjih tehnično-oblikovnih šol v večjem številu
+                                    pridružili univerzitetno izobraženi arhitekti in drugi. </entity:description>
+               <entity:description xml:lang="eng"> The stormy 20th Century
+                                    proved to be turbulent also for Slovenes. They endured three
+                                    wars, lived in four consecutive states - as well as some
+                                    parallel ones - and experienced two leaps into diametrically
+                                    opposite political and economic systems. All of these certainly
+                                    had a profound impact upon the Slovene culture. Built on ancient
+                                    Central European foundations, influences from various cultures,
+                                    both from the vicinity or from afar, grew and diminished. It is
+                                    possible to trace them almost directly through the development
+                                    of interior design, particularly furniture. The structure of
+                                    furniture consumers changed drastically in the course of the
+                                    Century. At the time when the rural population (now the working
+                                    class) with a relatively unpretentious taste was predominant the
+                                    sparse nobility and the more numerous well-to-do urban middle
+                                    classes represented the principal transmitters of culture; later
+                                    on have been replaced by a wider circle of cultural elite.
+                                    Formerly designed by master craftsmen and later on by graduates
+                                    of design and technical high schools fumiture is now largely
+                                    designed by university graduate engineers of architecture and
+                                    others. </entity:description>
+               <entity:page>261</entity:page>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/35237"/>
+         <METS:div TYPE="entity"
+                   DMDID="dc.35296 mods.35296"
+                   ADMID="premis.35296 entity.35296"/>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

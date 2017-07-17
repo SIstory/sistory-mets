@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/20239"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2013-10-03T12:16:49"
+                 LASTMODDATE="2017-02-10T11:13:53"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.20239" GROUPID="20239">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="slv">Arhivska zapuščina Petra Grassellija 1842-1933</dcterms:title>
+            <dcterms:alternative xml:lang="slv">Der Archivnachlass von Peter Grasselli</dcterms:alternative>
+            <dcterms:creator>Drnovšek, Marjan</dcterms:creator>
+            <dcterms:description xml:lang="slv">Vsebinski prikaz arhivske zapuščine Petra Grassellija, ki jo hrani Zgodovinski arhivLjubljana, je le mozaični kamen v obogatitvi našega vedenja o življenju in delu ter o nacionalnem,kulturnem in političnem osveščanju dela slovenskega meščanstva in inteligencev drugi polovici 19. in v začetku 20. stoletja. Na svoji dolgi in razgibani 93-letni življenjskipoti je Grasselli srečal vrsto ljudi, s katerimi je imel bolj ali manj tesne prijateljske in uradnestike. Tudi sam je bil aktiven v kulturnem, političnem in sploh javnem življenju v ljubljanskemin tudi slovenskem prostoru od srede 60. let prejšnjega stoletja dalje. Ohranjenogradivo nam daje delno sliko njegovega delovanja.</dcterms:description>
+            <dcterms:abstract xml:lang="deu">Der Archivnachlass von Peter Grasselli, der 0,7 Meter des Archivgutes aus der Periode 1842-1933 umfast, wird vom Historischen Archiv Ljubljana aufbewahrt. Peter Grasselli ist am 28. Juni 1841 in Kranj geboren und starb am 17. November 1933 in Ljubljana. Auf seinem langen und bewegten 93-jähringen Lebensweg begegnete er viele Mensch, mit denen er mehr oder minder nahe freundschaftliche oder offizielle Beziehungen pflegte. Auch er selbst war im kulturellen, politischen sowie öffentlichen Leben überhaupt im Ljubljanaer und auch im slowenischen Raum von der Mitte der sechziger Jahre des vorigen Jahrhunderts aufwärts, tätig. Nachdem er das Gymnasium in Ljubljana (1859) und das Studium der Rechte in Graz (1859-1862) und Wien (1862-1863) beendet hatte, schloss er sich ins slowenische kulturelle und politische Leben seiner Zeit ein. Im kulturellen Bereich war er als Funktionär, Schauspieler, Uebersetzer, Kritiker, Jornalist, Verleger, Redakteur usw. tätig. Er erledigte zahlreiche Organisationsarbeiten in den Vereinen und anderen kulturellen, sowie auch wissenschaftlichen Organisationen. Jahrzehntenlang war er vielseitig äusserst so im Krainer Landtag (1875-1907), im Wiener Reichstag (1882-1885) und gleich 14 Jahre als Bürgermeister der Stadt Ljubljana (1882-1896) Grassellis vielfältiges Leben, sowie sein inhaltlich und quantitativ reicher Archivnachlasses waren die Grundanlässe die zur Bearbeitung seines Archivnachlasses führten. Das werk selbst ist eine völlige Darstellung des Archivgutnachlasses mit grösseren oder kleineren Nachdrücken auf einzelnen Dokumenten oder Dokumentengruppen. Der Form und dem Inhalt nach ist es eine Kombination des Archivverzeichnisses und der Quellenveröffentlichung. Da das Verzeichnis allein zu wenig informatorisch sein würde, haben wir uns entschieden, die einzelnen Dokumente im ganzen, in kürzerer oder längerer Zusammenfassung zu veröffentlichen bzw. sie ohne Inhaltsbezeichnung nur zu erwähnen. Diese Darstellung ist vor allem ein informatorisches Hilfsmittel, die veröffentlichten Dokumente jedoch sind als quellen verwendbar. Der Mittelpunkt der Publikation ist der Uebersicht des aufbewahrten Archivguts im Archivgutnachlass von Peter Grasselli zugemessen. Sie äussert den tatsächlichen Zustand der Dokumentenordnung undgruppierung.</dcterms:abstract>
+            <dcterms:tableOfContents xml:lang="slv">Predgovor ..................................................................................................................................... 3Oris življenja in dela Petra Grassellija ..................................................................................................... 4Prevzem in dosedanja urejanja, popisi inuporaba gradiva .............................................................................................................................. 8Razvrstitev gradiva in elementi popisa v objavi ............................................................................................. 10Razčlenitev gradiva ......................................................................................................................... 12Oznake in kratice............................................................................................................................ 18A. Osebno gradivo:Privatni dokumenti .......................................................................................................................... 19Šolanje v ljudski šoli in gimnaziji ......................................................................................................... 21Univerzitetni študij......................................................................................................................... 23Izvolitve, imenovanja in službeno delovanje ................................................................................................. 25Častne diplome in redi ...................................................................................................................... 29B. KorespondencaPisma naslovljena na Petra Grassellija ......... ............................................................................................ 31Pisma naslovljena na Andreja Grassellija ................................................................................................... 333Pisma naslovljena na Marijo Grasselli ...................................................................................................... 336Pisma naslovljena na Marijo Grasseli rojeno Krisper ........................................................................................ 337Pismo naslovljeno na Josefa Luckmanna....................................................................................................... 341Pismo naslovljeno na Prettnerja............................................................................................................. 341Pisma naslovljena na Frančiško Walland ..................................................................................................... 343C. Gradivo o društvenem, založniškem, gospodarskemIn političnem delovanju:Narodna čitalnica v Ljubljani............................................................................................................... 345Južni sokol ................................................................................................................................ 349Slovenska matica............................................................................................................................ 360Dramatično društvo ......................................................................................................................... 369Ljubljansko gimnastično društvo soko l...................................................................................................... 388Slovenija, društvo za brambo narodnih pravic v Ljubljani.................................................................................... 397Glasbena matica............................................................................................................................. 401Triglav..................................................................................................................................... 405Narodna tiskarna v Ljubljani ............................................................................................................... 412Finančno gradivo ........................................................................................................................... 419Kranjski deželni zbor ...................................................................................................................... 421D. Rokopisi, tiski in slikovno gradivo:Rokopisni prozni teksti, ocene, prevodi in razmišljanja..................................................................................... 425Rokopisni seznami in beležke ............................................................................................................... 430Rokopisne izvirne in prepisane pesmi 433Tiskane pesmi............................................................................................................................... 444Koncertna, operna in gledališka vabila s programi........................................................................................... 447Druga vabila s programi in pozivi........................................................................................................... 448Potrdila in vstopnice ...................................................................................................................... 454Poročna oznanila ........................................................................................................................... 454Vizitke ................................................................................................ ................................... 455Osmrtnice .................................................... ................................... ......................................... 457Slikovno gradivo............................................................................................................................ 461Opombe ..................................................................................................................................... 463Kronološki seznam pisem naslovljenih na Petra Grassellija .................................................................................. 470Seznam gledaliških in drugih literarnih del ................................................................................................ 498Imenski in krajevni register ............... ........................................................ ...................................... 501Povzetek (Zusammenfassung) ................................................................................................................. 521</dcterms:tableOfContents>
+            <dcterms:subject xml:lang="slv">Ljubljana</dcterms:subject>
+            <dcterms:subject xml:lang="slv">kulturna zgodovina</dcterms:subject>
+            <dcterms:subject xml:lang="slv">arhivsko gradivo</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Ljubljana</dcterms:subject>
+            <dcterms:subject xml:lang="eng">cultural history</dcterms:subject>
+            <dcterms:subject xml:lang="eng">archival records</dcterms:subject>
+            <dcterms:publisher>Zgodovinski arhiv Ljubljana, Ljubljana</dcterms:publisher>
+            <dcterms:date xsi:type="dcterms:W3CDTF">1983</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">Text</dcterms:type>
+            <dcterms:identifier>COBISS.SI-ID 4905273</dcterms:identifier>
+            <dcterms:language xsi:type="dcterms:ISO639-3">slv</dcterms:language>
+            <dcterms:language xsi:type="dcterms:ISO639-3">deu</dcterms:language>
+            <dcterms:isPartOf xsi:type="dcterms:URI">http://hdl.handle.net/11686/20231</dcterms:isPartOf>
+            <dcterms:isPartOf xsi:type="dcterms:URI">http://hdl.handle.net/11686/4878</dcterms:isPartOf>
+            <dcterms:license xsi:type="dcterms:URI">http://creativecommons.org/licenses/by-nc-nd/2.5/si/</dcterms:license>
+            <dcterms:license xml:lang="slv">Priznanje avtorstva-Nekomercialo-Brez predelav 2.5 Slovenija (CC BY-NC-ND 2.5 SI)</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:dmdSec ID="mods.20239" GROUPID="20239">
+      <METS:mdWrap MDTYPE="MODS" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <mods:relatedItem type="series">
+               <mods:relatedItem type="series">
+                  <mods:titleInfo>
+                     <mods:title>Gradivo in razprave</mods:title>
+                  </mods:titleInfo>
+                  <mods:part>
+                     <mods:detail type="volumens">
+                        <mods:number>6</mods:number>
+                     </mods:detail>
+                  </mods:part>
+               </mods:relatedItem>
+            </mods:relatedItem>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.20239">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>20239</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/20239</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.20239">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="slv">
+                  <p xmlns="http://sistory.si/schema/sistory/v3/entity">Vsebinski prikaz arhivske zapuščine Petra Grassellija, ki jo
+                                        hrani Zgodovinski arhivLjubljana, je le mozaični kamen v
+                                        obogatitvi našega vedenja o življenju in delu ter o
+                                        nacionalnem,kulturnem in političnem osveščanju dela
+                                        slovenskega meščanstva in inteligencev drugi polovici 19. in
+                                        v začetku 20. stoletja. Na svoji dolgi in razgibani 93-letni
+                                        življenjskipoti je Grasselli srečal vrsto ljudi, s katerimi
+                                        je imel bolj ali manj tesne prijateljske in uradnestike.
+                                        Tudi sam je bil aktiven v kulturnem, političnem in sploh
+                                        javnem življenju v ljubljanskemin tudi slovenskem prostoru
+                                        od srede 60. let prejšnjega stoletja dalje. Ohranjenogradivo
+                                        nam daje delno sliko njegovega delovanja.</p>
+               </entity:description>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="file9587"
+                    OWNERID="Drnovsek-Arhivska_zapuscina_Petra_Grassellija_1842_1933.pdf"
+                    MIMETYPE="application/pdf">
+            <METS:FLocat LOCTYPE="HANDLE" xlink:href="https://hdl.handle.net/11686/file9587"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="primary">
+      <METS:div TYPE="collection">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/menu17"/>
+         <METS:div TYPE="entity"
+                   DMDID="dc.20239 mods.20239"
+                   ADMID="premis.20239 entity.20239">
+            <METS:fptr FILEID="file9587"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

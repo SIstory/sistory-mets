@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/37652"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2017-05-25T11:04:35"
+                 LASTMODDATE="2017-05-25T11:06:38"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.37652" GROUPID="37652">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="eng">Primary School Teachers' Associationism in Italy from Unification to Fascism: Its Origin and Development between Processes of Localization and Nationalization</dcterms:title>
+            <dcterms:alternative xml:lang="ita">L’associazionismo degli insegnanti elementary in Italia dall’unificazione al fascismo. Origine e sviluppo tra spinte localistiche e processo di nazionalizzazione</dcterms:alternative>
+            <dcterms:creator>Barausse, Alberto</dcterms:creator>
+            <dcterms:description xml:lang="ita">Il contributo prende le mosse dagli studi più recenti sul fenomeno dell’associazionismo degli insegnanti in Italia tra unificazione e il fascism. Lo scopo del contributo è quello di tracciare le linee evolutive dell’associazionismo e il suo passaggio dal carattere fondamentalmente localistico e mutualisitco a quello di una organizzazione professionale e sindacale fondata su basi nazionali. Questo processo è stato avviato sin dagli anni Quaranta dell’Ottocento in alcune realtà preunitarie come il Regno del Piemonte e grazie all’attivismo di ispettori, insegnanti ed esponenti politici liberali che credevano profondamente nell’istruzione come valore e fattore di sviluppo economico, sociale e politico. In questo periodo i membri dell’associazione si impegnarono nella diffusione delle diverse forme di istruzione ed educazione popolare. Essi promossero asili d’infanzia, scuole serali e domenicali, scuole primarie maschili e femminili; ma progettarono anche programmi di costruzione delle nuove scuole normali per formare gli insegnanti e nuove modalità di mutuo soccorso. Dopo la nascita dello Stato italiano l’associazionismo degli insegnanti si moltiplicò, soprattutto nei centri urbani come Milano, Napoli, Roma, Firenze, Genova, ecc. Ma solo all’inizio degli anni Ottanta iniziarono esperienze a carattere nazionale. In particolare saranno prese in esame alcuni esempi più significativi come la Associazione Nazionale fra gli Insegnanti elementari d’Italia nata nel 1880 a Roma e l’Unione Magistrale Nazionale che fu attiva dal 1901 al 1925.</dcterms:description>
+            <dcterms:description xml:lang="eng">This paper summarizes the most recent studies on primary school teachers’ associative phenomenon in Italy between Unification and Fascism. The aim of this paper is to trace the evolution of associationism and the transition from mainly localistic, mutualistic modes of social organization to more professional and nationally organized groups. This process started at the end of the forties of the Nineteenth Century in the State of Piemonte, thanks to the activism of inspectors, teachers or liberal politicians which believe in the value of instruction like a weapon to better economic, social and politic overview. In this period the members of the association undertook for the spread of primary and popular education a higher professional qualification of teachers. They promoted kindergartens, evening schools and Sunday schools, elementary male e female schools; but they drew up plans to build news “normal” schools and news forms of mutual aid. After the birth of the italian State, the teacher’s associationism multiplied, expecially in urban center like Milan, Naples, Rome, Florence, Genua ext. But only since the eighties of the Nineteenth Century began the early experiences at national character. In particular, we will take into account some of the most significant examples of primary school teachers’ associations between the 19th and 20th centuries such as the Associazione Nazionale fra gli insegnanti elementari d’Italia born in 1880, and the Unione Magistrale Nazionale which was active from 1901 to 1925.</dcterms:description>
+            <dcterms:subject xml:lang="slv">zgodovina</dcterms:subject>
+            <dcterms:subject xml:lang="slv">šolstvo</dcterms:subject>
+            <dcterms:subject xml:lang="slv">muzej</dcterms:subject>
+            <dcterms:subject xml:lang="eng">history</dcterms:subject>
+            <dcterms:subject xml:lang="eng">school system</dcterms:subject>
+            <dcterms:subject xml:lang="eng">museum</dcterms:subject>
+            <dcterms:publisher>Slovenski šolski muzej, Ljubljana</dcterms:publisher>
+            <dcterms:publisher>Zveza zgodovinskih društev Slovenije, Ljubljana</dcterms:publisher>
+            <dcterms:publisher>ICOM Slovenija, Celje</dcterms:publisher>
+            <dcterms:publisher>Inštitut za novejšo zgodovino, Ljubljana</dcterms:publisher>
+            <dcterms:contributor>Ulla Nitsch (moderator</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2013-06-26</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">MovingImage</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">eng</dcterms:language>
+            <dcterms:license xsi:type="dcterms:URI">http://creativecommons.org/licenses/by-nc-nd/2.5/si/</dcterms:license>
+            <dcterms:license xml:lang="slv">Priznanje avtorstva-Nekomercialo-Brez predelav 2.5 Slovenija (CC BY-NC-ND 2.5 SI)</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.37652">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>37652</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/37652</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.37652">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="eng">
+                  <pre xmlns="http://sistory.si/schema/sistory/v3/entity">This paper summarizes the most recent studies on primary school teachers’ associative phenomenon in
+Italy between Unification and Fascism. The aim of this paper is to trace the evolution of associationism and the
+transition from mainly localistic, mutualistic modes of social organization to more professional and nationally
+organized groups. This process started at the end of the forties of the Nineteenth Century in the State of
+Piemonte, thanks to the activism of inspectors, teachers or liberal politicians which believe in the value of
+instruction like a weapon to better economic, social and politic overview. In this period the members of the
+association undertook for the spread of primary and popular education a higher professional qualification of
+teachers. They promoted kindergartens, evening schools and Sunday schools, elementary male e female schools;
+but they drew up plans to build news “normal” schools and news forms of mutual aid. After the birth of the
+italian State, the teacher’s associationism multiplied, expecially in urban center like Milan, Naples, Rome,
+Florence, Genua ext. But only since the eighties of the Nineteenth Century began the early experiences at
+national character. In particular, we will take into account some of the most significant examples of primary
+school teachers’ associations between the 19th and 20th centuries such as the Associazione Nazionale fra gli
+insegnanti elementari d’Italia born in 1880, and the Unione Magistrale Nazionale which was active from 1901
+to 1925.</pre>
+               </entity:description>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="video1" USE="EXTERNAL">
+            <METS:FLocat USE="YOUTUBE"
+                         LOCTYPE="URL"
+                         xlink:href="//www.youtube.com/embed/YW0F8mGYYqc"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37650"/>
+         <METS:div TYPE="entity" DMDID="dc.37652" ADMID="premis.37652 entity.37652">
+            <METS:fptr FILEID="video1"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

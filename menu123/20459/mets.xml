@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/20459"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2014-01-08T15:14:26"
+                 LASTMODDATE="2017-02-07T14:11:53"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.20459" GROUPID="20459">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="slv">Odlepljanje: jugoslovansko ne-jugoslovanstvo v besedilih slovenskih intelektualcev v osemdesetih letih</dcterms:title>
+            <dcterms:alternative xml:lang="eng">Detachment: Yugoslavism and non-Yugoslavism in the Texts of Slovenian Intellectuals in the 1980s</dcterms:alternative>
+            <dcterms:creator>Zajc, Marko</dcterms:creator>
+            <dcterms:abstract xml:lang="slv">Avtor izhaja iz misli, da je v osemdesetih letih 20. stoletja v slovenski javnostipotekal proces odlepljanja slovenstva od jugoslovanstva. Za preverjanje tetrditve, predvsem pa za boljše razumevanje fenomena, je potrebna obsežna historično-diskurzivna analiza. Kljub temu ima ta teza dobro utemeljitev v samihtekstih, napisanih v osemdesetih letih. Produkcija člankov, referatov, esejev,elaboratov in programskih tekstov na temo slovenskega narodnega vprašanjaoz. problematike nacionalizma/narodov, je bila v osemdesetih letih zelo bogata.V spominski literaturi, publicistiki in tudi večini zgodovinopisja se izpostavljavloga posameznih osebnosti in njihova vpetost v politični sistem. Avtor meni,da bi morali iz metodoloških razlogov začasno »pozabiti«, kdo je pisal določentekst (kakšne so bile njegove funkcije, zveze, ugled) in se vprašati, kaj nam povesamo besedilo. Ne zato, da bi zanemarili politični in družbeni kontekst, pravnasprotno, da bi kontekst bolje razumeli. In da bi bolje razumeli pomen besedilza nacionalistično zaznavanje družbenih razmerij.Po mnenju ameriškega zgodovinarja Johna Pococka je glavna naloga zgodovinarjapolitičnih idej identificirati in rekonstruirati politični jezik. Slovenskiintelektualci, ki so delovali v različnih forumih (npr. Društvo slovenskih pisateljev,Nova revija, Plenum kulturnih delavcev OF itd.), so uporabljali specifičen kulturno-politični jezik oz. izrazje. Opazna je močna zavest o njihovilastni pomembnosti. Intelektualci nastopajo kot duhovni voditelji naroda. Stilpisanja je običajno visoko intelektualen in prefinjen, celo namenoma težko razumljiv,vendar kljub temu oseben in polemičen. Pogosta je uporaba zgodovineza argumentacijo ambicioznih tez o naravi in karakterju slovenskega naroda.Iz zgodovinskega konteksta pa vzamejo le tisto, kar jim ustreza. Slovenski teoretikinaroda tako niso bili nevtralni, načeloma nepristranska filozofska oz.sociološka teoretska orodja uporabljajo v »narodne namene«. Vse težave poznesocialistične družbe se povezujejo s položajem slovenskega naroda (npr. inflacija,tehnološko zaostajanje, mednarodni odnosi). Značilno je izvirno mešanjerazličnih ravni. Temeljite analize teoretskih razprav kažejo, da se prepletajo zosebnimi izkušnjami in anekdotami, zgodovinski primeri se prepletajo z opisomtežav socialistične družbe.Kakšna je vloga Jugoslavije v teh besedilih? Biti slovensko zaveden, a jugoslovanskokritičen je postajalo moderno. Nekatere negativne občečloveškelastnosti so obravnavane kot tipično jugoslovanske (neuspešnost, lenoba, ignoranca), nekatere pozitivne pa kot tipično slovenske (pridnost, razvitost, kulturnost).Kljub temu preseneča predvsem odsotnost Jugoslavije. Jugoslavija se vteh tekstih omenja samo takrat, ko je to res nujno. Kot da bi se je sramovali.Slovensko jugoslovanstvo se v njih počasi »odleplja« kot star plakat na ulici,»odpada« od slovenstva prav s pomočjo odsotnosti. Slovenski intelektualcise rajši kot z Jugoslavijo ukvarjajo sami s sabo. Njihova domovina je SrednjaEvropa, Evropa, svet, Zahodna civilizacija, »književna republika«, krščanstvoin predvsem Slovenija, nikakor pa ne Jugoslavija. Seveda obstajajo izjeme, kiiščejo mesto slovenskega naroda v SFRJ z utrditvijo in jasnim definiranjem pravicedo samoodločbe naroda (npr. Janko Pleterski) ali z redefinicijo odnosovmed republikami federativne Jugoslavije (npr. France Klopčič).</dcterms:abstract>
+            <dcterms:abstract xml:lang="eng">The author builds on the idea that during the 1980s the process of detachingthe Slovenian from the Yugoslav took place in the Slovenian public. An extensivehistorical and discourse analysis should be carried out in order to verify thistheory and especially in order to better understand this phenomenon. Neverthelessthis thesis is well-supported by the very texts written during the 1980s. Inthat period the production of articles, papers, essays, elaborates and programmetexts dealing with the issue of the Slovenian national question or the problem ofnationalism/nations was very prolific. Memoirs, the press, as well as the majorityof historiography underlined the role of individual personalities and theirinvolvement in the political system. The author believes that due to methodologicalreasons we should temporarily »forget« who wrote a certain text (whattheir functions, connections and reputation were) and ask ourselves what thetexts themselves can tell us. Not in order to disregard the political and socialcontext – quite the opposite, with the aim of understanding this context better,as well as to better comprehend the importance of these texts for the nationalistperception of social relations.According to American historian John Pocock the main task of the historianof political ideas is to identify and reconstruct the political language. Slovenianintellectuals, active in the context of various forums (e.g. Slovenian Writers’Association, Nova revija magazine, Plenum of the Liberation Front CulturalWorkers, etc.) used specific cultural-political language or terminology. A strongawareness of their own importance is evident. The intellectuals act as the nation’sspiritual leaders. The style of writing is usually highly intellectual andrefined, even intentionally hard to understand, but still personal and controversial. In order to present arguments for ambitious theories about the nature andcharacter of the Slovenian nation, the authors of these texts would frequentlyresort to history. However, they would only take what suited them out of thehistorical context. Thus Slovenian national theorists were not neutral and theyused what are in principle impartial philosophical or sociological theoreticaltools for »national purposes«. All the problems of the late socialist society areassociated with the position of the Slovenian nation (i.e. inflation, technologicallag, international relations). Original mixing of various levels is a characteristicfeature. Detailed analyses of theoretical discussions reveal that these are intertwinedwith personal experience and anecdotes, and historical examples blendwith the descriptions of the problems of the socialist society.What is the role of Yugoslavia in these texts? To be a Slovenian patriot butcritical towards Yugoslavia gradually became fashionable. Certain negativegenerally human traits are seen as typically Yugoslav (lack of success, laziness,ignorance), and certain positive characteristics are deemed as typically Slovenian(diligence, development, culture). Nevertheless, what is most surprising isthe absence of Yugoslavia. In these texts Yugoslavia is only mentioned whenabsolutely necessary. As if the authors were ashamed of it. Slovenian Yugoslavismgradually »peels away« like an old street poster, it »detaches« from Slovenianismprecisely by means of absence. Rather than on Yugoslavia Slovenianintellectuals focus on themselves. Their homeland is Central Europe, Europe,the world, the Western civilisation, »republic of literature«, Christianity, andabove all Slovenia, by no means Yugoslavia. Of course, there are exceptionslooking for a place for the Slovenian nation within the Socialist Federal Republicof Yugoslavia through strengthening and clearly defi ning the right to nationalself-determination (e.g. Janko Pleterski) or through redefi ning the relations betweenthe republics of the federal Yugoslavia (i.e. France Klopčič).</dcterms:abstract>
+            <dcterms:subject xml:lang="slv">Slovenija</dcterms:subject>
+            <dcterms:subject xml:lang="slv">zgodovina</dcterms:subject>
+            <dcterms:subject xml:lang="slv">Jugoslavija</dcterms:subject>
+            <dcterms:subject xml:lang="slv">posvetovanja</dcterms:subject>
+            <dcterms:subject xml:lang="slv">1941-1991</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Slovenia</dcterms:subject>
+            <dcterms:subject xml:lang="eng">history</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Yugoslavia</dcterms:subject>
+            <dcterms:subject xml:lang="eng">symposium</dcterms:subject>
+            <dcterms:subject xml:lang="eng">1941-1991</dcterms:subject>
+            <dcterms:publisher>Inštitut za novejšo zgodovino, Ljubljana</dcterms:publisher>
+            <dcterms:publisher>Muzej novejše zgodovine Slovenije, Ljubljana</dcterms:publisher>
+            <dcterms:contributor>Zdenko Čepič (moderator)</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2013-11-28</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">MovingImage</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">slv</dcterms:language>
+            <dcterms:license xsi:type="dcterms:URI">http://creativecommons.org/licenses/by-nc-nd/2.5/si/</dcterms:license>
+            <dcterms:license xml:lang="slv">Priznanje avtorstva-Nekomercialo-Brez predelav 2.5 Slovenija (CC BY-NC-ND 2.5 SI)</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.20459">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>20459</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/20459</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.20459">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="slv">
+                  <p xmlns="http://sistory.si/schema/sistory/v3/entity">Avtor izhaja iz misli, da je v osemdesetih letih 20. stoletja
+                                        v slovenski javnostipotekal proces odlepljanja slovenstva od
+                                        jugoslovanstva. Za preverjanje tetrditve, predvsem pa za
+                                        boljše razumevanje fenomena, je potrebna obsežna
+                                        historično-diskurzivna analiza. Kljub temu ima ta teza dobro
+                                        utemeljitev v samihtekstih, napisanih v osemdesetih letih.
+                                        Produkcija člankov, referatov, esejev,elaboratov in
+                                        programskih tekstov na temo slovenskega narodnega
+                                        vprašanjaoz. problematike nacionalizma/narodov, je bila v
+                                        osemdesetih letih zelo bogata.V spominski literaturi,
+                                        publicistiki in tudi večini zgodovinopisja se
+                                        izpostavljavloga posameznih osebnosti in njihova vpetost v
+                                        politični sistem. Avtor meni,da bi morali iz metodoloških
+                                        razlogov začasno »pozabiti«, kdo je pisal določentekst
+                                        (kakšne so bile njegove funkcije, zveze, ugled) in se
+                                        vprašati, kaj nam povesamo besedilo. Ne zato, da bi
+                                        zanemarili politični in družbeni kontekst, pravnasprotno, da
+                                        bi kontekst bolje razumeli. In da bi bolje razumeli pomen
+                                        besedilza nacionalistično zaznavanje družbenih razmerij.Po
+                                        mnenju ameriškega zgodovinarja Johna Pococka je glavna
+                                        naloga zgodovinarjapolitičnih idej identificirati in
+                                        rekonstruirati politični jezik. Slovenskiintelektualci, ki
+                                        so delovali v različnih forumih (npr. Društvo slovenskih
+                                        pisateljev,Nova revija, Plenum kulturnih delavcev OF itd.),
+                                        so uporabljali specifičen kulturno-politični jezik oz.
+                                        izrazje. Opazna je močna zavest o njihovilastni pomembnosti.
+                                        Intelektualci nastopajo kot duhovni voditelji naroda.
+                                        Stilpisanja je običajno visoko intelektualen in prefinjen,
+                                        celo namenoma težko razumljiv,vendar kljub temu oseben in
+                                        polemičen. Pogosta je uporaba zgodovineza argumentacijo
+                                        ambicioznih tez o naravi in karakterju slovenskega naroda.Iz
+                                        zgodovinskega konteksta pa vzamejo le tisto, kar jim
+                                        ustreza. Slovenski teoretikinaroda tako niso bili nevtralni,
+                                        načeloma nepristranska filozofska oz.sociološka teoretska
+                                        orodja uporabljajo v »narodne namene«. Vse težave
+                                        poznesocialistične družbe se povezujejo s položajem
+                                        slovenskega naroda (npr. inflacija,tehnološko zaostajanje,
+                                        mednarodni odnosi). Značilno je izvirno mešanjerazličnih
+                                        ravni. Temeljite analize teoretskih razprav kažejo, da se
+                                        prepletajo zosebnimi izkušnjami in anekdotami, zgodovinski
+                                        primeri se prepletajo z opisomtežav socialistične
+                                        družbe.</p>
+                  <p xmlns="http://sistory.si/schema/sistory/v3/entity">Kakšna je vloga Jugoslavije v teh besedilih? Biti slovensko
+                                        zaveden, a jugoslovanskokritičen je postajalo moderno.
+                                        Nekatere negativne občečloveškelastnosti so obravnavane kot
+                                        tipično jugoslovanske (neuspešnost, lenoba, ignoranca),
+                                        nekatere pozitivne pa kot tipično slovenske (pridnost,
+                                        razvitost, kulturnost).Kljub temu preseneča predvsem
+                                        odsotnost Jugoslavije. Jugoslavija se vteh tekstih omenja
+                                        samo takrat, ko je to res nujno. Kot da bi se je
+                                        sramovali.Slovensko jugoslovanstvo se v njih počasi
+                                        »odleplja« kot star plakat na ulici,»odpada« od slovenstva
+                                        prav s pomočjo odsotnosti. Slovenski intelektualcise rajši
+                                        kot z Jugoslavijo ukvarjajo sami s sabo. Njihova domovina je
+                                        SrednjaEvropa, Evropa, svet, Zahodna civilizacija,
+                                        »književna republika«, krščanstvoin predvsem Slovenija,
+                                        nikakor pa ne Jugoslavija. Seveda obstajajo izjeme, kiiščejo
+                                        mesto slovenskega naroda v SFRJ z utrditvijo in jasnim
+                                        definiranjem pravicedo samoodločbe naroda (npr. Janko
+                                        Pleterski) ali z redefinicijo odnosovmed republikami
+                                        federativne Jugoslavije (npr. France Klopčič).</p>
+               </entity:description>
+               <entity:description xml:lang="eng">
+                  <p xmlns="http://sistory.si/schema/sistory/v3/entity">The author builds on the idea that during the 1980s the
+                                        process of detachingthe Slovenian from the Yugoslav took
+                                        place in the Slovenian public. An extensivehistorical and
+                                        discourse analysis should be carried out in order to verify
+                                        thistheory and especially in order to better understand this
+                                        phenomenon. Neverthelessthis thesis is well-supported by the
+                                        very texts written during the 1980s. Inthat period the
+                                        production of articles, papers, essays, elaborates and
+                                        programmetexts dealing with the issue of the Slovenian
+                                        national question or the problem ofnationalism/nations was
+                                        very prolific. Memoirs, the press, as well as the majorityof
+                                        historiography underlined the role of individual
+                                        personalities and theirinvolvement in the political system.
+                                        The author believes that due to methodologicalreasons we
+                                        should temporarily »forget« who wrote a certain text
+                                        (whattheir functions, connections and reputation were) and
+                                        ask ourselves what thetexts themselves can tell us. Not in
+                                        order to disregard the political and socialcontext – quite
+                                        the opposite, with the aim of understanding this context
+                                        better,as well as to better comprehend the importance of
+                                        these texts for the nationalistperception of social
+                                        relations.According to American historian John Pocock the
+                                        main task of the historianof political ideas is to identify
+                                        and reconstruct the political language.
+                                        Slovenianintellectuals, active in the context of various
+                                        forums (e.g. Slovenian Writers’Association, Nova revija
+                                        magazine, Plenum of the Liberation Front CulturalWorkers,
+                                        etc.) used specific cultural-political language or
+                                        terminology. A strongawareness of their own importance is
+                                        evident. The intellectuals act as the nation’sspiritual
+                                        leaders. The style of writing is usually highly intellectual
+                                        andrefined, even intentionally hard to understand, but still
+                                        personal and controversial. In order to present arguments
+                                        for ambitious theories about the nature andcharacter of the
+                                        Slovenian nation, the authors of these texts would
+                                        frequentlyresort to history. However, they would only take
+                                        what suited them out of thehistorical context. Thus
+                                        Slovenian national theorists were not neutral and theyused
+                                        what are in principle impartial philosophical or
+                                        sociological theoreticaltools for »national purposes«. All
+                                        the problems of the late socialist society areassociated
+                                        with the position of the Slovenian nation (i.e. inflation,
+                                        technologicallag, international relations). Original mixing
+                                        of various levels is a characteristicfeature. Detailed
+                                        analyses of theoretical discussions reveal that these are
+                                        intertwinedwith personal experience and anecdotes, and
+                                        historical examples blendwith the descriptions of the
+                                        problems of the socialist society.What is the role of
+                                        Yugoslavia in these texts? To be a Slovenian patriot
+                                        butcritical towards Yugoslavia gradually became fashionable.
+                                        Certain negativegenerally human traits are seen as typically
+                                        Yugoslav (lack of success, laziness,ignorance), and certain
+                                        positive characteristics are deemed as typically
+                                        Slovenian(diligence, development, culture). Nevertheless,
+                                        what is most surprising isthe absence of Yugoslavia. In
+                                        these texts Yugoslavia is only mentioned whenabsolutely
+                                        necessary. As if the authors were ashamed of it. Slovenian
+                                        Yugoslavismgradually »peels away« like an old street poster,
+                                        it »detaches« from Slovenianismprecisely by means of
+                                        absence. Rather than on Yugoslavia Slovenianintellectuals
+                                        focus on themselves. Their homeland is Central Europe,
+                                        Europe,the world, the Western civilisation, »republic of
+                                        literature«, Christianity, andabove all Slovenia, by no
+                                        means Yugoslavia. Of course, there are exceptionslooking for
+                                        a place for the Slovenian nation within the Socialist
+                                        Federal Republicof Yugoslavia through strengthening and
+                                        clearly defi ning the right to nationalself-determination
+                                        (e.g. Janko Pleterski) or through redefi ning the relations
+                                        betweenthe republics of the federal Yugoslavia (i.e. France
+                                        Klopčič).</p>
+               </entity:description>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="video1" USE="EXTERNAL">
+            <METS:FLocat USE="YOUTUBE"
+                         LOCTYPE="URL"
+                         xlink:href="//www.youtube.com/embed/lafE7Tv1CWc"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/20426"/>
+         <METS:div TYPE="entity" DMDID="dc.20459" ADMID="premis.20459 entity.20459">
+            <METS:fptr FILEID="video1"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

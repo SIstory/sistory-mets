@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/37235"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2017-03-13T09:01:53"
+                 LASTMODDATE="2017-03-14T13:18:14"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.81" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.37235" GROUPID="37235">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="eng">Rural Social Combustibility along the Complex Frontier between Austria-Hungary, Tsarist Russia and the Fledgling Balkan States (Romania, Bulgaria, Serbia) – 1880-1914</dcterms:title>
+            <dcterms:alternative xml:lang="slv">Družbena eksplozivnost podeželja ob kompleksni meji med Avstro-Ogrsko, carsko Rusijo in novonastalimi balkanskimi državami (Romunijo, Bolgarijo in Srbijo), 1880–1914</dcterms:alternative>
+            <dcterms:creator>Marin, Irina</dcterms:creator>
+            <dcterms:subject xml:lang="slv">podeželje</dcterms:subject>
+            <dcterms:subject xml:lang="slv">meje</dcterms:subject>
+            <dcterms:subject xml:lang="slv">Avstro-Ogrska</dcterms:subject>
+            <dcterms:subject xml:lang="slv">Rusija</dcterms:subject>
+            <dcterms:subject xml:lang="slv">Romunija</dcterms:subject>
+            <dcterms:subject xml:lang="slv">Bolgarija</dcterms:subject>
+            <dcterms:subject xml:lang="slv">Srbija</dcterms:subject>
+            <dcterms:subject xml:lang="slv">1880–1914</dcterms:subject>
+            <dcterms:subject xml:lang="eng">rural history</dcterms:subject>
+            <dcterms:subject xml:lang="eng">borders</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Russia</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Austria-Hungary</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Romania</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Bulgaria</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Serbia</dcterms:subject>
+            <dcterms:subject xml:lang="eng">1880–1914</dcterms:subject>
+            <dcterms:publisher>Inštitut za novejšo zgodovino, Ljubljana</dcterms:publisher>
+            <dcterms:publisher>Oddelek za zgodovino Filozofske fakultete Univerze v Ljubljani, Ljubljana</dcterms:publisher>
+            <dcterms:contributor>Marko Zajc</dcterms:contributor>
+            <dcterms:contributor>Jernej Kosi</dcterms:contributor>
+            <dcterms:contributor>Zdenko Čepič</dcterms:contributor>
+            <dcterms:contributor>Neja Blaj Hribar</dcterms:contributor>
+            <dcterms:contributor>Rok Stergar</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:Period">start=24.11.2016; end=26.11.2016; name=; scheme=; </dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">MovingImage</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">eng</dcterms:language>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.37235">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>37235</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/37235</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.37235">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Poskus modernizacije in
+                                    industrializacije vzhodnoevropskih držav na koncu 19. in začetku
+                                    20. stoletja so spremljali politični nemiri in velika družbena
+                                    neravnovesja. Nove institucije in prakse so najpogosteje zgolj
+                                    prekrile odnose, ki so bili v bistvu fevdalni, pod njihovim
+                                    vplivom pa stare krivice niso bile odpravljene, ampak so se
+                                    okrepile in nadaljevale pod novo preobleko. Ta preobrazba je
+                                    povzročila velike družbene napetosti, ki so načele družbeno
+                                    strukturo v uničujočih izbruhih nasilja, med katerimi so
+                                    izstopali zlasti kmečki upori in izbruhi antisemitskega nasilja,
+                                    ki so zaznamovali obdobje med letoma 1880 in 1914. Podeželski
+                                    odnosi pa niso bili enako napeti in nasilni v vsej regiji, saj
+                                    so bile nekatere pokrajine in dežele eksplozivnejše od drugih.
+                                    Namen tega prispevka je raziskati potencial za eksplozivnost
+                                    podeželja ob kompleksni meji, ki je do leta 1877 delila
+                                    osmanski, ruski in avstro-ogrski imperij. Obmejna področja
+                                    Avstro-Ogrske (Transilvanija in Bukovina) in Ruskega imperija
+                                    (Besarabija) ter nove države, ki so nastale na evropskih robovih
+                                    Osmanskega cesarstva (Romunija, Srbija in avtonomna Bolgarija),
+                                    so imeli veliko skupnega: številne etnične skupine ter podobno
+                                    gospodarstvo in razvoj (kmetijstvo je bilo glavna veja
+                                    gospodarstva, obdelovanje zemlje je bilo rudimentarno, kmečko
+                                    prebivalstvo je bilo večinoma nepismeno in nekvalificirano,
+                                    zemljiškoposestne elite pa so obvladovale politiko z omejeno
+                                    volilno pravico). Vendar pa te dežele in pokrajine niso imele
+                                    enake stopnje družbene nestanovitnosti. Od vseh navedenih
+                                    obmejnih področij je bila daleč najbolj eksplozivna Romunija z
+                                    veliko kmečko vstajo spomladi 1907, v kateri je bilo ogromno
+                                    žrtev in premoženjske škode, ogrozila pa je tudi stabilnost
+                                    države. Avstro-ogrska obmejna področja so osvoboditev kmetov in
+                                    prerazporeditev ozemlja preživela brez večjih družbenih nemirov.
+                                    Carsko Rusijo so med letoma 1905 in 1907 pretresali revolucija
+                                    in nasilni kmečki upori, vendar se je na njenem vzhodnem
+                                    obmejnem področju, v pokrajini Besarabiji, ohranilo sorazmerno
+                                    mirno vzdušje tako med ruskimi nemiri kot med romunsko kmečko
+                                    vstajo leta 1907, ki se je začela prav v bližini meje. V Srbiji
+                                    in Bolgariji, balkanskih državah na južni strani reke Donave, je
+                                    bilo nekaj lokalnih podeželskih nemirov, vendar so bili manjšega
+                                    obsega in zanemarljivi v primerjavi z družbenim sesutjem v
+                                    severni sosedi Romuniji. Omenjena kompleksna meja je torej
+                                    delila večinoma mirne mejne pokrajine dveh imperijev in več
+                                    novonastalih nacionalnih držav, od katerih sta imeli dve
+                                    sorazmerno malo nemirov na podeželju, medtem ko je navzven
+                                    najbolj razvita in najuspešnejša izmed njih skoraj podlegla
+                                    družbenim nemirom. Namen prispevka je čezmejna primerjava
+                                    značilnosti kmetijstva, zemljiškega posestništva in
+                                    državotvornosti v bližini te kompleksne meje ob upoštevanju
+                                    različnih stopenj eksplozivnosti podeželja, ki je oblikovala
+                                    družbene odnose na tem mejnem območju. </entity:description>
+               <entity:description xml:lang="eng"> The attempt to modernize
+                                    and industrialize Eastern European states at the end of the
+                                    19th, beginning of the 20th century was accompanied by political
+                                    upheaval and huge social imbalances. New institutions and
+                                    practices were more often than not superimposed on essentially
+                                    manorial relations and under their influence old inequities, far
+                                    from being removed, were enhanced and perpetuated under a new
+                                    guise. These transformations resulted in the build-up of great
+                                    social tensions, which ruptured the social fabric in devastating
+                                    outbursts of violence, the most egregious of which were the
+                                    peasant uprisings and episodes of anti-Semitic violence that
+                                    punctuated the period 1880-1914. Rural relations were, however,
+                                    not invariably strained and violent across the region with some
+                                    provinces and countries being more flammable than others. The
+                                    present paper proposes to explore the potential for rural
+                                    combustibility along the complex imperial frontier that up until
+                                    1877 divided the Ottoman, Tsarist and Austro-Hungarian Empires.
+                                    The borderlands of Austria-Hungary (Transylvania and Bukovina)
+                                    and of the Tsarist Empire (Bessarabia) as well as the fledgling
+                                    states that emerged from the European fringes of the Ottoman
+                                    Empire (Romania, Serbia and autonomous Bulgaria) shared multiple
+                                    ethnic groups and evinced economic and developmental
+                                    similarities (agriculture was the main branch of the economy,
+                                    land cultivation was rudimentary, the rural population was
+                                    mostly illiterate and low skilled, landed elites dominated
+                                    limited-franchise politics). However, what these countries and
+                                    imperial provinces did not share was the same degree of social
+                                    combustibility. Of all the mentioned borderlands, Romania was by
+                                    far the most combustible with a major peasant uprising in spring
+                                    1907 inflicting heavy human casualties and loss of property and
+                                    threatening to destabilize the state. The Austro-Hungarian
+                                    borderlands underwent peasant emancipation and land
+                                    redistribution without major social upheavals. Tsarist Russia
+                                    was convulsed by revolution and violent peasant uprisings
+                                    between 1905 and 1907, but its eastern borderland, the province
+                                    of Bessarabia, remained comparatively peaceful both during the
+                                    Russian turmoil and during the 1907 Romanian peasant uprising,
+                                    which started just across the Tsarist border. Serbia and
+                                    Bulgaria, the two Balkan states south of the Danube River,
+                                    experienced localized flares of rural unrest but on a small
+                                    scale and bearing no comparison with the virtual social
+                                    implosion experienced by their northern neighbour Romania. So
+                                    the above-mentioned complex frontier divided the relatively
+                                    peaceful frontier provinces of two empires and several
+                                    nation-states of recent formation, two of which had relatively
+                                    low levels of rural unrest, whilst the outwardly most developed
+                                    and successful of them all but caved in amidst great social
+                                    turmoil. This paper proposes a cross-border comparison of the
+                                    specificities of agriculture, land-tenure and state-building
+                                    around this complex frontier with a view to accounting for the
+                                    different degrees of rural flammability that shaped social
+                                    relations across this border region. </entity:description>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="video1" USE="EXTERNAL">
+            <METS:FLocat USE="YOUTUBE"
+                         LOCTYPE="URL"
+                         xlink:href="https://www.youtube.com/embed/YLiLWmQSh_Y"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37178"/>
+         <METS:div TYPE="entity" DMDID="dc.37235" ADMID="premis.37235 entity.37235">
+            <METS:fptr FILEID="video1"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

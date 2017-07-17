@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/37684"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2017-05-29T11:57:21"
+                 LASTMODDATE="2017-06-16T10:51:57"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.37684" GROUPID="37684">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="eng">EUROCLIO History Teachers' Associations driving changes together in history education in the Western Balkans?</dcterms:title>
+            <dcterms:alternative xml:lang="bos">Udruženja nastavnika istorije zajedno ka promjenama u nastavi istorije u zemljama Zapadnog Balkana?</dcterms:alternative>
+            <dcterms:creator>Dujković Blagojević, Bojana</dcterms:creator>
+            <dcterms:creator>Detling, Denis</dcterms:creator>
+            <dcterms:description xml:lang="eng">In which ways can we seek to enhance the quality of history and citizenship education and what is in this respect the reserved role for the local History Teachers Associations? These are issues being approached by EUROCLIO throughout the project ‘History that Connects’ that bases itself on the mutual cooperation of several history educators associations in the countries of the Western Balkans. History that Connects is a search for a collaborative approach to teaching sensitive and controversial issues, with special focus on the countries of former Yugoslavia. The overall aim is to develop, through collaborative writing, inclusive and multi-perspective ready to use class room teaching material (twenty-two modules) with a focus on the history of the region from 1900-1945. It is estimated that the freely accessible education material will be published by the end of 2013 in English and the seven different languages of the participating countries. The region needs this project as there is a need for greater innovative expertise in the teaching and learning of history, especially with a cross border regional focus, empowering dialogue and critical thinking on sensitive topics in the recent history. Without enhanced innovative high-quality professionalism, history curricula, history textbooks and the (in-service) history teachers training might continue to play a dividing force in this region. At this symposium EUROCLIO would like to present, within the framework of History that Connects, the importance of the History Teachers’ Associations as sustainable multipliers of the EUROCLIO work on national levels.These local associations are based on civil initiatives, inter-ethnic collaboration, collegial common action and agreed social responsibility. Their role as social entrepreneurs underlines their important contribution in making the civil society more participatory and sustainable. EUROCLIO both empowers these independent, responsible and voluntary associations and it also works on capacity building of the educators. EUROCLIO acknowledges the importance of history and heritage educators who have acquired the necessary competences and have the capacity to train others in their own country and abroad. They constitute the frontline of the field and are therefore the actors able to make a difference by dealing with responsible and innovative history in a variety of contexts.</dcterms:description>
+            <dcterms:description xml:lang="bos">Na koji način možemo nastojati poboljšati kvalitet nastave istorije, i ono što je u tom pogledu očekivana uloga lokalnih udruženja nastavnika istorije? To su pitanja kojima se bavi EUROCLIO kroz projekat 'Prošlost koja povezuje' koji se temelji na međusobnoj saradnji nekoliko udruženja nastavnika istorije u zemljama Zapadnog Balkana. Prošlost koja povezuje je projekat koji traga za kolaborativnim pristupom poučavanju o osjetljivim i kontroverznim pitanjima, s posebnim naglaskom na zemlje bivše Jugoslavije. Opšti cilj projekta je razvoj, kroz saradnju i zajedničko pisanje, multi-perspektivnog materijala koji je spreman za korištenje u nastavi (dvadeset i dva modula), s naglaskom na istoriju regije 1900-1945. Kreirani materijal koji će biti dostupan i slobodan za korištenje bit će objavljen do kraja 2013 na engleskom i sedam različitih jezika zemalja učesnica. Ovakav projekat je potreban regiji jer postoji potreba za većim inovativnim materijalima u nastavi i učenju povijesti, pogotovo s prekograničnom regionalnim naglaskom, kao i osnaživanje dijaloga i kritičko razmišljanje o osjetljivim temama u novijoj povijesti. Bez ojačane i visoko profesionalne nastave istorije i kontinuirane obuke (in-service) nastavnika, kurikulumi i udžbenici mogu i dalje nastaviti da imaju ulogu koja razdvaja u ovoj regiji. Na ovom simpoziju EUROCLIO željeli predstaviti, u okviru Povijesti koja povezuje, značaj udruženja nastavnika istorije kao održivih multiplikatora rada EUROCLIO-a na nacionalnim nivoima. Ova lokalna udruženja se temelje na građanskoj inicijativi, multietničkoj saradnji, zajedničkom djelovanju i dogovorenoj društvenoj odgovornosti. Njihova uloga socijalnih preduzetnika ističe njihov značajan doprinos u izgradnji održivog civilnog društva. EUROCLIO i osnažuje ove nezavisna, odgovorna i dobrovoljna udruženja i takođe radi na izgradnji kapaciteta nastavnika. EUROCLIO prepoznaje značaj nastavnika istorije i kulture koji su kroz ovaj projekat stekli komptencije i imaju kapacitete da prenesu ta znanja i drugima u svojim zemljama i inostranstvu. Oni su stekli kapacitete i mogu da djeluju kao odgovorni i inovativni nastavnici istorije u različitim kontekstima.</dcterms:description>
+            <dcterms:subject xml:lang="slv">zgodovina</dcterms:subject>
+            <dcterms:subject xml:lang="slv">šolstvo</dcterms:subject>
+            <dcterms:subject xml:lang="slv">muzej</dcterms:subject>
+            <dcterms:subject xml:lang="eng">history</dcterms:subject>
+            <dcterms:subject xml:lang="eng">school system</dcterms:subject>
+            <dcterms:subject xml:lang="eng">museum</dcterms:subject>
+            <dcterms:publisher>Slovenski šolski muzej, Ljubljana</dcterms:publisher>
+            <dcterms:publisher>Zveza zgodovinskih društev Slovenije, Ljubljana</dcterms:publisher>
+            <dcterms:publisher>ICOM Slovenija, Celje</dcterms:publisher>
+            <dcterms:publisher>Inštitut za novejšo zgodovino, Ljubljana</dcterms:publisher>
+            <dcterms:contributor>Branko Šuštar (moderator)</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2013-06-27</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">MovingImage</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">eng</dcterms:language>
+            <dcterms:license xsi:type="dcterms:URI">http://creativecommons.org/licenses/by-nc-nd/2.5/si/</dcterms:license>
+            <dcterms:license xml:lang="slv">Priznanje avtorstva-Nekomercialo-Brez predelav 2.5 Slovenija (CC BY-NC-ND 2.5 SI)</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.37684">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>37684</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/37684</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.37684">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="eng">
+                  <p xmlns="http://sistory.si/schema/sistory/v3/entity">In which ways can we seek to enhance the quality of history
+                                        and citizenship education and what is in this respect the
+                                        reserved role for the local History Teachers Associations?
+                                        These are issues being approached by EUROCLIO throughout the
+                                        project ‘History that Connects’ that bases itself on the
+                                        mutual cooperation of several history educators associations
+                                        in the countries of the Western Balkans. History that
+                                        Connects is a search for a collaborative approach to
+                                        teaching sensitive and controversial issues, with special
+                                        focus on the countries of former Yugoslavia. The overall aim
+                                        is to develop, through collaborative writing, inclusive and
+                                        multi-perspective ready to use class room teaching material
+                                        (twenty-two modules) with a focus on the history of the
+                                        region from 1900-1945. It is estimated that the freely
+                                        accessible education material will be published by the end
+                                        of 2013 in English and the seven different languages of the
+                                        participating countries. The region needs this project as
+                                        there is a need for greater innovative expertise in the
+                                        teaching and learning of history, especially with a cross
+                                        border regional focus, empowering dialogue and critical
+                                        thinking on sensitive topics in the recent history. Without
+                                        enhanced innovative high-quality professionalism, history
+                                        curricula, history textbooks and the (in-service) history
+                                        teachers training might continue to play a dividing force in
+                                        this region. At this symposium EUROCLIO would like to
+                                        present, within the framework of History that Connects, the
+                                        importance of the History Teachers’ Associations as
+                                        sustainable multipliers of the EUROCLIO work on national
+                                        levels.These local associations are based on civil
+                                        initiatives, inter-ethnic collaboration, collegial common
+                                        action and agreed social responsibility. Their role as
+                                        social entrepreneurs underlines their important contribution
+                                        in making the civil society more participatory and
+                                        sustainable. EUROCLIO both empowers these independent,
+                                        responsible and voluntary associations and it also works on
+                                        capacity building of the educators. EUROCLIO acknowledges
+                                        the importance of history and heritage educators who have
+                                        acquired the necessary competences and have the capacity to
+                                        train others in their own country and abroad. They
+                                        constitute the frontline of the field and are therefore the
+                                        actors able to make a difference by dealing with responsible
+                                        and innovative history in a variety of contexts.</p>
+               </entity:description>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="video1" USE="EXTERNAL">
+            <METS:FLocat USE="YOUTUBE"
+                         LOCTYPE="URL"
+                         xlink:href="//www.youtube.com/embed/LpZP67GdfBI"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37681"/>
+         <METS:div TYPE="entity" DMDID="dc.37684" ADMID="premis.37684 entity.37684">
+            <METS:fptr FILEID="video1"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/37701"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2017-05-31T10:29:25"
+                 LASTMODDATE="2017-06-16T10:56:25"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.37701" GROUPID="37701">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="eng">João de Deus's Methodology</dcterms:title>
+            <dcterms:alternative xml:lang="por">Método João de Deus</dcterms:alternative>
+            <dcterms:creator>Rodrigues, Elsa</dcterms:creator>
+            <dcterms:description xml:lang="eng">João de Deus was born in 1830 and died in 1896. He was a tireless poet and a successful pedagogue. He is buried in the national pantheon, among the most relevant Portuguese citizens. During his life he was concerned about the lack of literacy in Portugal. For that reason he created a method to teach people how to read, write and count. To fulfil his aim he founded an association of mobile schools. That means he used to train people at his home to become his method’s teachers. Then they were sent to small villages all over the country teaching everybody who wanted to be literate, entirely free of charge. Being such an easy and innovative method it became widely popular and was adopted in state schools. In the beginning of the XXth century it became the national method till the dictatorial regime abolished it. Nevertheless his method was never restrained from being used in the kindergartens established by his son João de Deus Ramos and it is still used nowadays in those preschools. In 1917 the Museum João de Deus was inaugurated as a place where people could remember his character and his legacy. Being a bibliographic museum it is here where his manuscripts, his correspondence and his poetical and pedagogical works are preserved and it is also where researchers can consult not only his works but also his Portuguese contemporaries. Taking into consideration some documents, school manuals, photographs and piece of news about João de Deus from the Museum João de Deus documental resource I will demonstrate his methodology and his importance for the history of education in Portugal.</dcterms:description>
+            <dcterms:description xml:lang="por">João de Deus nasceu em 1830 e faleceu em 1896. Foi um poeta infatigável e um proeminente pedagogo português, tendo sido sepultado no Panteão Nacional entre os maiores vultos da nação. Ao longo da sua vida preocupou-se com o problema do analfabetismo em Portugal. Por esse motivo criou um método de ensino da leitura, da escrita e do cálculo. Para alcançar os seus objectivos criou uma associação de escolas móveis e em sua casa formava professores que ficavam habilitados a ensinar através do seu método. Após essa formação os professores eram enviados para as várias aldeias do país que solicitassem uma missão de alfabetização e ensinavam gratuitamente todos quantos quisessem ter as primeiras letras. Sendo um método fácil e inovador contribuiu para que ele se tornasse amplamente popular tendo, inclusivamente, sido adoptado em escolas do estado. No início do século XX tornou-se o método nacional até que o regime ditatorial o baniu. No entanto o seu método nunca foi abolido dos Jardins-Escolas João de Deus, fundados pelo seu filho João de Deus Ramos, sendo ainda usado nessas escolas pré-escolares. Em 1917 o Museu João de Deus foi inaugurado como um espaço de memória do génio e legado do pedagogo. Tratando-se de um museu bibliográfico é nele onde se preservam os seus manuscritos, correspondência, assim como a sua produção poética e pedagógica, e é aqui que os investigadores podem consultar não só a sua obra, mas também a dos seus contemporâneos. Tendo em consideração alguns documentos, manuais escolares, fotografias e notícias de jornais acerca de João de Deus provenientes do acervo documental do Museu João de Deus irei demostrar a sua metodologia e a sua importância para a história da educação em Portugal.</dcterms:description>
+            <dcterms:subject xml:lang="slv">zgodovina</dcterms:subject>
+            <dcterms:subject xml:lang="slv">šolstvo</dcterms:subject>
+            <dcterms:subject xml:lang="slv">muzej</dcterms:subject>
+            <dcterms:subject xml:lang="eng">history</dcterms:subject>
+            <dcterms:subject xml:lang="eng">school system</dcterms:subject>
+            <dcterms:subject xml:lang="eng">museum</dcterms:subject>
+            <dcterms:publisher>Slovenski šolski muzej, Ljubljana</dcterms:publisher>
+            <dcterms:publisher>Zveza zgodovinskih društev Slovenije, Ljubljana</dcterms:publisher>
+            <dcterms:publisher>ICOM Slovenija, Celje</dcterms:publisher>
+            <dcterms:publisher>Inštitut za novejšo zgodovino, Ljubljana</dcterms:publisher>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2013-06-28</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">MovingImage</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">eng</dcterms:language>
+            <dcterms:license xsi:type="dcterms:URI">http://creativecommons.org/licenses/by-nc-nd/2.5/si/</dcterms:license>
+            <dcterms:license xml:lang="slv">Priznanje avtorstva-Nekomercialo-Brez predelav 2.5 Slovenija (CC BY-NC-ND 2.5 SI)</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.37701">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>37701</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/37701</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.37701">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="eng">
+                  <p xmlns="http://sistory.si/schema/sistory/v3/entity">João de Deus was born in 1830 and died in 1896. He was a
+                                        tireless poet and a successful pedagogue. He is buried in
+                                        the national pantheon, among the most relevant Portuguese
+                                        citizens. During his life he was concerned about the lack of
+                                        literacy in Portugal. For that reason he created a method to
+                                        teach people how to read, write and count. To fulfil his aim
+                                        he founded an association of mobile schools. That means he
+                                        used to train people at his home to become his method’s
+                                        teachers. Then they were sent to small villages all over the
+                                        country teaching everybody who wanted to be literate,
+                                        entirely free of charge. Being such an easy and innovative
+                                        method it became widely popular and was adopted in state
+                                        schools. In the beginning of the XXth century it became the
+                                        national method till the dictatorial regime abolished it.
+                                        Nevertheless his method was never restrained from being used
+                                        in the kindergartens established by his son João de Deus
+                                        Ramos and it is still used nowadays in those preschools. In
+                                        1917 the Museum João de Deus was inaugurated as a place
+                                        where people could remember his character and his legacy.
+                                        Being a bibliographic museum it is here where his
+                                        manuscripts, his correspondence and his poetical and
+                                        pedagogical works are preserved and it is also where
+                                        researchers can consult not only his works but also his
+                                        Portuguese contemporaries. Taking into consideration some
+                                        documents, school manuals, photographs and piece of news
+                                        about João de Deus from the Museum João de Deus documental
+                                        resource I will demonstrate his methodology and his
+                                        importance for the history of education in Portugal.</p>
+               </entity:description>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="video1" USE="EXTERNAL">
+            <METS:FLocat USE="YOUTUBE"
+                         LOCTYPE="URL"
+                         xlink:href="//www.youtube.com/embed/ec9PC859TSI"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37697"/>
+         <METS:div TYPE="entity" DMDID="dc.37701" ADMID="premis.37701 entity.37701">
+            <METS:fptr FILEID="video1"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/37376"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2017-03-29T23:00:38"
+                 LASTMODDATE="2017-04-07T11:21:08"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.4" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.37376" GROUPID="37376">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="eng">School Reforms in the Pre-modern Period From the Perspective of Justice and Discourse Analysis on the Implementation of the “Teutsche Schule” in Württemberg</dcterms:title>
+            <dcterms:creator>Wiedenhorn, Thomas</dcterms:creator>
+            <dcterms:description xml:lang="eng">In the field of research on education and schools, the 16th century is described as the era of school regulations. During the Reformation, many European countries established groundbreaking educational concepts. One major starting point for the implementation of institutionalised public education in Württemberg was the “General church and school ordinance” (cf. Reyscher 1834). Implementation of the “Teutsche Schule” as a standardised, comprehensive school can also be understood as a discourse which passed on ideas of justice. This contribution raises the question of the structural, symbolic and subject elements of the immanent discourse on justice as was manifested in the school regulations of Württemberg from the time of the Reformation right up to the end of Pietism. To do this, three relevant sets of school regulations are analysed in terms of the “powerstrategic and domination-strategic functions of the (practical) solution to social problems presented discursively” (Caborn, et.al. 2013, p. 24). Three source texts on the implementation of public education in Württemberg form the basis for the discourse analysis: 1. regulations concerning “Teutsche Schulen” in the Große Kirchenordnung (1559), 2. Chapter XXI “Von den Schulen und Schulmeistern” in Cynosura oeconomiae ecclesiaticae Wirtembergicae (1687) and 3. the revised school regulations for German schools (1729). The discourse to be analysed refers back to temporary practices of preceding eras, which themselves in turn are reproduced by specifically conditional practices (cf. Bührmann; Schneider 2008). Does this mean that every type of school has its own order of truth and its own general policy of truth (cf. Foucault 2003) which only temporarily serve as true discourses?</dcterms:description>
+            <dcterms:subject xml:lang="slv">implementacija</dcterms:subject>
+            <dcterms:subject xml:lang="slv">celovita šola</dcterms:subject>
+            <dcterms:subject xml:lang="slv">diskurz pravičnosti</dcterms:subject>
+            <dcterms:subject xml:lang="slv">reforma šolstva</dcterms:subject>
+            <dcterms:subject xml:lang="eng">implementation</dcterms:subject>
+            <dcterms:subject xml:lang="eng">comprehensive school</dcterms:subject>
+            <dcterms:subject xml:lang="eng">discourse of justice</dcterms:subject>
+            <dcterms:subject xml:lang="eng">school reform</dcterms:subject>
+            <dcterms:subject xml:lang="eng">pre-modern period</dcterms:subject>
+            <dcterms:publisher>Zveza zgodovinskih društev Slovenije, Ljubljana</dcterms:publisher>
+            <dcterms:publisher>Inštitut za novejšo zgodovino, Ljubljana</dcterms:publisher>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2016-09-28</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">MovingImage</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">eng</dcterms:language>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.37376">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>37376</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/37376</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.37376">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="eng"> In the field of research
+                                    on education and schools, the 16th century is described as the
+                                    era of school regulations. During the Reformation, many European
+                                    countries established groundbreaking educational concepts. One
+                                    major starting point for the implementation of institutionalised
+                                    public education in Württemberg was the “General church and
+                                    school ordinance” (cf. Reyscher 1834). Implementation of the
+                                    “Teutsche Schule” as a standardised, comprehensive school can
+                                    also be understood as a discourse which passed on ideas of
+                                    justice. This contribution raises the question of the
+                                    structural, symbolic and subject elements of the immanent
+                                    discourse on justice as was manifested in the school regulations
+                                    of Württemberg from the time of the Reformation right up to the
+                                    end of Pietism. To do this, three relevant sets of school
+                                    regulations are analysed in terms of the “powerstrategic and
+                                    domination-strategic functions of the (practical) solution to
+                                    social problems presented discursively” (Caborn, et.al. 2013, p.
+                                    24). Three source texts on the implementation of public
+                                    education in Württemberg form the basis for the discourse
+                                    analysis: 1. regulations concerning “Teutsche Schulen” in the
+                                    Große Kirchenordnung (1559), 2. Chapter XXI “Von den Schulen und
+                                    Schulmeistern” in Cynosura oeconomiae ecclesiaticae
+                                    Wirtembergicae (1687) and 3. the revised school regulations for
+                                    German schools (1729). The discourse to be analysed refers back
+                                    to temporary practices of preceding eras, which themselves in
+                                    turn are reproduced by specifically conditional practices (cf.
+                                    Bührmann; Schneider 2008). Does this mean that every type of
+                                    school has its own order of truth and its own general policy of
+                                    truth (cf. Foucault 2003) which only temporarily serve as true
+                                    discourses? </entity:description>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="video1" USE="EXTERNAL">
+            <METS:FLocat USE="YOUTUBE"
+                         LOCTYPE="URL"
+                         xlink:href="https://www.youtube.com/embed/S1MRqRzkj4w"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37362"/>
+         <METS:div TYPE="entity" DMDID="dc.37376" ADMID="premis.37376 entity.37376">
+            <METS:fptr FILEID="video1"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/908"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2011-11-21T23:19:25"
+                 LASTMODDATE="2016-12-18T11:27:33"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.11" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.908" GROUPID="908">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="slv">Ljubljanski meščanje v minulih stoletjih</dcterms:title>
+            <dcterms:title xml:lang="slv">Kulturhistorične študije zajete iz ljubljanskega mestnega arhiva</dcterms:title>
+            <dcterms:creator>Vrhovec, Ivan</dcterms:creator>
+            <dcterms:subject xml:lang="slv">kulturna zgodovina</dcterms:subject>
+            <dcterms:subject xml:lang="slv">mesta</dcterms:subject>
+            <dcterms:subject xml:lang="slv">Ljubljana</dcterms:subject>
+            <dcterms:subject xml:lang="slv">meščani</dcterms:subject>
+            <dcterms:subject xml:lang="slv">zgodovinski pregledi</dcterms:subject>
+            <dcterms:subject xml:lang="slv">lokalna zgodovina</dcterms:subject>
+            <dcterms:subject xml:lang="eng">cultural history</dcterms:subject>
+            <dcterms:subject xml:lang="eng">town</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Ljubljana</dcterms:subject>
+            <dcterms:subject xml:lang="eng">local history</dcterms:subject>
+            <dcterms:subject xml:lang="eng">historical overview</dcterms:subject>
+            <dcterms:publisher>Matica Slovenska, Ljubljana</dcterms:publisher>
+            <dcterms:date xsi:type="dcterms:W3CDTF">1886</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">Text</dcterms:type>
+            <dcterms:identifier>COBISS.SI-ID 2723843</dcterms:identifier>
+            <dcterms:language xsi:type="dcterms:ISO639-3">slv</dcterms:language>
+            <dcterms:coverage xml:lang="slv">Ljubljana</dcterms:coverage>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.908">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>908</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/908</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink">
+      <METS:fileGrp USE="THUMB">
+         <METS:file ID="thumbnail">
+            <METS:FLocat LOCTYPE="URL"
+                         xlink:href="http://www.sistory.si/cdn/publikacije/1-1000/908/Ljubljanski_Mescanje.jpg"/>
+         </METS:file>
+      </METS:fileGrp>
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="external1" USE="EXTERNAL">
+            <METS:FLocat USE="HTTP"
+                         LOCTYPE="URL"
+                         xlink:href="http://www.dlib.si/?URN=URN:NBN:SI:DOC-EAMTNJCB"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="primary">
+      <METS:div TYPE="collection">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/menu17"/>
+         <METS:div TYPE="entity" DMDID="dc.908" ADMID="premis.908">
+            <METS:fptr FILEID="thumbnail"/>
+            <METS:fptr FILEID="external1"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

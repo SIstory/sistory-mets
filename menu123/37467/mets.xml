@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/37467"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2017-04-05T09:09:16"
+                 LASTMODDATE="2017-04-07T11:58:09"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.4" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.37467" GROUPID="37467">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="slv">Učitelji Stresi na Goriškem in Koroškem – kronika dveh učiteljskih družin</dcterms:title>
+            <dcterms:alternative xml:lang="eng">Teachers Stres in Gorizia and Carinthia - Chronicle of Two Families of Teachers</dcterms:alternative>
+            <dcterms:creator>Stres, Gvido</dcterms:creator>
+            <dcterms:description xml:lang="slv">Prispevek poskuša na osnovi pričevanja in z uporabo zgodovinskih virov in literature napisati življenjsko pot dveh primorskih učiteljskih družin od 60. let 19. stoletja. Začetnika učiteljske družine sta bila Anton Stres iz Sužida in žena Amalija, rojena Schlegl, iz Šturij. Bila sta učitelja v Bovcu, Breginju in Sedlu. Anton je vodil pevski zbor bovške čitalnice. V njuni družini so bili učitelji: sinova Anton in Feliks ter hčerke Franja, Milena in Stanka. Anton mlajši je bil učitelj v Idrskem in nadučitelj v Cerknem. Bil je eden od začetnikov slovenskega planinstva na soški strani Julijskih Alp in pisec planinskih člankov. V družini Alojzije in Feliksa Stresa, ki je bil pred prvo svetovno vojno učitelj v Temnici in Škrbini na Krasu, so bili učitelji Milena, Boris in Gvido. Družina je morala v begunstvo, ki se je končalo na Lešah pri Prevaljah, kjer je Feliks učil do upokojitve. Zakonca Milena in šolski upravitelj Ivo Močnik sta pomembno prispevala pri utrjevanju slovenske pripadnosti Libelič po prvi svetovni vojni. Boris in učiteljica Mira Stres sta imela dve desetletji po drugi svetovni vojni pomembno vlogo v kulturnem življenju na Prevaljah. Gvido je bil učitelj na šoli v Lokovici pri Prevaljah, upravitelj šole v Pamečah pri Slovenj Gradcu in od leta 1957 zaposlen v Študijski knjižnici na Ravnah na Koroškem.</dcterms:description>
+            <dcterms:description xml:lang="eng">The paper attempts to show the life path of two littoral families of teachers from the 1860s, on the basis of testimonies and with the use of historical sources and literature. At the beginning of this family of teachers are Anton Stres from Sužid and his wife Amalija, born Schlegl, from Šturje. They worked as teachers in Bovec, Breginj and Sedlo. Anton led the choir of the Reading Society Bovec. In their family, teachers were: sons Anton and Feliks and daughters Franja, Milena and Stanka. Anton Jr. was a teacher in Idrsko and headteacher in Cerkno. He was one of the pioneers of Slovenian mountaineering on the Isonzo side of the Julian Alps and writer of mountain articles. In the family of Alojzija and Feliks Stres, who was a teacher before the First World War in Temnica and Škrbina in Karst, teachers were also Milena, Boris and Gvido. The family had to go into exile, and so they came to Leše in Prevalje, where Feliks taught until his retirement. Spouses Milena and headteacher Ivo Močnik contributed to Slovenian annexation of Libeliče after the First World War. Boris and teacher Mira Stres had an important role two decades after the Second World War in the cultural life in Prevalje. Gvido was a teacher at primary school in Lokovica in Prevalje, headteacher of the school in Pameče in Slovenj Gradec and from 1957 he worked at the Study Library in Ravne in Carinthia.</dcterms:description>
+            <dcterms:subject xml:lang="slv">učitelji Stresi</dcterms:subject>
+            <dcterms:subject xml:lang="slv">Goriška</dcterms:subject>
+            <dcterms:subject xml:lang="slv">narodno prebujanje</dcterms:subject>
+            <dcterms:subject xml:lang="slv">begunstvo</dcterms:subject>
+            <dcterms:subject xml:lang="slv">Koroška</dcterms:subject>
+            <dcterms:subject xml:lang="eng">teachers Stres</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Gorizia</dcterms:subject>
+            <dcterms:subject xml:lang="eng">national awakening</dcterms:subject>
+            <dcterms:subject xml:lang="eng">refugees</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Carinthia</dcterms:subject>
+            <dcterms:publisher>Zveza zgodovinskih društev Slovenije, Ljubljana</dcterms:publisher>
+            <dcterms:publisher>Inštitut za novejšo zgodovino, Ljubljana</dcterms:publisher>
+            <dcterms:contributor>Irena Samide (moderator)</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2016-09-30</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">MovingImage</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">slv</dcterms:language>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.37467">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>37467</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/37467</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.37467">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Prispevek poskuša na
+                                    osnovi pričevanja in z uporabo zgodovinskih virov in literature
+                                    napisati življenjsko pot dveh primorskih učiteljskih družin od
+                                    60. let 19. stoletja. Začetnika učiteljske družine sta bila
+                                    Anton Stres iz Sužida in žena Amalija, rojena Schlegl, iz
+                                    Šturij. Bila sta učitelja v Bovcu, Breginju in Sedlu. Anton je
+                                    vodil pevski zbor bovške čitalnice. V njuni družini so bili
+                                    učitelji: sinova Anton in Feliks ter hčerke Franja, Milena in
+                                    Stanka. Anton mlajši je bil učitelj v Idrskem in nadučitelj v
+                                    Cerknem. Bil je eden od začetnikov slovenskega planinstva na
+                                    soški strani Julijskih Alp in pisec planinskih člankov. V
+                                    družini Alojzije in Feliksa Stresa, ki je bil pred prvo svetovno
+                                    vojno učitelj v Temnici in Škrbini na Krasu, so bili učitelji
+                                    Milena, Boris in Gvido. Družina je morala v begunstvo, ki se je
+                                    končalo na Lešah pri Prevaljah, kjer je Feliks učil do
+                                    upokojitve. Zakonca Milena in šolski upravitelj Ivo Močnik sta
+                                    pomembno prispevala pri utrjevanju slovenske pripadnosti Libelič
+                                    po prvi svetovni vojni. Boris in učiteljica Mira Stres sta imela
+                                    dve desetletji po drugi svetovni vojni pomembno vlogo v
+                                    kulturnem življenju na Prevaljah. Gvido je bil učitelj na šoli v
+                                    Lokovici pri Prevaljah, upravitelj šole v Pamečah pri Slovenj
+                                    Gradcu in od leta 1957 zaposlen v Študijski knjižnici na Ravnah
+                                    na Koroškem. </entity:description>
+               <entity:description xml:lang="eng"> The paper attempts to
+                                    show the life path of two littoral families of teachers from the
+                                    1860s, on the basis of testimonies and with the use of
+                                    historical sources and literature. At the beginning of this
+                                    family of teachers are Anton Stres from Sužid and his wife
+                                    Amalija, born Schlegl, from Šturje. They worked as teachers in
+                                    Bovec, Breginj and Sedlo. Anton led the choir of the Reading
+                                    Society Bovec. In their family, teachers were: sons Anton and
+                                    Feliks and daughters Franja, Milena and Stanka. Anton Jr. was a
+                                    teacher in Idrsko and headteacher in Cerkno. He was one of the
+                                    pioneers of Slovenian mountaineering on the Isonzo side of the
+                                    Julian Alps and writer of mountain articles. In the family of
+                                    Alojzija and Feliks Stres, who was a teacher before the First
+                                    World War in Temnica and Škrbina in Karst, teachers were also
+                                    Milena, Boris and Gvido. The family had to go into exile, and so
+                                    they came to Leše in Prevalje, where Feliks taught until his
+                                    retirement. Spouses Milena and headteacher Ivo Močnik
+                                    contributed to Slovenian annexation of Libeliče after the First
+                                    World War. Boris and teacher Mira Stres had an important role
+                                    two decades after the Second World War in the cultural life in
+                                    Prevalje. Gvido was a teacher at primary school in Lokovica in
+                                    Prevalje, headteacher of the school in Pameče in Slovenj Gradec
+                                    and from 1957 he worked at the Study Library in Ravne in
+                                    Carinthia. </entity:description>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="video1" USE="EXTERNAL">
+            <METS:FLocat USE="YOUTUBE"
+                         LOCTYPE="URL"
+                         xlink:href="https://www.youtube.com/embed/tDtOfspy8Eg"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37398"/>
+         <METS:div TYPE="entity" DMDID="dc.37467" ADMID="premis.37467 entity.37467">
+            <METS:fptr FILEID="video1"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

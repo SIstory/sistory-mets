@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/37792"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2017-06-15T09:06:56"
+                 LASTMODDATE="2017-06-15T09:09:48"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.37792" GROUPID="37792">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="eng">Approaches to Child Neglect and Neglected Children in Early 20th Century Vienna: Some Evidence from the Pestalozzi Society.</dcterms:title>
+            <dcterms:alternative xml:lang="slv">Pogledi na zanemarjanje otrok in zanemarjene otroke v začetku 20. stoletja. Dunaj: nekateri dokazi iz društva Pestalozzi</dcterms:alternative>
+            <dcterms:creator>Papathanassiou, Maria</dcterms:creator>
+            <dcterms:description xml:lang="eng">The paper deals with aspects of the so-called “Verwahrlosung” of children on the basis of an extensive speech/ report delivered at the 1907 First Austrian Child Protection Conference by Lydia v. Wolfring president of the Pestalozzi Society, one of numerous contemporary voluntary organizations dealing with child protection and youth welfare in the Habsburg Monarchy at the time. “Verwahrlosung” referred to children’s and youth’s material, emotional and moral neglect and was intensively debated by state officials, university professors, school teachers as well as engaged individuals in early 20th century Austria, particularly within the scholarly, intellectual and political environment of the imperial capital, Vienna. The paper brings forward the contents of “Verwahrlosung”, attitudes and practices in regard to child “neglect”, as well as children’s experiences themselves.</dcterms:description>
+            <dcterms:description xml:lang="slv">Prispevek predstavlja aspekte t.i »Verwahrlosung« otrok na podlagi obsežnega govora oziroma poročila s prve avstrijske konference o zaščiti otrok leta 1907 avtorice Lydie v. Wolfring, predsednice društva Pestalozzi, ene izmed mnogih začasnih volonterskih organizacij, ki so se ukvarjale z zaščito otrok in blaginjo mladih v Habsburški monarhiji. »Verwahrlosung« se nanaša na otroško in mladinsko materialno, čustveno in moralno zanemarjanje in o tem se je veliko debatiralo s strani uradnih oseb, univerzitetnih profesorjev, učiteljev kot tudi vpletenih posameznikov v zgodnjem 20. stoletju v Avstriji, predvsem v šolskih, intelektualnih in političnih krogih glavnega mesta Dunaja. Prispevek predstavlja vsebino, odnose in prakso »zanemarjanja« otrok, kot tudi izkušnje otrok samih.</dcterms:description>
+            <dcterms:subject xml:lang="slv">zanemarjanje otrok</dcterms:subject>
+            <dcterms:subject xml:lang="slv">zanemarjeni otroci</dcterms:subject>
+            <dcterms:subject xml:lang="slv">zgodovina otrok</dcterms:subject>
+            <dcterms:subject xml:lang="eng">child neglect</dcterms:subject>
+            <dcterms:subject xml:lang="eng">neglected children</dcterms:subject>
+            <dcterms:subject xml:lang="eng">history of children</dcterms:subject>
+            <dcterms:publisher>Zveza zgodovinskih društev Slovenije, Ljubljana</dcterms:publisher>
+            <dcterms:publisher>Inštitut za novejšo zgodovino, Ljubljana</dcterms:publisher>
+            <dcterms:contributor>Uwe Krebs (moderator)</dcterms:contributor>
+            <dcterms:contributor>Marta Verginella (moderator)</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2012-10-19</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">MovingImage</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">slv</dcterms:language>
+            <dcterms:language xsi:type="dcterms:ISO639-3">eng</dcterms:language>
+            <dcterms:license xsi:type="dcterms:URI">http://creativecommons.org/licenses/by-nc-nd/2.5/si/</dcterms:license>
+            <dcterms:license xml:lang="slv">Priznanje avtorstva-Nekomercialo-Brez predelav 2.5 Slovenija (CC BY-NC-ND 2.5 SI)</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.37792">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>37792</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/37792</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.37792">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="slv">
+                  <p xmlns="http://sistory.si/schema/sistory/v3/entity">Prispevek predstavlja aspekte t.i »Verwahrlosung« otrok na
+                                        podlagi obsežnega govora oziroma poročila s prve avstrijske
+                                        konference o zaščiti otrok leta 1907 avtorice Lydie v.
+                                        Wolfring, predsednice društva Pestalozzi, ene izmed mnogih
+                                        začasnih volonterskih organizacij, ki so se ukvarjale z
+                                        zaščito otrok in blaginjo mladih v Habsburški monarhiji.
+                                        »Verwahrlosung« se nanaša na otroško in mladinsko
+                                        materialno, čustveno in moralno zanemarjanje in o tem se je
+                                        veliko debatiralo s strani uradnih oseb, univerzitetnih
+                                        profesorjev, učiteljev kot tudi vpletenih posameznikov v
+                                        zgodnjem 20. stoletju v Avstriji, predvsem v šolskih,
+                                        intelektualnih in političnih krogih glavnega mesta Dunaja.
+                                        Prispevek predstavlja vsebino, odnose in prakso
+                                        »zanemarjanja« otrok, kot tudi izkušnje otrok samih.</p>
+               </entity:description>
+               <entity:description xml:lang="eng">
+                  <p xmlns="http://sistory.si/schema/sistory/v3/entity">The paper deals with aspects of the so-called “Verwahrlosung”
+                                        of children on the basis of an extensive speech/ report
+                                        delivered at the 1907 First Austrian Child Protection
+                                        Conference by Lydia v. Wolfring president of the Pestalozzi
+                                        Society, one of numerous contemporary voluntary
+                                        organizations dealing with child protection and youth
+                                        welfare in the Habsburg Monarchy at the time.
+                                        “Verwahrlosung” referred to children’s and youth’s material,
+                                        emotional and moral neglect and was intensively debated by
+                                        state officials, university professors, school teachers as
+                                        well as engaged individuals in early 20th century Austria,
+                                        particularly within the scholarly, intellectual and
+                                        political environment of the imperial capital, Vienna. The
+                                        paper brings forward the contents of “Verwahrlosung”,
+                                        attitudes and practices in regard to child “neglect”, as
+                                        well as children’s experiences themselves.</p>
+               </entity:description>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="video1" USE="EXTERNAL">
+            <METS:FLocat USE="YOUTUBE"
+                         LOCTYPE="URL"
+                         xlink:href="http://www.youtube.com/embed/FL7TdIfonzo"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37790"/>
+         <METS:div TYPE="entity" DMDID="dc.37792" ADMID="premis.37792 entity.37792">
+            <METS:fptr FILEID="video1"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

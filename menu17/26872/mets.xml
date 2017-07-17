@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/26872"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2014-06-16T12:59:48"
+                 LASTMODDATE="2017-02-13T10:53:53"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.26872" GROUPID="26872">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="eng">Vojvodina between the Serbian and Yugoslav option during the establishment of the Kingdom of SCS</dcterms:title>
+            <dcterms:alternative xml:lang="srp">Vojvodina između srpske i jugoslovenske opcije u vreme stvaranja Kraljevine SHS</dcterms:alternative>
+            <dcterms:creator>Končar, Ranko</dcterms:creator>
+            <dcterms:creator>Marković, Saša</dcterms:creator>
+            <dcterms:abstract xml:lang="srp">Krajem Prvog svetskog rata došlo je do ujedinjenja jugoslovenskih naroda u zajedničku državu. Ujedinjenje je prolazilo kroz mnoge kontroverze političkog i medjunarodnog karaktera. Posebno se to manifestovaio u shvatanju jugoslovenstva, karaktera i oblika državnog uredjenja. Uglavnom su se konfrontirale dve tendencije - da li se u novu državu ujedinjuju jugoslovenske zemlje ili jugoslovenski narod. Shvatanje da se ujedinjuju jugoslovenske zemlje, smatralo se federalističkom ili konfederalističkom opcijom. Dok se u ideji ujedinjenja jugoslovenskih naroda videla nacionalno i državno unitaristička opcija.U okvirim a ovih političkih shvatanja otvaralo se i pitanje Vojvodine - da li če se rešenje njenog statusa ostvariti kroz jugoslovensku ili srpsku državnu opciju.</dcterms:abstract>
+            <dcterms:abstract xml:lang="eng">Toward the end of the First World War the Yugoslav nations united into the common state. The process of uniting went through a number of controversies of political and international nature. This was particularly reflected in perception of the Yugoslavianship, the character and form of the government system. Generally, there were two confronting trends - whether the Yugoslav countries or Yugoslav people had been united into a new state. The idea that the Yugoslav countries had been united was considered as federalist or confederal option, whereas the idea of uniting of the Yugoslav nations was regarded as a national and state-unitary option.Within the scope of these political beliefs, the issue of Vojvodina had also been tackled, that is, whether its status was going to be resolved through Yugoslavian or through the Serbian state option.</dcterms:abstract>
+            <dcterms:subject xml:lang="slv">Kraljevina SHS</dcterms:subject>
+            <dcterms:subject xml:lang="slv">Vojvodina</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Kingdom of SCS</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Vojvodina</dcterms:subject>
+            <dcterms:publisher>Oddelek za zgodovino Filozofske fakultete, Ljubljana</dcterms:publisher>
+            <dcterms:contributor>Bojan Balkovec (ur.)</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2009</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">Text</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">srp</dcterms:language>
+            <dcterms:license xsi:type="dcterms:URI">http://creativecommons.org/licenses/by-nc-nd/2.5/si/</dcterms:license>
+            <dcterms:license xml:lang="slv">Priznanje avtorstva-Nekomercialo-Brez predelav 2.5 Slovenija (CC BY-NC-ND 2.5 SI)</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:dmdSec ID="mods.26872" GROUPID="26872">
+      <METS:mdWrap MDTYPE="MODS" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <mods:relatedItem type="series">
+               <mods:relatedItem type="series">
+                  <mods:titleInfo>
+                     <mods:title>Historia: znanstvena zbirka Oddelka za zgodovino Filozofska fakultete v Ljubljani</mods:title>
+                  </mods:titleInfo>
+                  <mods:part>
+                     <mods:detail type="volumens">
+                        <mods:number>15</mods:number>
+                     </mods:detail>
+                  </mods:part>
+               </mods:relatedItem>
+            </mods:relatedItem>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.26872">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>26872</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/26872#page=94</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.26872">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="slv">
+                  <p xmlns="http://sistory.si/schema/sistory/v3/entity">Krajem Prvog svetskog rata došlo je do ujedinjenja
+                                        jugoslovenskih naroda u zajedničku državu. Ujedinjenje je
+                                        prolazilo kroz mnoge kontroverze političkog i medjunarodnog
+                                        karaktera. Posebno se to manifestovaio u shvatanju
+                                        jugoslovenstva, karaktera i oblika državnog uredjenja.
+                                        Uglavnom su se konfrontirale dve tendencije - da li se u
+                                        novu državu ujedinjuju jugoslovenske zemlje ili
+                                        jugoslovenski narod. Shvatanje da se ujedinjuju
+                                        jugoslovenske zemlje, smatralo se federalističkom ili
+                                        konfederalističkom opcijom. Dok se u ideji ujedinjenja
+                                        jugoslovenskih naroda videla nacionalno i državno
+                                        unitaristička opcija.U okvirim a ovih političkih shvatanja
+                                        otvaralo se i pitanje Vojvodine - da li če se rešenje njenog
+                                        statusa ostvariti kroz jugoslovensku ili srpsku državnu
+                                        opciju.</p>
+               </entity:description>
+               <entity:description xml:lang="eng">
+                  <p xmlns="http://sistory.si/schema/sistory/v3/entity">Toward the end of the First World War the Yugoslav nations
+                                        united into the common state. The process of uniting went
+                                        through a number of controversies of political and
+                                        international nature. This was particularly reflected in
+                                        perception of the Yugoslavianship, the character and form of
+                                        the government system. Generally, there were two confronting
+                                        trends - whether the Yugoslav countries or Yugoslav people
+                                        had been united into a new state. The idea that the Yugoslav
+                                        countries had been united was considered as federalist or
+                                        confederal option, whereas the idea of uniting of the
+                                        Yugoslav nations was regarded as a national and
+                                        state-unitary option.Within the scope of these political
+                                        beliefs, the issue of Vojvodina had also been tackled, that
+                                        is, whether its status was going to be resolved through
+                                        Yugoslavian or through the Serbian state option.</p>
+               </entity:description>
+               <entity:page>94</entity:page>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/26853"/>
+         <METS:div TYPE="entity"
+                   DMDID="dc.26872 mods.26872"
+                   ADMID="premis.26872 entity.26872"/>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

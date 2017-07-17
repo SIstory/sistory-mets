@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/14270"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2012-11-30T11:49:01"
+                 LASTMODDATE="2017-02-09T10:30:50"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.14270" GROUPID="14270">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="slv">Eksodus iz cone B Svobodnega tržaškega ozemlja (1945–1958)</dcterms:title>
+            <dcterms:alternative xml:lang="eng">Exodus from Zone B of the Free Territory of Trieste (1945–1958)</dcterms:alternative>
+            <dcterms:creator>Pupo, Raoul</dcterms:creator>
+            <dcterms:abstract xml:lang="eng">The exodus from the Zone B of the Free Territory of Trieste is a part of the wider phenomenon of the exodus of people from Dalmatia and Venezia Giulia. First the author outlines the basic characteristics of the migration phenomenon, basing his description on the historiographic development of the concept of »exodus«. Initially this was an expression aimed at conveying the unique concept of a historical experience, while in the more recent historiographic articles it developed into a general explanatory category used to describe the various examples of the forced relocation of the European population beginning in the middle of the 19th century. Thus it can be distinguished from the similar but not identical phenomena like exile and deportation. Then the author analyses the main incentives leading to the exodus of almost all of the Italian population from the areas which came under the control of the Yugoslav authorities after World War II. He looks at the political, social and national revolution and its influence of the Istrian reality. He also pays special attention to the »Slavic-Italian brotherhood«, which is understood as a selective strategy of establishing connections, and also to the activities of the people’s authorities. The blend of the internal restrictions of the »brotherhood« policy and its demise made the Italian population feel afraid for its survival, therefore the right to choose was in fact an option to move to safety. This option was also chosen by a significant percentage of the non-Italian population, which confirms the severity of the conditions of the material as well as political life in Istria at the time. Zone B of the Free Territory of Trieste was subject to similar conditions, but there the situation was additionally complicated by the uncertainty with regard to which state the Zone would subsequently be annexed to, lasting until as late as October 1954. This, to a certain extent, prevented mass emigration, which, however, did take place in the areas of Istria which had already been annexed to Yugoslavia with the Peace Treaty of 1947. Here we should also take into account some of the key moments in the relations between the Italian population and the new authorities in Zone B of the Free Territory of Trieste: the purge, the strike in Koper (Capodistria) in the autumn of 1945, the arrival of the international demarcation commission in the spring of 1946, the increasingly severe persecution of the Church, the Cominform Resolution of 1948, and the 1950 elections. The author then points out certain issues which still need to be researched, like the relationship between the military administration and the people’s authorities, the internal structure of the people’s authorities themselves, and the development of the new ruling class which took over the power in 1945. He also submits the first findings of a research from another angle, which has been subject to lengthy discussions: the actions of the pro-Italian forces in this territory, which were connected to the organisations in Zone A as well as to the Italian government. These forces include the Istrian National Liberation Committee(Comitato di liberazione nazionale dell’Istria) registered in Trieste, and Radio Venezia Giulia, managed directly by the Italian government. In both cases the research was possible thanks to important new archive materials. Towards the end the author looks at the final stage of the Trieste question,taking place in 1953 and 1954 and concluding with the signature of the London Memorandum of October 1954, followed by the emigration of almost all ofthe Italian population from Zone B of the Free Territory of Trieste. Finally the author explains the presence of exiles (the so-called ezuli) in the everyday lifein Trieste.</dcterms:abstract>
+            <dcterms:abstract xml:lang="slv">Eksodus iz cone B Svobodnega tržaškega ozemlja je del širšega fenomena eksodusa prebivalcev Dalmacije in Julijske krajine. Avtor najprej na kratko pokažena temeljne značilnosti migracijskega fenomena in pri tem izhaja iz razvoja, ki ga je koncept »eksodusa« naredil v zgodovinopisju. Sprva je bil to bojevit izraz, ki je bil usmerjen v to, da bi izrazil enopomenskost zgodovinske izkušnje, da bi v zadnjih zgodovinopisnih prispevkih postal splošna pojasnjevalna kategorija, ki je uporabljena za opisovanje posebne serije prisilnega preseljevanja evropskega prebivalstva, ki se začne sredi devetnajstega stoletja, in ki ga tako razločimo od bližnjih, a ne identičnih fenomenov kot so izgoni in deportacije. V nadaljevanju avtor analizira glavna spodbude, ki so pripeljale do eksodusa skoraj vsega italijanskega prebivalstva z območij, ki so po drugi svetovni vojni prišla pod nadzor jugoslovanskih oblasti. Začne s politično, družbeno in nacionalno revolucijo in njenim vplivom na istrsko stvarnost. Posebna pozornost jenamenjena »slovansko-italijanskem bratstvu«, ki je razumljeno kot selektivna strategija povezovanja, pa tudi delovanju organov ljudske oblasti. Mešanica notranjih omejitev politike »bratstva« in njenega propada je pri Italijanih rojevala občutek nezmožnosti preživetja, zaradi katerega je bila pravica do opcije dejansko odhod na varno. Uporabil jo je tudi precejšen del neitalijanskega prebivalstva, kar potrjuje trdoto pogojev takratnega tako materialnega kot političnega življenja v Istri. Podobni pogoji so bili tudi v coni B STO, kjer pa se je tem pogojem pridružila negotovost glede nadaljnje državne pripadnosti cone, ki je segla vse do oktobra 1954. To je v določeni meri zaustavilo množično izseljevanje, do kakršnegaje prišlo na območjih Istre, ki so bila z mirovno pogodbo že leta 1947 priključena k Jugoslaviji. Ob tem pa moramo upoštevati nekatere ključne trenutkev odnosih med italijanskim prebivalstvom in novimi oblastmi v coni BSTO: epuracija, stavka v Kopru jeseni 1945, prihod mednarodne razmejitvene komisije pomladi 1946, zaostritev preganjanja Cerkve, resolucija Informbiroja1948, volitve leta 1950. Avtor nato pokaže na nekatera področja, ki jih je treba še raziskati, kot so odnos med vojaško upravo in ljudsko oblastjo, notranja členitev same ljudske oblasti in graditev novega vodilnega razreda, ki je oblast prevzel leta 1945. Ob tem bo predložil prve izsledke raziskave, ki teče glede drugega vidika, o katerem se je veliko razpravljalo, to je o ravnanju proitalijanskih sil na tem območju,ki so bile povezane tako z organizacijami v coni A, kot z italijansko vlado.Gre za Istrski narodnoosvobodilni odbor (Comitato di liberazione nazionaledell’Istria), ki je imel sedež v Trstu, in za radijsko postajo Radio Venezia Giulia, ki ga je italijanska vlada vodila neposredno. V obeh primerih so bile te raziskave mogoče zahvaljujoč novemu pomembnemu arhivskemu gradivu. Na koncu se avtor ustavi na zadnji fazi tržaškega vprašanja, torej v letih 1953 in 1954, ki se je zaključila s podpisom Spomenice o soglasju oktobra 1954, in ki ji je sledila izselitev skoraj celotnega italijanskega prebivalstva cone B STO. Zadnje pojasnilo pa je namenjeno prisotnosti ezulov v tržaški vsakdanjosti.</dcterms:abstract>
+            <dcterms:publisher>Inštitut za novejšo zgodovino/Institute of Contemporary History, Ljubljana</dcterms:publisher>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2012-11-07</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">MovingImage</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">slv</dcterms:language>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.14270">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>14270</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/14270</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.14270">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="slv">
+                  <p xmlns="http://sistory.si/schema/sistory/v3/entity">Eksodus iz cone B Svobodnega tržaškega ozemlja je del širšega
+                                        fenomena eksodusa prebivalcev Dalmacije in Julijske krajine.
+                                        Avtor najprej na kratko pokažena temeljne značilnosti
+                                        migracijskega fenomena in pri tem izhaja iz razvoja, ki ga
+                                        je koncept »eksodusa« naredil v zgodovinopisju. Sprva je bil
+                                        to bojevit izraz, ki je bil usmerjen v to, da bi izrazil
+                                        enopomenskost zgodovinske izkušnje, da bi v zadnjih
+                                        zgodovinopisnih prispevkih postal splošna pojasnjevalna
+                                        kategorija, ki je uporabljena za opisovanje posebne serije
+                                        prisilnega preseljevanja evropskega prebivalstva, ki se
+                                        začne sredi devetnajstega stoletja, in ki ga tako razločimo
+                                        od bližnjih, a ne identičnih fenomenov kot so izgoni in
+                                        deportacije. V nadaljevanju avtor analizira glavna spodbude,
+                                        ki so pripeljale do eksodusa skoraj vsega italijanskega
+                                        prebivalstva z območij, ki so po drugi svetovni vojni prišla
+                                        pod nadzor jugoslovanskih oblasti. Začne s politično,
+                                        družbeno in nacionalno revolucijo in njenim vplivom na
+                                        istrsko stvarnost. Posebna pozornost jenamenjena
+                                        »slovansko-italijanskem bratstvu«, ki je razumljeno kot
+                                        selektivna strategija povezovanja, pa tudi delovanju organov
+                                        ljudske oblasti. Mešanica notranjih omejitev politike
+                                        »bratstva« in njenega propada je pri Italijanih rojevala
+                                        občutek nezmožnosti preživetja, zaradi katerega je bila
+                                        pravica do opcije dejansko odhod na varno. Uporabil jo je
+                                        tudi precejšen del neitalijanskega prebivalstva, kar
+                                        potrjuje trdoto pogojev takratnega tako materialnega kot
+                                        političnega življenja v Istri. Podobni pogoji so bili tudi v
+                                        coni B STO, kjer pa se je tem pogojem pridružila negotovost
+                                        glede nadaljnje državne pripadnosti cone, ki je segla vse do
+                                        oktobra 1954. To je v določeni meri zaustavilo množično
+                                        izseljevanje, do kakršnegaje prišlo na območjih Istre, ki so
+                                        bila z mirovno pogodbo že leta 1947 priključena k
+                                        Jugoslaviji. Ob tem pa moramo upoštevati nekatere ključne
+                                        trenutkev odnosih med italijanskim prebivalstvom in novimi
+                                        oblastmi v coni BSTO: epuracija, stavka v Kopru jeseni 1945,
+                                        prihod mednarodne razmejitvene komisije pomladi 1946,
+                                        zaostritev preganjanja Cerkve, resolucija Informbiroja1948,
+                                        volitve leta 1950. Avtor nato pokaže na nekatera področja,
+                                        ki jih je treba še raziskati, kot so odnos med vojaško
+                                        upravo in ljudsko oblastjo, notranja členitev same ljudske
+                                        oblasti in graditev novega vodilnega razreda, ki je oblast
+                                        prevzel leta 1945. Ob tem bo predložil prve izsledke
+                                        raziskave, ki teče glede drugega vidika, o katerem se je
+                                        veliko razpravljalo, to je o ravnanju proitalijanskih sil na
+                                        tem območju,ki so bile povezane tako z organizacijami v coni
+                                        A, kot z italijansko vlado.Gre za Istrski narodnoosvobodilni
+                                        odbor (Comitato di liberazione nazionaledell’Istria), ki je
+                                        imel sedež v Trstu, in za radijsko postajo Radio Venezia
+                                        Giulia, ki ga je italijanska vlada vodila neposredno. V obeh
+                                        primerih so bile te raziskave mogoče zahvaljujoč novemu
+                                        pomembnemu arhivskemu gradivu. Na koncu se avtor ustavi na
+                                        zadnji fazi tržaškega vprašanja, torej v letih 1953 in 1954,
+                                        ki se je zaključila s podpisom Spomenice o soglasju oktobra
+                                        1954, in ki ji je sledila izselitev skoraj celotnega
+                                        italijanskega prebivalstva cone B STO. Zadnje pojasnilo pa
+                                        je namenjeno prisotnosti ezulov v tržaški vsakdanjosti.</p>
+               </entity:description>
+               <entity:description xml:lang="eng">
+                  <p xmlns="http://sistory.si/schema/sistory/v3/entity">The exodus from the Zone B of the Free Territory of Trieste
+                                        is a part of the wider phenomenon of the exodus of people
+                                        from Dalmatia and Venezia Giulia. First the author outlines
+                                        the basic characteristics of the migration phenomenon,
+                                        basing his description on the historiographic development of
+                                        the concept of »exodus«. Initially this was an expression
+                                        aimed at conveying the unique concept of a historical
+                                        experience, while in the more recent historiographic
+                                        articles it developed into a general explanatory category
+                                        used to describe the various examples of the forced
+                                        relocation of the European population beginning in the
+                                        middle of the 19th century. Thus it can be distinguished
+                                        from the similar but not identical phenomena like exile and
+                                        deportation. Then the author analyses the main incentives
+                                        leading to the exodus of almost all of the Italian
+                                        population from the areas which came under the control of
+                                        the Yugoslav authorities after World War II. He looks at the
+                                        political, social and national revolution and its influence
+                                        of the Istrian reality. He also pays special attention to
+                                        the »Slavic-Italian brotherhood«, which is understood as a
+                                        selective strategy of establishing connections, and also to
+                                        the activities of the people’s authorities. The blend of the
+                                        internal restrictions of the »brotherhood« policy and its
+                                        demise made the Italian population feel afraid for its
+                                        survival, therefore the right to choose was in fact an
+                                        option to move to safety. This option was also chosen by a
+                                        significant percentage of the non-Italian population, which
+                                        confirms the severity of the conditions of the material as
+                                        well as political life in Istria at the time. Zone B of the
+                                        Free Territory of Trieste was subject to similar conditions,
+                                        but there the situation was additionally complicated by the
+                                        uncertainty with regard to which state the Zone would
+                                        subsequently be annexed to, lasting until as late as October
+                                        1954. This, to a certain extent, prevented mass emigration,
+                                        which, however, did take place in the areas of Istria which
+                                        had already been annexed to Yugoslavia with the Peace Treaty
+                                        of 1947. Here we should also take into account some of the
+                                        key moments in the relations between the Italian population
+                                        and the new authorities in Zone B of the Free Territory of
+                                        Trieste: the purge, the strike in Koper (Capodistria) in the
+                                        autumn of 1945, the arrival of the international demarcation
+                                        commission in the spring of 1946, the increasingly severe
+                                        persecution of the Church, the Cominform Resolution of 1948,
+                                        and the 1950 elections. The author then points out certain
+                                        issues which still need to be researched, like the
+                                        relationship between the military administration and the
+                                        people’s authorities, the internal structure of the people’s
+                                        authorities themselves, and the development of the new
+                                        ruling class which took over the power in 1945. He also
+                                        submits the first findings of a research from another angle,
+                                        which has been subject to lengthy discussions: the actions
+                                        of the pro-Italian forces in this territory, which were
+                                        connected to the organisations in Zone A as well as to the
+                                        Italian government. These forces include the Istrian
+                                        National Liberation Committee(Comitato di liberazione
+                                        nazionale dell’Istria) registered in Trieste, and Radio
+                                        Venezia Giulia, managed directly by the Italian government.
+                                        In both cases the research was possible thanks to important
+                                        new archive materials. Towards the end the author looks at
+                                        the final stage of the Trieste question,taking place in 1953
+                                        and 1954 and concluding with the signature of the London
+                                        Memorandum of October 1954, followed by the emigration of
+                                        almost all ofthe Italian population from Zone B of the Free
+                                        Territory of Trieste. Finally the author explains the
+                                        presence of exiles (the so-called ezuli) in the everyday
+                                        lifein Trieste.</p>
+               </entity:description>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="video1" USE="EXTERNAL">
+            <METS:FLocat USE="YOUTUBE"
+                         LOCTYPE="URL"
+                         xlink:href="http://www.youtube.com/embed/owoP56JwK8A"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/14256"/>
+         <METS:div TYPE="entity" DMDID="dc.14270" ADMID="premis.14270 entity.14270">
+            <METS:fptr FILEID="video1"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/26739"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2014-04-14T17:10:50"
+                 LASTMODDATE="2017-02-15T11:48:00"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.26739" GROUPID="26739">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="slv">Prva svetovna vojna v zgodovini 20. stoletja</dcterms:title>
+            <dcterms:creator>Vodopivec, Peter</dcterms:creator>
+            <dcterms:description xml:lang="slv">Ko so se v Čarobni gori Thomasa Manna udeleženci znamenitega disputa med leporečnim liberalcem Lodovicom Settembrinijem in totalitarizme 20. stoletja napovedujočim »malim jezuitom« Leom Nafto kratko dotaknili bližajoče se vojne nevarnosti, je glavni junak romana Hans Kastorp izjavil, da politike ne razume in ga ne zanima. Toda ob »velikem tresku«, kot to imenuje Mann, je Kastorp »svojo malo usodo« brez obotavljanja povezal z nemško in obče evropsko, saj je skupaj z milijoni mladih ljudi brez pomislekov odšel na bojišče in izginil v vojnem požaru. V Kastorpu naj bi bilo precej Mannovega, avtobiografskega. Kot je znano, je rastoči vojni vihar sprva tudi Thomas Mann razglašal za »čiščenje, osvobajanje in veličastno upanje«, nato pa je v letih množičnega ubijanja spremenil stališče in ugotovil, da sta »velika vojna« obrat in meja, ki sta globoko »razklala življenje in zavest«.</dcterms:description>
+            <dcterms:subject xml:lang="slv">Slovenci</dcterms:subject>
+            <dcterms:subject xml:lang="slv">1914-1918</dcterms:subject>
+            <dcterms:subject xml:lang="slv">prva svetovna vojna</dcterms:subject>
+            <dcterms:subject xml:lang="slv">kulturna zgodovina</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Slovenes</dcterms:subject>
+            <dcterms:subject xml:lang="eng">1914-1918</dcterms:subject>
+            <dcterms:subject xml:lang="eng">World War I</dcterms:subject>
+            <dcterms:subject xml:lang="eng">cultural history</dcterms:subject>
+            <dcterms:publisher>Slovenska matica, Ljubljana</dcterms:publisher>
+            <dcterms:contributor>Peter Vodopivec (ur.)</dcterms:contributor>
+            <dcterms:contributor>Katja Kleindienst (ur.)</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2005</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">Text</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">slv</dcterms:language>
+            <dcterms:license xsi:type="dcterms:URI">http://creativecommons.org/licenses/by-nc-nd/2.5/si/</dcterms:license>
+            <dcterms:license xml:lang="slv">Priznanje avtorstva-Nekomercialo-Brez predelav 2.5 Slovenija (CC BY-NC-ND 2.5 SI)</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.26739">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>26739</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/26739#page=8</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.26739">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Ko so se v Čarobni gori
+                                    Thomasa Manna udeleženci znamenitega disputa med leporečnim
+                                    liberalcem Lodovicom Settembrinijem in totalitarizme 20.
+                                    stoletja napovedujočim »malim jezuitom« Leom Nafto kratko
+                                    dotaknili bližajoče se vojne nevarnosti, je glavni junak romana
+                                    Hans Kastorp izjavil, da politike ne razume in ga ne zanima.
+                                    Toda ob »velikem tresku«, kot to imenuje Mann, je Kastorp »svojo
+                                    malo usodo« brez obotavljanja povezal z nemško in obče evropsko,
+                                    saj je skupaj z milijoni mladih ljudi brez pomislekov odšel na
+                                    bojišče in izginil v vojnem požaru. V Kastorpu naj bi bilo
+                                    precej Mannovega, avtobiografskega. Kot je znano, je rastoči
+                                    vojni vihar sprva tudi Thomas Mann razglašal za »čiščenje,
+                                    osvobajanje in veličastno upanje«, nato pa je v letih množičnega
+                                    ubijanja spremenil stališče in ugotovil, da sta »velika vojna«
+                                    obrat in meja, ki sta globoko »razklala življenje in zavest«.
+                                </entity:description>
+               <entity:page>8</entity:page>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/26732"/>
+         <METS:div TYPE="entity" DMDID="dc.26739" ADMID="premis.26739 entity.26739"/>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

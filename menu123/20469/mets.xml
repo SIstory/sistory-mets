@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/20469"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2014-01-08T15:21:21"
+                 LASTMODDATE="2017-02-07T11:54:57"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.20469" GROUPID="20469">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="eng">Some Characteristics of the Perception of Yugoslav Partisan Movement in Contemporary Croatia</dcterms:title>
+            <dcterms:title xml:lang="hrv">Neke glavne značajke javne percepcije jugoslavenskog pokreta u suvremenoj Hrvatskoj</dcterms:title>
+            <dcterms:alternative xml:lang="slv">Nekatere značilnosti zaznavanja jugoslovanskega partizanskega gibanja v sodobni Hrvaški</dcterms:alternative>
+            <dcterms:creator>Barić, Nikica</dcterms:creator>
+            <dcterms:abstract xml:lang="hrv">Hrvatska je ostvarila svoju nezavisnost tijekom nasilnog raspada socijalističkeJugoslavije. Osamostaljenje je predstavljalo raskid s prethodnom državomi njezinim sistemom, pa je došlo i do reinterpretacije suvremene hrvatskepovijesti, kao i hrvatske povijesti tijekom Drugoga svjetskoga rata. VladajućaHrvatska demokratska zajednica (HDZ) na čelu s Franjo Tuđmanom bila jenacionalistički pokret, a također i protujugoslavenski i protukomunistički. Istovremenosu mnogi važni članovi HDZ-a, uključujući Tuđmana osobno, zapravobili veterani partizanskog pokreta, a nakon 1945. sudjelovali su u novimkomunističkim vlastima. Može se reći da je za vrijeme Tuđmanove vladavinedošlo do svojevrsne rehabilitacije ustaške Nezavisne Države Hrvatske (NDH),na koju se gledalo kao na »povijesnu težnju hrvatskog naroda« da ima svoju samostalnudržavu, dok se zanemarivala povezanost NDH s Njemačkim Reichomi Kraljevinom Italijom, kao i zločini za koje su bile odgovorne vlasti NDH. No,istovremeno s ovim Tuđman je insistirao i na važnosti novostvorenog »hrvatskogantifašizma«. Taj novi »hrvatski antifašizam« bio je povijesno utemeljenu činjenici da je na područjima koja su danas u sastavu Republike Hrvatske tijekomvećeg dijela Drugoga svjetskoga rata postojao snažan partizanski pokret.No, kada se 1990-ih govorilo o »hrvatskom antifašizmu« nerijetko se zanemarivaloda je o bio sastavni dio šireg jugoslavenskog partizanskog pokreta. Takođerse zanemarivalo da je partizanski pokret u hrvatskim krajevima, kao i na cijelomjugoslavenskom području bio pod vodstvom Komunističke partije Jugoslavije.Umjesto komunističke ideologije, u »hrvatskom antifašizmu« istican je antifašizamkao takav, odnosno kao načelno i međunarodno priznata pozitivna vrijednosti,iako točan sadržaj tog pojma nije jasno defi niran. Za Tuđmana je takođerbila vrlo važna ideja »nacionalno pomirenja«. Prema toj ideji i Hrvati koji su setijekom Drugoga svjetskoga rata borili na strani NDH, kao i oni koji su se boriliu partizanima, počinili su pogreške i zločine i imali su zablude. Osim toga onisu se nerijetko borili u bratoubilačkom sukobu. No, na temelju »nacionalnog pomirenja« sve te prethodno povijesne žrtve, stradanja i pogreške su konačno prevladanii stvorena je samostalna Republika Hrvatska. Nakon Tuđmanove smrtinjegova vladavina je u Hrvatskoj nerijetko bila kritizirana kao nedemokratska inacionalistička, i kao razdoblje kada je NDH bila nekritički i revizionistički rehabilitirana.Istovremeno je »hrvatski antifašizam« ostao službeni i sastavni diosuvremene Republike Hrvatske. U ovom prilogu dat će se samo neki podatci onavedenoj temi i pokazati nepodudarnosti između povijesnih činjenica i historiografskihinterpretacija s jedne strane, i politički i ideološki motiviranih tvrdnjis druge strane, a u vezi s »hrvatskim antifašizmom«.</dcterms:abstract>
+            <dcterms:abstract xml:lang="slv">Hrvaška je svojo neodvisnost uresničila med nasilnim razpadom socialističneJugoslavije. Osamosvojitev je pomenila prelom s prejšnjo državo in njenimsistemom, zato je prišlo tudi do reinterpretacije sodobne hrvaške zgodovine inz njo tudi hrvaške zgodovine druge svetovne vojne. Vladajoča Hrvaška demokratskaskupnost (Hrvatska demokratska zajednica -HDZ) na čelu s FranjemTuđmanom je bila nacionalistično gibanje z protijugoslovanskim in protikomunističnimznačajem. Hkrati so mnogi pomembni člani HDZ, tudi Tuđman,pravzaprav bili veterani partizanskega gibanja, po letu 1945 pa so sodelovaliz novimi komunističnimi oblastmi. Mogoče je reči, da je v času Tuđmanoveoblasti prišlo do svojevrstne rehabilitacije ustaške Neodvisne države Hrvaške(Nezavisne Države Hrvatske - NDH). Na NDH se je gledalo kot na »zgodovinskotežnjo hrvaškega naroda« po lastni samostojni državi, vendar se je ob temzanemarjalo njeno povezavo z nemškim Rajhom in Kraljevino Italijo, kot tudizločine, za katere so bile odgovorne njene oblasti. Hkrati s tem pa je Tuđmanvztrajal tudi na pomembnosti novonastalega »hrvaškega antifašizma«. Ta novi»hrvaški antifašizem« je temeljil na zgodovinskem dejstvu, da je bilo na območjihv okviru današnje Republike Hrvaške v določenih obdobjih druge svetovnevojne prisotno močno partizansko gibanje. Ko se je v devetdesetih letih 20. stoletjagovorilo o »hrvaškem antifašizmu« se je pogosto zanemarilo, da je predstavljalsestavni del širšega jugoslovanskega partizanskega gibanja. Pozabljalo seje tudi, da je bilo partizansko gibanje tako hrvaških krajih kot tudi na vsem jugoslovanskemobmočju pod vodstvom Komunistične partije Jugoslavije. Namestokomunistične ideologije je v »hrvaškem antifašizmu« poudarjan antifašizem kottak oziroma kot načelno in mednarodno priznana pozitivna vrednota, čeprav natančenpomen tega pojma ni točno defi niran. Za Tuđmana je bila zelo pomembnatudi ideja »narodne sprave«. Po tej zamisli so tako Hrvati, ki so se med drugosvetovno vojno borili na strani NDH, kot tudi tisti na partizanski strani, delalinapake in storili zločine ter bili zavedeni. Poleg tega so se pogosto znašli tudiv bratomornem spopadu. Na osnovi »narodne sprave« naj bi bile zgodovinskežrtve, trpljenje in napake končno presežene in ustvarjena samostojna RepublikaHrvaška. Po Tuđmanovi smrti je bil njegov režim na Hrvaškem pogosto kritiziran kot nedemokratičen in nacionalističen. Obveljal je za obdobje, v kateremje bila NDH nekritično in revizionistično rehabilitirana. Ob tem je »hrvaški antifašizem« ostal uradni in sestavni del sodobne Republike Hrvaške. V tem prispevkubodo podani le nekateri podatki o »hrvaškem antifašizmu« in prikazaneneskladnosti med zgodovinskimi dejstvi in zgodovinopisnimi interpretacijamina eni ter politično in ideološko motiviranimi trditvami na drugi strani.</dcterms:abstract>
+            <dcterms:abstract xml:lang="eng">Croatia gained independence during the violent break up of socialist Yugoslavia.Croatian independence was a split with former state and its systemand it brought a reinterpretation of contemporary Croatian history and also ofCroatian history during World War II. The ruling Croatian Democratic Unionled by Franjo Tuđman was nationalistic, anti-Yugoslav and anticommunist, butat the same time many of its important members, including Tuđman himself,fought as Partisans during World War II and were former Communists. It can besaid that during Tuđman’s rule Ustasha Independent State of Croatia (NezavisnaDržava Hrvatska, NDH) was partially rehabilitated as a result of »historicaldesire of Croatian people to have its own independent state«, while NDH’s alliancewith German Reich and Kingdom of Italy as well as crimes committed byNDH were often omitted from public memory. At the same time Tuđman alsoinsisted on the importance and value of the newly defined »Croatian antifascism«. The new »Croatian antifascism« was historically based on the existenceof a strong Partisan movement within the present day Croatian borders. Butthe fact that the Croatian partisan movement was integral part of the Yugoslavpartisan movement was often ignored. The fact that the Partisan movement inCroatia, as well as in Yugoslavia, was led by Communist party of Yugoslaviawas also ignored. Instead of Communist ideology, the new »Croatian antifascism« nurtured »antifascism« itself as a generally and internationally acceptedpositive value although its content was not clearly defined. For Tuđman theidea of »national reconciliation« was also of great importance. According to thisidea, both Croats who fought for NDH and in the Partisan movement committedmistakes and blunders and committed crime and also fought each other infratricide war, but all these internal Croatian conflicts have finally been resolvedby creation of the independent Republic of Croatia. After Tuđman’s death hisrule was often criticized as undemocratic and nationalistic, and as a period whenNDH received uncritical and revisionist rehabilitation. At the same time »CroatianAntifascism« remains the official element of the contemporary Croatia.This article gives some information about this topic and shows the discrepanciesbetween the historical facts and historiographical interpretations and politicallyand ideologically based assertions dealing with the »Croatian antifascism«.</dcterms:abstract>
+            <dcterms:subject xml:lang="slv">Slovenija</dcterms:subject>
+            <dcterms:subject xml:lang="slv">zgodovina</dcterms:subject>
+            <dcterms:subject xml:lang="slv">Jugoslavija</dcterms:subject>
+            <dcterms:subject xml:lang="slv">posvetovanja</dcterms:subject>
+            <dcterms:subject xml:lang="slv">1941-1991</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Slovenia</dcterms:subject>
+            <dcterms:subject xml:lang="eng">history</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Yugoslavia</dcterms:subject>
+            <dcterms:subject xml:lang="eng">symposium</dcterms:subject>
+            <dcterms:subject xml:lang="eng">1941-1991</dcterms:subject>
+            <dcterms:publisher>Inštitut za novejšo zgodovino, Ljubljana</dcterms:publisher>
+            <dcterms:publisher>Muzej novejše zgodovine Slovenije, Ljubljana</dcterms:publisher>
+            <dcterms:contributor>Marko Zajc (moderator)</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2013-11-29</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">MovingImage</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">hrv</dcterms:language>
+            <dcterms:license xsi:type="dcterms:URI">http://creativecommons.org/licenses/by-nc-nd/2.5/si/</dcterms:license>
+            <dcterms:license xml:lang="slv">Priznanje avtorstva-Nekomercialo-Brez predelav 2.5 Slovenija (CC BY-NC-ND 2.5 SI)</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.20469">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>20469</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/20469</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.20469">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="slv">
+                  <p xmlns="http://sistory.si/schema/sistory/v3/entity">Hrvaška je svojo neodvisnost uresničila med nasilnim razpadom
+                                        socialističneJugoslavije. Osamosvojitev je pomenila prelom s
+                                        prejšnjo državo in njenimsistemom, zato je prišlo tudi do
+                                        reinterpretacije sodobne hrvaške zgodovine inz njo tudi
+                                        hrvaške zgodovine druge svetovne vojne. Vladajoča Hrvaška
+                                        demokratskaskupnost (Hrvatska demokratska zajednica -HDZ) na
+                                        čelu s FranjemTuđmanom je bila nacionalistično gibanje z
+                                        protijugoslovanskim in protikomunističnimznačajem. Hkrati so
+                                        mnogi pomembni člani HDZ, tudi Tuđman,pravzaprav bili
+                                        veterani partizanskega gibanja, po letu 1945 pa so
+                                        sodelovaliz novimi komunističnimi oblastmi. Mogoče je reči,
+                                        da je v času Tuđmanoveoblasti prišlo do svojevrstne
+                                        rehabilitacije ustaške Neodvisne države Hrvaške(Nezavisne
+                                        Države Hrvatske - NDH). Na NDH se je gledalo kot na
+                                        »zgodovinskotežnjo hrvaškega naroda« po lastni samostojni
+                                        državi, vendar se je ob temzanemarjalo njeno povezavo z
+                                        nemškim Rajhom in Kraljevino Italijo, kot tudizločine, za
+                                        katere so bile odgovorne njene oblasti. Hkrati s tem pa je
+                                        Tuđmanvztrajal tudi na pomembnosti novonastalega »hrvaškega
+                                        antifašizma«. Ta novi»hrvaški antifašizem« je temeljil na
+                                        zgodovinskem dejstvu, da je bilo na območjihv okviru
+                                        današnje Republike Hrvaške v določenih obdobjih druge
+                                        svetovnevojne prisotno močno partizansko gibanje. Ko se je v
+                                        devetdesetih letih 20. stoletjagovorilo o »hrvaškem
+                                        antifašizmu« se je pogosto zanemarilo, da je
+                                        predstavljalsestavni del širšega jugoslovanskega
+                                        partizanskega gibanja. Pozabljalo seje tudi, da je bilo
+                                        partizansko gibanje tako hrvaških krajih kot tudi na vsem
+                                        jugoslovanskemobmočju pod vodstvom Komunistične partije
+                                        Jugoslavije. Namestokomunistične ideologije je v »hrvaškem
+                                        antifašizmu« poudarjan antifašizem kottak oziroma kot
+                                        načelno in mednarodno priznana pozitivna vrednota, čeprav
+                                        natančenpomen tega pojma ni točno defi niran. Za Tuđmana je
+                                        bila zelo pomembnatudi ideja »narodne sprave«. Po tej
+                                        zamisli so tako Hrvati, ki so se med drugosvetovno vojno
+                                        borili na strani NDH, kot tudi tisti na partizanski strani,
+                                        delalinapake in storili zločine ter bili zavedeni. Poleg
+                                        tega so se pogosto znašli tudiv bratomornem spopadu. Na
+                                        osnovi »narodne sprave« naj bi bile zgodovinskežrtve,
+                                        trpljenje in napake končno presežene in ustvarjena
+                                        samostojna RepublikaHrvaška. Po Tuđmanovi smrti je bil
+                                        njegov režim na Hrvaškem pogosto kritiziran kot
+                                        nedemokratičen in nacionalističen. Obveljal je za obdobje, v
+                                        kateremje bila NDH nekritično in revizionistično
+                                        rehabilitirana. Ob tem je »hrvaški antifašizem« ostal uradni
+                                        in sestavni del sodobne Republike Hrvaške. V tem
+                                        prispevkubodo podani le nekateri podatki o »hrvaškem
+                                        antifašizmu« in prikazaneneskladnosti med zgodovinskimi
+                                        dejstvi in zgodovinopisnimi interpretacijamina eni ter
+                                        politično in ideološko motiviranimi trditvami na drugi
+                                        strani.</p>
+               </entity:description>
+               <entity:description xml:lang="eng">
+                  <p xmlns="http://sistory.si/schema/sistory/v3/entity">Croatia gained independence during the violent break up of
+                                        socialist Yugoslavia.Croatian independence was a split with
+                                        former state and its systemand it brought a reinterpretation
+                                        of contemporary Croatian history and also ofCroatian history
+                                        during World War II. The ruling Croatian Democratic Unionled
+                                        by Franjo Tuđman was nationalistic, anti-Yugoslav and
+                                        anticommunist, butat the same time many of its important
+                                        members, including Tuđman himself,fought as Partisans during
+                                        World War II and were former Communists. It can besaid that
+                                        during Tuđman’s rule Ustasha Independent State of Croatia
+                                        (NezavisnaDržava Hrvatska, NDH) was partially rehabilitated
+                                        as a result of »historicaldesire of Croatian people to have
+                                        its own independent state«, while NDH’s alliancewith German
+                                        Reich and Kingdom of Italy as well as crimes committed byNDH
+                                        were often omitted from public memory. At the same time
+                                        Tuđman alsoinsisted on the importance and value of the newly
+                                        defined »Croatian antifascism«. The new »Croatian
+                                        antifascism« was historically based on the existenceof a
+                                        strong Partisan movement within the present day Croatian
+                                        borders. Butthe fact that the Croatian partisan movement was
+                                        integral part of the Yugoslavpartisan movement was often
+                                        ignored. The fact that the Partisan movement inCroatia, as
+                                        well as in Yugoslavia, was led by Communist party of
+                                        Yugoslaviawas also ignored. Instead of Communist ideology,
+                                        the new »Croatian antifascism« nurtured »antifascism« itself
+                                        as a generally and internationally acceptedpositive value
+                                        although its content was not clearly defined. For Tuđman
+                                        theidea of »national reconciliation« was also of great
+                                        importance. According to thisidea, both Croats who fought
+                                        for NDH and in the Partisan movement committedmistakes and
+                                        blunders and committed crime and also fought each other
+                                        infratricide war, but all these internal Croatian conflicts
+                                        have finally been resolvedby creation of the independent
+                                        Republic of Croatia. After Tuđman’s death hisrule was often
+                                        criticized as undemocratic and nationalistic, and as a
+                                        period whenNDH received uncritical and revisionist
+                                        rehabilitation. At the same time »CroatianAntifascism«
+                                        remains the official element of the contemporary
+                                        Croatia.This article gives some information about this topic
+                                        and shows the discrepanciesbetween the historical facts and
+                                        historiographical interpretations and politicallyand
+                                        ideologically based assertions dealing with the »Croatian
+                                        antifascism«.</p>
+               </entity:description>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="video1" USE="EXTERNAL">
+            <METS:FLocat USE="YOUTUBE"
+                         LOCTYPE="URL"
+                         xlink:href="//www.youtube.com/embed/fl4vGn4j5Yg"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/20426"/>
+         <METS:div TYPE="entity" DMDID="dc.20469" ADMID="premis.20469 entity.20469">
+            <METS:fptr FILEID="video1"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

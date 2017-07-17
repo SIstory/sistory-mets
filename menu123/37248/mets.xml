@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/37248"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2017-03-13T09:09:13"
+                 LASTMODDATE="2017-03-14T13:38:52"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.81" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.37248" GROUPID="37248">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="eng">Mapping the ‘Phantom Borders’ of the Northern Polish-Lithuanian Commonwealth, 1914-1920</dcterms:title>
+            <dcterms:alternative xml:lang="slv">Zarisovanje “fantomskih mej” severne Poljsko-Litovske zveze, 1914–1920</dcterms:alternative>
+            <dcterms:creator>Gibson, Catherine</dcterms:creator>
+            <dcterms:subject xml:lang="slv">fantomske meje</dcterms:subject>
+            <dcterms:subject xml:lang="slv">severna Poljsko-Litovska zveza</dcterms:subject>
+            <dcterms:subject xml:lang="slv">1914–1920</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Phantom Borders</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Northern Polish-Lithuanian Commonwealth</dcterms:subject>
+            <dcterms:subject xml:lang="eng">1914–1920</dcterms:subject>
+            <dcterms:publisher>Inštitut za novejšo zgodovino, Ljubljana</dcterms:publisher>
+            <dcterms:publisher>Oddelek za zgodovino Filozofske fakultete Univerze v Ljubljani, Ljubljana</dcterms:publisher>
+            <dcterms:contributor>Marko Zajc</dcterms:contributor>
+            <dcterms:contributor>Jernej Kosi</dcterms:contributor>
+            <dcterms:contributor>Zdenko Čepič</dcterms:contributor>
+            <dcterms:contributor>Neja Blaj Hribar</dcterms:contributor>
+            <dcterms:contributor>Irina Marin</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:Period">start=24.11.2016; end=26.11.2016; name=; scheme=; </dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">MovingImage</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">eng</dcterms:language>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.37248">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>37248</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/37248</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.37248">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Na začetku dvajsetega
+                                    stoletja sta bili dve pokrajini Ruskega imperija, Kurlandija in
+                                    zahodni del Vitebska, pomemben del razprav o vprašanju, kje naj
+                                    bi potekale meje prihodnje neodvisne poljske države. Ti ozemlji
+                                    sta bili pod vazalno upravo Poljsko-Litovske zveze (vojvodstvo
+                                    Kurlandija in Semgalija ter Livonija), dokler nista na koncu
+                                    osemnajstega stoletja pripadli Ruskemu imperiju v nizu delitev,
+                                    ki so pripeljale do izbrisa Poljsko-Litovske zveze z
+                                    zemljevidov. V zgodnjem dvajsetem stoletju – med viharji prve
+                                    svetovne vojne, poljsko-sovjetske vojne ter vojn za latvijsko in
+                                    litovsko neodvisnost – so si številni poljski politiki,
+                                    geografi, zgodovinarji in etnografi skupaj prizadevali za
+                                    ponovno vključitev teh domnevno "izgubljenih" pokrajin v vizijo
+                                    bodoče poljske države. Prispevek preučuje vprašanje, kako je
+                                    kartografija v tem obdobju postala pomembno vizualno orodje za
+                                    sporočanje različnih predstav in opredelitev bodoče poljske
+                                    države – od zamisli o manjši etnolingvistično opredeljeni
+                                    Poljski do maksimalističnih federalističnih predstav, ki so
+                                    temeljile na mejah nekdanje Zveze. Prispevek podrobno obravnava
+                                    argumente, ki so jih podali posamezni izdelovalci zemljevidov v
+                                    zvezi s potekom poljskih meja v času pariške mirovne konference
+                                    in zloglasno dvoumnega pojma samoopredelitve narodov Woodrowa
+                                    Wilsona. Ti kartografi so se različno intenzivno in na različne
+                                    načine ukvarjali z vprašanji upravne dediščine in
+                                    socialno-ekonomskih povezav med nekdanjimi ozemlji Zveze,
+                                    zahtevami na podlagi geografskega determinizma v zvezi z
+                                    "naravnimi" mejami poljske države kot osi med Baltikom in Črnim
+                                    morjem ter etnografskimi, jezikoslovnimi in verskimi argumenti
+                                    glede ozemeljskega širjenja "poljstva" (poljskega jezika,
+                                    katoliške vere itd.) ali "potencialnega poljstva" (v primeru
+                                    Belorusov). </entity:description>
+               <entity:description xml:lang="eng"> In the early twentieth
+                                    century, two provinces of the Russian Empire, Kurliand and the
+                                    western part of Vitebsk, formed an important part in debates
+                                    about where the borders of a future independent Polish state
+                                    should lie. These territories had been administered as vassals
+                                    (the Duchy of Courland and Semigallia, and Polish Inflanty) of
+                                    the Polish-Lithuanian Commonwealth until they were apportioned
+                                    to the Russian Empire at the end of the eighteenth century in
+                                    the series of partitions which led to the disappearance of the
+                                    Commonwealth from the map. During the early twentieth century,
+                                    amidst the turmoil of World War I, the Polish-Soviet War, and
+                                    the Latvian and Lithuanian Independence Wars, concerted efforts
+                                    were made by various Polish politicians, geographers,
+                                    historians, and ethnographers to re-appropriate these allegedly
+                                    ‘lost’ regions into their visions of the future shape of a
+                                    Polish state. This paper examines how cartography emerged during
+                                    this period as an important visual tool through which different
+                                    visions and definitions of a future Polish state were
+                                    communicated, from ideas about a smaller
+                                    ethnolinguistically-defined Poland to maximalist federalist
+                                    conceptions based on the borders of the former Commonwealth. Set
+                                    against the backdrop of Paris Peace Conference and Woodrow
+                                    Wilson’s notoriously ambiguous concept of ‘national
+                                    self-determination’, this paper takes a closer look at the
+                                    arguments put forward by several individual map-makers about the
+                                    shape of Poland’s borders. To varying degrees and in different
+                                    ways, these cartographers engaged with questions of
+                                    administrative legacies and socio-economic links between the
+                                    former territories of the Commonwealth, geographically
+                                    deterministic claims about the ‘natural’ borders of the Polish
+                                    state as an axis between the Baltic and Black Sea, and
+                                    ethnographic, linguistic and religious arguments about
+                                    territorial spread of ‘Polishness’ (Polish language, Catholic
+                                    faith etc.) or ‘potential Polishness’ (in the case of
+                                    Belarusians).c </entity:description>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="video1" USE="EXTERNAL">
+            <METS:FLocat USE="YOUTUBE"
+                         LOCTYPE="URL"
+                         xlink:href="https://www.youtube.com/embed/Zed8aPBIZbo"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37178"/>
+         <METS:div TYPE="entity" DMDID="dc.37248" ADMID="premis.37248 entity.37248">
+            <METS:fptr FILEID="video1"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

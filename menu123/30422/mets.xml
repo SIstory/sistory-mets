@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/30422"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2015-02-06T09:14:21"
+                 LASTMODDATE="2017-05-16T12:27:06"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.30422" GROUPID="30422">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="slv">Simpozij Ženske v gospodarstvu</dcterms:title>
+            <dcterms:title xml:lang="slv">Ljubljana, 19. januar 2014</dcterms:title>
+            <dcterms:alternative xml:lang="eng">Symposium Women and the Economy</dcterms:alternative>
+            <dcterms:subject xml:lang="slv">konferenca</dcterms:subject>
+            <dcterms:subject xml:lang="slv">ekonomska zgodovina</dcterms:subject>
+            <dcterms:subject xml:lang="slv">študije spola</dcterms:subject>
+            <dcterms:subject xml:lang="slv">antropologija</dcterms:subject>
+            <dcterms:subject xml:lang="eng">conference</dcterms:subject>
+            <dcterms:subject xml:lang="eng">economic history</dcterms:subject>
+            <dcterms:subject xml:lang="eng">gender studies</dcterms:subject>
+            <dcterms:subject xml:lang="eng">anthropology</dcterms:subject>
+            <dcterms:publisher>Inštitut za novejšo zgodovino, Ljubljana</dcterms:publisher>
+            <dcterms:publisher>Univerza v Novi Gorici, Nova Gorica</dcterms:publisher>
+            <dcterms:contributor>Žarko Lazarević</dcterms:contributor>
+            <dcterms:contributor>Nina Vodopivec</dcterms:contributor>
+            <dcterms:contributor>Mojca Šorn</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2015-01-19</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">InteractiveResource</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">slv</dcterms:language>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.30422">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>30422</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/30422</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink">
+      <METS:fileGrp USE="THUMB">
+         <METS:file ID="thumbnail">
+            <METS:FLocat LOCTYPE="URL"
+                         xlink:href="http://www.sistory.si/cdn/publikacije/30001-31000/30422/vin.jpg"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="primary">
+      <METS:div TYPE="collection">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/menu123"/>
+         <METS:div TYPE="entity" DMDID="dc.30422" ADMID="premis.30422">
+            <METS:fptr FILEID="thumbnail"/>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/30436"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/30438"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/30441"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/30442"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/30444"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/30445"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/30446"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/30447"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/30448"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/30449"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/30450"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/30451"/>
+            </METS:div>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

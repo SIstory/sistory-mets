@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/37711"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2017-05-31T12:08:10"
+                 LASTMODDATE="2017-06-16T10:59:57"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.37711" GROUPID="37711">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="eng">"Museum of School and Popular Education" of the University of Molise, Italy</dcterms:title>
+            <dcterms:alternative xml:lang="ita">Il “Museo della scuola e dell’educazione popolare” dell’Università degli Studi del Molise, Italia</dcterms:alternative>
+            <dcterms:creator>Andreassi, Rossella</dcterms:creator>
+            <dcterms:description xml:lang="eng">The most recent historiographical reflection at European level on education has mostly emphasized the analysis on the material culture of it; at the same time, though, a most significant debate was emerging on the role of Museums of Education and their function for the preservation and valorization of the heritage related to the story of school and education. This is the framework of our presentation, which intends to illustrate the activities that the Museum of School and Popular Education (“Museo della scuola e dell’istruzione popolare”) of the University of Molise (Italy) is currently carrying out in this respect. The paper will analyze the Museum structure, its scientific and didactic objectives, the issues linked to the museographic transposition of this particular cultural patrimony. Moving from the relationship between memory and school historical heritage, the presentation will focus on a particular initiative promoted by the Museum of School, that is the exhibition where 150 years of history of Italian schools have been retraced. With the aid of video clips and images will also be presented teaching/learning experiences with families and school groups carried out at the Museum, and related upcoming projects will be illustrated.</dcterms:description>
+            <dcterms:description xml:lang="ita">La più recente riflessione storiografica europea sull’educazione ha dato un rilievo maggiore alle analisi sulla cultura materiale della scuola mentre, parallelamente, è avanzato un dibattito più significativo sul ruolo e la funzione dei musei dell’educazione per la conservazione e valorizzazione del patrimonio storico scolastico ed educativo. In questo contesto si colloca la relazione che si intende presentare e che ha l’obiettivo di illustrare il ruolo svolto dal “Museo della scuola e dell’istruzione popolare” dell’Università degli Studi del Molise-Italia. Il paper prenderà in esame la struttura museale realizzata, gli obiettivi scientifici e didattici, le problematiche museologiche e museografiche sollevate dalla conservazione e valorizzazione del patrimonio storico scolastico ed educativo. Nel quadro del rapporto tra memoria e patrimonio storico scolastico, la relazione si soffermerà ad analizzare una iniziativa particolare promossa dal Museo della scuola, la mostra documentaria attraverso la quale sono ripercorsi i centocinquant’anni di storia delle istituzioni scolastiche italiane. Attraverso filmati e immagini saranno presentate anche esperienze di didattica museale con gruppi familiari e scuole, realizzate presso la struttura museale e futuri progetti in via di realizzazione.</dcterms:description>
+            <dcterms:subject xml:lang="slv">zgodovina</dcterms:subject>
+            <dcterms:subject xml:lang="slv">šolstvo</dcterms:subject>
+            <dcterms:subject xml:lang="slv">muzej</dcterms:subject>
+            <dcterms:subject xml:lang="eng">history</dcterms:subject>
+            <dcterms:subject xml:lang="eng">school system</dcterms:subject>
+            <dcterms:subject xml:lang="eng">museum</dcterms:subject>
+            <dcterms:publisher>Slovenski šolski muzej, Ljubljana</dcterms:publisher>
+            <dcterms:publisher>Zveza zgodovinskih društev Slovenije, Ljubljana</dcterms:publisher>
+            <dcterms:publisher>ICOM Slovenija, Celje</dcterms:publisher>
+            <dcterms:publisher>Inštitut za novejšo zgodovino, Ljubljana</dcterms:publisher>
+            <dcterms:contributor>Ljiljana Stankov (moderator)</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2013-06-28</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">MovingImage</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">eng</dcterms:language>
+            <dcterms:license xsi:type="dcterms:URI">http://creativecommons.org/licenses/by-nc-nd/2.5/si/</dcterms:license>
+            <dcterms:license xml:lang="slv">Priznanje avtorstva-Nekomercialo-Brez predelav 2.5 Slovenija (CC BY-NC-ND 2.5 SI)</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.37711">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>37711</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/37711</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.37711">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="eng">
+                  <p xmlns="http://sistory.si/schema/sistory/v3/entity">The most recent historiographical reflection at European
+                                        level on education has mostly emphasized the analysis on the
+                                        material culture of it; at the same time, though, a most
+                                        significant debate was emerging on the role of Museums of
+                                        Education and their function for the preservation and
+                                        valorization of the heritage related to the story of school
+                                        and education. This is the framework of our presentation,
+                                        which intends to illustrate the activities that the Museum
+                                        of School and Popular Education (“Museo della scuola e
+                                        dell’istruzione popolare”) of the University of Molise
+                                        (Italy) is currently carrying out in this respect. The paper
+                                        will analyze the Museum structure, its scientific and
+                                        didactic objectives, the issues linked to the museographic
+                                        transposition of this particular cultural patrimony. Moving
+                                        from the relationship between memory and school historical
+                                        heritage, the presentation will focus on a particular
+                                        initiative promoted by the Museum of School, that is the
+                                        exhibition where 150 years of history of Italian schools
+                                        have been retraced. With the aid of video clips and images
+                                        will also be presented teaching/learning experiences with
+                                        families and school groups carried out at the Museum, and
+                                        related upcoming projects will be illustrated.</p>
+               </entity:description>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="video1" USE="EXTERNAL">
+            <METS:FLocat USE="YOUTUBE"
+                         LOCTYPE="URL"
+                         xlink:href="//www.youtube.com/embed/uXHyo1IBItc"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37707"/>
+         <METS:div TYPE="entity" DMDID="dc.37711" ADMID="premis.37711 entity.37711">
+            <METS:fptr FILEID="video1"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

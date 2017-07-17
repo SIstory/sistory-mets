@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/20462"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2014-01-08T15:15:55"
+                 LASTMODDATE="2017-02-07T12:20:25"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.20462" GROUPID="20462">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="slv">Iz juga na sever : migracije v kontekstu izgradnje urbanih okolij primeru Nove Gorice</dcterms:title>
+            <dcterms:alternative xml:lang="eng">From South to Nord : Migration in Slovenia in the Context of Construction of Urban Environments: the Case of Nova Gorica</dcterms:alternative>
+            <dcterms:creator>Širok, Kaja</dcterms:creator>
+            <dcterms:abstract xml:lang="slv">Nova Gorica je zrasla po koncu druge svetovne vojne, ko je območje postalomejna regija med Italijo in Jugoslavijo. Svoj edinstveni značaj je pridobilazaradi načina nastanka – zaradi urbanizacijskih strategij, industrijskega razvojater priseljevanja ljudi z vseh strani Jugoslavije. Ker je bilo mesto mlado, soprvi prebivalci oblikovali multikulturno skupnost, v kateri ni bilo tiste napetostimed priseljenci in prvotnimi prebivalci, ki smo je sicer vajeni. A po razglasitvislovenske neodvisnosti leta 1991 so tisti prebivalci Nove Gorice, ki etnično nisobili slovenskega izvora, postali »tujci« v lastnem mestu.Ta pojav v Novi Gorici poraja vprašanja integracije, asimilacije ali etničnegaizločanja, posebno zato, ker so priseljenci izbrali različne načine izražanja svojenarodne identitete. Prispevek kaže, da je ohranjanje identitete potekalo na različnenačine; strategije ohranjanja identitete so bile osnovane na tradicijah, kijih je v določenih primerih bilo potrebno ponovno vzpostaviti, kajti ob prihoduv Slovenijo so bili nekateri priseljenci premladi, da bi sploh opazili spremembev svojem okolju, še posebej zato, ker so se ves čas premikali zgolj znotraj mejaene same države, takratne Jugoslavije.Glavne razloge za priseljevanje v Slovenijo v dobi SFRJ lahko delimo naekonomske, osebne in družinske, politične in »drugo«. Ekonomski priseljenciso tvorili večino; tisti, ki so v Sloveniji videli možnost izboljšave svojega ekonomskegapoložaja ali družbenega položaja svojih družin. Družine, ki so sledileekonomskim priseljencem, tvorijo drugo veliko priseljensko skupino. Osebnirazlogi za priseljevanje so bili mnogoteri, odvisni od vsakega posameznika ternjegovega specifi čnega položaja. Skupina, ki jo lahko kategoriziramo kot »drugo«, je vsebovala državne uradnike (vojska, administracija, carina), ki si nisosami izbirali lokacije priseljevanja – v Slovenijo so bili dodeljeni glede na navodiladržavne administracije. Te premestitve vojaškega osebja na mejna območjaslovenske države v prvem obdobju po drugi svetovni vojni so bile edini resničnovelik priseljenski val v Slovenijo. Nalogo obrambe državne meje so izpolnjevalipredvsem mladi vojaki iz Srbije ter Hrvaške.Priseljevanje v Slovenijo je naraščalo nenehno, a počasi do sedemdesetihlet, ko pa se je zaradi slovenske ekonomske rasti število priseljencev tako rekočpodvojilo. Večina priseljencev je prihajala iz Bosanske Krajine, Bosanske Posavine,vzhodne Srbije ter iz juga Srbije ter drugih območji. Ta migracijski val jenajverjetneje bil večji in širši, kot pričajo uradni dokumenti popisa prebivalstvapred letom 1991, kajti premiki so se dogajali znotraj enovite države in priseljenciniso bili primorani prijaviti svojega prihoda v druge dele države. V vsakemprimeru so procesi priseljevanja korenito spreminjali in oblikovali multikulturnosestavo prebivalstva.Na primeru priseljevanja v Novo Gorico je možen vpogled v kompleksnotematiko migracije v Slovenijo iz drugih jugoslovanskih republik pred 1991ter ustvarjanje urbane identitete pred in po letu 1991. Obenem prikazuje tudirazvoj obmejne regije kot mostu, ki je združeval vzhod in zahod, tihotapstvo inpotrošništvo.</dcterms:abstract>
+            <dcterms:abstract xml:lang="eng">The town of Nova Gorica was built after the Second World War when theregion was divided between Italy and Yugoslavia. The complex historical developmentof Nova Gorica- with its urbanization strategies, industrial developmentand subsequent waves of immigration to from all over Yugoslavia havecreated a peculiar city with a unique identity. Since the city is relatively young,its first inhabitants established a multicultural community which was void of thefrictions that typically occur between locals and newcomers. After Slovenia’sdeclaration of independence in 1991, however, lots of people in the town, aswell as throughout Slovenia, suddenly became »foreigners« because of theirnon-Slovenian ethnic origin.This phenomenon in Nova Gorica prompts questions of integration, assimilationor ethnic exclusion, especially as immigrants choose different ways ofexpressing their national identity. As this presentation is going to demonstratethis was done in different ways. Identity strategies have been based on traditionwhich was in some cases rebuilt, since at their arrival in Slovenia some immigrantswere too young to notice changes in their new environment, especiallywhen they were only moving within the borders of what was then one country,Yugoslavia.The main reasons for emigration to Slovenia can be classified as economic,personal and family matters, political and »other reasons«. Economic migrantsformed the majority of those who emigrants; those who saw the possibility forimprovement of their economic position or their entire family's social status.Families who followed the economic immigrants comprised the second majormigration group. The personal reasons for migration were hugely varied,changing from person to person and depending on their situations. The migrationgroup classified under »other reasons« consisted mainly of state employees(of the national army, administration, and customs). They did not choose theirmigration location since they were sent by decree to various parts of Slovenia bythe state administration. These transfers of the Yugoslavian army to the bordersof the Slovenian state presented in the first period after the Second World Warthe only major migration wave in Slovenia. The mission to safeguard the stateborder was executed by young soldiers, mainly from Serbia and Croatia.Migration to Slovenia was increasing slightly but constantly until the 1970s,but after extensive economic growth in Slovenia in the middle of the 1970s thenumber of immigrants virtually doubled. The majority of immigrants arrivedfrom Bosanska Krajina, Bosanska Posavina, eastern Serbia and communitiesin the south of Serbia. We presume that the picture of migration processes inSlovenia from the other parts of the former federal state is incomplete and inadequate.The migration waves were likely larger and wider than was registeredin censuses before 1991, for the migration process was taking place inside auniform state and immigrants were not required to register their arrival in a newenvironment. In any case, the migration processes significantly changed the nationalcomposition of the population.Presenting the case of the town of Nova Gorica the presentation will showthe complex themes of migration to Slovenia from other Yugoslav countries before1991 and the creation of urban identity before and after 1991. At the sametime it will also explain the development of the border region as a bridge fromEast and West, smuggling and consumption.</dcterms:abstract>
+            <dcterms:subject xml:lang="slv">Slovenija</dcterms:subject>
+            <dcterms:subject xml:lang="slv">zgodovina</dcterms:subject>
+            <dcterms:subject xml:lang="slv">Jugoslavija</dcterms:subject>
+            <dcterms:subject xml:lang="slv">posvetovanja</dcterms:subject>
+            <dcterms:subject xml:lang="slv">1941-1991</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Slovenia</dcterms:subject>
+            <dcterms:subject xml:lang="eng">history</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Yugoslavia</dcterms:subject>
+            <dcterms:subject xml:lang="eng">symposium</dcterms:subject>
+            <dcterms:subject xml:lang="eng">1941-1991</dcterms:subject>
+            <dcterms:publisher>Inštitut za novejšo zgodovino, Ljubljana</dcterms:publisher>
+            <dcterms:publisher>Muzej novejše zgodovine Slovenije, Ljubljana</dcterms:publisher>
+            <dcterms:contributor>Marko Zajc (moderator)</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2013-11-29</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">MovingImage</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">slv</dcterms:language>
+            <dcterms:license xsi:type="dcterms:URI">http://creativecommons.org/licenses/by-nc-nd/2.5/si/</dcterms:license>
+            <dcterms:license xml:lang="slv">Priznanje avtorstva-Nekomercialo-Brez predelav 2.5 Slovenija (CC BY-NC-ND 2.5 SI)</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.20462">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>20462</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/20462</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.20462">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="slv">
+                  <p xmlns="http://sistory.si/schema/sistory/v3/entity">Nova Gorica je zrasla po koncu druge svetovne vojne, ko je
+                                        območje postalomejna regija med Italijo in Jugoslavijo. Svoj
+                                        edinstveni značaj je pridobilazaradi načina nastanka –
+                                        zaradi urbanizacijskih strategij, industrijskega razvojater
+                                        priseljevanja ljudi z vseh strani Jugoslavije. Ker je bilo
+                                        mesto mlado, soprvi prebivalci oblikovali multikulturno
+                                        skupnost, v kateri ni bilo tiste napetostimed priseljenci in
+                                        prvotnimi prebivalci, ki smo je sicer vajeni. A po
+                                        razglasitvislovenske neodvisnosti leta 1991 so tisti
+                                        prebivalci Nove Gorice, ki etnično nisobili slovenskega
+                                        izvora, postali »tujci« v lastnem mestu.Ta pojav v Novi
+                                        Gorici poraja vprašanja integracije, asimilacije ali
+                                        etničnegaizločanja, posebno zato, ker so priseljenci izbrali
+                                        različne načine izražanja svojenarodne identitete. Prispevek
+                                        kaže, da je ohranjanje identitete potekalo na
+                                        različnenačine; strategije ohranjanja identitete so bile
+                                        osnovane na tradicijah, kijih je v določenih primerih bilo
+                                        potrebno ponovno vzpostaviti, kajti ob prihoduv Slovenijo so
+                                        bili nekateri priseljenci premladi, da bi sploh opazili
+                                        spremembev svojem okolju, še posebej zato, ker so se ves čas
+                                        premikali zgolj znotraj mejaene same države, takratne
+                                        Jugoslavije.</p>
+                  <p xmlns="http://sistory.si/schema/sistory/v3/entity">Glavne razloge za priseljevanje v Slovenijo v dobi SFRJ lahko
+                                        delimo naekonomske, osebne in družinske, politične in
+                                        »drugo«. Ekonomski priseljenciso tvorili večino; tisti, ki
+                                        so v Sloveniji videli možnost izboljšave svojega
+                                        ekonomskegapoložaja ali družbenega položaja svojih družin.
+                                        Družine, ki so sledileekonomskim priseljencem, tvorijo drugo
+                                        veliko priseljensko skupino. Osebnirazlogi za priseljevanje
+                                        so bili mnogoteri, odvisni od vsakega posameznika
+                                        ternjegovega specifi čnega položaja. Skupina, ki jo lahko
+                                        kategoriziramo kot »drugo«, je vsebovala državne uradnike
+                                        (vojska, administracija, carina), ki si nisosami izbirali
+                                        lokacije priseljevanja – v Slovenijo so bili dodeljeni glede
+                                        na navodiladržavne administracije. Te premestitve vojaškega
+                                        osebja na mejna območjaslovenske države v prvem obdobju po
+                                        drugi svetovni vojni so bile edini resničnovelik
+                                        priseljenski val v Slovenijo. Nalogo obrambe državne meje so
+                                        izpolnjevalipredvsem mladi vojaki iz Srbije ter
+                                        Hrvaške.Priseljevanje v Slovenijo je naraščalo nenehno, a
+                                        počasi do sedemdesetihlet, ko pa se je zaradi slovenske
+                                        ekonomske rasti število priseljencev tako rekočpodvojilo.
+                                        Večina priseljencev je prihajala iz Bosanske Krajine,
+                                        Bosanske Posavine,vzhodne Srbije ter iz juga Srbije ter
+                                        drugih območji. Ta migracijski val jenajverjetneje bil večji
+                                        in širši, kot pričajo uradni dokumenti popisa
+                                        prebivalstvapred letom 1991, kajti premiki so se dogajali
+                                        znotraj enovite države in priseljenciniso bili primorani
+                                        prijaviti svojega prihoda v druge dele države. V
+                                        vsakemprimeru so procesi priseljevanja korenito spreminjali
+                                        in oblikovali multikulturnosestavo prebivalstva.</p>
+                  <p xmlns="http://sistory.si/schema/sistory/v3/entity">Na primeru priseljevanja v Novo Gorico je možen vpogled v
+                                        kompleksnotematiko migracije v Slovenijo iz drugih
+                                        jugoslovanskih republik pred 1991ter ustvarjanje urbane
+                                        identitete pred in po letu 1991. Obenem prikazuje tudirazvoj
+                                        obmejne regije kot mostu, ki je združeval vzhod in zahod,
+                                        tihotapstvo inpotrošništvo.</p>
+               </entity:description>
+               <entity:description xml:lang="eng">
+                  <p xmlns="http://sistory.si/schema/sistory/v3/entity">The town of Nova Gorica was built after the Second World War
+                                        when theregion was divided between Italy and Yugoslavia. The
+                                        complex historical developmentof Nova Gorica- with its
+                                        urbanization strategies, industrial developmentand
+                                        subsequent waves of immigration to from all over Yugoslavia
+                                        havecreated a peculiar city with a unique identity. Since
+                                        the city is relatively young,its first inhabitants
+                                        established a multicultural community which was void of
+                                        thefrictions that typically occur between locals and
+                                        newcomers. After Slovenia’sdeclaration of independence in
+                                        1991, however, lots of people in the town, aswell as
+                                        throughout Slovenia, suddenly became »foreigners« because of
+                                        theirnon-Slovenian ethnic origin.This phenomenon in Nova
+                                        Gorica prompts questions of integration, assimilationor
+                                        ethnic exclusion, especially as immigrants choose different
+                                        ways ofexpressing their national identity. As this
+                                        presentation is going to demonstratethis was done in
+                                        different ways. Identity strategies have been based on
+                                        traditionwhich was in some cases rebuilt, since at their
+                                        arrival in Slovenia some immigrantswere too young to notice
+                                        changes in their new environment, especiallywhen they were
+                                        only moving within the borders of what was then one
+                                        country,Yugoslavia.</p>
+                  <p xmlns="http://sistory.si/schema/sistory/v3/entity">The main reasons for emigration to Slovenia can be classified
+                                        as economic,personal and family matters, political and
+                                        »other reasons«. Economic migrantsformed the majority of
+                                        those who emigrants; those who saw the possibility
+                                        forimprovement of their economic position or their entire
+                                        family's social status.Families who followed the economic
+                                        immigrants comprised the second majormigration group. The
+                                        personal reasons for migration were hugely varied,changing
+                                        from person to person and depending on their situations. The
+                                        migrationgroup classified under »other reasons« consisted
+                                        mainly of state employees(of the national army,
+                                        administration, and customs). They did not choose
+                                        theirmigration location since they were sent by decree to
+                                        various parts of Slovenia bythe state administration. These
+                                        transfers of the Yugoslavian army to the bordersof the
+                                        Slovenian state presented in the first period after the
+                                        Second World Warthe only major migration wave in Slovenia.
+                                        The mission to safeguard the stateborder was executed by
+                                        young soldiers, mainly from Serbia and Croatia.Migration to
+                                        Slovenia was increasing slightly but constantly until the
+                                        1970s,but after extensive economic growth in Slovenia in the
+                                        middle of the 1970s thenumber of immigrants virtually
+                                        doubled. The majority of immigrants arrivedfrom Bosanska
+                                        Krajina, Bosanska Posavina, eastern Serbia and communitiesin
+                                        the south of Serbia. We presume that the picture of
+                                        migration processes inSlovenia from the other parts of the
+                                        former federal state is incomplete and inadequate.The
+                                        migration waves were likely larger and wider than was
+                                        registeredin censuses before 1991, for the migration process
+                                        was taking place inside auniform state and immigrants were
+                                        not required to register their arrival in a newenvironment.
+                                        In any case, the migration processes significantly changed
+                                        the nationalcomposition of the population.</p>
+                  <p xmlns="http://sistory.si/schema/sistory/v3/entity">Presenting the case of the town of Nova Gorica the
+                                        presentation will showthe complex themes of migration to
+                                        Slovenia from other Yugoslav countries before1991 and the
+                                        creation of urban identity before and after 1991. At the
+                                        sametime it will also explain the development of the border
+                                        region as a bridge fromEast and West, smuggling and
+                                        consumption.</p>
+               </entity:description>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="video1" USE="EXTERNAL">
+            <METS:FLocat USE="YOUTUBE"
+                         LOCTYPE="URL"
+                         xlink:href="//www.youtube.com/embed/et47ocAd_VY"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/20426"/>
+         <METS:div TYPE="entity" DMDID="dc.20462" ADMID="premis.20462 entity.20462">
+            <METS:fptr FILEID="video1"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

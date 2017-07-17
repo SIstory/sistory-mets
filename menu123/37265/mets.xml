@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/37265"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2017-03-13T09:17:44"
+                 LASTMODDATE="2017-03-14T14:44:00"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.81" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.37265" GROUPID="37265">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="eng">From Dissolving Borders towards Liminal Boundaries: Ontological Uncertainty in the Border-Art-Work of Expatriated former-Yugoslavian Artists</dcterms:title>
+            <dcterms:alternative xml:lang="slv">Od izginjajočih mej do liminalnih mejnosti: ontološka negotovost v umetniškem delu o mejah izseljene umetnice iz nekdanje Jugoslavije</dcterms:alternative>
+            <dcterms:creator>Sardžoska, Nataša</dcterms:creator>
+            <dcterms:subject xml:lang="slv">Tanja Ostojić</dcterms:subject>
+            <dcterms:subject xml:lang="slv">Stefano Lusa</dcterms:subject>
+            <dcterms:subject xml:lang="slv">Slavenka Drakulić</dcterms:subject>
+            <dcterms:subject xml:lang="slv">migracije</dcterms:subject>
+            <dcterms:subject xml:lang="slv">prostorski spomin</dcterms:subject>
+            <dcterms:subject xml:lang="slv">Jugoslavija</dcterms:subject>
+            <dcterms:subject xml:lang="slv">fantomske meje</dcterms:subject>
+            <dcterms:subject xml:lang="slv">umetniška dela</dcterms:subject>
+            <dcterms:subject xml:lang="eng">migration</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Yugoslavia</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Tanja Ostojić</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Stefano Lusa</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Slavenka Drakulić</dcterms:subject>
+            <dcterms:subject xml:lang="eng">art-work</dcterms:subject>
+            <dcterms:subject xml:lang="eng">phantom-borders</dcterms:subject>
+            <dcterms:publisher>Inštitut za novejšo zgodovino, Ljubljana</dcterms:publisher>
+            <dcterms:publisher>Oddelek za zgodovino Filozofske fakultete Univerze v Ljubljani, Ljubljana</dcterms:publisher>
+            <dcterms:contributor>Marko Zajc</dcterms:contributor>
+            <dcterms:contributor>Jernej Kosi</dcterms:contributor>
+            <dcterms:contributor>Zdenko Čepič</dcterms:contributor>
+            <dcterms:contributor>Neja Blaj Hribar</dcterms:contributor>
+            <dcterms:contributor>Dan Brett</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:Period">start=24.11.2016; end=26.11.2016; name=; scheme=; </dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">MovingImage</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">eng</dcterms:language>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.37265">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>37265</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/37265</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.37265">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Prispevek temelji na
+                                    političnih pomenih fantomskih meja, ki se nenehno brišejo in
+                                    premikajo ter na predstavah o migraciji v spreminjajoči se
+                                    geografiji in nenehnem fenomenološkem razvoju, podvrženem
+                                    "kulturni mumifikaciji" (Bhabha), družbeni poroznosti, nenehni
+                                    agoniji in izbrisu predhodne kulture v balkanskem migracijskem
+                                    sindromu. Po razpadu nekdanje jugoslovanske konfederacije in
+                                    nasilnem oblikovanju meja smo priča obuditvi "izmuzljivih"
+                                    kulturnih mejnosti, ki jih predstavljajo umetniki kot izseljeni
+                                    obmejni prebivalci. Izbruh vojn v nekdanji Jugoslaviji je
+                                    povzročil nastanek novih meja, "iznajdevanje tradicije"
+                                    (Hobsbawm), brezciljno razseljevanje, premike in potovanja ter
+                                    nostalgijo po izgubljenem prostoru, ki jo je spodbudilo
+                                    politično razbitje Jugoslavije. Popotnik, ki išče dom, mi še
+                                    vedno pomeni izziv pri raziskovanju. V prestavitvi se bom
+                                    osredotočila na srbsko umetnico Tanjo Ostojić, ki se je med
+                                    vojno izselila v Berlin in ki razgrajuje, naseljuje, premešča,
+                                    iznajdeva ter postavlja pod vprašaj nevidne mejnosti. Obravnavam
+                                    njena umetniška dela o mejah iz niza Crossing Borders (tj.
+                                    Looking for a Husband with an EU passport, Waiting for a Visa,
+                                    Illegal Border Crossing – najnovejše delo je v bistvu projekt,
+                                    ki bolje predstavlja dediščino upravnih meja in pojem fantomske
+                                    meje). Meje so opredeljene kot liminalni prostori, jaz pa se
+                                    ukvarjam z naslednjim vprašanjem: je res tako pomembno
+                                    zarisovati ločnice, karte in zemljevide, ko pa je svet postal
+                                    kulturno liminalen, pretočen, "kreoliziran" (Hannerz)?
+                                    Predstavila bom ugotovitve iz pogovorov z italijansko-slovenskim
+                                    novinarjem dr. Stefanom Luso in hrvaško pisateljico iz Istre
+                                    Slavenko Drakulić, pri čemer se bom oprla na premeščanje oblik
+                                    pripadnosti in samoopredelitve, ki razkrivajo medsebojna
+                                    razmerja procesov kulturne mutacije od skupnega prostorskega
+                                    spomina do kolektivne kulturne amnezije, iznajdevanja
+                                    preteklosti in poustvarjanja prihodnosti v prehodnih
+                                    privatizacijskih procesih, ki povzročajo izgubo kulturnega
+                                    spomina nekdanje Jugoslavije. Moj cilj je ponovno razmisliti o
+                                    medsebojno povezanih pomenih kartiranja v mejnih prostorih, ki
+                                    so postali marginalizirani, izločeni, diasporni, hkrati pa
+                                    središče in jedro ustvarjalnosti, kognitivne anksioznosti,
+                                    gibanj, ki ustvarjajo različne identitete, ter nepredvidljivih
+                                    smeri. </entity:description>
+               <entity:description xml:lang="eng"> The paper draws on
+                                    political meanings of phantom-borders which are perpetually
+                                    blurred and shifted and notions of migration in tidal geography
+                                    in continuous phenomenological evolution, undergoing “cultural
+                                    mummification” (Bhabha), societal porosity, continued agony and
+                                    erasure of preexisting culture in the Balkan’s migration
+                                    syndrome. After the dissolution of the former Yugoslavian
+                                    Confederation and the violent borders generation, we are
+                                    witnessing a revival of “quick sand” cultural boundaries
+                                    performed by artists as exiling border inhabitants. The outbreak
+                                    of the wars in Former Yugoslavia has produced new map of
+                                    borders, “reinvention of the tradition” (Hobsbawm), flows of
+                                    non-targeted displacements and dislocations, indeterminate
+                                    journeys, and nostalgia for a lost space instigated by the
+                                    political shattering of Yugoslavia. The wanderer in search for
+                                    home remains challenging for my research. During my presentation
+                                    I shall focus on the Serbian artist, expatriated in Berlin
+                                    during the war, Tanja Ostojic, who is disintegrating,
+                                    inhabiting, misplacing, reinventing and questioning invisible
+                                    boundaries. I argue her border-artworks Crossing Borders Series
+                                    (i.e. Looking for a Husband with an EU passport, Waiting for a
+                                    Visa, Illegal Border Crossing – the latest is in a nutshell the
+                                    project which better represent the administrative border legacy
+                                    and the notion of phantom border). The borders are argued as
+                                    liminal spaces; the question I am tackling is the following: is
+                                    it so important to draw boundaries, charts and maps when the
+                                    world has turned culturally liminal, flow, “creolizing”
+                                    (Hannerz)? I will thus present findings from interviews with the
+                                    Italo-Slovenian journalist from Koper, Dr. Stefano Lusa and with
+                                    the Croatian writer, from Istria, Ms. Slavenka Drakulic drawing
+                                    on misplacing forms of belonging and self-definition that unveil
+                                    interrelations of cultural mutation processes from common
+                                    spatial memory towards collective cultural amnesia, reinvention
+                                    of the past and recreation of the future in the transitory
+                                    privatization processes provoking forms of detriment of the
+                                    cultural memory of former Yugoslavia. The goal is to rethink the
+                                    interconnected mapping meanings in the bordering spaces, which
+                                    have become marginalized, detached, diasporic but at the same
+                                    time a center and a nucleus of creativity, cognitive anxiety,
+                                    differential identities proliferating movements and
+                                    unpredictable trajectories. </entity:description>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="video1" USE="EXTERNAL">
+            <METS:FLocat USE="YOUTUBE"
+                         LOCTYPE="URL"
+                         xlink:href="https://www.youtube.com/embed/3Tpm7_hgjB0"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37178"/>
+         <METS:div TYPE="entity" DMDID="dc.37265" ADMID="premis.37265 entity.37265">
+            <METS:fptr FILEID="video1"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

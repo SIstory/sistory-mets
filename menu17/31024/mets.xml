@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/31024"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2015-06-02T10:42:22"
+                 LASTMODDATE="2017-02-15T13:22:55"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.31024" GROUPID="31024">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="slv">Obleka v otroštvu</dcterms:title>
+            <dcterms:alternative xml:lang="eng">Clothes in Childhood</dcterms:alternative>
+            <dcterms:creator>Balkovec Debevec, Marjetka</dcterms:creator>
+            <dcterms:abstract xml:lang="slv">Prispevek osvetljuje zgodovino otroštva s pomočjo oblačilnega videza otrok skozi čas. Predstavlja predvsem ugotovitve o otroški obleki, kakršno so otroci nosili ob vstopu v šolo in v osnovnošolskih letih. Na obleko učencev so vplivale širše družbene in socialne razmere, opazne so bile razlike v oblačilnem videzu vaških in mestnih otrok, premožnejših in revnejših slojev. O obleki otrok od druge polovice 19. stoletja do sredine 20. stoletja pričajo nekatere avtobiografije, šolske fotografije, posebna anketa o oblekah osnovnošolskih otrok, pedagoški tisk in strokovna literatura.</dcterms:abstract>
+            <dcterms:abstract xml:lang="eng">Paper is presenting the history of childhood through children cloths. It represents mostly conclusions about children clothing worn at the beginning of schooling and in years of primary school. Pupils’ clothes were influenced by society and the social situation. There was a difference in dressing between country and urban children, rich and poor children. There are some autobiographies, school photos, a special questionnaire about clothes of pupils, pedagogical press releases and literature that testify about children’s clothes at the end of the 19th century and early 20th century.</dcterms:abstract>
+            <dcterms:subject xml:lang="slv">obleka</dcterms:subject>
+            <dcterms:subject xml:lang="slv">oblačilni videz</dcterms:subject>
+            <dcterms:subject xml:lang="slv">otroci</dcterms:subject>
+            <dcterms:subject xml:lang="slv">zgodovina šolstva</dcterms:subject>
+            <dcterms:subject xml:lang="eng">clothes</dcterms:subject>
+            <dcterms:subject xml:lang="eng">history of school</dcterms:subject>
+            <dcterms:subject xml:lang="eng">dressing</dcterms:subject>
+            <dcterms:subject xml:lang="eng">children</dcterms:subject>
+            <dcterms:publisher>Zveza zgodovinskih društev Slovenije</dcterms:publisher>
+            <dcterms:contributor>Peter Štih (gl. in od. ur.)</dcterms:contributor>
+            <dcterms:contributor>Aida Škoro Babić (ur. in prev.)</dcterms:contributor>
+            <dcterms:contributor>Mateja Jeraj (ur.)</dcterms:contributor>
+            <dcterms:contributor>Matevž Košir (ur.)</dcterms:contributor>
+            <dcterms:contributor>Bojan Balkovec (ur.)</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2012</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">Text</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">slv</dcterms:language>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:dmdSec ID="mods.31024" GROUPID="31024">
+      <METS:mdWrap MDTYPE="MODS" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <mods:relatedItem type="series">
+               <mods:titleInfo>
+                  <mods:title>Zbirka zgodovinskega časopisa, 45</mods:title>
+               </mods:titleInfo>
+            </mods:relatedItem>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.31024">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>31024</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/31024#page=103</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.31024">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Prispevek osvetljuje
+                                    zgodovino otroštva s pomočjo oblačilnega videza otrok skozi čas.
+                                    Predstavlja predvsem ugotovitve o otroški obleki, kakršno so
+                                    otroci nosili ob vstopu v šolo in v osnovnošolskih letih. Na
+                                    obleko učencev so vplivale širše družbene in socialne razmere,
+                                    opazne so bile razlike v oblačilnem videzu vaških in mestnih
+                                    otrok, premožnejših in revnejših slojev. O obleki otrok od druge
+                                    polovice 19. stoletja do sredine 20. stoletja pričajo nekatere
+                                    avtobiografije, šolske fotografije, posebna anketa o oblekah
+                                    osnovnošolskih otrok, pedagoški tisk in strokovna literatura.
+                                </entity:description>
+               <entity:description xml:lang="eng"> Paper is presenting the
+                                    history of childhood through children cloths. It represents
+                                    mostly conclusions about children clothing worn at the beginning
+                                    of schooling and in years of primary school. Pupils’ clothes
+                                    were influenced by society and the social situation. There was a
+                                    difference in dressing between country and urban children, rich
+                                    and poor children. There are some autobiographies, school
+                                    photos, a special questionnaire about clothes of pupils,
+                                    pedagogical press releases and literature that testify about
+                                    children’s clothes at the end of the 19th century and early 20th
+                                    century. </entity:description>
+               <entity:page>103</entity:page>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/31016"/>
+         <METS:div TYPE="entity"
+                   DMDID="dc.31024 mods.31024"
+                   ADMID="premis.31024 entity.31024"/>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

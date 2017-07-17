@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/37470"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2017-04-05T09:10:18"
+                 LASTMODDATE="2017-04-07T11:59:35"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.4" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.37470" GROUPID="37470">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="slv">Epidemija v šolskih klopeh: primer španske gripe leta 1918</dcterms:title>
+            <dcterms:alternative xml:lang="eng">Epidemic in School Benches: An Example of the Spanish Flu in 1918</dcterms:alternative>
+            <dcterms:creator>Keber, Katarina</dcterms:creator>
+            <dcterms:description xml:lang="slv">Epidemija španske gripe je leta 1918 močno prizadela tudi prebivalstvo v slovenskih deželah. Smrtonosni val te bolezni je avstro-ogrske dežele zajel jeseni in pozimi leta 1918. Čeprav so znane le približne, nezanesljive ocene o številu obolelih in umrlih, nam sočasni viri posredno razkrivajo veliko razsežnost obolevanja za to boleznijo in pogosto smrtnost med obolelimi. Raziskovanje otežujejo zapletene geopolitične razmere v letih 1918/1919, saj je epidemija izbruhnila ob samem koncu prve svetovne vojne, ko je hkrati prišlo tudi do razpada Avstro-Ogrske in nastanka Države SHS. Iz ohranjenih poročil okrajnih glavarstev Deželni vladi v Ljubljani je razvidno, da so za gripo množično obolevali tudi učenci in učitelji različnih šol. O prekinitvi pouka in zapiranju šol so poročali iz mnogih kranjskih okrajnih glavarstev. Izpad učencev pri pouku je bil po posameznih krajih in šolah različen in sicer v razponu od 16%–75% vseh šolarjev. V Ljubljani so npr. v začetku oktobra 1918 z odredbo mestnega fizika najprej prekinili pouk v vseh šolah, nato so vse srednje, javne in zasebne ljudske šole in vrtce zaprli do 3. novembra. Na podlagi šolskih kronik in mrliških knjig bo prikazana umrljivost za špansko gripo šolskih otrok in učiteljev v Ljubljani.</dcterms:description>
+            <dcterms:description xml:lang="eng">In 1918, an epidemic of the Spanish flu severely affected the population in Slovenian lands. The deadly wave of this disease has captured the Austro-Hungarian lands in the autumn and winter of 1918. Only an approximate, unreliable number of illnesses and deaths are known, but simultaneous sources indirectly reveal all the dimensions of this illness, which had a high mortality rate. The research is difficult due to the complex geopolitical situation in the years 1918/1919, since the epidemic broke out at the very end of World War I, when also the Austro-Hungarian Empire disintegrated and the State of Slovenes, Croats and Serbs was created. Preserved reports of district boards to Provincial government in Ljubljana show that students and teachers in different schools developed signs of the flu. Different district boards in Carniola reported about suspension of classes and closing of schools. Class attendance was varying in different places and schools, namely between 16%-75% of all schoolchildren. In Ljubljana for example, in early October 1918, all schools were closed by the order of the town council. Later all secondary, public and private folk schools and kindergartens were closed until 3th November. The mortality of schoolchildren and teachers in Ljubljana due to the Spanish flu will be shown on the basis of school chronicles and death records.</dcterms:description>
+            <dcterms:subject xml:lang="slv">španska gripa</dcterms:subject>
+            <dcterms:subject xml:lang="slv">otroci</dcterms:subject>
+            <dcterms:subject xml:lang="slv">šola</dcterms:subject>
+            <dcterms:subject xml:lang="slv">prva svetovna vojna</dcterms:subject>
+            <dcterms:subject xml:lang="slv">epidemije</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Spanish flu</dcterms:subject>
+            <dcterms:subject xml:lang="eng">kids</dcterms:subject>
+            <dcterms:subject xml:lang="eng">school</dcterms:subject>
+            <dcterms:subject xml:lang="eng">WWI</dcterms:subject>
+            <dcterms:subject xml:lang="eng">epidemics</dcterms:subject>
+            <dcterms:publisher>Zveza zgodovinskih društev Slovenije, Ljubljana</dcterms:publisher>
+            <dcterms:publisher>Inštitut za novejšo zgodovino, Ljubljana</dcterms:publisher>
+            <dcterms:contributor>Renato Podbersič (moderator)</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2016-09-30</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">MovingImage</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">slv</dcterms:language>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.37470">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>37470</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/37470</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.37470">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Epidemija španske gripe
+                                    je leta 1918 močno prizadela tudi prebivalstvo v slovenskih
+                                    deželah. Smrtonosni val te bolezni je avstro-ogrske dežele zajel
+                                    jeseni in pozimi leta 1918. Čeprav so znane le približne,
+                                    nezanesljive ocene o številu obolelih in umrlih, nam sočasni
+                                    viri posredno razkrivajo veliko razsežnost obolevanja za to
+                                    boleznijo in pogosto smrtnost med obolelimi. Raziskovanje
+                                    otežujejo zapletene geopolitične razmere v letih 1918/1919, saj
+                                    je epidemija izbruhnila ob samem koncu prve svetovne vojne, ko
+                                    je hkrati prišlo tudi do razpada Avstro-Ogrske in nastanka
+                                    Države SHS. Iz ohranjenih poročil okrajnih glavarstev Deželni
+                                    vladi v Ljubljani je razvidno, da so za gripo množično obolevali
+                                    tudi učenci in učitelji različnih šol. O prekinitvi pouka in
+                                    zapiranju šol so poročali iz mnogih kranjskih okrajnih
+                                    glavarstev. Izpad učencev pri pouku je bil po posameznih krajih
+                                    in šolah različen in sicer v razponu od 16%–75% vseh šolarjev. V
+                                    Ljubljani so npr. v začetku oktobra 1918 z odredbo mestnega
+                                    fizika najprej prekinili pouk v vseh šolah, nato so vse srednje,
+                                    javne in zasebne ljudske šole in vrtce zaprli do 3. novembra. Na
+                                    podlagi šolskih kronik in mrliških knjig bo prikazana umrljivost
+                                    za špansko gripo šolskih otrok in učiteljev v Ljubljani. </entity:description>
+               <entity:description xml:lang="eng"> In 1918, an epidemic of
+                                    the Spanish flu severely affected the population in Slovenian
+                                    lands. The deadly wave of this disease has captured the
+                                    Austro-Hungarian lands in the autumn and winter of 1918. Only an
+                                    approximate, unreliable number of illnesses and deaths are
+                                    known, but simultaneous sources indirectly reveal all the
+                                    dimensions of this illness, which had a high mortality rate. The
+                                    research is difficult due to the complex geopolitical situation
+                                    in the years 1918/1919, since the epidemic broke out at the very
+                                    end of World War I, when also the Austro-Hungarian Empire
+                                    disintegrated and the State of Slovenes, Croats and Serbs was
+                                    created. Preserved reports of district boards to Provincial
+                                    government in Ljubljana show that students and teachers in
+                                    different schools developed signs of the flu. Different district
+                                    boards in Carniola reported about suspension of classes and
+                                    closing of schools. Class attendance was varying in different
+                                    places and schools, namely between 16%-75% of all
+                                    schoolchildren. In Ljubljana for example, in early October 1918,
+                                    all schools were closed by the order of the town council. Later
+                                    all secondary, public and private folk schools and kindergartens
+                                    were closed until 3th November. The mortality of schoolchildren
+                                    and teachers in Ljubljana due to the Spanish flu will be shown
+                                    on the basis of school chronicles and death records. </entity:description>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="video1" USE="EXTERNAL">
+            <METS:FLocat USE="YOUTUBE"
+                         LOCTYPE="URL"
+                         xlink:href="https://www.youtube.com/embed/lL8CkK0wrTk"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37399"/>
+         <METS:div TYPE="entity" DMDID="dc.37470" ADMID="premis.37470 entity.37470">
+            <METS:fptr FILEID="video1"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/37682"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2017-05-29T11:46:22"
+                 LASTMODDATE="2017-06-16T10:51:10"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.37682" GROUPID="37682">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="eng">The Museum as a learning environment - with an example from Museum Gustavianum in Uppsala</dcterms:title>
+            <dcterms:alternative xml:lang="swe">Museer som lärandemiljö – med ett exempel från Museum Gustavianum i Uppsala</dcterms:alternative>
+            <dcterms:creator>Ödman, Cecilia</dcterms:creator>
+            <dcterms:description xml:lang="eng">In Uppsala the Museum Gustavianum occupies a unique position as an interface between the academic world and the general public. Situated in the medieval heart of the city, the Gustavianum is the former main building of Uppsala University. The Anatomical Theatre erected on the roof of the Gustavianum gives the building its characteristic appearance. The Museum Gustavianum was inaugurated in 1997. The main exhibition describes the history of Uppsala University through a collection of objects from a wide range of disciplines dating from 1477, when the university was founded, to the present. The museum has become a popular attraction to the public, with around 50 000 visitors every year. Ever since the museum was founded student participation has played an important role in the ongoing project with respect to documentation, exhibitions and education. In our public work we start with preschool children. Twice a year since 2004 the Museum Gustavianum has collaborated with the Department of Education at the faculty of Education at Uppsala University. Each term around fifty students from the preschool teacher section plan and implement a number of museum lessons for specially invited kindergartens. The collaboration begins with a lecture in the Gustavianum how to use a museum as a learning environment. Each museum lesson, which is prepared by the students, is based on inspiration gathered from the museum´s collections. In the project the Museum Gustavianum can support both students in their education to preschool teachers and the children´s joy in finding out how exciting experiments can be. At the museum we have found the student participation to be a win-win concept. Museums have unique collections and a great many stories that need to be told. If the museums dare to let in other explainers as teachers, students and researchers, then together we can connect the past with the present and the future. Then our museums can become laboratories for new ideas and our collections can find a new meaning.</dcterms:description>
+            <dcterms:description xml:lang="swe">Uppsala intar Museum Gustavianum en unik position som mötesplats mellan den akademiska världen och allmänheten. Beläget i den medeltida kärnan i staden, är Gustavianum Uppsala universitets äldsta bevarade huvudbyggnad. Anatomiska teatern på taket ger byggnaden sitt unika utseende. Museum Gustavianum invigdes 1997. En av basutställningarna beskriver Uppsala universitets historia genom ett stort antal föremål från olika ämnesdiscipliner. Museet har utvecklats till ett populärt besöksmål med ungefär 50 000 besökare per år. Ända sedan museet grundades har studentmedverkan spelat en viktig roll i flera olika projekt såsom dokumentation, utställningar och pedagogisk verksamhet. I vårt publika arbete börjar vi med förskolebarnen. Två gånger per år sedan 2004 har Museum Gustavianum samarbetat med förskolelärarutbildningen vid utbildningsvetenskapliga fakulteten. Varje termin får ett femtiotal studenter i uppgift att planera och genomföra ett antal museilektioner för speciellt inbjudna förskolor. Samarbetet börjar med en föreläsning i Gustavianum om hur museer kan användas som lärandemiljö. Varje museilektion, som förbereds av studenterna, bygger på inspiration från museets samlingar. I projektet kan Museum Gustavianum stötta studenterna i deras utbildning till förskolelärare samtidigt som barn får utveckla sin upptäckarglädje genom experiment. På museet har vi insett att det är ett vinnande koncept för samtliga inblandade parter. Museer har unika samlingar och många historier som väntar på att få berättas. Om museer vågar och släppa in även andra guider såsom lärare studenter och forskare, kan vi tillsammans knyta ihop dåtid med framtid. Då kan också våra museer utvecklas till laboratorier för nya idéer och våra samlingar kan få en ny roll.</dcterms:description>
+            <dcterms:subject xml:lang="slv">zgodovina</dcterms:subject>
+            <dcterms:subject xml:lang="slv">šolstvo</dcterms:subject>
+            <dcterms:subject xml:lang="slv">muzej</dcterms:subject>
+            <dcterms:subject xml:lang="eng">history</dcterms:subject>
+            <dcterms:subject xml:lang="eng">school system</dcterms:subject>
+            <dcterms:subject xml:lang="eng">museum</dcterms:subject>
+            <dcterms:publisher>Slovenski šolski muzej, Ljubljana</dcterms:publisher>
+            <dcterms:publisher>Zveza zgodovinskih društev Slovenije, Ljubljana</dcterms:publisher>
+            <dcterms:publisher>ICOM Slovenija, Celje</dcterms:publisher>
+            <dcterms:publisher>Inštitut za novejšo zgodovino, Ljubljana</dcterms:publisher>
+            <dcterms:contributor>Branko Šuštar (moderator)</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2013-06-27</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">MovingImage</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">eng</dcterms:language>
+            <dcterms:license xsi:type="dcterms:URI">http://creativecommons.org/licenses/by-nc-nd/2.5/si/</dcterms:license>
+            <dcterms:license xml:lang="slv">Priznanje avtorstva-Nekomercialo-Brez predelav 2.5 Slovenija (CC BY-NC-ND 2.5 SI)</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.37682">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>37682</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/37682</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.37682">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="eng">
+                  <p xmlns="http://sistory.si/schema/sistory/v3/entity">In Uppsala the Museum Gustavianum occupies a unique position
+                                        as an interface between the academic world and the general
+                                        public. Situated in the medieval heart of the city, the
+                                        Gustavianum is the former main building of Uppsala
+                                        University. The Anatomical Theatre erected on the roof of
+                                        the Gustavianum gives the building its characteristic
+                                        appearance. The Museum Gustavianum was inaugurated in 1997.
+                                        The main exhibition describes the history of Uppsala
+                                        University through a collection of objects from a wide range
+                                        of disciplines dating from 1477, when the university was
+                                        founded, to the present. The museum has become a popular
+                                        attraction to the public, with around 50 000 visitors every
+                                        year. Ever since the museum was founded student
+                                        participation has played an important role in the ongoing
+                                        project with respect to documentation, exhibitions and
+                                        education. In our public work we start with preschool
+                                        children. Twice a year since 2004 the Museum Gustavianum has
+                                        collaborated with the Department of Education at the faculty
+                                        of Education at Uppsala University. Each term around fifty
+                                        students from the preschool teacher section plan and
+                                        implement a number of museum lessons for specially invited
+                                        kindergartens. The collaboration begins with a lecture in
+                                        the Gustavianum how to use a museum as a learning
+                                        environment. Each museum lesson, which is prepared by the
+                                        students, is based on inspiration gathered from the museum´s
+                                        collections. In the project the Museum Gustavianum can
+                                        support both students in their education to preschool
+                                        teachers and the children´s joy in finding out how exciting
+                                        experiments can be. At the museum we have found the student
+                                        participation to be a win-win concept. Museums have unique
+                                        collections and a great many stories that need to be told.
+                                        If the museums dare to let in other explainers as teachers,
+                                        students and researchers, then together we can connect the
+                                        past with the present and the future. Then our museums can
+                                        become laboratories for new ideas and our collections can
+                                        find a new meaning.</p>
+               </entity:description>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="video1" USE="EXTERNAL">
+            <METS:FLocat USE="YOUTUBE"
+                         LOCTYPE="URL"
+                         xlink:href="//www.youtube.com/embed/a6XTGnx4tsI"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37681"/>
+         <METS:div TYPE="entity" DMDID="dc.37682" ADMID="premis.37682 entity.37682">
+            <METS:fptr FILEID="video1"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

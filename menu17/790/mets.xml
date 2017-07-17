@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/790"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2011-11-02T20:46:31"
+                 LASTMODDATE="2017-02-10T11:55:04"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.790" GROUPID="790">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="slv">Dr. Ivan Šušteršič, 1863-1925</dcterms:title>
+            <dcterms:title xml:lang="slv">Pot prvaka slovenskega političnega katolicizma</dcterms:title>
+            <dcterms:creator>Pleterski, Janko</dcterms:creator>
+            <dcterms:description xml:lang="slv">Monografijo o dr. Ivanu Šušteršiču sem si sprva zamislil kot spremno študijo h knjigi njegovih (izbranih) govorov in spisov v knjižni zbirki, ki bi obsegla, nekako po zgledu zbirke »Dela slovenskih pesnikov in pisateljev«, dela najpomembnejših slovenskih politikov. Zamisel takšne knjižne vrste je sicer imela nekaj odmeva med slovenskimi zgodovinarji, vendar se načrtovalci znanstvenega dela niso odločili za kaj bolj otipljivega. Samotež pripraviti Šušteršičeve govore in spise za kritično izdajo, bi daleč preseglo moje moči posameznika. Ostal sem pri študiji o Šušteršičevi politični poti, ki pa je morala zdaj postati samostojna, ne le spremna. To je pomenilo, da mora zajeti vsaj v glavnih potezah tudi snov njegovih zelo številnih govorov (člankov je bilo malo), ker jih bralec pač ne bo dobil zbranih pred oči. Študija je zato prerastla samo sebe v (pre)obsežno monografijo. Po drugi strani je obsežnost še pospešila skušnjava, da se ne omejim samo na tisto, kar j c v neposredni zvezi z dejavnostjo Šušteršiča samega, marveč da se tudi ne izognem širšemu toku slovenske politične zgodovine. In glede na to. da je bil Šušteršič osrednja osebnost te zgodovine kar dobrega četrt stoletja, seje moralo zgoditi, kar se je zgodilo: zredil sem debelo knjigo. Če je to zdaj breme za založnika in če utegne plašiti tudi bralca, se vendar ne strašim prevzeti odgovornosti zanjo. Dr. Ivan Šušteršič si namreč debelo knjigo zasluži. Upam, da bo potrpežljivi in vztrajni bralec na koncu temu prepričanju pritrdil, četudi bo morda obžaloval, da knjiga ni boljša. Opravičim se lahko samo s tem, da me gmota snovi ni odgnala od dela. Četudi res ni dosti manjkalo. O dr. Ivanu Šušteršiču pa se bo tako še pisalo.</dcterms:description>
+            <dcterms:subject xml:lang="slv">Slovenija</dcterms:subject>
+            <dcterms:subject xml:lang="slv">katolištvo</dcterms:subject>
+            <dcterms:subject xml:lang="slv">slovenski politiki</dcterms:subject>
+            <dcterms:subject xml:lang="slv">habsburška monarhija</dcterms:subject>
+            <dcterms:subject xml:lang="slv">politične stranke</dcterms:subject>
+            <dcterms:subject xml:lang="slv">politična zgodovina</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Slovenia</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Catholicism</dcterms:subject>
+            <dcterms:subject xml:lang="eng">slovenian politicians</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Habsburg monarchy</dcterms:subject>
+            <dcterms:subject xml:lang="eng">political parties</dcterms:subject>
+            <dcterms:subject xml:lang="eng">political history</dcterms:subject>
+            <dcterms:publisher>Znanstvenoraziskovalni center SAZU, Založba ZRC, Ljubljana</dcterms:publisher>
+            <dcterms:date xsi:type="dcterms:W3CDTF">1998</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">Text</dcterms:type>
+            <dcterms:identifier>COBISS.SI-ID 72711936</dcterms:identifier>
+            <dcterms:language xsi:type="dcterms:ISO639-3">slv</dcterms:language>
+            <dcterms:coverage xml:lang="slv">Slovenija, 1863-1925</dcterms:coverage>
+            <dcterms:license xsi:type="dcterms:URI">http://creativecommons.org/licenses/by-nc-nd/2.5/si/</dcterms:license>
+            <dcterms:license xml:lang="slv">Priznanje avtorstva-Nekomercialo-Brez predelav 2.5 Slovenija (CC BY-NC-ND 2.5 SI)</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.790">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>790</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/790</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.790">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Monografijo o dr. Ivanu
+                                    Šušteršiču sem si sprva zamislil kot spremno študijo h knjigi
+                                    njegovih (izbranih) govorov in spisov v knjižni zbirki, ki bi
+                                    obsegla, nekako po zgledu zbirke »Dela slovenskih pesnikov in
+                                    pisateljev«, dela najpomembnejših slovenskih politikov. Zamisel
+                                    takšne knjižne vrste je sicer imela nekaj odmeva med slovenskimi
+                                    zgodovinarji, vendar se načrtovalci znanstvenega dela niso
+                                    odločili za kaj bolj otipljivega. Samotež pripraviti
+                                    Šušteršičeve govore in spise za kritično izdajo, bi daleč
+                                    preseglo moje moči posameznika. Ostal sem pri študiji o
+                                    Šušteršičevi politični poti, ki pa je morala zdaj postati
+                                    samostojna, ne le spremna. To je pomenilo, da mora zajeti vsaj v
+                                    glavnih potezah tudi snov njegovih zelo številnih govorov
+                                    (člankov je bilo malo), ker jih bralec pač ne bo dobil zbranih
+                                    pred oči. Študija je zato prerastla samo sebe v (pre)obsežno
+                                    monografijo. Po drugi strani je obsežnost še pospešila
+                                    skušnjava, da se ne omejim samo na tisto, kar j c v neposredni
+                                    zvezi z dejavnostjo Šušteršiča samega, marveč da se tudi ne
+                                    izognem širšemu toku slovenske politične zgodovine. In glede na
+                                    to. da je bil Šušteršič osrednja osebnost te zgodovine kar
+                                    dobrega četrt stoletja, seje moralo zgoditi, kar se je zgodilo:
+                                    zredil sem debelo knjigo. Če je to zdaj breme za založnika in če
+                                    utegne plašiti tudi bralca, se vendar ne strašim prevzeti
+                                    odgovornosti zanjo. Dr. Ivan Šušteršič si namreč debelo knjigo
+                                    zasluži. Upam, da bo potrpežljivi in vztrajni bralec na koncu
+                                    temu prepričanju pritrdil, četudi bo morda obžaloval, da knjiga
+                                    ni boljša. Opravičim se lahko samo s tem, da me gmota snovi ni
+                                    odgnala od dela. Četudi res ni dosti manjkalo. O dr. Ivanu
+                                    Šušteršiču pa se bo tako še pisalo. </entity:description>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="file379"
+                    OWNERID="dr_ivan_sustersic_1863-1925_2.pdf"
+                    MIMETYPE="application/pdf">
+            <METS:FLocat LOCTYPE="HANDLE" xlink:href="https://hdl.handle.net/11686/file379"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="primary">
+      <METS:div TYPE="collection">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/menu17"/>
+         <METS:div TYPE="entity" DMDID="dc.790" ADMID="premis.790 entity.790">
+            <METS:fptr FILEID="file379"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

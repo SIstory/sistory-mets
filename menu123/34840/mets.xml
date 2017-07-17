@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/34840"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2015-11-26T10:51:08"
+                 LASTMODDATE="2015-12-08T11:20:54"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.6" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.34840" GROUPID="34840">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="eng">»Last Socialist Parliament in Slovenia - pale "ratification body" or important political decision maker«</dcterms:title>
+            <dcterms:alternative xml:lang="slv">Slovenski socialistični parlament na predvečer razpada jugoslovanske federacije – bledo "ratifikacijsko telo" ali važen politični odločevalec?</dcterms:alternative>
+            <dcterms:creator>Gašparič, Jure</dcterms:creator>
+            <dcterms:description xml:lang="slv">Skupščina socialistične republike Slovenije je bila še leta 1986, na predvečer razpada jugoslovanske federacije, precej dolgočasen organ, zaprt v uradniško-formalistične okvirje. Sestavljali so jo na specifičen posredni način izvoljeni neprofesionalni delegati brez večjega družbenega vpliva. Toda prav ta skupščina je nato nekaj let kasneje sprejela več ključnih odločitev, ki so uvedle večstrankarski sistem, elemente tržnega gospodarstva in okrepile položaj republike. Zdi se, da je skupščina takrat postala prvi faktor tranzicije in da je prav ona zamajala jugoslovansko federacijo. Toda taka ocena se vendarle ni uveljavila. Njena vloga deluje nejasno. Izhajajoč iz tega avtor v prispevku išče odgovor na vprašanje: Kakšen organ je bila socialistična skupščina? Pri tem najprej predstavi genezo jugoslovanskega skupščinskega sistema in njegove temeljne značilnosti, nato pa obravnava tri različne ravni oz. možne poglede na skupščino: pravno raven, percepcijsko raven (kako so ljudje dojemali skupščino) in raven notranjih mehanizmov (kako se je spreminjala parlamentarna razprava).</dcterms:description>
+            <dcterms:description xml:lang="eng">In 1986, on the eve of the dissolution of the Yugoslav Federation, the Assembly of the Socialist Republic of Slovenia was a rather boring authority, restricted to the bureaucratic and formalist framework. It consisted of non-professional delegates without significant social influence, elected in a specific indirect manner. However, it was this very Assembly that passed several key decisions a few years later, leading to the introduction of a multi-party system and elements of market economy, as well as strengthening the position of the republic. It seems that at the time this Assembly became the primary factor of transition and that it was this very institution that destabilised the Yugoslav federation. However, such an evaluation has nevertheless not asserted itself. The role of the socialist Assembly appears vague. Consequently the author, in his contribution, seeks to answer the following question: What sort of an authority body was the socialist Assembly? Initially the author presents the genesis of the Yugoslav Assembly system and its basic characteristics, and then he explores the three different levels or possible outlooks on the Assembly: legal level, perceptual level (how people saw the Assembly), and the level of internal mechanisms (how the parliamentary discussions changed).</dcterms:description>
+            <dcterms:subject xml:lang="slv">socialistični parlament</dcterms:subject>
+            <dcterms:subject xml:lang="slv">Jugoslavija</dcterms:subject>
+            <dcterms:subject xml:lang="slv">Slovenija</dcterms:subject>
+            <dcterms:subject xml:lang="slv">razpad</dcterms:subject>
+            <dcterms:subject xml:lang="slv">1989</dcterms:subject>
+            <dcterms:subject xml:lang="eng">socialist parliament</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Yugoslavia</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Slovenia</dcterms:subject>
+            <dcterms:subject xml:lang="eng">dissolution</dcterms:subject>
+            <dcterms:subject xml:lang="eng">1989</dcterms:subject>
+            <dcterms:publisher>Inštitut za novejšo zgodovino, Ljubljana</dcterms:publisher>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2015-10-16</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">MovingImage</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">eng</dcterms:language>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.34840">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>34840</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/34840</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.34840">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Skupščina socialistične
+                                    republike Slovenije je bila še leta 1986, na predvečer razpada
+                                    jugoslovanske federacije, precej dolgočasen organ, zaprt v
+                                    uradniško-formalistične okvirje. Sestavljali so jo na specifičen
+                                    posredni način izvoljeni neprofesionalni delegati brez večjega
+                                    družbenega vpliva. Toda prav ta skupščina je nato nekaj let
+                                    kasneje sprejela več ključnih odločitev, ki so uvedle
+                                    večstrankarski sistem, elemente tržnega gospodarstva in okrepile
+                                    položaj republike. Zdi se, da je skupščina takrat postala prvi
+                                    faktor tranzicije in da je prav ona zamajala jugoslovansko
+                                    federacijo. Toda taka ocena se vendarle ni uveljavila. Njena
+                                    vloga deluje nejasno. Izhajajoč iz tega avtor v prispevku išče
+                                    odgovor na vprašanje: Kakšen organ je bila socialistična
+                                    skupščina? Pri tem najprej predstavi genezo jugoslovanskega
+                                    skupščinskega sistema in njegove temeljne značilnosti, nato pa
+                                    obravnava tri različne ravni oz. možne poglede na skupščino:
+                                    pravno raven, percepcijsko raven (kako so ljudje dojemali
+                                    skupščino) in raven notranjih mehanizmov (kako se je spreminjala
+                                    parlamentarna razprava). </entity:description>
+               <entity:description xml:lang="eng"> In 1986, on the eve of
+                                    the dissolution of the Yugoslav Federation, the Assembly of the
+                                    Socialist Republic of Slovenia was a rather boring authority,
+                                    restricted to the bureaucratic and formalist framework. It
+                                    consisted of non-professional delegates without significant
+                                    social influence, elected in a specific indirect manner.
+                                    However, it was this very Assembly that passed several key
+                                    decisions a few years later, leading to the introduction of a
+                                    multi-party system and elements of market economy, as well as
+                                    strengthening the position of the republic. It seems that at the
+                                    time this Assembly became the primary factor of transition and
+                                    that it was this very institution that destabilised the Yugoslav
+                                    federation. However, such an evaluation has nevertheless not
+                                    asserted itself. The role of the socialist Assembly appears
+                                    vague. Consequently the author, in his contribution, seeks to
+                                    answer the following question: What sort of an authority body
+                                    was the socialist Assembly? Initially the author presents the
+                                    genesis of the Yugoslav Assembly system and its basic
+                                    characteristics, and then he explores the three different levels
+                                    or possible outlooks on the Assembly: legal level, perceptual
+                                    level (how people saw the Assembly), and the level of internal
+                                    mechanisms (how the parliamentary discussions changed). </entity:description>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="video1" USE="EXTERNAL">
+            <METS:FLocat USE="YOUTUBE"
+                         LOCTYPE="URL"
+                         xlink:href="https://www.youtube.com/embed/wxSYbELNwoM"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/34836"/>
+         <METS:div TYPE="entity" DMDID="dc.34840" ADMID="premis.34840 entity.34840">
+            <METS:fptr FILEID="video1"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

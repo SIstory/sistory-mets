@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- samo vzorčni primer za testiranje sistory -->
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+    xmlns:xlink="http://www.w3.org/TR/xlink"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/" 
+    xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+    xmlns:premis="http://www.loc.gov/standards/premis/v1"
+    xmlns:mods="http://www.loc.gov/mods/v3"
+    TYPE="collection" 
+    LABEL="nav"
+    OBJID="http://hdl.handle.net/11686/4"
+    xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd
+    http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd
+    http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd
+    http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+    <METS:metsHdr RECORDSTATUS="Active">
+        <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+            <METS:name>SIstory</METS:name>
+            <METS:note>http://sistory.si/</METS:note>
+        </METS:agent>
+        <METS:agent ROLE="CREATOR" ID="user.11" TYPE="INDIVIDUAL">
+            <METS:name>Pančur, Andrej</METS:name>
+        </METS:agent>
+    </METS:metsHdr>
+    <METS:amdSec ID="collection">
+        <METS:techMD ID="premis.menu4">
+            <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+                <METS:xmlData>
+                    <premis:object>
+                        <premis:objectIdentifier>
+                            <premis:objectIdentifierType>Repository Collection ID</premis:objectIdentifierType>
+                            <premis:objectIdentifierValue>4</premis:objectIdentifierValue>
+                        </premis:objectIdentifier>
+                        <premis:objectIdentifier>
+                            <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                            <premis:objectIdentifierValue>11686/menu4</premis:objectIdentifierValue>
+                        </premis:objectIdentifier>
+                        <premis:objectCategory>Collection</premis:objectCategory>
+                    </premis:object>
+                </METS:xmlData>
+            </METS:mdWrap>
+        </METS:techMD>
+        <METS:techMD ID="collection.menu4">
+            <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="COLLECTION" MIMETYPE="text/xml">
+                <METS:xmlData xmlns:collection="http://sistory.si/schema/sistory/v3/collection" xsi:schemaLocation="http://sistory.si/schema/sistory/v3/collection ../../v3/collection.1.0.xsd">
+                    <collection:title xml:lang="slv">SIstory</collection:title>
+                    <collection:title xml:lang="eng">SIstory</collection:title>
+                    <collection:wholeContent>false</collection:wholeContent>
+                    <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                    <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                </METS:xmlData>
+            </METS:mdWrap>
+        </METS:techMD>
+    </METS:amdSec>
+    <METS:structMap TYPE="primary" LABEL="SIstory" xmlns:xlink="http://www.w3.org/1999/xlink">
+        <METS:div TYPE="collection" ADMID="collection">
+            <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/menu4"/>
+            <METS:div TYPE="collection">
+                <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/menu2"/>
+            </METS:div>
+        </METS:div>
+    </METS:structMap>
+</METS:mets>

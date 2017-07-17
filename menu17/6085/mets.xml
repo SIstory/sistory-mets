@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/6085"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2012-08-30T07:06:26"
+                 LASTMODDATE="2017-02-13T12:40:12"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.6085" GROUPID="6085">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="slv">Občina Ravne na Koroškem</dcterms:title>
+            <dcterms:title xml:lang="slv">Etnološka topografija slovenskega etničnega ozemlja - 20. stoletje</dcterms:title>
+            <dcterms:creator>Oder, Karla</dcterms:creator>
+            <dcterms:description xml:lang="slv">Etnološki topografski pregled za območje občine Ravne je člen v vrsti podobnih študij za različne dele slovenskega etničnega ozemlja. Slovenski etnologi smo si namreč pred približno desetletjem naložili, da bomo na takšen način preučili vse občine v Sloveniji in bolj ali manj ustrezna območja v zamejstvu. Topografski pregledi naj bi bili med drugim podlaga za bodočo sintezo z naslovom Način življenja Slovencev v 20. stoletju. Danes moramo, žal, ugotoviti, da te obsežne naloge nikakor ne bomo mogli opraviti v celoti. Pred objavo pričujoče raziskave so izšli topografski pregledi za občine Cerknica, Črnomelj, Domžale, Gornja Radgona, Kočevje, Lendava, Ljubljana Bežigrad, Ljutomer, Murska Sobota, Sevnica, Škofja Loka, Šmarje pri Jelšah in za zamejski območji Rož in Slovensko Porabje. Topografija Raven Karle Oder za občino Ravne je tako petnajsta. Nekaj obravnav je še v pripravi za natis. S tem bo opravljena približno četrtina naloge. Razlogi za predčasen zaključek dela so tako objektivni kot subjektivni, vsekakor pa se zaradi dolgotrajnosti načrta zmanjšuje možnost vsebinske primerjave med posamičnimi območji, kar je bil na začetku naš poseben namen in cilj. Vsi zvezki so namreč strukturirani po enotnem na rtu.</dcterms:description>
+            <dcterms:tableOfContents xml:lang="slv">VSEBINAPREDGOVOR ...... ........................................................................................... 6OPREDELITEV OBMOČJA .......................................................................... 9NOTRANJI USTROJ .................................................................................... 13Geografski položaj ............................................................................. 13Jezik .................................................................................................... 14Naselja in zemljiška razdelitev .......................................................... 15Politično upravoa delitev ................................................................... 19Sodna območja in javoa varnost ........................................................ 23Cerkveno-upravni okviri .................................................................... 24Pokopal šča ........................................................................................ 26Zdravstvena in živinozdravstvena služba ........................................ .. 27Pošte in poštni okoliši ........................................................................ 32Šolstvo in šolanje ..................................................................... .......... 36Organizirana izobraževalna dejavnost zunaj rednega šolanja ........... 44Promet in prometne zveze .................................................. .. .............. 49Sedeži denarnih zavodov ................................................................... 53Društva in društvena dejavnost .......................................................... 55Trgovanje ........................................................................................... 69Gosti nska dejavnost ........................................................................... 73Kulturna dejavnost ............................................................................. 74Šport in zabavišča .............................................................................. 80Turistični in božjepotni kraji .............................................................. 81Območja počitniških hišic ................................................................. 84Vključenost območja v regije širšega značaja ................................... 84Odročni kraji in manj razvita območja .............................................. 85Izrazitejše lokal ne znači lnosti ............................................................ 85Izbrani kraji ........................................................................................ 86DEMOGRAFSKJ RAZVOJ OBMOČJA ...................................................... 88Izbrani kraji ........................................................................................ 92GOSPODARS KJ RAZVOJ ........................................................................... 94Kmetijstvo .......................................................................................... 94Polj edeJstvo ......................... : .............................................................. 96Živi noreja ......................................................................................... 100Govedoreja ................................................................................ 101Prašiče reja ................................................................................. 103včerej ...................................................................................... 104Konjerej. .. ................................................................................. 105 Kozjereja ............................... ........ ............................................ 105Perutninarstvo ...... ...................................................................... 105Vinogradništvo ................................................................... .............. 106Hmeljarstvo ... .......... ..................................... .................................... 106Vrti rstv o ..................... .............. ........................... ........................ 106Sadjarstvo ..................................... .......................................... .......... 107Čebelarstv o ................ ....................... .. .............. ... ................. .... ........ 108Obrt in rokodelstvo .. ........................ ................................ ................ 109Rudarstvo, železarstvo in druge dejavnOSIi .......................... .. ......... 116Rudnik svinca v Mežici ............................................................ .. 116Premogovniki ............................................................................. 119železarstvo ................... ........... .............. ..................... ............... 120Druga industrija ....................................... ....... ........................... 124Gozdarstvo ..... ...................... ..... ........ ......................... .... .................. 128Trgovina .................. ......... .. ......... ........... ........ .................................. 131Turizem .. .......... .. ....................... .............................. ................... ...... 134Lov in ribolov .............. .... ........................ .. .......... ............................. 137Nabiralništvo ........................................... ............. ......... ................... 139Promet ... ........................................................................................... 142Izbrani kraji ................... ......... ........................................................ .. 144SPREMIN1AN1E POKLICNE SESTAVE PREBIVALCEV ..................... 162Izbrani kraji ......... ...... ...................... ..................... ........................ .... 167SPREMIN1AN1E SOCIALNE SESTAVE PREBIVALCEV ..................... 169Izbrani kraji ....................... ..................................... .......................... 174UVAJANJE NOVOSTI ................ .................... ........ .. .......... ........ _ ........ ..... 176Kmeč o gospodarstvo .............. .... ................................................. .. . 176Rokodelsko-obrtna dejav nost ....... ........................................... ........ 188Stavba rstvo .................................... ........................ ........................... 191Preskrba z vodo ............ ..... ..................... ................... .... ........... ........ 201Preskrba z rično energijo .......... .. ...................... ........................ 203Stanovanjska oprema ..... ................ .. ... ..... .. .................. ........... .. ...... . 206Komunikacijska sredstva .. ............................................................... 211Naša ............... ....................... ................................................ ... ......... 214Prehrana .................... ........................... ............................................. 223RAZKR0J IN STOPJ1A OHRAN1ENOSTI TRADICIONALNEKULTURNE PODOBE .................... .................. ............. ........ ......... .. .. ....... 228Poljedelstvo in živinoreja ...... .. ........................... .............................. 228ač a delavnost in tradicionalna obrt .. ............................ .. ........ .. 231Noša ............................................ ... ...... ............................................. 234 Prehrana ...................................................................................... ...... 237Stavbarstvo .................................................. ..................................... 241Stanovanjska oprema ....................................................................... 245Skupnosti .......................................................................................... 249Šege živ Ijenjskega kroga .................................................. ............... 250Šege letnega ali koledarskega kroga ................................ ................ 266Delovne šege ..................................................... ............................ ... 281Verovanje ......................................................................................... 288Zdravilstvo ....................................................................................... 290Ples, petje in igranje ......................................... ................................ 297Likovno obzorje ........................................ ................................ ...... . 301E1NOLOŠKA PREUČENOST OBMOČJA IN PREDLOGI .................... 304SLOVAR NEKATERIH NAREČNIH BESED ........................................... 307UTERATURA IN VIRI .. ........................................... ........... ........ .............. 318INFORMATORJI ................... ..................................................................... 323</dcterms:tableOfContents>
+            <dcterms:subject xml:lang="slv">Ravne na Koroškem</dcterms:subject>
+            <dcterms:subject xml:lang="slv">etnološka topografija</dcterms:subject>
+            <dcterms:subject xml:lang="slv">domoznanstvo</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Ravne na Koroškem</dcterms:subject>
+            <dcterms:subject xml:lang="eng">ethnological topography</dcterms:subject>
+            <dcterms:subject xml:lang="eng">ethnology</dcterms:subject>
+            <dcterms:publisher>Znanstveni inštitut Filozofske fakultete, Ljubljana</dcterms:publisher>
+            <dcterms:date xsi:type="dcterms:W3CDTF">1992</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">Text</dcterms:type>
+            <dcterms:identifier>COBISS.SI-ID 28871680</dcterms:identifier>
+            <dcterms:language xsi:type="dcterms:ISO639-3">slv</dcterms:language>
+            <dcterms:license xsi:type="dcterms:URI">http://creativecommons.org/licenses/by-nc-nd/2.5/si/</dcterms:license>
+            <dcterms:license xml:lang="slv">Priznanje avtorstva-Nekomercialo-Brez predelav 2.5 Slovenija (CC BY-NC-ND 2.5 SI)</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.6085">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>6085</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/6085</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.6085">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Etnološki topografski
+                                    pregled za območje občine Ravne je člen v vrsti podobnih študij
+                                    za različne dele slovenskega etničnega ozemlja. Slovenski
+                                    etnologi smo si namreč pred približno desetletjem naložili, da
+                                    bomo na takšen način preučili vse občine v Sloveniji in bolj ali
+                                    manj ustrezna območja v zamejstvu. Topografski pregledi naj bi
+                                    bili med drugim podlaga za bodočo sintezo z naslovom Način
+                                    življenja Slovencev v 20. stoletju. Danes moramo, žal,
+                                    ugotoviti, da te obsežne naloge nikakor ne bomo mogli opraviti v
+                                    celoti. Pred objavo pričujoče raziskave so izšli topografski
+                                    pregledi za občine Cerknica, Črnomelj, Domžale, Gornja Radgona,
+                                    Kočevje, Lendava, Ljubljana Bežigrad, Ljutomer, Murska Sobota,
+                                    Sevnica, Škofja Loka, Šmarje pri Jelšah in za zamejski območji
+                                    Rož in Slovensko Porabje. Topografija Raven Karle Oder za občino
+                                    Ravne je tako petnajsta. Nekaj obravnav je še v pripravi za
+                                    natis. S tem bo opravljena približno četrtina naloge. Razlogi za
+                                    predčasen zaključek dela so tako objektivni kot subjektivni,
+                                    vsekakor pa se zaradi dolgotrajnosti načrta zmanjšuje možnost
+                                    vsebinske primerjave med posamičnimi območji, kar je bil na
+                                    začetku naš poseben namen in cilj. Vsi zvezki so namreč
+                                    strukturirani po enotnem na rtu. </entity:description>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="file2462"
+                    OWNERID="OBCINA_RAVNE_NA_KOROSKEM.pdf"
+                    MIMETYPE="application/pdf">
+            <METS:FLocat LOCTYPE="HANDLE" xlink:href="https://hdl.handle.net/11686/file2462"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="primary">
+      <METS:div TYPE="collection">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/menu17"/>
+         <METS:div TYPE="entity" DMDID="dc.6085" ADMID="premis.6085 entity.6085">
+            <METS:fptr FILEID="file2462"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

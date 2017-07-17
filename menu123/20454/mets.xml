@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/20454"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2014-01-08T15:08:53"
+                 LASTMODDATE="2017-02-07T14:23:38"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.20454" GROUPID="20454">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="slv">Bilo je nekoč v Jugoslaviji: prizori iz političnega dogajanja</dcterms:title>
+            <dcterms:alternative xml:lang="eng">Once Upon a Time in Yugoslavia: Depictions of Political Developments</dcterms:alternative>
+            <dcterms:creator>Čepič, Zdenko</dcterms:creator>
+            <dcterms:abstract xml:lang="slv">Jugoslovanska država, sedaj čedalje pogosteje označena kot druga Jugoslavija(z namenom izogniti se političnim in ideološkim oznakam), v kateri smoživeli Slovenci skupaj z drugimi južnoslovanskimi narodi in narodnostmi tudineslovanskega porekla, je bila, kot smo ji radi rekli, naša skupna »širša domovina«. Druga Jugoslavija (Federativna Ljudska Republika Jugoslavija/SocialističnaFederativna Republika Jugoslavija) je bila za razliko od prve (centralističnakraljevina) republika, organizirana kot federacija, s socialističnim političnimsistemom. Ustavno je bila »skupnost enakopravnih narodov, ki so na osnovipravice do samoodločbe, vključno s pravico do odcepitve izrazili svojo voljo,živeti skupno v federativni državi«. Bila je »last« narodov, ki so jo ustvarili,kar so po njenem razpadu ugotovili tudi izbrani mednarodni pravniki, ter da jeJugoslavija razpadla na osnovi lastne ustave. Pogled na Jugoslavijo se je skozičas spreminjal. Najprej je bilo prisotno nekritično navdušenje vseh, na koncupa kritikantsko nad vsem in to tudi domala vseh. Vsakega s svojega stališča.Na drugo Jugoslavijo so bili pogledi različni od osebe do osebe, glede na generacijoin predvsem na narodno oziroma republiško pripadnost. Vsak narod je vnjej našel kaj pozitivnega zase in vsak je imel kakšno zamero. Dejstva o državiso bila enotna, poudarki o njej dokaj različni, sodbe in vrednotenje pa so bilitudi popolnoma nasprotni. Vsak narod je gledal in ocenjeval svoje bivanje v tejdržavi iz svojega nacionalnega stališča. Druga Jugoslavija je bila država, ki ninikogar, njenih državljanov niti tujine, težko pustila brez opredelitve.Nastala je v času druge svetovne vojne kot nadaljevanje jugoslovanske države,a na drugačnih osnovah, kot federacija zgrajena na načelu pravice narodovdo samoodločbe. Bila je rezultat revolucije, spremembe politične oblasti oziromaosvojitve oblasti političnega gibanja, ki je organiziralo odpor proti okupatorjem.Nastala je na osnovi nacionalnega soglasja, na osnovi nacionalneganesoglasja pa je doživela svoj konec. Tako kot so se narodi združili v državona osnovi načela pravice do samoodločbe, so se na osnovi istega načela tudirazdružili. Razdruževanje je v nekaterih predelih nekdanje jugoslovanske državespremljala vojna, ki je bila zelo kruta in tudi z genocidnimi značilnostmi.Ljubezni, v političnem žargonu imenovani »bratstvo in enotnost«, je sledilo sovraštvo.Med narodi in ljudmi.Druga jugoslovanska država je bila organizirana federativno, po načelu enakopravnostinarodov in njihovih politično upravnih enot, t. i. republik. Te soimele omejeno stopnjo državnosti, ki se je v celotnem obdobju glede na spremembeustave večala.Razlike med republikami so bile zlasti na področju gospodarske razvitosti.Jugoslavija je bila gospodarsko heterogena država; njeni sestavni deli so zatoimeli različne poglede na skupno gospodarsko politiko in razvojne prioritete. Napodročju gospodarstva so se najprej pokazale razlike v pogledih centralnih oblastiin republik. Vlogo republik je v njihovem razvoju omejeval centralizem, zlastiv gospodarstvu (plansko gospodarstvo, centralizirana investicijska politika).To je povzročilo nasprotovanja do državnega centra predvsem v gospodarskorazvitejših republikah, ki so zaradi načela egalitizma začele gospodarsko stagniratiin tudi zaostajati (predvsem Slovenija). Slovenija kot gospodarsko najrazvitejšidel skupne države je zato jasno nasprotovala centralizmu že od konca petdesetihlet. To je bilo vodilo slovenske politike do konca jugoslovanske države.Slovenija kot gospodarsko najrazvitejša republika je tesno povezovala uresničevanjenacionalnih gospodarskih interesov z nadaljevanjem decentralizacije pristojnostiin odločanja ter krepitvijo blagovno tržnih in odnosov. Iz opozarjanjana potrebo po večji vlogi republik je izšlo politično vprašanje o vlogi in položajurepublik v odnosu do zveze, kar se je kazalo v reformah federacije. Pogojeza večjo vlogo republik pri odločanju in usmerjanju svoje gospodarske politikeje izboljšala ustava iz leta 1974, ki je Jugoslavijo preoblikovala v gospodarskoskupnost (skupni trg), omogočila konstituiranje t. i. nacionalnih gospodarstev inuresničevanje njihovih avtarkičnih teženj. Slovenija je znala nove razmere, nakatere je v predhodnem desetletju odločilno vplivala, izkoristiti. V zadnjem desetletjuobstoja jugoslovanske države je Slovenija povečala obseg medsebojnemenjave z drugimi republikami in jim je prodala več blaga in storitev, kot jih jeod njih kupila. Na področju kulture in izobraževanja so se centralistične težnjekazale v različnih obdobjih različno, močno pa so se okrepile v začetku osemdesetihlet, kar sta slovenska javnost in politika ostro zavrnili.</dcterms:abstract>
+            <dcterms:abstract xml:lang="eng">The Yugoslav state, now more and more often referred to as the Second Yugoslavia(with the aim of avoiding political and ideological implications), whereSlovenians lived together with other South Slavic nations and also non-Slavicnationalities, was – we liked to call it that – our common »wider homeland«.Unlike the First Yugoslavia (Centralistic monarchy), the Second Yugoslavia(Federal People’s Republic of Yugoslavia/Socialist Federal Republic of Yugoslavia)was a republic, organised as a federation with a socialist political system.Constitutionally it was a »community of equal nations which had expressed theirwill for self-determination. Together with their right to secession they also expressedtheir wish to live together in a federal state«. Yugoslavia was »owned«by the nations that created it. After its demise that was also realised by prominentinternational lawyers – that Yugoslavia had fallen apart on the basis of itsown constitution. The outlook on Yugoslavia kept changing through time. In thebeginning it raised the enthusiasm of everyone, and in the end almost everybodywas overly critical of everything. Everyone from their own point of view. Theoutlook on the Second Yugoslavia differed from person to person, dependingon the generations and especially on the national or republican adherence. InYugoslavia every nation found something positive, but everyone also blamed itfor something. The facts about the common state were uniform, the emphasisesabout it quite different, while judgements and evaluations were sometimes completelyopposite. Each nation saw and evaluated their existence in the contextof this state from their national viewpoint. The Second Yugoslavia was a statewhich hardly left anyone – either its citizens or foreign countries – indifferent.It was created during World War II as a continuation of the fi rst Yugoslavstate, but on different bases – as a federation established on the principle of theright of its nations to self-determination. It resulted from a revolution, a changeof political authorities or the rise of the political movement which had organisedthe resistance against occupiers. It was established on the basis of national consensus,and on the basis of national disagreement it saw its end. Like differentnations created the state on the principle of the right to self-determination, theyalso dissolved it on the basis of the same principle. In certain parts of the formerYugoslav state the dissolution was accompanied by war: extremely cruel andwith genocidal characteristics. Love – in the political jargon dubbed as »fraternityand unity«, was followed by hatred. Hatred between nations and people.Second Yugoslav state was a federation in the sense of the equality of nationsand their political administrative units, the so-called republics. Republics had alimited degree of statehood, increasing throughout the whole period as the constitutionchanged. Differences between republics were especially evident in thefi eld of economic development. Yugoslavia was economically heterogeneous;its parts had different views of the common economic policy and developmentpriorities. In the fi eld of economy the differences in the views of central authoritiesand republics became evident at fi rst. The role of republics in their own developmentwas limited by centralism, especially in economy (planned economy,centralised investment policy). This resulted in the opposition towards the statecentre, especially in economically more developed republics, which started stagnatingand falling behind (especially Slovenia) due to egalitarianism. Sloveniaas the economically most developed part of the common state openly opposedcentralism ever since the end of the 1950s. This was the focus of Slovenianpolicy until the end of the Yugoslav state. Slovenia as the economically most developed republic associated the realisation of national economic interests withcontinued decentralisation of competences, decision-making and strengtheningof trade relations. Emphasising the need for a greater role of republics gave riseto a political question of the role and position of republics towards the federation,which was evident from the federal reforms. The conditions for a greaterrole of republics in the decision-making and steering of their economic policieswere improved by the 1974 constitution, which transformed Yugoslavia into aneconomic community (common market), allowing for the establishment of theso-called national economies and the implementation of their autarkic tendencies.Slovenia knew how to take advantage of the circumstances it had influencedsignificantly in the previous decade. In the last decade of Yugoslavia'sexistence, Slovenia increased the volume of mutual exchange with the otherrepublics and sold more goods and services than it bought. In the fi eld of cultureand education, the centralist aspirations were different in various periods, butstrengthened considerably in the beginning of the 1980s, which the Slovenianpublic and politics rejected resolutely.</dcterms:abstract>
+            <dcterms:subject xml:lang="slv">Slovenija</dcterms:subject>
+            <dcterms:subject xml:lang="slv">zgodovina</dcterms:subject>
+            <dcterms:subject xml:lang="slv">Jugoslavija</dcterms:subject>
+            <dcterms:subject xml:lang="slv">posvetovanja</dcterms:subject>
+            <dcterms:subject xml:lang="slv">1941-1991</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Slovenia</dcterms:subject>
+            <dcterms:subject xml:lang="eng">history</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Yugoslavia</dcterms:subject>
+            <dcterms:subject xml:lang="eng">symposium</dcterms:subject>
+            <dcterms:subject xml:lang="eng">1941-1991</dcterms:subject>
+            <dcterms:publisher>Inštitut za novejšo zgodovino, Ljubljana</dcterms:publisher>
+            <dcterms:publisher>Muzej novejše zgodovine Slovenije, Ljubljana</dcterms:publisher>
+            <dcterms:contributor>Damijan Guštin (moderator)</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2013-11-28</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">MovingImage</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">slv</dcterms:language>
+            <dcterms:license xsi:type="dcterms:URI">http://creativecommons.org/licenses/by-nc-nd/2.5/si/</dcterms:license>
+            <dcterms:license xml:lang="slv">Priznanje avtorstva-Nekomercialo-Brez predelav 2.5 Slovenija (CC BY-NC-ND 2.5 SI)</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.20454">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>20454</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/20454</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.20454">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="slv">
+                  <p xmlns="http://sistory.si/schema/sistory/v3/entity">Jugoslovanska država, sedaj čedalje pogosteje označena kot
+                                        druga Jugoslavija(z namenom izogniti se političnim in
+                                        ideološkim oznakam), v kateri smoživeli Slovenci skupaj z
+                                        drugimi južnoslovanskimi narodi in narodnostmi
+                                        tudineslovanskega porekla, je bila, kot smo ji radi rekli,
+                                        naša skupna »širša domovina«. Druga Jugoslavija (Federativna
+                                        Ljudska Republika Jugoslavija/SocialističnaFederativna
+                                        Republika Jugoslavija) je bila za razliko od prve
+                                        (centralističnakraljevina) republika, organizirana kot
+                                        federacija, s socialističnim političnimsistemom. Ustavno je
+                                        bila »skupnost enakopravnih narodov, ki so na osnovipravice
+                                        do samoodločbe, vključno s pravico do odcepitve izrazili
+                                        svojo voljo,živeti skupno v federativni državi«. Bila je
+                                        »last« narodov, ki so jo ustvarili,kar so po njenem razpadu
+                                        ugotovili tudi izbrani mednarodni pravniki, ter da
+                                        jeJugoslavija razpadla na osnovi lastne ustave. Pogled na
+                                        Jugoslavijo se je skozičas spreminjal. Najprej je bilo
+                                        prisotno nekritično navdušenje vseh, na koncupa kritikantsko
+                                        nad vsem in to tudi domala vseh. Vsakega s svojega
+                                        stališča.Na drugo Jugoslavijo so bili pogledi različni od
+                                        osebe do osebe, glede na generacijoin predvsem na narodno
+                                        oziroma republiško pripadnost. Vsak narod je vnjej našel kaj
+                                        pozitivnega zase in vsak je imel kakšno zamero. Dejstva o
+                                        državiso bila enotna, poudarki o njej dokaj različni, sodbe
+                                        in vrednotenje pa so bilitudi popolnoma nasprotni. Vsak
+                                        narod je gledal in ocenjeval svoje bivanje v tejdržavi iz
+                                        svojega nacionalnega stališča. Druga Jugoslavija je bila
+                                        država, ki ninikogar, njenih državljanov niti tujine, težko
+                                        pustila brez opredelitve.Nastala je v času druge svetovne
+                                        vojne kot nadaljevanje jugoslovanske države,a na drugačnih
+                                        osnovah, kot federacija zgrajena na načelu pravice narodovdo
+                                        samoodločbe. Bila je rezultat revolucije, spremembe
+                                        politične oblasti oziromaosvojitve oblasti političnega
+                                        gibanja, ki je organiziralo odpor proti okupatorjem.Nastala
+                                        je na osnovi nacionalnega soglasja, na osnovi
+                                        nacionalneganesoglasja pa je doživela svoj konec. Tako kot
+                                        so se narodi združili v državona osnovi načela pravice do
+                                        samoodločbe, so se na osnovi istega načela tudirazdružili.
+                                        Razdruževanje je v nekaterih predelih nekdanje jugoslovanske
+                                        državespremljala vojna, ki je bila zelo kruta in tudi z
+                                        genocidnimi značilnostmi.Ljubezni, v političnem žargonu
+                                        imenovani »bratstvo in enotnost«, je sledilo sovraštvo.Med
+                                        narodi in ljudmi.Druga jugoslovanska država je bila
+                                        organizirana federativno, po načelu enakopravnostinarodov in
+                                        njihovih politično upravnih enot, t. i. republik. Te soimele
+                                        omejeno stopnjo državnosti, ki se je v celotnem obdobju
+                                        glede na spremembeustave večala.Razlike med republikami so
+                                        bile zlasti na področju gospodarske razvitosti.Jugoslavija
+                                        je bila gospodarsko heterogena država; njeni sestavni deli
+                                        so zatoimeli različne poglede na skupno gospodarsko politiko
+                                        in razvojne prioritete. Napodročju gospodarstva so se
+                                        najprej pokazale razlike v pogledih centralnih oblastiin
+                                        republik. Vlogo republik je v njihovem razvoju omejeval
+                                        centralizem, zlastiv gospodarstvu (plansko gospodarstvo,
+                                        centralizirana investicijska politika).To je povzročilo
+                                        nasprotovanja do državnega centra predvsem v
+                                        gospodarskorazvitejših republikah, ki so zaradi načela
+                                        egalitizma začele gospodarsko stagniratiin tudi zaostajati
+                                        (predvsem Slovenija). Slovenija kot gospodarsko
+                                        najrazvitejšidel skupne države je zato jasno nasprotovala
+                                        centralizmu že od konca petdesetihlet. To je bilo vodilo
+                                        slovenske politike do konca jugoslovanske države.Slovenija
+                                        kot gospodarsko najrazvitejša republika je tesno povezovala
+                                        uresničevanjenacionalnih gospodarskih interesov z
+                                        nadaljevanjem decentralizacije pristojnostiin odločanja ter
+                                        krepitvijo blagovno tržnih in odnosov. Iz opozarjanjana
+                                        potrebo po večji vlogi republik je izšlo politično vprašanje
+                                        o vlogi in položajurepublik v odnosu do zveze, kar se je
+                                        kazalo v reformah federacije. Pogojeza večjo vlogo republik
+                                        pri odločanju in usmerjanju svoje gospodarske politikeje
+                                        izboljšala ustava iz leta 1974, ki je Jugoslavijo
+                                        preoblikovala v gospodarskoskupnost (skupni trg), omogočila
+                                        konstituiranje t. i. nacionalnih gospodarstev
+                                        inuresničevanje njihovih avtarkičnih teženj. Slovenija je
+                                        znala nove razmere, nakatere je v predhodnem desetletju
+                                        odločilno vplivala, izkoristiti. V zadnjem desetletjuobstoja
+                                        jugoslovanske države je Slovenija povečala obseg
+                                        medsebojnemenjave z drugimi republikami in jim je prodala
+                                        več blaga in storitev, kot jih jeod njih kupila. Na področju
+                                        kulture in izobraževanja so se centralistične težnjekazale v
+                                        različnih obdobjih različno, močno pa so se okrepile v
+                                        začetku osemdesetihlet, kar sta slovenska javnost in
+                                        politika ostro zavrnili.</p>
+               </entity:description>
+               <entity:description xml:lang="eng">
+                  <p xmlns="http://sistory.si/schema/sistory/v3/entity">The Yugoslav state, now more and more often referred to as
+                                        the Second Yugoslavia(with the aim of avoiding political and
+                                        ideological implications), whereSlovenians lived together
+                                        with other South Slavic nations and also
+                                        non-Slavicnationalities, was – we liked to call it that –
+                                        our common »wider homeland«.Unlike the First Yugoslavia
+                                        (Centralistic monarchy), the Second Yugoslavia(Federal
+                                        People’s Republic of Yugoslavia/Socialist Federal Republic
+                                        of Yugoslavia)was a republic, organised as a federation with
+                                        a socialist political system.Constitutionally it was a
+                                        »community of equal nations which had expressed theirwill
+                                        for self-determination. Together with their right to
+                                        secession they also expressedtheir wish to live together in
+                                        a federal state«. Yugoslavia was »owned«by the nations that
+                                        created it. After its demise that was also realised by
+                                        prominentinternational lawyers – that Yugoslavia had fallen
+                                        apart on the basis of itsown constitution. The outlook on
+                                        Yugoslavia kept changing through time. In thebeginning it
+                                        raised the enthusiasm of everyone, and in the end almost
+                                        everybodywas overly critical of everything. Everyone from
+                                        their own point of view. Theoutlook on the Second Yugoslavia
+                                        differed from person to person, dependingon the generations
+                                        and especially on the national or republican adherence.
+                                        InYugoslavia every nation found something positive, but
+                                        everyone also blamed itfor something. The facts about the
+                                        common state were uniform, the emphasisesabout it quite
+                                        different, while judgements and evaluations were sometimes
+                                        completelyopposite. Each nation saw and evaluated their
+                                        existence in the contextof this state from their national
+                                        viewpoint. The Second Yugoslavia was a statewhich hardly
+                                        left anyone – either its citizens or foreign countries –
+                                        indifferent.It was created during World War II as a
+                                        continuation of the fi rst Yugoslavstate, but on different
+                                        bases – as a federation established on the principle of
+                                        theright of its nations to self-determination. It resulted
+                                        from a revolution, a changeof political authorities or the
+                                        rise of the political movement which had organisedthe
+                                        resistance against occupiers. It was established on the
+                                        basis of national consensus,and on the basis of national
+                                        disagreement it saw its end. Like differentnations created
+                                        the state on the principle of the right to
+                                        self-determination, theyalso dissolved it on the basis of
+                                        the same principle. In certain parts of the formerYugoslav
+                                        state the dissolution was accompanied by war: extremely
+                                        cruel andwith genocidal characteristics. Love – in the
+                                        political jargon dubbed as »fraternityand unity«, was
+                                        followed by hatred. Hatred between nations and people.Second
+                                        Yugoslav state was a federation in the sense of the equality
+                                        of nationsand their political administrative units, the
+                                        so-called republics. Republics had alimited degree of
+                                        statehood, increasing throughout the whole period as the
+                                        constitutionchanged. Differences between republics were
+                                        especially evident in thefi eld of economic development.
+                                        Yugoslavia was economically heterogeneous;its parts had
+                                        different views of the common economic policy and
+                                        developmentpriorities. In the fi eld of economy the
+                                        differences in the views of central authoritiesand republics
+                                        became evident at fi rst. The role of republics in their own
+                                        developmentwas limited by centralism, especially in economy
+                                        (planned economy,centralised investment policy). This
+                                        resulted in the opposition towards the statecentre,
+                                        especially in economically more developed republics, which
+                                        started stagnatingand falling behind (especially Slovenia)
+                                        due to egalitarianism. Sloveniaas the economically most
+                                        developed part of the common state openly opposedcentralism
+                                        ever since the end of the 1950s. This was the focus of
+                                        Slovenianpolicy until the end of the Yugoslav state.
+                                        Slovenia as the economically most developed republic
+                                        associated the realisation of national economic interests
+                                        withcontinued decentralisation of competences,
+                                        decision-making and strengtheningof trade relations.
+                                        Emphasising the need for a greater role of republics gave
+                                        riseto a political question of the role and position of
+                                        republics towards the federation,which was evident from the
+                                        federal reforms. The conditions for a greaterrole of
+                                        republics in the decision-making and steering of their
+                                        economic policieswere improved by the 1974 constitution,
+                                        which transformed Yugoslavia into aneconomic community
+                                        (common market), allowing for the establishment of
+                                        theso-called national economies and the implementation of
+                                        their autarkic tendencies.Slovenia knew how to take
+                                        advantage of the circumstances it had
+                                        influencedsignificantly in the previous decade. In the last
+                                        decade of Yugoslavia'sexistence, Slovenia increased the
+                                        volume of mutual exchange with the otherrepublics and sold
+                                        more goods and services than it bought. In the fi eld of
+                                        cultureand education, the centralist aspirations were
+                                        different in various periods, butstrengthened considerably
+                                        in the beginning of the 1980s, which the Slovenianpublic and
+                                        politics rejected resolutely.</p>
+               </entity:description>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="video1" USE="EXTERNAL">
+            <METS:FLocat USE="YOUTUBE"
+                         LOCTYPE="URL"
+                         xlink:href="//www.youtube.com/embed/Odzbxdi49Go"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/20426"/>
+         <METS:div TYPE="entity" DMDID="dc.20454" ADMID="premis.20454 entity.20454">
+            <METS:fptr FILEID="video1"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

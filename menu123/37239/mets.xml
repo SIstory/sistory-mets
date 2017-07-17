@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/37239"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2017-03-13T09:04:01"
+                 LASTMODDATE="2017-03-14T13:22:08"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.81" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.37239" GROUPID="37239">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="eng">Who is Willing to Compromise? Muslims, Serbs and the Frontier in the Nineteenth Century Ottoman Empire</dcterms:title>
+            <dcterms:alternative xml:lang="slv">Kdo je pripravljen na kompromis? Muslimani, Srbi in meja v Osmanskem cesarstvu v devetnajstem stoletju</dcterms:alternative>
+            <dcterms:creator>D. Savić, Bojana</dcterms:creator>
+            <dcterms:subject xml:lang="slv">Muslimani</dcterms:subject>
+            <dcterms:subject xml:lang="slv">Srbi</dcterms:subject>
+            <dcterms:subject xml:lang="slv">Osmansko cesarstvo</dcterms:subject>
+            <dcterms:subject xml:lang="slv">meja</dcterms:subject>
+            <dcterms:subject xml:lang="slv">19. stoletje</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Muslims</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Serbs</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Ottoman Empire</dcterms:subject>
+            <dcterms:subject xml:lang="eng">border</dcterms:subject>
+            <dcterms:subject xml:lang="eng">19th Century</dcterms:subject>
+            <dcterms:publisher>Inštitut za novejšo zgodovino, Ljubljana</dcterms:publisher>
+            <dcterms:publisher>Oddelek za zgodovino Filozofske fakultete Univerze v Ljubljani, Ljubljana</dcterms:publisher>
+            <dcterms:contributor>Marko Zajc</dcterms:contributor>
+            <dcterms:contributor>Jernej Kosi</dcterms:contributor>
+            <dcterms:contributor>Zdenko Čepič</dcterms:contributor>
+            <dcterms:contributor>Neja Blaj Hribar</dcterms:contributor>
+            <dcterms:contributor>Elif Becan</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:Period">start=24.11.2016; end=26.11.2016; name=; scheme=; </dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">MovingImage</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">eng</dcterms:language>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.37239">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>37239</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/37239</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.37239">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> "Ti ljudje (Osmani) bi
+                                    za cesarstvo žrtvovali vse, kar imajo, ljudje ob meji pa so
+                                    pripravljeni žrtvovati še veliko več – ne le svoje premoženje,
+                                    ampak tudi življenje." Beograd kot mesto na mejnem področju med
+                                    Habsburškim imperijem in Osmanskim cesarstvom ob koncu
+                                    devetnajstega stoletja ponazarja, kakšen pomen je imel del
+                                    osmanske družbe ob meji za cesarstvo v zatonu. Prispevek
+                                    obravnava kroniko Ta’rîh-i Vak'a-ı Hayret-nümâ-yı Belgrad ve
+                                    Sırbistan, ki jo je napisal Rašid-bej iz Beograda (okrog leta
+                                    1870) in je edinstven vir podatkov o občutjih provincialnih
+                                    osmanskih muslimanov v obdobju postopnega umika cesarstva iz te
+                                    regije. Namen zadevnega dela ni podati empirične podatke, ampak
+                                    razpravljati o tem, kako je navedeni avtor predstavil dogodke in
+                                    spremembe, ki so zaznamovali regijo v času prevrata in hitre
+                                    preobrazbe. Kaj je meja pomenila Osmanom, katerih družbo so
+                                    delile tudi številne notranje ločnice (muslimani – nemuslimani,
+                                    ‘askerî [privilegirani vojaštvo, uradništvo in duhovščina] –
+                                    re‘âyâ [podložniki, ki so plačevali davke] itd.)? Kaj jim je
+                                    pomenilo "nadzorovati" mejo: je mejno območje služilo zgolj
+                                    ekspanziji? Kako so se muslimanski osmanski prebivalci obmejnega
+                                    področja odzivali na razvoj dogodkov v devetnajstem stoletju, ki
+                                    jim ni le popolnoma onemogočil ekspanzije, ampak tudi vedno bolj
+                                    oteževal zmožnost braniti mejo? V prispevku bomo obravnavali več
+                                    dogodkov, ki razkrivajo družbeno dinamiko in preobrazbo tega
+                                    obmejnega miljeja, značilno za preučevano obdobje, in sicer
+                                    predvsem kot jih je videl Rašid, pri čemer bomo skušali
+                                    konceptualizirati zgodovinsko razsežnost mej in opredeliti pomen
+                                    zgodovinskega diskurza za procese sodobne nacionalistične
+                                    delimitacije. </entity:description>
+               <entity:description xml:lang="eng"> “These people [the
+                                    Ottomans] would sacrifice everything they have for the sake of
+                                    the Empire, but people on the border(land) would sacrifice much
+                                    more, not only their property but also their lives.” Situated on
+                                    the borderland between the Habsburg and the Ottoman Empires, the
+                                    city of Belgrade at the turn of the nineteenth century serves as
+                                    an illustration of the importance that one part of Ottoman
+                                    society on the borderland represented for an empire in decline.
+                                    This paper is about the chronicle Ta’rîh-i Vak'a-ı
+                                    Hayret-nümâ-yı Belgrad ve Sırbistan of Raşid Bey of Belgrade
+                                    (ca. 1870) which is an unique source for provincial Ottoman
+                                    Muslim sensibilities in the age of the empire’s gradual retreat
+                                    from the region. Work in question does not intend to provide
+                                    empirical data but rather to discuss his representation of the
+                                    events and developments that marked the region during a time of
+                                    upheaval and rapid transformation. What did a frontier mean to
+                                    the Ottomans whose society in itself was divided along many
+                                    boundaries from within (Muslim-non Muslim, ‘askerî [privileged
+                                    military, bureaucratic, and religious cadres]- re‘âyâ
+                                    [tax-paying subjects], etc.)? What did it imply “to control” the
+                                    frontier for the Ottomans themselves: is the borderland in
+                                    service of expansion only? How did an Ottoman Muslim resident of
+                                    a borderland society react to the developments in the nineteenth
+                                    century that not only excluded any possibility of expansion but
+                                    also made the ability to defend the frontier increasingly
+                                    difficult? This paper will discuss several events indicative of
+                                    the social dynamics and transformation in this borderland milieu
+                                    peculiar to the era under investigation and--most importantly—as
+                                    seen through Raşid’s eyes, whereby we will make an attempt at
+                                    conceptualizing the historical dimension of the borders as well
+                                    as capturing the significance of the historical discourse for
+                                    the processes of the contemporary nationalist delimitation.
+                                </entity:description>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="video1" USE="EXTERNAL">
+            <METS:FLocat USE="YOUTUBE"
+                         LOCTYPE="URL"
+                         xlink:href="https://www.youtube.com/embed/jvJr0G7kz5A"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37178"/>
+         <METS:div TYPE="entity" DMDID="dc.37239" ADMID="premis.37239 entity.37239">
+            <METS:fptr FILEID="video1"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/14264"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2012-11-30T11:43:54"
+                 LASTMODDATE="2017-02-09T11:09:41"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.14264" GROUPID="14264">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="slv">Posledice represije: smrtne žrtve druge svetovne vojne in zaradi nje na Slovenskem</dcterms:title>
+            <dcterms:title xml:lang="eng">Consequences of Repression: Fatalities during World War II and Deaths Caused by It in Slovenia</dcterms:title>
+            <dcterms:creator>Deželak Barič, Vida</dcterms:creator>
+            <dcterms:abstract xml:lang="eng">Throughout human history, wars have been most closely related to violence. Fatalities as the most extreme and tragic aspect of wartime developments are one of the consequences of violence. This is especially true of World War II, which we refer to as total war. In the European context, with regard to the loss of human lives during World War II and in the immediate post-war period, Slovenia with its estimated 97,000 deaths belongs among the regions severely affected by the war, while in the former Yugoslav context it is average in terms of damage.In Slovenia World War II established a practice of radical violence, whose dynamics depended on the introduction of various systems of occupation and on the combination of various violent processes, following as a result of the resistance against the occupiers, revolution, counter-revolution, collaboration, and civil war. Especially the German occupiers in the Štajerska, Koroška and Gorenjska regions immediately responded to any actions undertaken by the resistance, usually with mass executions of hostages and measures taken against families, for example, internment in the concentration camps, where many of them lost their lives. At first the Italian violence as an attempt to eliminate the partisan movement in the so-called Ljubljana Province and in the Slovenian littoral (Primorska) had not had the same dimensions as the German violence, until it escalated in 1942, especially in the Ljubljana Province (the shooting of hostages, deportations to the concentration camps, and so on).The partisan movement, besides opposing the occupation apparatus, also retaliated against the Slovenian population in case of its actual or suspected collaboration with the occupation authorities. Revolutionary background is especially noticeable in the developments in the Ljubljana Province in the spring and summer of 1942. These processes, leading to the deepening of the internal Slovenian conflict or the civil war (as the counter-revolutionary side also perpetrated various forms of violence against its Slovenian opponents, especially in the Ljubljana Province) were the reason why this area suffered the greatest losses of the population during the occupation and immediately after it. Apart from the aforementioned violence among Slovenians, which gradually but to a lesser extent also engulfed certain other areas in other regions, the occupation authorities, of course, resorted to the most violent of measures until the very end of the occupation. Especially the civilian population often suffered because of the so-called cleansing operations. Thus the occupiers are established as a factor causing the greatest number of fatalities in Slovenia with their completely un- provoked attack against Yugoslavia. This fact remains the same even if we take into account the violent epilogue of World War II with the post-war retaliation of the victorious partisan-revolutionary camp against the counter-revolution and collaboration.</dcterms:abstract>
+            <dcterms:abstract xml:lang="slv">Vojne so v zgodovini človeštva najtesneje povezane z nasiljem. Njegova posledica so tudi smrtne žrtve kot najbolj skrajni in tragični vidik vojnega dogajanja. To velja še zlasti za drugo svetovno vojno, ki jo opredeljujemo kot totalno. Slovenija sodi v evropskem okviru glede izgub človeških življenj med drugo svetovno vojno in neposredno po njej z okoli 97.000 smrtnimi žrtvami med visoko prizadeta območja, v tedanjem v jugoslovanskem okviru pa dosega povprečno stopnjo prizadetosti.Druga svetovna vojna je na Slovenskem vzpostavila prakso radikalnega nasilja, katerega dinamika je bila pogojena z uvedbo različnih okupacijskih sistemov in prepletanjem raznovrstnih nasilnih procesov, ki so temu sledili zaradi odpora okupatorjem, zaradi revolucije, protirevolucije, kolaboracije in državljanske vojne. Zlasti nemški okupator je na Štajerskem, Koroškem in Gorenjskem nemudoma odgovoril na odporniško akcijo predvsem z množičnimi streljanji talcev ter z ukrepi proti družinam, kot je npr. internacija v koncentracijska taborišča, kjer so mnogi izgubili življenja. Italijansko nasilje v poskusih odstranitve partizanstva v Ljubljanski pokrajini in na Primorskem sprva ni doseglo razsežnosti nemškega nasilja, dokler ni v letu 1942 tudi to eskaliralo zlasti v Ljubljanski pokrajini (streljanja talcev, odgoni v koncentracijska taborišča itd.).Partizanstvo je ob svoji temeljni usmeritvi nasproti okupacijskemu aparatu tudi nastopalo proti domačemu prebivalstvu v primerih njegovega dejanskega ali domnevnega sodelovanja z okupacijskimi oblastmi, pri čemer je zlasti v dogajanju v Ljubljanski pokrajini spomladi in poleti 1942 opazno revolucionarno ozadje. Procesi, ki so tekli v smer poglabljanja medslovenskega konflikta oziroma državljanske vojne predvsem v Ljubljanski pokrajini, ko je tudi protirevolucionarna stran izvajala raznovrstno nasilje proti domačim nasprotnikom, so imeli za posledico, da je ta pokrajina v času okupacije in neposredno po njej utrpela najvišjo populacijsko izgubo. Ob omenjenem medslovenskem nasilju, ki postoma, a v manjši meri zajame tudi nekatera območja v drugih pokrajinah, seveda okupacijske oblasti izvajajo najbolj nasilne ukrepe vse do konca okupacije, pri čemer je v t. i. očiščevalnih akcijah pogosto trpelo predvsem civilno prebivalstvo. Okupator se je tako vzpostavil kot dejavnik, ki je z ničemer izzvanim napadom na Jugoslavijo povzročil med drugo svetovno vojno največ smrtnih žrtev na Slovenskem; to prvenstvo ohranja tudi če upoštevamo nasilni epilog druge svetovne vojne s povojnim obračunom zmagovitega partizansko-revolucionarnega tabora s protirevolucijo in kolaboracijo.</dcterms:abstract>
+            <dcterms:publisher>Inštitut za novejšo zgodovino/Institute of Contemporary History, Ljubljana</dcterms:publisher>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2012-11-07</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">MovingImage</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">slv</dcterms:language>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.14264">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>14264</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/14264</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.14264">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="slv">
+                  <p xmlns="http://sistory.si/schema/sistory/v3/entity">Vojne so v zgodovini človeštva najtesneje povezane z
+                                        nasiljem. Njegova posledica so tudi smrtne žrtve kot najbolj
+                                        skrajni in tragični vidik vojnega dogajanja. To velja še
+                                        zlasti za drugo svetovno vojno, ki jo opredeljujemo kot
+                                        totalno. Slovenija sodi v evropskem okviru glede izgub
+                                        človeških življenj med drugo svetovno vojno in neposredno po
+                                        njej z okoli 97.000 smrtnimi žrtvami med visoko prizadeta
+                                        območja, v tedanjem v jugoslovanskem okviru pa dosega
+                                        povprečno stopnjo prizadetosti.Druga svetovna vojna je na
+                                        Slovenskem vzpostavila prakso radikalnega nasilja, katerega
+                                        dinamika je bila pogojena z uvedbo različnih okupacijskih
+                                        sistemov in prepletanjem raznovrstnih nasilnih procesov, ki
+                                        so temu sledili zaradi odpora okupatorjem, zaradi
+                                        revolucije, protirevolucije, kolaboracije in državljanske
+                                        vojne. Zlasti nemški okupator je na Štajerskem, Koroškem in
+                                        Gorenjskem nemudoma odgovoril na odporniško akcijo predvsem
+                                        z množičnimi streljanji talcev ter z ukrepi proti družinam,
+                                        kot je npr. internacija v koncentracijska taborišča, kjer so
+                                        mnogi izgubili življenja. Italijansko nasilje v poskusih
+                                        odstranitve partizanstva v Ljubljanski pokrajini in na
+                                        Primorskem sprva ni doseglo razsežnosti nemškega nasilja,
+                                        dokler ni v letu 1942 tudi to eskaliralo zlasti v
+                                        Ljubljanski pokrajini (streljanja talcev, odgoni v
+                                        koncentracijska taborišča itd.).Partizanstvo je ob svoji
+                                        temeljni usmeritvi nasproti okupacijskemu aparatu tudi
+                                        nastopalo proti domačemu prebivalstvu v primerih njegovega
+                                        dejanskega ali domnevnega sodelovanja z okupacijskimi
+                                        oblastmi, pri čemer je zlasti v dogajanju v Ljubljanski
+                                        pokrajini spomladi in poleti 1942 opazno revolucionarno
+                                        ozadje. Procesi, ki so tekli v smer poglabljanja
+                                        medslovenskega konflikta oziroma državljanske vojne predvsem
+                                        v Ljubljanski pokrajini, ko je tudi protirevolucionarna
+                                        stran izvajala raznovrstno nasilje proti domačim
+                                        nasprotnikom, so imeli za posledico, da je ta pokrajina v
+                                        času okupacije in neposredno po njej utrpela najvišjo
+                                        populacijsko izgubo. Ob omenjenem medslovenskem nasilju, ki
+                                        postoma, a v manjši meri zajame tudi nekatera območja v
+                                        drugih pokrajinah, seveda okupacijske oblasti izvajajo
+                                        najbolj nasilne ukrepe vse do konca okupacije, pri čemer je
+                                        v t. i. očiščevalnih akcijah pogosto trpelo predvsem civilno
+                                        prebivalstvo. Okupator se je tako vzpostavil kot dejavnik,
+                                        ki je z ničemer izzvanim napadom na Jugoslavijo povzročil
+                                        med drugo svetovno vojno največ smrtnih žrtev na Slovenskem;
+                                        to prvenstvo ohranja tudi če upoštevamo nasilni epilog druge
+                                        svetovne vojne s povojnim obračunom zmagovitega
+                                        partizansko-revolucionarnega tabora s protirevolucijo in
+                                        kolaboracijo.</p>
+               </entity:description>
+               <entity:description xml:lang="eng">
+                  <p xmlns="http://sistory.si/schema/sistory/v3/entity">Throughout human history, wars have been most closely related
+                                        to violence. Fatalities as the most extreme and tragic
+                                        aspect of wartime developments are one of the consequences
+                                        of violence. This is especially true of World War II, which
+                                        we refer to as total war. In the European context, with
+                                        regard to the loss of human lives during World War II and in
+                                        the immediate post-war period, Slovenia with its estimated
+                                        97,000 deaths belongs among the regions severely affected by
+                                        the war, while in the former Yugoslav context it is average
+                                        in terms of damage.In Slovenia World War II established a
+                                        practice of radical violence, whose dynamics depended on the
+                                        introduction of various systems of occupation and on the
+                                        combination of various violent processes, following as a
+                                        result of the resistance against the occupiers, revolution,
+                                        counter-revolution, collaboration, and civil war. Especially
+                                        the German occupiers in the Štajerska, Koroška and Gorenjska
+                                        regions immediately responded to any actions undertaken by
+                                        the resistance, usually with mass executions of hostages and
+                                        measures taken against families, for example, internment in
+                                        the concentration camps, where many of them lost their
+                                        lives. At first the Italian violence as an attempt to
+                                        eliminate the partisan movement in the so-called Ljubljana
+                                        Province and in the Slovenian littoral (Primorska) had not
+                                        had the same dimensions as the German violence, until it
+                                        escalated in 1942, especially in the Ljubljana Province (the
+                                        shooting of hostages, deportations to the concentration
+                                        camps, and so on).The partisan movement, besides opposing
+                                        the occupation apparatus, also retaliated against the
+                                        Slovenian population in case of its actual or suspected
+                                        collaboration with the occupation authorities. Revolutionary
+                                        background is especially noticeable in the developments in
+                                        the Ljubljana Province in the spring and summer of 1942.
+                                        These processes, leading to the deepening of the internal
+                                        Slovenian conflict or the civil war (as the
+                                        counter-revolutionary side also perpetrated various forms of
+                                        violence against its Slovenian opponents, especially in the
+                                        Ljubljana Province) were the reason why this area suffered
+                                        the greatest losses of the population during the occupation
+                                        and immediately after it. Apart from the aforementioned
+                                        violence among Slovenians, which gradually but to a lesser
+                                        extent also engulfed certain other areas in other regions,
+                                        the occupation authorities, of course, resorted to the most
+                                        violent of measures until the very end of the occupation.
+                                        Especially the civilian population often suffered because of
+                                        the so-called cleansing operations. Thus the occupiers are
+                                        established as a factor causing the greatest number of
+                                        fatalities in Slovenia with their completely un- provoked
+                                        attack against Yugoslavia. This fact remains the same even
+                                        if we take into account the violent epilogue of World War II
+                                        with the post-war retaliation of the victorious
+                                        partisan-revolutionary camp against the counter-revolution
+                                        and collaboration.</p>
+               </entity:description>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="video1" USE="EXTERNAL">
+            <METS:FLocat USE="YOUTUBE"
+                         LOCTYPE="URL"
+                         xlink:href="http://www.youtube.com/embed/iCKm3IXc0zE"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/14256"/>
+         <METS:div TYPE="entity" DMDID="dc.14264" ADMID="premis.14264 entity.14264">
+            <METS:fptr FILEID="video1"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

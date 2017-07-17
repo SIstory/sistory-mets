@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/37810"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2017-06-15T12:53:22"
+                 LASTMODDATE="2017-06-15T13:01:32"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.37810" GROUPID="37810">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="slv">Deca begalci v Sloveniji 1948- 1952</dcterms:title>
+            <dcterms:alternative xml:lang="eng">Deca begalci (Children Refugees from Greece) in Slovenia 1948–1950</dcterms:alternative>
+            <dcterms:creator>Gombač, Jure</dcterms:creator>
+            <dcterms:description xml:lang="slv">Prispevek raziskuje problematiko otrok – beguncev iz Grčije, natančneje Egejske Makedonije, ki so med letoma 1948 in 1952 zatočišče pred »monarhofašističnim nasiljem« oziroma državljansko vojno v Grčiji s pomočjo jugoslovanskega Rdečega križa iskali in našli v Sloveniji. Črpa iz virov, ki jih hrani Arhiv Republike Slovenije (Rdeči križ Slovenije), dokumentarnih filmov, diskusij po spletnih straneh ter forumih in pa maloštevilne literature. Za konec se članek posveti tudi današnjemu svetu in položaju t. i. »mladih brez spremstva« v Sloveniji ter išče nekatere primerjave med nekoč in danes.</dcterms:description>
+            <dcterms:description xml:lang="eng">This contribution explores the events, concerning children-refugees from Greece, mainly form Aegean Macedonia, who between 1948 and 1952 found sanctuary from »monarchofascist violence« or civil war in Greece in Slovenia with the help of the Yugoslav Red Cross. It draws on the resources held by the Archives of the Republic of Slovenia (Slovenian Red Cross), documentary movies on Yutube, discussions on web pages and forums as literature about those events is still rare. In conclusion, the article turns to the world of today and the situation of the »unaccompanied youth« in Slovenia and is looking for some comparisons between past and present.</dcterms:description>
+            <dcterms:subject xml:lang="slv">otroci</dcterms:subject>
+            <dcterms:subject xml:lang="slv">humanitarnost</dcterms:subject>
+            <dcterms:subject xml:lang="slv">begunci</dcterms:subject>
+            <dcterms:subject xml:lang="slv">Grčija</dcterms:subject>
+            <dcterms:subject xml:lang="slv">Rdeči križ Slovenije</dcterms:subject>
+            <dcterms:subject xml:lang="slv">children</dcterms:subject>
+            <dcterms:subject xml:lang="slv">refugees</dcterms:subject>
+            <dcterms:subject xml:lang="slv">humanitarian work</dcterms:subject>
+            <dcterms:subject xml:lang="slv">Greece</dcterms:subject>
+            <dcterms:subject xml:lang="slv">Slovenian Red Cross</dcterms:subject>
+            <dcterms:publisher>Zveza zgodovinskih društev Slovenije, Ljubljana</dcterms:publisher>
+            <dcterms:publisher>Inštitut za novejšo zgodovino, Ljubljana</dcterms:publisher>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2012-10-19</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">MovingImage</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">slv</dcterms:language>
+            <dcterms:language xsi:type="dcterms:ISO639-3">eng</dcterms:language>
+            <dcterms:license xsi:type="dcterms:URI">http://creativecommons.org/licenses/by-nc-nd/2.5/si/</dcterms:license>
+            <dcterms:license xml:lang="slv">Priznanje avtorstva-Nekomercialo-Brez predelav 2.5 Slovenija (CC BY-NC-ND 2.5 SI)</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.37810">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>37810</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/37810</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.37810">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Tekst v imenu Jureta
+                                    Gombača bere Petra Svoljšak. </entity:description>
+               <entity:description xml:lang="eng">
+                  <p xmlns="http://sistory.si/schema/sistory/v3/entity">Prispevek raziskuje problematiko otrok – beguncev iz Grčije,
+                                        natančneje Egejske Makedonije, ki so meText was read by
+                                        Petra Svoljšak in the name of Jure Gombač who couldn't
+                                        attend the conference.d letoma 1948 in 1952 zatočišče pred
+                                        »monarhofašističnim nasiljem« oziroma državljansko vojno v
+                                        Grčiji s pomočjo jugoslovanskega Rdečega križa iskali in
+                                        našli v Sloveniji. Črpa iz virov, ki jih hrani Arhiv
+                                        Republike Slovenije (Rdeči križ Slovenije), dokumentarnih
+                                        filmov, diskusij po spletnih straneh ter forumih in pa
+                                        maloštevilne literature. Za konec se članek posveti tudi
+                                        današnjemu svetu in položaju t. i. »mladih brez spremstva« v
+                                        Sloveniji ter išče nekatere primerjave med nekoč in
+                                        danes.</p>
+               </entity:description>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="video1" USE="EXTERNAL">
+            <METS:FLocat USE="YOUTUBE"
+                         LOCTYPE="URL"
+                         xlink:href="http://www.youtube.com/embed/-IzmmpraASI"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37808"/>
+         <METS:div TYPE="entity" DMDID="dc.37810" ADMID="premis.37810 entity.37810">
+            <METS:fptr FILEID="video1"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/37729"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2017-06-12T11:09:21"
+                 LASTMODDATE="2017-06-12T11:12:58"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.37729" GROUPID="37729">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="eng">Estonian Teachers' Union - innovator in education in the Republic of Estonia in 1918-1940</dcterms:title>
+            <dcterms:alternative xml:lang="est">Eesti Õpetajate Liit - hariduselu edendaja Eesti Vabariigis aastail 1918-1940</dcterms:alternative>
+            <dcterms:creator>Torm, Mare</dcterms:creator>
+            <dcterms:description xml:lang="eng">The Republic of Estonia celebrates its 95th anniversary on February 24, 2013. Although teachers had aspired for their own organization in the middle of the 19th century, the idea could not be implemented on historical reasons before. The first teachers’ societies were organised in different regions of the country in April- May 1917.Teachers of Tartu and Tallinn were convinced of the need to establish an organization uniting teachers all over the country and these activities peaked with establishment of Estonian Teachers’ Union in the spring of 1917 (in 1917-1919 it was called Estonian Central Union of School Teachers). Estonian Teachers’ Union (ETU) was from the beginning of its existence well known for its activities developing national schools, modernising education and establishing international contacts in the pre-WWII period in Estonia (1918-1940). ETU was for the Ministry of Education a valuable partner in developing educational legislation and solving problems of school practice. At the same time the union defended its members’ professional and economic interests. Contribution made by ETU to organization and management of Estonian education and cultural developments at large is a heritage we could learn from today. Its high organizational culture, wide variety of activities and remarkable personalities as its leaders deserve particular attention. Materials related to ETU are preserved at the Estonian Pedagogical Archives-Museum containing manuscripts (written by leaders of ETU), publications (incl. pedagogical journal Kasvatus/Education of 1919- 1940) and photos. This presentation is focused on the role of ETU as a representative body in the process of developing national schools, educational innovation and international contacts between 1917 – 1940.</dcterms:description>
+            <dcterms:description xml:lang="est">Eesti Vabariik tähistas 24. veebruaril k.a. oma 95. aastapäeva. Tähelepanuväärne on siinjuures Eesti õpetajaskonna organiseerumine, mis tipnes 1917. aasta kevadel Eesti Õpetajate Liidu (1917-1919 algselt Eesti Kooliõpetajate Keskliit) asutamisega. Kuigi esimesi eesti õpetajate ühinemispüüdeid täheldati juba 19. sajandi keskel, ei saanud mõte ajaloolistel põhjustel varem teostuda. Esimesed õpetajate seltsid loodi maa eri paigus 1917. aasta aprillis-mais (ukj). Nii Tartu kui Tallinna õpetajaskond jõudis veendumusele asutada ülemaaline õpetajate organisatsioon. Eesti Õpetajate Liit (EÕL) oli oma alguspäevist alates tuntud oma tegususe poolest nii rahvusliku kooli ülesehitamisel kui üldise hariduselu kaasajastamisel ning rahvusvahelisele tasandile viimisel II maailmasõjaeelses Eesti Vabariigis (1918-1940). EÕL oli hariduselu juhtorganile – EV Haridusministeeriumile - arvestatav partner haridusalase seadusloome ning koolitöö sisuliste küsimuste tõstatamisel ja lahendamisel. Samal ajal seisis EÕL oma liikmeskonna kutse- ning majanduslike huvide eest. EÕL-i panus tollase Eesti Vabariigi haridus- ja kultuurielu korraldamisel on väärtus, millest on kaasajal palju õppida. Sealjuures omavad erilist tähtsust nii kõrge organisatsioonikultuur ning tegevuse lai haare kui EÕL-i juhtinud eredad isiksused. Eesti Pedagoogika Arhiivmuuseumis säilitatakse EÕL-i tegevust kajastavaid materjale, mis sisaldavad käsikirju (EÕL-i juhtivpersoonide poolt kirjapandu), trükiseid (pedagoogiline ajakiri Kasvatus (1919-1940) jt) ning fotosid. Ettekandes keskendutakse EÕL-i kui õpetajate esindusorganisatsiooni rollile rahvuskooli rajamisel, kooliuuendusliikumisel ja rahvusvaheliste kontaktide loomisel aastail 1917 – 1940.</dcterms:description>
+            <dcterms:subject xml:lang="slv">zgodovina</dcterms:subject>
+            <dcterms:subject xml:lang="slv">šolstvo</dcterms:subject>
+            <dcterms:subject xml:lang="slv">muzej</dcterms:subject>
+            <dcterms:subject xml:lang="eng">history</dcterms:subject>
+            <dcterms:subject xml:lang="eng">school system</dcterms:subject>
+            <dcterms:subject xml:lang="eng">museum</dcterms:subject>
+            <dcterms:publisher>Slovenski šolski muzej, Ljubljana</dcterms:publisher>
+            <dcterms:publisher>Zveza zgodovinskih društev Slovenije, Ljubljana</dcterms:publisher>
+            <dcterms:publisher>ICOM Slovenija, Celje</dcterms:publisher>
+            <dcterms:publisher>Inštitut za novejšo zgodovino, Ljubljana</dcterms:publisher>
+            <dcterms:contributor>Jan Šimek (moderator)</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2013-06-28</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">MovingImage</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">eng</dcterms:language>
+            <dcterms:license xsi:type="dcterms:URI">http://creativecommons.org/licenses/by-nc-nd/2.5/si/</dcterms:license>
+            <dcterms:license xml:lang="slv">Priznanje avtorstva-Nekomercialo-Brez predelav 2.5 Slovenija (CC BY-NC-ND 2.5 SI)</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.37729">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>37729</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/37729</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.37729">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="eng">
+                  <p xmlns="http://sistory.si/schema/sistory/v3/entity">The Republic of Estonia celebrates its 95th anniversary on
+                                        February 24, 2013. Although teachers had aspired for their
+                                        own organization in the middle of the 19th century, the idea
+                                        could not be implemented on historical reasons before. The
+                                        first teachers’ societies were organised in different
+                                        regions of the country in April- May 1917.Teachers of Tartu
+                                        and Tallinn were convinced of the need to establish an
+                                        organization uniting teachers all over the country and these
+                                        activities peaked with establishment of Estonian Teachers’
+                                        Union in the spring of 1917 (in 1917-1919 it was called
+                                        Estonian Central Union of School Teachers). Estonian
+                                        Teachers’ Union (ETU) was from the beginning of its
+                                        existence well known for its activities developing national
+                                        schools, modernising education and establishing
+                                        international contacts in the pre-WWII period in Estonia
+                                        (1918-1940). ETU was for the Ministry of Education a
+                                        valuable partner in developing educational legislation and
+                                        solving problems of school practice. At the same time the
+                                        union defended its members’ professional and economic
+                                        interests. Contribution made by ETU to organization and
+                                        management of Estonian education and cultural developments
+                                        at large is a heritage we could learn from today. Its high
+                                        organizational culture, wide variety of activities and
+                                        remarkable personalities as its leaders deserve particular
+                                        attention. Materials related to ETU are preserved at the
+                                        Estonian Pedagogical Archives-Museum containing manuscripts
+                                        (written by leaders of ETU), publications (incl. pedagogical
+                                        journal Kasvatus/Education of 1919- 1940) and photos. This
+                                        presentation is focused on the role of ETU as a
+                                        representative body in the process of developing national
+                                        schools, educational innovation and international contacts
+                                        between 1917 – 1940.</p>
+               </entity:description>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="video1" USE="EXTERNAL">
+            <METS:FLocat USE="YOUTUBE"
+                         LOCTYPE="URL"
+                         xlink:href="//www.youtube.com/embed/lDGmlJw4kBg"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37727"/>
+         <METS:div TYPE="entity" DMDID="dc.37729" ADMID="premis.37729 entity.37729">
+            <METS:fptr FILEID="video1"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

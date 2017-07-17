@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/37661"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2017-05-25T12:11:35"
+                 LASTMODDATE="2017-05-25T12:13:38"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.37661" GROUPID="37661">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="eng">Formation of School museum - Memorial gallery of School for the visually impaired students "Veljko Ramadanović" in Zemun</dcterms:title>
+            <dcterms:alternative xml:lang="srp">Formiranje Školskog muzeja – Spomen galerije Škole učenika oštećenog vida “Veljko Ramadanović” u Zemunu</dcterms:alternative>
+            <dcterms:creator>Janković, Miodrag</dcterms:creator>
+            <dcterms:description xml:lang="eng">The school’s founder began to collect artifacts and documents about the school in 1922 when The Museum of teaching aids for blind students was opened. The current school administration opened a Museum - Memorial gallery dedicated to the founder of the school and its work on December 13th 2001. The museum's collection includes learning and teaching resources from 1918 to World War II: Documentation of school work, photo collections of Ramadanović and children in school classes, some important archive materials about Ramadanović and school in general, the rules of procedure of the All-Slavic Association of the Blind which was founded in September 1937., and Rules of procedure of the Association of the Blind of intellectuals and businessmen of the Kingdom of Yugoslavia, founded the same year. The oldest exhibit is a book on education of the deaf in 1836, printed in Vienna, while the oldest domestic books are from the 1875. One book on Braille, which was given to Ramadanović as a gift, is interesting, and was printed in Vienna in 1891. The museum contains all the publications and books on pedagogical treatment of children of former Yugoslavia, as well as all copies of the Special Education Magazine "Voice of the innocent" (Glas Nedužnih), the oldest in the Balkans.</dcterms:description>
+            <dcterms:description xml:lang="srp">Osnivač škole je počeo od 1922. god. da prikuplja eksponate i dokumentaciju o radu škole kada je otvorio Muzej očiglednih sredstava za slepe učenike. Sadašnja uprava škole je 13. decembra 2001. god. otvorila Muzej-Spomen galeriju posvećenu osnivaču škole i njenom radu. Muzejska zbirka obuhvata učila i nastavna sredstva od 1918 do II svetskog rata: Dokumentaciju o radu škole, foto zbirku Ramadanovića i dece na školskim časovima, pojedinu važnu arhivsku građu o radu Ramadanovića i škole uopšte, pravilnik o radu Udruženja Sveslovenskog Saveza slepih osnovanog septembra 1937., kao i Pravilnik o radu Udruženja slepih intelektualaca i privrednika Kraljevine Jugoslavije, osnovanog iste godine. Najstariji eksponat predstavlja knjiga o vaspitanju gluvih iz 1836, štampane u Beču, dok su najstarije domaće knjige iz 1875. god. Interesantna je jedna knjiga na Braju, koja je štampana u Beču 1891. , a koju je Ramadanović dobio na poklon. Muzej sadrži sve publikacije i knjige o pedagoškom tretmanu dece tadašnje Jugoslavije, kao i sve primerke najstarijeg defektološkog šasopisa na Balkanu “Glas Nedužnih”.</dcterms:description>
+            <dcterms:subject xml:lang="slv">zgodovina</dcterms:subject>
+            <dcterms:subject xml:lang="slv">šolstvo</dcterms:subject>
+            <dcterms:subject xml:lang="slv">muzej</dcterms:subject>
+            <dcterms:subject xml:lang="eng">history</dcterms:subject>
+            <dcterms:subject xml:lang="eng">school system</dcterms:subject>
+            <dcterms:subject xml:lang="eng">museum</dcterms:subject>
+            <dcterms:publisher>Slovenski šolski muzej, Ljubljana</dcterms:publisher>
+            <dcterms:publisher>Zveza zgodovinskih društev Slovenije, Ljubljana</dcterms:publisher>
+            <dcterms:publisher>ICOM Slovenija, Celje</dcterms:publisher>
+            <dcterms:publisher>Inštitut za novejšo zgodovino, Ljubljana</dcterms:publisher>
+            <dcterms:contributor>Elke Urban (moderator)</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2013</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">MovingImage</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">eng</dcterms:language>
+            <dcterms:license xsi:type="dcterms:URI">http://creativecommons.org/licenses/by-nc-nd/2.5/si/</dcterms:license>
+            <dcterms:license xml:lang="slv">Priznanje avtorstva-Nekomercialo-Brez predelav 2.5 Slovenija (CC BY-NC-ND 2.5 SI)</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.37661">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>37661</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/37661</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.37661">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="eng">
+                  <pre xmlns="http://sistory.si/schema/sistory/v3/entity">The school’s founder began to collect artifacts and documents about the school in 1922 when The
+Museum of teaching aids for blind students was opened. The current school administration opened a Museum -
+Memorial gallery dedicated to the founder of the school and its work on December 13th 2001. The museum's
+collection includes learning and teaching resources from 1918 to World War II: Documentation of school work,
+photo collections of Ramadanović and children in school classes, some important archive materials about
+Ramadanović and school in general, the rules of procedure of the All-Slavic Association of the Blind which was
+founded in September 1937., and Rules of procedure of the Association of the Blind of intellectuals and
+businessmen of the Kingdom of Yugoslavia, founded the same year. The oldest exhibit is a book on education
+of the deaf in 1836, printed in Vienna, while the oldest domestic books are from the 1875. One book on Braille,
+which was given to Ramadanović as a gift, is interesting, and was printed in Vienna in 1891. The museum
+contains all the publications and books on pedagogical treatment of children of former Yugoslavia, as well as all
+copies of the Special Education Magazine "Voice of the innocent" (Glas Nedužnih), the oldest in the Balkans.</pre>
+               </entity:description>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="video1" USE="EXTERNAL">
+            <METS:FLocat USE="YOUTUBE"
+                         LOCTYPE="URL"
+                         xlink:href="//www.youtube.com/embed/6xLlD9gqMS8"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37656"/>
+         <METS:div TYPE="entity" DMDID="dc.37661" ADMID="premis.37661 entity.37661">
+            <METS:fptr FILEID="video1"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

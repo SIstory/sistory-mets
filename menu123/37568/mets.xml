@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/37568"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2017-05-18T11:50:11"
+                 LASTMODDATE="2017-05-18T11:53:13"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.37568" GROUPID="37568">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="slv">Okus spomina. Refleksija na obdobje Zavezniške vojaške uprave v življenjskih zgodbah pričevalcev</dcterms:title>
+            <dcterms:alternative xml:lang="eng">Taste of memory. Reflection on the period of the Allied Military Government in the life stories of witnesses</dcterms:alternative>
+            <dcterms:creator>Širok, Kaja</dcterms:creator>
+            <dcterms:description xml:lang="slv">Dne 12. junija 1945 je zavezniška vojska prevzela oblast na območju zahodno od t. i. Morganove črte. Imenovana po generalu Williamu D. Morganu, podpisniku beograjskega sporazuma, je novonastala demarkacijska linija zasedeno območje razdelila na dve zasedbeni coni: cono A, ki jo je upravljala Zavezniška vojaška uprava (ZVU), in cono B, ki jo je upravljala Vojaška uprava Jugoslovanske armade (VUJA). Prispevek obravnava obdobje Zavezniške vojaške uprave (ZVU) na Goriškem. Osredotoča se na oblikovanje spomina s pomočjo diskurza in analizira procese oblikovanja kolektivnega spomina na obmejnem območju. Jedro predstavljajo spomini prebivalcev na vsakodnevne dogodke v času ZVU ter povojno življenje na območju. Skozi zgodbe o hrani, ki bo v izbranih pripovedih ključen element analize, nam predstavljene življenjske zgodbe podajajo podobe preteklosti, ki so jo zavezniški vojaki v ta prostor prinesli. Ti spomini so večplastni in prepletajo otroške želje po čokoladi, prvo srečanje z belim kruhom, črni trg in tolmačenje politične vpletenosti zaveznikov v Cono A. Odkrivajo nam tako soočanja z obravnavanimi zgodovinskimi dogodki kot emocionalno vrednost, ki jih ti dogodki še danes nosijo. Kljub časovni distanci skoraj sedemdesetih let, se med pričevalci še danes čuti navezanost na obdobje, ko so na Goriškem živeli »Amerikani«. Znotraj oblikovane spominske naracije pričevalci ne pripovedujejo samo o svojih izkušnjah, temveč podajajo izjavo o tem, kako se je formirala njihova identiteta. Iz pripovedi o dobrinah, ki so jih ameriški vojaki delili otrokom in hladnostjo, ki so jo do iste skupine izžarevali angleški vojaki, se izkazuje odnos posameznika do zavezniških enot, odnos med vojaki in civilisti ter med pripadniki različnih etničnih skupnostih na Goriškem.</dcterms:description>
+            <dcterms:subject xml:lang="slv">zavezniška vojaška uprava</dcterms:subject>
+            <dcterms:subject xml:lang="slv">cona A</dcterms:subject>
+            <dcterms:subject xml:lang="slv">Goriška</dcterms:subject>
+            <dcterms:subject xml:lang="slv">spomini</dcterms:subject>
+            <dcterms:subject xml:lang="slv">hrana</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Allied Military Government (AMG)</dcterms:subject>
+            <dcterms:subject xml:lang="eng">zone A</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Gorizia</dcterms:subject>
+            <dcterms:subject xml:lang="eng">memories</dcterms:subject>
+            <dcterms:subject xml:lang="eng">food</dcterms:subject>
+            <dcterms:publisher>Zveza zgodovinskih društev Slovenije, Ljubljana</dcterms:publisher>
+            <dcterms:publisher>Inštitut za novejšo zgodovino, Ljubljana</dcterms:publisher>
+            <dcterms:contributor>Katarina Keber (moderatorka)</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2014-10-22</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">MovingImage</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">slv</dcterms:language>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.37568">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>37568</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/37568</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.37568">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="slv">
+                  <pre xmlns="http://sistory.si/schema/sistory/v3/entity">Dne 12. junija 1945 je zavezniška vojska prevzela oblast na območju zahodno od t. i. Morganove črte. Imenovana po generalu Williamu D. Morganu, podpisniku beograjskega sporazuma, je novonastala demarkacijska linija zasedeno območje razdelila na dve zasedbeni coni: cono A, ki jo je upravljala Zavezniška vojaška uprava (ZVU), in cono B, ki jo je upravljala Vojaška uprava Jugoslovanske armade (VUJA). 
+Prispevek obravnava obdobje Zavezniške vojaške uprave (ZVU) na Goriškem. Osredotoča se na oblikovanje spomina s pomočjo diskurza in analizira procese oblikovanja kolektivnega spomina na obmejnem območju. Jedro predstavljajo spomini prebivalcev na vsakodnevne dogodke v času ZVU ter povojno življenje na območju. Skozi zgodbe o hrani, ki bo v izbranih pripovedih ključen element analize, nam predstavljene življenjske zgodbe podajajo podobe preteklosti, ki so jo zavezniški vojaki v ta prostor prinesli. Ti spomini so večplastni in prepletajo otroške želje po čokoladi, prvo srečanje z belim kruhom, črni trg in  tolmačenje politične vpletenosti zaveznikov v Cono A. Odkrivajo nam tako soočanja z obravnavanimi zgodovinskimi dogodki kot emocionalno vrednost, ki jih ti dogodki še danes nosijo. Kljub časovni distanci skoraj sedemdesetih let, se med pričevalci še danes čuti navezanost na obdobje, ko so na Goriškem živeli »Amerikani«. Znotraj oblikovane spominske naracije pričevalci ne pripovedujejo samo o svojih izkušnjah, temveč podajajo izjavo o tem, kako se je formirala njihova identiteta. 
+Iz pripovedi o dobrinah, ki so jih ameriški vojaki delili otrokom in hladnostjo, ki so jo do iste skupine izžarevali angleški vojaki, se izkazuje odnos posameznika do zavezniških enot, odnos  med vojaki in civilisti  ter med pripadniki različnih etničnih skupnostih na Goriškem.</pre>
+               </entity:description>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="video1" USE="EXTERNAL">
+            <METS:FLocat USE="YOUTUBE"
+                         LOCTYPE="URL"
+                         xlink:href="//www.youtube.com/embed/99U_-CDqKug"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37566"/>
+         <METS:div TYPE="entity" DMDID="dc.37568" ADMID="premis.37568 entity.37568">
+            <METS:fptr FILEID="video1"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

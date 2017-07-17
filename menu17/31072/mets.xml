@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/31072"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2015-06-03T13:51:32"
+                 LASTMODDATE="2017-02-15T12:00:00"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.31072" GROUPID="31072">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="eng">Childhood with Modra Lasta, From Marshall to Ban (1989–1992)</dcterms:title>
+            <dcterms:title xml:lang="bos">Djetinjstvo uz Modru lastu, od Maršala do Bana (1989–1992)</dcterms:title>
+            <dcterms:alternative xml:lang="slv">Otroštvo ob Modri lasti, od Maršala do Bana (1989–1992)</dcterms:alternative>
+            <dcterms:creator>Omerčić, Edin</dcterms:creator>
+            <dcterms:abstract xml:lang="slv">Prispevek z analizo revije za izobrazbo in zabavo ter samostojno ustvarjalno delo učencev osnovne šole ''Modra Lasta'' ter Kraševega albuma s sličicami Cro Army daje vpogled v spremembe, do katerih je prišlo v osnovnošolskem sistemu izobraževanja na Hrvaškem ob razpadu Jugoslavije. Postavlja se vprašanje moralno-izobraževalnih vrednot, ki so bile posredovane otrokom preko sistema izobraževanja v obdobju od konca 80-ih do srede 90-ih let 20. stoletja. Prav tako se postavlja vprašanje, ali z zamenjavo vladajoče elite in sprememb v državnem sistemu prihaja do sprememb v vzgojno izobraževalnem sistemu Hrvaške.</dcterms:abstract>
+            <dcterms:abstract xml:lang="eng">Paper presents the analyses of the magazine for education and entertainment and independent creative work of pupils of primary school ''Modra Lasta'' and the Kraš Cro Army images album and the view of changes in the primary school educuation system in Croatia, which have happened with the collapse of Yugoslavia. The author deals with the issue on moral-educational values that children had been receiving through the educational system in the period from the late 80's to the middle of 90's of 20th century. The author is also pointing out the issue, if changes of ruling elite and changes in the system cause the changes in educational system in Croatia.</dcterms:abstract>
+            <dcterms:subject xml:lang="slv">Modra lasta</dcterms:subject>
+            <dcterms:subject xml:lang="slv">otroštvo</dcterms:subject>
+            <dcterms:subject xml:lang="slv">uredniška politika</dcterms:subject>
+            <dcterms:subject xml:lang="slv">vojska</dcterms:subject>
+            <dcterms:subject xml:lang="slv">Kraš</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Modra Lasta</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Childhood</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Editorial Policy</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Military</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Kraš</dcterms:subject>
+            <dcterms:publisher>Zveza zgodovinskih društev Slovenije</dcterms:publisher>
+            <dcterms:contributor>Peter Štih (gl. in od. ur.)</dcterms:contributor>
+            <dcterms:contributor>Aida Škoro Babić (ur. in prev.)</dcterms:contributor>
+            <dcterms:contributor>Mateja Jeraj (ur.)</dcterms:contributor>
+            <dcterms:contributor>Matevž Košir (ur.)</dcterms:contributor>
+            <dcterms:contributor>Bojan Balkovec (ur.)</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2012</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">Text</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">bos</dcterms:language>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:dmdSec ID="mods.31072" GROUPID="31072">
+      <METS:mdWrap MDTYPE="MODS" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <mods:relatedItem type="series">
+               <mods:titleInfo>
+                  <mods:title>Zbirka zgodovinskega časopisa, 45</mods:title>
+               </mods:titleInfo>
+            </mods:relatedItem>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.31072">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>31072</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/31072#page=714</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.31072">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Prispevek z analizo
+                                    revije za izobrazbo in zabavo ter samostojno ustvarjalno delo
+                                    učencev osnovne šole ''Modra Lasta'' ter Kraševega albuma s
+                                    sličicami Cro Army daje vpogled v spremembe, do katerih je
+                                    prišlo v osnovnošolskem sistemu izobraževanja na Hrvaškem ob
+                                    razpadu Jugoslavije. Postavlja se vprašanje
+                                    moralno-izobraževalnih vrednot, ki so bile posredovane otrokom
+                                    preko sistema izobraževanja v obdobju od konca 80-ih do srede
+                                    90-ih let 20. stoletja. Prav tako se postavlja vprašanje, ali z
+                                    zamenjavo vladajoče elite in sprememb v državnem sistemu prihaja
+                                    do sprememb v vzgojno izobraževalnem sistemu Hrvaške. </entity:description>
+               <entity:description xml:lang="eng"> Paper presents the
+                                    analyses of the magazine for education and entertainment and
+                                    independent creative work of pupils of primary school ''Modra
+                                    Lasta'' and the Kraš Cro Army images album and the view of
+                                    changes in the primary school educuation system in Croatia,
+                                    which have happened with the collapse of Yugoslavia. The author
+                                    deals with the issue on moral-educational values that children
+                                    had been receiving through the educational system in the period
+                                    from the late 80's to the middle of 90's of 20th century. The
+                                    author is also pointing out the issue, if changes of ruling
+                                    elite and changes in the system cause the changes in educational
+                                    system in Croatia. </entity:description>
+               <entity:page>714</entity:page>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/31016"/>
+         <METS:div TYPE="entity"
+                   DMDID="dc.31072 mods.31072"
+                   ADMID="premis.31072 entity.31072"/>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

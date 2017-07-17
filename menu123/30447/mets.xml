@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/30447"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2015-02-06T12:40:48"
+                 LASTMODDATE="2017-02-07T10:44:21"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.30447" GROUPID="30447">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="slv">O svojem delu govorim, ne o sanjah: socialno delo in zaposlovanje žensk v socializmu</dcterms:title>
+            <dcterms:alternative xml:lang="eng">I'm speaking about my work, not about my dreams: social work and women's employment in socialism</dcterms:alternative>
+            <dcterms:creator>Vodopivec, Nina</dcterms:creator>
+            <dcterms:description xml:lang="slv">Prispevek odpira vprašanje vzpostavljanja socialnega dela v podjetjih v socializmu; čemu potreba in kako je bila le ta povezana z zaposlovanjem žensk. Ta veja novo razvijajoče stroke je namreč zajela nastanek številnih anket, raziskav, ki so odpirale vpogled v potrebe v posameznih socialističnih podjetjih, kar se tiče zaposlenih žensk, ali širše v posameznih regijah ter posledično vprašanje njihovega reševanja. Na podlagi osebne zgodbe socialne delavke (od tod tudi citat naslova) ter pregleda arhiva sej delavskega sveta v tekstilnem podjetju Pletenina in seminarskih nalog, ki so s tem v zvezi nastajale na novoustanovljeni šoli za socialno delo, želim pokazati na razumevanje ekonomske organizacije v socialistični Sloveniji v navezavi na pomen družbene skrbi za delavke, ki ni zgolj spodbujala zaposlovanje žensk, temveč tudi odpirala vprašanja problemov, s katerimi so se spopadale ženske ter iskanja načinov njihovega reševanja (tudi v regijah, kjer je prevladovala moška delovna sila kot na primer rudarski revirji). Skozi to optiko bom razmišljala o razumevanju podjetja v smislu družbene ustanove (predvsem razumevanja družbene skrbi za zaposlene ženske), družbenega standarda (kar med drugim zajema stanovanjski problem, zaščito mater in otrok, varstvo otrok, zdravje, prehrano, kvaliteto življenja, ipd), razreda ter spola in družbenih neenakosti v socialističnem sistemu.</dcterms:description>
+            <dcterms:subject xml:lang="slv">ekonomska zgodovina</dcterms:subject>
+            <dcterms:subject xml:lang="slv">študije spola</dcterms:subject>
+            <dcterms:subject xml:lang="slv">antropologija</dcterms:subject>
+            <dcterms:subject xml:lang="eng">economic history</dcterms:subject>
+            <dcterms:subject xml:lang="eng">gender studies</dcterms:subject>
+            <dcterms:subject xml:lang="eng">anthropology</dcterms:subject>
+            <dcterms:publisher>Inštitut za novejšo zgodovino, Ljubljana</dcterms:publisher>
+            <dcterms:publisher>Univerza v Novi Gorici, Nova Gorica</dcterms:publisher>
+            <dcterms:contributor>Žarko Lazarević (moderator)</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2015-01-19</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">MovingImage</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">slv</dcterms:language>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.30447">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>30447</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/30447</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.30447">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Prispevek odpira
+                                    vprašanje vzpostavljanja socialnega dela v podjetjih v
+                                    socializmu; čemu potreba in kako je bila le ta povezana z
+                                    zaposlovanjem žensk. Ta veja novo razvijajoče stroke je namreč
+                                    zajela nastanek številnih anket, raziskav, ki so odpirale
+                                    vpogled v potrebe v posameznih socialističnih podjetjih, kar se
+                                    tiče zaposlenih žensk, ali širše v posameznih regijah ter
+                                    posledično vprašanje njihovega reševanja. Na podlagi osebne
+                                    zgodbe socialne delavke (od tod tudi citat naslova) ter pregleda
+                                    arhiva sej delavskega sveta v tekstilnem podjetju Pletenina in
+                                    seminarskih nalog, ki so s tem v zvezi nastajale na
+                                    novoustanovljeni šoli za socialno delo, želim pokazati na
+                                    razumevanje ekonomske organizacije v socialistični Sloveniji v
+                                    navezavi na pomen družbene skrbi za delavke, ki ni zgolj
+                                    spodbujala zaposlovanje žensk, temveč tudi odpirala vprašanja
+                                    problemov, s katerimi so se spopadale ženske ter iskanja načinov
+                                    njihovega reševanja (tudi v regijah, kjer je prevladovala moška
+                                    delovna sila kot na primer rudarski revirji). Skozi to optiko
+                                    bom razmišljala o razumevanju podjetja v smislu družbene
+                                    ustanove (predvsem razumevanja družbene skrbi za zaposlene
+                                    ženske), družbenega standarda (kar med drugim zajema
+                                    stanovanjski problem, zaščito mater in otrok, varstvo otrok,
+                                    zdravje, prehrano, kvaliteto življenja, ipd), razreda ter spola
+                                    in družbenih neenakosti v socialističnem sistemu. </entity:description>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink">
+      <METS:fileGrp USE="THUMB">
+         <METS:file ID="thumbnail">
+            <METS:FLocat LOCTYPE="URL"
+                         xlink:href="http://www.sistory.si/cdn/publikacije/30001-31000/30447/nin.jpg"/>
+         </METS:file>
+      </METS:fileGrp>
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="video1" USE="EXTERNAL">
+            <METS:FLocat USE="YOUTUBE"
+                         LOCTYPE="URL"
+                         xlink:href="https://www.youtube.com/embed/YVsLA6V9q4c"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/30422"/>
+         <METS:div TYPE="entity" DMDID="dc.30447" ADMID="premis.30447 entity.30447">
+            <METS:fptr FILEID="thumbnail"/>
+            <METS:fptr FILEID="video1"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

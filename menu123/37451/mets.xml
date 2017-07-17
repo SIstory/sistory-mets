@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/37451"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2017-04-05T09:03:27"
+                 LASTMODDATE="2017-04-07T11:51:55"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.4" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.37451" GROUPID="37451">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="slv">Domovinska vzgoja pri gimnazijskem pouku književnosti na Slovenskem v času Avstro-Ogrske (od 1867 do 1918)</dcterms:title>
+            <dcterms:alternative xml:lang="eng">Patriotic Education in Literature Lessons in Slovenian Secondary Schools in the Time of the Austro-Hungarian Empire (1867 – 1918)</dcterms:alternative>
+            <dcterms:creator>Samide, Irena</dcterms:creator>
+            <dcterms:description xml:lang="slv">Šola kot izobraževalna institucija in močna državna instanca, ki ima pomembno vlogo pri oblikovanju narodne zavesti in (samo)podobe učencev, z različnimi mehanizmi katalizira družbeno in (kulturno)politično dogajanje. Eden teh mehanizmov je, tako teza pričujočega prispevka, tudi pouk književnosti, ki je potekal v okviru ur nemščine in slovenščine na klasičnih oz. humanističnih gimnazijah na Slovenskem. V središču raziskave sta klasični gimnaziji v Ljubljani in v Mariboru, selektivno pa so upoštevane tudi druge gimnazije, ki so jih obiskovali slovenski učenci. Na podlagi empiričnega gradiva, letnih šolskih poročil/izvestij oz. Jahresberichte, ki so izhajali od gimnazijske reforme leta 1849 do razpada monarhije leta 1918, prispevek proučuje, kako se je domoljubnost izražala – in privzgajala – v okviru šolskih in maturitetnih spisov ter obveznega čtiva, kakšne podobnosti oz. razlike zaznamujejo pouk slovenščine in nemščine na izbranih gimnazijah, v kakšnem razmerju sta bili ožja in širša domovina ter kateri avtorji, literarna dela in citati so pri tem odigrali odločilno vlogo.</dcterms:description>
+            <dcterms:description xml:lang="eng">School as an educational institution and a oiwerful state instance, which has an important role in the shaping of national consciousness and (self-)image of students, with different mechanisms catalyzes the social and (cultural)political developments. One of these mechanisms are literature lessons within German and Slovenian lessons at classical or humanistic secondary schools in Slovenia. In the heart of the research are the classical secondary schools in Ljubljana and Maribor, but other secondary schools attended by Slovenian students are also taken into account. On the basis of empirical material, the annual school reports (Izvestja or. Jahresberichte), which were issued from the secondary school reform in 1849 until the collapse of the monarchy in 1918, the contribution examines how patriotism was expressed in school essays and mandatory literature, what similarities or differences mark Slovenian and German lessons at selected secondary schools, what was the relation between the narrower and the wider homeland and which authors, literary works and quotes played a decisive role in this.</dcterms:description>
+            <dcterms:subject xml:lang="slv">domovinska vzgoja</dcterms:subject>
+            <dcterms:subject xml:lang="slv">izvestja</dcterms:subject>
+            <dcterms:subject xml:lang="slv">pouk književnosti</dcterms:subject>
+            <dcterms:subject xml:lang="slv">klasična gimnazija</dcterms:subject>
+            <dcterms:subject xml:lang="slv">maturitetni spisi</dcterms:subject>
+            <dcterms:subject xml:lang="slv">Avstro-Ogrska</dcterms:subject>
+            <dcterms:subject xml:lang="eng">homeland education</dcterms:subject>
+            <dcterms:subject xml:lang="eng">annual school reports (Izvestja)</dcterms:subject>
+            <dcterms:subject xml:lang="eng">literature lessons</dcterms:subject>
+            <dcterms:subject xml:lang="eng">classical secondary school</dcterms:subject>
+            <dcterms:subject xml:lang="eng">matriculation essays</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Austro-Hungary</dcterms:subject>
+            <dcterms:publisher>Zveza zgodovinskih društev Slovenije, Ljubljana</dcterms:publisher>
+            <dcterms:publisher>Inštitut za novejšo zgodovino, Ljubljana</dcterms:publisher>
+            <dcterms:contributor>Klaudija Sedar (moderator)</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2016-09-30</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">MovingImage</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">slv</dcterms:language>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.37451">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>37451</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/37451</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.37451">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Šola kot izobraževalna
+                                    institucija in močna državna instanca, ki ima pomembno vlogo pri
+                                    oblikovanju narodne zavesti in (samo)podobe učencev, z
+                                    različnimi mehanizmi katalizira družbeno in (kulturno)politično
+                                    dogajanje. Eden teh mehanizmov je, tako teza pričujočega
+                                    prispevka, tudi pouk književnosti, ki je potekal v okviru ur
+                                    nemščine in slovenščine na klasičnih oz. humanističnih
+                                    gimnazijah na Slovenskem. V središču raziskave sta klasični
+                                    gimnaziji v Ljubljani in v Mariboru, selektivno pa so upoštevane
+                                    tudi druge gimnazije, ki so jih obiskovali slovenski učenci. Na
+                                    podlagi empiričnega gradiva, letnih šolskih poročil/izvestij oz.
+                                    Jahresberichte, ki so izhajali od gimnazijske reforme leta 1849
+                                    do razpada monarhije leta 1918, prispevek proučuje, kako se je
+                                    domoljubnost izražala – in privzgajala – v okviru šolskih in
+                                    maturitetnih spisov ter obveznega čtiva, kakšne podobnosti oz.
+                                    razlike zaznamujejo pouk slovenščine in nemščine na izbranih
+                                    gimnazijah, v kakšnem razmerju sta bili ožja in širša domovina
+                                    ter kateri avtorji, literarna dela in citati so pri tem odigrali
+                                    odločilno vlogo. </entity:description>
+               <entity:description xml:lang="eng"> School as an educational
+                                    institution and a oiwerful state instance, which has an
+                                    important role in the shaping of national consciousness and
+                                    (self-)image of students, with different mechanisms catalyzes
+                                    the social and (cultural)political developments. One of these
+                                    mechanisms are literature lessons within German and Slovenian
+                                    lessons at classical or humanistic secondary schools in
+                                    Slovenia. In the heart of the research are the classical
+                                    secondary schools in Ljubljana and Maribor, but other secondary
+                                    schools attended by Slovenian students are also taken into
+                                    account. On the basis of empirical material, the annual school
+                                    reports (Izvestja or. Jahresberichte), which were issued from
+                                    the secondary school reform in 1849 until the collapse of the
+                                    monarchy in 1918, the contribution examines how patriotism was
+                                    expressed in school essays and mandatory literature, what
+                                    similarities or differences mark Slovenian and German lessons at
+                                    selected secondary schools, what was the relation between the
+                                    narrower and the wider homeland and which authors, literary
+                                    works and quotes played a decisive role in this. </entity:description>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="video1" USE="EXTERNAL">
+            <METS:FLocat USE="YOUTUBE"
+                         LOCTYPE="URL"
+                         xlink:href="https://www.youtube.com/embed/a__Hkd9qH7w"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37393"/>
+         <METS:div TYPE="entity" DMDID="dc.37451" ADMID="premis.37451 entity.37451">
+            <METS:fptr FILEID="video1"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

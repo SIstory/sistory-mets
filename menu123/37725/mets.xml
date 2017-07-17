@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/37725"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2017-06-12T10:52:59"
+                 LASTMODDATE="2017-06-12T10:55:45"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.37725" GROUPID="37725">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="eng">Yugoslavism and internationalism - the international cooperation Yugoslav Teachers' Association 1920-1940</dcterms:title>
+            <dcterms:alternative xml:lang="srp">Jugoslovensko i internacionalno - međunarodna saradnja Jugoslovenskog učiteljskog udruženja (JUU) 1920-1940</dcterms:alternative>
+            <dcterms:creator>Nikolova, Maja</dcterms:creator>
+            <dcterms:description xml:lang="eng">The teacher`s effect on improving schools and education in Serbia, and later in Yugoslavia, has always been remarkable. Gathered around their estates association, since the eighties of the 19th century, they have worked on improving the quality of teaching, financial status of teachers, education and training of teaching staff and to provide local and international contacts. The Regulations of the Association was adopted at the founding congress of the Yugoslav teachers` association on 17 and 18 July 1920th in Belgrade. Among other things, the goals of Association were the activities which based of political and religious liberty, and the development of cultural relations with other similar associations. It was seen that, from the beginning of JUU (YTO Yugoslav teachers' association), international cooperation played an important role. As a member of the International Association of Teachers' they had intensive partnerships with France and Czechoslovakia. In 1922 French society was initiated the cooperation, next year the members of the Association attended the First International Congress in Paris, and the 1927th Association took part in the World Congress of primary education in Paris. In 1923 Yugoslav and Czechoslovak teachers organized a meeting and exhibition entitled "Cultural mission schools in the nation and the state" in Bratislava, and the 1927th Czechoslovak teachers from Brno visited Belgrade. Belgrade has hosted, in 1936, the International Teacher Conferences, and was the place where the Declaration about the coming German Nazism was adopted. The aims of this paper are to draw attention on two important moments in international cooperation YTO. In the first place it was the exchange of professional ideas that seemed to improve the quality of teaching and the development of pedagogical science, and raising the cultural level of the Serbian teachers. Another important characteristic is their relationship to the political developments in the country and in Europe, their participation in wider social trends.</dcterms:description>
+            <dcterms:description xml:lang="srp">Delovanje učiteljstva na unapređenje školstva i prosvete u Srbiji, a kasnije i u Jugoslaviji, uvek je bilo zapaženo. Okupljeni oko svog staleškog udruženja, od osamdesetih godina 19. veka, radili su na poboljšanju kvaliteta nastave, materijalnog statusa učitelja, obrazovanja i usavršavanja učiteljskog kadra kao i na stalnim lokalnim i međjunarodnim kontaktima. Na osnivačkom kongresu Jugoslovenskog učiteljstva, održanom 17. i 18. jula 1920. u Beogradu, doneta su „Pravila udruženja“, u kojima je bilo, između ostalog, navedeno da je cilj delatnosti ujedinjenje jugoslovenskog učiteljstva na osnovu političke i verske slobode i razvijanje kulturnih odnosa sa sličnim asocijacijama. Ustvari, krajem 1917. u Parizu je osnovano Učiteljsko udruženje Srba, Hrvata i Slovenaca koje je, pored moralnog i materijalnog pomaganja svojih članova, radilo i na podizanju nacionalne svesti, ostvarivanju kontakat sa srodnim udruženjima i prikupljanju informacija i materijala koji bi, nakon oslobođenja Srbje, doprineli boljoj organizaciji osnovne nastave. Uviđa se da je od samih početaka rada JUU (Jugoslovensko učiteljsko udruženje) međunarodna sradnja imala značajnu ulogu u radu Udruženja. Kao član Internacionalnog saveza učiteljskih udruženja jugoslovensko učiteljstvo posebno je imalo intenzivnu saradnju sa Francuskom i Čehoslovačkom. Već 1922. francusko društvo učitelja iniciralo je saradnju, sledeće godine članovi Udruženja prisustvovali su Prvom Internacionalnom kongresu u Parizu, a 1927. Udruženje je uzelo učešća na Svetskom kongresu za osnovnu nastavu u Parizu. Godine 1923. jugoslovenski i čehoslovački učitelji organizovali su skup i izložbu pod nazivom „Kulturni zadatak škole u narodu i državi“ u Bratislavi, a 1927. čehoslovački učitelji i učiteljice iz Brna posetili su Beograd. Beograd je bio domaćin, 1936, Internacionalnog učiteljskog kongresa, a bio je i mesto gde je pročitan Proglas Internacionalnog učiteljskog udruženja učiteljima celog sveta u vezi sa nastupajućim nemačkim nacizmom. Pažnju privlači i činjenica da je 1936. Jugoslaviju postilo i pedeset učiteljica i profesorki iz Kalifornije, a sledeće godine Međunarodni savez učiteljskih udruženja tražio je pomoć za decu španskih učitelja.</dcterms:description>
+            <dcterms:subject xml:lang="slv">zgodovina</dcterms:subject>
+            <dcterms:subject xml:lang="slv">šolstvo</dcterms:subject>
+            <dcterms:subject xml:lang="slv">muzej</dcterms:subject>
+            <dcterms:subject xml:lang="eng">history</dcterms:subject>
+            <dcterms:subject xml:lang="eng">school system</dcterms:subject>
+            <dcterms:subject xml:lang="eng">museum</dcterms:subject>
+            <dcterms:publisher>Slovenski šolski muzej, Ljubljana</dcterms:publisher>
+            <dcterms:publisher>Zveza zgodovinskih društev Slovenije, Ljubljana</dcterms:publisher>
+            <dcterms:publisher>ICOM Slovenija, Celje</dcterms:publisher>
+            <dcterms:publisher>Inštitut za novejšo zgodovino, Ljubljana</dcterms:publisher>
+            <dcterms:contributor>Marjetka Balkovec Debevec (moderator)</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2013-06-28</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">MovingImage</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">mul</dcterms:language>
+            <dcterms:license xsi:type="dcterms:URI">http://creativecommons.org/licenses/by-nc-nd/2.5/si/</dcterms:license>
+            <dcterms:license xml:lang="slv">Priznanje avtorstva-Nekomercialo-Brez predelav 2.5 Slovenija (CC BY-NC-ND 2.5 SI)</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.37725">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>37725</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/37725</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.37725">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="eng">
+                  <p xmlns="http://sistory.si/schema/sistory/v3/entity">The teacher`s effect on improving schools and education in
+                                        Serbia, and later in Yugoslavia, has always been remarkable.
+                                        Gathered around their estates association, since the
+                                        eighties of the 19th century, they have worked on improving
+                                        the quality of teaching, financial status of teachers,
+                                        education and training of teaching staff and to provide
+                                        local and international contacts. The Regulations of the
+                                        Association was adopted at the founding congress of the
+                                        Yugoslav teachers` association on 17 and 18 July 1920th in
+                                        Belgrade. Among other things, the goals of Association were
+                                        the activities which based of political and religious
+                                        liberty, and the development of cultural relations with
+                                        other similar associations. It was seen that, from the
+                                        beginning of JUU (YTO Yugoslav teachers' association),
+                                        international cooperation played an important role. As a
+                                        member of the International Association of Teachers' they
+                                        had intensive partnerships with France and Czechoslovakia.
+                                        In 1922 French society was initiated the cooperation, next
+                                        year the members of the Association attended the First
+                                        International Congress in Paris, and the 1927th Association
+                                        took part in the World Congress of primary education in
+                                        Paris. In 1923 Yugoslav and Czechoslovak teachers organized
+                                        a meeting and exhibition entitled "Cultural mission schools
+                                        in the nation and the state" in Bratislava, and the 1927th
+                                        Czechoslovak teachers from Brno visited Belgrade. Belgrade
+                                        has hosted, in 1936, the International Teacher Conferences,
+                                        and was the place where the Declaration about the coming
+                                        German Nazism was adopted. The aims of this paper are to
+                                        draw attention on two important moments in international
+                                        cooperation YTO. In the first place it was the exchange of
+                                        professional ideas that seemed to improve the quality of
+                                        teaching and the development of pedagogical science, and
+                                        raising the cultural level of the Serbian teachers. Another
+                                        important characteristic is their relationship to the
+                                        political developments in the country and in Europe, their
+                                        participation in wider social trends.</p>
+               </entity:description>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="video1" USE="EXTERNAL">
+            <METS:FLocat USE="YOUTUBE"
+                         LOCTYPE="URL"
+                         xlink:href="//www.youtube.com/embed/mSdPb-IV4g4"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37713"/>
+         <METS:div TYPE="entity" DMDID="dc.37725" ADMID="premis.37725 entity.37725">
+            <METS:fptr FILEID="video1"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

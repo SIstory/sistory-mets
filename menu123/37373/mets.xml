@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/37373"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2017-03-29T22:58:18"
+                 LASTMODDATE="2017-04-07T11:18:58"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.4" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.37373" GROUPID="37373">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="slv">Pouk zgodovine o vojnah skozi oči otrok</dcterms:title>
+            <dcterms:alternative xml:lang="slv">History Lessons on War Through Children’s Eyes</dcterms:alternative>
+            <dcterms:creator>Brodnik, Vilma</dcterms:creator>
+            <dcterms:description xml:lang="slv">Pri pouku zgodovine v osnovnih in srednjih šolah se obravnava tudi teme o vojnah, polnih nasilja, trpljenja, okrutnosti, hudobije, zla in brezbrižnosti. Zato je pomembna in odgovorna naloga pouka zgodovine, kako obravnavati vojno tematiko. Obravnava vojaških operacij, diplomatskih akcij ter statističnih prikazov posledic vojn je lahko suhoparna in brezosebna. Vključevanje didaktičnih gradiv s prizori mučenja in trpljenja lahko šokirajo in pri učencih povzročijo stres ali travme, morda sprožijo neprimerne opazke in odpor do pouka zgodovine. Zato so različne oblike pričevanj, osebnih življenjskih zgodb ali študijskih primerov primerne za pouk zgodovine o vojnem nasilju in trpljenju ljudi. Pričevanja so lahko izražena v zapisu ali filmskem prikazu osebne življenjske zgodbe, v pesmi, v foto zgodbi ohranjene fotografije, v črticah, povestih ali romanih z zgodovinskim ozadjem, v spisih in risbah otrok, žrtvah vojnega nasilja, v dnevnikih ipd. Odgovorna naloga učitelja je, da izbere takšna pričevanja, da bo v učencih vzbudil empatijo, sočutje in spoštovanje žrtev vojnega nasilja. Učence je treba opozoriti, da so takšna pričevanja viri prve roke in ne znanstvena zgodovina, ki je napisana na temelju raznolikih dostopnih zgodovinskih virov. Učence je treba ozavestiti, naj ne bodo brezbrižni opazovalci, ampak da se je treba na nasilje, krivice in kršenje človekovih pravic odzvati.</dcterms:description>
+            <dcterms:description xml:lang="eng">One of the discussed topics in history lessons in primary and secondary schools are war topics, which are full of violence, suffering, cruelty, wickedness, evilness and carelessness. Therefore, the history lessons have an important and responsible task in how to discuss war topics. The discussion of military operations, diplomatic actions and statistical display of war consequences can be dull and impersonal. The integration of didactic material with scenes of torture and suffering can shock and cause stress or trauma in students, perhaps it may even trigger inappropriate remarks or history aversion. Therefore, various forms of testimonies, personal life stories or case studies are suitable for history lessons about war violence and the suffering of people. Testimonies can be expressed as a record, film display, song, photo story of a preserved photography, short stories, stories or novels with historical background, essays and children drawings, war victims, diaries, etc. The teacher’s responsibility is to choose the kind of testimonies that will cause empathy, compassion and respect for the war victims. Students must note that these testimonies are firsthand sources, and not scientific history, which was written on the basis of different available historical sources. Students should be made aware that they should not be careless observers, but should respond to violence, injustice and violations of human rights.</dcterms:description>
+            <dcterms:subject xml:lang="slv">pouk zgodovine</dcterms:subject>
+            <dcterms:subject xml:lang="slv">viri prve roke</dcterms:subject>
+            <dcterms:subject xml:lang="slv">genocidi</dcterms:subject>
+            <dcterms:subject xml:lang="slv">holokavst</dcterms:subject>
+            <dcterms:subject xml:lang="slv">človekove pravice</dcterms:subject>
+            <dcterms:subject xml:lang="eng">history lessons</dcterms:subject>
+            <dcterms:subject xml:lang="eng">first-hand sources</dcterms:subject>
+            <dcterms:subject xml:lang="eng">genocide</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Holocaust</dcterms:subject>
+            <dcterms:subject xml:lang="eng">human rights</dcterms:subject>
+            <dcterms:publisher>Zveza zgodovinskih društev Slovenije, Ljubljana</dcterms:publisher>
+            <dcterms:publisher>Inštitut za novejšo zgodovino, Ljubljana</dcterms:publisher>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2016-09-28</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">MovingImage</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">slv</dcterms:language>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.37373">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>37373</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/37373</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.37373">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Pri pouku zgodovine v
+                                    osnovnih in srednjih šolah se obravnava tudi teme o vojnah,
+                                    polnih nasilja, trpljenja, okrutnosti, hudobije, zla in
+                                    brezbrižnosti. Zato je pomembna in odgovorna naloga pouka
+                                    zgodovine, kako obravnavati vojno tematiko. Obravnava vojaških
+                                    operacij, diplomatskih akcij ter statističnih prikazov posledic
+                                    vojn je lahko suhoparna in brezosebna. Vključevanje didaktičnih
+                                    gradiv s prizori mučenja in trpljenja lahko šokirajo in pri
+                                    učencih povzročijo stres ali travme, morda sprožijo neprimerne
+                                    opazke in odpor do pouka zgodovine. Zato so različne oblike
+                                    pričevanj, osebnih življenjskih zgodb ali študijskih primerov
+                                    primerne za pouk zgodovine o vojnem nasilju in trpljenju ljudi.
+                                    Pričevanja so lahko izražena v zapisu ali filmskem prikazu
+                                    osebne življenjske zgodbe, v pesmi, v foto zgodbi ohranjene
+                                    fotografije, v črticah, povestih ali romanih z zgodovinskim
+                                    ozadjem, v spisih in risbah otrok, žrtvah vojnega nasilja, v
+                                    dnevnikih ipd. Odgovorna naloga učitelja je, da izbere takšna
+                                    pričevanja, da bo v učencih vzbudil empatijo, sočutje in
+                                    spoštovanje žrtev vojnega nasilja. Učence je treba opozoriti, da
+                                    so takšna pričevanja viri prve roke in ne znanstvena zgodovina,
+                                    ki je napisana na temelju raznolikih dostopnih zgodovinskih
+                                    virov. Učence je treba ozavestiti, naj ne bodo brezbrižni
+                                    opazovalci, ampak da se je treba na nasilje, krivice in kršenje
+                                    človekovih pravic odzvati. </entity:description>
+               <entity:description xml:lang="eng"> One of the discussed
+                                    topics in history lessons in primary and secondary schools are
+                                    war topics, which are full of violence, suffering, cruelty,
+                                    wickedness, evilness and carelessness. Therefore, the history
+                                    lessons have an important and responsible task in how to discuss
+                                    war topics. The discussion of military operations, diplomatic
+                                    actions and statistical display of war consequences can be dull
+                                    and impersonal. The integration of didactic material with scenes
+                                    of torture and suffering can shock and cause stress or trauma in
+                                    students, perhaps it may even trigger inappropriate remarks or
+                                    history aversion. Therefore, various forms of testimonies,
+                                    personal life stories or case studies are suitable for history
+                                    lessons about war violence and the suffering of people.
+                                    Testimonies can be expressed as a record, film display, song,
+                                    photo story of a preserved photography, short stories, stories
+                                    or novels with historical background, essays and children
+                                    drawings, war victims, diaries, etc. The teacher’s
+                                    responsibility is to choose the kind of testimonies that will
+                                    cause empathy, compassion and respect for the war victims.
+                                    Students must note that these testimonies are firsthand sources,
+                                    and not scientific history, which was written on the basis of
+                                    different available historical sources. Students should be made
+                                    aware that they should not be careless observers, but should
+                                    respond to violence, injustice and violations of human rights.
+                                </entity:description>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="video1" USE="EXTERNAL">
+            <METS:FLocat USE="YOUTUBE"
+                         LOCTYPE="URL"
+                         xlink:href="https://www.youtube.com/embed/eGG-nuWGiGQ"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37361"/>
+         <METS:div TYPE="entity" DMDID="dc.37373" ADMID="premis.37373 entity.37373">
+            <METS:fptr FILEID="video1"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

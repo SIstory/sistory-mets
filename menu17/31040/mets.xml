@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/31040"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2015-06-02T11:55:34"
+                 LASTMODDATE="2017-02-15T12:17:52"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.31040" GROUPID="31040">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="slv">Otrok na poti do učenca in dijaka: pogledi na šolanje kot del otroštva v 19. in 20. stoletju</dcterms:title>
+            <dcterms:alternative xml:lang="eng">Child on his Path to Becoming a Pupil and a Student. Education as a Part of Childhood in 19th and 20th Century</dcterms:alternative>
+            <dcterms:creator>Šuštar, Branko</dcterms:creator>
+            <dcterms:abstract xml:lang="slv">Prehod v svet pridobivanja šolskega znanja so najprej doživeli le redki posamezniki, v drugi polovici 19. stol. pa odhod v šolo postaja običajen življenjski mejnik. Pot v šolo in šolski ritem sta vplivala na otroški vsakdan. Šola je oblika državne in cerkvene vzgojne ter izobraževalne dejavnosti, način prenašanja znanja, ki s širjenjem pismenosti spodbuja kulturni razvoj. Šola z jezikovno podobo, različnimi učitelji (nato vedno številčnejšimi učiteljicami) in s spreminjajočo se vsebino pouka pomembno sooblikuje učenkam in učencem njihovo različno doživljanje otroštva.</dcterms:abstract>
+            <dcterms:abstract xml:lang="eng">The transition into the world of the acquisition of school knowledge at first only few individuals experienced, then in the second half of 19th century going to school became an ordinary life’s milestone. Going to school and the school rhythm influenced a children’s everyday life. The school is a form of a state and a church educational and pedagogic activity, the method of transferring the knowledge, which promotes the cultural development with expend of literacy. School with the language image, different teachers (and then with a growing number of female teachers) and by changing the content of teaching helps children to create their different experience of childhood.</dcterms:abstract>
+            <dcterms:subject xml:lang="slv">osnovna šola, , , ,</dcterms:subject>
+            <dcterms:subject xml:lang="slv">kulturni razvoj</dcterms:subject>
+            <dcterms:subject xml:lang="slv">pismenost</dcterms:subject>
+            <dcterms:subject xml:lang="slv">otroštvo</dcterms:subject>
+            <dcterms:subject xml:lang="slv">spomini</dcterms:subject>
+            <dcterms:subject xml:lang="eng">childhood</dcterms:subject>
+            <dcterms:subject xml:lang="eng">memories</dcterms:subject>
+            <dcterms:subject xml:lang="eng">primary school</dcterms:subject>
+            <dcterms:subject xml:lang="eng">cultural development</dcterms:subject>
+            <dcterms:subject xml:lang="eng">literacy</dcterms:subject>
+            <dcterms:publisher>Zveza zgodovinskih društev Slovenije</dcterms:publisher>
+            <dcterms:contributor>Peter Štih (gl. in od. ur.)</dcterms:contributor>
+            <dcterms:contributor>Aida Škoro Babić (ur. in prev.)</dcterms:contributor>
+            <dcterms:contributor>Mateja Jeraj (ur.)</dcterms:contributor>
+            <dcterms:contributor>Matevž Košir (ur.)</dcterms:contributor>
+            <dcterms:contributor>Bojan Balkovec (ur.)</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2012</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">Text</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">slv</dcterms:language>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:dmdSec ID="mods.31040" GROUPID="31040">
+      <METS:mdWrap MDTYPE="MODS" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <mods:relatedItem type="series">
+               <mods:titleInfo>
+                  <mods:title>Zbirka zgodovinskega časopisa, 45</mods:title>
+               </mods:titleInfo>
+            </mods:relatedItem>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.31040">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>31040</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/31040#page=311</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.31040">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Prehod v svet
+                                    pridobivanja šolskega znanja so najprej doživeli le redki
+                                    posamezniki, v drugi polovici 19. stol. pa odhod v šolo postaja
+                                    običajen življenjski mejnik. Pot v šolo in šolski ritem sta
+                                    vplivala na otroški vsakdan. Šola je oblika državne in cerkvene
+                                    vzgojne ter izobraževalne dejavnosti, način prenašanja znanja,
+                                    ki s širjenjem pismenosti spodbuja kulturni razvoj. Šola z
+                                    jezikovno podobo, različnimi učitelji (nato vedno številčnejšimi
+                                    učiteljicami) in s spreminjajočo se vsebino pouka pomembno
+                                    sooblikuje učenkam in učencem njihovo različno doživljanje
+                                    otroštva. </entity:description>
+               <entity:description xml:lang="eng"> The transition into the
+                                    world of the acquisition of school knowledge at first only few
+                                    individuals experienced, then in the second half of 19th century
+                                    going to school became an ordinary life’s milestone. Going to
+                                    school and the school rhythm influenced a children’s everyday
+                                    life. The school is a form of a state and a church educational
+                                    and pedagogic activity, the method of transferring the
+                                    knowledge, which promotes the cultural development with expend
+                                    of literacy. School with the language image, different teachers
+                                    (and then with a growing number of female teachers) and by
+                                    changing the content of teaching helps children to create their
+                                    different experience of childhood. </entity:description>
+               <entity:page>311</entity:page>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/31016"/>
+         <METS:div TYPE="entity"
+                   DMDID="dc.31040 mods.31040"
+                   ADMID="premis.31040 entity.31040"/>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

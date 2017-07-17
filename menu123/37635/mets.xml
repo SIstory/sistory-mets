@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/37635"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2017-05-23T13:22:23"
+                 LASTMODDATE="2017-05-23T13:25:54"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.37635" GROUPID="37635">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="slv">Avtonomija in ekonomija nadiških dolin v Beneški republiki</dcterms:title>
+            <dcterms:alternative xml:lang="eng">Autonomy and economics of the Natisone valleys in the Republic of Venice</dcterms:alternative>
+            <dcterms:creator>Beguš, Ines</dcterms:creator>
+            <dcterms:subject xml:lang="slv">avtonomija</dcterms:subject>
+            <dcterms:subject xml:lang="slv">agrarna ekonomija</dcterms:subject>
+            <dcterms:subject xml:lang="slv">privilegiji</dcterms:subject>
+            <dcterms:subject xml:lang="slv">neagrarne dejavnosti</dcterms:subject>
+            <dcterms:subject xml:lang="slv">produkcijska razmerja</dcterms:subject>
+            <dcterms:subject xml:lang="slv">Nadiške doline</dcterms:subject>
+            <dcterms:subject xml:lang="slv">Landar</dcterms:subject>
+            <dcterms:subject xml:lang="slv">Mersa</dcterms:subject>
+            <dcterms:subject xml:lang="slv">Beneška republika</dcterms:subject>
+            <dcterms:subject xml:lang="slv">Beneška Slovenija</dcterms:subject>
+            <dcterms:subject xml:lang="slv">Vzhodne Alpe</dcterms:subject>
+            <dcterms:subject xml:lang="eng">autonomy</dcterms:subject>
+            <dcterms:subject xml:lang="eng">privileges</dcterms:subject>
+            <dcterms:subject xml:lang="eng">agrarian economy</dcterms:subject>
+            <dcterms:subject xml:lang="eng">non-agrarian activities</dcterms:subject>
+            <dcterms:subject xml:lang="eng">production relations</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Natisone valleys</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Antro</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Merso</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Republic of Venice</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Venetian Slovenia</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Eastern Alps</dcterms:subject>
+            <dcterms:publisher>Zveza zgodovinskih društev Slovenije, Ljubljana</dcterms:publisher>
+            <dcterms:publisher>Inštitut za novejšo zgodovino, Ljubljana</dcterms:publisher>
+            <dcterms:contributor>Mateja Režek (moderator)</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2014-10-24</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">MovingImage</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">slv</dcterms:language>
+            <dcterms:language xsi:type="dcterms:ISO639-3">eng</dcterms:language>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.37635">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>37635</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/37635</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="video1" USE="EXTERNAL">
+            <METS:FLocat USE="YOUTUBE"
+                         LOCTYPE="URL"
+                         xlink:href="//www.youtube.com/embed/Id930-DWJxc"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37628"/>
+         <METS:div TYPE="entity" DMDID="dc.37635" ADMID="premis.37635">
+            <METS:fptr FILEID="video1"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

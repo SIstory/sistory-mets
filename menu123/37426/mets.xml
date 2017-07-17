@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/37426"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2017-04-05T08:47:17"
+                 LASTMODDATE="2017-04-07T11:26:37"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.4" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.37426" GROUPID="37426">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="slv">Vplivi osnovnošolskih izobraževalnih ustanov na kulturno in gospodarsko podobo podeželja v drugi polovici 19. stoletja: primer sodnega okraja Kanal Robert</dcterms:title>
+            <dcterms:alternative xml:lang="eng">Influences of Primary Educational Institutions on the Cultural and Economic Image of Countryside in the Second Half of the 19th Century: Jurisdiction Kanal</dcterms:alternative>
+            <dcterms:creator>Devetak, Robert</dcterms:creator>
+            <dcterms:description xml:lang="slv">Prispevek bo obravnaval širjenje in različne vplive izobraževalnih ustanov na področju sodnega okraja Kanal v drugi polovici 19. stoletja. V sodnem okraju Kanal (dežela Goriška in Gradiška) sta do leta 1874 delovali le dve osnovni šoli. Glede izobraževalne infrastrukture in kadra je okraj (predvsem višje ležeči predeli- Banjšice, Kanalski kolovrat) v začetnem obdobju Avstro-Ogrske zaostajal za deželnim povprečjem. Moderni šolski sistem se je pričel vzpostavljati s postopnim ustanavljanjem novih šol v okraju konec 70. let 19. stoletja. Do sprememb je prišlo z modernizacijo šolskega sistema, ki ga je uvedel šolski zakon iz leta 1869. Ta je razširil mrežo šol, s čimer je šolska obveza zajela celoten okraj. Posledično se je tako leta 1890 v okraju število šol povečalo na 17. V prispevku bo raziskano, kako je prihod šole in učiteljskega kadra v kraj/občino vplival na življenje tamkajšnjega prebivalstva in na razvoj kulturnih ter gospodarskih panog. Poleg tega bo primerjal obsoške, nižje ležeče predele okraja z višjimi predeli, kjer se je izobraževalni sistem vzpostavil z zamikom šele v 80. letih 19. stoletja. Neizobraženost in nepismenost, ki sta bili posledici sorazmerno poznega prihoda izobraževalnih ustanov, sta pripomogli k slabemu odzivu na spreminjajoče se gospodarske razmere in različne krize, ki so kanalski okraj prizadele v večji meri kot preostale dele dežele.</dcterms:description>
+            <dcterms:description xml:lang="eng">The paper will address the spreading and different effects of educational institutions in the jurisdiction Kanal in the second part of the 19th century. Until 1874, only two primary schools were active in Kanal (The Princely County of Gorizia and Gradisca). Considering the educational infrastructure and personnel, the district (especially higher areas – Banjšice, Kanalski kolovrat) was behind the county’s average in the initial period of Austria-Hungary. The modern school system was set-up with the gradual establishment of new schools at the end of the 1870s. Changes appeared with the Imperial Primary Education Act of 1869, which modernized the school system. The network of schools was expended, and by that the compulsory school covered the entire jurisdiction. In 1890, the number of schools increased to 17. The paper will research how the arrival of schools and personnel to this place/municipality influenced people’s lives, and the development of cultural and economic industry. Also it will compare the lower lying areas with the higher areas, where the educational system was set-up with a delay in the 1880s. The lack of education and illiteracy, which were the result of a relatively late arrival of educational institutions, have contributed to a poor response on the changing economic conditions and various crises, which affected Kanal in a greater extent than other parts of the county.</dcterms:description>
+            <dcterms:subject xml:lang="slv">sodni okraj Kanal</dcterms:subject>
+            <dcterms:subject xml:lang="slv">19. stoletje</dcterms:subject>
+            <dcterms:subject xml:lang="slv">Goriška</dcterms:subject>
+            <dcterms:subject xml:lang="slv">Osnovnošolski zakon (1869)</dcterms:subject>
+            <dcterms:subject xml:lang="slv">gospodarski razvoj</dcterms:subject>
+            <dcterms:subject xml:lang="eng">jurisdiction Kanal</dcterms:subject>
+            <dcterms:subject xml:lang="eng">the 19th century</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Gorizia</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Imperial Primary Education Act (1869)</dcterms:subject>
+            <dcterms:subject xml:lang="eng">economic development</dcterms:subject>
+            <dcterms:publisher>Zveza zgodovinskih društev Slovenije, Ljubljana</dcterms:publisher>
+            <dcterms:publisher>Inštitut za novejšo zgodovino, Ljubljana</dcterms:publisher>
+            <dcterms:contributor>Teodor Domej (moderator)</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2016-09-28</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">MovingImage</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">eng</dcterms:language>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.37426">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>37426</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/37426</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.37426">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Prispevek bo obravnaval
+                                    širjenje in različne vplive izobraževalnih ustanov na področju
+                                    sodnega okraja Kanal v drugi polovici 19. stoletja. V sodnem
+                                    okraju Kanal (dežela Goriška in Gradiška) sta do leta 1874
+                                    delovali le dve osnovni šoli. Glede izobraževalne infrastrukture
+                                    in kadra je okraj (predvsem višje ležeči predeli- Banjšice,
+                                    Kanalski kolovrat) v začetnem obdobju Avstro-Ogrske zaostajal za
+                                    deželnim povprečjem. Moderni šolski sistem se je pričel
+                                    vzpostavljati s postopnim ustanavljanjem novih šol v okraju
+                                    konec 70. let 19. stoletja. Do sprememb je prišlo z
+                                    modernizacijo šolskega sistema, ki ga je uvedel šolski zakon iz
+                                    leta 1869. Ta je razširil mrežo šol, s čimer je šolska obveza
+                                    zajela celoten okraj. Posledično se je tako leta 1890 v okraju
+                                    število šol povečalo na 17. V prispevku bo raziskano, kako je
+                                    prihod šole in učiteljskega kadra v kraj/občino vplival na
+                                    življenje tamkajšnjega prebivalstva in na razvoj kulturnih ter
+                                    gospodarskih panog. Poleg tega bo primerjal obsoške, nižje
+                                    ležeče predele okraja z višjimi predeli, kjer se je
+                                    izobraževalni sistem vzpostavil z zamikom šele v 80. letih 19.
+                                    stoletja. Neizobraženost in nepismenost, ki sta bili posledici
+                                    sorazmerno poznega prihoda izobraževalnih ustanov, sta
+                                    pripomogli k slabemu odzivu na spreminjajoče se gospodarske
+                                    razmere in različne krize, ki so kanalski okraj prizadele v
+                                    večji meri kot preostale dele dežele. </entity:description>
+               <entity:description xml:lang="eng"> The paper will address
+                                    the spreading and different effects of educational institutions
+                                    in the jurisdiction Kanal in the second part of the 19th
+                                    century. Until 1874, only two primary schools were active in
+                                    Kanal (The Princely County of Gorizia and Gradisca). Considering
+                                    the educational infrastructure and personnel, the district
+                                    (especially higher areas – Banjšice, Kanalski kolovrat) was
+                                    behind the county’s average in the initial period of
+                                    Austria-Hungary. The modern school system was set-up with the
+                                    gradual establishment of new schools at the end of the 1870s.
+                                    Changes appeared with the Imperial Primary Education Act of
+                                    1869, which modernized the school system. The network of schools
+                                    was expended, and by that the compulsory school covered the
+                                    entire jurisdiction. In 1890, the number of schools increased to
+                                    17. The paper will research how the arrival of schools and
+                                    personnel to this place/municipality influenced people’s lives,
+                                    and the development of cultural and economic industry. Also it
+                                    will compare the lower lying areas with the higher areas, where
+                                    the educational system was set-up with a delay in the 1880s. The
+                                    lack of education and illiteracy, which were the result of a
+                                    relatively late arrival of educational institutions, have
+                                    contributed to a poor response on the changing economic
+                                    conditions and various crises, which affected Kanal in a greater
+                                    extent than other parts of the county. </entity:description>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="video1" USE="EXTERNAL">
+            <METS:FLocat USE="YOUTUBE"
+                         LOCTYPE="URL"
+                         xlink:href="https://www.youtube.com/embed/FF1KmUuOSU0"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37382"/>
+         <METS:div TYPE="entity" DMDID="dc.37426" ADMID="premis.37426 entity.37426">
+            <METS:fptr FILEID="video1"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

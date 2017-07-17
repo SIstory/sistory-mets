@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/37764"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2017-06-13T12:05:45"
+                 LASTMODDATE="2017-06-13T12:08:12"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.37764" GROUPID="37764">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="slv">Posebna šola pri Ortopedski bolnišnici Valdoltra 1956-1994</dcterms:title>
+            <dcterms:alternative xml:lang="eng">Special School by Orthopaedic Hospital Valdoltra 1956–1994</dcterms:alternative>
+            <dcterms:creator>Kontestabile Rovis, Mirjana</dcterms:creator>
+            <dcterms:description xml:lang="slv">Razvoj bolnišničnih šol je povezan z razvojem pedagogike, kulturno-socialnimi spremembami družbe in razvojem pediatrije kot samostojne medicinske discipline. Njihov namen je predvsem terapevtski. Nastale so na pobudo pediatrov in posameznikov, katerim niso bili pomembni le medicinski rezultati zdravljenja temveč tudi psihofizično stanje otrok. Posebno šolo pri Bolnici za kostna in sklepna obolenja Valdoltra so ustanovili 1. septembra 1956. V Valdoltro so jo preselili iz Zdravilišča za kostno TBC v Šempetru. Posebna šola pri Ortopedski bolnišnici Valdoltra je otrokom ohranjala delovne navade, vedrino in stik z zunanjim svetom, da bi se lažje vključevali v domače in šolsko okolje po zaključku zdravljenja. V okrevališču in kasneje bolnišnici Valdoltra so zdravili do 60. let 20. stoletja osteoartikularno tuberkulozo (OAT), v sedemdesetih letih in kasneje pa predvsem ortopedske bolezni. Ker se je v 90. letih hospitalizacijska doba otrok po operacijah skrajšala, so 31. avgusta 1994 šolo ukinili, šolanje otrok v Bolnišnici Valdoltra je prevzela OŠ Dekani.</dcterms:description>
+            <dcterms:description xml:lang="eng">Development of hospital schools je related to development of pedagogy, cultural-social changes in society and the development of paediatrics as an independent medical discipline. Their purpose was mostly in the nature of therapy. They were established on the initiative of paediatricians and those individuals who believed that psycho-physical state of children are as well important as medical results of medical treatment. Special school by Hospital for bone and joint illnesses Valdoltra was funded on the 1st of September 1956. It was moved from the Clinic for bone TBC in Šempeter. Special school by Orthopaedic Hospital Valdoltra maintained children’s working habits, joy and a contact with the outside world, so they could easier get include into domestic or school environment after the therapy completion. In recovery centre and later hospital in Valdoltra until the sixties of 20th century they have been treating osteoarticular tuberculosis, in seventies and later they treated mostly orthopaedic diseases. In nineties the hospitalisation period after operation for children got shortened and on the 31st of August the School was abolished. Education for children from the hospital in Valdoltra got over by the Primary school Dekani.</dcterms:description>
+            <dcterms:subject xml:lang="slv">Posebna šola pri Ortopedski bolnišnici Valdoltra</dcterms:subject>
+            <dcterms:subject xml:lang="slv">bolnišnična šola</dcterms:subject>
+            <dcterms:subject xml:lang="slv">Ortopedska bolnica Valdoltra</dcterms:subject>
+            <dcterms:subject xml:lang="slv">Special school by Orthopaedic Hospital Valdoltra</dcterms:subject>
+            <dcterms:subject xml:lang="slv">hospital school</dcterms:subject>
+            <dcterms:subject xml:lang="slv">Orthopaedic Hospital Valdoltra</dcterms:subject>
+            <dcterms:subject xml:lang="slv">osteoarticular tuberculosis</dcterms:subject>
+            <dcterms:subject xml:lang="slv">osteoartikularna tuberkuloza (OAT)</dcterms:subject>
+            <dcterms:publisher>Zveza zgodovinskih društev Slovenije, Ljubljana</dcterms:publisher>
+            <dcterms:publisher>Inštitut za novejšo zgodovino, Ljubljana</dcterms:publisher>
+            <dcterms:contributor>Branko Šuštar (moderator)</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2012-10-18</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">Event</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">slv</dcterms:language>
+            <dcterms:language xsi:type="dcterms:ISO639-3">eng</dcterms:language>
+            <dcterms:license xsi:type="dcterms:URI">http://creativecommons.org/licenses/by-nc-nd/2.5/si/</dcterms:license>
+            <dcterms:license xml:lang="slv">Priznanje avtorstva-Nekomercialo-Brez predelav 2.5 Slovenija (CC BY-NC-ND 2.5 SI)</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.37764">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>37764</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/37764</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.37764">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="slv">
+                  <p xmlns="http://sistory.si/schema/sistory/v3/entity">Razvoj bolnišničnih šol je povezan z razvojem pedagogike,
+                                        kulturno-socialnimi spremembami družbe in razvojem
+                                        pediatrije kot samostojne medicinske discipline. Njihov
+                                        namen je predvsem terapevtski. Nastale so na pobudo
+                                        pediatrov in posameznikov, katerim niso bili pomembni le
+                                        medicinski rezultati zdravljenja temveč tudi psihofizično
+                                        stanje otrok. Posebno šolo pri Bolnici za kostna in sklepna
+                                        obolenja Valdoltra so ustanovili 1. septembra 1956. V
+                                        Valdoltro so jo preselili iz Zdravilišča za kostno TBC v
+                                        Šempetru. Posebna šola pri Ortopedski bolnišnici Valdoltra
+                                        je otrokom ohranjala delovne navade, vedrino in stik z
+                                        zunanjim svetom, da bi se lažje vključevali v domače in
+                                        šolsko okolje po zaključku zdravljenja. V okrevališču in
+                                        kasneje bolnišnici Valdoltra so zdravili do 60. let 20.
+                                        stoletja osteoartikularno tuberkulozo (OAT), v sedemdesetih
+                                        letih in kasneje pa predvsem ortopedske bolezni. Ker se je v
+                                        90. letih hospitalizacijska doba otrok po operacijah
+                                        skrajšala, so 31. avgusta 1994 šolo ukinili, šolanje otrok v
+                                        Bolnišnici Valdoltra je prevzela OŠ Dekani.</p>
+               </entity:description>
+               <entity:description xml:lang="eng">
+                  <p xmlns="http://sistory.si/schema/sistory/v3/entity">Development of hospital schools je related to development of
+                                        pedagogy, cultural-social changes in society and the
+                                        development of paediatrics as an independent medical
+                                        discipline. Their purpose was mostly in the nature of
+                                        therapy. They were established on the initiative of
+                                        paediatricians and those individuals who believed that
+                                        psycho-physical state of children are as well important as
+                                        medical results of medical treatment. Special school by
+                                        Hospital for bone and joint illnesses Valdoltra was funded
+                                        on the 1st of September 1956. It was moved from the Clinic
+                                        for bone TBC in Šempeter. Special school by Orthopaedic
+                                        Hospital Valdoltra maintained children’s working habits, joy
+                                        and a contact with the outside world, so they could easier
+                                        get include into domestic or school environment after the
+                                        therapy completion. In recovery centre and later hospital in
+                                        Valdoltra until the sixties of 20th century they have been
+                                        treating osteoarticular tuberculosis, in seventies and later
+                                        they treated mostly orthopaedic diseases. In nineties the
+                                        hospitalisation period after operation for children got
+                                        shortened and on the 31st of August the School was
+                                        abolished. Education for children from the hospital in
+                                        Valdoltra got over by the Primary school Dekani.</p>
+               </entity:description>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="video1" USE="EXTERNAL">
+            <METS:FLocat USE="YOUTUBE"
+                         LOCTYPE="URL"
+                         xlink:href="http://www.youtube.com/embed/h93Cqwfxonk"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37762"/>
+         <METS:div TYPE="entity" DMDID="dc.37764" ADMID="premis.37764 entity.37764">
+            <METS:fptr FILEID="video1"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

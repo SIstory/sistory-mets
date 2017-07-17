@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/15357"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2013-03-19T15:27:43"
+                 LASTMODDATE="2017-02-14T10:28:33"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.15357" GROUPID="15357">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="slv">36. zborovanje zveze zgodovinskih društev Slovenije</dcterms:title>
+            <dcterms:title xml:lang="slv">Zgodovina otroštva</dcterms:title>
+            <dcterms:title xml:lang="slv">Rogla, 18. - 20. oktober 2012</dcterms:title>
+            <dcterms:title xml:lang="eng">36th gathering of Union of Historical Societies of Slovenia</dcterms:title>
+            <dcterms:title xml:lang="eng">History of Childhood</dcterms:title>
+            <dcterms:title xml:lang="eng">Rogla, October 18th - 20th 2012</dcterms:title>
+            <dcterms:subject xml:lang="slv">zgodovina</dcterms:subject>
+            <dcterms:subject xml:lang="slv">otroci</dcterms:subject>
+            <dcterms:subject xml:lang="slv">otroštvo</dcterms:subject>
+            <dcterms:subject xml:lang="eng">history</dcterms:subject>
+            <dcterms:subject xml:lang="eng">children</dcterms:subject>
+            <dcterms:subject xml:lang="eng">childhood</dcterms:subject>
+            <dcterms:publisher>Zveza zgodovinskih društev Slovenije, Ljubljana</dcterms:publisher>
+            <dcterms:publisher>Inštitut za novejšo zgodovino, Ljubljana</dcterms:publisher>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2012</dcterms:date>
+            <dcterms:created xsi:type="dcterms:Period">start=18. 10. 2012; end=20. 10. 2012; name=; scheme=; </dcterms:created>
+            <dcterms:type xsi:type="dcterms:DCMIType">InteractiveResource</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">slv</dcterms:language>
+            <dcterms:language xsi:type="dcterms:ISO639-3">eng</dcterms:language>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.15357">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>15357</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/15357</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.15357">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="slv">
+                  <p xmlns="http://sistory.si/schema/sistory/v3/entity">Za nami je že 36. bienalno srečanje slovenskih zgodovinark in
+                                        zgodovinarjev, ki jezgodovinarski srenji omogočilo, da se je
+                                        za nekaj lepih jesenskih dni umaknila iz vrvežavsakdanjih
+                                        obveznosti v prijetno planinsko okolje. Srečanje je potekalo
+                                        med 18. in 20.oktobrom na Rogli. </p>
+                  <p xmlns="http://sistory.si/schema/sistory/v3/entity">Program srečanja je bil sicer časovno nabit, saj je
+                                        svojeprispevke v pisni obliki oddalo 55 avtorjev,
+                                        presenetljivo veliko iz tujine, na samemsrečanju pa se je
+                                        predstavilo kar 43 referentov. Naporna dneva pa sta se
+                                        poslušalcemzagotovo vtisnila globoko v spomin tudi zaradi
+                                        obilice novega znanja, ki ga je na planprinesla rdeča nit
+                                        zborovanja, zgodovina otroštva. Pohvalno je, da je
+                                        tokratnozborovanje vzelo pod drobnogled v slovenskem
+                                        zgodovinopisju doslej še vse premaloobravnavano in
+                                        zapostavljeno temo, ter se s tem vključilo v tokove
+                                        sodobnegazgodovinopisja. Zapletena obravnava zgodovine
+                                        otroštva seveda nujno kliče pointerdisciplinarnem pristopu,
+                                        na kar namigujejo tudi številni prispevki v
+                                        obsežnemzborniku. Šele najnovejše raziskave so pokazale, da
+                                        so bili pogledi na otroštvo doslejmarsikdaj paradigmatsko
+                                        poenostavljeni in preveč idealistično obarvani ter
+                                        prineslenekatera nova spoznanja. Referenti, ki sicer
+                                        pripadajo vsebinsko sorodnemu, ametodološko drugačnemu
+                                        svetu, so poskrbeli, da interdisciplinarnost ni ostala le
+                                        »praznabeseda«. </p>
+                  <p xmlns="http://sistory.si/schema/sistory/v3/entity">Tukaj je <a href=" http://sistory.si/publikacije/prenos/?target=pdf&amp;urn=SISTORY:ID:15519"
+                        target="_blank"> program srečanja </a>
+                  </p>
+               </entity:description>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink">
+      <METS:fileGrp USE="THUMB">
+         <METS:file ID="thumbnail">
+            <METS:FLocat LOCTYPE="URL"
+                         xlink:href="http://www.sistory.si/cdn/publikacije/15001-16000/15357/zgodovina otrostva.jpg"/>
+         </METS:file>
+      </METS:fileGrp>
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="external1" USE="EXTERNAL">
+            <METS:FLocat USE="HTTP"
+                         LOCTYPE="URL"
+                         xlink:href="http://sistory.si/11686/menu387"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="primary">
+      <METS:div TYPE="collection">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/menu123"/>
+         <METS:div TYPE="entity" DMDID="dc.15357" ADMID="premis.15357 entity.15357">
+            <METS:fptr FILEID="thumbnail"/>
+            <METS:fptr FILEID="external1"/>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37739"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37740"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37746"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37752"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37758"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37762"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37766"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37772"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37777"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37782"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37790"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37796"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37802"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37808"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37814"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37820"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37821"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37822"/>
+            </METS:div>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

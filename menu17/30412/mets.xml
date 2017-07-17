@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/30412"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2015-01-30T13:07:42"
+                 LASTMODDATE="2017-02-13T11:31:04"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.30412" GROUPID="30412">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="slv">Med Trstom in Dunajem: Ivan Nabergoj v avstrijskem državnem zboru (1873-1897)</dcterms:title>
+            <dcterms:alternative xml:lang="deu">Zwischen Triest und Wien - Ivan Nabergoj im österreichiscen Haus der Abgeordneten (1873-1897)</dcterms:alternative>
+            <dcterms:alternative xml:lang="ita">Tra Trieste e Vienna - Ivan Nabergoj al Parlamento austriaco (1873-1897)</dcterms:alternative>
+            <dcterms:creator>Rustja, Peter</dcterms:creator>
+            <dcterms:subject xml:lang="slv">parlamenti</dcterms:subject>
+            <dcterms:subject xml:lang="slv">habsburška monarhija</dcterms:subject>
+            <dcterms:subject xml:lang="slv">19.stoletje</dcterms:subject>
+            <dcterms:subject xml:lang="eng">parliaments</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Habsburg monarchy</dcterms:subject>
+            <dcterms:subject xml:lang="eng">19th century</dcterms:subject>
+            <dcterms:publisher>Krožek za družbena vprašanja Virgil Šček, Trst</dcterms:publisher>
+            <dcterms:publisher>Zveza zgodovinskih društev, Ljubljana</dcterms:publisher>
+            <dcterms:contributor>Vasilij Melik</dcterms:contributor>
+            <dcterms:contributor>Maja Pertot (prev. it)</dcterms:contributor>
+            <dcterms:contributor>Martina Piko Rustia (prev. nem.)</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:W3CDTF">1999</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">Text</dcterms:type>
+            <dcterms:identifier>COBISS.SI-ID 1685996</dcterms:identifier>
+            <dcterms:language xsi:type="dcterms:ISO639-3">slv</dcterms:language>
+            <dcterms:language xsi:type="dcterms:ISO639-3">ita</dcterms:language>
+            <dcterms:language xsi:type="dcterms:ISO639-3">deu</dcterms:language>
+            <dcterms:isPartOf xsi:type="dcterms:URI">http://hdl.handle.net/11686/26738</dcterms:isPartOf>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:dmdSec ID="mods.30412" GROUPID="30412">
+      <METS:mdWrap MDTYPE="MODS" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <mods:relatedItem type="series">
+               <mods:relatedItem type="series">
+                  <mods:titleInfo>
+                     <mods:title>Krožek za družbena vprašanja Virgil Šček</mods:title>
+                  </mods:titleInfo>
+                  <mods:part>
+                     <mods:detail type="volumens">
+                        <mods:number>28</mods:number>
+                     </mods:detail>
+                  </mods:part>
+               </mods:relatedItem>
+            </mods:relatedItem>
+            <mods:relatedItem type="series">
+               <mods:relatedItem type="series">
+                  <mods:titleInfo>
+                     <mods:title>Zbirka Zgodovinskega časopisa</mods:title>
+                  </mods:titleInfo>
+                  <mods:part>
+                     <mods:detail type="volumens">
+                        <mods:number>20</mods:number>
+                     </mods:detail>
+                  </mods:part>
+               </mods:relatedItem>
+            </mods:relatedItem>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.30412">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>30412</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/30412</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="file17385"
+                    OWNERID="Med_Trstom_in_Dunajem.pdf"
+                    MIMETYPE="application/pdf">
+            <METS:FLocat LOCTYPE="HANDLE" xlink:href="https://hdl.handle.net/11686/file17385"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="primary">
+      <METS:div TYPE="collection">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/menu17"/>
+         <METS:div TYPE="entity" DMDID="dc.30412 mods.30412" ADMID="premis.30412">
+            <METS:fptr FILEID="file17385"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

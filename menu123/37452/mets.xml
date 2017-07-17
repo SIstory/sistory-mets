@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/37452"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2017-04-05T09:03:41"
+                 LASTMODDATE="2017-04-07T11:52:14"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.4" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.37452" GROUPID="37452">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="slv">Gospodična Cizara - skrivni rokopisni list ljubljanskih licejk</dcterms:title>
+            <dcterms:alternative xml:lang="eng">Miss Cizara - Secret Manuscript Sheet of Girls’ Lyceum Students in Ljubljana</dcterms:alternative>
+            <dcterms:creator>Župančič, Alenka</dcterms:creator>
+            <dcterms:description xml:lang="slv">V prispevku je opisano izvenšolsko tajno literarno delovanje gojenk Mestnega dekliškega liceja v Ljubljani, njihova "enajsta šola". V šolskih letih 1911/12 in 1912/13 so licejke izdajale skrivni list Gospodična Cizara. V listu so se, skrite za psevdonimi, preizkušale v poeziji, prozi in publicistiki, spuščale so ostre bodice na račun avstrijske politike in reakcionarnih profesorjev. Za sodelavca so pridobile celó Ivana Cankarja in Otona Župančiča. Sotrudnice lista so obiskovale predavanja "Akademije", z Ivanom Cankarjem razpravljale o literaturi in se navduševale nad njegovimi revolucionarnimi idejami. Vse to je vplivalo na svetovnonazorsko opredelitev mladih deklet, vključile so se v tajno politično organizacijo Preporod. Nekaterim dekletom je uspelo z objavo prispevkov v reviji Domači prijatelj, ki jo je urejala Zofka Kveder; toda tudi tu so ostale skrite za psevdonimi. Razrešen je bil psevdonim licejke Vere Kesler. Njeno prvo delo je bilo objavljeno že leta 1911. Prav Vera Kesler je bila med pobudnicami skrivnega lista, ki ga je tudi urejala, ilustrirala in vanj pisala svoje prvence. V "vajalnici" pesnenja v Gospodični Cizari se je tako začela dolga literarna pot pesnice, pisateljice, publicistke in prevajalke Vere Kesler Albreht.</dcterms:description>
+            <dcterms:description xml:lang="eng">The article describes the extra-curricular secret literary operation of students at the town’s girls’ lyceum in Ljubljana, their “eleventh school” (“enajsta šola”). In the school years 1911/12 and 1912/13 students issued a secret journal “Gospodična Cizara” (Miss Cizara). Hidden behind pseudonyms the students tried themselves in poetry, prose and journalism, they criticized Austrian politics and reactionary professors. Even Ivan Cankar and Oton Župančič became their associates. Associates of the journal attended the lectures of the “Academy”, discussed with Ivan Cankar his literature and were enthusiastic about his revolutionary ideas. All of this influenced the world view definition of young girls and some became members of the secret political organization “Preporod”. Some girls succeeded with the publication of articles in the journal “Domači prijatelj”, which was edited by Zofka Kveder, but even here they were hidden behind pseudonyms. The pseudonym of student Vera Kesler was disclosed. Her first work was published already in 1911. Vera Kesler was among the initiators of the secret journal, which she edited, illustrated and wrote her debuts in. The long literary path of poet, writer, publicist and translator Vera Kesler-Albreht began with her poems for “Gospodična Cizara”.</dcterms:description>
+            <dcterms:subject xml:lang="slv">Gospodična Cizara</dcterms:subject>
+            <dcterms:subject xml:lang="slv">Vera Kesler-Albreht</dcterms:subject>
+            <dcterms:subject xml:lang="slv">Ivan Cankar</dcterms:subject>
+            <dcterms:subject xml:lang="slv">Oton Župančič</dcterms:subject>
+            <dcterms:subject xml:lang="slv">Mestni dekliški licej v Ljubljani</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Gospodična Cizara</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Ivan Cankar</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Oton Župančič</dcterms:subject>
+            <dcterms:subject xml:lang="eng">town’s girls' lyceum in Ljubljana</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Vera Kesler-Albreht</dcterms:subject>
+            <dcterms:publisher>Zveza zgodovinskih društev Slovenije, Ljubljana</dcterms:publisher>
+            <dcterms:publisher>Inštitut za novejšo zgodovino, Ljubljana</dcterms:publisher>
+            <dcterms:contributor>Klaudija Sedar (moderator)</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2016-09-30</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">MovingImage</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">slv</dcterms:language>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.37452">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>37452</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/37452</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.37452">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> V prispevku je opisano
+                                    izvenšolsko tajno literarno delovanje gojenk Mestnega dekliškega
+                                    liceja v Ljubljani, njihova "enajsta šola". V šolskih letih
+                                    1911/12 in 1912/13 so licejke izdajale skrivni list Gospodična
+                                    Cizara. V listu so se, skrite za psevdonimi, preizkušale v
+                                    poeziji, prozi in publicistiki, spuščale so ostre bodice na
+                                    račun avstrijske politike in reakcionarnih profesorjev. Za
+                                    sodelavca so pridobile celó Ivana Cankarja in Otona Župančiča.
+                                    Sotrudnice lista so obiskovale predavanja "Akademije", z Ivanom
+                                    Cankarjem razpravljale o literaturi in se navduševale nad
+                                    njegovimi revolucionarnimi idejami. Vse to je vplivalo na
+                                    svetovnonazorsko opredelitev mladih deklet, vključile so se v
+                                    tajno politično organizacijo Preporod. Nekaterim dekletom je
+                                    uspelo z objavo prispevkov v reviji Domači prijatelj, ki jo je
+                                    urejala Zofka Kveder; toda tudi tu so ostale skrite za
+                                    psevdonimi. Razrešen je bil psevdonim licejke Vere Kesler. Njeno
+                                    prvo delo je bilo objavljeno že leta 1911. Prav Vera Kesler je
+                                    bila med pobudnicami skrivnega lista, ki ga je tudi urejala,
+                                    ilustrirala in vanj pisala svoje prvence. V "vajalnici" pesnenja
+                                    v Gospodični Cizari se je tako začela dolga literarna pot
+                                    pesnice, pisateljice, publicistke in prevajalke Vere Kesler
+                                    Albreht. </entity:description>
+               <entity:description xml:lang="eng"> The article describes
+                                    the extra-curricular secret literary operation of students at
+                                    the town’s girls’ lyceum in Ljubljana, their “eleventh school”
+                                    (“enajsta šola”). In the school years 1911/12 and 1912/13
+                                    students issued a secret journal “Gospodična Cizara” (Miss
+                                    Cizara). Hidden behind pseudonyms the students tried themselves
+                                    in poetry, prose and journalism, they criticized Austrian
+                                    politics and reactionary professors. Even Ivan Cankar and Oton
+                                    Župančič became their associates. Associates of the journal
+                                    attended the lectures of the “Academy”, discussed with Ivan
+                                    Cankar his literature and were enthusiastic about his
+                                    revolutionary ideas. All of this influenced the world view
+                                    definition of young girls and some became members of the secret
+                                    political organization “Preporod”. Some girls succeeded with the
+                                    publication of articles in the journal “Domači prijatelj”, which
+                                    was edited by Zofka Kveder, but even here they were hidden
+                                    behind pseudonyms. The pseudonym of student Vera Kesler was
+                                    disclosed. Her first work was published already in 1911. Vera
+                                    Kesler was among the initiators of the secret journal, which she
+                                    edited, illustrated and wrote her debuts in. The long literary
+                                    path of poet, writer, publicist and translator Vera
+                                    Kesler-Albreht began with her poems for “Gospodična Cizara”.
+                                </entity:description>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="video1" USE="EXTERNAL">
+            <METS:FLocat USE="YOUTUBE"
+                         LOCTYPE="URL"
+                         xlink:href="https://www.youtube.com/embed/59J9v_DNRqo"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37393"/>
+         <METS:div TYPE="entity" DMDID="dc.37452" ADMID="premis.37452 entity.37452">
+            <METS:fptr FILEID="video1"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

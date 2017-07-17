@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/37741"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2017-06-12T12:13:44"
+                 LASTMODDATE="2017-06-12T12:17:43"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.37741" GROUPID="37741">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="eng">On Cultural History and Natural History of Childhood</dcterms:title>
+            <dcterms:alternative xml:lang="slv">O kulturni in naravni zgodovini otroštva</dcterms:alternative>
+            <dcterms:creator>Krebs, Uwe</dcterms:creator>
+            <dcterms:description xml:lang="eng">The contribution has three parts. At first epistemological and methodological questions are addressed to the subject »childhood«. Secondly the contents of the main findings of Aries (»L'enfant et la vie familiale sous l'ancien regime«; 1960) and deMause (»The History of Childhood«; 1974) are questioned with respect to their breadth of validity for the subject »childhood«. Thirdly anthropological data, derived from biological anthropology and ethnology, were taken in order to correct partly the picture of the history of childhood.</dcterms:description>
+            <dcterms:description xml:lang="slv">Prispevek je sestavljen iz treh delov. V prvem delu postavlja epistemološka in metodološka vprašanja, ki se nanašajo na otroštvo. Nato predstavi vsebino in glavne ugotovitve Ariesa (»L'enfant et la vie familiale sous l'ancien regime«; 1960) in deMausea (»The History of Childhood«; 1974) ter ju presoja z vsem spoštovanjem do njunega širokega pristopa k raziskavi otroštva. Avtor na koncu s pomočjo antropoloških podatkov, ki izhajajo iz biološke antropologije in etnologije, poskuša delno popraviti sliko zgodovine otroštva.</dcterms:description>
+            <dcterms:subject xml:lang="slv">atropologija otroštva</dcterms:subject>
+            <dcterms:subject xml:lang="slv">interdisciplinarnost otroštva</dcterms:subject>
+            <dcterms:subject xml:lang="slv">naravna zgodovina otroštva</dcterms:subject>
+            <dcterms:subject xml:lang="slv">kulturna zgodovina otroštva</dcterms:subject>
+            <dcterms:subject xml:lang="eng">anthropology of childhood</dcterms:subject>
+            <dcterms:subject xml:lang="eng">childhood interdisciplinarity</dcterms:subject>
+            <dcterms:subject xml:lang="eng">natural history of childhood</dcterms:subject>
+            <dcterms:subject xml:lang="eng">cultural history of childhood</dcterms:subject>
+            <dcterms:publisher>Zveza zgodovinskih društev Slovenije, Ljubljana</dcterms:publisher>
+            <dcterms:publisher>Inštitut za novejšo zgodovino, Ljubljana</dcterms:publisher>
+            <dcterms:contributor>Matevž Košir (moderator)</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2012-10-18</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">MovingImage</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">slv</dcterms:language>
+            <dcterms:language xsi:type="dcterms:ISO639-3">eng</dcterms:language>
+            <dcterms:license xsi:type="dcterms:URI">http://creativecommons.org/licenses/by-nc-nd/2.5/si/</dcterms:license>
+            <dcterms:license xml:lang="slv">Priznanje avtorstva-Nekomercialo-Brez predelav 2.5 Slovenija (CC BY-NC-ND 2.5 SI)</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.37741">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>37741</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/37741</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.37741">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Prispevek je sestavljen
+                                    iz treh delov. V prvem delu postavlja epistemološka in
+                                    metodološka vprašanja, ki se nanašajo na otroštvo. Nato
+                                    predstavi vsebino in glavne ugotovitve Ariesa (»L'enfant et la
+                                    vie familiale sous l'ancien regime«; 1960) in deMausea (»The
+                                    History of Childhood«; 1974) ter ju presoja z vsem spoštovanjem
+                                    do njunega širokega pristopa k raziskavi otroštva. Avtor na
+                                    koncu s pomočjo antropoloških podatkov, ki izhajajo iz biološke
+                                    antropologije in etnologije, poskuša delno popraviti sliko
+                                    zgodovine otroštva. </entity:description>
+               <entity:description xml:lang="eng"> The contribution has
+                                    three parts. At first epistemological and methodological
+                                    questions are addressed to the subject »childhood«. Secondly the
+                                    contents of the main findings of Aries (»L'enfant et la vie
+                                    familiale sous l'ancien regime«; 1960) and deMause (»The History
+                                    of Childhood«; 1974) are questioned with respect to their
+                                    breadth of validity for the subject »childhood«. Thirdly
+                                    anthropological data, derived from biological anthropology and
+                                    ethnology, were taken in order to correct partly the picture of
+                                    the history of childhood. </entity:description>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="video1" USE="EXTERNAL">
+            <METS:FLocat USE="YOUTUBE"
+                         LOCTYPE="URL"
+                         xlink:href="http://www.youtube.com/embed/kHb_9WXWq2c"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37740"/>
+         <METS:div TYPE="entity" DMDID="dc.37741" ADMID="premis.37741 entity.37741">
+            <METS:fptr FILEID="video1"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

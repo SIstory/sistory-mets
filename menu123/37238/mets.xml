@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/37238"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2017-03-13T09:03:28"
+                 LASTMODDATE="2017-03-14T13:20:56"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.81" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.37238" GROUPID="37238">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="eng">Mapping the legacy: tracing the Croatian Military Frontier through criminal behaviour data, 1900-1910</dcterms:title>
+            <dcterms:alternative xml:lang="slv">Ugotavljanje dediščine: sledenje hrvaški Vojni krajini s podatki o kriminaliteti, 1900–1910</dcterms:alternative>
+            <dcterms:creator>Čapo, Hrvoje</dcterms:creator>
+            <dcterms:subject xml:lang="slv">dediščina</dcterms:subject>
+            <dcterms:subject xml:lang="slv">Vojna krajina</dcterms:subject>
+            <dcterms:subject xml:lang="slv">kriminaliteta</dcterms:subject>
+            <dcterms:subject xml:lang="slv">1900-1910</dcterms:subject>
+            <dcterms:subject xml:lang="eng">legacy</dcterms:subject>
+            <dcterms:subject xml:lang="eng">criminal behaviour</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Croatian Military Frontier</dcterms:subject>
+            <dcterms:subject xml:lang="eng">1900-1910</dcterms:subject>
+            <dcterms:publisher>Inštitut za novejšo zgodovino, Ljubljana</dcterms:publisher>
+            <dcterms:publisher>Oddelek za zgodovino Filozofske fakultete Univerze v Ljubljani, Ljubljana</dcterms:publisher>
+            <dcterms:contributor>Marko Zajc</dcterms:contributor>
+            <dcterms:contributor>Jernej Kosi</dcterms:contributor>
+            <dcterms:contributor>Zdenko Čepič</dcterms:contributor>
+            <dcterms:contributor>Neja Blaj Hribar</dcterms:contributor>
+            <dcterms:contributor>Elif Becan</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:Period">start=24.11.2016; end=26.11.2016; name=; scheme=; </dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">MovingImage</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">eng</dcterms:language>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.37238">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>37238</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/37238</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.37238">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Hrvaška vojna krajina je
+                                    bila politična in predvsem vojaška organizacija, ustanovljena za
+                                    obrambo pred Turki. Vzpostavljena je bila v glavnem že v 16.
+                                    stoletju, do poznega 19. stoletja pa je preživela svoj namen in
+                                    postala politični anahronizem. Bila je pod neposredno oblastjo
+                                    dunajskega cesarja, vendar naravni del Kraljevine Hrvaške in
+                                    Slavonije (v tistem obdobju pod madžarsko jurisdikcijo). Po
+                                    sklenitvi avstro-ogrske pogodbe leta 1867 in – še pomembneje –
+                                    po sklenitvi hrvaško-ogrske pogodbe leta 1868 se je odnos
+                                    politike do vključitve Vojne krajine v hrvaško-slavonski
+                                    politični in družbeni habitus (civilna Hrvaška) spremenil in
+                                    postal pozitiven. Ta proces se je začel leta 1868, končal pa
+                                    leta 1881. Vendar se je tudi po procesu vključitve ohranila
+                                    "krajinska" miselnost. Dediščina militarizirane družbe je živela
+                                    še dolgo po upravnih spremembah. Gospodarski, družbeni in
+                                    politični razvoj civilne Hrvaške in hrvaške Vojne krajine je bil
+                                    popolnoma različen. Razvojni zaostanek Vojne krajine je bil
+                                    najbolj razviden iz visoke stopnje kaznivih dejanj. Javnost je
+                                    nenavadno visoko število kaznivih dejanj razumela kot
+                                    stereotipen dokaz o "krvoločnosti" prebivalcev nekdanje Vojne
+                                    krajine. Jasno je, da so bile družbene razlike med obema novo
+                                    vključenima območjema, ki sta se pred tem razvijali v različnih
+                                    upravnih sistemih, velike. Je torej mogoče slediti mejam
+                                    nekdanje hrvaške Vojne krajine dvajset do trideset let po njeni
+                                    vključitvi (1869–1881) z opazovanjem kriminalitete in podobnih
+                                    deviacij? Predlagana raziskava bo preučila to hipotezo.
+                                    Raziskava naj bi na podlagi empiričnih in kvalitativnih podatkov
+                                    (statističnih podatkov, arhivskih virov in interdisciplinarne
+                                    literature) prispevala k obravnavi tranzicijskega procesa v
+                                    Vojni krajini (od militarizirane do civilne družbe) ter k
+                                    transnacionalnim primerjalnim rezultatom v okviru socialne
+                                    zgodovine, zgodovine nasilja in zgodovine čustev. </entity:description>
+               <entity:description xml:lang="eng">
+                  <pre xmlns="http://sistory.si/schema/sistory/v3/entity">The Croatian Military Frontier was a political, foremost military organization created for the purpose of the Ottoman repulse. What was mainly organized yet in the 16th century outlived its purpose untill the late 19th century, and became a political anachronism in between. The Croatian Military Frontier was under direct rule of the Viennese Emperor, yet a natural part of the Croatian-Slavonian Kingdom (at the time under Hungarian jurisdiction). What was changed after 1867 Austro-Hungarian Compromise, and more importantly after the 1868 Croato-Hungarian Compromise, was a positive political attitude towards the incorporation of the Military Frontier into Croatian-Slavonian (the Civilian Croatia) political and societal habitus. That process began in the 1868 and was completed by 1881. 
+
+However, what was left after the process of incorporation was the 'Frontier/Krajina' mentality. The legacy of the militarized society long outlived these administrative changes. Economical, societal and political development of the two (Civilian Croatia and the Croatian Military Frontier) were completely distinct. Yet, what characterized the former Military Frontier developmental deficiency the most, were high criminal rates. The unusually high criminality was stereotypically accepted by the public as the ultimate proof of the former Military Frontier inhabitants 'sanguinarism'. It is clear that the differences between the two newly incorporated, yet formerly developed in the separate administrative systems, were societally very strong. 
+
+Is it possible then to trace the former Croatian Military Frontier borders twenty to thirty years after the Incorporation (1869-1881) by following the criminality and similar deviant behavior? The research proposed will question that hypothesis. It is expected that the research based on the empirical and qualitative data (statistical records, archival resources and interdisciplinary literature) will provide a further contribution to the Military Frontier transitional process (militarized-civilian) discourse, as well as the transnational comparative results within the social history, history of violence, and history of emotions.</pre>
+               </entity:description>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="video1" USE="EXTERNAL">
+            <METS:FLocat USE="YOUTUBE"
+                         LOCTYPE="URL"
+                         xlink:href="https://www.youtube.com/embed/S5amRpVeveY"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37178"/>
+         <METS:div TYPE="entity" DMDID="dc.37238" ADMID="premis.37238 entity.37238">
+            <METS:fptr FILEID="video1"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/37455"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2017-04-05T09:04:53"
+                 LASTMODDATE="2017-04-07T11:53:28"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.4" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.37455" GROUPID="37455">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="slv">Socialistična šola in vprašanje položaja vernih učiteljev</dcterms:title>
+            <dcterms:alternative xml:lang="eng">Socialist School and the Situation of Religious Teachers</dcterms:alternative>
+            <dcterms:creator>Ramšak, Jure</dcterms:creator>
+            <dcterms:description xml:lang="slv">V okviru problematičnega odnosa med religijo in socialističnim sistemom, kot smo ga poznali v Jugoslaviji, je bilo vprašanje položaja vernih učiteljev izpostavljeno ves povojni čas, najbolj pa je prišlo v ospredje v času zaostritev zahtev po marksistični idejnosti šolskega pouka v sedemdesetih letih. Tedaj se je v najvišjih političnih forumih, v SZDL in prvič po vojni tudi v tisku razvila ostra polemika, v kateri so sodelovali marksistični teoretiki in najvišji politični predstavniki (M. Kučan, F. Šetinc) na eni in ugledni teologi (F. Perko, V. Grmič, J. Janžekovič) na drugi strani, kasneje pa se je vanjo vključila tudi nastajajoča intelektualna opozicija. Prispevek bo na podlagi arhivskih virov partijskih organov, SZDL in tedanjega časopisnega tiska najprej na teoretskem nivoju analiziral vztrajanje pri leninističnem konceptu vzgoje in izobraževanja, ki se ni skladal z načeli samoupravljanja in izkazoval velik demokratični deficit, na kar so opozarjali predstavniki RKC, pa tudi nekateri dialoško naravnani sociologi religije. Temu bo sledil prikaz poskusa političnega formuliranja položaja in pravic vernega učitelja v javni šoli, ki je temeljil na omenjeni ideološki predpostavki, a kljub temu v duhu poznega jugoslovanskega socializma skušal vključiti tudi vernike v vrste podpornikov samoupravne ureditve.</dcterms:description>
+            <dcterms:description xml:lang="eng">In the context of the problematic relations between religion and state-socialism we knew in Yugoslavia, the situation of religious teachers was in the focus during the entire post-war period, especially in the 70s, after the demands of the Marxist ideas in school lessons escalated. In the highest political forums, in the Socialist Alliance of Working People (SZDL), and for the first time after the war also in the press, a sharp polemic has developed with the involvment of the Marxist theorists and the highest political representatives (M. Kučan, F. Šetinc) on one side and eminent theologians (F. Perko, V. Grmič, J. Janžekovič) on the other side. Later the emerging intellectual opposition also joined. Based on archival sources of Communist Party bodies, SZDL and newspapers from that period this contribution will first on theoretical level analyze the insistence on the Leninist concept of education that was not consistent with the principles of self-management and showed a large democratic deficit. This had been pointed out by representatives of the Roman Catholic Church, and also some sociologists of religion. Then the presentation of political formulation of the situation and rights of religious teachers will follow, which was based on the said ideological assumption, but in the spirit of the late Yugoslav socialism still sought to include religious people into the ranks of supporters of self-governing regime.</dcterms:description>
+            <dcterms:subject xml:lang="slv">socialistična šola</dcterms:subject>
+            <dcterms:subject xml:lang="slv">idejnost izobraževanja</dcterms:subject>
+            <dcterms:subject xml:lang="slv">RKC</dcterms:subject>
+            <dcterms:subject xml:lang="slv">verni učitelji</dcterms:subject>
+            <dcterms:subject xml:lang="slv">moralno-politični kriteriji</dcterms:subject>
+            <dcterms:subject xml:lang="eng">socialist school</dcterms:subject>
+            <dcterms:subject xml:lang="eng">ideologies of education</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Roman Catholic Church</dcterms:subject>
+            <dcterms:subject xml:lang="eng">religious teachers</dcterms:subject>
+            <dcterms:subject xml:lang="eng">moral and political criteria</dcterms:subject>
+            <dcterms:publisher>Zveza zgodovinskih društev Slovenije, Ljubljana</dcterms:publisher>
+            <dcterms:publisher>Inštitut za novejšo zgodovino, Ljubljana</dcterms:publisher>
+            <dcterms:contributor>Katarina Keber (moderator)</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2016-09-30</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">MovingImage</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">slv</dcterms:language>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.37455">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>37455</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/37455</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.37455">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> V okviru problematičnega
+                                    odnosa med religijo in socialističnim sistemom, kot smo ga
+                                    poznali v Jugoslaviji, je bilo vprašanje položaja vernih
+                                    učiteljev izpostavljeno ves povojni čas, najbolj pa je prišlo v
+                                    ospredje v času zaostritev zahtev po marksistični idejnosti
+                                    šolskega pouka v sedemdesetih letih. Tedaj se je v najvišjih
+                                    političnih forumih, v SZDL in prvič po vojni tudi v tisku
+                                    razvila ostra polemika, v kateri so sodelovali marksistični
+                                    teoretiki in najvišji politični predstavniki (M. Kučan, F.
+                                    Šetinc) na eni in ugledni teologi (F. Perko, V. Grmič, J.
+                                    Janžekovič) na drugi strani, kasneje pa se je vanjo vključila
+                                    tudi nastajajoča intelektualna opozicija. Prispevek bo na
+                                    podlagi arhivskih virov partijskih organov, SZDL in tedanjega
+                                    časopisnega tiska najprej na teoretskem nivoju analiziral
+                                    vztrajanje pri leninističnem konceptu vzgoje in izobraževanja,
+                                    ki se ni skladal z načeli samoupravljanja in izkazoval velik
+                                    demokratični deficit, na kar so opozarjali predstavniki RKC, pa
+                                    tudi nekateri dialoško naravnani sociologi religije. Temu bo
+                                    sledil prikaz poskusa političnega formuliranja položaja in
+                                    pravic vernega učitelja v javni šoli, ki je temeljil na omenjeni
+                                    ideološki predpostavki, a kljub temu v duhu poznega
+                                    jugoslovanskega socializma skušal vključiti tudi vernike v vrste
+                                    podpornikov samoupravne ureditve. </entity:description>
+               <entity:description xml:lang="eng"> In the context of the
+                                    problematic relations between religion and state-socialism we
+                                    knew in Yugoslavia, the situation of religious teachers was in
+                                    the focus during the entire post-war period, especially in the
+                                    70s, after the demands of the Marxist ideas in school lessons
+                                    escalated. In the highest political forums, in the Socialist
+                                    Alliance of Working People (SZDL), and for the first time after
+                                    the war also in the press, a sharp polemic has developed with
+                                    the involvment of the Marxist theorists and the highest
+                                    political representatives (M. Kučan, F. Šetinc) on one side and
+                                    eminent theologians (F. Perko, V. Grmič, J. Janžekovič) on the
+                                    other side. Later the emerging intellectual opposition also
+                                    joined. Based on archival sources of Communist Party bodies,
+                                    SZDL and newspapers from that period this contribution will
+                                    first on theoretical level analyze the insistence on the
+                                    Leninist concept of education that was not consistent with the
+                                    principles of self-management and showed a large democratic
+                                    deficit. This had been pointed out by representatives of the
+                                    Roman Catholic Church, and also some sociologists of religion.
+                                    Then the presentation of political formulation of the situation
+                                    and rights of religious teachers will follow, which was based on
+                                    the said ideological assumption, but in the spirit of the late
+                                    Yugoslav socialism still sought to include religious people into
+                                    the ranks of supporters of self-governing regime. </entity:description>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="video1" USE="EXTERNAL">
+            <METS:FLocat USE="YOUTUBE"
+                         LOCTYPE="URL"
+                         xlink:href="https://www.youtube.com/embed/RXYEOS54YK4"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37394"/>
+         <METS:div TYPE="entity" DMDID="dc.37455" ADMID="premis.37455 entity.37455">
+            <METS:fptr FILEID="video1"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

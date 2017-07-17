@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/30993"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2015-05-14T10:13:37"
+                 LASTMODDATE="2017-02-15T11:20:03"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.30993" GROUPID="30993">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="slv">Medpredmetne povezave sociološke učne teme "Identiteta in kultura" z zgodovino</dcterms:title>
+            <dcterms:alternative xml:lang="eng">Inter-subject connections between sociological topic "Identity and Culture" and History</dcterms:alternative>
+            <dcterms:creator>Jakelj, Jernej</dcterms:creator>
+            <dcterms:abstract xml:lang="slv">V prispevku bomo na podlagi zapisa splošnih ter posebnih znanj sociološke učne teme »Identiteta in kultura« izpostavili vse morebitne medpredmetne povezave z zgodovino. V učnem načrtu za sociologijo zapisane temeljne cilje ter vsebine učne teme »Identiteta in kultura« bomo analizirali ter konceptualno povezali s tistimi, ki so zapisani v učnem načrtu za zgodovino. Navajali ne bomo zgolj vsebinsko neposrednih medpredmetnih povezav, ampak tudi tiste, kjer je interdisciplinarnost zgolj nakazana. Pri pouku sociologije se namreč velikokrat zgodovinski teksti uporabljajo kot viri, ki dijakom omogočijo, da na konkretnih primerih spoznajo določene družbene pojave.</dcterms:abstract>
+            <dcterms:abstract xml:lang="eng">On the basis of records of general and special knowledge of the sociological topic »Identity and Culture«, we have exposed all potential connections with history. In the curriculum for sociology, the noted basic goals and contents of the topic will be analysed and conceptually connected to those noted in the history curriculum. We plan to include not only direct inter-subject connections in content but also those, where interdisciplinarity is merely suggested. Namely, in sociology, historical texts are often used as sources, enabling the pupils to recognize a particular social phenomenon on concrete examples.</dcterms:abstract>
+            <dcterms:subject xml:lang="slv">sociologija</dcterms:subject>
+            <dcterms:subject xml:lang="slv">zgodovina</dcterms:subject>
+            <dcterms:subject xml:lang="slv">medpredmetne povezave</dcterms:subject>
+            <dcterms:subject xml:lang="slv">učni načrti</dcterms:subject>
+            <dcterms:subject xml:lang="slv">splošna gimnazija</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Sociology</dcterms:subject>
+            <dcterms:subject xml:lang="eng">History</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Inter-subject connections</dcterms:subject>
+            <dcterms:subject xml:lang="eng">curriculum</dcterms:subject>
+            <dcterms:subject xml:lang="eng">general secondary school</dcterms:subject>
+            <dcterms:publisher>Oddelek za zgodovino Filozofske fakultete Univerze v Ljubljani, Ljubljana</dcterms:publisher>
+            <dcterms:contributor>Danijela Trškan (ur.)</dcterms:contributor>
+            <dcterms:contributor>Darja Pipuš Sunesko (prev.)</dcterms:contributor>
+            <dcterms:contributor>Danijela Trškan (prev.)</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2011</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">Text</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">slv</dcterms:language>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:dmdSec ID="mods.30993" GROUPID="30993">
+      <METS:mdWrap MDTYPE="MODS" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <mods:relatedItem type="series">
+               <mods:relatedItem type="series">
+                  <mods:titleInfo>
+                     <mods:title>Historia: znanstvena zbirka Oddelka za zgodovino Filozofska fakultete v Ljubljani</mods:title>
+                  </mods:titleInfo>
+                  <mods:part>
+                     <mods:detail type="volumens">
+                        <mods:number>19</mods:number>
+                     </mods:detail>
+                  </mods:part>
+               </mods:relatedItem>
+            </mods:relatedItem>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.30993">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>30993</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/30993#page=255</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.30993">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> V prispevku bomo na
+                                    podlagi zapisa splošnih ter posebnih znanj sociološke učne teme
+                                    »Identiteta in kultura« izpostavili vse morebitne medpredmetne
+                                    povezave z zgodovino. V učnem načrtu za sociologijo zapisane
+                                    temeljne cilje ter vsebine učne teme »Identiteta in kultura«
+                                    bomo analizirali ter konceptualno povezali s tistimi, ki so
+                                    zapisani v učnem načrtu za zgodovino. Navajali ne bomo zgolj
+                                    vsebinsko neposrednih medpredmetnih povezav, ampak tudi tiste,
+                                    kjer je interdisciplinarnost zgolj nakazana. Pri pouku
+                                    sociologije se namreč velikokrat zgodovinski teksti uporabljajo
+                                    kot viri, ki dijakom omogočijo, da na konkretnih primerih
+                                    spoznajo določene družbene pojave. </entity:description>
+               <entity:description xml:lang="eng"> On the basis of records
+                                    of general and special knowledge of the sociological topic
+                                    »Identity and Culture«, we have exposed all potential
+                                    connections with history. In the curriculum for sociology, the
+                                    noted basic goals and contents of the topic will be analysed and
+                                    conceptually connected to those noted in the history curriculum.
+                                    We plan to include not only direct inter-subject connections in
+                                    content but also those, where interdisciplinarity is merely
+                                    suggested. Namely, in sociology, historical texts are often used
+                                    as sources, enabling the pupils to recognize a particular social
+                                    phenomenon on concrete examples. </entity:description>
+               <entity:page>255</entity:page>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/30974"/>
+         <METS:div TYPE="entity"
+                   DMDID="dc.30993 mods.30993"
+                   ADMID="premis.30993 entity.30993"/>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

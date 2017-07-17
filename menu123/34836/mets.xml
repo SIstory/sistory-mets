@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/34836"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2015-11-26T10:28:42"
+                 LASTMODDATE="2017-05-16T12:05:57"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.34836" GROUPID="34836">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="eng">Complex Parliaments in Transition: Central European Federations Facing Regime Change</dcterms:title>
+            <dcterms:title xml:lang="eng">International Workshop, Ljubljana, October 16, 2015</dcterms:title>
+            <dcterms:description xml:lang="eng">The collapse of socialist regimes in 1989-1990 set off multifaceted processes of democratic reforms and social and economic transformations. In some of the East-Central European countries, these transformations were even more complex due to their federal structure. Originally, the Soviet, Yugoslav or Czechoslovak federal systems had been projected for “engineered” socialist equalities of the member nations, while following the regime change of late 1980s, this basic precondition ceased to exist and various parts of federations began to express interests, use powers, build party systems and create ethnic publics.The workshop will explore some of these examples in detail, through comparing the transformations of three federal countries’ parliamentary systems in the early 1990s – the Czechoslovak, Yugoslav and German one. In Czechoslovakia, strong legal continuity between the socialist, revolutionary and post-socialist era created fascinating blends of the three images of parliament. The German case is ever more described through the colonization metaphor, which is interesting to test on the example of the East German Volkskammer. In Yugoslavia, where the already loose federal system kept getting looser, the individual federal republics with its own socialist parliaments eventually became the only really important political actors in the process of system and state disintegration (what was the role of federation and federal assembly?).</dcterms:description>
+            <dcterms:subject xml:lang="slv">parlamentarna zgodovina</dcterms:subject>
+            <dcterms:subject xml:lang="slv">tranzicija</dcterms:subject>
+            <dcterms:subject xml:lang="slv">konferenca</dcterms:subject>
+            <dcterms:subject xml:lang="eng">parliamentary history</dcterms:subject>
+            <dcterms:subject xml:lang="eng">transition</dcterms:subject>
+            <dcterms:subject xml:lang="eng">conference</dcterms:subject>
+            <dcterms:publisher>Inštitut za novejšo zgodovino, Ljubljana</dcterms:publisher>
+            <dcterms:publisher>The European Information and Research Network on Parliamentary History, Haag</dcterms:publisher>
+            <dcterms:publisher>Kommission für Geschichte des Parlamentarismus und der politischen Parteien, Berlin</dcterms:publisher>
+            <dcterms:publisher>Institute of Contemporary History, Praga</dcterms:publisher>
+            <dcterms:contributor>Jure Gašparič</dcterms:contributor>
+            <dcterms:contributor>Andreas Schulz</dcterms:contributor>
+            <dcterms:contributor>Adéla Gjuričová</dcterms:contributor>
+            <dcterms:contributor>Mojca Šorn</dcterms:contributor>
+            <dcterms:contributor>Jurij Hadalin</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2015-10-16</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">MovingImage</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">eng</dcterms:language>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.34836">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>34836</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/34836</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.34836">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="eng">
+                  <pre xmlns="http://sistory.si/schema/sistory/v3/entity">
+                     <p>The collapse of socialist regimes in 1989-1990 set off multifaceted processes of democratic reforms and social and economic transformations. In some of the East-Central European countries, these transformations were even more complex due to their federal structure. Originally, the Soviet, Yugoslav or Czechoslovak federal systems had been projected for “engineered” socialist equalities of the member nations, while following the regime change of late 1980s, this basic precondition ceased to exist and various parts of federations began to express interests, use powers, build party systems and create ethnic publics.</p>
+                     <p>The workshop will explore some of these examples in detail, through comparing the transformations of three federal countries’ parliamentary systems in the early 1990s – the Czechoslovak, Yugoslav and German one. In Czechoslovakia, strong legal continuity between the socialist, revolutionary and post-socialist era created fascinating blends of the three images of parliament. The German case is ever more described through the colonization metaphor, which is interesting to test on the example of the East German Volkskammer. In Yugoslavia, where the already loose federal system kept getting looser, the individual federal republics with its own socialist parliaments eventually became the only really important political actors in the process of system and state disintegration (what was the role of federation and federal assembly?).</p>
+                  </pre>
+               </entity:description>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink">
+      <METS:fileGrp USE="THUMB">
+         <METS:file ID="thumbnail">
+            <METS:FLocat LOCTYPE="URL"
+                         xlink:href="http://www.sistory.si/cdn/publikacije/34001-35000/34836/parla.jpg"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="primary">
+      <METS:div TYPE="collection">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/menu123"/>
+         <METS:div TYPE="entity" DMDID="dc.34836" ADMID="premis.34836 entity.34836">
+            <METS:fptr FILEID="thumbnail"/>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/34837"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/34838"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/34839"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/34840"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/34841"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/34842"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/34843"/>
+            </METS:div>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

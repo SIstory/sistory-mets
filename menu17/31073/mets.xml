@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/31073"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2015-06-03T13:55:26"
+                 LASTMODDATE="2017-02-15T11:58:54"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.31073" GROUPID="31073">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="slv">Begunski otroci iz Bosne in Hercegovine v šolah v Republiki Sloveniji</dcterms:title>
+            <dcterms:alternative xml:lang="eng">Refugee Children from Bosnia and Herzegovina in Schools in Slovenia</dcterms:alternative>
+            <dcterms:creator>Šmid, Gašper</dcterms:creator>
+            <dcterms:creator>Štrumbl, Žarko</dcterms:creator>
+            <dcterms:abstract xml:lang="slv">Jeseni leta 1992 je v Sloveniji začelo delovati 54 šol s programom osnovne šole za begunce. Vanje se je vključevalo 9000 otrok začasnih beguncev, poučevalo pa je 450 učiteljev beguncev iz BiH. Osnovne šole so delovale v centrih za begunce ali v popoldanskem času v slovenskih osnovnih šolah ali drugih improviziranih prostorih. Poleg improvizacije in neugodnih materialnih okoliščin so bili posebnost šole njeni učitelji. Polovica jih ni imela pedagoške izobrazbe, pred vojno so bili zaposleni kot ekonomisti, inženirji, zdravniki, uradniki ali pa so bili študenti, tu pa tam celo dijaki srednjih šol. Prispevek predstavi problematiko šolanja begunskih otrok v Sloveniji in z njim v zvezi arhivsko gradivo.</dcterms:abstract>
+            <dcterms:abstract xml:lang="eng">In the autumn of 1992 54 elementary schools with the special program for refugees from Bosnia and Herzegovina opened their doors in the Republic of Slovenia. 9.000 refugee children were included in this programme, classes were taught by 450 teachers, also refugees from Bosnia and Herzegovina. These elementary schools were either in refugee centres, in Slovenian elementary schools (in the afternoon) or other improvised rooms. Beside the improvisation there were also problems with teachers. Half of them did not have adequate pedagogical education. Before the war they were employed as economists, engineers, doctors, officials, students, sometimes even high school students. The paper represents the issue of the schooling of Bosnian refugee children and corelated archival records.</dcterms:abstract>
+            <dcterms:subject xml:lang="slv">begunci iz Bosne in Hercegovine</dcterms:subject>
+            <dcterms:subject xml:lang="slv">Republika Slovenija</dcterms:subject>
+            <dcterms:subject xml:lang="slv">begunske osnovne šole</dcterms:subject>
+            <dcterms:subject xml:lang="slv">izobraževanje beguncev</dcterms:subject>
+            <dcterms:subject xml:lang="slv">arhivsko gradivo begunskih osnovnih šol</dcterms:subject>
+            <dcterms:subject xml:lang="eng">refugees from Bosnia and Herzegovina</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Republic of Slovenia</dcterms:subject>
+            <dcterms:subject xml:lang="eng">refugee primary schools</dcterms:subject>
+            <dcterms:subject xml:lang="eng">schooling of refugees</dcterms:subject>
+            <dcterms:subject xml:lang="eng">archives of refugee primary schools</dcterms:subject>
+            <dcterms:publisher>Zveza zgodovinskih društev Slovenije</dcterms:publisher>
+            <dcterms:contributor>Peter Štih (gl. in od. ur.)</dcterms:contributor>
+            <dcterms:contributor>Aida Škoro Babić (ur. in prev.)</dcterms:contributor>
+            <dcterms:contributor>Mateja Jeraj (ur.)</dcterms:contributor>
+            <dcterms:contributor>Matevž Košir (ur.)</dcterms:contributor>
+            <dcterms:contributor>Bojan Balkovec (ur.)</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2012</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">Text</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">slv</dcterms:language>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:dmdSec ID="mods.31073" GROUPID="31073">
+      <METS:mdWrap MDTYPE="MODS" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <mods:relatedItem type="series">
+               <mods:titleInfo>
+                  <mods:title>Zbirka zgodovinskega časopisa, 45</mods:title>
+               </mods:titleInfo>
+            </mods:relatedItem>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.31073">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>31073</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/31073#page=726</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.31073">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Jeseni leta 1992 je v
+                                    Sloveniji začelo delovati 54 šol s programom osnovne šole za
+                                    begunce. Vanje se je vključevalo 9000 otrok začasnih beguncev,
+                                    poučevalo pa je 450 učiteljev beguncev iz BiH. Osnovne šole so
+                                    delovale v centrih za begunce ali v popoldanskem času v
+                                    slovenskih osnovnih šolah ali drugih improviziranih prostorih.
+                                    Poleg improvizacije in neugodnih materialnih okoliščin so bili
+                                    posebnost šole njeni učitelji. Polovica jih ni imela pedagoške
+                                    izobrazbe, pred vojno so bili zaposleni kot ekonomisti,
+                                    inženirji, zdravniki, uradniki ali pa so bili študenti, tu pa
+                                    tam celo dijaki srednjih šol. Prispevek predstavi problematiko
+                                    šolanja begunskih otrok v Sloveniji in z njim v zvezi arhivsko
+                                    gradivo. </entity:description>
+               <entity:description xml:lang="eng"> In the autumn of 1992 54
+                                    elementary schools with the special program for refugees from
+                                    Bosnia and Herzegovina opened their doors in the Republic of
+                                    Slovenia. 9.000 refugee children were included in this
+                                    programme, classes were taught by 450 teachers, also refugees
+                                    from Bosnia and Herzegovina. These elementary schools were
+                                    either in refugee centres, in Slovenian elementary schools (in
+                                    the afternoon) or other improvised rooms. Beside the
+                                    improvisation there were also problems with teachers. Half of
+                                    them did not have adequate pedagogical education. Before the war
+                                    they were employed as economists, engineers, doctors, officials,
+                                    students, sometimes even high school students. The paper
+                                    represents the issue of the schooling of Bosnian refugee
+                                    children and corelated archival records. </entity:description>
+               <entity:page>726</entity:page>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/31016"/>
+         <METS:div TYPE="entity"
+                   DMDID="dc.31073 mods.31073"
+                   ADMID="premis.31073 entity.31073"/>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

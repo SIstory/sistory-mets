@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/37432"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2017-04-05T08:50:12"
+                 LASTMODDATE="2017-04-07T11:29:23"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.4" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.37432" GROUPID="37432">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="slv">Sodobni učbeniki in posodobljeni učni načrti za zgodovino 20. stoletja v osnovni šoli</dcterms:title>
+            <dcterms:alternative xml:lang="eng">Contemporary Textbooks and Updated Curricula for History of the 20th Century in Primary School</dcterms:alternative>
+            <dcterms:creator>Filipčič, Vincenc</dcterms:creator>
+            <dcterms:creator>Kunaver, Vojko</dcterms:creator>
+            <dcterms:description xml:lang="slv">V obliki predstavitve problematike in v obliki okrogle mize želim predstaviti dileme tako glede učbenikov kot tudi učnih načrtov. Za poučevanje sodobne zgodovine obstojijo različni pogledi in pristopi, ki bi jih lahko pojasnili s stališči, ki jih Zavodovi svetovalci že leta pridobivamo tako na podlagi dela z učitelji kot tudi z delom na mednarodnem področju. Predstavitev in okroglo mizo bi pripravila skupaj s kolegom Vincencem Filipčičem (vodja oddelka za učbenike in učila na ZRSŠ), ki bi pripravil izsledke kvalitativne analize učbenikov (opravljena 2008) Vojko Kunaver pa bi kot vodja komisije za posodabljanje učnih načrtov na ZRSŠ v letih 2006-2011 predstavil nekatere pomisleke in vodila, ki so nas pripeljali k trenutno veljavnim učnim načrtom.</dcterms:description>
+            <dcterms:description xml:lang="eng">With the presentation of issues and in the form of a round table I want to present the dilemmas regarding textbooks as well as curricula. There are different views and approaches to teaching contemporary history, which can be explained with the experiences of the Institute’s advisers, which they gain through their work with teachers as well as their work in the international field. I will prepare the presentation and the round table together with my colleague Vincenc Filipčič (Head of the Department for textbooks and teaching aids at the National Education Institute Slovenia). Vincenc Filipčič will prepare the results of the qualitative analysis of textbooks (completed in 2008), while Vojko Kunaver, as head of the Commission for updating of curricula at the National Education Institute Slovenia between 2006 and 2011, will present some scruples and principles, which lead us to the current curriculum.</dcterms:description>
+            <dcterms:subject xml:lang="slv">sodobna zgodovina</dcterms:subject>
+            <dcterms:subject xml:lang="slv">osnovna šola</dcterms:subject>
+            <dcterms:subject xml:lang="slv">učbeniki</dcterms:subject>
+            <dcterms:subject xml:lang="slv">posodobljeni učni načrti</dcterms:subject>
+            <dcterms:subject xml:lang="eng">contemporary history</dcterms:subject>
+            <dcterms:subject xml:lang="eng">primary school</dcterms:subject>
+            <dcterms:subject xml:lang="eng">textbooks</dcterms:subject>
+            <dcterms:subject xml:lang="eng">updated curricula</dcterms:subject>
+            <dcterms:publisher>Zveza zgodovinskih društev Slovenije, Ljubljana</dcterms:publisher>
+            <dcterms:publisher>Inštitut za novejšo zgodovino, Ljubljana</dcterms:publisher>
+            <dcterms:contributor>Edvard Protner (moderator)</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2016-09-29</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">MovingImage</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">slv</dcterms:language>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.37432">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>37432</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/37432</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.37432">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> V obliki predstavitve
+                                    problematike in v obliki okrogle mize želim predstaviti dileme
+                                    tako glede učbenikov kot tudi učnih načrtov. Za poučevanje
+                                    sodobne zgodovine obstojijo različni pogledi in pristopi, ki bi
+                                    jih lahko pojasnili s stališči, ki jih Zavodovi svetovalci že
+                                    leta pridobivamo tako na podlagi dela z učitelji kot tudi z
+                                    delom na mednarodnem področju. Predstavitev in okroglo mizo bi
+                                    pripravila skupaj s kolegom Vincencem Filipčičem (vodja oddelka
+                                    za učbenike in učila na ZRSŠ), ki bi pripravil izsledke
+                                    kvalitativne analize učbenikov (opravljena 2008) Vojko Kunaver
+                                    pa bi kot vodja komisije za posodabljanje učnih načrtov na ZRSŠ
+                                    v letih 2006-2011 predstavil nekatere pomisleke in vodila, ki so
+                                    nas pripeljali k trenutno veljavnim učnim načrtom. </entity:description>
+               <entity:description xml:lang="eng"> With the presentation of
+                                    issues and in the form of a round table I want to present the
+                                    dilemmas regarding textbooks as well as curricula. There are
+                                    different views and approaches to teaching contemporary history,
+                                    which can be explained with the experiences of the Institute’s
+                                    advisers, which they gain through their work with teachers as
+                                    well as their work in the international field. I will prepare
+                                    the presentation and the round table together with my colleague
+                                    Vincenc Filipčič (Head of the Department for textbooks and
+                                    teaching aids at the National Education Institute Slovenia).
+                                    Vincenc Filipčič will prepare the results of the qualitative
+                                    analysis of textbooks (completed in 2008), while Vojko Kunaver,
+                                    as head of the Commission for updating of curricula at the
+                                    National Education Institute Slovenia between 2006 and 2011,
+                                    will present some scruples and principles, which lead us to the
+                                    current curriculum. </entity:description>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="video1" USE="EXTERNAL">
+            <METS:FLocat USE="YOUTUBE"
+                         LOCTYPE="URL"
+                         xlink:href="https://www.youtube.com/embed/GoUwNKTGmDY"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37385"/>
+         <METS:div TYPE="entity" DMDID="dc.37432" ADMID="premis.37432 entity.37432">
+            <METS:fptr FILEID="video1"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

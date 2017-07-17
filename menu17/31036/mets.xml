@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/31036"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2015-06-02T11:38:37"
+                 LASTMODDATE="2017-02-15T12:20:15"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.31036" GROUPID="31036">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="slv">»V oteti deci je zaloga za našo močno in silno državo« – skrb za zaščito otrok v prvi Jugoslaviji</dcterms:title>
+            <dcterms:alternative xml:lang="eng">“In Abducted Children Is the Strength for Our Powerful and Strong Country” – Care for Protection of Children in the First Yugoslavia</dcterms:alternative>
+            <dcterms:creator>Cergol Paradiž, Ana</dcterms:creator>
+            <dcterms:abstract xml:lang="slv">Prispevek bo orisal zakonodajo in nekatere poglavitne ukrepe na področju otroško-skrbstvene zaščite otrok v prvi Jugoslaviji, hkrati pa v grobem predstavil na to vprašanje osredotočene zasebne organizacije na področju Dravske banovine. V središču bo delovanje (Dravske sekcije) Jugoslovanske unije za zaščito dece, zveze, ki je v tridesetih letih koordinirala društva za zaščito otrok v državi. Hkrati bo predstavil ideološko ozadje tovrstnih pobud oziroma ukrepov.</dcterms:abstract>
+            <dcterms:abstract xml:lang="eng">Paper is describing legislation and some key measures on the field of protection of children in first Yugoslavia, at the same time it is presenting private organisations that have been dealing with this issue in Dravska banovina (Drava province). It presents activities of Yugoslav Union for the Protection od Children (Drava section), the union that coordinated all societies for the protection of children in the country. It also presents ideological backgrounds of such initiatives and actions.</dcterms:abstract>
+            <dcterms:subject xml:lang="slv">Obdobje med obema vojnama</dcterms:subject>
+            <dcterms:subject xml:lang="slv">zaščita otrok</dcterms:subject>
+            <dcterms:subject xml:lang="slv">Jugoslovanska unija za zaščito dece</dcterms:subject>
+            <dcterms:subject xml:lang="slv">zakonodaja</dcterms:subject>
+            <dcterms:subject xml:lang="slv">Ženevska deklaracija</dcterms:subject>
+            <dcterms:subject xml:lang="eng">period between world wars</dcterms:subject>
+            <dcterms:subject xml:lang="eng">child protection</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Yugoslav Union for Child Protection</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Geneva Declaration</dcterms:subject>
+            <dcterms:publisher>Zveza zgodovinskih društev Slovenije</dcterms:publisher>
+            <dcterms:contributor>Peter Štih (gl. in od. ur.)</dcterms:contributor>
+            <dcterms:contributor>Aida Škoro Babić (ur. in prev.)</dcterms:contributor>
+            <dcterms:contributor>Mateja Jeraj (ur.)</dcterms:contributor>
+            <dcterms:contributor>Matevž Košir (ur.)</dcterms:contributor>
+            <dcterms:contributor>Bojan Balkovec (ur.)</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2012</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">Text</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">slv</dcterms:language>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:dmdSec ID="mods.31036" GROUPID="31036">
+      <METS:mdWrap MDTYPE="MODS" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <mods:relatedItem type="series">
+               <mods:titleInfo>
+                  <mods:title>Zbirka zgodovinskega časopisa, 45</mods:title>
+               </mods:titleInfo>
+            </mods:relatedItem>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.31036">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>31036</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/31036#page=266</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.31036">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Prispevek bo orisal
+                                    zakonodajo in nekatere poglavitne ukrepe na področju
+                                    otroško-skrbstvene zaščite otrok v prvi Jugoslaviji, hkrati pa v
+                                    grobem predstavil na to vprašanje osredotočene zasebne
+                                    organizacije na področju Dravske banovine. V središču bo
+                                    delovanje (Dravske sekcije) Jugoslovanske unije za zaščito dece,
+                                    zveze, ki je v tridesetih letih koordinirala društva za zaščito
+                                    otrok v državi. Hkrati bo predstavil ideološko ozadje tovrstnih
+                                    pobud oziroma ukrepov. </entity:description>
+               <entity:description xml:lang="eng"> Paper is describing
+                                    legislation and some key measures on the field of protection of
+                                    children in first Yugoslavia, at the same time it is presenting
+                                    private organisations that have been dealing with this issue in
+                                    Dravska banovina (Drava province). It presents activities of
+                                    Yugoslav Union for the Protection od Children (Drava section),
+                                    the union that coordinated all societies for the protection of
+                                    children in the country. It also presents ideological
+                                    backgrounds of such initiatives and actions. </entity:description>
+               <entity:page>266</entity:page>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/31016"/>
+         <METS:div TYPE="entity"
+                   DMDID="dc.31036 mods.31036"
+                   ADMID="premis.31036 entity.31036"/>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

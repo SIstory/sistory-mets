@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/37732"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2017-06-12T11:20:50"
+                 LASTMODDATE="2017-06-12T11:23:41"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.37732" GROUPID="37732">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="eng">The historical construction of the Hungarian teacher's professional knowledge</dcterms:title>
+            <dcterms:alternative xml:lang="hun">A magyar pedagógusi szaktudás történeti konstrukciója</dcterms:alternative>
+            <dcterms:creator>Németh, András</dcterms:creator>
+            <dcterms:description xml:lang="eng">The reform of teacher’s training as a part of the Bologna process of the higher education is one of the key questions of the educational reforms in the European Union today. This reform however aims to transform the historically shaped pattern of teachers’ training model, that followed the patterns of the European trends that were formed inbetween the beginning of 19th century and the middle of 20th century - with some time-lag of course in the different regions. Our research aims to follow the process of the institutionalization of Hungarian teachers’ training and teacher’s knowledge which was characterized by the above mentioned ’dual system’. This process passed off under the influence of the national traditions as well as the central European tendencies. In the centre of our research stand the two different professional knowledg-type (elementary and secondary school teachers’) and also the contents of the theoretical reflection which appeared in the fields of science. Our lecture focuses on this very complex process and analyses the events the Hungarian teacher’s training textbooks and educational publications of the late 19th and early 20th century.</dcterms:description>
+            <dcterms:description xml:lang="hun">A pedagógusképzés reformja a felsőoktatás bolognai átalakításának részeként az Európai Unió oktatási reformjának napjainkig tartó kulcsfontosságú eleme. Ez a reformtörekvés egyben annak a történetileg kialakuló duális pedagógusképzési modellnek az alapvető átalakítására törekszik, amely a modern nemzetállamok kialakulása során – a különböző történelmi régiókban időbeli eltolódással – nagyjából a 19. század elejétől a 20. század közepéig tartó európai intézményesülési folyamat mintáit követve jött létre. Az előadás a magyar pedagógusképzésre is jellemző duális rendszer keretében – a közép-európai fejlődési tendenciákkal szoros kölcsönhatásban kibontakozó modern pedagógusi szaktudásnak elkülönülő formáit (gimnáziumi tanári és néptanítói szaktudás), illetve annak elméleti szinten is reflektált, a neveléstudományban leképződő tudástartalmait (elméleti és gyakorlati pedagógia) vizsgálja. Ennek tudáskonstrukciós folyamatait a 19. század végétől a 20. század elejéig megjelenő tankönyveket és a korabeli neveléstudományos publikációkat elemezve mutatja be.</dcterms:description>
+            <dcterms:subject xml:lang="slv">zgodovina</dcterms:subject>
+            <dcterms:subject xml:lang="slv">šolstvo</dcterms:subject>
+            <dcterms:subject xml:lang="slv">muzej</dcterms:subject>
+            <dcterms:subject xml:lang="eng">history</dcterms:subject>
+            <dcterms:subject xml:lang="eng">school system</dcterms:subject>
+            <dcterms:subject xml:lang="eng">museum</dcterms:subject>
+            <dcterms:publisher>Slovenski šolski muzej, Ljubljana</dcterms:publisher>
+            <dcterms:publisher>Zveza zgodovinskih društev Slovenije, Ljubljana</dcterms:publisher>
+            <dcterms:publisher>ICOM Slovenija, Celje</dcterms:publisher>
+            <dcterms:publisher>Inštitut za novejšo zgodovino, Ljubljana</dcterms:publisher>
+            <dcterms:contributor>Mathias Rösch (moderator)</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2013-06-28</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">Event</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">deu</dcterms:language>
+            <dcterms:license xsi:type="dcterms:URI">http://creativecommons.org/licenses/by-nc-nd/2.5/si/</dcterms:license>
+            <dcterms:license xml:lang="slv">Priznanje avtorstva-Nekomercialo-Brez predelav 2.5 Slovenija (CC BY-NC-ND 2.5 SI)</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.37732">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>37732</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/37732</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.37732">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="eng">
+                  <p xmlns="http://sistory.si/schema/sistory/v3/entity">The reform of teacher’s training as a part of the Bologna
+                                        process of the higher education is one of the key questions
+                                        of the educational reforms in the European Union today. This
+                                        reform however aims to transform the historically shaped
+                                        pattern of teachers’ training model, that followed the
+                                        patterns of the European trends that were formed inbetween
+                                        the beginning of 19th century and the middle of 20th century
+                                        - with some time-lag of course in the different regions. Our
+                                        research aims to follow the process of the
+                                        institutionalization of Hungarian teachers’ training and
+                                        teacher’s knowledge which was characterized by the above
+                                        mentioned ’dual system’. This process passed off under the
+                                        influence of the national traditions as well as the central
+                                        European tendencies. In the centre of our research stand the
+                                        two different professional knowledg-type (elementary and
+                                        secondary school teachers’) and also the contents of the
+                                        theoretical reflection which appeared in the fields of
+                                        science. Our lecture focuses on this very complex process
+                                        and analyses the events the Hungarian teacher’s training
+                                        textbooks and educational publications of the late 19th and
+                                        early 20th century.</p>
+               </entity:description>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="video1" USE="EXTERNAL">
+            <METS:FLocat USE="YOUTUBE"
+                         LOCTYPE="URL"
+                         xlink:href="//www.youtube.com/embed/Dxcp4-C4rxM"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37731"/>
+         <METS:div TYPE="entity" DMDID="dc.37732" ADMID="premis.37732 entity.37732">
+            <METS:fptr FILEID="video1"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

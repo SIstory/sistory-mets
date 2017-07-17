@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/20456"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2014-01-08T15:11:42"
+                 LASTMODDATE="2017-02-07T14:16:59"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.20456" GROUPID="20456">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="slv">Blagovna menjava Slovenije z jugoslovanskimi republikami (1945-1991)</dcterms:title>
+            <dcterms:alternative xml:lang="eng">Exchange of Goods Between Slovenia and Other Yugoslav Republics in the Years from 1945 to 1991</dcterms:alternative>
+            <dcterms:creator>Prinčič, Jože</dcterms:creator>
+            <dcterms:abstract xml:lang="slv">V drugi jugoslovanski državi je bil v načelu in tudi po ustavi blagovni prometmed republikami svoboden in se ni mogel omejiti z republiškimi zakoni. Vpraksi pa je bilo trgovanje med republikami dokaj omejeno. Ne samo zaradi njihovihavtarkičnih teženj, temveč tudi zaradi težav pri opredelitvi in uzakonitvipojma enotnega jugoslovanskega trga, ki je bil, razen v ekonomsko političnempomenu, povsem nedoločljiva kategorija.V centralno planski gospodarski organiziranosti je bila Slovenija primoranatrgovati z jugoslovanskimi republikami, ki so predstavljale veliko tržišče. Njenapodjetja so na »južnih trgih« lahko dolgo časa plasirala svoje proizvode instoritve, po katerih na zunanjih, konvertibilnih trgih ni bilo povpraševanja aliso zanje ponujali precej nižje cene. S finančno ugodnimi transakcijami, to je znakupom poceni surovin in prodajo precej dražjih pol in končnih izdelkov terstoritev, so slovenska podjetja ustvarjala denarne presežke. Del teh sredstev jeSlovenija vložila v nadaljnji razvoj in v izboljšanje življenjske ravni, precejšendel pa se je v obliki raznih davščin in prispevkov vrnil v zvezne sklade in skladedrugih, zlasti manj razvitih republik. Ker je znala izrabiti prednosti gospodarskerazvitosti in usposobljenosti trgovinskega osebja, je bila v obravnavanih letihstruktura njene blagovne menjave z drugimi republikami ves čas ugodna. Medrepubliškiblagovni tokovi so zato delovali kot spodbujevalec njega hitrejšegagospodarskega razvoja in rasti neto družbenega proizvoda.Z izjemo krompirja je bila Slovenija deficitarna v osnovnih kmetijskih pridelkihin proizvodih. Potrebe po žitu, živini oziroma mesu, maščobah, sadju inzelenjavi, pa tudi po posameznih semenih je v največji meri pokrivala z uvozomiz drugih delov države. Količine v posameznih letih so bile odvisne od letine.Slovenski proizvajalci so v drugih republikah prodajali proizvodne presežke.Med posameznimi prodajnimi artikli so tako po količini kot po vrednosti menjaveizstopali industrijski izdelki in blago široke porabe.Zbrani podatki o medrepubliški menjavi pokažejo, da je bilo že v sedemdesetihletih skoraj 70 odstotkov vse blagovne menjave opravljene znotraj posameznerepublike. V naslednjem desetletju se je delež nabav izven republiškihmeja še zmanjšal. Za Slovenijo je veljalo, da je okoli 90 odstotkov njene medrepubliškemenjave potekalo s Hrvaško, ožjo Srbijo ter Bosno in Hercegovino. Vdrugi polovici osemdesetih let so vedno bolj omejeno medrepubliško menjavoblaga in storitev spremljali predvsem fiskalni in parafiskalni pretoki denarja. Tipa so bili za Slovenijo neugodni, saj je vsako leto zabeležila visok presežek odlivovnad prilivi iz družbenega proizvoda. S Srbijo so se začeli gospodarski stikitrgati leta 1989, s preostalimi republikami pa po desetdnevni vojni junija 1991.</dcterms:abstract>
+            <dcterms:abstract xml:lang="eng">In the second Yugoslav state the commerce between the republics was – inprinciple as well according to the constitution – free and could not be limitedby the laws of individual republics. However, in practice trade between the republicswas quite limited. That was not only due to their autarkic tendencies,but also due to the problems of defi ning and enacting the concept of a singleYugoslav market, which was – except in the economically political sense – acompletely indeterminable category.In the centrally-planned economic system Slovenia had to trade with the Yugoslavrepublics, which represented a large market. For a long time certain Sloveniancompanies could place their products and services, for which there wasno demand in external, convertible markets or signifi cantly lower prices wereoffered for them, at the »southern markets«. With fi nancially benefi cial transactions– that is, purchase of cheap raw materials and sale of signifi cantly moreexpensive intermediate and fi nished goods and services – Slovenian companieswere able to ensure profi ts. Slovenia invested a part of these resources into furtherdevelopment and improvement of living standard, while a signifi cant partreturned to federal funds and funds of other, especially less-developed republics,in the form of various taxes and contributions. Because it knew how to takeadvantage of its economic development and qualifi cations of its trade personnel,in the years under consideration the structure of its exchange of goods with theother republics was constantly benefi cial. Therefore the fl ows of goods betweenthe republics functioned as a catalyst of the swifter Slovenian economic developmentand growth of its net social product.However, with the exception of potatoes, Slovenia had a defi cit of basic agriculturalcommodities and products. It mostly covered its demand for wheat,livestock or meat, fats, fruit and vegetables, as well as various seeds with importsfrom other parts of Yugoslavia. The amounts in the individual years dependedon the harvest. Slovenian producers sold their production surpluses inthe other republics. In terms of quantity as well as value of exchange, industrialproducts and consumer commodities stood out.The information collected about the exchange between the republics showsthat already in the 1970s almost 70 percent of all exchange of goods was carriedout within individual republics. In the following decade the percentage of purchasesoutside of the borders of individual republics decreased further. As far asSlovenia was concerned, around 90 percent of its exchange between republicstook place with Croatia, narrower Serbia as well as Bosnia and Herzegovina. Inthe second half of the 1980s the increasingly limited exchange of goods and servicesbetween the republics was accompanied especially by fi scal and parafi scalcash fl ows. These were inconvenient for Slovenia, which had a high surplus ofoutfl ow in comparison to infl ow from social product. Slovenia’s economic contactswith Serbia started severing in 1989, and with the other republics after the»Ten-Day War« of June 1991.</dcterms:abstract>
+            <dcterms:subject xml:lang="slv">Slovenija</dcterms:subject>
+            <dcterms:subject xml:lang="slv">zgodovina</dcterms:subject>
+            <dcterms:subject xml:lang="slv">Jugoslavija</dcterms:subject>
+            <dcterms:subject xml:lang="slv">posvetovanja</dcterms:subject>
+            <dcterms:subject xml:lang="slv">1941-1991</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Slovenia</dcterms:subject>
+            <dcterms:subject xml:lang="eng">history</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Yugoslavia</dcterms:subject>
+            <dcterms:subject xml:lang="eng">symposium</dcterms:subject>
+            <dcterms:subject xml:lang="eng">1941-1991</dcterms:subject>
+            <dcterms:publisher>Inštitut za novejšo zgodovino, Ljubljana</dcterms:publisher>
+            <dcterms:publisher>Muzej novejše zgodovine Slovenije, Ljubljana</dcterms:publisher>
+            <dcterms:contributor>Damijan Guštin (moderator)</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2013-11-28</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">MovingImage</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">slv</dcterms:language>
+            <dcterms:license xsi:type="dcterms:URI">http://creativecommons.org/licenses/by-nc-nd/2.5/si/</dcterms:license>
+            <dcterms:license xml:lang="slv">Priznanje avtorstva-Nekomercialo-Brez predelav 2.5 Slovenija (CC BY-NC-ND 2.5 SI)</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.20456">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>20456</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/20456</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.20456">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="slv">
+                  <p xmlns="http://sistory.si/schema/sistory/v3/entity">V drugi jugoslovanski državi je bil v načelu in tudi po
+                                        ustavi blagovni prometmed republikami svoboden in se ni
+                                        mogel omejiti z republiškimi zakoni. Vpraksi pa je bilo
+                                        trgovanje med republikami dokaj omejeno. Ne samo zaradi
+                                        njihovihavtarkičnih teženj, temveč tudi zaradi težav pri
+                                        opredelitvi in uzakonitvipojma enotnega jugoslovanskega
+                                        trga, ki je bil, razen v ekonomsko političnempomenu, povsem
+                                        nedoločljiva kategorija.V centralno planski gospodarski
+                                        organiziranosti je bila Slovenija primoranatrgovati z
+                                        jugoslovanskimi republikami, ki so predstavljale veliko
+                                        tržišče. Njenapodjetja so na »južnih trgih« lahko dolgo časa
+                                        plasirala svoje proizvode instoritve, po katerih na
+                                        zunanjih, konvertibilnih trgih ni bilo povpraševanja aliso
+                                        zanje ponujali precej nižje cene. S finančno ugodnimi
+                                        transakcijami, to je znakupom poceni surovin in prodajo
+                                        precej dražjih pol in končnih izdelkov terstoritev, so
+                                        slovenska podjetja ustvarjala denarne presežke. Del teh
+                                        sredstev jeSlovenija vložila v nadaljnji razvoj in v
+                                        izboljšanje življenjske ravni, precejšendel pa se je v
+                                        obliki raznih davščin in prispevkov vrnil v zvezne sklade in
+                                        skladedrugih, zlasti manj razvitih republik. Ker je znala
+                                        izrabiti prednosti gospodarskerazvitosti in usposobljenosti
+                                        trgovinskega osebja, je bila v obravnavanih letihstruktura
+                                        njene blagovne menjave z drugimi republikami ves čas ugodna.
+                                        Medrepubliškiblagovni tokovi so zato delovali kot
+                                        spodbujevalec njega hitrejšegagospodarskega razvoja in rasti
+                                        neto družbenega proizvoda.Z izjemo krompirja je bila
+                                        Slovenija deficitarna v osnovnih kmetijskih pridelkihin
+                                        proizvodih. Potrebe po žitu, živini oziroma mesu, maščobah,
+                                        sadju inzelenjavi, pa tudi po posameznih semenih je v
+                                        največji meri pokrivala z uvozomiz drugih delov države.
+                                        Količine v posameznih letih so bile odvisne od
+                                        letine.Slovenski proizvajalci so v drugih republikah
+                                        prodajali proizvodne presežke.Med posameznimi prodajnimi
+                                        artikli so tako po količini kot po vrednosti
+                                        menjaveizstopali industrijski izdelki in blago široke
+                                        porabe.Zbrani podatki o medrepubliški menjavi pokažejo, da
+                                        je bilo že v sedemdesetihletih skoraj 70 odstotkov vse
+                                        blagovne menjave opravljene znotraj posameznerepublike. V
+                                        naslednjem desetletju se je delež nabav izven
+                                        republiškihmeja še zmanjšal. Za Slovenijo je veljalo, da je
+                                        okoli 90 odstotkov njene medrepubliškemenjave potekalo s
+                                        Hrvaško, ožjo Srbijo ter Bosno in Hercegovino. Vdrugi
+                                        polovici osemdesetih let so vedno bolj omejeno medrepubliško
+                                        menjavoblaga in storitev spremljali predvsem fiskalni in
+                                        parafiskalni pretoki denarja. Tipa so bili za Slovenijo
+                                        neugodni, saj je vsako leto zabeležila visok presežek
+                                        odlivovnad prilivi iz družbenega proizvoda. S Srbijo so se
+                                        začeli gospodarski stikitrgati leta 1989, s preostalimi
+                                        republikami pa po desetdnevni vojni junija 1991.</p>
+               </entity:description>
+               <entity:description xml:lang="eng">
+                  <p xmlns="http://sistory.si/schema/sistory/v3/entity">In the second Yugoslav state the commerce between the
+                                        republics was – inprinciple as well according to the
+                                        constitution – free and could not be limitedby the laws of
+                                        individual republics. However, in practice trade between the
+                                        republicswas quite limited. That was not only due to their
+                                        autarkic tendencies,but also due to the problems of defi
+                                        ning and enacting the concept of a singleYugoslav market,
+                                        which was – except in the economically political sense –
+                                        acompletely indeterminable category.In the centrally-planned
+                                        economic system Slovenia had to trade with the
+                                        Yugoslavrepublics, which represented a large market. For a
+                                        long time certain Sloveniancompanies could place their
+                                        products and services, for which there wasno demand in
+                                        external, convertible markets or signifi cantly lower prices
+                                        wereoffered for them, at the »southern markets«. With fi
+                                        nancially benefi cial transactions– that is, purchase of
+                                        cheap raw materials and sale of signifi cantly moreexpensive
+                                        intermediate and fi nished goods and services – Slovenian
+                                        companieswere able to ensure profi ts. Slovenia invested a
+                                        part of these resources into furtherdevelopment and
+                                        improvement of living standard, while a signifi cant
+                                        partreturned to federal funds and funds of other, especially
+                                        less-developed republics,in the form of various taxes and
+                                        contributions. Because it knew how to takeadvantage of its
+                                        economic development and qualifi cations of its trade
+                                        personnel,in the years under consideration the structure of
+                                        its exchange of goods with theother republics was constantly
+                                        benefi cial. Therefore the fl ows of goods betweenthe
+                                        republics functioned as a catalyst of the swifter Slovenian
+                                        economic developmentand growth of its net social
+                                        product.However, with the exception of potatoes, Slovenia
+                                        had a defi cit of basic agriculturalcommodities and
+                                        products. It mostly covered its demand for wheat,livestock
+                                        or meat, fats, fruit and vegetables, as well as various
+                                        seeds with importsfrom other parts of Yugoslavia. The
+                                        amounts in the individual years dependedon the harvest.
+                                        Slovenian producers sold their production surpluses inthe
+                                        other republics. In terms of quantity as well as value of
+                                        exchange, industrialproducts and consumer commodities stood
+                                        out.The information collected about the exchange between the
+                                        republics showsthat already in the 1970s almost 70 percent
+                                        of all exchange of goods was carriedout within individual
+                                        republics. In the following decade the percentage of
+                                        purchasesoutside of the borders of individual republics
+                                        decreased further. As far asSlovenia was concerned, around
+                                        90 percent of its exchange between republicstook place with
+                                        Croatia, narrower Serbia as well as Bosnia and Herzegovina.
+                                        Inthe second half of the 1980s the increasingly limited
+                                        exchange of goods and servicesbetween the republics was
+                                        accompanied especially by fi scal and parafi scalcash fl
+                                        ows. These were inconvenient for Slovenia, which had a high
+                                        surplus ofoutfl ow in comparison to infl ow from social
+                                        product. Slovenia’s economic contactswith Serbia started
+                                        severing in 1989, and with the other republics after
+                                        the»Ten-Day War« of June 1991.</p>
+               </entity:description>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="video1" USE="EXTERNAL">
+            <METS:FLocat USE="YOUTUBE"
+                         LOCTYPE="URL"
+                         xlink:href="//www.youtube.com/embed/Ol2ZJfceeHs"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/20426"/>
+         <METS:div TYPE="entity" DMDID="dc.20456" ADMID="premis.20456 entity.20456">
+            <METS:fptr FILEID="video1"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

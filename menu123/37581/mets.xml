@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/37581"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2017-05-19T10:14:39"
+                 LASTMODDATE="2017-05-19T10:19:23"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.37581" GROUPID="37581">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="slv">Slovenci na strani antante</dcterms:title>
+            <dcterms:alternative xml:lang="eng">Slovenes on the side of the entente</dcterms:alternative>
+            <dcterms:creator>Guštin, Damijan</dcterms:creator>
+            <dcterms:description xml:lang="slv">Slovenci so kot državljani Avstro-Ogrske z državljansko vojaško obvezo in lojalnostno bili zavezani svoji strani, Avstro-Ogrski in s tem trozvezi. Do antante so lahko zavzemali le osebna stališča, ki so bila vezana predvsem na razpor med državljansko lojalnostjo in nezadovoljstvom z lastnim nacionalnim notranjepolitičnim položajem v državi, pa tudi širšimi presojami, med katerimi je bil pomemben predvsem odnos do srbske države. Odnos do antante sploh je bil od maja 1915 tudi pod močnim vtisom dejstva, da je na antantno stran prestopila Italija, o katere ceni za prestop, vsebini londonskega pakta, so se širila ugibanja in informacije. Dlje od načelnih stališč so se lahko tisti Slovenci, ki so jim osebne razmere dajale možnost odločati se, odločili za aktivno sodelovanje v antantnih vojaških naporih: najprej tisti v ruskem vojaškem ujetništvu s prostovoljnim vstopom v srbsko vojsko in nato tudi v italijanskem vojnem ujetništvu za vstop v prostovoljsko enoto, ki se je borila na antantni strani, pa tudi izseljenci.</dcterms:description>
+            <dcterms:subject xml:lang="slv">Slovenci</dcterms:subject>
+            <dcterms:subject xml:lang="slv">trozveza</dcterms:subject>
+            <dcterms:subject xml:lang="slv">antanta</dcterms:subject>
+            <dcterms:subject xml:lang="slv">Srbija</dcterms:subject>
+            <dcterms:subject xml:lang="slv">Italija</dcterms:subject>
+            <dcterms:subject xml:lang="slv">prostovoljci</dcterms:subject>
+            <dcterms:subject xml:lang="slv">prostovoljske enote</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Slovenes</dcterms:subject>
+            <dcterms:subject xml:lang="eng">central forces</dcterms:subject>
+            <dcterms:subject xml:lang="eng">entente</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Serbia</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Italy</dcterms:subject>
+            <dcterms:subject xml:lang="eng">volunteers</dcterms:subject>
+            <dcterms:subject xml:lang="eng">volunteer units</dcterms:subject>
+            <dcterms:publisher>Zveza zgodovinskih društev Slovenije, Ljubljana</dcterms:publisher>
+            <dcterms:publisher>Inštitut za novejšo zgodovino, Ljubljana</dcterms:publisher>
+            <dcterms:date xsi:type="dcterms:W3CDTF">1994-10-23</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">MovingImage</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">slv</dcterms:language>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.37581">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>37581</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/37581</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.37581">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Slovenci so kot
+                                    državljani Avstro-Ogrske z državljansko vojaško obvezo in
+                                    lojalnostno bili zavezani svoji strani, Avstro-Ogrski in s tem
+                                    trozvezi. Do antante so lahko zavzemali le osebna stališča, ki
+                                    so bila vezana predvsem na razpor med državljansko lojalnostjo
+                                    in nezadovoljstvom z lastnim nacionalnim notranjepolitičnim
+                                    položajem v državi, pa tudi širšimi presojami, med katerimi je
+                                    bil pomemben predvsem odnos do srbske države. Odnos do antante
+                                    sploh je bil od maja 1915 tudi pod močnim vtisom dejstva, da je
+                                    na antantno stran prestopila Italija, o katere ceni za prestop,
+                                    vsebini londonskega pakta, so se širila ugibanja in informacije.
+                                    Dlje od načelnih stališč so se lahko tisti Slovenci, ki so jim
+                                    osebne razmere dajale možnost odločati se, odločili za aktivno
+                                    sodelovanje v antantnih vojaških naporih: najprej tisti v ruskem
+                                    vojaškem ujetništvu s prostovoljnim vstopom v srbsko vojsko in
+                                    nato tudi v italijanskem vojnem ujetništvu za vstop v
+                                    prostovoljsko enoto, ki se je borila na antantni strani, pa tudi
+                                    izseljenci. </entity:description>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="video1" USE="EXTERNAL">
+            <METS:FLocat USE="YOUTUBE"
+                         LOCTYPE="URL"
+                         xlink:href="//www.youtube.com/embed/lqSHBGT-uTA"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37579"/>
+         <METS:div TYPE="entity" DMDID="dc.37581" ADMID="premis.37581 entity.37581">
+            <METS:fptr FILEID="video1"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/37700"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2017-05-31T10:24:05"
+                 LASTMODDATE="2017-06-16T10:56:42"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.37700" GROUPID="37700">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="eng">"Near to teachers". The Associazione Nazionale per gli Interessi del Mezzogiorno d'Italia during the first XX Century</dcterms:title>
+            <dcterms:alternative xml:lang="slv">“Accanto ai maestri”. L’opera dell’Associazione Nazionale per gli Interessi del Mezzogiorno d’Italia nel primo Novecento</dcterms:alternative>
+            <dcterms:creator>D'Alessio, Michelina</dcterms:creator>
+            <dcterms:description xml:lang="eng">The object of the paper is to describe the history of ANIMI (Associazione Nazionale per gli Interessi del Mezzogiorno d’Italia), an original italian associative experience in the field of teaching education and the struggle against the illiteracy in Italy through the first XX century. ANIMI was born as a service made on a volunteer basis during Messina (Sicily) earthquake in 1908. In 1921 obtained from the ministry the task of work for disseminated primary school in different regional areas of southern Italy, like Basilicata, Calabria, Sicilia and Sardinia, in particular directing action to the dissemination of the culture and the increase in educational works. In addition to opening kindergartens, school libraries and popular, evening, festive, daily schools, supply of teaching materials and tools, significant attention was paid by ANIMI to the choice and care, pedagogical, educative preparation of male and female teachers. The educational and cultural was deployed on several levels: through the organization of educational conferences; culture courses for rural teachers (including those in education and child hygiene education); permanent educational exhibitions at the regional offices; an intense editorial publication (Connection sheets for teachers; Rules and instructions; Teaching programs). Among the key factors in the proposal of new teaching methods, include the specificity attributed to new schools and the evaluation of the environmental and cultural living conditions of the southern part of Italy. In this work of “differentiation teaching” that is given to the places, the central figures of rural male and female teachers, as well as to an appropriate manuals for schools, lies much of the effectiveness of education and teaching, promoted by local delegates..</dcterms:description>
+            <dcterms:description xml:lang="ita">Lo scopo del contributo è quello di illustrare la storia dell’Associazione Nazionale per gli Interessi del Mezzogiorno d’Italia, un’originale esperienza associativa italiana nel campo dell’educazione dei maestri e della lotta contro l’analfabetismo in Italia nel primo Novecento. La storia dell’ANIMI prese avvio sotto la spinta del volontariato privato in occasione del terremoto di Messina del 1908. Nel 1921 ottenne dal ministero la delega dell’opera a favore dell’istruzione primaria in diverse aree regionali del Sud d’Italia, come la Basilicata, la Calabria, la Sicilia e la Sardegna, dirigendo in particolare la sua azione alla diffusione della cultura e all’incremento delle opere educative. Oltre all’apertura di asili infantili, biblioteche scolastiche e popolari, scuole serali, festive, diurne, forniture di materiali e strumenti didattici, un’attenzione significativa dell’ANIMI fu rivolta alla scelta, alla cura e alla preparazione pedagogica e didattica dei maestri e principalmente delle maestre posti alle proprie dipendenze. L’intervento formativo e culturale fu dispiegato su più piani: attraverso l’organizzazione di convegni didattici; corsi di cultura per i maestri e le maestre rurali (tra cui quelli di istruzione igienica infantile e scolastica); mostre didattiche permanenti presso le sedi regionali; una intensa attività editoriale data alle stampe (i Fogli di collegamento per i maestri; Regolamenti e istruzioni; Programmi didattici). Tra i fattori centrali nella proposta dei nuovi metodi didattici rientra la specificità attribuita alle nuove scuole e la valutazione delle condizioni di vita ambientali e culturali del mondo meridionale. In tale opera di “differenziazione didattica” che viene affidata ai luoghi, alle figure centrali dei maestri e delle maestre rurali, oltre che ad un’apposita manualistica destinata alle scuole, risiede molta dell’efficacia educativa e didattica, promossa dagli enti delegati.</dcterms:description>
+            <dcterms:subject xml:lang="slv">zgodovina</dcterms:subject>
+            <dcterms:subject xml:lang="slv">šolstvo</dcterms:subject>
+            <dcterms:subject xml:lang="slv">muzej</dcterms:subject>
+            <dcterms:subject xml:lang="slv">history</dcterms:subject>
+            <dcterms:subject xml:lang="slv">school system</dcterms:subject>
+            <dcterms:subject xml:lang="slv">museum</dcterms:subject>
+            <dcterms:publisher>Slovenski šolski muzej, Ljubljana</dcterms:publisher>
+            <dcterms:publisher>Zveza zgodovinskih društev Slovenije, Ljubljana</dcterms:publisher>
+            <dcterms:publisher>ICOM Slovenija, Celje</dcterms:publisher>
+            <dcterms:publisher>Inštitut za novejšo zgodovino, Ljubljana</dcterms:publisher>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2013-06-28</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">Event</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">eng</dcterms:language>
+            <dcterms:license xsi:type="dcterms:URI">http://creativecommons.org/licenses/by-nc-nd/2.5/si/</dcterms:license>
+            <dcterms:license xml:lang="slv">Priznanje avtorstva-Nekomercialo-Brez predelav 2.5 Slovenija (CC BY-NC-ND 2.5 SI)</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.37700">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>37700</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/37700</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.37700">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="eng">
+                  <p xmlns="http://sistory.si/schema/sistory/v3/entity">The object of the paper is to describe the history of ANIMI
+                                        (Associazione Nazionale per gli Interessi del Mezzogiorno
+                                        d’Italia), an original italian associative experience in the
+                                        field of teaching education and the struggle against the
+                                        illiteracy in Italy through the first XX century. ANIMI was
+                                        born as a service made on a volunteer basis during Messina
+                                        (Sicily) earthquake in 1908. In 1921 obtained from the
+                                        ministry the task of work for disseminated primary school in
+                                        different regional areas of southern Italy, like Basilicata,
+                                        Calabria, Sicilia and Sardinia, in particular directing
+                                        action to the dissemination of the culture and the increase
+                                        in educational works. In addition to opening kindergartens,
+                                        school libraries and popular, evening, festive, daily
+                                        schools, supply of teaching materials and tools, significant
+                                        attention was paid by ANIMI to the choice and care,
+                                        pedagogical, educative preparation of male and female
+                                        teachers. The educational and cultural was deployed on
+                                        several levels: through the organization of educational
+                                        conferences; culture courses for rural teachers (including
+                                        those in education and child hygiene education); permanent
+                                        educational exhibitions at the regional offices; an intense
+                                        editorial publication (Connection sheets for teachers; Rules
+                                        and instructions; Teaching programs). Among the key factors
+                                        in the proposal of new teaching methods, include the
+                                        specificity attributed to new schools and the evaluation of
+                                        the environmental and cultural living conditions of the
+                                        southern part of Italy. In this work of “differentiation
+                                        teaching” that is given to the places, the central figures
+                                        of rural male and female teachers, as well as to an
+                                        appropriate manuals for schools, lies much of the
+                                        effectiveness of education and teaching, promoted by local
+                                        delegates..</p>
+               </entity:description>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="video1" USE="EXTERNAL">
+            <METS:FLocat USE="YOUTUBE"
+                         LOCTYPE="URL"
+                         xlink:href="//www.youtube.com/embed/zPoEbAMMTAM"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37697"/>
+         <METS:div TYPE="entity" DMDID="dc.37700" ADMID="premis.37700 entity.37700">
+            <METS:fptr FILEID="video1"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

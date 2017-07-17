@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/37372"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2017-03-29T22:57:50"
+                 LASTMODDATE="2017-04-07T11:18:22"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.4" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.37372" GROUPID="37372">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="slv">Dr. Josip Tominšek kot zagovornik klasično-humanistične izobrazbe</dcterms:title>
+            <dcterms:alternative xml:lang="eng">Dr. Josip Tominšek as an Advocate of Classical-Humanistic Education</dcterms:alternative>
+            <dcterms:creator>Hriberšek, Matej</dcterms:creator>
+            <dcterms:description xml:lang="slv">Slovenski filolog, šolnik, intelektualec in priznan vsestranski kulturni delavec dr. Josip Tominšek (1872–1954) je večino svojega dejavnega življenja posvetil šolstvu. Deloval je kot učitelj, kot pisec učbenikov, kot ravnatelj, pa tudi kot šolski in telovadni nadzornik. Je avtor latinske slovnice, prve slovenske grške slovnice in vadnice ter številnih drugih učnih pripomočkov. V začetnem obdobju svojega učiteljskega dela se je Tominšek v svojih prispevkih veliko posvečal nekaterim tedanjim perečim vprašanjem pouka, najbolj pa problematiki obeh klasičnih jezikov, latinščine in grščine, ki sta bila njegova osnovna predmeta, vprašanju zmanjševanja namenjenih jima ur ter smiselnosti njunega učenja in poučevanja. Njegovi prispevki o obeh klasičnih jezikih in humanistični izobrazbi, v katerih se je teoretsko opiral na sočasne zlasti avstrijske in nemške, deloma pa tudi angleške vire, njegove ugotovitve in ideje ostajajo kljub več kot stoletni časovni oddaljenosti še danes aktualni. Večina njegovih prispevkov je nastala v obdobju, ko še ni prevzel ravnateljske službe; pozneje mu obveznosti niso več puščale časa za to.</dcterms:description>
+            <dcterms:description xml:lang="eng">Dr. Josip Tominšek (1872-1954), Slovenian philologist, pedagogue, intellectual and famous versatile cultural worker dedicated most of his active life to education. He worked as a teacher, writer of textbooks, principal, as well as school and gym supervisor. He is the author of Latin grammar, the first Slovenian Greek grammar and exercise book, and numerous other teaching accessories. In the initial period of his teaching Tominšek stressed in his articles the then topical issue of teaching and especially the issue of both classical languages, Latin and Greek, which were his primary subjects. He stressed the issue of reducing Latin and Greek lessons and the importance of learning and teaching them. Even today, despite more than a century of time distance, his contributions on both classical languages and the humanistic education, in which he theoretically leaned on the contemporary Austrian and German, partly also English sources, his findings and ideas remain current. Most of his contributions were created in the time before he was a principal; later his obligations left him with no spare time.</dcterms:description>
+            <dcterms:subject xml:lang="slv">Josip Tominšek</dcterms:subject>
+            <dcterms:subject xml:lang="slv">klasični jeziki</dcterms:subject>
+            <dcterms:subject xml:lang="slv">latinščina</dcterms:subject>
+            <dcterms:subject xml:lang="slv">grščina</dcterms:subject>
+            <dcterms:subject xml:lang="slv">matura</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Josip Tominšek</dcterms:subject>
+            <dcterms:subject xml:lang="eng">classical languages</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Latin</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Greek</dcterms:subject>
+            <dcterms:subject xml:lang="eng">matura examination</dcterms:subject>
+            <dcterms:publisher>Zveza zgodovinskih društev Slovenije, Ljubljana</dcterms:publisher>
+            <dcterms:publisher>Inštitut za novejšo zgodovino, Ljubljana</dcterms:publisher>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2016-09-28</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">MovingImage</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">slv</dcterms:language>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.37372">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>37372</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/37372</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.37372">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Slovenski filolog,
+                                    šolnik, intelektualec in priznan vsestranski kulturni delavec
+                                    dr. Josip Tominšek (1872–1954) je večino svojega dejavnega
+                                    življenja posvetil šolstvu. Deloval je kot učitelj, kot pisec
+                                    učbenikov, kot ravnatelj, pa tudi kot šolski in telovadni
+                                    nadzornik. Je avtor latinske slovnice, prve slovenske grške
+                                    slovnice in vadnice ter številnih drugih učnih pripomočkov. V
+                                    začetnem obdobju svojega učiteljskega dela se je Tominšek v
+                                    svojih prispevkih veliko posvečal nekaterim tedanjim perečim
+                                    vprašanjem pouka, najbolj pa problematiki obeh klasičnih
+                                    jezikov, latinščine in grščine, ki sta bila njegova osnovna
+                                    predmeta, vprašanju zmanjševanja namenjenih jima ur ter
+                                    smiselnosti njunega učenja in poučevanja. Njegovi prispevki o
+                                    obeh klasičnih jezikih in humanistični izobrazbi, v katerih se
+                                    je teoretsko opiral na sočasne zlasti avstrijske in nemške,
+                                    deloma pa tudi angleške vire, njegove ugotovitve in ideje
+                                    ostajajo kljub več kot stoletni časovni oddaljenosti še danes
+                                    aktualni. Večina njegovih prispevkov je nastala v obdobju, ko še
+                                    ni prevzel ravnateljske službe; pozneje mu obveznosti niso več
+                                    puščale časa za to. </entity:description>
+               <entity:description xml:lang="eng"> Dr. Josip Tominšek
+                                    (1872-1954), Slovenian philologist, pedagogue, intellectual and
+                                    famous versatile cultural worker dedicated most of his active
+                                    life to education. He worked as a teacher, writer of textbooks,
+                                    principal, as well as school and gym supervisor. He is the
+                                    author of Latin grammar, the first Slovenian Greek grammar and
+                                    exercise book, and numerous other teaching accessories. In the
+                                    initial period of his teaching Tominšek stressed in his articles
+                                    the then topical issue of teaching and especially the issue of
+                                    both classical languages, Latin and Greek, which were his
+                                    primary subjects. He stressed the issue of reducing Latin and
+                                    Greek lessons and the importance of learning and teaching them.
+                                    Even today, despite more than a century of time distance, his
+                                    contributions on both classical languages and the humanistic
+                                    education, in which he theoretically leaned on the contemporary
+                                    Austrian and German, partly also English sources, his findings
+                                    and ideas remain current. Most of his contributions were created
+                                    in the time before he was a principal; later his obligations
+                                    left him with no spare time. </entity:description>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="video1" USE="EXTERNAL">
+            <METS:FLocat USE="YOUTUBE"
+                         LOCTYPE="URL"
+                         xlink:href="https://www.youtube.com/embed/gUXXWmsBX7E"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37360"/>
+         <METS:div TYPE="entity" DMDID="dc.37372" ADMID="premis.37372 entity.37372">
+            <METS:fptr FILEID="video1"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

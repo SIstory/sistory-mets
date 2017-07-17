@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/31063"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2015-06-03T12:30:18"
+                 LASTMODDATE="2017-02-15T12:03:34"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.31063" GROUPID="31063">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="slv">Jud in Slovenec, združena pri reševanju judovskih otrok</dcterms:title>
+            <dcterms:alternative xml:lang="eng">Jew and Slovenian, United in Rescuing Jewish Children</dcterms:alternative>
+            <dcterms:creator>Podbersič, Renato</dcterms:creator>
+            <dcterms:abstract xml:lang="slv">Prispevek obravnava zgodbo reševanja dveh skupin judovskih beguncev, otrok in mladostnikov, ki so iz srednje Evrope in Balkana bežali pred holokavstom. Prvo skupino je pot vodila preko Zagreba in Lesnega Brda pri Vrhniki do Nonantole pri Modeni, kamor so prišli sredi julija 1942. Vodil jih je Josef Indig, Jud iz Virovitice. V Nonantoli se jim je druga skupina pridružila aprila 1943. Njihova pot se je tam srečala s slovensko družino Vendramin iz Solkana, ki je zaradi fašističnega pregona očeta-učitelja, živela v tem severnoitalijanskem kraju. Andrej Vendramin je dejavno pomagal pri reševanju omenjene skupine judovskih otrok, pri čemer je sodeloval s krajevnim duhovnikom in zdravnikom, ki sta po vojni dobila priznanje za svoje nesebično početje, saj ju je država Izrael že počastila z nazivom »pravičnik med narodi«. Po koncu druge svetovne vojne se je družina Vendramin vrnila na Primorsko, zato je ostala vloga učitelja Andreja Vendramina do danes precej neznana. Trenutno potekajo priprave na proces priznanja njegovih zaslug pri reševanju Judov med holokavstom.</dcterms:abstract>
+            <dcterms:abstract xml:lang="eng">Paper presents the story about rescuing two groups of Jewish refugees, children and youth that had been running away form the Holocaust in Central Europe and the Balkans. First group was passing Zagreb and Lesno Brdo near Vrhnika and in July 1942 ended up coming to Nonatola near Modena. They were lead by Josef Indig, a Jew from Virovitica. In Nonatola another group joined them in April 1943. There they met a Slovenian family Vendramin which run away from Solkan, because of fascist prosecution of the father – teacher. Andrej was very active in helping rescue a group of Jewish children, together with the local priest and doctor, who were after the war recognized as Righteous among the Nations. After the war Vandramin family returned home and the role of teacher Andrej Vandramin was unknown till today. The process of recognition his merit in rescuing Jews during the Holocaust is in process.</dcterms:abstract>
+            <dcterms:subject xml:lang="slv">Pravičnik med narodi</dcterms:subject>
+            <dcterms:subject xml:lang="slv">otroci med holokavstom</dcterms:subject>
+            <dcterms:subject xml:lang="slv">judovski begunci</dcterms:subject>
+            <dcterms:subject xml:lang="slv">Villa Emma</dcterms:subject>
+            <dcterms:subject xml:lang="slv">Nonantola</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Righteous among the Nations</dcterms:subject>
+            <dcterms:subject xml:lang="eng">children during the Holocaust</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Jewish refugees</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Villa Emma</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Nonatola</dcterms:subject>
+            <dcterms:publisher>Zveza zgodovinskih društev Slovenije</dcterms:publisher>
+            <dcterms:contributor>Peter Štih (gl. in od. ur.)</dcterms:contributor>
+            <dcterms:contributor>Aida Škoro Babić (ur. in prev.)</dcterms:contributor>
+            <dcterms:contributor>Mateja Jeraj (ur.)</dcterms:contributor>
+            <dcterms:contributor>Matevž Košir (ur.)</dcterms:contributor>
+            <dcterms:contributor>Bojan Balkovec (ur.)</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2012</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">Text</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">slv</dcterms:language>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:dmdSec ID="mods.31063" GROUPID="31063">
+      <METS:mdWrap MDTYPE="MODS" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <mods:relatedItem type="series">
+               <mods:titleInfo>
+                  <mods:title>Zbirka zgodovinskega časopisa, 45</mods:title>
+               </mods:titleInfo>
+            </mods:relatedItem>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.31063">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>31063</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/31063#page=597</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.31063">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Prispevek obravnava
+                                    zgodbo reševanja dveh skupin judovskih beguncev, otrok in
+                                    mladostnikov, ki so iz srednje Evrope in Balkana bežali pred
+                                    holokavstom. Prvo skupino je pot vodila preko Zagreba in Lesnega
+                                    Brda pri Vrhniki do Nonantole pri Modeni, kamor so prišli sredi
+                                    julija 1942. Vodil jih je Josef Indig, Jud iz Virovitice. V
+                                    Nonantoli se jim je druga skupina pridružila aprila 1943.
+                                    Njihova pot se je tam srečala s slovensko družino Vendramin iz
+                                    Solkana, ki je zaradi fašističnega pregona očeta-učitelja,
+                                    živela v tem severnoitalijanskem kraju. Andrej Vendramin je
+                                    dejavno pomagal pri reševanju omenjene skupine judovskih otrok,
+                                    pri čemer je sodeloval s krajevnim duhovnikom in zdravnikom, ki
+                                    sta po vojni dobila priznanje za svoje nesebično početje, saj ju
+                                    je država Izrael že počastila z nazivom »pravičnik med narodi«.
+                                    Po koncu druge svetovne vojne se je družina Vendramin vrnila na
+                                    Primorsko, zato je ostala vloga učitelja Andreja Vendramina do
+                                    danes precej neznana. Trenutno potekajo priprave na proces
+                                    priznanja njegovih zaslug pri reševanju Judov med holokavstom.
+                                </entity:description>
+               <entity:description xml:lang="eng"> Paper presents the story
+                                    about rescuing two groups of Jewish refugees, children and youth
+                                    that had been running away form the Holocaust in Central Europe
+                                    and the Balkans. First group was passing Zagreb and Lesno Brdo
+                                    near Vrhnika and in July 1942 ended up coming to Nonatola near
+                                    Modena. They were lead by Josef Indig, a Jew from Virovitica. In
+                                    Nonatola another group joined them in April 1943. There they met
+                                    a Slovenian family Vendramin which run away from Solkan, because
+                                    of fascist prosecution of the father – teacher. Andrej was very
+                                    active in helping rescue a group of Jewish children, together
+                                    with the local priest and doctor, who were after the war
+                                    recognized as Righteous among the Nations. After the war
+                                    Vandramin family returned home and the role of teacher Andrej
+                                    Vandramin was unknown till today. The process of recognition his
+                                    merit in rescuing Jews during the Holocaust is in process.
+                                </entity:description>
+               <entity:page>597</entity:page>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/31016"/>
+         <METS:div TYPE="entity"
+                   DMDID="dc.31063 mods.31063"
+                   ADMID="premis.31063 entity.31063"/>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

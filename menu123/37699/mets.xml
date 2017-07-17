@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/37699"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2017-05-31T10:21:13"
+                 LASTMODDATE="2017-06-16T10:55:36"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.37699" GROUPID="37699">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="eng">School History Museums &amp; Collections and Teachers Profession: the example of Laboratory of Study and Research of the History of Education and Teachers Profession (LSRHETP) at the University of Crete, Greece</dcterms:title>
+            <dcterms:alternative xml:lang="slv">Σχολικά Μουσεία Ιστορίας &amp; Συλλογές και το Επάγγελμα του Εκπαιδευτικού: Το παράδειγμα του Εργαστηρίου Μελέτης και Έρευνας της Ιστορίας της Εκπαίδευσης και του Διδασκαλικού Επαγγέλματος (ΕΜΕΙΕΔΕ) στο Πανεπιστήμιο Κρήτης, Ελλάδα</dcterms:alternative>
+            <dcterms:creator>Hourdakis, Antonis</dcterms:creator>
+            <dcterms:creator>Karras, Kostantinos</dcterms:creator>
+            <dcterms:description xml:lang="eng">Our paper presents briefly the Laboratory of Study and Research of the History of Education and Teachers Profession at the University of Crete: aims, scopes, collections, archives, museum material and library. Emphasis is given to the contribution of LSRHETP to the development of a new concept of school, a school called a “school of pedagogy” and non a “digital school”, school oriented solely on technology. The main purpose of Laboratory is to give opportunities to teachers and future teachers to ‘use’ the past in order to rebuilt our return “to books” (what ever that means: critical thinking, development of a wide range of skills, practicing the eye, the hand, and the body, bringing back to school the human dimension with the best terms which start eliminates dangerously, etc.). Especially, the key-question is whether today a museum of education, and in our case a laboratory, through its continuous and interactive museum exhibition material, could help to educate a modern and effective school teacher, building on past through the rich educational residues but without fetishists them. Other keyquestions we try to put forward are: did we use efficiently to benefit students the available audiovisual media in the past, how schoolbooks and all kinds of teaching supports contributed to pupils’ education? And if they finally brought or not the expected results? How we can bring, relying on the knowledge and experience of educational heritage, a new way of knowledge acquisition that aims at developing the human capital of pupils, without children end up the same digits in a virtual environment, etc? So, active rather than passive knowledge of the educational past will help teachers and administrators to avoid repeating errors on the teaching content and teaching methodology.</dcterms:description>
+            <dcterms:description xml:lang="ell">Στην εισήγησή μας παρουσιάζουμε το Εργαστήριο Μελέτης και Έρευνας της Ιστορίας της Εκπαίδευσης και του Διδασκαλικού Επαγγέλματος του Πανεπιστημίου Κρήτης και ειδικότερα τους στόχους και τους σκοπούς του, τις συλλογές, τα αρχεία του και το μουσειακό υλικό του. Ιδιαίτερη έμφαση δίνεται στη συμβολή του ΕΜΕΙΕΔΕ για την ανάπτυξη μιας νέας θεώρησης του σχολείου, ενός σχολείου "παιδαγωγικού» και όχι ενός «ψηφιακού σχολείου», προσανατολισμένου αποκλειστικά στην τεχνολογία. Μέσα στο πλαίσιο αυτό ο κύριος σκοπός του Εργαστηρίου είναι να δώσει ευκαιρίες στους δασκάλους/ δασκάλες και τους μελλοντικούς εκπαιδευτικούς να «χρησιμοποιούν» το παρελθόν, προκειμένου να αναθεωρηθεί η θέση του «βιβλίου» στο σχολικό πρόγραμμα (με την έννοια της καλλιέργειας της κριτικής σκέψης, της ανάπτυξης πολλαπλών δεξιοτήτων-συνεργασία όλων των αισθήσεων), επιστρέφοντας στο σχολείο την ανθρώπινη διάσταση και τον ανθρωπιστικό του χαρακτήρα. Ειδικότερα, το βασικό ερώτημα που τίθεται στις μέρες μας είναι εάν ένα μουσείο της εκπαίδευσης θα μπορούσε -και στην περίπτωσή μας ένα Εργαστήριο για την ιστορία της εκπαίδευσης και του διδασκαλικού επαγγέλματος- μέσα από το υπάρχον διαδραστικό υλικό του να συμβάλλει στην εκπαίδευση ενός σύγχρονου και αποτελεσματικού εκπαιδευτικού μέσα από τη μελέτη του παρελθόντος και σε συνδυασμό με καλές εκπαιδευτικές πρακτικές, χωρίς αυτές να καταστούν ένα είδος ‘φετίχ’ και να ‘μουσειοποιηθούν’. Άλλα βασικά-ερωτήματα που θέτει η παρούσα εισήγηση είναι τα ακόλουθα: - Πώς μπορούν να χρησιμοποιηθούν σήμερα προς όφελος των μελλοντικών εκπαιδευτικών και των μαθητών τους τα ‘παραδοσιακά’ οπτικοακουστικά μέσα δίπλα στα μέσα ‘υψηλής τεχνολογίας’; - Πώς/ με ποιο τρόπο το σχολικό βιβλίο χρησιμοποιήθηκε στο παρελθόν και πώς στις μέρες μας επιβάλλεται να το χρησιμοποιήσουμε; Πώς οι διάφορες μορφές διδασκαλίας που στηρίχθηκαν σε αυτό συνέβαλαν στην εκπαίδευση των μαθητών στο παρελθόν; Τι μπορούμε να κάνουμε σήμερα όπου κυριαρχεί σχεδόν παντού η χρήση της τεχνολογίας; - Πώς μπορούμε σήμερα να δημιουργήσουμε νέους τρόπους απόκτησης της γνώσης η οποία θα στοχεύει στην ανάπτυξη του ανθρώπινου κεφαλαίου των μαθητών, χωρίς όμως τα ίδια τα παιδιά να ‘ψηφιοποιούνται’, αν παραμείνουν σε ένα εικονικό περιβάλλον μάθησης; κ.ά. Συνοπτικά, υποστηρίζουμε ότι η ενεργή και όχι παθητική γνώση του εκπαιδευτικού παρελθόντος θα μπορούσε να βοηθήσει τους εκπαιδευτικούς και τους μαθητές/ μαθήτριες αλλά και όλους/ όλες όσους/ όσες εμπλέκονται στην εκπαιδευτική διαδικασία να αποφευχθεί η επανάληψη λαθών τόσο στο περιεχόμενο της διδασκαλίας και της διδακτικής μεθοδολογίας όσο και της καθημερινής εκπαιδευτικής πρακτικής στο σημερινό σχολείο.</dcterms:description>
+            <dcterms:subject xml:lang="slv">zgodovina</dcterms:subject>
+            <dcterms:subject xml:lang="slv">šolstvo</dcterms:subject>
+            <dcterms:subject xml:lang="slv">muzej</dcterms:subject>
+            <dcterms:subject xml:lang="eng">history</dcterms:subject>
+            <dcterms:subject xml:lang="eng">school system</dcterms:subject>
+            <dcterms:subject xml:lang="eng">museum</dcterms:subject>
+            <dcterms:publisher>Slovenski šolski muzej, Ljubljana</dcterms:publisher>
+            <dcterms:publisher>Zveza zgodovinskih društev Slovenije, Ljubljana</dcterms:publisher>
+            <dcterms:publisher>ICOM Slovenija, Celje</dcterms:publisher>
+            <dcterms:publisher>Inštitut za novejšo zgodovino, Ljubljana</dcterms:publisher>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2013-06-28</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">MovingImage</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">eng</dcterms:language>
+            <dcterms:license xsi:type="dcterms:URI">http://creativecommons.org/licenses/by-nc-nd/2.5/si/</dcterms:license>
+            <dcterms:license xml:lang="slv">Priznanje avtorstva-Nekomercialo-Brez predelav 2.5 Slovenija (CC BY-NC-ND 2.5 SI)</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.37699">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>37699</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/37699</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.37699">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="eng">
+                  <p xmlns="http://sistory.si/schema/sistory/v3/entity">Our paper presents briefly the Laboratory of Study and
+                                        Research of the History of Education and Teachers Profession
+                                        at the University of Crete: aims, scopes, collections,
+                                        archives, museum material and library. Emphasis is given to
+                                        the contribution of LSRHETP to the development of a new
+                                        concept of school, a school called a “school of pedagogy”
+                                        and non a “digital school”, school oriented solely on
+                                        technology. The main purpose of Laboratory is to give
+                                        opportunities to teachers and future teachers to ‘use’ the
+                                        past in order to rebuilt our return “to books” (what ever
+                                        that means: critical thinking, development of a wide range
+                                        of skills, practicing the eye, the hand, and the body,
+                                        bringing back to school the human dimension with the best
+                                        terms which start eliminates dangerously, etc.). Especially,
+                                        the key-question is whether today a museum of education, and
+                                        in our case a laboratory, through its continuous and
+                                        interactive museum exhibition material, could help to
+                                        educate a modern and effective school teacher, building on
+                                        past through the rich educational residues but without
+                                        fetishists them. Other keyquestions we try to put forward
+                                        are: did we use efficiently to benefit students the
+                                        available audiovisual media in the past, how schoolbooks and
+                                        all kinds of teaching supports contributed to pupils’
+                                        education? And if they finally brought or not the expected
+                                        results? How we can bring, relying on the knowledge and
+                                        experience of educational heritage, a new way of knowledge
+                                        acquisition that aims at developing the human capital of
+                                        pupils, without children end up the same digits in a virtual
+                                        environment, etc? So, active rather than passive knowledge
+                                        of the educational past will help teachers and
+                                        administrators to avoid repeating errors on the teaching
+                                        content and teaching methodology.</p>
+               </entity:description>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="video1" USE="EXTERNAL">
+            <METS:FLocat USE="YOUTUBE"
+                         LOCTYPE="URL"
+                         xlink:href="//www.youtube.com/embed/4PH1IMkrDIo"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37697"/>
+         <METS:div TYPE="entity" DMDID="dc.37699" ADMID="premis.37699 entity.37699">
+            <METS:fptr FILEID="video1"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/37703"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2017-05-31T10:56:16"
+                 LASTMODDATE="2017-06-16T10:57:27"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.37703" GROUPID="37703">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="eng">The basque teaching, the associativism and the salaries of the state</dcterms:title>
+            <dcterms:alternative xml:lang="spa">El magisterio vasco, el asociacionismo y los sueldos del estado</dcterms:alternative>
+            <dcterms:alternative xml:lang="">Euskal irakaslegoa, irakaslegoaren elkarteak eta estatuaren soldatak</dcterms:alternative>
+            <dcterms:creator>Dávila Balsera, Paulí</dcterms:creator>
+            <dcterms:creator>Mª Naya Garmendia, Luis</dcterms:creator>
+            <dcterms:description xml:lang="eng">The creation of the teaching as a government employees' body, in the Spanish case, is recent. The educational policies developed by the Spanish State, at the beginning of the 20th century, were directed to assure that teachers should have an insured salary. This right was not guaranteed until that moment because they depended on local and provincial instances. Since the Law of Budgets of 1901, the State was guaranteeing the punctual payment of the salaries to the teaching. Nevertheless, this general politics could not be extended to the whole territory since the Basque Country and Navarre were enjoying a particular privilege as they had the Economic Agreement, which was an agreement between the State and these territories. In these agreements a series of attributions was recognized to the territories on the part of the State. In this contribution we are going to analyze the situation of the Basque teaching from the end of the 19th century up to the first third of the 20th century because it is a key period to study the different agents who took part in the process of normalization of the teaching in the Basque Country. In this sense, it can be observed: 1) the standardizing politics of the State; 2) the policies of the Provincial Council of the Basque territories, raising new forms of formation of the Basque teaching; 3) the actions of the associations of the Basque teaching, requesting the equalization of the Basque-Navarre teaching to the one that the rest of Spanish colleagues had; 4) the professional press of teaching claiming the aforementioned ones and 5) the creation of alternatives to the official teaching of the State from some city councils, through the creation of a municipal and a rural teaching. In all this process, the role of the associativism of the teaching, through the Federation of Associations of the Basque-Navarre Teaching, and the professional magazines (“El Magisterio Alavés”) was a key element. The aim of this contribution is to reveal the existing conflict between the Spanish State and the Basque territories in relation to the teaching, indicating the set of agents who were rose up before this situation. This paper is the result of a research project financed by the Spanish Ministry for Science and Education, project number EDU-2010-15218. The authors are members of the Group for Historical and Comparative Studies in Education – Garaian, recognized by the Basque Government, registry number IT 603/13 and of the Unity of Education and Research “Education, Culture and Society (UFI 11/54)” of the University of the Basque Country UPV/EHU.</dcterms:description>
+            <dcterms:description xml:lang="">Espainian, irakasleriaren osaketa funtzionario kidego gisa oso berria da. Estatu Espainiarrean, XX. mendearen hasieran, garatutako politikek, irakasleek soldata bermatua izango zutela ziurtatzera bideratu ziren. Ordurarte soldata hori tokiko administrazioaren esku zeuden eta ez zeuden erabat bermatuak. 1901ko aurrekontuaren ondoren, Estatuak irakasleen soldata bere garaian kobratzea bermatu zuen. Hala ere politika orokor hau Espainiako lurraldean osoan ezin izan zen aplikatu, Nafarroa eta Euskal Probintziek Kontzertu Ekonomikoa zutelako, alegia Estatua eta lurralde horien arteko hitzarmen bat. Kontzertu Ekonomiko horietan Estatuak lurralde horiei konpetentzi jakin batzuk aitortzen zizkien. Ekarpen honetan euskal irakasleriaren egoera XIX. mendearen bukaeran eta XX. mendearen lehengo herenean aztertuko dugu. Euskal Herrian irakasleriaren normalkuntzan parte hartzen duten eragileak aztertzeko funtsezko garaia delako. Horrela, azterketaq honetan elementu hauek ikus daitezke: 1) Estatuaren politika uniformizatzailea; 2) Euskal lurraldeetako Diputazioen politikak, non euskal irakasleriaren formakuntzarako bide berriak planteatzen dituzten; 3) Euskal Irakasleen elkarteen ekintzak, Espainiako irakasleekiko parekatzea eskatuz; 4) Irakasleen prentsa profesionalaren tratamendua, eta 5) Estatuaren aurrean Udalek bultzaturiko alternatibak, landako eta udaleko irakasleria sortuz. Prozesu honetan irakasleen elkarteen, Euskal Irakasleriaren Elkarteen Federakuntzaren bitartez, eta baita ere aldizkari profesionalen eginkizuna (El Magisterio Alavés) azpimarragarria izan zen. Ekarpen honen helburua hau da: irakasleriaren inguruan euskal lurralde eta Estatu Espainiarren arteko konfliktoa agerian uztea da, egoera honetan eragile desberdinek bete zuten papera azpimarratuz. Ekarpen hau Ministerio de Educación y Ciencia-k finantziatutako ikerketa baten testuinguruan kokatzen da (proiektu-zenbakia EDU-2010-15218). Autoreak Eusko Jaurlaritzak IT 603-13 zenbakiarekin babestutako Hezkuntzan Azterketa Historiko eta Konparatuetarako (Garaian) taldekideak dira eta Eusk Herriko Unibertsitateko "Hezkuntza, Kultura eta Gizartea" Prestakuntza eta Ikerketarako Unitateko (UFI 11/54) kideak dira.</dcterms:description>
+            <dcterms:description xml:lang="spa">La constitución del magisterio como un cuerpo de funcionarios del Estado, en el caso español, es reciente. Las políticas educativas desarrolladas por el Estado Español, a principios del siglo XX, iban encaminadas a asegurar que los maestros y maestras pudieran tener asegurado un sueldo, ya que al depender de instancias locales y provinciales este derecho no quedaba garantizado. A partir de la Ley de Presupuestos de 1901, el Estado garantizaba el pago puntual de los sueltos al magisterio. No obstante, esta política general no pudo extenderse a todo el territorio ya que las denominadas Provincias Vascongadas y Navarra gozaban de un privilegio particular al gozar de los Conciertos Económicos, que eran un acuerdo entre el Estado y estos territorios. En estos conciertos se reconocía una serie de atribuciones a los territorios por parte del Estado. En esta aportación vamos analizar la situación del magisterio vasco desde finales del siglo XIX hasta el primer tercio del siglo XX, pues se trata de un periodo crucial para poder estudiar los agentes que intervienen en el proceso de normalización del magisterio en el País Vasco. En este sentido, se puede observar: 1) la política uniformadora del Estado; 2) las políticas de las diputaciones provinciales de los territorios vascos, planteando nuevas formas de formación del magisterio vasco; 3) las acciones de las asociaciones del magisterio vasco, solicitando la equiparación del magisterio vasco-navarro al resto de los colegas españoles; 4) la prensa profesional del magisterio reivindicando las mismas y 5) la creación de alternativas al magisterio oficial del Estado desde algunos ayuntamientos, a través de la creación de un magisterio municipal y magisterio rural. En todo este proceso, el papel del asociacionismo del magisterio, a través de la Federación de Asociaciones del Magisterio Vasco-Navarro, y las revistas profesionales (El Magisterio Alavés) fue clave. El objetivo de esta aportación es poner de manifiesto el conflicto existente entre el Estado español y los territorios vascos con relación al magisterio, señalando el conjunto de agentes que se pusieron de manifiesto ante esta situación. Esta aportación es resultado de un proyecto de investigación financiado por el Ministerio de Educación y Ciencia, proyecto número EDU-2010-15218. Los autores son miembros del Grupo de Estudios Históricos y Comparados en Educación – Garaian, reconocido por el Gobierno Vasco con el número IT 603-13 y de la Unidad de Formación e Investigación “Educación, Cultura y Sociedad (UFI 11/54)” de la Universidad del País Vasco/Euskal Herriko Unibertsitatea UPV/EHU.</dcterms:description>
+            <dcterms:subject xml:lang="slv">zgodovina</dcterms:subject>
+            <dcterms:subject xml:lang="slv">šolstvo</dcterms:subject>
+            <dcterms:subject xml:lang="slv">muzej</dcterms:subject>
+            <dcterms:subject xml:lang="eng">history</dcterms:subject>
+            <dcterms:subject xml:lang="eng">school system</dcterms:subject>
+            <dcterms:subject xml:lang="eng">museum</dcterms:subject>
+            <dcterms:publisher>Slovenski šolski muzej, Ljubljana</dcterms:publisher>
+            <dcterms:publisher>Zveza zgodovinskih društev Slovenije, Ljubljana</dcterms:publisher>
+            <dcterms:publisher>ICOM Slovenija, Celje</dcterms:publisher>
+            <dcterms:publisher>Inštitut za novejšo zgodovino, Ljubljana</dcterms:publisher>
+            <dcterms:contributor>Simonetta Polenghi (moderator)</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2013-06-28</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">MovingImage</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">eng</dcterms:language>
+            <dcterms:license xsi:type="dcterms:URI">http://creativecommons.org/licenses/by-nc-nd/2.5/si/</dcterms:license>
+            <dcterms:license xml:lang="slv">Priznanje avtorstva-Nekomercialo-Brez predelav 2.5 Slovenija (CC BY-NC-ND 2.5 SI)</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.37703">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>37703</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/37703</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.37703">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="eng">
+                  <p xmlns="http://sistory.si/schema/sistory/v3/entity">The creation of the teaching as a government employees' body,
+                                        in the Spanish case, is recent. The educational policies
+                                        developed by the Spanish State, at the beginning of the 20th
+                                        century, were directed to assure that teachers should have
+                                        an insured salary. This right was not guaranteed until that
+                                        moment because they depended on local and provincial
+                                        instances. Since the Law of Budgets of 1901, the State was
+                                        guaranteeing the punctual payment of the salaries to the
+                                        teaching. Nevertheless, this general politics could not be
+                                        extended to the whole territory since the Basque Country and
+                                        Navarre were enjoying a particular privilege as they had the
+                                        Economic Agreement, which was an agreement between the State
+                                        and these territories. In these agreements a series of
+                                        attributions was recognized to the territories on the part
+                                        of the State. In this contribution we are going to analyze
+                                        the situation of the Basque teaching from the end of the
+                                        19th century up to the first third of the 20th century
+                                        because it is a key period to study the different agents who
+                                        took part in the process of normalization of the teaching in
+                                        the Basque Country. In this sense, it can be observed: 1)
+                                        the standardizing politics of the State; 2) the policies of
+                                        the Provincial Council of the Basque territories, raising
+                                        new forms of formation of the Basque teaching; 3) the
+                                        actions of the associations of the Basque teaching,
+                                        requesting the equalization of the Basque-Navarre teaching
+                                        to the one that the rest of Spanish colleagues had; 4) the
+                                        professional press of teaching claiming the aforementioned
+                                        ones and 5) the creation of alternatives to the official
+                                        teaching of the State from some city councils, through the
+                                        creation of a municipal and a rural teaching. In all this
+                                        process, the role of the associativism of the teaching,
+                                        through the Federation of Associations of the Basque-Navarre
+                                        Teaching, and the professional magazines (“El Magisterio
+                                        Alavés”) was a key element. The aim of this contribution is
+                                        to reveal the existing conflict between the Spanish State
+                                        and the Basque territories in relation to the teaching,
+                                        indicating the set of agents who were rose up before this
+                                        situation. This paper is the result of a research project
+                                        financed by the Spanish Ministry for Science and Education,
+                                        project number EDU-2010-15218. The authors are members of
+                                        the Group for Historical and Comparative Studies in
+                                        Education – Garaian, recognized by the Basque Government,
+                                        registry number IT 603/13 and of the Unity of Education and
+                                        Research “Education, Culture and Society (UFI 11/54)” of the
+                                        University of the Basque Country UPV/EHU.</p>
+               </entity:description>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="video1" USE="EXTERNAL">
+            <METS:FLocat USE="YOUTUBE"
+                         LOCTYPE="URL"
+                         xlink:href="//www.youtube.com/embed/ffUxUtqDXEU"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37702"/>
+         <METS:div TYPE="entity" DMDID="dc.37703" ADMID="premis.37703 entity.37703">
+            <METS:fptr FILEID="video1"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

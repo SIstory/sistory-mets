@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/37178"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2017-03-07T16:22:50"
+                 LASTMODDATE="2017-03-27T11:00:46"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.81" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.37178" GROUPID="37178">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="eng">Borders and Administrative legacy</dcterms:title>
+            <dcterms:title xml:lang="eng">Ljubljana, 24. – 26. November 2016</dcterms:title>
+            <dcterms:alternative xml:lang="slv">Meje in administrativna dediščina</dcterms:alternative>
+            <dcterms:alternative xml:lang="slv">Ljubljana, 24. – 26. November 2016</dcterms:alternative>
+            <dcterms:description xml:lang="eng">What is administrative legacy? Borders are not merely lines on maps and markers in the field: they are “virtual spaces” with a horizontal and vertical dimension. We can envision borders as historical/social phenomena, with their own height, width, length (and weight). The horizontal encompasses the social influence of the borders, while the vertical includes the historical layers. The layers recorded in the official bureaucratic sources may also be referred to as administrative legacy. As far as phantom borders are concerned, the past, structured in the present, is essential. At the same time, administrative legacy is the phantom past, structured in the official records of the states and, as such, literally represents the old in the new. It is pure history in the sense of what has been preserved and recorded, something that never dies, but also never remains the same. Each time it comes to life it acquires a different form and has a different effect. Administrative legacy is vital for the legitimacy and status of the present. The legitimacy and meaning of the contemporary borders stem merely from the official records. Phantom and actual political borders may overlap. Borders can outlive the states that created them. It is obvious that when the constellation of the political spaces changes or when new spaces are being created, a crack may open and the phantom past may ooze out, possessing the border. As the political space changes, the parts of the administrative legacy that had been technical, even obscure, suddenly become important: cadastral municipality borders, police districts, fishing zones, landscape parks, etc. The purpose of this conference is to critically assess the methodological and conceptual power of the administrative legacy and to subject it to theoretical and empirical historical research.</dcterms:description>
+            <dcterms:publisher>Inštitut za novejšo zgodovino, Ljubljana</dcterms:publisher>
+            <dcterms:publisher>Oddelek za zgodovino Filozofske fakultete Univerze v Ljubljani</dcterms:publisher>
+            <dcterms:contributor>Marko Zajc</dcterms:contributor>
+            <dcterms:contributor>Jernej Kosi</dcterms:contributor>
+            <dcterms:contributor>Zdenko Čepič</dcterms:contributor>
+            <dcterms:contributor>Neja Blaj Hribar</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:Period">start=24.11.2016; end=26.11.2016; name=; scheme=; </dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">MovingImage</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">eng</dcterms:language>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.37178">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>37178</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/37178</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.37178">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="eng"> What is administrative
+                                    legacy? Borders are not merely lines on maps and markers in the
+                                    field: they are “virtual spaces” with a horizontal and vertical
+                                    dimension. We can envision borders as historical/social
+                                    phenomena, with their own height, width, length (and weight).
+                                    The horizontal encompasses the social influence of the borders,
+                                    while the vertical includes the historical layers. The layers
+                                    recorded in the official bureaucratic sources may also be
+                                    referred to as administrative legacy. As far as phantom borders
+                                    are concerned, the past, structured in the present, is
+                                    essential. At the same time, administrative legacy is the
+                                    phantom past, structured in the official records of the states
+                                    and, as such, literally represents the old in the new. It is
+                                    pure history in the sense of what has been preserved and
+                                    recorded, something that never dies, but also never remains the
+                                    same. Each time it comes to life it acquires a different form
+                                    and has a different effect. Administrative legacy is vital for
+                                    the legitimacy and status of the present. The legitimacy and
+                                    meaning of the contemporary borders stem merely from the
+                                    official records. Phantom and actual political borders may
+                                    overlap. Borders can outlive the states that created them. It is
+                                    obvious that when the constellation of the political spaces
+                                    changes or when new spaces are being created, a crack may open
+                                    and the phantom past may ooze out, possessing the border. As the
+                                    political space changes, the parts of the administrative legacy
+                                    that had been technical, even obscure, suddenly become
+                                    important: cadastral municipality borders, police districts,
+                                    fishing zones, landscape parks, etc. The purpose of this
+                                    conference is to critically assess the methodological and
+                                    conceptual power of the administrative legacy and to subject it
+                                    to theoretical and empirical historical research. </entity:description>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink">
+      <METS:fileGrp USE="THUMB">
+         <METS:file ID="thumbnail">
+            <METS:FLocat LOCTYPE="URL"
+                         xlink:href="http://www.sistory.si/cdn/publikacije/37001-38000/37178/sistory.jpg"/>
+         </METS:file>
+      </METS:fileGrp>
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="file22586"
+                    OWNERID="Konferenca Meje.pdf"
+                    MIMETYPE="application/pdf">
+            <METS:FLocat LOCTYPE="HANDLE" xlink:href="https://hdl.handle.net/11686/file22586"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="primary">
+      <METS:div TYPE="collection">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/menu123"/>
+         <METS:div TYPE="entity" DMDID="dc.37178" ADMID="premis.37178 entity.37178">
+            <METS:fptr FILEID="thumbnail"/>
+            <METS:fptr FILEID="file22586"/>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37232"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37233"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37234"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37235"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37237"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37236"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37238"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37239"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37241"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37240"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37242"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37243"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37244"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37246"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37245"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37247"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37248"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37249"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37250"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37252"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37251"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37253"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37254"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37255"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37257"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37256"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37258"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37260"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37259"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37261"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37262"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37264"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37263"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37265"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37266"/>
+            </METS:div>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

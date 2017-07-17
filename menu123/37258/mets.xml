@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/37258"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2017-03-13T09:14:20"
+                 LASTMODDATE="2017-03-14T14:15:53"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.81" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.37258" GROUPID="37258">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="eng">Names, Legacies, Borders and Representations of Rijeka and the Upper Adriatic</dcterms:title>
+            <dcterms:alternative xml:lang="slv">Imena, dediščina, meje in predstavitve Reke in zgornjega Jadrana</dcterms:alternative>
+            <dcterms:creator>D’Alessio, Vanni</dcterms:creator>
+            <dcterms:subject xml:lang="slv">Reka</dcterms:subject>
+            <dcterms:subject xml:lang="slv">zgornji Jadran</dcterms:subject>
+            <dcterms:subject xml:lang="slv">meje</dcterms:subject>
+            <dcterms:subject xml:lang="slv">dediščina</dcterms:subject>
+            <dcterms:subject xml:lang="eng">border</dcterms:subject>
+            <dcterms:subject xml:lang="eng">legacy</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Rijeka</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Upper Adriatic</dcterms:subject>
+            <dcterms:publisher>Inštitut za novejšo zgodovino, Ljubljana</dcterms:publisher>
+            <dcterms:publisher>Oddelek za zgodovino Filozofske fakultete Univerze v Ljubljani, Ljubljana</dcterms:publisher>
+            <dcterms:contributor>Marko Zajc</dcterms:contributor>
+            <dcterms:contributor>Jernej Kosi</dcterms:contributor>
+            <dcterms:contributor>Zdenko Čepič</dcterms:contributor>
+            <dcterms:contributor>Neja Blaj Hribar</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:Period">start=24.11.2016; end=26.11.2016; name=; scheme=; </dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">MovingImage</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">eng</dcterms:language>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.37258">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>37258</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/37258</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.37258">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Prispevek je posvečen
+                                    razpravi o vplivu dediščine preteklih upravnih meja in subjektov
+                                    v Istri in na Reki na vzpostavljanje in zgodovinsko
+                                    upravičevanje novih političnih enot, na primer občin in
+                                    pokrajin, v 19. in 20. stoletju. Predvsem analizira, kako so
+                                    sodobne upravne enote in subjekti predstavljeni v toponimih,
+                                    simbolih in političnih diskurzih na Reki in širše na celotnem
+                                    zgornjem Jadranu. Od 19. stoletja so politične oblasti in
+                                    izobraženci upravičevali in legitimirali obstoj sodobnih
+                                    političnih subjektov z geografskimi in zgodovinskimi analizami
+                                    ter razlagami. Oblikovanje ali potrjevanje upravnih enot so
+                                    spremljale jezikovne in vizualne predstavitve, ki so poudarjale
+                                    ali zanikale pomen geomorfoloških referenčnih točk in
+                                    zgodovinske dediščine. Tako kot pokrajine tudi mesta in občine
+                                    niso fiksni subjekti, njihove meje in razmejitve, ki so včasih
+                                    zgolj administrativne narave, pa vplivajo na njihov politični in
+                                    kulturni razvoj. Ta prispevek obravnava vprašanje razmejevanja
+                                    in poimenovanja celotnega območja zgornjega oziroma
+                                    severovzhodnega Jadrana, ki je imelo v preteklosti različna
+                                    imena in je bilo z upravnimi in državnimi mejami razdeljeno na
+                                    različne enote. Prispevek se osredotoča zlasti na Reko in na
+                                    povezavo tega mesta z njegovimi občinskimi in pokrajinskimi
+                                    volilnimi enotami, od liburnijskega Lovrana, Opatije, Zameta in
+                                    Kastava ter regij Gorskega Kotarja, do Suška, Kraljevice in
+                                    Crikvenice, pa tudi Materije in Podgrada. Kako so te spremembe
+                                    vplivale na politične in kulturne razsežnosti ter spoznavne
+                                    zemljevide lokalnega prebivalstva? Kako je Reka predstavljena v
+                                    današnjih in preteklih zgodovinskih opisih? Kakšno vlogo je
+                                    imela fizična ločitev reke Riječine? V prispevku obravnavam tudi
+                                    vprašanje, kako so bili Reka in okoliška območja predstavljeni s
+                                    toponimi, grbi, zastavami in drugimi simboli ter kako je nanje
+                                    vplivala povezava zgodovinske dediščine ter politične in
+                                    kulturne stvarnosti. </entity:description>
+               <entity:description xml:lang="eng"> This paper will discuss
+                                    the legacies of defunct administrative borders and entities in
+                                    Istria and Rijeka in the creation and historical legitimization
+                                    of 19th and 20th century’s new political units, such as
+                                    municipalities and provinces. In particular, it will analyze the
+                                    representations of modern administrative units and entities in
+                                    toponyms, symbols, and political discourses in Rijeka and, more
+                                    broadly, in the whole Upper Adriatic. Starting from the 19th
+                                    century political authorities and intellectuals have justified
+                                    and legitimized the existence of modern political entities
+                                    elaborating geographical and historical analyses and narratives.
+                                    The formation or confirmation of administrative units have been
+                                    accompanied by linguistic and visual representations which
+                                    reiterated or negated the relevance of geo-morphological points
+                                    of reference and of historical legacies. As provinces, cities
+                                    and municipalities are not fixed entities, and their borders and
+                                    delimitations, sometime pure administrative acts, have
+                                    consequences in their political and cultural evolutions. This
+                                    paper will address the problem of delimitation and naming the
+                                    whole area of the Upper Adriatic or North-Eastern Adriatic,
+                                    which has had different names and divisions along administrative
+                                    and state borders. In particular the paper will focus on Rijeka
+                                    and how the city has been related to its municipal and
+                                    provincial constituencies, from the Liburnic Lovran and Opatija,
+                                    to Zamet and Kastav, to the regions of Gorski Kotar, to Sušak,
+                                    Kraljevica and Crikvenica, but also to Materja and Podgrad. How
+                                    did these changes have affected the political and cultural
+                                    dimensions and the mental maps of the local population? What is
+                                    and was Rijeka in historical accounts? Which role has been the
+                                    physical separation of the river Riječina? Ths paper will also
+                                    attempt discussion on the representations of the of Rijeka and
+                                    its surrounding area in toponym, coat of arms, flags and other
+                                    symbols, and how they have been influenced by the conjuncture of
+                                    historical legacies with political and cultural realities.
+                                </entity:description>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="video1" USE="EXTERNAL">
+            <METS:FLocat USE="YOUTUBE"
+                         LOCTYPE="URL"
+                         xlink:href="https://www.youtube.com/embed/x2rLTM8xJZU"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37178"/>
+         <METS:div TYPE="entity" DMDID="dc.37258" ADMID="premis.37258 entity.37258">
+            <METS:fptr FILEID="video1"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/36074"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2016-11-15T08:16:07"
+                 LASTMODDATE="2017-05-16T12:12:44"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.36074" GROUPID="36074">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="slv">Četrt stoletja Republike Slovenije – izzivi, dileme, pričakovanja</dcterms:title>
+            <dcterms:title xml:lang="slv">Posvet na Inštitutu za novejšo zgodovino, Ljubljana, 15. in 16. junija 2016</dcterms:title>
+            <dcterms:alternative xml:lang="eng">25 years of the Republic of Slovenia – challenges, dilemmas, expectations</dcterms:alternative>
+            <dcterms:alternative xml:lang="eng">Conference at the Slovene Institute of Contemporary History, Ljubljana, 15th and 16th June 2016</dcterms:alternative>
+            <dcterms:creator xml:lang="slv">Inštitut za novejšo zgodovino, Ljubljana</dcterms:creator>
+            <dcterms:subject xml:lang="slv">Slovenija</dcterms:subject>
+            <dcterms:subject xml:lang="slv">zgodovina</dcterms:subject>
+            <dcterms:subject xml:lang="slv">osamosvojitev</dcterms:subject>
+            <dcterms:subject xml:lang="slv">tranzicija</dcterms:subject>
+            <dcterms:subject xml:lang="slv">demokratizacija</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Slovenia</dcterms:subject>
+            <dcterms:subject xml:lang="eng">history</dcterms:subject>
+            <dcterms:subject xml:lang="eng">independence</dcterms:subject>
+            <dcterms:subject xml:lang="eng">transition</dcterms:subject>
+            <dcterms:subject xml:lang="eng">democratisation</dcterms:subject>
+            <dcterms:publisher>Inštitut za novejšo zgodovino, Ljubljana</dcterms:publisher>
+            <dcterms:contributor>Žarko Lazarević (moderator)</dcterms:contributor>
+            <dcterms:date>15.06.2016</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">MovingImage</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">slv</dcterms:language>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.36074">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>36074</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/36074</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.36074">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="slv">
+                  <p xmlns="http://sistory.si/schema/sistory/v3/entity">Četrt stoletja Republike Slovenije je za mnoge relativen
+                                        pojem. Nekaterim se obletnica ne zdi nič posebnega, drugi je
+                                        zaradi številnih zavoženih poti v tem času sploh ne bi
+                                        slavili, tretji bi spomin na 25 let od nastanka države
+                                        počastili posebej skrbno. Ravno tako relativna je za
+                                        zgodovinarje in slovensko zgodovinopisje, po eni strani leto
+                                        2016 ne predstavlja nikakršnega posebnega mejnika v
+                                        zgodovini, po drugi pa 25 let obstoja RS gotovo pomeni
+                                        vzpodbudo za aktivnejši raziskovalni spopad s tem
+                                        obdobjem.</p>
+                  <p xmlns="http://sistory.si/schema/sistory/v3/entity">Toda če se zanj danes odločimo, brž ugotovimo, da je čas, ki
+                                        je minil, dogodkovno in problemsko nadvse poln in kliče po
+                                        sistematični analizi, hkrati pa je še živ in prisoten.
+                                        Dilem, povezanih z izzivom raziskovanja in prezentiranja
+                                        zgodovine Republike Slovenije, tako zagotovo ne manjka.</p>
+                  <p xmlns="http://sistory.si/schema/sistory/v3/entity">Raziskovalce (in javnost) vznemirjajo številna vprašanja in
+                                                možnosti:<ul>
+                        <li>Vprašanje arhivskega in drugega
+                                                dokumentarnega gradiva, ki je (ali ni) na voljo
+                                                raziskovalcem.</li>
+                        <li>Metodološka vprašanja, ki
+                                                zadevajo problematiko distance, različnihvirov
+                                                (njihove količine, dostopnosti, urejenosti,
+                                                verodostojnosti…).</li>
+                        <li>Vprašanja o možnostih
+                                                predstavitve obdobja (muzealske,
+                                                internetne…).</li>
+                        <li>Možnost (in nujnost)
+                                                pritegnitve ocen in študij drugih ved, ki so se
+                                                ukvarjale s sočasnostjo (zlasti politologija,
+                                                sociologija, ekonomija …).</li>
+                     </ul>
+                  </p>
+                  <p xmlns="http://sistory.si/schema/sistory/v3/entity">Vsled vsega omenjenega smo se na Inštitutu za novejšo
+                                        zgodovino odločili organizirati posvet, na katerem bomo
+                                        detektirali in pobliže opredelili problematiko raziskovanja
+                                        samostojne Slovenije. Temeljni cilj posveta bo usmerjen v
+                                        vzpostavitev metodološko, znanstveno in problemsko ustrezne
+                                        in koherentne osnove za nadaljnje raziskave.</p>
+                  <p xmlns="http://sistory.si/schema/sistory/v3/entity">Program konference je dostopen s klikom na to <a href="http://www.sistory.si/SISTORY:ID:36075">povezavo</a>.</p>
+               </entity:description>
+               <entity:description xml:lang="eng">
+                  <pre xmlns="http://sistory.si/schema/sistory/v3/entity">
+                     <p>For many people, twenty-five years of the Republic of Slovenia is a relative concept. While some do not find the anniversary particularly important and others would, due to a number of opportunities the country has wasted, prefer not to commemorate it at all, some people feel that the 25 years of existence deserve a special celebration. With the same sense of relativity, the anniversary is treated among historians and in the field of  Slovene historiography; on the one hand, the year is 2016 not a noteworthy milestone in history of the Republic of Slovenia, while, on the other hand, the 25 years of its existence are sure to encourage a more active research
+engagement regarding this period.</p>
+                     <p>Anyone who decides to research this,still topical period of history, will quickly find that it is full of events and issues that need to be systematically analysed. There is no shortage of dilemmas connected with research and presentation of  the history of the Republic of Slovenia.</p>
+                     <p>Researchers (and the public) are interested in numerous issues and possibilities:<ul>
+                           <li>The question about the archival material and other documents that are (not) available to researchers</li>
+                           <li>The methodological questions pertaining to the issue of time distance, variety of sources (their quantity, accessibility, organisation, authenticity etc.).</li>
+                           <li>The questions about presenting the period (in museums, on the internet etc.).</li>
+                           <li>The possibility (and necessity) to attract reviews and studies conducted by other disciplines that have dealt with contemporary issues (particularly political science, sociology, economics and some others).</li>
+                        </ul>
+                     </p>
+                     <p>Because of all that, the Institute of Contemporary History has decided to organise a conference to detect and specify problems tied to studying the period of independent Slovenia. The fundamental goal of the conference is to establish a coherent methodological and problem-oriented basis suitable for future research.</p>
+                     <p>The programme of the conference is accesible by clicking this <a href="http://www.sistory.si/SISTORY:ID:36076">link</a>.</p>
+                  </pre>
+               </entity:description>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink">
+      <METS:fileGrp USE="THUMB">
+         <METS:file ID="thumbnail">
+            <METS:FLocat LOCTYPE="URL"
+                         xlink:href="http://www.sistory.si/cdn/publikacije/36001-37000/36074/program-konferenca25-slo.jpg"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="primary">
+      <METS:div TYPE="collection">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/menu123"/>
+         <METS:div TYPE="entity" DMDID="dc.36074" ADMID="premis.36074 entity.36074">
+            <METS:fptr FILEID="thumbnail"/>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/36077"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/36078"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/36079"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/36080"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/36081"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/36082"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/36083"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/36084"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/36085"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/36086"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/36094"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/36087"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/36088"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/36089"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/36090"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/36091"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/36092"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/36093"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/36095"/>
+            </METS:div>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

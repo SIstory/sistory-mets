@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/37622"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2017-05-23T09:28:07"
+                 LASTMODDATE="2017-05-23T09:31:32"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.37622" GROUPID="37622">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="slv">Simboli in rituali: (slavnostni) obedi v diplomaciji</dcterms:title>
+            <dcterms:alternative xml:lang="eng">Symbols and rituals: (formal) meals in diplomacy</dcterms:alternative>
+            <dcterms:alternative xml:lang="deu">Tafeln in der Diplomatie: Symbole und Rituale bei Tisch als Ausdruck von Wertschätzung?</dcterms:alternative>
+            <dcterms:creator>Wakounig, Marija</dcterms:creator>
+            <dcterms:description xml:lang="slv">Prispevek je nastal v okviru projekta »Herbersteiniana«, ki se ukvarja z življenjem, delom, delovanjem in z ego-dokumenti (Mein Raittung, ca. 1560; Gratae posteritati ..., 1558) habsburškega diplomata Žige Herbersteina (1486–1566) ter raziskuje recepcijo in percepcijo njegove delovne oz. javne pisne zapuščine (med drugimi Rerum Moscoviticarum Commentarii, 1549 ff. ter prevode v nemščino, italijanščino itd.). V okviru tega bodo analizirani doslej neznani viri (ÖStA in UAW Dunaj; AGAD Warszawa, Státni ústředni archiv v Praze; Magyar Országos Levéltár Budapest itd.), v katerih je Herberstein opisal simbolične ter ritualne prakse pri slavnostnih diplomatskih obedih (in ki je bila povezana tudi z izmenjavo in ocenjevanjem častnih daril). Med 1515 in 1560, torej v 45-ih letih, je postal Herberstein na svojih 69-ih diplomatskih službah – ki so ga vodile med drugimi na Dansko, Poljsko, dvakrat v Rusijo, trikrat na Ogrsko, v Španijo, Benetke itd. – izjemen strokovnjak na tem področju. Cilj tega prispevka je, osvetliti, kako se je npr. razlikovala praksa slavnostne obedi v okviru diplomatskega ceremoniala na različnih postojankah in kakšne učinke pro futuro je imela na delovanje habsburških diplomatov oz. diplomatske službe itd.</dcterms:description>
+            <dcterms:subject xml:lang="slv">slavnostne gostije</dcterms:subject>
+            <dcterms:subject xml:lang="slv">diplomacija</dcterms:subject>
+            <dcterms:subject xml:lang="slv">dunajski dvor</dcterms:subject>
+            <dcterms:subject xml:lang="slv">simbolika</dcterms:subject>
+            <dcterms:subject xml:lang="slv">rituali</dcterms:subject>
+            <dcterms:subject xml:lang="slv">16 - 17.stoletje</dcterms:subject>
+            <dcterms:subject xml:lang="eng">solemn feasts</dcterms:subject>
+            <dcterms:subject xml:lang="eng">diplomacy</dcterms:subject>
+            <dcterms:subject xml:lang="eng">the Viennese court</dcterms:subject>
+            <dcterms:subject xml:lang="eng">symbolism</dcterms:subject>
+            <dcterms:subject xml:lang="eng">rituals</dcterms:subject>
+            <dcterms:subject xml:lang="eng">16 - 17th century</dcterms:subject>
+            <dcterms:publisher>Zveza zgodovinskih društev Slovenije, Ljubljana</dcterms:publisher>
+            <dcterms:publisher>Inštitut za novejšo zgodovino, Ljubljana</dcterms:publisher>
+            <dcterms:contributor>Vasko Simoniti (moderator)</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2014-10-24</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">Event</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">slv</dcterms:language>
+            <dcterms:language xsi:type="dcterms:ISO639-3">deu</dcterms:language>
+            <dcterms:language xsi:type="dcterms:ISO639-3">hrv</dcterms:language>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.37622">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>37622</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/37622</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.37622">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Prispevek je nastal v
+                                    okviru projekta »Herbersteiniana«, ki se ukvarja z življenjem,
+                                    delom, delovanjem in z ego-dokumenti (Mein Raittung, ca. 1560;
+                                    Gratae posteritati ..., 1558) habsburškega diplomata Žige
+                                    Herbersteina (1486–1566) ter raziskuje recepcijo in percepcijo
+                                    njegove delovne oz. javne pisne zapuščine (med drugimi Rerum
+                                    Moscoviticarum Commentarii, 1549 ff. ter prevode v nemščino,
+                                    italijanščino itd.). V okviru tega bodo analizirani doslej
+                                    neznani viri (ÖStA in UAW Dunaj; AGAD Warszawa, Státni ústředni
+                                    archiv v Praze; Magyar Országos Levéltár Budapest itd.), v
+                                    katerih je Herberstein opisal simbolične ter ritualne prakse pri
+                                    slavnostnih diplomatskih obedih (in ki je bila povezana tudi z
+                                    izmenjavo in ocenjevanjem častnih daril). Med 1515 in 1560,
+                                    torej v 45-ih letih, je postal Herberstein na svojih 69-ih
+                                    diplomatskih službah – ki so ga vodile med drugimi na Dansko,
+                                    Poljsko, dvakrat v Rusijo, trikrat na Ogrsko, v Španijo, Benetke
+                                    itd. – izjemen strokovnjak na tem področju. Cilj tega prispevka
+                                    je, osvetliti, kako se je npr. razlikovala praksa slavnostne
+                                    obedi v okviru diplomatskega ceremoniala na različnih
+                                    postojankah in kakšne učinke pro futuro je imela na delovanje
+                                    habsburških diplomatov oz. diplomatske službe itd. </entity:description>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="video1" USE="EXTERNAL">
+            <METS:FLocat USE="YOUTUBE"
+                         LOCTYPE="URL"
+                         xlink:href="//www.youtube.com/embed/IuSG149XPnE"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37618"/>
+         <METS:div TYPE="entity" DMDID="dc.37622" ADMID="premis.37622 entity.37622">
+            <METS:fptr FILEID="video1"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

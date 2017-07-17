@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/37555"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2017-05-17T12:23:47"
+                 LASTMODDATE="2017-05-17T12:26:44"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.37555" GROUPID="37555">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="slv">Hrana v družinskem proračunu meščanske družine konec 19. in v začetku 20. stoletja</dcterms:title>
+            <dcterms:alternative xml:lang="eng">The food in the family budget of bourgeois family in the late 19th and early 20th century</dcterms:alternative>
+            <dcterms:creator>Mihelič, Darja</dcterms:creator>
+            <dcterms:description xml:lang="slv">Prispevek predstavlja stroške za prehrano v družini zgodovinarja Franca Kosa v zadnjem desetletju 19. in prvem desetletju 20. stoletja. Vir podatkov raziskave so Kosovi računovodski zapisi o družinskih financah za čas njegovega službovanja na ženskem učiteljišču v Gorici od 25. julija 1891 do konca 1911. Podatki nudijo podobo družinske bivanjske kulture, razkrivajo pa tudi okolje, v katerem je Kos raziskoval, vključno z njegovimi nabavami znanstvene literature in različne periodike. Hrana je v stroških družinskega proračuna Kosove družine zavzemala velik delež, ki pa se je skladno s Kosovim napredovanjem v plačilnih razredih relativno manjšal. Izdatek, ki je redno presegal Kosov mesečni prihodek, so predstavljale zlasti vsakoletne poletne počitnice, ki jih je družina preživljala v Kosovih rodnih Selcah na Gorenjskem.</dcterms:description>
+            <dcterms:subject xml:lang="slv">Franc Kos</dcterms:subject>
+            <dcterms:subject xml:lang="slv">družinski proračun</dcterms:subject>
+            <dcterms:subject xml:lang="slv">prehrana</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Franc Kos</dcterms:subject>
+            <dcterms:subject xml:lang="eng">family budget</dcterms:subject>
+            <dcterms:subject xml:lang="slv">food</dcterms:subject>
+            <dcterms:publisher>Zveza zgodovinskih društev Slovenije, Ljubljana</dcterms:publisher>
+            <dcterms:publisher>Inštitut za novejšo zgodovino, Ljubljana</dcterms:publisher>
+            <dcterms:contributor>Dragica Čeč (moderator)</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2014-10-22</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">MovingImage</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">slv</dcterms:language>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.37555">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>37555</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/37555</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.37555">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Prispevek predstavlja
+                                    stroške za prehrano v družini zgodovinarja Franca Kosa v zadnjem
+                                    desetletju 19. in prvem desetletju 20. stoletja. Vir podatkov
+                                    raziskave so Kosovi računovodski zapisi o družinskih financah za
+                                    čas njegovega službovanja na ženskem učiteljišču v Gorici od 25.
+                                    julija 1891 do konca 1911. Podatki nudijo podobo družinske
+                                    bivanjske kulture, razkrivajo pa tudi okolje, v katerem je Kos
+                                    raziskoval, vključno z njegovimi nabavami znanstvene literature
+                                    in različne periodike. Hrana je v stroških družinskega proračuna
+                                    Kosove družine zavzemala velik delež, ki pa se je skladno s
+                                    Kosovim napredovanjem v plačilnih razredih relativno manjšal.
+                                    Izdatek, ki je redno presegal Kosov mesečni prihodek, so
+                                    predstavljale zlasti vsakoletne poletne počitnice, ki jih je
+                                    družina preživljala v Kosovih rodnih Selcah na Gorenjskem.
+                                </entity:description>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="video1" USE="EXTERNAL">
+            <METS:FLocat USE="YOUTUBE"
+                         LOCTYPE="URL"
+                         xlink:href="//www.youtube.com/embed/5w7rre5Ppok"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37551"/>
+         <METS:div TYPE="entity" DMDID="dc.37555" ADMID="premis.37555 entity.37555">
+            <METS:fptr FILEID="video1"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

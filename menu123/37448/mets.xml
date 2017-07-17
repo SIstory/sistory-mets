@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/37448"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2017-04-05T09:02:28"
+                 LASTMODDATE="2017-04-07T11:50:30"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.4" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.37448" GROUPID="37448">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="slv">Trgovsko strokovno šolstvo v Sloveniji</dcterms:title>
+            <dcterms:alternative xml:lang="eng">Mercantile Technical Education in Slovenia</dcterms:alternative>
+            <dcterms:creator>Počivavšek, Marija</dcterms:creator>
+            <dcterms:description xml:lang="slv">Starejši slovenski trgovci so se večinoma s samoizobrazbo in pridnostjo povzpeli do določenega blagostanja in ugleda. Prav zato so mogoče o pomenu izobrazbe v slovenskih trgovskih krogih razmišljali že sredi 19. stoletja, v dobi narodne prebuje. Trgovci so namreč predstavljali enega nosilnih stebrov meščanstva in ni bilo vseeno, koliko so bili izobraženi in omikani. Začetki trgovskega šolstva v Avstriji segajo v 18. stoletje, v čas cesarice Marije Terezije. Takrat je bila na Dunaju ustanovljena prva trgovska šola, k. k. Real-Handlungsakademie. Dobrih sto let kasneje je na Slovenskem obstajala le 1834. leta ustanovljena Mahrova trgovska šola v Ljubljani, pa še ta z nemškim učnim jezikom. Sicer pa so se trgovske šole delile na trgovske nadaljevalne (gremialne) šole, nižje trgovske šole, srednje šole poimenovane kot višje trgovske šole (sprva tudi akademije) ter nazadnje trgovske visoke šole (v času Avstro-Ogrske sta bili le na Dunaju in v Trstu). V času prve Jugoslavije pa sta v Sloveniji poleg gremialnih in dvorazrednih trgovskih šol delovali še dve trgovski akademiji, organizirana pa je bila tudi vrsta trgovskih tečajev. Lahko rečemo, da je bilo v času do druge svetovne vojne za trgovski naraščaj dobro poskrbljeno.</dcterms:description>
+            <dcterms:description xml:lang="eng">Older Slovenian merchants moved up to a certain level of welfare and reputation mostly with selfeducation and diligence. It is therefore possible that the Slovenian mercantile circles thought about the importance of education as early as in the mid-19th century, in the era of national awakening. Merchants namely have presented one of the main pillars of bourgeoisie and it was important how educated and civilized they were. The beginnings of mercantile education in Austria date back to the 18th century, to the time of Empress Maria Theresa. At that time the fist mercantile school was founded in Vienna, the Imperial Royal Real Handlungsakademie. One hundred years later, in Slovenian territory there was only one, established in the year 1834, the Mahrov mercantile school in Ljubljana, but even this one with the German language of instruction. Moreover, the mercantile schools were divided into follow-up (gremial) schools, lower mercantile schools, secondary schools designated as higher mercantile schools (at first designated as Academies) and finally mercantile colleges (at the time of the AustroHungarian Empire these were only in Vienna and Trieste). Next to the gremial and two-classroom mercantile schools in Slovenia two more mercantile academies were active at the time of the first Yugoslavia. We can say that until World War II it was well taken care of for mercantile offspring.</dcterms:description>
+            <dcterms:subject xml:lang="slv">trgovina</dcterms:subject>
+            <dcterms:subject xml:lang="slv">zgodovina</dcterms:subject>
+            <dcterms:subject xml:lang="slv">Slovenija</dcterms:subject>
+            <dcterms:subject xml:lang="slv">izobraževanje</dcterms:subject>
+            <dcterms:subject xml:lang="slv">trgovsko šolstvo</dcterms:subject>
+            <dcterms:subject xml:lang="eng">trade</dcterms:subject>
+            <dcterms:subject xml:lang="eng">history</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Slovenia</dcterms:subject>
+            <dcterms:subject xml:lang="eng">education</dcterms:subject>
+            <dcterms:subject xml:lang="eng">mercantile education</dcterms:subject>
+            <dcterms:publisher>Zveza zgodovinskih društev Slovenije, Ljubljana</dcterms:publisher>
+            <dcterms:publisher>Inštitut za novejšo zgodovino, Ljubljana</dcterms:publisher>
+            <dcterms:contributor>Bogdan Kolar (moderator)</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2016-09-29</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">MovingImage</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">slv</dcterms:language>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.37448">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>37448</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/37448</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.37448">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Starejši slovenski
+                                    trgovci so se večinoma s samoizobrazbo in pridnostjo povzpeli do
+                                    določenega blagostanja in ugleda. Prav zato so mogoče o pomenu
+                                    izobrazbe v slovenskih trgovskih krogih razmišljali že sredi 19.
+                                    stoletja, v dobi narodne prebuje. Trgovci so namreč
+                                    predstavljali enega nosilnih stebrov meščanstva in ni bilo
+                                    vseeno, koliko so bili izobraženi in omikani. Začetki trgovskega
+                                    šolstva v Avstriji segajo v 18. stoletje, v čas cesarice Marije
+                                    Terezije. Takrat je bila na Dunaju ustanovljena prva trgovska
+                                    šola, k. k. Real-Handlungsakademie. Dobrih sto let kasneje je na
+                                    Slovenskem obstajala le 1834. leta ustanovljena Mahrova trgovska
+                                    šola v Ljubljani, pa še ta z nemškim učnim jezikom. Sicer pa so
+                                    se trgovske šole delile na trgovske nadaljevalne (gremialne)
+                                    šole, nižje trgovske šole, srednje šole poimenovane kot višje
+                                    trgovske šole (sprva tudi akademije) ter nazadnje trgovske
+                                    visoke šole (v času Avstro-Ogrske sta bili le na Dunaju in v
+                                    Trstu). V času prve Jugoslavije pa sta v Sloveniji poleg
+                                    gremialnih in dvorazrednih trgovskih šol delovali še dve
+                                    trgovski akademiji, organizirana pa je bila tudi vrsta trgovskih
+                                    tečajev. Lahko rečemo, da je bilo v času do druge svetovne vojne
+                                    za trgovski naraščaj dobro poskrbljeno. </entity:description>
+               <entity:description xml:lang="eng"> Older Slovenian
+                                    merchants moved up to a certain level of welfare and reputation
+                                    mostly with selfeducation and diligence. It is therefore
+                                    possible that the Slovenian mercantile circles thought about the
+                                    importance of education as early as in the mid-19th century, in
+                                    the era of national awakening. Merchants namely have presented
+                                    one of the main pillars of bourgeoisie and it was important how
+                                    educated and civilized they were. The beginnings of mercantile
+                                    education in Austria date back to the 18th century, to the time
+                                    of Empress Maria Theresa. At that time the fist mercantile
+                                    school was founded in Vienna, the Imperial Royal Real
+                                    Handlungsakademie. One hundred years later, in Slovenian
+                                    territory there was only one, established in the year 1834, the
+                                    Mahrov mercantile school in Ljubljana, but even this one with
+                                    the German language of instruction. Moreover, the mercantile
+                                    schools were divided into follow-up (gremial) schools, lower
+                                    mercantile schools, secondary schools designated as higher
+                                    mercantile schools (at first designated as Academies) and
+                                    finally mercantile colleges (at the time of the AustroHungarian
+                                    Empire these were only in Vienna and Trieste). Next to the
+                                    gremial and two-classroom mercantile schools in Slovenia two
+                                    more mercantile academies were active at the time of the first
+                                    Yugoslavia. We can say that until World War II it was well taken
+                                    care of for mercantile offspring. </entity:description>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="video1" USE="EXTERNAL">
+            <METS:FLocat USE="YOUTUBE"
+                         LOCTYPE="URL"
+                         xlink:href="https://www.youtube.com/embed/GgNH_4D8bxo"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37392"/>
+         <METS:div TYPE="entity" DMDID="dc.37448" ADMID="premis.37448 entity.37448">
+            <METS:fptr FILEID="video1"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

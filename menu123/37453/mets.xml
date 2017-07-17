@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/37453"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2017-04-05T09:04:09"
+                 LASTMODDATE="2017-04-07T11:52:54"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.4" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.37453" GROUPID="37453">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="slv">Izobraževanje Judov v Gorici</dcterms:title>
+            <dcterms:title xml:lang="slv">Education of Jews in Gorizia</dcterms:title>
+            <dcterms:creator>Podbersič, Renato</dcterms:creator>
+            <dcterms:description xml:lang="slv">Goriški Judje so bili verjetno prisotni v mestu že ob njegovem nastanku, prva pisna omemba pa sega v leto 1288. Judje so znotraj krščanske fevdalne družbe uživali močno notranjo avtonomijo. Judovske skupnosti so živele v ločenih predelih mesta. Prostor naselitve je navadno obsegal trg, ulico ali dve, včasih tudi posebno četrt. Judovska skupnost je navadno sezidala sinagogo in versko šolo ter poskrbela za obredno kopališče in pokopališče. V skupnosti so delovali mesar, pisar in krojač, vodil pa jo je njen najpremožnejši član in tudi rabin. Leta 1715 se v getu v Gorici omenja šola, verjetno je bila namenjena zgolj verskemu pouku. Leta 1789 so morali Judje urediti šolo z nemškim učnim jezikom, da bi tako zmanjšali razlike z ostalimi Goričani. Šola je delovala nekaj let, nato so jo ukinili in začeli otroke pošiljati v mestne šole, po nekaj letih so jo spet odprli za otroke premožnih družin. Judovska šola oz. ješiva (hebr. yeshivah) v Gorici se je v času rabina Giacoma Bolaffia, v Gorici je deloval med 1894–1903, precej izboljšala. Poučevala sta učitelj Abramo Pavia in učiteljica Betty Pavia. Izobraževanje je vključevalo branje, slovnico, prevajanje in komentarje k svetopisemskim besedilom. Nadalje so se učenci učili tudi prevajanja molitev. Za učenke je prišlo v poštev učenje judovske morale, za učence pa spoznavanje judovske zgodovine in judovske literature. Starejši učenci so se učili tudi judovskih ritualov, hebrejske kaligrafije in recitiranja liturgičnih formularjev v sinagogi. Za verski pouk je denarna sredstva prispevalo tudi državno ministrstvo za uk in bogočastje. Pripadniki goriške judovske skupnosti so bili ob koncu 19. stoletja v povprečju bolj izobraženi od večine prebivalstva Gorice. Judovska šola v nekdanjem getu je bila dobro obiskana, čeprav je nekaj otrok obiskovalo tudi ostale mestne šole. Iz leta 1900 izvira že druga prošnja skupnosti za ukinitev šole zaradi stroškov, ki so jih imeli s plačevanjem učitelja. Judovsko šolstvo v Gorici je nov razmah doživelo leta 1928 s prihodom novega rabina Abraham Schreiberja, sicer pripadnik otrodoksnega judovstva iz Madžarske. Okrog njega so se zbirali judovski učenci, nekateri med njimi so se prav zaradi omenjenega rabina priselili v Gorico, da so lahko sledili njegovemu poučevanju. K razmahu verske šole v Gorici so prispevali predvsem priseljeni Judje iz Poljske. Za kratek čas je Gorica spet pridobila tisti žar judovskih študij, tako značilen za prvo polovico 19. stoletja in obeh rabinov iz družine Reggio.</dcterms:description>
+            <dcterms:description xml:lang="eng">It is likely that Jews were present in Gorizia at the time of its establishment, while the first written record dates back to 1288. Within the Christian feudal society Jews had a strong internal autonomy. Jewish communities have lived in separate parts of the city. Usually, the settlement included a market town, a street or two, sometimes even a special quarter. The Jewish community had usually built a synagogue and religious school and secured a place for the ritual bath and cemetery. The community was led by its wealthiest member and a rabbi furthermore it had a butcher, a tailor and a scribe. In 1715, a school is mentioned in the Jewish ghetto in Gorizia. Probably it was intended purely for religious lessons. In 1789, Jews had to arrange a school with German as the language of instruction, in order to reduce the differences with the rest of Gorizia inhabitants. The school operated for several years, but was later closed and people began to send their children to city schools. A few years later the school was reopened for children of wealthy families. In the time of Rabbi Giacomo Bolaffio, who worked between 1894 and 1903, the Jewish school or. yeshiva (hebr. Yeshivah) in Gorizia has improved substantially. The teachers Abramo Pavia and Betty Pavia were teaching. Education included reading, grammar, translation and commentaries on the biblical text. Furthermore, the students learned to translate prayers. Girls had to learn about Jewish ethics, while boys learned about the Jewish history and literature. Older students learned also about Jewish rituals, Hebrew calligraphy and the recitation of liturgical forms in the synagogue. The Ministry of Education and Science contributed funds for the religious school. At the end of the 19th century members of the Gorizia Jewish community were, on average, better educated than most of the population of Gorizia. The Jewish school in the former ghetto was well attended, although some children also attended other city schools. In 1900 we find the second request of the community for the school’s abolishment due to the costs for paying a teacher. With the arrival of Rabbi Abraham Schreiber in 1928, who was a member of the Orthodox Judaism from Hungary, the Jewish education in Gorizia experienced a new development. Jewish students were gathered around him. Some of them moved to Gorizia because of the said Rabbi, to follow his teaching. The development of religious schools in Gorizia was driven mainly by immigrant Jews from Poland. For a short time Gorizia regained the enthusiasm of Jewish studies, typical for the first half of the 19th century and the two Rabbis from the family Reggio.</dcterms:description>
+            <dcterms:subject xml:lang="slv">Judje na Goriškem</dcterms:subject>
+            <dcterms:subject xml:lang="slv">izobraževanje Judov</dcterms:subject>
+            <dcterms:subject xml:lang="slv">judovsko šolstvo</dcterms:subject>
+            <dcterms:subject xml:lang="slv">ješiva</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Jews in Gorizia</dcterms:subject>
+            <dcterms:subject xml:lang="eng">education of Jews</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Jewish education</dcterms:subject>
+            <dcterms:subject xml:lang="eng">yeshiva</dcterms:subject>
+            <dcterms:publisher>Zveza zgodovinskih društev Slovenije, Ljubljana</dcterms:publisher>
+            <dcterms:publisher>Inštitut za novejšo zgodovino, Ljubljana</dcterms:publisher>
+            <dcterms:contributor>Katarina Keber (moderator)</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2016-09-30</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">MovingImage</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">slv</dcterms:language>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.37453">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>37453</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/37453</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.37453">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Goriški Judje so bili
+                                    verjetno prisotni v mestu že ob njegovem nastanku, prva pisna
+                                    omemba pa sega v leto 1288. Judje so znotraj krščanske fevdalne
+                                    družbe uživali močno notranjo avtonomijo. Judovske skupnosti so
+                                    živele v ločenih predelih mesta. Prostor naselitve je navadno
+                                    obsegal trg, ulico ali dve, včasih tudi posebno četrt. Judovska
+                                    skupnost je navadno sezidala sinagogo in versko šolo ter
+                                    poskrbela za obredno kopališče in pokopališče. V skupnosti so
+                                    delovali mesar, pisar in krojač, vodil pa jo je njen
+                                    najpremožnejši član in tudi rabin. Leta 1715 se v getu v Gorici
+                                    omenja šola, verjetno je bila namenjena zgolj verskemu pouku.
+                                    Leta 1789 so morali Judje urediti šolo z nemškim učnim jezikom,
+                                    da bi tako zmanjšali razlike z ostalimi Goričani. Šola je
+                                    delovala nekaj let, nato so jo ukinili in začeli otroke
+                                    pošiljati v mestne šole, po nekaj letih so jo spet odprli za
+                                    otroke premožnih družin. Judovska šola oz. ješiva (hebr.
+                                    yeshivah) v Gorici se je v času rabina Giacoma Bolaffia, v
+                                    Gorici je deloval med 1894–1903, precej izboljšala. Poučevala
+                                    sta učitelj Abramo Pavia in učiteljica Betty Pavia.
+                                    Izobraževanje je vključevalo branje, slovnico, prevajanje in
+                                    komentarje k svetopisemskim besedilom. Nadalje so se učenci
+                                    učili tudi prevajanja molitev. Za učenke je prišlo v poštev
+                                    učenje judovske morale, za učence pa spoznavanje judovske
+                                    zgodovine in judovske literature. Starejši učenci so se učili
+                                    tudi judovskih ritualov, hebrejske kaligrafije in recitiranja
+                                    liturgičnih formularjev v sinagogi. Za verski pouk je denarna
+                                    sredstva prispevalo tudi državno ministrstvo za uk in
+                                    bogočastje. Pripadniki goriške judovske skupnosti so bili ob
+                                    koncu 19. stoletja v povprečju bolj izobraženi od večine
+                                    prebivalstva Gorice. Judovska šola v nekdanjem getu je bila
+                                    dobro obiskana, čeprav je nekaj otrok obiskovalo tudi ostale
+                                    mestne šole. Iz leta 1900 izvira že druga prošnja skupnosti za
+                                    ukinitev šole zaradi stroškov, ki so jih imeli s plačevanjem
+                                    učitelja. Judovsko šolstvo v Gorici je nov razmah doživelo leta
+                                    1928 s prihodom novega rabina Abraham Schreiberja, sicer
+                                    pripadnik otrodoksnega judovstva iz Madžarske. Okrog njega so se
+                                    zbirali judovski učenci, nekateri med njimi so se prav zaradi
+                                    omenjenega rabina priselili v Gorico, da so lahko sledili
+                                    njegovemu poučevanju. K razmahu verske šole v Gorici so
+                                    prispevali predvsem priseljeni Judje iz Poljske. Za kratek čas
+                                    je Gorica spet pridobila tisti žar judovskih študij, tako
+                                    značilen za prvo polovico 19. stoletja in obeh rabinov iz
+                                    družine Reggio. </entity:description>
+               <entity:description xml:lang="eng"> It is likely that Jews
+                                    were present in Gorizia at the time of its establishment, while
+                                    the first written record dates back to 1288. Within the
+                                    Christian feudal society Jews had a strong internal autonomy.
+                                    Jewish communities have lived in separate parts of the city.
+                                    Usually, the settlement included a market town, a street or two,
+                                    sometimes even a special quarter. The Jewish community had
+                                    usually built a synagogue and religious school and secured a
+                                    place for the ritual bath and cemetery. The community was led by
+                                    its wealthiest member and a rabbi furthermore it had a butcher,
+                                    a tailor and a scribe. In 1715, a school is mentioned in the
+                                    Jewish ghetto in Gorizia. Probably it was intended purely for
+                                    religious lessons. In 1789, Jews had to arrange a school with
+                                    German as the language of instruction, in order to reduce the
+                                    differences with the rest of Gorizia inhabitants. The school
+                                    operated for several years, but was later closed and people
+                                    began to send their children to city schools. A few years later
+                                    the school was reopened for children of wealthy families. In the
+                                    time of Rabbi Giacomo Bolaffio, who worked between 1894 and
+                                    1903, the Jewish school or. yeshiva (hebr. Yeshivah) in Gorizia
+                                    has improved substantially. The teachers Abramo Pavia and Betty
+                                    Pavia were teaching. Education included reading, grammar,
+                                    translation and commentaries on the biblical text. Furthermore,
+                                    the students learned to translate prayers. Girls had to learn
+                                    about Jewish ethics, while boys learned about the Jewish history
+                                    and literature. Older students learned also about Jewish
+                                    rituals, Hebrew calligraphy and the recitation of liturgical
+                                    forms in the synagogue. The Ministry of Education and Science
+                                    contributed funds for the religious school. At the end of the
+                                    19th century members of the Gorizia Jewish community were, on
+                                    average, better educated than most of the population of Gorizia.
+                                    The Jewish school in the former ghetto was well attended,
+                                    although some children also attended other city schools. In 1900
+                                    we find the second request of the community for the school’s
+                                    abolishment due to the costs for paying a teacher. With the
+                                    arrival of Rabbi Abraham Schreiber in 1928, who was a member of
+                                    the Orthodox Judaism from Hungary, the Jewish education in
+                                    Gorizia experienced a new development. Jewish students were
+                                    gathered around him. Some of them moved to Gorizia because of
+                                    the said Rabbi, to follow his teaching. The development of
+                                    religious schools in Gorizia was driven mainly by immigrant Jews
+                                    from Poland. For a short time Gorizia regained the enthusiasm of
+                                    Jewish studies, typical for the first half of the 19th century
+                                    and the two Rabbis from the family Reggio. </entity:description>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="video1" USE="EXTERNAL">
+            <METS:FLocat USE="YOUTUBE"
+                         LOCTYPE="URL"
+                         xlink:href="https://www.youtube.com/embed/gA_caGi-IAE"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37394"/>
+         <METS:div TYPE="entity" DMDID="dc.37453" ADMID="premis.37453 entity.37453">
+            <METS:fptr FILEID="video1"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

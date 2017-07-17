@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/37443"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2017-04-05T09:00:01"
+                 LASTMODDATE="2017-04-07T11:33:54"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.4" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.37443" GROUPID="37443">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="eng">On the Role of Informal Education in 19th Century Croatia</dcterms:title>
+            <dcterms:creator>Švoger, Vlasta</dcterms:creator>
+            <dcterms:description xml:lang="eng">In 19th century Croatia, informal forms of education were very important due to the unsatisfactory formal education system, which was characterised by an underdeveloped network of schools and their small numbers, especially schools for girls; the poor quality of education and underpaid teachers; too large class sizes; irregular school attendance by pupils; impossibility for higher education in Croatia until the foundation of the University of Zagreb in 1874, except in legal sciences and theology; as well as other problems. The role of informal forms of education in Croatia in the 19th century will be illustrated by the example of a number of distinguished Croatian intellectuals. On the basis of autobiography sources – autobiographies and diaries – I will demonstrate what the role of selfeducation, education with private tutors and governesses was in education and intellectual formation of distinguished teacher and educator Mijat Stojanović, publicist Imbro Ignjatijević Tkalac, politician and publicist Andrija Torkvat Brlić, writer Ksaver Šandor Gjalski and two Croatian female writers, Dragojla Jarnević and Ivana Brlić-Mažuranić. In their autobiographic and diary entries, they critically evaluated the positive and negative aspects of their own formal and informal education.</dcterms:description>
+            <dcterms:subject xml:lang="eng">informal forms of education</dcterms:subject>
+            <dcterms:subject xml:lang="eng">self-education</dcterms:subject>
+            <dcterms:subject xml:lang="eng">education through house tutors and governesses</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Croatia</dcterms:subject>
+            <dcterms:subject xml:lang="eng">19th century</dcterms:subject>
+            <dcterms:subject xml:lang="slv">neformalne oblike izobraževanja</dcterms:subject>
+            <dcterms:subject xml:lang="slv">samoizobrazba</dcterms:subject>
+            <dcterms:subject xml:lang="slv">Hrvaška</dcterms:subject>
+            <dcterms:publisher>Zveza zgodovinskih društev Slovenije, Ljubljana</dcterms:publisher>
+            <dcterms:publisher>Inštitut za novejšo zgodovino, Ljubljana</dcterms:publisher>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2016-09-29</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">MovingImage</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">eng</dcterms:language>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.37443">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>37443</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/37443</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.37443">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="eng"> In 19th century Croatia,
+                                    informal forms of education were very important due to the
+                                    unsatisfactory formal education system, which was characterised
+                                    by an underdeveloped network of schools and their small numbers,
+                                    especially schools for girls; the poor quality of education and
+                                    underpaid teachers; too large class sizes; irregular school
+                                    attendance by pupils; impossibility for higher education in
+                                    Croatia until the foundation of the University of Zagreb in
+                                    1874, except in legal sciences and theology; as well as other
+                                    problems. The role of informal forms of education in Croatia in
+                                    the 19th century will be illustrated by the example of a number
+                                    of distinguished Croatian intellectuals. On the basis of
+                                    autobiography sources – autobiographies and diaries – I will
+                                    demonstrate what the role of selfeducation, education with
+                                    private tutors and governesses was in education and intellectual
+                                    formation of distinguished teacher and educator Mijat
+                                    Stojanović, publicist Imbro Ignjatijević Tkalac, politician and
+                                    publicist Andrija Torkvat Brlić, writer Ksaver Šandor Gjalski
+                                    and two Croatian female writers, Dragojla Jarnević and Ivana
+                                    Brlić-Mažuranić. In their autobiographic and diary entries, they
+                                    critically evaluated the positive and negative aspects of their
+                                    own formal and informal education. </entity:description>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="video1" USE="EXTERNAL">
+            <METS:FLocat USE="YOUTUBE"
+                         LOCTYPE="URL"
+                         xlink:href="https://www.youtube.com/embed/iTVT7ld32go"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37390"/>
+         <METS:div TYPE="entity" DMDID="dc.37443" ADMID="premis.37443 entity.37443">
+            <METS:fptr FILEID="video1"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/37261"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2017-03-13T09:15:49"
+                 LASTMODDATE="2017-03-14T14:27:49"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.81" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.37261" GROUPID="37261">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="eng">Transnistrian (Il)licit Flows: How an Unrecognized State Copes with the Global Economy</dcterms:title>
+            <dcterms:alternative xml:lang="slv">Pridnjestrski (ne)dovoljeni tokovi: kako se nepriznana država spopada z globalno ekonomijo</dcterms:alternative>
+            <dcterms:creator>Lesanu, Alexandru</dcterms:creator>
+            <dcterms:subject xml:lang="slv">Pridnjestrski</dcterms:subject>
+            <dcterms:subject xml:lang="slv">nepriznana država</dcterms:subject>
+            <dcterms:subject xml:lang="slv">globalna ekonomija</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Transnistrian</dcterms:subject>
+            <dcterms:subject xml:lang="eng">unrecognized state</dcterms:subject>
+            <dcterms:subject xml:lang="eng">global economy</dcterms:subject>
+            <dcterms:publisher>Inštitut za novejšo zgodovino, Ljubljana</dcterms:publisher>
+            <dcterms:publisher>Oddelek za zgodovino Filozofske fakultete Univerze v Ljubljani, Ljubljana</dcterms:publisher>
+            <dcterms:contributor>Marko Zajc</dcterms:contributor>
+            <dcterms:contributor>Jernej Kosi</dcterms:contributor>
+            <dcterms:contributor>Zdenko Čepič</dcterms:contributor>
+            <dcterms:contributor>Neja Blaj Hribar</dcterms:contributor>
+            <dcterms:contributor>Nataša Sardžoska</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:Period">start=24.11.2016; end=26.11.2016; name=; scheme=; </dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">MovingImage</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">eng</dcterms:language>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.37261">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>37261</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/37261</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.37261">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Konec leta 1991 je
+                                    mednarodna skupnost priznala zahteve po neodvisnosti petnajstih
+                                    zveznih republik Sovjetske zveze, vendar so številni znotraj teh
+                                    meja hrepeneli po lastni neodvisnosti. Vzhodna območja nove
+                                    Republike Moldavije niso hotela priznati novih moldavskih
+                                    oblasti in so razglasila svojo de facto državo, Pridnjestrsko
+                                    moldavsko republiko, ki je znana tudi kot Transnistrija.
+                                    Pridnjestrska republika danes dejansko deluje kot suverena
+                                    država, vendar mednarodna skupnost in moldavske oblasti v
+                                    Kišinjevu še vedno niso uradno priznale njene neodvisnosti.
+                                    Številno opazovalci opozarjajo, da je zaradi nejasnega
+                                    mednarodnega statusa postala središče tihotapljenja alkoholnih
+                                    pijač, orožja in drog. Ker ni mednarodno priznana, to različnim
+                                    interesnim skupinam nedvomno omogoča, da jo uporabljajo kot
+                                    verigo za tihotapljenje različnega blaga ali pranje denarja.
+                                    Vendar je zaradi tega prišlo tudi do stanja, v katerem uradno
+                                    štejejo za nezakonite vsi gospodarski posli. Ker moldavske
+                                    oblasti nimajo dejanskega nadzora znotraj meja Pridnjestrske
+                                    republike, obravnavajo vse blago, ki vstopi na ozemlje te
+                                    republike, kot nedovoljeno, ne glede na to, ali gre za droge in
+                                    orožje ali pa za živila in energijo. Posledično vsa
+                                    pridnjestrska podjetja opravljajo svojo gospodarsko dejavnost v
+                                    vmesnem prostoru med zakonitostjo notranjih pridnjestrskih
+                                    zakonov in nezakonitostjo v širšem mednarodnem pravnem okviru. V
+                                    prispevku predstavljam primer edine pridnjestrske tovarne
+                                    sladkorja v Rîbniți, s katerim ponazarjam, kako pridnjestrska
+                                    podjetja manevrirajo med zakonitim statusom znotraj meja de
+                                    facto države in nezakonitim statusom v mednarodnem prostoru.
+                                </entity:description>
+               <entity:description xml:lang="eng"> At the end of 1991, the
+                                    international community recognized claims of independence by the
+                                    fifteen union-level republics of the Soviet Union, yet many
+                                    within those borders yearned for their own independence. The
+                                    eastern districts of the new Republic of Moldova refused to
+                                    recognize the new Moldovan authorities and proclaimed their own
+                                    de facto state, the Transnistrian Moldavian Republic or
+                                    Transnistria as it is better known to the English speaking
+                                    public. Today, Transnistria operates as a de facto sovereign
+                                    state, yet its independence still remains officially
+                                    unrecognized by the international community and by Moldovan
+                                    authorities in Chisinau. Many observers have pointed to
+                                    Transnistria’s unclear international status to explain its
+                                    emergence as a hub for smuggling goods like alcohol, weapons,
+                                    and drugs. Undoubtedly, the lack of international recognition
+                                    created opportunities for various interest groups to use
+                                    Transnistria as a chain in the smuggling of goods or money
+                                    laundering schemes. Yet, this also created a situation where all
+                                    economic transactions are considered technically illegal. With
+                                    no de facto control inside the borders of Transnistria, Moldovan
+                                    authorities treat any goods that enter Transnistrian territory
+                                    as illicit, whether they be drugs and weapons or food and
+                                    energy. As a result, all Transnistrian enterprises conduct their
+                                    economic activities in the interstitial space between the
+                                    legality of internal Transnistrian laws and the illegality of a
+                                    broader international legal framework. In this paper, I will use
+                                    the example of Rybnitsa Sugar Factory, the only Transnistrian
+                                    sugar factory, to illustrate how a Transnistrian enterprise
+                                    maneuvers between its licit status inside the boundaries of a de
+                                    facto state and its illicit status on the international stage.
+                                </entity:description>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="video1" USE="EXTERNAL">
+            <METS:FLocat USE="YOUTUBE"
+                         LOCTYPE="URL"
+                         xlink:href="https://www.youtube.com/embed/tNa180pXub8"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37178"/>
+         <METS:div TYPE="entity" DMDID="dc.37261" ADMID="premis.37261 entity.37261">
+            <METS:fptr FILEID="video1"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

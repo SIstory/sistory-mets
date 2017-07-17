@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/37791"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2017-06-15T08:56:38"
+                 LASTMODDATE="2017-06-15T09:06:37"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.37791" GROUPID="37791">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="slv">Otroci in raziskovalci: pripovedi o otroštvu in spomini</dcterms:title>
+            <dcterms:alternative xml:lang="eng">Children and Researchers: Stories About Childhood and Memories</dcterms:alternative>
+            <dcterms:creator>Vodopivec, Nina</dcterms:creator>
+            <dcterms:description xml:lang="slv">V prispevku gre za pregled nekaterih osrednjih konceptualizacij otroštva, vsebin in načinov preučevanja otrok predvsem v zgodovini, antropologiji in sociologiji. Umestitev otroštva v raziskovalno polje, njegova postavitev kot objekta oz. subjekta preučevanja je tesno prepletena s tem, kako se je otroštvo obravnavalo in zamišljalo v družbi. Pripovedi o otroštvu so povezane z vprašanjem oblikovanja identitet in spominov. Avtorica opozarja, da čeprav gre pri otroških spominih za osebna spominjanja na preteklost, se spomini na otroštvo oblikujejo v sodobnosti in v družbi.</dcterms:description>
+            <dcterms:description xml:lang="eng">The paper is offering a view of some central conceptualisations of childhood, contents and ways of studying children, especially in history, anthropology and sociology. Placing the childhood into the field of research as an object or a subject of a study is in close interaction with an issue of perception of childhood in the society. Stories about childhood are connected with an issue of forming identities and memories. The author emphasises that even though children’s memories are personal recollections of the past, memories of childhood are formed in present time and in society.</dcterms:description>
+            <dcterms:subject xml:lang="slv">zgodovina otrok</dcterms:subject>
+            <dcterms:subject xml:lang="slv">antropologija otroštva</dcterms:subject>
+            <dcterms:subject xml:lang="slv">spomini</dcterms:subject>
+            <dcterms:subject xml:lang="slv">identitete</dcterms:subject>
+            <dcterms:subject xml:lang="slv">imaginariji otroštva</dcterms:subject>
+            <dcterms:subject xml:lang="slv">ideal otroka</dcterms:subject>
+            <dcterms:subject xml:lang="slv">history of children</dcterms:subject>
+            <dcterms:subject xml:lang="slv">anthropology of childhood</dcterms:subject>
+            <dcterms:subject xml:lang="slv">memories</dcterms:subject>
+            <dcterms:subject xml:lang="slv">identities</dcterms:subject>
+            <dcterms:subject xml:lang="slv">imageries of childhood</dcterms:subject>
+            <dcterms:subject xml:lang="slv">ideal of a child</dcterms:subject>
+            <dcterms:publisher>Zveza zgodovinskih društev Slovenije, Ljubljana</dcterms:publisher>
+            <dcterms:publisher>Inštitut za novejšo zgodovino, Ljubljana</dcterms:publisher>
+            <dcterms:contributor>Uwe Krebs (moderator)</dcterms:contributor>
+            <dcterms:contributor>Marta Verginella (moderator)</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2012-10-19</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">MovingImage</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">slv</dcterms:language>
+            <dcterms:language xsi:type="dcterms:ISO639-3">eng</dcterms:language>
+            <dcterms:license xsi:type="dcterms:URI">http://creativecommons.org/licenses/by-nc-nd/2.5/si/</dcterms:license>
+            <dcterms:license xml:lang="slv">Priznanje avtorstva-Nekomercialo-Brez predelav 2.5 Slovenija (CC BY-NC-ND 2.5 SI)</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.37791">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>37791</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/37791</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.37791">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="slv">
+                  <p xmlns="http://sistory.si/schema/sistory/v3/entity">V prispevku gre za pregled nekaterih osrednjih
+                                        konceptualizacij otroštva, vsebin in načinov preučevanja
+                                        otrok predvsem v zgodovini, antropologiji in sociologiji.
+                                        Umestitev otroštva v raziskovalno polje, njegova postavitev
+                                        kot objekta oz. subjekta preučevanja je tesno prepletena s
+                                        tem, kako se je otroštvo obravnavalo in zamišljalo v družbi.
+                                        Pripovedi o otroštvu so povezane z vprašanjem oblikovanja
+                                        identitet in spominov. Avtorica opozarja, da čeprav gre pri
+                                        otroških spominih za osebna spominjanja na preteklost, se
+                                        spomini na otroštvo oblikujejo v sodobnosti in v družbi.</p>
+               </entity:description>
+               <entity:description xml:lang="eng">
+                  <p xmlns="http://sistory.si/schema/sistory/v3/entity">The paper is offering a view of some central
+                                        conceptualisations of childhood, contents and ways of
+                                        studying children, especially in history, anthropology and
+                                        sociology. Placing the childhood into the field of research
+                                        as an object or a subject of a study is in close interaction
+                                        with an issue of perception of childhood in the society.
+                                        Stories about childhood are connected with an issue of
+                                        forming identities and memories. The author emphasises that
+                                        even though children’s memories are personal recollections
+                                        of the past, memories of childhood are formed in present
+                                        time and in society.</p>
+               </entity:description>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="video1" USE="EXTERNAL">
+            <METS:FLocat USE="YOUTUBE"
+                         LOCTYPE="URL"
+                         xlink:href="http://www.youtube.com/embed/dRAlW9f8sBQ"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37790"/>
+         <METS:div TYPE="entity" DMDID="dc.37791" ADMID="premis.37791 entity.37791">
+            <METS:fptr FILEID="video1"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

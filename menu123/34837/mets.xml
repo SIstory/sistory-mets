@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/34837"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2015-11-26T10:34:04"
+                 LASTMODDATE="2015-12-03T12:41:08"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.6" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.34837" GROUPID="34837">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="eng">»Coming to (Short) Life: The Czechoslovak Parliament 1989-1992«</dcterms:title>
+            <dcterms:alternative xml:lang="slv">(Kratko) življenje: češkoslovaški parlament 1989–1992</dcterms:alternative>
+            <dcterms:creator>Gjuričová, Adéla</dcterms:creator>
+            <dcterms:description xml:lang="slv">Češkoslovaški zvezni parlament je bil vzpostavljen leta 1968, da bi nadomestil državni zbor unitaristične države in tako formalno izrazil enakopravnost Čehov in Slovakov v novoustanovljeni federaciji. Po zlomu reform praške pomladi je socialistični parlament izgubil večino suverenosti, ohranil pa je zvezni značaj in formalne postopke, s čimer je predstavljal nekakšno »podporno« zakonodajno telo. Leta 1989 je žametna revolucija, ki se je opredelila za spoštovanje miru in zakonitosti, v središču nove politike seveda našla parlament starega režima. V revolucionarnem parlamentu 1989–1990 je koncept socialističnega parlamentarizma trčil ob nove motive, kot so nacionalna enotnost, prelom s komunistično preteklostjo, liberalna demokracija in subsidiarnost. Posledično se je oblikovalo več mešanih socialističnih, revolucionarnih in liberalno demokratičnih pogledov na parlament. Vse te koncepte in politične prakse pa so češka in slovaška javnost ter politični predstavniki dojemali in sprejemali na nasprotujoče si načine. Nekatere od teh razlik so se izkazale za nezdružljive in zvezni parlament je nazadnje odigral ključno vlogo pri vodenju razdružitve češkoslovaške federacije leta 1992.</dcterms:description>
+            <dcterms:description xml:lang="eng">The Czechoslovak federal parliament was designed in 1968 to replace the National Assembly of a unitary state and thus formally express equality between Czechs and Slovaks in the newly established federation. After the crash of the Prague Spring reforms, the socialist parliament lost most of its sovereignty, while preserving its federal character and formal procedures, thus providing a sort of “backup” legislature. The Velvet Revolution of 1989, with its proclaimed respect to peace and legality, logically found the ancient régime’s parliament in the centre of new politics. In the revolutionary parliament of 1989-1990, the concept of socialist parliamentarianism began to clash with new motives, such as the national unity, a break with the Communist past, liberal democracy, or subsidiarity. Various blends of socialist, revolutionary and liberal democratic views of the parliament consequently came to life, while each of these concepts as well as every practical policy was perceived and accepted in conflicting manners by the Czech and Slovak publics as well as political representations. Some of these differences turned out to be irreconcilable and the federal parliament eventually played a key role in administering the break-up of Czechoslovak federation in 1992.</dcterms:description>
+            <dcterms:subject xml:lang="slv">Češkoslovaška</dcterms:subject>
+            <dcterms:subject xml:lang="slv">1989–1992</dcterms:subject>
+            <dcterms:subject xml:lang="slv">parlamentarizem</dcterms:subject>
+            <dcterms:subject xml:lang="slv">zvezni sistemi oblasti</dcterms:subject>
+            <dcterms:subject xml:lang="slv">postkomunistična tranzicija</dcterms:subject>
+            <dcterms:subject xml:lang="slv">razdružitev Češkoslovaške</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Czechoslovakia</dcterms:subject>
+            <dcterms:subject xml:lang="eng">1989-1992</dcterms:subject>
+            <dcterms:subject xml:lang="eng">parliamentarism</dcterms:subject>
+            <dcterms:subject xml:lang="eng">federal systems of government</dcterms:subject>
+            <dcterms:subject xml:lang="eng">post-communist transition</dcterms:subject>
+            <dcterms:subject xml:lang="eng">break-up of Czechoslovakia</dcterms:subject>
+            <dcterms:publisher>Inštitut za novejšo zgodovino, Ljubljana</dcterms:publisher>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2015-10-16</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">MovingImage</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">eng</dcterms:language>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.34837">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>34837</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/34837</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.34837">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Češkoslovaški zvezni
+                                    parlament je bil vzpostavljen leta 1968, da bi nadomestil
+                                    državni zbor unitaristične države in tako formalno izrazil
+                                    enakopravnost Čehov in Slovakov v novoustanovljeni federaciji.
+                                    Po zlomu reform praške pomladi je socialistični parlament
+                                    izgubil večino suverenosti, ohranil pa je zvezni značaj in
+                                    formalne postopke, s čimer je predstavljal nekakšno »podporno«
+                                    zakonodajno telo. Leta 1989 je žametna revolucija, ki se je
+                                    opredelila za spoštovanje miru in zakonitosti, v središču nove
+                                    politike seveda našla parlament starega režima. V
+                                    revolucionarnem parlamentu 1989–1990 je koncept socialističnega
+                                    parlamentarizma trčil ob nove motive, kot so nacionalna
+                                    enotnost, prelom s komunistično preteklostjo, liberalna
+                                    demokracija in subsidiarnost. Posledično se je oblikovalo več
+                                    mešanih socialističnih, revolucionarnih in liberalno
+                                    demokratičnih pogledov na parlament. Vse te koncepte in
+                                    politične prakse pa so češka in slovaška javnost ter politični
+                                    predstavniki dojemali in sprejemali na nasprotujoče si načine.
+                                    Nekatere od teh razlik so se izkazale za nezdružljive in zvezni
+                                    parlament je nazadnje odigral ključno vlogo pri vodenju
+                                    razdružitve češkoslovaške federacije leta 1992. </entity:description>
+               <entity:description xml:lang="eng"> The Czechoslovak federal
+                                    parliament was designed in 1968 to replace the National Assembly
+                                    of a unitary state and thus formally express equality between
+                                    Czechs and Slovaks in the newly established federation. After
+                                    the crash of the Prague Spring reforms, the socialist parliament
+                                    lost most of its sovereignty, while preserving its federal
+                                    character and formal procedures, thus providing a sort of
+                                    “backup” legislature. The Velvet Revolution of 1989, with its
+                                    proclaimed respect to peace and legality, logically found the
+                                    ancient régime’s parliament in the centre of new politics. In
+                                    the revolutionary parliament of 1989-1990, the concept of
+                                    socialist parliamentarianism began to clash with new motives,
+                                    such as the national unity, a break with the Communist past,
+                                    liberal democracy, or subsidiarity. Various blends of socialist,
+                                    revolutionary and liberal democratic views of the parliament
+                                    consequently came to life, while each of these concepts as well
+                                    as every practical policy was perceived and accepted in
+                                    conflicting manners by the Czech and Slovak publics as well as
+                                    political representations. Some of these differences turned out
+                                    to be irreconcilable and the federal parliament eventually
+                                    played a key role in administering the break-up of Czechoslovak
+                                    federation in 1992. </entity:description>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="video1" USE="EXTERNAL">
+            <METS:FLocat USE="YOUTUBE"
+                         LOCTYPE="URL"
+                         xlink:href="https://www.youtube.com/embed/3J9PJdIk5Jw"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/34836"/>
+         <METS:div TYPE="entity" DMDID="dc.34837" ADMID="premis.34837 entity.34837">
+            <METS:fptr FILEID="video1"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

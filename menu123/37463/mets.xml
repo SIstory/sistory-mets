@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/37463"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2017-04-05T09:08:17"
+                 LASTMODDATE="2017-04-07T11:56:31"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.4" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.37463" GROUPID="37463">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="slv">Slovenci in pomorsko šolstvo: kratek pregled pomorskega izobraževanja Slovencev</dcterms:title>
+            <dcterms:alternative xml:lang="eng">Slovenes and Maritime Education: Short Overview on Maritime Education of Slovenes</dcterms:alternative>
+            <dcterms:creator>Terčon, Nadja</dcterms:creator>
+            <dcterms:description xml:lang="slv">Prispevek bo govoril o nastajanju slovenskega pomorskega šolstva po drugi svetovni vojni in pomenu šolanja pomorščakov slovenskega rodu v vojnih in trgovskih šolah različnih držav v preteklosti. Poseben poudarek bo namenjen prikazu razmer, časa, okoliščin in razlogov za ustanovitev Slovenske pomorske trgovske akademije, predhodnice današnje pomorske šole, v Semedeli pri Kopru 1. 3. 1947. V tem kontekstu bo poudarjen pomen slovenskega pomorskega in ribiškega šolstva ter začetek izobraževanja in zaposlovanja usposobljenih pomorščakov, saj je to postajalo ključno za potek procesa, v katerem se je vzpostavljalo slovensko pomorstvo. Potreba po ustanovitvi pomorskih šol v naših deželah se je pokazala kmalu potem, ko je Karel VI. leta 1717 razglasil svobodno plovbo po Jadranu. V Trstu in na Reki nastopajoča buržoazija, ki si je v merkantilistični dobi prizadevala za večji uvoz in izvoz preko naših mest, je naravnost terjala od oblasti, da se plovba zaupa strokovno usposobljenim kapitanom in oficirjem. Tako je postajalo vedno bolj nujno usposobiti nov rod pomorščakov, ki bi bil sposoben ne samo pluti in varno voditi ladje po morju. Tudi vedno večja specializacija trgovine je zahtevala šolane kapitane. Spričo takih zahtev je postajala nujna ustanovitev pomorskih šol. Na pomorske šole se namreč niso vpisovali le fantje iz obalnih mest in bližnje okolice, temveč iz celotnega slovenskega narodnega ozemlja. Ob ustanovitvi pomorske šole leta 1947 je časopis Slovenski Jadran zapisal in bolj literarno povzel del bistva tega prispevka: »Tako je postal nekdanji šolar dijak slovenske pomorske šole. Prišel je v osvobojeno slovensko obmorsko mesto tamkaj iz Kranjčevega Prekmurja, iz Prežihove Koroške, iz vinorodne Štajerske, črnih trboveljskih revirjev, sončne Bele Krajine, iz gostoljubne Dolenjske in na videz vase zaprte Gorenjske, iz dežele dobrovoljnih Kraševcev in iz vseh krajev Slovenije.«</dcterms:description>
+            <dcterms:description xml:lang="eng">The paper discusses the emergence of Slovenian maritime education after World War II and the importance of training Slovenian sailors in military and mercantile schools in different countries in the past. Special emphasis will be given to the presentation of the situation, time, circumstances and reasons for establishment of the Slovenian merchant maritime Academies, the predecessor of today's maritime school in Semedela near Koper, 1.3.1947. The emphasis will be on the Slovenian maritime and fishing education as well as beginning of education and employment of competent sailors, since this became crucial for the process in which Slovenian shipping was established. The need for the establishment of Maritime schools in our land was revealed shortly after Charles VI. declared freedom of navigation in the Adriatic in 1717. Bourgeoisie in Trieste and Rijeka that in the mercantilist era strove to increase import and export through our cities, demanded from the authorities that navigation is entrusted to skilled captains and officers. Thus, it became increasingly necessary to train a new generation of sailors, who would be able to sail and safely guide ships at sea. The growing specialization of trade also required schooled captains. In view of such requirements the establishment of maritime schools became necessary. Not only boys from coastal cities and surrounding areas, but also those from other regions of Slovenian ethnic territory enrolled in Maritime schools. Upon the establishment of the maritime school in 1947, the newspaper “Slovenski Jadran” wrote and summed up the essence of this paper: "So the former pupil became a student at the Slovenian maritime school. He came into the emancipated Slovenian coastal town from Kranjec’s Prekmurje, Prežih’s Carinthia, wine-growing Styria, black Trbovlje districts, sunny Bela Krajina, hospitable Lower Carniola and seemingly introverted Upper Carniola, from the land of cheerful people of karst and from all parts of Slovenia."</dcterms:description>
+            <dcterms:subject xml:lang="slv">pomorsko šolstvo</dcterms:subject>
+            <dcterms:subject xml:lang="slv">pomorščaki</dcterms:subject>
+            <dcterms:subject xml:lang="slv">mornarica</dcterms:subject>
+            <dcterms:subject xml:lang="slv">Slovenci</dcterms:subject>
+            <dcterms:subject xml:lang="slv">morje</dcterms:subject>
+            <dcterms:subject xml:lang="eng">maritime education</dcterms:subject>
+            <dcterms:subject xml:lang="eng">sailors</dcterms:subject>
+            <dcterms:subject xml:lang="eng">marine</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Slovenes</dcterms:subject>
+            <dcterms:subject xml:lang="eng">sea</dcterms:subject>
+            <dcterms:publisher>Zveza zgodovinskih društev Slovenije, Ljubljana</dcterms:publisher>
+            <dcterms:publisher>Inštitut za novejšo zgodovino, Ljubljana</dcterms:publisher>
+            <dcterms:contributor>Ana Marija Lamut (moderator)</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2016-09-30</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">MovingImage</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">slv</dcterms:language>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.37463">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>37463</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/37463</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.37463">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Prispevek bo govoril o
+                                    nastajanju slovenskega pomorskega šolstva po drugi svetovni
+                                    vojni in pomenu šolanja pomorščakov slovenskega rodu v vojnih in
+                                    trgovskih šolah različnih držav v preteklosti. Poseben poudarek
+                                    bo namenjen prikazu razmer, časa, okoliščin in razlogov za
+                                    ustanovitev Slovenske pomorske trgovske akademije, predhodnice
+                                    današnje pomorske šole, v Semedeli pri Kopru 1. 3. 1947. V tem
+                                    kontekstu bo poudarjen pomen slovenskega pomorskega in ribiškega
+                                    šolstva ter začetek izobraževanja in zaposlovanja usposobljenih
+                                    pomorščakov, saj je to postajalo ključno za potek procesa, v
+                                    katerem se je vzpostavljalo slovensko pomorstvo. Potreba po
+                                    ustanovitvi pomorskih šol v naših deželah se je pokazala kmalu
+                                    potem, ko je Karel VI. leta 1717 razglasil svobodno plovbo po
+                                    Jadranu. V Trstu in na Reki nastopajoča buržoazija, ki si je v
+                                    merkantilistični dobi prizadevala za večji uvoz in izvoz preko
+                                    naših mest, je naravnost terjala od oblasti, da se plovba zaupa
+                                    strokovno usposobljenim kapitanom in oficirjem. Tako je
+                                    postajalo vedno bolj nujno usposobiti nov rod pomorščakov, ki bi
+                                    bil sposoben ne samo pluti in varno voditi ladje po morju. Tudi
+                                    vedno večja specializacija trgovine je zahtevala šolane
+                                    kapitane. Spričo takih zahtev je postajala nujna ustanovitev
+                                    pomorskih šol. Na pomorske šole se namreč niso vpisovali le
+                                    fantje iz obalnih mest in bližnje okolice, temveč iz celotnega
+                                    slovenskega narodnega ozemlja. Ob ustanovitvi pomorske šole leta
+                                    1947 je časopis Slovenski Jadran zapisal in bolj literarno
+                                    povzel del bistva tega prispevka: »Tako je postal nekdanji šolar
+                                    dijak slovenske pomorske šole. Prišel je v osvobojeno slovensko
+                                    obmorsko mesto tamkaj iz Kranjčevega Prekmurja, iz Prežihove
+                                    Koroške, iz vinorodne Štajerske, črnih trboveljskih revirjev,
+                                    sončne Bele Krajine, iz gostoljubne Dolenjske in na videz vase
+                                    zaprte Gorenjske, iz dežele dobrovoljnih Kraševcev in iz vseh
+                                    krajev Slovenije.« </entity:description>
+               <entity:description xml:lang="eng"> The paper discusses the
+                                    emergence of Slovenian maritime education after World War II and
+                                    the importance of training Slovenian sailors in military and
+                                    mercantile schools in different countries in the past. Special
+                                    emphasis will be given to the presentation of the situation,
+                                    time, circumstances and reasons for establishment of the
+                                    Slovenian merchant maritime Academies, the predecessor of
+                                    today's maritime school in Semedela near Koper, 1.3.1947. The
+                                    emphasis will be on the Slovenian maritime and fishing education
+                                    as well as beginning of education and employment of competent
+                                    sailors, since this became crucial for the process in which
+                                    Slovenian shipping was established. The need for the
+                                    establishment of Maritime schools in our land was revealed
+                                    shortly after Charles VI. declared freedom of navigation in the
+                                    Adriatic in 1717. Bourgeoisie in Trieste and Rijeka that in the
+                                    mercantilist era strove to increase import and export through
+                                    our cities, demanded from the authorities that navigation is
+                                    entrusted to skilled captains and officers. Thus, it became
+                                    increasingly necessary to train a new generation of sailors, who
+                                    would be able to sail and safely guide ships at sea. The growing
+                                    specialization of trade also required schooled captains. In view
+                                    of such requirements the establishment of maritime schools
+                                    became necessary. Not only boys from coastal cities and
+                                    surrounding areas, but also those from other regions of
+                                    Slovenian ethnic territory enrolled in Maritime schools. Upon
+                                    the establishment of the maritime school in 1947, the newspaper
+                                    “Slovenski Jadran” wrote and summed up the essence of this
+                                    paper: "So the former pupil became a student at the Slovenian
+                                    maritime school. He came into the emancipated Slovenian coastal
+                                    town from Kranjec’s Prekmurje, Prežih’s Carinthia, wine-growing
+                                    Styria, black Trbovlje districts, sunny Bela Krajina, hospitable
+                                    Lower Carniola and seemingly introverted Upper Carniola, from
+                                    the land of cheerful people of karst and from all parts of
+                                    Slovenia." </entity:description>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="video1" USE="EXTERNAL">
+            <METS:FLocat USE="YOUTUBE"
+                         LOCTYPE="URL"
+                         xlink:href="https://www.youtube.com/embed/oNA_GjzXdk8"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37397"/>
+         <METS:div TYPE="entity" DMDID="dc.37463" ADMID="premis.37463 entity.37463">
+            <METS:fptr FILEID="video1"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

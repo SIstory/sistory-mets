@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/37447"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2017-04-05T09:02:12"
+                 LASTMODDATE="2017-04-07T11:50:14"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.4" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.37447" GROUPID="37447">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="slv">Vajeništvo – vstopnica v svet cehovske obrti</dcterms:title>
+            <dcterms:alternative xml:lang="eng">Apprenticeship – An Entry-Ticket to the World of Trade Guild</dcterms:alternative>
+            <dcterms:creator>Žižek, Aleksander</dcterms:creator>
+            <dcterms:description xml:lang="slv">Sprejem v uk je pomenil pomembno prelomnico v življenju fanta v predmoderni dobi. S pametno izbiro bodočega poklica mu je bila namreč odprta pot do zagotovljene gmotne eksistence pa tudi družbenega ugleda. Večinoma so se namesto njega odločile rojenice in starši. Če izvzamemo številne vajence, ki so uk opravili kar pod domačo streho (v domači delavnici), je bil odhod v uk povezan z odhodom od doma, vključitvijo v novo življenjsko skupnost in novo gospodinjstvo. Odgovornost za vajenčevo preživljanje, vzgojo, strokovni napredek in varnost je prevzel mojster s soprogo, v procesu njegovega izobraževanja pa so sodelovali tudi pomočniki in drugi člani velikega gospodinjstva. Da je šlo pri tem za pomemben proces, je sčasoma ugotovila tudi država, ki je že v cehovskih pravilih predpisala osnovne smernice izvajanja obrtnega uka, kasneje pa je vajence vključila tudi v posamezne oblike rednega šolanja (nedeljske ponavljalne šole) in z obiskovanjem tega pouka (in verouka) tudi pogojevala uspešen zaključek obrtnega izobraževanja. Podatki o tem se skrivajo v cehovskih pravilih, cehovskih knjigah in listinah, širši zgodovinski vidik pa bo možno očrtati tudi s pomočjo literature. Omejil se bom na obdobje med dvema osrednjima pravnima aktoma, ki sta urejala obrt – notranjeavstrijskim obrtnim redom Karla VI. (1732) in obrtnim zakonom iz leta 1859.</dcterms:description>
+            <dcterms:description xml:lang="eng">Admission into training represented an important turning point in a boy’s life in the pre-modern era. With a wise choice of the future profession the path to the guaranteed material existence as well as social reputation opened. In place of the boy, parents and the three Fates decided. Excluding the number of apprentices who have finished the training at home (in the home workshop), leaving for training was associated with leaving home, the integration into a new life community and a new household. Responsibility for the apprentice's livelihood, education, professional development and security was handed to the master and his wife, but also assistants and other members of the large household contributed to the process of his education. Eventually also the state determined that this was an important process and specified in the guild regulations basic guidelines of craft training. Later apprentices were included into individual forms of regular schooling (Sunday schools). The successful completion of craft training was dependent on the attendance of Sunday schools and religious education. Information regarding this is hidden in guild regulations, books and documents. The wider historical perspective will be outlined with the help of literature. I will limit myself to the period between two main legal acts, which regulated the trade – Inner Austrian Trade Rules of Charles VI. (1732) and the Trades Act of 1859.</dcterms:description>
+            <dcterms:subject xml:lang="slv">obrt</dcterms:subject>
+            <dcterms:subject xml:lang="slv">ceh</dcterms:subject>
+            <dcterms:subject xml:lang="slv">vajenec</dcterms:subject>
+            <dcterms:subject xml:lang="slv">cehovska pravila</dcterms:subject>
+            <dcterms:subject xml:lang="slv">izobraževanje</dcterms:subject>
+            <dcterms:subject xml:lang="eng">crafts</dcterms:subject>
+            <dcterms:subject xml:lang="eng">guild</dcterms:subject>
+            <dcterms:subject xml:lang="eng">apprentice</dcterms:subject>
+            <dcterms:subject xml:lang="eng">guild rules</dcterms:subject>
+            <dcterms:subject xml:lang="eng">education</dcterms:subject>
+            <dcterms:publisher>Zveza zgodovinskih društev Slovenije, Ljubljana</dcterms:publisher>
+            <dcterms:publisher>Inštitut za novejšo zgodovino, Ljubljana</dcterms:publisher>
+            <dcterms:contributor>Bogdan Kolar (moderator)</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2016-09-29</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">MovingImage</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">slv</dcterms:language>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.37447">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>37447</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/37447</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.37447">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Sprejem v uk je pomenil
+                                    pomembno prelomnico v življenju fanta v predmoderni dobi. S
+                                    pametno izbiro bodočega poklica mu je bila namreč odprta pot do
+                                    zagotovljene gmotne eksistence pa tudi družbenega ugleda.
+                                    Večinoma so se namesto njega odločile rojenice in starši. Če
+                                    izvzamemo številne vajence, ki so uk opravili kar pod domačo
+                                    streho (v domači delavnici), je bil odhod v uk povezan z odhodom
+                                    od doma, vključitvijo v novo življenjsko skupnost in novo
+                                    gospodinjstvo. Odgovornost za vajenčevo preživljanje, vzgojo,
+                                    strokovni napredek in varnost je prevzel mojster s soprogo, v
+                                    procesu njegovega izobraževanja pa so sodelovali tudi pomočniki
+                                    in drugi člani velikega gospodinjstva. Da je šlo pri tem za
+                                    pomemben proces, je sčasoma ugotovila tudi država, ki je že v
+                                    cehovskih pravilih predpisala osnovne smernice izvajanja
+                                    obrtnega uka, kasneje pa je vajence vključila tudi v posamezne
+                                    oblike rednega šolanja (nedeljske ponavljalne šole) in z
+                                    obiskovanjem tega pouka (in verouka) tudi pogojevala uspešen
+                                    zaključek obrtnega izobraževanja. Podatki o tem se skrivajo v
+                                    cehovskih pravilih, cehovskih knjigah in listinah, širši
+                                    zgodovinski vidik pa bo možno očrtati tudi s pomočjo literature.
+                                    Omejil se bom na obdobje med dvema osrednjima pravnima aktoma,
+                                    ki sta urejala obrt – notranjeavstrijskim obrtnim redom Karla
+                                    VI. (1732) in obrtnim zakonom iz leta 1859. </entity:description>
+               <entity:description xml:lang="eng"> Admission into training
+                                    represented an important turning point in a boy’s life in the
+                                    pre-modern era. With a wise choice of the future profession the
+                                    path to the guaranteed material existence as well as social
+                                    reputation opened. In place of the boy, parents and the three
+                                    Fates decided. Excluding the number of apprentices who have
+                                    finished the training at home (in the home workshop), leaving
+                                    for training was associated with leaving home, the integration
+                                    into a new life community and a new household. Responsibility
+                                    for the apprentice's livelihood, education, professional
+                                    development and security was handed to the master and his wife,
+                                    but also assistants and other members of the large household
+                                    contributed to the process of his education. Eventually also the
+                                    state determined that this was an important process and
+                                    specified in the guild regulations basic guidelines of craft
+                                    training. Later apprentices were included into individual forms
+                                    of regular schooling (Sunday schools). The successful completion
+                                    of craft training was dependent on the attendance of Sunday
+                                    schools and religious education. Information regarding this is
+                                    hidden in guild regulations, books and documents. The wider
+                                    historical perspective will be outlined with the help of
+                                    literature. I will limit myself to the period between two main
+                                    legal acts, which regulated the trade – Inner Austrian Trade
+                                    Rules of Charles VI. (1732) and the Trades Act of 1859. </entity:description>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="video1" USE="EXTERNAL">
+            <METS:FLocat USE="YOUTUBE"
+                         LOCTYPE="URL"
+                         xlink:href="https://www.youtube.com/embed/XLPc_ny6fuc"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37392"/>
+         <METS:div TYPE="entity" DMDID="dc.37447" ADMID="premis.37447 entity.37447">
+            <METS:fptr FILEID="video1"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

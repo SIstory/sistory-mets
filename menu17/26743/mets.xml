@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/26743"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2014-04-14T17:43:59"
+                 LASTMODDATE="2017-02-15T11:46:56"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.26743" GROUPID="26743">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="slv">Soška fronta in njeno slovensko zaledje</dcterms:title>
+            <dcterms:creator>Guštin, Damijan</dcterms:creator>
+            <dcterms:description xml:lang="slv">Avstro-Ogrska je 28. julija 1914 napovedala Srbiji vojno še z upanjem, da bo ta ostala omejena. Vendar pa se je v manj kot dveh tednih razvila v vojno med evropskimi velesilami, povezanimi v obe vojaški zvezi, nevtralnost je obdržala le Italija. Avstro-Ogrska se je tako morala vojaško soočiti tudi z rusko vojsko, kije takoj začela prodirati proti severovzhodni meji monarhije. Tako je za Slovence - avstroogrske vojake vojna pomenila vojskovanje daleč na Balkanu in v Galiciji, na dveh oddaljenih koncih monarhije. Vojna se je tako za slovensko zaledje zdela daleč, čeprav je v svojih posledicah takoj segla tudi v dežele, naseljene s Slovenci; vedno več je bilo padlih, pojavili so se prvi konfiniranci in begunci s severovzhoda, vojni ujetniki, ranjenci, uvedene so bile vojne dajatve in omejitve</dcterms:description>
+            <dcterms:subject xml:lang="slv">Slovenci</dcterms:subject>
+            <dcterms:subject xml:lang="slv">1914-1918</dcterms:subject>
+            <dcterms:subject xml:lang="slv">prva svetovna vojna</dcterms:subject>
+            <dcterms:subject xml:lang="slv">kulturna zgodovina</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Slovenes</dcterms:subject>
+            <dcterms:subject xml:lang="eng">1914-1918</dcterms:subject>
+            <dcterms:subject xml:lang="eng">World War I</dcterms:subject>
+            <dcterms:subject xml:lang="eng">cultural history</dcterms:subject>
+            <dcterms:publisher>Slovenska matica, Ljubljana</dcterms:publisher>
+            <dcterms:contributor>Peter Vodopivec (ur.)</dcterms:contributor>
+            <dcterms:contributor>Katja Kleindienst (ur.)</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2005</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">Text</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">slv</dcterms:language>
+            <dcterms:license xsi:type="dcterms:URI">http://creativecommons.org/licenses/by-nc-nd/2.5/si/</dcterms:license>
+            <dcterms:license xml:lang="slv">Priznanje avtorstva-Nekomercialo-Brez predelav 2.5 Slovenija (CC BY-NC-ND 2.5 SI)</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.26743">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>26743</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/26743#page=61</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.26743">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Avstro-Ogrska je 28.
+                                    julija 1914 napovedala Srbiji vojno še z upanjem, da bo ta
+                                    ostala omejena. Vendar pa se je v manj kot dveh tednih razvila v
+                                    vojno med evropskimi velesilami, povezanimi v obe vojaški zvezi,
+                                    nevtralnost je obdržala le Italija. Avstro-Ogrska se je tako
+                                    morala vojaško soočiti tudi z rusko vojsko, kije takoj začela
+                                    prodirati proti severovzhodni meji monarhije. Tako je za
+                                    Slovence - avstroogrske vojake vojna pomenila vojskovanje daleč
+                                    na Balkanu in v Galiciji, na dveh oddaljenih koncih monarhije.
+                                    Vojna se je tako za slovensko zaledje zdela daleč, čeprav je v
+                                    svojih posledicah takoj segla tudi v dežele, naseljene s
+                                    Slovenci; vedno več je bilo padlih, pojavili so se prvi
+                                    konfiniranci in begunci s severovzhoda, vojni ujetniki,
+                                    ranjenci, uvedene so bile vojne dajatve in omejitve </entity:description>
+               <entity:page>61</entity:page>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/26732"/>
+         <METS:div TYPE="entity" DMDID="dc.26743" ADMID="premis.26743 entity.26743"/>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

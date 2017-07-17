@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/20458"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2014-01-08T15:13:14"
+                 LASTMODDATE="2017-02-07T14:15:25"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.20458" GROUPID="20458">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="slv">Uveljavljanje slovenščine kot jezika po drugi svetovni vojni</dcterms:title>
+            <dcterms:alternative xml:lang="eng">Assertion of the Slovenian Language as the Official Language After World War II</dcterms:alternative>
+            <dcterms:creator>Gabrič, Aleš</dcterms:creator>
+            <dcterms:abstract xml:lang="slv">Vprašanje uradnega jezika v federativno preoblikovani Jugoslaviji je nakazovalona odnos zveznih oblasti do enakopravnosti narodov v državi. Za Slovencez najvišjo stopnjo pismenosti in najvišjimi stopnjami drugih kazalcev,ki kažejo na kulturno razvitost naroda, je bilo jezikovno vprašanje še posebejobčutljivo, saj so šli v stoletju pred koncem 2. svetovne vojne skozi različna obdobja,ki so slovenskemu jeziku enkrat namenila nekoliko več pomena, drugičpa so slovenščino potisnila preko roba uradnega v povsem zasebno sfero.V povojnih ustavah, zvezni iz leta 1946 in slovenski iz leta 1947, položajuradnega jezika še ni bil natančno definiran, prav tako pa se položaj ni zbistrilob spreminjanjih ustavnega sistema v naslednjih desetletjih. Slovenščina se jeuveljavila kot uradni jezik v Sloveniji, njen položaj v zveznih organih pa je bilnedorečen, zato je prihajalo do nejasnosti in tudi sporov, ki so zbujali očitke ošovinizmu. Še najslabše je bila enakopravnost jezikov spoštovana v tistih zveznihustanovah, ki so delovale na celotnem ozemlju države, npr. v vojski, naželeznici itd.Najprej so izobraženci sprožili vprašanja jezikovne politike pri kulturniustvarjalnosti, ob začetku šestdesetih let pa so temu vprašanju večjo pozornostposvetili tudi v slovenski politiki. Leta 1962 je npr. postalo vprašanje aktualnoob ponovnem ustanavljanju PEN centrov v Jugoslaviji, leta 1965 pa je prvičuradno izjavo z zahtevo po še širši uveljavitvi slovenskega jezika izdal tudislovenski politični vrh, tj. izvršni odbor Socialistične zveze delovnega ljudstvaSlovenije. Sledile so še bolj občutljive zadeve in leta 1966 so bile sproženerazprave o zapostavljanju slovenščine na račun srbohrvaščine v jugoslovanskihoblastnih organih in v vojski. Na kritike se je ob krepitvi moči federalnih enotodzvala tudi zvezna oblast in jezikovni politiki namenila več pozornosti. Ob temje seveda naletela tudi na povsem realne ovire, npr. na pomanjkanje ustreznoizobraženih prevajalcev.Sredi sedemdesetih let se je položaj navidezno umiril, a se je problematika(ne)enakopravnosti jezikov v Jugoslaviji na javno sceno vnovič vrnila v kriznihosemdesetih letih.</dcterms:abstract>
+            <dcterms:abstract xml:lang="eng">The question of the official language in the federally transformed Yugoslaviaindicated the attitude of the federal authorities towards the equality of the nationsin the state. For Slovenians with their highest literacy rate and highest ratesof other indicators related to the national cultural development, the question oflanguage was especially sensitive, since in the century before the end of WorldWar II they had gone through various periods when the Slovenian languagewas either somewhat more important or pushed out of official use into the completelyprivate sphere.In the post-war constitutions – the Federal Constitution of 1946 and the SlovenianConstitution of 1947 – the position of the official language had not yetbeen precisely defined, and the situation did not become any clearer during thechanges of the constitutional system in the following decades. Slovenian cameinto use as the official language in Slovenia, but its position in the federal bodieswas unspecified, which resulted in uncertainty as well as disputes, resultingin reproaches with chauvinism. The equality of languages was especially disregardedin those federal institutions which functioned in the whole territory ofYugoslavia, for example in the army, railroad, etc.Initially intellectuals raised the questions of the language policy in the fieldof cultural creativity, and in the beginning of the 1960s greater attention wasalso paid to this in the Slovenian politics. For example, in 1962 the issue becametopical during the reestablishment of PEN centres in Yugoslavia, and in 1965the first official statement and demand for a wider assertion of the Slovenianlanguage was also made by the Slovenian political leadership, the so-called ExecutiveCommittee of the Socialist Alliance of the Working People of Slovenia.Even more sensitive matters followed and in 1966 discussions began about theneglect of the Slovenian language on account of Serbo-Croatian in the Yugoslavauthority bodies and in the army. In view of the strengthening of federal units,the federal authorities responded to the criticism and paid more attention to thelanguage policy. Of course, here it came across completely realistic obstacles,for example the lack of suitably educated translators.In the middle of the 1970s the situation seemed to calm down, but the problemof the (un)equality of languages in Yugoslavia returned to the public sceneduring the crisis in the 1980s.</dcterms:abstract>
+            <dcterms:subject xml:lang="slv">Slovenija</dcterms:subject>
+            <dcterms:subject xml:lang="slv">zgodovina</dcterms:subject>
+            <dcterms:subject xml:lang="slv">Jugoslavija</dcterms:subject>
+            <dcterms:subject xml:lang="slv">posvetovanja</dcterms:subject>
+            <dcterms:subject xml:lang="slv">1941-1991</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Slovenia</dcterms:subject>
+            <dcterms:subject xml:lang="eng">history</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Yugoslavia</dcterms:subject>
+            <dcterms:subject xml:lang="eng">symposium</dcterms:subject>
+            <dcterms:subject xml:lang="eng">1941-1991</dcterms:subject>
+            <dcterms:publisher>Inštitut za novejšo zgodovino, Ljubljana</dcterms:publisher>
+            <dcterms:publisher>Muzej novejše zgodovine Slovenije, Ljubljana</dcterms:publisher>
+            <dcterms:contributor>Zdenko Čepič (moderator)</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2013-11-28</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">MovingImage</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">slv</dcterms:language>
+            <dcterms:license xsi:type="dcterms:URI">http://creativecommons.org/licenses/by-nc-nd/2.5/si/</dcterms:license>
+            <dcterms:license xml:lang="slv">Priznanje avtorstva-Nekomercialo-Brez predelav 2.5 Slovenija (CC BY-NC-ND 2.5 SI)</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.20458">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>20458</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/20458</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.20458">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="slv">
+                  <p xmlns="http://sistory.si/schema/sistory/v3/entity">Vprašanje uradnega jezika v federativno preoblikovani
+                                        Jugoslaviji je nakazovalona odnos zveznih oblasti do
+                                        enakopravnosti narodov v državi. Za Slovencez najvišjo
+                                        stopnjo pismenosti in najvišjimi stopnjami drugih
+                                        kazalcev,ki kažejo na kulturno razvitost naroda, je bilo
+                                        jezikovno vprašanje še posebejobčutljivo, saj so šli v
+                                        stoletju pred koncem 2. svetovne vojne skozi različna
+                                        obdobja,ki so slovenskemu jeziku enkrat namenila nekoliko
+                                        več pomena, drugičpa so slovenščino potisnila preko roba
+                                        uradnega v povsem zasebno sfero.V povojnih ustavah, zvezni
+                                        iz leta 1946 in slovenski iz leta 1947, položajuradnega
+                                        jezika še ni bil natančno definiran, prav tako pa se položaj
+                                        ni zbistrilob spreminjanjih ustavnega sistema v naslednjih
+                                        desetletjih. Slovenščina se jeuveljavila kot uradni jezik v
+                                        Sloveniji, njen položaj v zveznih organih pa je
+                                        bilnedorečen, zato je prihajalo do nejasnosti in tudi
+                                        sporov, ki so zbujali očitke ošovinizmu. Še najslabše je
+                                        bila enakopravnost jezikov spoštovana v tistih
+                                        zveznihustanovah, ki so delovale na celotnem ozemlju države,
+                                        npr. v vojski, naželeznici itd.</p>
+                  <p xmlns="http://sistory.si/schema/sistory/v3/entity">Najprej so izobraženci sprožili vprašanja jezikovne politike
+                                        pri kulturniustvarjalnosti, ob začetku šestdesetih let pa so
+                                        temu vprašanju večjo pozornostposvetili tudi v slovenski
+                                        politiki. Leta 1962 je npr. postalo vprašanje aktualnoob
+                                        ponovnem ustanavljanju PEN centrov v Jugoslaviji, leta 1965
+                                        pa je prvičuradno izjavo z zahtevo po še širši uveljavitvi
+                                        slovenskega jezika izdal tudislovenski politični vrh, tj.
+                                        izvršni odbor Socialistične zveze delovnega
+                                        ljudstvaSlovenije. Sledile so še bolj občutljive zadeve in
+                                        leta 1966 so bile sproženerazprave o zapostavljanju
+                                        slovenščine na račun srbohrvaščine v jugoslovanskihoblastnih
+                                        organih in v vojski. Na kritike se je ob krepitvi moči
+                                        federalnih enotodzvala tudi zvezna oblast in jezikovni
+                                        politiki namenila več pozornosti. Ob temje seveda naletela
+                                        tudi na povsem realne ovire, npr. na pomanjkanje
+                                        ustreznoizobraženih prevajalcev.Sredi sedemdesetih let se je
+                                        položaj navidezno umiril, a se je
+                                        problematika(ne)enakopravnosti jezikov v Jugoslaviji na
+                                        javno sceno vnovič vrnila v kriznihosemdesetih letih.</p>
+               </entity:description>
+               <entity:description xml:lang="eng">
+                  <p xmlns="http://sistory.si/schema/sistory/v3/entity">The question of the official language in the federally
+                                        transformed Yugoslaviaindicated the attitude of the federal
+                                        authorities towards the equality of the nationsin the state.
+                                        For Slovenians with their highest literacy rate and highest
+                                        ratesof other indicators related to the national cultural
+                                        development, the question oflanguage was especially
+                                        sensitive, since in the century before the end of WorldWar
+                                        II they had gone through various periods when the Slovenian
+                                        languagewas either somewhat more important or pushed out of
+                                        official use into the completelyprivate sphere.In the
+                                        post-war constitutions – the Federal Constitution of 1946
+                                        and the SlovenianConstitution of 1947 – the position of the
+                                        official language had not yetbeen precisely defined, and the
+                                        situation did not become any clearer during thechanges of
+                                        the constitutional system in the following decades.
+                                        Slovenian cameinto use as the official language in Slovenia,
+                                        but its position in the federal bodieswas unspecified, which
+                                        resulted in uncertainty as well as disputes, resultingin
+                                        reproaches with chauvinism. The equality of languages was
+                                        especially disregardedin those federal institutions which
+                                        functioned in the whole territory ofYugoslavia, for example
+                                        in the army, railroad, etc.Initially intellectuals raised
+                                        the questions of the language policy in the fieldof cultural
+                                        creativity, and in the beginning of the 1960s greater
+                                        attention wasalso paid to this in the Slovenian politics.
+                                        For example, in 1962 the issue becametopical during the
+                                        reestablishment of PEN centres in Yugoslavia, and in 1965the
+                                        first official statement and demand for a wider assertion of
+                                        the Slovenianlanguage was also made by the Slovenian
+                                        political leadership, the so-called ExecutiveCommittee of
+                                        the Socialist Alliance of the Working People of
+                                        Slovenia.Even more sensitive matters followed and in 1966
+                                        discussions began about theneglect of the Slovenian language
+                                        on account of Serbo-Croatian in the Yugoslavauthority bodies
+                                        and in the army. In view of the strengthening of federal
+                                        units,the federal authorities responded to the criticism and
+                                        paid more attention to thelanguage policy. Of course, here
+                                        it came across completely realistic obstacles,for example
+                                        the lack of suitably educated translators.In the middle of
+                                        the 1970s the situation seemed to calm down, but the
+                                        problemof the (un)equality of languages in Yugoslavia
+                                        returned to the public sceneduring the crisis in the
+                                        1980s.</p>
+               </entity:description>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="video1" USE="EXTERNAL">
+            <METS:FLocat USE="YOUTUBE"
+                         LOCTYPE="URL"
+                         xlink:href="//www.youtube.com/embed/ZE65WkPs1Qc"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/20426"/>
+         <METS:div TYPE="entity" DMDID="dc.20458" ADMID="premis.20458 entity.20458">
+            <METS:fptr FILEID="video1"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

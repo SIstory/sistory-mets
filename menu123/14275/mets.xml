@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/14275"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2012-11-30T12:01:14"
+                 LASTMODDATE="2017-02-09T09:18:30"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.14275" GROUPID="14275">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="slv">Inteligencija u Srbiji između revolucionarne represije i društvene integracije 1944–1950</dcterms:title>
+            <dcterms:alternative xml:lang="eng">Serbian Intelligentsia between Revolutionary Repression and Social Integration 1944–1950</dcterms:alternative>
+            <dcterms:creator>Milićević, Nataša</dcterms:creator>
+            <dcterms:abstract xml:lang="eng">After World War II the Serbian intelligentsia, like intellectuals in the rest of Yugoslavia, found itself in a specific position. This position originated in the ambivalent attitude of the Communist Party of Yugoslavia as the main force of therevolutionary authorities towards intellectuals. Namely, the Communist Party was aware of a profound social significance and role of the intelligentsia, but simultaneously it was distrustful and afraid of it due to its bourgeois origins stemming from the pre-war and wartime period. Thus the Communist Party emphasised the intellectuals, besides peasants and workers, as one of the pillars of the social transformation, while it excluded the bourgeoisie as a class it did not count on and which it wanted to repress. For the same reason it also established a difference between the »wanted« and »unwanted« intelligentsia, or intellectuals who were »fair, progressive and of the people« and those who were »unfair, reactionary and not of the people«. The latter were supposed to share the fate of the capitalists. However, the Communist Party was forced to integrate most of the »unwanted« intellectuals into the »new society« due to their scarcity and cultural capital they possessed, unlike the capitalists who were destroyed by the revolutionary authorities in the process of demolishing the bourgeois society and its heritage. Immediately after the liberation the revolutionary repression dominated the intelligentsia in Serbia as well as elsewhere in Yugoslavia. This repression involved a whole range of measures implemented by the authorities in order to settle the score with the intellectuals and to suppress and remove them from the public life, culture, and politics. It also entailed the verify caution of the »propriety« of work and behaviour of the whole intelligentsia during the period of the occupation. Some intellectuals were permanently removed from the society, as they were executed by the military courts. Others served lengthier or shorter prison sentences, were removed for a while from the public life by the decrees of the »honour courts«, or received »public reprimands in the press« due totheir behaviour during the occupation. At the same time the intelligentsia wasdivided into »indecent« and »decent« intellectuals – those who could participate in the establishment of the new society. Unlike repression, integration was not accompanied by any drama. It looked like it took place in »silence«. The only exception were those members of the intelligentsia who were called upon to cooperate by the revolutionary authorities, or those who volunteered themselves. Most intellectuals were integrated gradually. The initial suspicions and severity of measures were replaced by the policy of more »flexible« relations, allowing for the humanist intelligentsia – besides the technical intelligentsia – being more widely accepted due to the liberalisation in the 1950s.</dcterms:abstract>
+            <dcterms:abstract xml:lang="srp">Inteligencija u Srbiji, kao i ostatku Jugoslavije, posle Drugog svetskog rata našla se u specifičnom položaju. On je proizlazio iz ambivalentnog odnosa Komunističke partije Jugoslavije, kao glavne snage revolucionarne vlasti, prema inteligenciji. Naime, Komunistička partija je bila svesna velike društvene važnostii uloge inteligencije, ali je, istovremeno, prema njoj pokazivala nepoverenjei strah zbog njenog građanskog porekla, koji je nasledila iz pred ratnog i ratnog perioda. Zbog toga je ona inteligenciju isticala, pored seljaka i radnika,kao jedna od stubova društvenog preobražaja i izdvojila je građanstva kao klasena koju ne računa i koju želi da potisne. Iz istog razloga je uspostavila i razliku između »poželjne« i »nepoželjne« inteligencije odnosno »poštene, napredne i narodne« i »nepoštene, reakcionarne i nenarodne«. Ova druga je trebalo da podeli sudbinu kapitalista, ali je, za razliku od njih koje je revolucionarna vlast uprocesu rušenja građanskog društva i njegovog nasleđa uništavala, »nepoželjnu« inteligenciju, zbog njene malobrojnosti i posedovanja kulturnog kapitala, bila prinuđena da u najvećem broju integriše u »novo društvo«. Neposredno posle oslobođenja dominirala je nad inteligencijom u Srbiji, kao i u Jugoslaviji, revolucionarna represija. Ona je sadržavala čitav niz mera preko kojih se vlast obračunavala sa pripadnicima inteligencije i preko kojih ih je potiskivalai uklanjala iz javnog života, kulture i politike. Obuhvatala je proveru »ispravnosti« rada i ponašanja celokupne inteligencije u periodu okupacije. Nekiod njih su trajno uklonjeni iz društva, pošto su streljani od vojnih sudova, drugi su duže ili kraće vreme robijali, treći su odlukama »sudova časti«, uklonjeni naizvesno vreme iz javnog života, dok su četvrti »javnim ukorom preko štampe«opomenuti za držanje pod okupacijom. Istovremeno je tako inteligencija podeljenana onu »nedostojnu« i na onu »dostojnu«, koja je mogla da se uključi u izgradnju novog društva. U odnosu na represiju, integraciju nije pratila dramatičnost. Izgledalo je da se odvija u »tišini«. Izuzetak su činili oni pripadnici inteligencije koje je sama revolucionarna vlast pozvala na saradnju ili oni koji sujoj se sami preporučili. Većina intelektulaca je integrisana postepeno. Prvobitnu sumnjičavost i oštrinu u postupanju zamenila je politika »gipkijeg« odnosa, štoje, sa liberalizacijom pedesetih godina 20. veka, omogućilo da, pored tehničke inteligencije, široko prihvaćena bude i humanistička inteligencija.</dcterms:abstract>
+            <dcterms:publisher>Inštitut za novejšo zgodovino/Institute of Contemporary History, Ljubljana</dcterms:publisher>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2012-11-07</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">MovingImage</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">srp</dcterms:language>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.14275">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>14275</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/14275</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.14275">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="slv">
+                  <p xmlns="http://sistory.si/schema/sistory/v3/entity">Inteligencija u Srbiji, kao i ostatku Jugoslavije, posle
+                                        Drugog svetskog rata našla se u specifičnom položaju. On je
+                                        proizlazio iz ambivalentnog odnosa Komunističke partije
+                                        Jugoslavije, kao glavne snage revolucionarne vlasti, prema
+                                        inteligenciji. Naime, Komunistička partija je bila svesna
+                                        velike društvene važnostii uloge inteligencije, ali je,
+                                        istovremeno, prema njoj pokazivala nepoverenjei strah zbog
+                                        njenog građanskog porekla, koji je nasledila iz pred ratnog
+                                        i ratnog perioda. Zbog toga je ona inteligenciju isticala,
+                                        pored seljaka i radnika,kao jedna od stubova društvenog
+                                        preobražaja i izdvojila je građanstva kao klasena koju ne
+                                        računa i koju želi da potisne. Iz istog razloga je
+                                        uspostavila i razliku između »poželjne« i »nepoželjne«
+                                        inteligencije odnosno »poštene, napredne i narodne« i
+                                        »nepoštene, reakcionarne i nenarodne«. Ova druga je trebalo
+                                        da podeli sudbinu kapitalista, ali je, za razliku od njih
+                                        koje je revolucionarna vlast uprocesu rušenja građanskog
+                                        društva i njegovog nasleđa uništavala, »nepoželjnu«
+                                        inteligenciju, zbog njene malobrojnosti i posedovanja
+                                        kulturnog kapitala, bila prinuđena da u najvećem broju
+                                        integriše u »novo društvo«. Neposredno posle oslobođenja
+                                        dominirala je nad inteligencijom u Srbiji, kao i u
+                                        Jugoslaviji, revolucionarna represija. Ona je sadržavala
+                                        čitav niz mera preko kojih se vlast obračunavala sa
+                                        pripadnicima inteligencije i preko kojih ih je potiskivalai
+                                        uklanjala iz javnog života, kulture i politike. Obuhvatala
+                                        je proveru »ispravnosti« rada i ponašanja celokupne
+                                        inteligencije u periodu okupacije. Nekiod njih su trajno
+                                        uklonjeni iz društva, pošto su streljani od vojnih sudova,
+                                        drugi su duže ili kraće vreme robijali, treći su odlukama
+                                        »sudova časti«, uklonjeni naizvesno vreme iz javnog života,
+                                        dok su četvrti »javnim ukorom preko štampe«opomenuti za
+                                        držanje pod okupacijom. Istovremeno je tako inteligencija
+                                        podeljenana onu »nedostojnu« i na onu »dostojnu«, koja je
+                                        mogla da se uključi u izgradnju novog društva. U odnosu na
+                                        represiju, integraciju nije pratila dramatičnost. Izgledalo
+                                        je da se odvija u »tišini«. Izuzetak su činili oni
+                                        pripadnici inteligencije koje je sama revolucionarna vlast
+                                        pozvala na saradnju ili oni koji sujoj se sami preporučili.
+                                        Većina intelektulaca je integrisana postepeno. Prvobitnu
+                                        sumnjičavost i oštrinu u postupanju zamenila je politika
+                                        »gipkijeg« odnosa, štoje, sa liberalizacijom pedesetih
+                                        godina 20. veka, omogućilo da, pored tehničke inteligencije,
+                                        široko prihvaćena bude i humanistička inteligencija.</p>
+               </entity:description>
+               <entity:description xml:lang="eng">
+                  <p xmlns="http://sistory.si/schema/sistory/v3/entity">After World War II the Serbian intelligentsia, like
+                                        intellectuals in the rest of Yugoslavia, found itself in a
+                                        specific position. This position originated in the
+                                        ambivalent attitude of the Communist Party of Yugoslavia as
+                                        the main force of therevolutionary authorities towards
+                                        intellectuals. Namely, the Communist Party was aware of a
+                                        profound social significance and role of the intelligentsia,
+                                        but simultaneously it was distrustful and afraid of it due
+                                        to its bourgeois origins stemming from the pre-war and
+                                        wartime period. Thus the Communist Party emphasised the
+                                        intellectuals, besides peasants and workers, as one of the
+                                        pillars of the social transformation, while it excluded the
+                                        bourgeoisie as a class it did not count on and which it
+                                        wanted to repress. For the same reason it also established a
+                                        difference between the »wanted« and »unwanted«
+                                        intelligentsia, or intellectuals who were »fair, progressive
+                                        and of the people« and those who were »unfair, reactionary
+                                        and not of the people«. The latter were supposed to share
+                                        the fate of the capitalists. However, the Communist Party
+                                        was forced to integrate most of the »unwanted« intellectuals
+                                        into the »new society« due to their scarcity and cultural
+                                        capital they possessed, unlike the capitalists who were
+                                        destroyed by the revolutionary authorities in the process of
+                                        demolishing the bourgeois society and its heritage.
+                                        Immediately after the liberation the revolutionary
+                                        repression dominated the intelligentsia in Serbia as well as
+                                        elsewhere in Yugoslavia. This repression involved a whole
+                                        range of measures implemented by the authorities in order to
+                                        settle the score with the intellectuals and to suppress and
+                                        remove them from the public life, culture, and politics. It
+                                        also entailed the verify caution of the »propriety« of work
+                                        and behaviour of the whole intelligentsia during the period
+                                        of the occupation. Some intellectuals were permanently
+                                        removed from the society, as they were executed by the
+                                        military courts. Others served lengthier or shorter prison
+                                        sentences, were removed for a while from the public life by
+                                        the decrees of the »honour courts«, or received »public
+                                        reprimands in the press« due totheir behaviour during the
+                                        occupation. At the same time the intelligentsia wasdivided
+                                        into »indecent« and »decent« intellectuals – those who could
+                                        participate in the establishment of the new society. Unlike
+                                        repression, integration was not accompanied by any drama. It
+                                        looked like it took place in »silence«. The only exception
+                                        were those members of the intelligentsia who were called
+                                        upon to cooperate by the revolutionary authorities, or those
+                                        who volunteered themselves. Most intellectuals were
+                                        integrated gradually. The initial suspicions and severity of
+                                        measures were replaced by the policy of more »flexible«
+                                        relations, allowing for the humanist intelligentsia –
+                                        besides the technical intelligentsia – being more widely
+                                        accepted due to the liberalisation in the 1950s.</p>
+               </entity:description>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="video1" USE="EXTERNAL">
+            <METS:FLocat USE="YOUTUBE"
+                         LOCTYPE="URL"
+                         xlink:href="http://www.youtube.com/embed/QNiGqCj2_SU"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/14256"/>
+         <METS:div TYPE="entity" DMDID="dc.14275" ADMID="premis.14275 entity.14275">
+            <METS:fptr FILEID="video1"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

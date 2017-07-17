@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/37367"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2017-03-29T22:56:18"
+                 LASTMODDATE="2017-04-07T11:15:09"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.4" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.37367" GROUPID="37367">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="eng">Students from Duchy of Krain at Regia Scientiarum Academia in Zagreb in Early 19th Century</dcterms:title>
+            <dcterms:creator>Gregl, Mislav</dcterms:creator>
+            <dcterms:description xml:lang="eng">The secondary and high education in Zagreb in early 19th century was organized within academy with gymnasium (Regia Scientiarum Academia cum Archigymnasio). The two-year study of philosophy served as obligatory preparation for studies of theology and law. Most students of philosophy were therefore at the age between 16 and 20. Zagreb was at the time relatively significant educational centre, although of limited (regional) scope, so there had been students who stemmed from the Duchy of Krain. By analyzing the school directories and other sources, we shall try to assess their conditions of living in Zagreb, grounds for decision to study in Zagreb, their wishes about their future professions and how all these issues had been influenced by the general political situation in the turbulent era of Napoleonic wars, when the Duchy of Krain temporarily became, as well as some Croatian lands, part of the Illyrian Provinces of French Empire.</dcterms:description>
+            <dcterms:subject xml:lang="slv">Regia Scientarum Academia</dcterms:subject>
+            <dcterms:subject xml:lang="slv">vojvodina Kranjska</dcterms:subject>
+            <dcterms:subject xml:lang="slv">študentje</dcterms:subject>
+            <dcterms:subject xml:lang="slv">šolski imeniki</dcterms:subject>
+            <dcterms:subject xml:lang="slv">Napoleonske vojne</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Regia Scientiarum Academia</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Duchy of Krain</dcterms:subject>
+            <dcterms:subject xml:lang="eng">students</dcterms:subject>
+            <dcterms:subject xml:lang="eng">school directories</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Napoleonic wars</dcterms:subject>
+            <dcterms:publisher>Zveza zgodovinskih društev Slovenije, Ljubljana</dcterms:publisher>
+            <dcterms:publisher>Inštitut za novejšo zgodovino, Ljubljana</dcterms:publisher>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2016-09-28</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">MovingImage</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">eng</dcterms:language>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.37367">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>37367</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/37367</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.37367">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="eng"> The secondary and high
+                                    education in Zagreb in early 19th century was organized within
+                                    academy with gymnasium (Regia Scientiarum Academia cum
+                                    Archigymnasio). The two-year study of philosophy served as
+                                    obligatory preparation for studies of theology and law. Most
+                                    students of philosophy were therefore at the age between 16 and
+                                    20. Zagreb was at the time relatively significant educational
+                                    centre, although of limited (regional) scope, so there had been
+                                    students who stemmed from the Duchy of Krain. By analyzing the
+                                    school directories and other sources, we shall try to assess
+                                    their conditions of living in Zagreb, grounds for decision to
+                                    study in Zagreb, their wishes about their future professions and
+                                    how all these issues had been influenced by the general
+                                    political situation in the turbulent era of Napoleonic wars,
+                                    when the Duchy of Krain temporarily became, as well as some
+                                    Croatian lands, part of the Illyrian Provinces of French Empire.
+                                </entity:description>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="video1" USE="EXTERNAL">
+            <METS:FLocat USE="YOUTUBE"
+                         LOCTYPE="URL"
+                         xlink:href="https://www.youtube.com/embed/3xwk94S_QIc"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37356"/>
+         <METS:div TYPE="entity" DMDID="dc.37367" ADMID="premis.37367 entity.37367">
+            <METS:fptr FILEID="video1"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

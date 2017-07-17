@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/30448"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2015-02-06T12:42:12"
+                 LASTMODDATE="2017-02-07T10:43:36"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.30448" GROUPID="30448">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="slv">Vpliv porodniškega dopusta na zaposlitev žensk v času socializma</dcterms:title>
+            <dcterms:alternative xml:lang="eng">Impact of maternity leave on women's employment in the time of socialism</dcterms:alternative>
+            <dcterms:creator>Leskošek, Vesna</dcterms:creator>
+            <dcterms:description xml:lang="slv">Termin porodniški dopust v tem prispevku uporabljam v pomenu, ki je zanj veljal v času socializma in sicer kot število dni, ki jih lahko koristi ženska za nego in varstvo otroka po porodu. (V Sloveniji je pridobil pravico do porodniškega dopusta delno tudi moški.) Pravica do porodniškega dopusta je tesno povezana z možnostmi žensk, da pridobijo ali obdržijo zaposlitev, zato se bom v prispevku omejila na povezavo med porodniškim dopustom in zaposlitvijo, vendar bom ugotavljala tudi druge ideološke povezave med pravicami, zaščito in percepcijo materinskosti, saj je od tega odvisna dolžina porodniškega dopusta in možnosti za zaposlitev. Takšne so npr. demografske politike, kjer se gibljemo v razponu med dolžnostjo rojevati za koristi nacije in med pravico rojevati v skladu z lastnimi prepričanji. Diskurzi o povezovanju dela in materinstva reflektirajo prevladujoče spolne sheme, ki učinkujejo na možnosti žensk za udeležbo v javnem življenju torej tudi v plačani zaposlitvi. Jogan (1985) piše o razliki med kapitalizmom in socializmom pri možnostih za zaposlitev, ki jih imajo v enem ali drugem sistemu ženske. Medtem, ko je v kapitalizmu zaposlovanje večinoma omejeno na revnejša gospodinjstva, kjer morata biti zaposlena oba partnerja, da družina lahko preživi, ker je prepričanje o vezi med materjo in otrokom tako zakoreninjeno, da je percepcija zaposlenih žensk negativna (patološke ženske), je v socializmu takšno prepričanje že preživelo, saj je zaposlitev žensk že nekaj običajnega, gospodinjska dela pa se znotraj partnerstva delijo in niso omejena zgolj na ženske. Ravno razumevanje spolnih vlog in identitet je ključno za možnosti žensk v zaposlovanju. Raziskovanje tega fenomena bo potekalo z analizo sprememb zakonodaje, ki je urejala pravico do porodniškega dopusta v letih od 1945 do 1989 in utemeljevanje teh sprememb v znanstveni, strokovni in drugi literaturi. Predvsem me bo zanimalo, kakšni, če sploh, so bili predvideni učinki zakonodajnih sprememb na možnosti za zaposlitev žensk, na njihov dohodek in na zaposlitvene možnosti sploh. Čeprav je ob politiki polne zaposlenosti težje raziskati učinke socialnih in delovnih pravic na zaposlitvene možnosti, lahko iz literature vendarle vidimo dve plati pravic, ki sta bili prisotni tudi v socializmu: da so bile ženske zaradi posebne zaščite na delovnem mestu izpostavljene možnostim, da so izključene iz uresničevanja pravice do dela (Tomšič, 1980: 98-100), hkrati pa so jim pravice omogočale, da so ohranjale zaposlitev, saj je dolžina porodniškega dopusta zadostovala za nego in varstvo otroka, sistem otroškega varstva pa omogočal, da so se vrnile na delo.</dcterms:description>
+            <dcterms:subject xml:lang="slv">ekonomska zgodovina</dcterms:subject>
+            <dcterms:subject xml:lang="slv">študije spola</dcterms:subject>
+            <dcterms:subject xml:lang="slv">antropologija</dcterms:subject>
+            <dcterms:subject xml:lang="eng">economic history</dcterms:subject>
+            <dcterms:subject xml:lang="eng">gender studies</dcterms:subject>
+            <dcterms:subject xml:lang="eng">anthropology</dcterms:subject>
+            <dcterms:publisher>Inštitut za novejšo zgodovino, Ljubljana</dcterms:publisher>
+            <dcterms:publisher>Univerza v Novi Gorici, Nova Gorica</dcterms:publisher>
+            <dcterms:contributor>Žarko Lazarević (moderator)</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2015-01-19</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">MovingImage</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">slv</dcterms:language>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.30448">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>30448</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/30448</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.30448">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Termin porodniški dopust
+                                    v tem prispevku uporabljam v pomenu, ki je zanj veljal v času
+                                    socializma in sicer kot število dni, ki jih lahko koristi ženska
+                                    za nego in varstvo otroka po porodu. (V Sloveniji je pridobil
+                                    pravico do porodniškega dopusta delno tudi moški.) Pravica do
+                                    porodniškega dopusta je tesno povezana z možnostmi žensk, da
+                                    pridobijo ali obdržijo zaposlitev, zato se bom v prispevku
+                                    omejila na povezavo med porodniškim dopustom in zaposlitvijo,
+                                    vendar bom ugotavljala tudi druge ideološke povezave med
+                                    pravicami, zaščito in percepcijo materinskosti, saj je od tega
+                                    odvisna dolžina porodniškega dopusta in možnosti za zaposlitev.
+                                    Takšne so npr. demografske politike, kjer se gibljemo v razponu
+                                    med dolžnostjo rojevati za koristi nacije in med pravico
+                                    rojevati v skladu z lastnimi prepričanji. Diskurzi o povezovanju
+                                    dela in materinstva reflektirajo prevladujoče spolne sheme, ki
+                                    učinkujejo na možnosti žensk za udeležbo v javnem življenju
+                                    torej tudi v plačani zaposlitvi. Jogan (1985) piše o razliki med
+                                    kapitalizmom in socializmom pri možnostih za zaposlitev, ki jih
+                                    imajo v enem ali drugem sistemu ženske. Medtem, ko je v
+                                    kapitalizmu zaposlovanje večinoma omejeno na revnejša
+                                    gospodinjstva, kjer morata biti zaposlena oba partnerja, da
+                                    družina lahko preživi, ker je prepričanje o vezi med materjo in
+                                    otrokom tako zakoreninjeno, da je percepcija zaposlenih žensk
+                                    negativna (patološke ženske), je v socializmu takšno prepričanje
+                                    že preživelo, saj je zaposlitev žensk že nekaj običajnega,
+                                    gospodinjska dela pa se znotraj partnerstva delijo in niso
+                                    omejena zgolj na ženske. Ravno razumevanje spolnih vlog in
+                                    identitet je ključno za možnosti žensk v zaposlovanju.
+                                    Raziskovanje tega fenomena bo potekalo z analizo sprememb
+                                    zakonodaje, ki je urejala pravico do porodniškega dopusta v
+                                    letih od 1945 do 1989 in utemeljevanje teh sprememb v
+                                    znanstveni, strokovni in drugi literaturi. Predvsem me bo
+                                    zanimalo, kakšni, če sploh, so bili predvideni učinki
+                                    zakonodajnih sprememb na možnosti za zaposlitev žensk, na njihov
+                                    dohodek in na zaposlitvene možnosti sploh. Čeprav je ob politiki
+                                    polne zaposlenosti težje raziskati učinke socialnih in delovnih
+                                    pravic na zaposlitvene možnosti, lahko iz literature vendarle
+                                    vidimo dve plati pravic, ki sta bili prisotni tudi v socializmu:
+                                    da so bile ženske zaradi posebne zaščite na delovnem mestu
+                                    izpostavljene možnostim, da so izključene iz uresničevanja
+                                    pravice do dela (Tomšič, 1980: 98-100), hkrati pa so jim pravice
+                                    omogočale, da so ohranjale zaposlitev, saj je dolžina
+                                    porodniškega dopusta zadostovala za nego in varstvo otroka,
+                                    sistem otroškega varstva pa omogočal, da so se vrnile na delo.
+                                </entity:description>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink">
+      <METS:fileGrp USE="THUMB">
+         <METS:file ID="thumbnail">
+            <METS:FLocat LOCTYPE="URL"
+                         xlink:href="http://www.sistory.si/cdn/publikacije/30001-31000/30448/les.jpg"/>
+         </METS:file>
+      </METS:fileGrp>
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="video1" USE="EXTERNAL">
+            <METS:FLocat USE="YOUTUBE"
+                         LOCTYPE="URL"
+                         xlink:href="https://www.youtube.com/embed/4XmMxYBDH6M"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/30422"/>
+         <METS:div TYPE="entity" DMDID="dc.30448" ADMID="premis.30448 entity.30448">
+            <METS:fptr FILEID="thumbnail"/>
+            <METS:fptr FILEID="video1"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

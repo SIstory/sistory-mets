@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/35300"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2016-06-16T11:51:53"
+                 LASTMODDATE="2017-02-10T12:55:55"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.35300" GROUPID="35300">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="slv">Med odmevi in vplivi: oblikovanje norveške nacionalne in kulturne "identitete do druge svetovne vojne ter njegovi odmevi in vplivi na Slovenskem</dcterms:title>
+            <dcterms:title xml:lang="eng">Between reflections and influences: Slovenian reflections on the formation of the Norwegian national and cultural identity until World War II</dcterms:title>
+            <dcterms:creator>Valič, Andreja</dcterms:creator>
+            <dcterms:abstract xml:lang="slv">V svojem prispevku se v kontekstu primerjav z nacionalnim oblikovanjem Slovencev osredotočam na kratek pregled oblikovanja norveške nacionalne identitete v 19. stoletju in v času pred drugo svetovno vojno. Ob nedvomnih vplivih norveške kulture (literature, še posebej dramatike, glasbe in slikarstva) na proces ustvarjanja in krepitve slovenske identitete v času med obema vojnama, namenjam posebno pozornost odmevom osamosvajanja Norveške v letu 1905 v slovenskem časopisju. Norveško nacionalno oblikovanje je vplivalo tudi na prelom v slovenskem liberalnem taboru, ki se je zgodil z izdajo knjige Josipa Vidmarja Kulturni problem slovenstva, kar obravnavam v zadnjem delu prispevka.</dcterms:abstract>
+            <dcterms:abstract xml:lang="eng">By exploring certain parallels with the formation of Slovene national identity this paper brings a brief overview of the formation of Norwegian national identity in the 19th Century and in the period prior to the Second World War. During the interwar period Norwegian culture, particularly literature and especially drama, music, and painting exerted considérable influence upon the process of création and strengthening of Slovene national identity. Of special interest were reactions in Slovene newspapers to the attainment of Norwegian independence in 1905. The formation of Norwegian national identity also influenced the rupture within thè Slovene Liberal Party brought about by the publication of Josip Vidmar’s book Kulturni problem slovenstva (Cultural Issues of Being Slovene); this is discussed in the last part of the paper.</dcterms:abstract>
+            <dcterms:subject xml:lang="slv">nacionalno oblikovanje</dcterms:subject>
+            <dcterms:subject xml:lang="slv">nacionalna identiteta</dcterms:subject>
+            <dcterms:subject xml:lang="slv">Norveška</dcterms:subject>
+            <dcterms:subject xml:lang="slv">vplivi in odmevi na Slovenskem</dcterms:subject>
+            <dcterms:subject xml:lang="eng">national formation</dcterms:subject>
+            <dcterms:subject xml:lang="eng">national identity</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Norway</dcterms:subject>
+            <dcterms:subject xml:lang="eng">influences and reactions in Slovenia</dcterms:subject>
+            <dcterms:publisher>Zveza zgodovinskih društev Slovenije, Ljubljana</dcterms:publisher>
+            <dcterms:contributor>Nevenka Troha (ur.)</dcterms:contributor>
+            <dcterms:contributor>Mojca Šorn (ur.)</dcterms:contributor>
+            <dcterms:contributor>Bojan Balkovec (ur.)</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2008</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">Text</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">slv</dcterms:language>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:dmdSec ID="mods.35300" GROUPID="35300">
+      <METS:mdWrap MDTYPE="MODS" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <mods:relatedItem type="series">
+               <mods:relatedItem type="series">
+                  <mods:titleInfo>
+                     <mods:title>Zbirka zgodovinskega časopisa</mods:title>
+                  </mods:titleInfo>
+                  <mods:part>
+                     <mods:detail type="volumens">
+                        <mods:number>35</mods:number>
+                     </mods:detail>
+                  </mods:part>
+               </mods:relatedItem>
+            </mods:relatedItem>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.35300">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>35300</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/35300#page=315</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.35300">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> V svojem prispevku se v
+                                    kontekstu primerjav z nacionalnim oblikovanjem Slovencev
+                                    osredotočam na kratek pregled oblikovanja norveške nacionalne
+                                    identitete v 19. stoletju in v času pred drugo svetovno vojno.
+                                    Ob nedvomnih vplivih norveške kulture (literature, še posebej
+                                    dramatike, glasbe in slikarstva) na proces ustvarjanja in
+                                    krepitve slovenske identitete v času med obema vojnama, namenjam
+                                    posebno pozornost odmevom osamosvajanja Norveške v letu 1905 v
+                                    slovenskem časopisju. Norveško nacionalno oblikovanje je
+                                    vplivalo tudi na prelom v slovenskem liberalnem taboru, ki se je
+                                    zgodil z izdajo knjige Josipa Vidmarja Kulturni problem
+                                    slovenstva, kar obravnavam v zadnjem delu prispevka. </entity:description>
+               <entity:description xml:lang="eng"> By exploring certain
+                                    parallels with the formation of Slovene national identity this
+                                    paper brings a brief overview of the formation of Norwegian
+                                    national identity in the 19th Century and in the period prior to
+                                    the Second World War. During the interwar period Norwegian
+                                    culture, particularly literature and especially drama, music,
+                                    and painting exerted considérable influence upon the process of
+                                    création and strengthening of Slovene national identity. Of
+                                    special interest were reactions in Slovene newspapers to the
+                                    attainment of Norwegian independence in 1905. The formation of
+                                    Norwegian national identity also influenced the rupture within
+                                    thè Slovene Liberal Party brought about by the publication of
+                                    Josip Vidmar’s book Kulturni problem slovenstva (Cultural Issues
+                                    of Being Slovene); this is discussed in the last part of the
+                                    paper. </entity:description>
+               <entity:page>315</entity:page>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/35237"/>
+         <METS:div TYPE="entity"
+                   DMDID="dc.35300 mods.35300"
+                   ADMID="premis.35300 entity.35300"/>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

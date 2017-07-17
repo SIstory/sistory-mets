@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/20470"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2014-01-08T15:23:15"
+                 LASTMODDATE="2017-02-07T11:46:53"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.20470" GROUPID="20470">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="slv">Nacionalno ali nadnacionalno zgodovinopisje? Jugoslovansko »zgodovinopisje delavskega gibanja« in slovenske posebnosti</dcterms:title>
+            <dcterms:alternative xml:lang="eng">National or Supranational Historiography? The Yugoslav »Historiography of the Workers’ Movement« and Slovenian Particularities</dcterms:alternative>
+            <dcterms:creator>Režek, Mateja</dcterms:creator>
+            <dcterms:abstract xml:lang="slv">V socialistični Jugoslaviji je bilo zgodovinopisje pomembno orodje legitimizacijeoblasti komunistične stranke. Njegovi prednostni nalogi sta postaliiskanje tradicij »naprednih gibanj« v preteklosti in dokazovanje linearnostzgodovinskega razvoja, usmerjenega k nenehnemu napredku. Zgodovinopisjebi se moralo napajati s historičnim materializmom in se usmeriti k marksističnemuproučevanju »zgodovine ljudskih množic«, svoje raziskave pa s starejšihobdobij razširiti na novejšo dobo, zlasti na zgodovino delavskega gibanja inkomunistične partije.Strategija oblasti do zgodovinopisja se je konec petdesetih let nazorno izrazilav politično motiviranem ustanavljanju institucij, ki so se ukvarjale z novejšoin sodobno zgodovino. Domala v vseh jugoslovanskih republikah so nastaliinštituti za zgodovino delavskega gibanja, ki se jim je v začetku šestdesetih letpridružil še zvezni inštitut za proučevanje delavskega gibanja. Hkrati so bile prizveznem in republiških centralnih komitejih ustanovljene zgodovinske komisije,ki naj bi usmerjale delovanje novih inštitutov in zgodovinopisje delavskegagibanja. Na pobudo CK ZKJ je Inštitut za proučevanje delavskega gibanja vBeogradu leta 1963 izdal Pregled istorije Saveza komunista Jugoslavije (Pregledzgodovine Zveze komunistov Jugoslavije), ki naj bi pomenil sintezo dotedanjihraziskav in hkrati postavil temelje projektu zgodovine delavskega gibanjanarodov Jugoslavije, zasnovanem leta 1962 z nastankom koordinacijskegaodbora pri zgodovinski komisiji CK ZKJ. Slovenski zgodovinarji, v prvi vrstiFrance Škerl, so v Pregledu zaznali številne pomanjkljivosti, povezane z neupoštevanjemali skromnim upoštevanjem slovenskih posebnosti, zmotilo pa jihje predvsem zanemarjanje specifik odporniškega gibanja v Sloveniji med drugosvetovno vojno, ki je bil prilagojen slovenskim razmeram in se je zlasti v začetnemobdobju razvijal precej avtonomno. V čedalje bolj zapletenih političnihrazmerah v Jugoslaviji je začel del slovenske politike zgled za svoje delovanjeočitno iskati tudi v Osvobodilni fronti, zato ni naključje, da je bilo leta 1966,ob 25-letnici njene ustanovitve, organizirano prvo znanstveno posvetovanje oOsvobodilni fronti, na katerem so z referati ali v diskusiji poleg zgodovinarjevsodelovali tudi slovenski politiki.Ambiciozni projekt zgodovine delavskega gibanja narodov Jugoslavije, kije bil zasnovan kot marksistična sinteza jugoslovanske sodobne zgodovine, jemedtem skoraj zastal. Pestile so ga številne težave, ki niso bile povezane le sfinanciranjem projekta ter pomanjkanjem strokovnega in hkrati politično sprejemljivegakroga sodelavcev, temveč so izvirale predvsem iz čedalje bolj zaostrenihmedrepubliških in mednacionalnih odnosov. Sodelavci iz različnih republikmed seboj pogosto niso našli skupnega jezika, iskre pa so se kresale zlasti medLjubljano in Beogradom ter, z nekoliko drugačnih izhodišč, tudi med Zagrebomin Beogradom. Metod Mikuž, ki je bil predviden za enega ključnih piscevjugoslovanske zgodovine delavskega gibanja, je že leta 1966 v pogovoru z MitjoRibičičem poudaril, da načrt skupne zgodovine delavskega gibanja sploh nirealen. »Zgodovino naj obdela vsak jugoslovanski narod sam, potem pa bomovideli, kaj imamo skupnega«, je menil Mikuž, podobno pa je razmišljal tudidel slovenske politike. Projekt jugoslovanske zgodovine delavskega gibanja seje iz šestdesetih zavlekel v sedemdeseta in osemdeseta leta, a dlje od objavdokumentov, bibliografi j, Hronologije radničkog pokreta i SKJ leta 1980 terdopolnjene Istorije Saveza komunista Jugoslavije v letih 1977 in 1985 ni prišel.</dcterms:abstract>
+            <dcterms:abstract xml:lang="eng">In the socialist Yugoslavia historiography was an important tool for the legitimisationof the Communist Party rule. Its priority tasks became searching forthe traditions of »progressive movements« in the past and proving the linearityof historical development, aimed at constant progress. Historiography shouldbuild on historical materialism and orient itself towards the Marxist explorationof the »history of the people’s masses«, as well as extend its research from theolder periods to the more recent times, especially to the history of the workers’movement and the Communist Party.In the end of the 1950s the strategy of the authorities with regard to historiographybecame apparent in the politically-motivated establishment of institutionsdealing with contemporary and modern history. Institutes for the Historyof the Workers’ Movement were established in almost all Yugoslav republics,and in the beginning of the 1960s they were also joined by the federal Workers’Movement Research Institute. At the same time historical commissions wereestablished with the federal and republican central committees with the aim ofmanaging the activities of the new institutes and historiography of the workers’movement. At the initiative of the Central Committee of the League of Communistsof Yugoslavia (CK ZKJ), in 1963 the Workers’ Movement Research Institutein Belgrade published the Pregled istorije Saveza komunista Jugoslavije(Overview of the History of the League of Communists of Yugoslavia), whichsupposedly represented a synthesis of the research carried out to that day as wellas the foundation for the history of the workers’ movement of the nations ofYugoslavia project, outlined in 1962 with the establishment of the coordinatingcommittee of the CK ZKJ historical commission. Slovenian historians, especiallyFrance Škerl, detected numerous deficiencies in the Overview, related tothe disregard or modest regard for Slovenian particularities, and they were especiallyconcerned by the lack of attention to the specific aspects of the resistancemovement in Slovenia during World War II, which had been adapted to the Sloveniansituation and had developed quite autonomously, especially in the initialperiod. In the increasingly complicated political circumstances in Yugoslavia apart of the Slovenian politics obviously started looking towards the LiberationFront as a model for its operations. Therefore it is not a coincidence that in 1966,at the 25th anniversary of its establishment, the fi rst scientifi c discussion aboutthe Liberation Front was organised. Historians as well as Slovenian politiciansparticipated, either by presenting papers or taking part in the discussion.Meanwhile the ambitious history of the workers’ movement of the nationsof Yugoslavia project, which had been envisioned as a Marxist synthesis of thecontemporary Yugoslav history, came to almost a complete halt. It was beset bymany problems, not only related to financing and lack of expert and simultaneouslypolitically acceptable circle of associates, but also stemming from theincreasingly tense relations between the republics and nations. The participantsfrom different republics were often unable to find common ground, and disagreementswere especially frequent between Ljubljana and Belgrade as well as– due to different reasons – also between Zagreb and Belgrade. Already in 1966– in an interview with Mitja Ribičič – Metod Mikuž, who was to be one of thekey writers of the Yugoslav History of the Workers’ Movement, underlined thatthe plans entailing the common history of the workers’ movement were not at allrealistic. »Every Yugoslav nation should analyse its own history itself, and thenwe shall see what we have in common,« Mikuž thought, and a part of the Slovenianpolitics thought along similar lines. The history of the workers’ movementof the nations of Yugoslavia project dragged out from the sixties to the seventiesand eighties, but it never went further than the publication of documents, bibliographies,Hronologija radničkog pokreta i SKJ (Chronology of the Workers’Movement and League of Communists of Yugoslavia) in 1980 and the extendedIstorija Saveza komunista Jugoslavija (History of the League of Communists ofYugoslavia) in 1977 and 1985.</dcterms:abstract>
+            <dcterms:subject xml:lang="slv">Slovenija</dcterms:subject>
+            <dcterms:subject xml:lang="slv">zgodovina</dcterms:subject>
+            <dcterms:subject xml:lang="slv">Jugoslavija</dcterms:subject>
+            <dcterms:subject xml:lang="slv">posvetovanja</dcterms:subject>
+            <dcterms:subject xml:lang="slv">1941-1991</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Slovenia</dcterms:subject>
+            <dcterms:subject xml:lang="eng">history</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Yugoslavia</dcterms:subject>
+            <dcterms:subject xml:lang="eng">symposium</dcterms:subject>
+            <dcterms:subject xml:lang="eng">1941-1991</dcterms:subject>
+            <dcterms:publisher>Inštitut za novejšo zgodovino, Ljubljana</dcterms:publisher>
+            <dcterms:publisher>Muzej novejše zgodovine Slovenije, Ljubljana</dcterms:publisher>
+            <dcterms:contributor>Marko Zajc (moderator)</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2013-11-29</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">MovingImage</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">slv</dcterms:language>
+            <dcterms:license xsi:type="dcterms:URI">http://creativecommons.org/licenses/by-nc-nd/2.5/si/</dcterms:license>
+            <dcterms:license xml:lang="slv">Priznanje avtorstva-Nekomercialo-Brez predelav 2.5 Slovenija (CC BY-NC-ND 2.5 SI)</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.20470">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>20470</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/20470</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.20470">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="slv">
+                  <p xmlns="http://sistory.si/schema/sistory/v3/entity">V socialistični Jugoslaviji je bilo zgodovinopisje pomembno
+                                        orodje legitimizacijeoblasti komunistične stranke. Njegovi
+                                        prednostni nalogi sta postaliiskanje tradicij »naprednih
+                                        gibanj« v preteklosti in dokazovanje linearnostzgodovinskega
+                                        razvoja, usmerjenega k nenehnemu napredku. Zgodovinopisjebi
+                                        se moralo napajati s historičnim materializmom in se
+                                        usmeriti k marksističnemuproučevanju »zgodovine ljudskih
+                                        množic«, svoje raziskave pa s starejšihobdobij razširiti na
+                                        novejšo dobo, zlasti na zgodovino delavskega gibanja
+                                        inkomunistične partije.Strategija oblasti do zgodovinopisja
+                                        se je konec petdesetih let nazorno izrazilav politično
+                                        motiviranem ustanavljanju institucij, ki so se ukvarjale z
+                                        novejšoin sodobno zgodovino. Domala v vseh jugoslovanskih
+                                        republikah so nastaliinštituti za zgodovino delavskega
+                                        gibanja, ki se jim je v začetku šestdesetih letpridružil še
+                                        zvezni inštitut za proučevanje delavskega gibanja. Hkrati so
+                                        bile prizveznem in republiških centralnih komitejih
+                                        ustanovljene zgodovinske komisije,ki naj bi usmerjale
+                                        delovanje novih inštitutov in zgodovinopisje
+                                        delavskegagibanja. Na pobudo CK ZKJ je Inštitut za
+                                        proučevanje delavskega gibanja vBeogradu leta 1963 izdal
+                                        Pregled istorije Saveza komunista Jugoslavije
+                                        (Pregledzgodovine Zveze komunistov Jugoslavije), ki naj bi
+                                        pomenil sintezo dotedanjihraziskav in hkrati postavil
+                                        temelje projektu zgodovine delavskega gibanjanarodov
+                                        Jugoslavije, zasnovanem leta 1962 z nastankom
+                                        koordinacijskegaodbora pri zgodovinski komisiji CK ZKJ.
+                                        Slovenski zgodovinarji, v prvi vrstiFrance Škerl, so v
+                                        Pregledu zaznali številne pomanjkljivosti, povezane z
+                                        neupoštevanjemali skromnim upoštevanjem slovenskih
+                                        posebnosti, zmotilo pa jihje predvsem zanemarjanje specifik
+                                        odporniškega gibanja v Sloveniji med drugosvetovno vojno, ki
+                                        je bil prilagojen slovenskim razmeram in se je zlasti v
+                                        začetnemobdobju razvijal precej avtonomno. V čedalje bolj
+                                        zapletenih političnihrazmerah v Jugoslaviji je začel del
+                                        slovenske politike zgled za svoje delovanjeočitno iskati
+                                        tudi v Osvobodilni fronti, zato ni naključje, da je bilo
+                                        leta 1966,ob 25-letnici njene ustanovitve, organizirano prvo
+                                        znanstveno posvetovanje oOsvobodilni fronti, na katerem so z
+                                        referati ali v diskusiji poleg zgodovinarjevsodelovali tudi
+                                        slovenski politiki.Ambiciozni projekt zgodovine delavskega
+                                        gibanja narodov Jugoslavije, kije bil zasnovan kot
+                                        marksistična sinteza jugoslovanske sodobne zgodovine,
+                                        jemedtem skoraj zastal. Pestile so ga številne težave, ki
+                                        niso bile povezane le sfinanciranjem projekta ter
+                                        pomanjkanjem strokovnega in hkrati politično
+                                        sprejemljivegakroga sodelavcev, temveč so izvirale predvsem
+                                        iz čedalje bolj zaostrenihmedrepubliških in mednacionalnih
+                                        odnosov. Sodelavci iz različnih republikmed seboj pogosto
+                                        niso našli skupnega jezika, iskre pa so se kresale zlasti
+                                        medLjubljano in Beogradom ter, z nekoliko drugačnih
+                                        izhodišč, tudi med Zagrebomin Beogradom. Metod Mikuž, ki je
+                                        bil predviden za enega ključnih piscevjugoslovanske
+                                        zgodovine delavskega gibanja, je že leta 1966 v pogovoru z
+                                        MitjoRibičičem poudaril, da načrt skupne zgodovine
+                                        delavskega gibanja sploh nirealen. »Zgodovino naj obdela
+                                        vsak jugoslovanski narod sam, potem pa bomovideli, kaj imamo
+                                        skupnega«, je menil Mikuž, podobno pa je razmišljal tudidel
+                                        slovenske politike. Projekt jugoslovanske zgodovine
+                                        delavskega gibanja seje iz šestdesetih zavlekel v
+                                        sedemdeseta in osemdeseta leta, a dlje od objavdokumentov,
+                                        bibliografi j, Hronologije radničkog pokreta i SKJ leta 1980
+                                        terdopolnjene Istorije Saveza komunista Jugoslavije v letih
+                                        1977 in 1985 ni prišel.</p>
+               </entity:description>
+               <entity:description xml:lang="eng">
+                  <p xmlns="http://sistory.si/schema/sistory/v3/entity">In the socialist Yugoslavia historiography was an important
+                                        tool for the legitimisationof the Communist Party rule. Its
+                                        priority tasks became searching forthe traditions of
+                                        »progressive movements« in the past and proving the
+                                        linearityof historical development, aimed at constant
+                                        progress. Historiography shouldbuild on historical
+                                        materialism and orient itself towards the Marxist
+                                        explorationof the »history of the people’s masses«, as well
+                                        as extend its research from theolder periods to the more
+                                        recent times, especially to the history of the
+                                        workers’movement and the Communist Party.In the end of the
+                                        1950s the strategy of the authorities with regard to
+                                        historiographybecame apparent in the politically-motivated
+                                        establishment of institutionsdealing with contemporary and
+                                        modern history. Institutes for the Historyof the Workers’
+                                        Movement were established in almost all Yugoslav
+                                        republics,and in the beginning of the 1960s they were also
+                                        joined by the federal Workers’Movement Research Institute.
+                                        At the same time historical commissions wereestablished with
+                                        the federal and republican central committees with the aim
+                                        ofmanaging the activities of the new institutes and
+                                        historiography of the workers’movement. At the initiative of
+                                        the Central Committee of the League of Communistsof
+                                        Yugoslavia (CK ZKJ), in 1963 the Workers’ Movement Research
+                                        Institutein Belgrade published the Pregled istorije Saveza
+                                        komunista Jugoslavije(Overview of the History of the League
+                                        of Communists of Yugoslavia), whichsupposedly represented a
+                                        synthesis of the research carried out to that day as wellas
+                                        the foundation for the history of the workers’ movement of
+                                        the nations ofYugoslavia project, outlined in 1962 with the
+                                        establishment of the coordinatingcommittee of the CK ZKJ
+                                        historical commission. Slovenian historians,
+                                        especiallyFrance Škerl, detected numerous deficiencies in
+                                        the Overview, related tothe disregard or modest regard for
+                                        Slovenian particularities, and they were especiallyconcerned
+                                        by the lack of attention to the specific aspects of the
+                                        resistancemovement in Slovenia during World War II, which
+                                        had been adapted to the Sloveniansituation and had developed
+                                        quite autonomously, especially in the initialperiod. In the
+                                        increasingly complicated political circumstances in
+                                        Yugoslavia apart of the Slovenian politics obviously started
+                                        looking towards the LiberationFront as a model for its
+                                        operations. Therefore it is not a coincidence that in
+                                        1966,at the 25th anniversary of its establishment, the fi
+                                        rst scientifi c discussion aboutthe Liberation Front was
+                                        organised. Historians as well as Slovenian
+                                        politiciansparticipated, either by presenting papers or
+                                        taking part in the discussion.Meanwhile the ambitious
+                                        history of the workers’ movement of the nationsof Yugoslavia
+                                        project, which had been envisioned as a Marxist synthesis of
+                                        thecontemporary Yugoslav history, came to almost a complete
+                                        halt. It was beset bymany problems, not only related to
+                                        financing and lack of expert and simultaneouslypolitically
+                                        acceptable circle of associates, but also stemming from
+                                        theincreasingly tense relations between the republics and
+                                        nations. The participantsfrom different republics were often
+                                        unable to find common ground, and disagreementswere
+                                        especially frequent between Ljubljana and Belgrade as well
+                                        as– due to different reasons – also between Zagreb and
+                                        Belgrade. Already in 1966– in an interview with Mitja
+                                        Ribičič – Metod Mikuž, who was to be one of thekey writers
+                                        of the Yugoslav History of the Workers’ Movement, underlined
+                                        thatthe plans entailing the common history of the workers’
+                                        movement were not at allrealistic. »Every Yugoslav nation
+                                        should analyse its own history itself, and thenwe shall see
+                                        what we have in common,« Mikuž thought, and a part of the
+                                        Slovenianpolitics thought along similar lines. The history
+                                        of the workers’ movementof the nations of Yugoslavia project
+                                        dragged out from the sixties to the seventiesand eighties,
+                                        but it never went further than the publication of documents,
+                                        bibliographies,Hronologija radničkog pokreta i SKJ
+                                        (Chronology of the Workers’Movement and League of Communists
+                                        of Yugoslavia) in 1980 and the extendedIstorija Saveza
+                                        komunista Jugoslavija (History of the League of Communists
+                                        ofYugoslavia) in 1977 and 1985.</p>
+               </entity:description>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="video1" USE="EXTERNAL">
+            <METS:FLocat USE="YOUTUBE"
+                         LOCTYPE="URL"
+                         xlink:href="//www.youtube.com/embed/nxpw_B0w150"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/20426"/>
+         <METS:div TYPE="entity" DMDID="dc.20470" ADMID="premis.20470 entity.20470">
+            <METS:fptr FILEID="video1"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

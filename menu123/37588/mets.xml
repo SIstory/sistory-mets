@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/37588"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2017-05-19T11:08:33"
+                 LASTMODDATE="2017-05-19T11:11:36"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.37588" GROUPID="37588">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="slv">Ženske in prva svetovna vojna</dcterms:title>
+            <dcterms:alternative xml:lang="eng">Women and World War I</dcterms:alternative>
+            <dcterms:creator>Verginella, Marta</dcterms:creator>
+            <dcterms:description xml:lang="slv">Kako je prva svetovna vojna posegla v razmerje med spoloma, je ženskam dejansko prinesla več svobode, bolj prost dostop do trga, večjo moč v družbi glede na to, da so se njihove odgovornosti in obveznosti v družinah, kjer so moški člani odšli v vojno, močno povečale? Panoramski pregled doslej opravljenih študij na to temo, kaže, da ni enoznačnega odgovora. Velika vojna je marsikje v Evropi in tudi na Slovenskem odprla ženskam možnosti za svobodnejše delovanje, marsikje pa so politične in administrativne oblasti poskušale preprečiti radikalnejše spremembe med spoloma v družbi. Prispevek bo po eni strani poskušal umestiti slovenski primer v evropski kontekst in opozoriti na podobnosti oz. razlike s širše avstrijskim in evropskim okvirom, po drugi strani pa bo problematiziral vzroke za površno zgodovinopisno obravnavo učinkov vojne na žensko prebivalstvo.</dcterms:description>
+            <dcterms:subject xml:lang="slv">ženske</dcterms:subject>
+            <dcterms:subject xml:lang="slv">prva svetovna vojna</dcterms:subject>
+            <dcterms:subject xml:lang="slv">zgodovina spolov</dcterms:subject>
+            <dcterms:subject xml:lang="slv">velika vojna</dcterms:subject>
+            <dcterms:subject xml:lang="slv">zgodovinopisje</dcterms:subject>
+            <dcterms:subject xml:lang="eng">women</dcterms:subject>
+            <dcterms:subject xml:lang="eng">World War I</dcterms:subject>
+            <dcterms:subject xml:lang="eng">gender history</dcterms:subject>
+            <dcterms:subject xml:lang="eng">great war</dcterms:subject>
+            <dcterms:subject xml:lang="eng">histography</dcterms:subject>
+            <dcterms:publisher>Zveza zgodovinskih društev Slovenije, Ljubljana</dcterms:publisher>
+            <dcterms:publisher>Inštitut za novejšo zgodovino, Ljubljana</dcterms:publisher>
+            <dcterms:contributor>Marko Štepec (moderator)</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2014-10-23</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">MovingImage</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">slv</dcterms:language>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.37588">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>37588</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/37588</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.37588">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Kako je prva svetovna
+                                    vojna posegla v razmerje med spoloma, je ženskam dejansko
+                                    prinesla več svobode, bolj prost dostop do trga, večjo moč v
+                                    družbi glede na to, da so se njihove odgovornosti in obveznosti
+                                    v družinah, kjer so moški člani odšli v vojno, močno povečale?
+                                    Panoramski pregled doslej opravljenih študij na to temo, kaže,
+                                    da ni enoznačnega odgovora. Velika vojna je marsikje v Evropi in
+                                    tudi na Slovenskem odprla ženskam možnosti za svobodnejše
+                                    delovanje, marsikje pa so politične in administrativne oblasti
+                                    poskušale preprečiti radikalnejše spremembe med spoloma v
+                                    družbi. Prispevek bo po eni strani poskušal umestiti slovenski
+                                    primer v evropski kontekst in opozoriti na podobnosti oz.
+                                    razlike s širše avstrijskim in evropskim okvirom, po drugi
+                                    strani pa bo problematiziral vzroke za površno zgodovinopisno
+                                    obravnavo učinkov vojne na žensko prebivalstvo. </entity:description>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="video1" USE="EXTERNAL">
+            <METS:FLocat USE="YOUTUBE"
+                         LOCTYPE="URL"
+                         xlink:href="//www.youtube.com/embed/ZOzAcuU7cQ8"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37584"/>
+         <METS:div TYPE="entity" DMDID="dc.37588" ADMID="premis.37588 entity.37588">
+            <METS:fptr FILEID="video1"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

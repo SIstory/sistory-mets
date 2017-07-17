@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/37262"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2017-03-13T09:16:21"
+                 LASTMODDATE="2017-03-14T14:32:24"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.81" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.37262" GROUPID="37262">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="eng">Phantom Borders in Croatia: The Case Study of the Primorje-Gorski Kotar County</dcterms:title>
+            <dcterms:alternative xml:lang="slv">Fantomske meje na Hrvaškem: študija primera Primorsko-goranske županije</dcterms:alternative>
+            <dcterms:creator>Bagarić, Petar</dcterms:creator>
+            <dcterms:subject xml:lang="slv">fantomske meje</dcterms:subject>
+            <dcterms:subject xml:lang="slv">Hrvaška</dcterms:subject>
+            <dcterms:subject xml:lang="slv">primorsko-goranska županija</dcterms:subject>
+            <dcterms:subject xml:lang="eng">phantom borders</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Croatia</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Primorje-Gorski Kotar County</dcterms:subject>
+            <dcterms:publisher>Inštitut za novejšo zgodovino, Ljubljana</dcterms:publisher>
+            <dcterms:publisher>Oddelek za zgodovino Filozofske fakultete Univerze v Ljubljani, Ljubljana</dcterms:publisher>
+            <dcterms:contributor>Marko Zajc</dcterms:contributor>
+            <dcterms:contributor>Jernej Kosi</dcterms:contributor>
+            <dcterms:contributor>Zdenko Čepič</dcterms:contributor>
+            <dcterms:contributor>Neja Blaj Hribar</dcterms:contributor>
+            <dcterms:contributor>Nataša Sardžoska</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:Period">start=24.11.2016; end=26.11.2016; name=; scheme=; </dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">MovingImage</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">eng</dcterms:language>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.37262">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>37262</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/37262</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.37262">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Fantomske meje so tiste
+                                    nekdanje meje, ki še vedno vplivajo na sodobni svet.
+                                    Identificiramo jih lahko z volilno geografijo. Ta prispevek bo
+                                    posvečen fantomskih mejam, ki jih lahko opazimo na ozemlju
+                                    Primorsko-goranske županije z glavnim mestom Reko. Ker so po
+                                    ozemlju te županije skozi zgodovino potekale številne meje, bodo
+                                    v prispevku analizirane morebitne fantomske meje kot posledica
+                                    političnih delitev v obdobju 1867–1947. Pri analizi rezultatov
+                                    volitev in referendumov na ozemlju te županije v obdobju med
+                                    letoma 2009 in 2015 z metodami volilne geografije se bodo tako
+                                    upoštevali morebitni učinki meja Kraljevine Hrvaške in
+                                    Slavonije, mesta Reka (Fiume) in avstrijske Istre ter rapalske
+                                    meje med Kraljevino Italijo, Kraljevino Srbov, Hrvatov in
+                                    Slovencev in Svobodno državo reko, pa tudi meje med Kraljevino
+                                    Italijo in Neodvisno državo Hrvaško. Zadevne volitve in
+                                    referendumi vključujejo hrvaške predsedniške volitve v letih
+                                    2009/10 in 2014/15, referendum o pristopu Hrvaške k EU leta
+                                    2012, referendum o definiciji zakonske zveze leta 2013, volitve
+                                    v parlament EU leta 2013 in 2014 ter lokalne volitve leta 2013.
+                                    Podatki bodo analizirani na ravni občin. Rezultati hrvaških
+                                    parlamentarnih volitev bodo izključeni, ker je za namene
+                                    parlamentarnih volitev županija razdeljena na dve volilni
+                                    okrožji (sedmo in osmo), volivci v obeh okrožjih pa imajo
+                                    običajno na izbiro različno število seznamov kandidatov. </entity:description>
+               <entity:description xml:lang="eng"> The phantom borders are
+                                    those former borders that continue to structure the modern
+                                    world. Phantom borders are identifiable through the electoral
+                                    geography. The topic of this work will be the phantom borders
+                                    visible on the territory of the Primorje-Gorski Kotar County
+                                    with the capital in Rijeka. Since the territory of that county
+                                    has been crossed by many borders throughout its history, this
+                                    work will analyse the eventual phantom borders, which would be
+                                    the consequence of political divisions throughout the period
+                                    1867-1947. So, the potential effects of the borders of
+                                    Croatia-Slavonia, City of Rijeka (Fiume) and Austrian Istria as
+                                    well the Rapallo border line between Kingdom of Italy, Kingdom
+                                    of Serbs, Croats and Slovenes and Free State of Fiume as well as
+                                    border between Kingdom of Italy and Independent State of Croatia
+                                    would be taken into account in analysing the results of the
+                                    elections and referenda conducted on the territory of the county
+                                    in the period between 2009 and 2015 through the methods of
+                                    electoral geography. The elections and referenda in question
+                                    include, two Croatian presidential elections conducted in
+                                    2009/10 and 2014/15, referendum on Croatia's EU accession in
+                                    2012, referendum on the definition of marriage conducted in
+                                    2013, EU Parliament elections in 2013 and 2014 and local
+                                    elections conducted in 2013. The data would be analysed on the
+                                    level of municipalities. The results for Croatian parliamentary
+                                    elections will be excluded, because for the parliamentary
+                                    elections the county is divided into two electoral districts
+                                    (Seventh and Eighth) with usually different numbers of candidate
+                                    lists offered to the voters in each of them. </entity:description>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="video1" USE="EXTERNAL">
+            <METS:FLocat USE="YOUTUBE"
+                         LOCTYPE="URL"
+                         xlink:href="https://www.youtube.com/embed/2ipDsnc6RDk"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37178"/>
+         <METS:div TYPE="entity" DMDID="dc.37262" ADMID="premis.37262 entity.37262">
+            <METS:fptr FILEID="video1"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

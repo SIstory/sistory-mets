@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/37651"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2017-05-25T11:00:23"
+                 LASTMODDATE="2017-05-25T11:02:44"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.37651" GROUPID="37651">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="eng">From periphery to national leadership. Norwegian teachers and their associations in the 19th Century</dcterms:title>
+            <dcterms:alternative xml:lang="nor">Fra periferi til nasjonalt lederskap. Norske lærere og deres organisasjoner i det 19. århundre</dcterms:alternative>
+            <dcterms:creator>Skogrand, Baard Olav</dcterms:creator>
+            <dcterms:description xml:lang="eng">The remarkable ascent of the Norwegian teaching profession in the 19th century mirrors the progress and even revolutionizing of the Norwegian school system during this century. At the beginning of the century we find the typical Norwegian teacher as a rather peripheral and low status figure, the representative of the ambulating school established through the school law of 1739. These teachers had mostly only received some 73 elementary instruction by the local priests, and were often poorly treated in the communities. Being a teacher was considered a way of living for “weak subjects” that would not succeed on other venues. If we move forward to the end of the century we find the teachers profession in quite a different position: the teachers have now become the self-conscious forefront of the national movement, agents of new and self-conscious national culture, and carriers of the attitude and learning of this culture. The school institution is no longer an appendix to the religious and moral upbringing of the families, but the locus for the creation of modern citizens. The teachers associations and their history provide us with a great material for understanding these processes. From the beginning in the 1820 as fragmented, local initiatives, mostly concerned with teaching techniques, to the highly political groups of the second half of the century, the associations development mirror that of Norwegian school history itself. It is this development that will be presented with some examples in my contribution to the Symposium 2013.</dcterms:description>
+            <dcterms:description xml:lang="nor">Tema for dette innlegget vil være den norsle lærerstandens veldige statusheving på 1800-tallet og hvordan dette henger sammen med og gjenspeiler skolens store endringer i dette århundret. Ved inngangen til århundret finner vi den norske læreren som en temmelig perifer figur. Omgangskolelæreren var lavt lønnet, lavt utdannet og lavt ansett i bygden der han gikk rundt på gårdene med skrinet sitt. Noen var seminarister, men de fleste hadde bare fått noen enkle instruksjoner hos presten. Det var en vanlig oppfatning at de utvalgte lærene var «svakere Subjæcter» som kanskje ikke hadde andre muligheter, bøndene så nok helst ned på slike personer som ikke bygde på egen formue. Om vi flytter oss frem til århundrets siste tid finner vi derimot den norske lærerstanden som den selvbevisste avantgarde, frontsoldatene i den nasjonale moderniseringsprosessen. Lærerne var den nasjonale bevegelsens kjernetropp og bærere av denne bevegelsens sentrale dannelsesprogram. Skoleinstitusjonen var ikke lenger bare en støtte til den moralske og religiøse oppdragelse som i siste instans hørte hjemmene til, men stedet for den viktige oppdragelse av medborgere for den moderne stat. Lærerforeningene og deres historie gir et glimrende inntak og materiale til forståelsen av disse prosessene. Fra 1820-årenenes fragmenterte og famlende oppstart, der læreteknikker stod i sentrum, til de politiserte gruppene fra midten av århundret og fremover: lærerforeningene gjenspeiler den større historien. Min presentasjon vil vise noen eksempler fra denne utviklingen, og si noe om de generelle trekkene ved dette.</dcterms:description>
+            <dcterms:subject xml:lang="slv">zgodovina</dcterms:subject>
+            <dcterms:subject xml:lang="slv">šolstvo</dcterms:subject>
+            <dcterms:subject xml:lang="slv">muzej</dcterms:subject>
+            <dcterms:subject xml:lang="eng">history</dcterms:subject>
+            <dcterms:subject xml:lang="eng">school system</dcterms:subject>
+            <dcterms:subject xml:lang="eng">museum</dcterms:subject>
+            <dcterms:publisher>Slovenski šolski muzej, Ljubljana</dcterms:publisher>
+            <dcterms:publisher>Zveza zgodovinskih društev Slovenije, Ljubljana</dcterms:publisher>
+            <dcterms:publisher>ICOM Slovenija, Celje</dcterms:publisher>
+            <dcterms:publisher>Inštitut za novejšo zgodovino, Ljubljana</dcterms:publisher>
+            <dcterms:contributor>Ulla Nitsch (moderator</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2013-06-26</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">MovingImage</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">eng</dcterms:language>
+            <dcterms:license xsi:type="dcterms:URI">http://creativecommons.org/licenses/by-nc-nd/2.5/si/</dcterms:license>
+            <dcterms:license xml:lang="slv">Priznanje avtorstva-Nekomercialo-Brez predelav 2.5 Slovenija (CC BY-NC-ND 2.5 SI)</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.37651">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>37651</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/37651</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.37651">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="eng">
+                  <pre xmlns="http://sistory.si/schema/sistory/v3/entity">The remarkable ascent of the Norwegian teaching profession in the 19th century mirrors the progress and
+even revolutionizing of the Norwegian school system during this century. At the beginning of the century we
+find the typical Norwegian teacher as a rather peripheral and low status figure, the representative of the
+ambulating school established through the school law of 1739. These teachers had mostly only received some
+73
+elementary instruction by the local priests, and were often poorly treated in the communities. Being a teacher
+was considered a way of living for “weak subjects” that would not succeed on other venues.
+If we move forward to the end of the century we find the teachers profession in quite a different
+position: the teachers have now become the self-conscious forefront of the national movement, agents of new
+and self-conscious national culture, and carriers of the attitude and learning of this culture. The school
+institution is no longer an appendix to the religious and moral upbringing of the families, but the locus for the
+creation of modern citizens. The teachers associations and their history provide us with a great material for
+understanding these processes. From the beginning in the 1820 as fragmented, local initiatives, mostly
+concerned with teaching techniques, to the highly political groups of the second half of the century, the
+associations development mirror that of Norwegian school history itself. It is this development that will be
+presented with some examples in my contribution to the Symposium 2013.</pre>
+               </entity:description>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="video1" USE="EXTERNAL">
+            <METS:FLocat USE="YOUTUBE"
+                         LOCTYPE="URL"
+                         xlink:href="//www.youtube.com/embed/vsbpXlkYqG4"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37650"/>
+         <METS:div TYPE="entity" DMDID="dc.37651" ADMID="premis.37651 entity.37651">
+            <METS:fptr FILEID="video1"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

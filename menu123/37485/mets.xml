@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/37485"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2017-04-18T07:52:59"
+                 LASTMODDATE="2017-05-16T12:16:41"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.37485" GROUPID="37485">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="slv">Odvetnik in oblast</dcterms:title>
+            <dcterms:title xml:lang="slv">dr. Igor Rosina (1900-1969)</dcterms:title>
+            <dcterms:title xml:lang="slv">Znanstveni posvet na Pravni fakulteti Univerze v Ljubljani</dcterms:title>
+            <dcterms:title xml:lang="slv">Ljubljana, 10. november 2016</dcterms:title>
+            <dcterms:description xml:lang="slv">»Umrl je nekdanji športni delavec«, so besede, ki so dr. Igorja Rosino pospremile v slovenskem dnevniku Večer ob njegovi smrti leta 1969. Igor Rosina je bil resda tudi član sokolske organizacije, ki je bila tudi športna organizacija, vendar pa lakoničnost zapisa in relativna nevtralnost edine izpostavljene dejavnosti zamolči marsikaj, kar je bilo v njegovem življenju in delu res pomembnega. Bralcu se je tako vtisnila misel, da je bil Igor Rosina eden od prizadevnih slovenskih športnih delavcev in nič več. Oznaka »športni delavec« je namreč njegovo podobo zamejila le na dejavnost, ki je skorajda po definiciji nepristranska, nepolitična in zmeraj ter povsod naklonjeno sprejeta. Toda Rosina seveda ni bil prisoten zgolj na področju telesne kulture. Predvsem je bil pred drugo svetovno vojno dolga leta vidno družbeno in politično angažiran intelektualec, ob tem pa seveda odvetnik, dejaven tudi v strokovnem tisku, in zvest svojemu poklicnemu poslanstvu. Med kolegi je bil cenjen, kar se je takoj po koncu druge svetovne vojne pokazalo tudi tako, da je pod vodstvom posebnega delegata Ministrstva za pravosodje pri Odvetniški zbornici kot eden od t. i. zaupnikov pomagal pri vzpostavljanju odvetništva v Mariboru. Prav Odvetniška zbornica se ga je ob njegovi smrti z osmrtnico tudi dostojno spomnila v časopisu Delo. Dr. Igor Rosina se je po kapitulaciji Italije leta 1943 pridružil partizanom. Od leta 1944 je opravljal funkcijo pravnega referenta pri SNOS, pozneje pri Narodni vladi LRS, proti koncu vojne pa so mu poverili vodenje štajerskega odseka Komisije za ugotavljanje zločinov okupatorjev in njihovih pomagačev. V tej funkciji je leta 1944 pripravil poročilo o ravnanju s pripadniki nemške narodnosti po koncu vojne in v njem zastopal stališče, da bi morali za kazniva dejanja pripadnikov okupatorja in njegovih sodelavcev izvesti kazenske postopke in ugotoviti njihovo individualno krivdo. Toda kljub pripadnosti narodnoosvobodilnemu gibanju, ki mu je dal na razpolago vse svoje strokovno znanje in moči, so se razmere v pozni pomladi 1947 za Rosino drastično spremenile. Posebna Komisija za presojo pravice do opravljanja odvetništva pri Vladi LRS mu je odvetništvo odvzela. Rosina je pravico tako izgubil za več kot desetletje, namesto svojega primarnega poklica pa je bil prisiljen delovati drugje. Zamolčana je bila tudi njegova napredna predvojna politična dejavnost. Ker je anonimnost, v katero je bil Igor Rosina potisnjen po vojni, botrovala temu, da je javnosti ostal praktično nepoznan, in ker je njegova povojna usoda značilna za številne intelektualce, med katerimi je bilo nemalo pravnikov, se bodo raziskovalci na znanstvenem posvetu med drugim lotili naslednjih vprašanj: Kdo je bil Igor Rosina? Od kod je prihajal? Kaj je za njegovo življenjsko pot pomenila občutljivost za aktualna družbena in narodnopolitična vprašanja, ki jo je pokazal že v dvajsetih letih 20. stoletja in kakšen svetovni nazor je s svojim širokim političnim in publicističnim delovanjem izoblikoval v času med svetovnima vojnama? Kaj je pomenilo dejstvo, da je bil odvetnik in da je izhajal iz rodbine uglednega pravnika in politika? Kako se je opredeljeval po letu 1941? Zakaj je prišel v navzkrižje z oblastjo in kako je naposled po koncu vojne živel in deloval? Vpogled v njegovo življenje in delo bodo raziskovalci skušali kar najbolj vpeti v kontekst časa in prostora in ju osvetliti s podobnimi usodami njegovih kolegov. Odvetnika in politika bodo najprej predstavili v okviru njegove družine, zlasti očeta, odvetnika in deželnozborskega poslanca dr. Frana Rosine, nato pa mu bodo sledili skozi spremenljive politične razmere prve jugoslovanske države, druge svetovne vojne, pa vse v povojna leta.</dcterms:description>
+            <dcterms:subject xml:lang="slv">20. stoletje</dcterms:subject>
+            <dcterms:subject xml:lang="eng">20th century</dcterms:subject>
+            <dcterms:publisher>Inštitut za novejšo zgodovino, Ljubljana</dcterms:publisher>
+            <dcterms:publisher>Pravna fakulteta Univerze v Ljubljani, Ljubljana</dcterms:publisher>
+            <dcterms:contributor>Filip Čuček</dcterms:contributor>
+            <dcterms:contributor>Jure Gašparič</dcterms:contributor>
+            <dcterms:contributor>Katja Škrubej</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2016-11-10</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">MovingImage</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">slv</dcterms:language>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.37485">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>37485</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/37485</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.37485">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> »Umrl je nekdanji
+                                    športni delavec«, so besede, ki so dr. Igorja Rosino pospremile
+                                    v slovenskem dnevniku Večer ob njegovi smrti leta 1969. Igor
+                                    Rosina je bil resda tudi član sokolske organizacije, ki je bila
+                                    tudi športna organizacija, vendar pa lakoničnost zapisa in
+                                    relativna nevtralnost edine izpostavljene dejavnosti zamolči
+                                    marsikaj, kar je bilo v njegovem življenju in delu res
+                                    pomembnega. Bralcu se je tako vtisnila misel, da je bil Igor
+                                    Rosina eden od prizadevnih slovenskih športnih delavcev in nič
+                                    več. Oznaka »športni delavec« je namreč njegovo podobo zamejila
+                                    le na dejavnost, ki je skorajda po definiciji nepristranska,
+                                    nepolitična in zmeraj ter povsod naklonjeno sprejeta. Toda
+                                    Rosina seveda ni bil prisoten zgolj na področju telesne kulture.
+                                    Predvsem je bil pred drugo svetovno vojno dolga leta vidno
+                                    družbeno in politično angažiran intelektualec, ob tem pa seveda
+                                    odvetnik, dejaven tudi v strokovnem tisku, in zvest svojemu
+                                    poklicnemu poslanstvu. Med kolegi je bil cenjen, kar se je takoj
+                                    po koncu druge svetovne vojne pokazalo tudi tako, da je pod
+                                    vodstvom posebnega delegata Ministrstva za pravosodje pri
+                                    Odvetniški zbornici kot eden od t. i. zaupnikov pomagal pri
+                                    vzpostavljanju odvetništva v Mariboru. Prav Odvetniška zbornica
+                                    se ga je ob njegovi smrti z osmrtnico tudi dostojno spomnila v
+                                    časopisu Delo. Dr. Igor Rosina se je po kapitulaciji Italije
+                                    leta 1943 pridružil partizanom. Od leta 1944 je opravljal
+                                    funkcijo pravnega referenta pri SNOS, pozneje pri Narodni vladi
+                                    LRS, proti koncu vojne pa so mu poverili vodenje štajerskega
+                                    odseka Komisije za ugotavljanje zločinov okupatorjev in njihovih
+                                    pomagačev. V tej funkciji je leta 1944 pripravil poročilo o
+                                    ravnanju s pripadniki nemške narodnosti po koncu vojne in v njem
+                                    zastopal stališče, da bi morali za kazniva dejanja pripadnikov
+                                    okupatorja in njegovih sodelavcev izvesti kazenske postopke in
+                                    ugotoviti njihovo individualno krivdo. Toda kljub pripadnosti
+                                    narodnoosvobodilnemu gibanju, ki mu je dal na razpolago vse
+                                    svoje strokovno znanje in moči, so se razmere v pozni pomladi
+                                    1947 za Rosino drastično spremenile. Posebna Komisija za presojo
+                                    pravice do opravljanja odvetništva pri Vladi LRS mu je
+                                    odvetništvo odvzela. Rosina je pravico tako izgubil za več kot
+                                    desetletje, namesto svojega primarnega poklica pa je bil
+                                    prisiljen delovati drugje. Zamolčana je bila tudi njegova
+                                    napredna predvojna politična dejavnost. Ker je anonimnost, v
+                                    katero je bil Igor Rosina potisnjen po vojni, botrovala temu, da
+                                    je javnosti ostal praktično nepoznan, in ker je njegova povojna
+                                    usoda značilna za številne intelektualce, med katerimi je bilo
+                                    nemalo pravnikov, se bodo raziskovalci na znanstvenem posvetu
+                                    med drugim lotili naslednjih vprašanj: Kdo je bil Igor Rosina?
+                                    Od kod je prihajal? Kaj je za njegovo življenjsko pot pomenila
+                                    občutljivost za aktualna družbena in narodnopolitična vprašanja,
+                                    ki jo je pokazal že v dvajsetih letih 20. stoletja in kakšen
+                                    svetovni nazor je s svojim širokim političnim in publicističnim
+                                    delovanjem izoblikoval v času med svetovnima vojnama? Kaj je
+                                    pomenilo dejstvo, da je bil odvetnik in da je izhajal iz rodbine
+                                    uglednega pravnika in politika? Kako se je opredeljeval po letu
+                                    1941? Zakaj je prišel v navzkrižje z oblastjo in kako je
+                                    naposled po koncu vojne živel in deloval? Vpogled v njegovo
+                                    življenje in delo bodo raziskovalci skušali kar najbolj vpeti v
+                                    kontekst časa in prostora in ju osvetliti s podobnimi usodami
+                                    njegovih kolegov. Odvetnika in politika bodo najprej predstavili
+                                    v okviru njegove družine, zlasti očeta, odvetnika in
+                                    deželnozborskega poslanca dr. Frana Rosine, nato pa mu bodo
+                                    sledili skozi spremenljive politične razmere prve jugoslovanske
+                                    države, druge svetovne vojne, pa vse v povojna leta. </entity:description>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink">
+      <METS:fileGrp USE="THUMB">
+         <METS:file ID="thumbnail">
+            <METS:FLocat LOCTYPE="URL"
+                         xlink:href="http://www.sistory.si/cdn/publikacije/37001-38000/37485/odvetnik.png"/>
+         </METS:file>
+      </METS:fileGrp>
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="file22660"
+                    OWNERID="Program Odvetnik in oblast.pdf"
+                    MIMETYPE="application/pdf">
+            <METS:FLocat LOCTYPE="HANDLE" xlink:href="https://hdl.handle.net/11686/file22660"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="primary">
+      <METS:div TYPE="collection">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/menu123"/>
+         <METS:div TYPE="entity" DMDID="dc.37485" ADMID="premis.37485 entity.37485">
+            <METS:fptr FILEID="thumbnail"/>
+            <METS:fptr FILEID="file22660"/>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37486"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37487"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37488"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37489"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37490"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37496"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37491"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37499"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37492"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37493"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37494"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37495"/>
+            </METS:div>
+            <METS:div TYPE="entity">
+               <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37497"/>
+            </METS:div>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

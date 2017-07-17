@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/35290"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2016-06-15T16:01:38"
+                 LASTMODDATE="2017-02-10T13:02:03"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.35290" GROUPID="35290">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="slv">Češko-slovaški vpliv na slovensko politiko in njen odnos do narodnega vprašanja po letu 1918</dcterms:title>
+            <dcterms:alternative xml:lang="eng">Czechoslovakian Influences on Slovene Politics and the Latter’s Position on the National Question after 1918</dcterms:alternative>
+            <dcterms:creator>Kregar, Tone</dcterms:creator>
+            <dcterms:abstract xml:lang="slv">Močan češki vpliv na slovensko družbo in politiko, ki smo mu priča zlasti v drugi polovici 19. stoletja, se je v precejšnji meri ohranil tudi po razpadu Avstro-Ogrske. Proti Pragi je bil po letu 1918 usmerjen zlasti liberalni del slovenske politike, saj sta povsem po čeških vzorih nastali narodno socialistična in kmetijska stranka. Zaradi primerljivih (med)nacionalnih razmer v češko-slovaški in jugoslovanski državi pa je določene vplive in paralele mogoče najti tudi v odnosu političnih strank do narodnega vprašanja tako na domačih kot tujih tleh.</dcterms:abstract>
+            <dcterms:abstract xml:lang="eng">The influence of Bohemia on Slovene politics and society, particularly strong in the second half of the 19th Century, did not cease after thè disintegration of Austria-Hungary. Slovene libérais in particular sought inspiration in Prague; this resulted in the formation of the National Socialist Party and the Independent Farmers’ Party, both modeled after Czech politicai parties. In view of comparable (inter)national circumstances in Czechoslovakia and in Yugoslavia certain influences and parallels can be found also in the position of their political parties on the national question, both at home and abroad.</dcterms:abstract>
+            <dcterms:subject xml:lang="slv">Čehi</dcterms:subject>
+            <dcterms:subject xml:lang="slv">Slovaki</dcterms:subject>
+            <dcterms:subject xml:lang="slv">Slovenci</dcterms:subject>
+            <dcterms:subject xml:lang="slv">politične stranke</dcterms:subject>
+            <dcterms:subject xml:lang="slv">narodno vprašanje</dcterms:subject>
+            <dcterms:subject xml:lang="slv">vplivi</dcterms:subject>
+            <dcterms:subject xml:lang="slv">vzori in paralele</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Czechs</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Slovaks</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Slovenes</dcterms:subject>
+            <dcterms:subject xml:lang="eng">political parties</dcterms:subject>
+            <dcterms:subject xml:lang="eng">the national question</dcterms:subject>
+            <dcterms:subject xml:lang="eng">influences</dcterms:subject>
+            <dcterms:subject xml:lang="eng">ideals and parallels</dcterms:subject>
+            <dcterms:publisher>Zveza zgodovinskih društev Slovenije, Ljubljana</dcterms:publisher>
+            <dcterms:contributor>Nevenka Troha (ur.)</dcterms:contributor>
+            <dcterms:contributor>Mojca Šorn (ur.)</dcterms:contributor>
+            <dcterms:contributor>Bojan Balkovec (ur.)</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2008</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">Text</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">slv</dcterms:language>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:dmdSec ID="mods.35290" GROUPID="35290">
+      <METS:mdWrap MDTYPE="MODS" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <mods:relatedItem type="series">
+               <mods:relatedItem type="series">
+                  <mods:titleInfo>
+                     <mods:title>Zbirka zgodovinskega časopisa</mods:title>
+                  </mods:titleInfo>
+                  <mods:part>
+                     <mods:detail type="volumens">
+                        <mods:number>35</mods:number>
+                     </mods:detail>
+                  </mods:part>
+               </mods:relatedItem>
+            </mods:relatedItem>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.35290">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>35290</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/35290#page=197</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.35290">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Močan češki vpliv na
+                                    slovensko družbo in politiko, ki smo mu priča zlasti v drugi
+                                    polovici 19. stoletja, se je v precejšnji meri ohranil tudi po
+                                    razpadu Avstro-Ogrske. Proti Pragi je bil po letu 1918 usmerjen
+                                    zlasti liberalni del slovenske politike, saj sta povsem po
+                                    čeških vzorih nastali narodno socialistična in kmetijska
+                                    stranka. Zaradi primerljivih (med)nacionalnih razmer v
+                                    češko-slovaški in jugoslovanski državi pa je določene vplive in
+                                    paralele mogoče najti tudi v odnosu političnih strank do
+                                    narodnega vprašanja tako na domačih kot tujih tleh. </entity:description>
+               <entity:description xml:lang="eng"> The influence of Bohemia
+                                    on Slovene politics and society, particularly strong in the
+                                    second half of the 19th Century, did not cease after thè
+                                    disintegration of Austria-Hungary. Slovene libérais in
+                                    particular sought inspiration in Prague; this resulted in the
+                                    formation of the National Socialist Party and the Independent
+                                    Farmers’ Party, both modeled after Czech politicai parties. In
+                                    view of comparable (inter)national circumstances in
+                                    Czechoslovakia and in Yugoslavia certain influences and
+                                    parallels can be found also in the position of their political
+                                    parties on the national question, both at home and abroad.
+                                </entity:description>
+               <entity:page>197</entity:page>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/35237"/>
+         <METS:div TYPE="entity"
+                   DMDID="dc.35290 mods.35290"
+                   ADMID="premis.35290 entity.35290"/>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

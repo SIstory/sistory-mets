@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/26764"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2014-04-15T14:03:47"
+                 LASTMODDATE="2017-02-14T14:16:06"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.26764" GROUPID="26764">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="slv">Prestolonaslednik Djordje Karadjordjević - posebnež ali bolnik</dcterms:title>
+            <dcterms:creator>Nećak, Dušan</dcterms:creator>
+            <dcterms:description xml:lang="slv">Dokončnega odgovora na v naslovu zastavljeno vprašanje najbrž nikoli ne bomo dobili, se po dostopnem pregledu biografije srbskega prestolonaslednik Djordja Karadjordjevića, poleg tega dejstva, vsiljuje še eno. Djordje (Jurij) Karadjordjević je bil zagotovo človek, ki je kot osebnost, dinast, politik in vojak, izstopal iz vrste. Zato bi moralo biti nesporno, da je bil prav zaradi tega za marsikoga iz njegove okolice, vsaj čuden, če že ne nezaželen in nesprejemljiv, še posebej, ker je bil prestolonaslednik, torej bodoči kralj.</dcterms:description>
+            <dcterms:subject xml:lang="slv">biografije</dcterms:subject>
+            <dcterms:subject xml:lang="slv">srbska zgodovina</dcterms:subject>
+            <dcterms:subject xml:lang="eng">biography</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Serbian history</dcterms:subject>
+            <dcterms:publisher>Oddelek za zgodovino Filozofske fakultete Univerze v Ljubljani, Ljubljana</dcterms:publisher>
+            <dcterms:contributor>Dušan Nećak (ur.)</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2005</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">Text</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">slv</dcterms:language>
+            <dcterms:license xsi:type="dcterms:URI">http://creativecommons.org/licenses/by-nc-nd/2.5/si/</dcterms:license>
+            <dcterms:license xml:lang="slv">Priznanje avtorstva-Nekomercialo-Brez predelav 2.5 Slovenija (CC BY-NC-ND 2.5 SI)</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:dmdSec ID="mods.26764" GROUPID="26764">
+      <METS:mdWrap MDTYPE="MODS" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <mods:relatedItem type="series">
+               <mods:relatedItem type="series">
+                  <mods:titleInfo>
+                     <mods:title>Historia : znanstvena zbirka Oddelka za zgodovino Filozofska fakultete v Ljubljani</mods:title>
+                  </mods:titleInfo>
+                  <mods:part>
+                     <mods:detail type="volumens">
+                        <mods:number>10</mods:number>
+                     </mods:detail>
+                  </mods:part>
+               </mods:relatedItem>
+            </mods:relatedItem>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.26764">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>26764</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/26764#page=122</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.26764">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Dokončnega odgovora na v
+                                    naslovu zastavljeno vprašanje najbrž nikoli ne bomo dobili, se
+                                    po dostopnem pregledu biografije srbskega prestolonaslednik
+                                    Djordja Karadjordjevića, poleg tega dejstva, vsiljuje še eno.
+                                    Djordje (Jurij) Karadjordjević je bil zagotovo človek, ki je kot
+                                    osebnost, dinast, politik in vojak, izstopal iz vrste. Zato bi
+                                    moralo biti nesporno, da je bil prav zaradi tega za marsikoga iz
+                                    njegove okolice, vsaj čuden, če že ne nezaželen in
+                                    nesprejemljiv, še posebej, ker je bil prestolonaslednik, torej
+                                    bodoči kralj. </entity:description>
+               <entity:page>122</entity:page>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/26733"/>
+         <METS:div TYPE="entity"
+                   DMDID="dc.26764 mods.26764"
+                   ADMID="premis.26764 entity.26764"/>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

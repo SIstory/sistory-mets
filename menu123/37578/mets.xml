@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/37578"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2017-05-19T09:01:17"
+                 LASTMODDATE="2017-05-19T10:42:37"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.37578" GROUPID="37578">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="slv">Slovenci in prva svetovna vojna 1994-2014</dcterms:title>
+            <dcterms:alternative xml:lang="eng">Slovenes and World War I 1994-2014</dcterms:alternative>
+            <dcterms:creator>Svoljšak, Petra</dcterms:creator>
+            <dcterms:description xml:lang="slv">Prispevek bo nadaljevanje študije »Prva svetovna vojna in Slovenci« iz leta 1993, v kateri je bila predstavljena slovenska zgodovinska, spominska in publicistična literatura o 1. svetovni vojni v obdobju 1918 – 1992, torej se bo osredotočila na zadnji dve desetletji slovenske zgodovinske produkcije, izluščila bo temeljne teme in poudarke. V obdobju 1994 – 2014 je bil porast vsakovrstne literature o 1. svetovni vojni skokovit, v posameznih segmentih sta slovensko zgodovinopisje in publicistika sledila tematikam, ki jih raziskuje (predvsem) zahodnoevropsko zgodovinopisje; slovenska historiografija si prizadeva vzpostaviti primerjalno držo do problematik, ki jih odpira zahodnoevropsko zgodovinopisje, spričo zgodovinskih okoliščin pa more nekatere tematike vednarle obravnavati tudi iz transnacionalnega zornega kota. V zadnjih dveh desetletjih beležimo skoraj popoln umik nekaterih tematik, ki so krojile (slovenski) spomin na 1. svetovno vojno v času med obema svetovnima vojnama, ter njihovo »zamenjavo«, predvsem s tematiko soške fronte, a tudi z njenim vseobsegajočim vplivom na življenje v slovenskih deželah. Podobno kot evropsko zgodovinopisje zadnjih 20 let, ki prelomnico v pisanju o vojni postavlja v leto 1992, ko je bil odprt muzej in mednarodni raziskovalni center Historial de Peronne, moremo v slovenskem zgodovinopisju zabeležiti leto 2004/2005 kot tisto, v katerem je potekal večdisciplinarni simpozij velika vojna in Slovenci in kulturni zgodovini vojne utrl raziskovalno pot. Navkljub pozitivnim premikom pa še vedno ne moremo govoriti o sistematičnem raziskovanju tematike 1. svetovne vojne.</dcterms:description>
+            <dcterms:subject xml:lang="slv">prva svetovna vojna</dcterms:subject>
+            <dcterms:subject xml:lang="slv">literatura</dcterms:subject>
+            <dcterms:subject xml:lang="slv">zgodovinopisje</dcterms:subject>
+            <dcterms:subject xml:lang="slv">kulturna zgodovina vojne</dcterms:subject>
+            <dcterms:subject xml:lang="eng">World War I</dcterms:subject>
+            <dcterms:subject xml:lang="eng">literature</dcterms:subject>
+            <dcterms:subject xml:lang="eng">historgraphy</dcterms:subject>
+            <dcterms:subject xml:lang="eng">cultural history of war</dcterms:subject>
+            <dcterms:publisher>Zveza zgodovinskih društev Slovenije, Ljubljana</dcterms:publisher>
+            <dcterms:publisher>Inštitut za novejšo zgodovino, Ljubljana</dcterms:publisher>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2014-10-23</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">MovingImage</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">slv</dcterms:language>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.37578">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>37578</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/37578</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.37578">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Prispevek bo
+                                    nadaljevanje študije »Prva svetovna vojna in Slovenci« iz leta
+                                    1993, v kateri je bila predstavljena slovenska zgodovinska,
+                                    spominska in publicistična literatura o 1. svetovni vojni v
+                                    obdobju 1918 – 1992, torej se bo osredotočila na zadnji dve
+                                    desetletji slovenske zgodovinske produkcije, izluščila bo
+                                    temeljne teme in poudarke. V obdobju 1994 – 2014 je bil porast
+                                    vsakovrstne literature o 1. svetovni vojni skokovit, v
+                                    posameznih segmentih sta slovensko zgodovinopisje in
+                                    publicistika sledila tematikam, ki jih raziskuje (predvsem)
+                                    zahodnoevropsko zgodovinopisje; slovenska historiografija si
+                                    prizadeva vzpostaviti primerjalno držo do problematik, ki jih
+                                    odpira zahodnoevropsko zgodovinopisje, spričo zgodovinskih
+                                    okoliščin pa more nekatere tematike vednarle obravnavati tudi iz
+                                    transnacionalnega zornega kota. V zadnjih dveh desetletjih
+                                    beležimo skoraj popoln umik nekaterih tematik, ki so krojile
+                                    (slovenski) spomin na 1. svetovno vojno v času med obema
+                                    svetovnima vojnama, ter njihovo »zamenjavo«, predvsem s tematiko
+                                    soške fronte, a tudi z njenim vseobsegajočim vplivom na
+                                    življenje v slovenskih deželah. Podobno kot evropsko
+                                    zgodovinopisje zadnjih 20 let, ki prelomnico v pisanju o vojni
+                                    postavlja v leto 1992, ko je bil odprt muzej in mednarodni
+                                    raziskovalni center Historial de Peronne, moremo v slovenskem
+                                    zgodovinopisju zabeležiti leto 2004/2005 kot tisto, v katerem je
+                                    potekal večdisciplinarni simpozij velika vojna in Slovenci in
+                                    kulturni zgodovini vojne utrl raziskovalno pot. Navkljub
+                                    pozitivnim premikom pa še vedno ne moremo govoriti o
+                                    sistematičnem raziskovanju tematike 1. svetovne vojne. </entity:description>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="video1" USE="EXTERNAL">
+            <METS:FLocat USE="YOUTUBE"
+                         LOCTYPE="URL"
+                         xlink:href="//www.youtube.com/embed/RQL25X1-U-M"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37576"/>
+         <METS:div TYPE="entity" DMDID="dc.37578" ADMID="premis.37578 entity.37578">
+            <METS:fptr FILEID="video1"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

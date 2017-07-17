@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/14274"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2012-11-30T11:53:40"
+                 LASTMODDATE="2017-02-09T09:20:43"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.14274" GROUPID="14274">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="slv">Represija na Hrvaškem v času po 2. svetovni vojni</dcterms:title>
+            <dcterms:alternative xml:lang="eng">Repression in Croatia after World War II</dcterms:alternative>
+            <dcterms:creator>Radelić, Zdenko</dcterms:creator>
+            <dcterms:abstract xml:lang="eng">The purpose of the following contribution is to present the reasons for the establishment of a repressive system. The key elements influencing the repressivemeasures of the military and state authorities under the leadership of the Communist Party of Yugoslavia during and after World War II and the establishmentof the communist repressive system were various and interconnected.After the occupation of Yugoslavia in April 1941, the Communist Party ofYugoslavia organised a liberation movement, which also carried out the revolution.In Croatia the reasons for the resistance were the Yugoslav orientation ofa significant percentage of the population, the Ustashe terror against the Serbs,racist persecution, Serbian mass rejection of the Croatian state, terror against allthe opponents of the Independent State of Croatia, as well as strong anti-Italianand anti-German sentiment. These reasons were interconnected, and at the sametime they represented the causes of the subsequent liquidation of the opponentsand retaliatory measures, namely, the extensive repression carried out by theYugoslav communist authority. After the war Yugoslavia was restored. Federalism was introduced as a way of addressing the national issues, and Yugoslavia annexed extensive territories which had until then belonged to Italy. On the basis of Yugoslav nationalism the new state leadership settled the score with separatists and the German minority. Communist Party of Yugoslavia created a new social system with a tactical combination of propaganda and concrete measures. It appealed to the contributions of the national liberation movement to the liberation and emphasised the role of the people and their will. Despite its references to the People’s Front, the Communist Party took over all the key positions within the partisan movement and the nascent state apparatus. This had drastic consequences for all of its opponents and rivals. Naturally, a large number of casualties among the victors was among the important reasons for vengeance against the wartime enemies. However, this involved the intention of the Communist Party of Yugoslavia to neutralise all the real and imaginary military and political opponents and marginalise them socially. The repression involved death sentences, prison sentences, exile, confi scation of property, prohibition of political activities, and social marginalisation of the disarmed enemies and political opponents.After the alliance between the victors had dissolved, a danger of a war betweenthe states of the so-called Western parliamentary democracy and the Eastunder the leadership of the communist Soviet Union became apparent, in whichthe Yugoslav anti-communist forces would surely support the West. In this potentialwar Croats, members of anti-communist parties and movements, wouldplay an important part, and so would Serbs in Croatia, members of the Chetnikmovement. Among the former those who stemmed from the Ustashe movementas well as the members and adherents of the Croatian Peasant’s Party (Hrvatskaseljačka stranka) at home and abroad had the greatest influence. The Ustasheemigration and its supporters at home had the goal – apart from destroying thecommunist system – of abolishing Yugoslavia and establishing an independentCroatian state. Since the 1960s the Croatian Peasant’s Party, still active inemigration, changed its pro-Yugoslav standpoint and started arguing for an independent Croatia. All of this resulted in the Communist Party of Yugoslaviabuilding a strong repressive system.</dcterms:abstract>
+            <dcterms:abstract xml:lang="slv">Namen prispevka je predstaviti vzroke, ki so pripeljali do vzpostavitve represivnegasistema. Bistveni elementi, ki so vplivali na represivne postopke vojaških in državnih organov pod vodstvom Komunistične partije Jugoslavije (KPJ) v 2. svetovni vojni in po njej ter na izgraditev komunističnega represivnega sistema so bili različni in so med seboj povezani. Po okupaciji Jugoslavije aprila 1941 je KPJ organizirala osvobodilno gibanje, ki je izvajalo revolucijo. Na Hrvaškem so bili med vzroki za upor jugoslovanska usmeritev mnogih prebivalcev, ustaški teror proti Srbom, rasistični pregoni, srbska množična zavrnitev hrvaške države, teror proti vsem nasprotnikomNeodvisne države Hrvaške in močna protiitalijansko ter protinemško usmeritev. Vzroki za upor so medsebojno prepleteni, hkrati pa v sebi skrivajo vzroke za kasnejše usmrtitve nasprotnikov in povračilne ukrepe, torej za obsežno represijo,ki so jo izvajale povojne jugoslovanske oblasti. Jugoslavija je bila po vojni obnovljena, kot način reševanja nacionalnih vprašanj je bil uveden federalizem, država je priključila obsežna območja, ki so bila dotlej del italijanske države. Na podlagi jugoslovanskega nacionalizma je novo državno vodstvo obračunalo s separatisti in z nemško manjšino. Novo družbeno ureditev je KPJ ustvarjala s taktično kombinacijo propagandnega delovanja in konkretnih ukrepov. Sklicevala se je na zasluge narodnoosvobodilnega gibanja za osvoboditev in poudarjala vlogo ljudstva ter njegove volje. Kljub ljudsko frontnim frazam je komunistična partija zavzela vse ključne pozicije v partizanskem gibanju in nastajajočem državnem aparatu. To je imelo drastične posledice za vse njene nasprotnike in tekmece. Veliko število žrtev na strani zmagovalcev je bilo seveda med pomembnimi razlogi za maščevanje nad premaganim vojnim sovražnikom. Toda to se je prepletalo z namenom KPJ, da vse prave in namišljene vojaške in politične nasprotnike onemogoči in družbeno marginalizira. Represija je vključevala usmrtitve, zaporne kazni, izgone, odvzemanje lastnine, prepovedi političnega delovanja in družbeno marginalizacijo razoroženih sovražnikov ter političnih nasprotnikov. Po razpadu zavezništva med zmagovalci je obstajala nevarnost, da pride do vojne med državami t. i. zahodne parlamentarne demokracije in Vzhodom pod vodstvom komunistične Sovjetske zveze, v kateri bi se jugoslovanske protikomunistične sile zagotovo priključile zahodnim silam. V tej vojni bi imeli pomembno vlogo Hrvati, pripadniki protikomunističnih strank in gibanj, kakor tudi Srbi na Hrvaškem, pripadniki četniškega gibanja. Med prvimi so bili najbolj vplivni tisti, ki so izhajali iz ustaškega gibanja, kakor tudi člani in pristaši Hrvaške kmečke stranke (Hrvatska seljačka stranka – HSS), doma in v tujini. V opciji ustaške emigracije in njenih pristašev v domovini je, poleg uničenja komunističnega sistema, bilo predvideno tudi izginotje Jugoslavije in vzpostavitev samostojne hrvaške države. Od sredine šestdesetih let 20. stoletja let je tudi HSS, ki je delovala v emigraciji, spremenila svojo projugoslovansko stališče in se zavzemala za samostojno Hrvaško. Vse to je vplivalo na to, da je KPJ izgradila čvrst represiven sistem.</dcterms:abstract>
+            <dcterms:publisher>Inštitut za novejšo zgodovino/Institute of Contemporary History, Ljubljana</dcterms:publisher>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2012-11-07</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">MovingImage</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">slv</dcterms:language>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.14274">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>14274</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/14274</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.14274">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="slv">
+                  <p xmlns="http://sistory.si/schema/sistory/v3/entity">Namen prispevka je predstaviti vzroke, ki so pripeljali do
+                                        vzpostavitve represivnegasistema. Bistveni elementi, ki so
+                                        vplivali na represivne postopke vojaških in državnih organov
+                                        pod vodstvom Komunistične partije Jugoslavije (KPJ) v 2.
+                                        svetovni vojni in po njej ter na izgraditev komunističnega
+                                        represivnega sistema so bili različni in so med seboj
+                                        povezani. Po okupaciji Jugoslavije aprila 1941 je KPJ
+                                        organizirala osvobodilno gibanje, ki je izvajalo revolucijo.
+                                        Na Hrvaškem so bili med vzroki za upor jugoslovanska
+                                        usmeritev mnogih prebivalcev, ustaški teror proti Srbom,
+                                        rasistični pregoni, srbska množična zavrnitev hrvaške
+                                        države, teror proti vsem nasprotnikomNeodvisne države
+                                        Hrvaške in močna protiitalijansko ter protinemško usmeritev.
+                                        Vzroki za upor so medsebojno prepleteni, hkrati pa v sebi
+                                        skrivajo vzroke za kasnejše usmrtitve nasprotnikov in
+                                        povračilne ukrepe, torej za obsežno represijo,ki so jo
+                                        izvajale povojne jugoslovanske oblasti. Jugoslavija je bila
+                                        po vojni obnovljena, kot način reševanja nacionalnih
+                                        vprašanj je bil uveden federalizem, država je priključila
+                                        obsežna območja, ki so bila dotlej del italijanske države.
+                                        Na podlagi jugoslovanskega nacionalizma je novo državno
+                                        vodstvo obračunalo s separatisti in z nemško manjšino. Novo
+                                        družbeno ureditev je KPJ ustvarjala s taktično kombinacijo
+                                        propagandnega delovanja in konkretnih ukrepov. Sklicevala se
+                                        je na zasluge narodnoosvobodilnega gibanja za osvoboditev in
+                                        poudarjala vlogo ljudstva ter njegove volje. Kljub ljudsko
+                                        frontnim frazam je komunistična partija zavzela vse ključne
+                                        pozicije v partizanskem gibanju in nastajajočem državnem
+                                        aparatu. To je imelo drastične posledice za vse njene
+                                        nasprotnike in tekmece. Veliko število žrtev na strani
+                                        zmagovalcev je bilo seveda med pomembnimi razlogi za
+                                        maščevanje nad premaganim vojnim sovražnikom. Toda to se je
+                                        prepletalo z namenom KPJ, da vse prave in namišljene vojaške
+                                        in politične nasprotnike onemogoči in družbeno
+                                        marginalizira. Represija je vključevala usmrtitve, zaporne
+                                        kazni, izgone, odvzemanje lastnine, prepovedi političnega
+                                        delovanja in družbeno marginalizacijo razoroženih
+                                        sovražnikov ter političnih nasprotnikov. Po razpadu
+                                        zavezništva med zmagovalci je obstajala nevarnost, da pride
+                                        do vojne med državami t. i. zahodne parlamentarne
+                                        demokracije in Vzhodom pod vodstvom komunistične Sovjetske
+                                        zveze, v kateri bi se jugoslovanske protikomunistične sile
+                                        zagotovo priključile zahodnim silam. V tej vojni bi imeli
+                                        pomembno vlogo Hrvati, pripadniki protikomunističnih strank
+                                        in gibanj, kakor tudi Srbi na Hrvaškem, pripadniki
+                                        četniškega gibanja. Med prvimi so bili najbolj vplivni
+                                        tisti, ki so izhajali iz ustaškega gibanja, kakor tudi člani
+                                        in pristaši Hrvaške kmečke stranke (Hrvatska seljačka
+                                        stranka – HSS), doma in v tujini. V opciji ustaške
+                                        emigracije in njenih pristašev v domovini je, poleg uničenja
+                                        komunističnega sistema, bilo predvideno tudi izginotje
+                                        Jugoslavije in vzpostavitev samostojne hrvaške države. Od
+                                        sredine šestdesetih let 20. stoletja let je tudi HSS, ki je
+                                        delovala v emigraciji, spremenila svojo projugoslovansko
+                                        stališče in se zavzemala za samostojno Hrvaško. Vse to je
+                                        vplivalo na to, da je KPJ izgradila čvrst represiven
+                                        sistem.</p>
+               </entity:description>
+               <entity:description xml:lang="eng">
+                  <p xmlns="http://sistory.si/schema/sistory/v3/entity">The purpose of the following contribution is to present the
+                                        reasons for the establishment of a repressive system. The
+                                        key elements influencing the repressivemeasures of the
+                                        military and state authorities under the leadership of the
+                                        Communist Party of Yugoslavia during and after World War II
+                                        and the establishmentof the communist repressive system were
+                                        various and interconnected.After the occupation of
+                                        Yugoslavia in April 1941, the Communist Party ofYugoslavia
+                                        organised a liberation movement, which also carried out the
+                                        revolution.In Croatia the reasons for the resistance were
+                                        the Yugoslav orientation ofa significant percentage of the
+                                        population, the Ustashe terror against the Serbs,racist
+                                        persecution, Serbian mass rejection of the Croatian state,
+                                        terror against allthe opponents of the Independent State of
+                                        Croatia, as well as strong anti-Italianand anti-German
+                                        sentiment. These reasons were interconnected, and at the
+                                        sametime they represented the causes of the subsequent
+                                        liquidation of the opponentsand retaliatory measures,
+                                        namely, the extensive repression carried out by theYugoslav
+                                        communist authority. After the war Yugoslavia was restored.
+                                        Federalism was introduced as a way of addressing the
+                                        national issues, and Yugoslavia annexed extensive
+                                        territories which had until then belonged to Italy. On the
+                                        basis of Yugoslav nationalism the new state leadership
+                                        settled the score with separatists and the German minority.
+                                        Communist Party of Yugoslavia created a new social system
+                                        with a tactical combination of propaganda and concrete
+                                        measures. It appealed to the contributions of the national
+                                        liberation movement to the liberation and emphasised the
+                                        role of the people and their will. Despite its references to
+                                        the People’s Front, the Communist Party took over all the
+                                        key positions within the partisan movement and the nascent
+                                        state apparatus. This had drastic consequences for all of
+                                        its opponents and rivals. Naturally, a large number of
+                                        casualties among the victors was among the important reasons
+                                        for vengeance against the wartime enemies. However, this
+                                        involved the intention of the Communist Party of Yugoslavia
+                                        to neutralise all the real and imaginary military and
+                                        political opponents and marginalise them socially. The
+                                        repression involved death sentences, prison sentences,
+                                        exile, confi scation of property, prohibition of political
+                                        activities, and social marginalisation of the disarmed
+                                        enemies and political opponents.After the alliance between
+                                        the victors had dissolved, a danger of a war betweenthe
+                                        states of the so-called Western parliamentary democracy and
+                                        the Eastunder the leadership of the communist Soviet Union
+                                        became apparent, in whichthe Yugoslav anti-communist forces
+                                        would surely support the West. In this potentialwar Croats,
+                                        members of anti-communist parties and movements, wouldplay
+                                        an important part, and so would Serbs in Croatia, members of
+                                        the Chetnikmovement. Among the former those who stemmed from
+                                        the Ustashe movementas well as the members and adherents of
+                                        the Croatian Peasant’s Party (Hrvatskaseljačka stranka) at
+                                        home and abroad had the greatest influence. The
+                                        Ustasheemigration and its supporters at home had the goal –
+                                        apart from destroying thecommunist system – of abolishing
+                                        Yugoslavia and establishing an independentCroatian state.
+                                        Since the 1960s the Croatian Peasant’s Party, still active
+                                        inemigration, changed its pro-Yugoslav standpoint and
+                                        started arguing for an independent Croatia. All of this
+                                        resulted in the Communist Party of Yugoslaviabuilding a
+                                        strong repressive system.</p>
+               </entity:description>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="video1" USE="EXTERNAL">
+            <METS:FLocat USE="YOUTUBE"
+                         LOCTYPE="URL"
+                         xlink:href="http://www.youtube.com/embed/Ja4mTI1Ws1E"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/14256"/>
+         <METS:div TYPE="entity" DMDID="dc.14274" ADMID="premis.14274 entity.14274">
+            <METS:fptr FILEID="video1"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

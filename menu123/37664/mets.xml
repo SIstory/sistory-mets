@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/37664"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2017-05-25T13:35:43"
+                 LASTMODDATE="2017-05-25T13:40:21"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.37664" GROUPID="37664">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="eng">A Project about a Museum of Education in the Basque Country - University of the Basque Country UPV/EHU</dcterms:title>
+            <dcterms:alternative xml:lang="spa">Un Proyecto de Museo de la Educación en el País Vasco Universidad del País Vasco UPV/EHU</dcterms:alternative>
+            <dcterms:alternative xml:lang="">Hezkuntzaren Museoaren Proiektua Euskal Herrian - Euskal Herriko Unibertsitatea UPV/EHU</dcterms:alternative>
+            <dcterms:creator>Dávila Balsera, Paulí</dcterms:creator>
+            <dcterms:creator>Mª Naya Garmendia, Luis</dcterms:creator>
+            <dcterms:description xml:lang="eng">In the current museum panoramic in Spain, school museums installed on university headquarters are achieving an increasingly important presence. In different parts of Spain (Albacete, Galicia, Cantabria, etc.) there are education-related museums with different names such as School Museum, Children's Museum, etc. There are also other types of museums which can be personal or private (toy museum); or museums installed in both private and public schools. With respect to the museums installed in universities, it is necessary to highlight the ones placed in Murcia, La Laguna, Seville, Salamanca, Huelva, etc. Some of them have a remarkable presence on the Internet, working as virtual museums. To this line opened by other universities, it has to be joined the recent launch of a Museum of Education of the Basque Country-“Euskal Hezkuntzaren Museoa”, in the University of the Basque Country (UPV/EHU). The creation of this museum is preceded by the existence of a Documentation Centre on the History of Education in the Basque Country, promoted by the group of Historical Studies and Comparative Education, whose members are the authors of this contribution (http://www.ehu.es/euskal-hezkuntza) . This museum is being structured around a series of topics to help us understand, explain and transmit the differential characteristics of education in the Basque Country. In this sense, some rooms are being planned with material relating to: “ikastolas” (schools providing teaching exclusively in Basque), educational renewal, rural schools, etc.; as well as all the classic elements of a school museum. This paper is the result of a research project financed by the Spanish Ministry for Science and Education, project number EDU-2010-15218. The authors are members of the Group for Historical and Comparative Studies in Education – Garaian, recognized by the Basque Government, registry number IT 603/13 and of the Unity of Education and Research “Education, Culture and Society (UFI 11/54)” of the University of the Basque Country UPV/EHU.</dcterms:description>
+            <dcterms:description xml:lang="">Une honetan, Espainiako museoen panoramikan, unibertsitate egoitza desberdinetan sortzen ari diren museo eskolarren presentzia gero eta nabarmenagoa da. Espainiako toki desberdinetan (Albacete, Galizia, Kantabria, etabar) hezkuntzarekin zer ikusirik duten museoak daude, izendapen desberdinekin (Eskolaren Museoa, Umearen Museoa, etabar). Baita ere ezagunak dira beste motatako museo partikular edo pribatuak (Jostailuaren Museoa, etabar.) edo ta ikastetxeetan, publiko zein pribatuetan, kokaturiko museoak. Unibertsitateetan kokaturiko museoen artean azpimarragarriak dira Murtziakoa, La Lagunakoa, Sevillakoa, Salamancakoa, Huelvakoa, eta horietako batzuk museo birtual gisa interneten presentzia nabarmena dute. Beste Unibertsitateek irekitako bide horri Euskal Herriko Unibertsitateak ere jarraitu nahi dio, duela gutxi martxan jarri den Euskal Hezkuntzaren Museoarekin. Museo hau sortu aurretik, Euskal Herriko Unibertsitateko irakasle batzuk osatzen duten Hezkuntzan Azterketa Historiko eta Konparatuetarako Ikerketa Taldeak Euskal Herriko Hezkuntzaren Historiarako Dokumentazio Gunea sortu zuen http://www.ehu.es/euskal-hezkuntza, eta hau museoaren aurreko urratsa, esan behar da ekarpen hau sinatzen duten bi irakasleek ikerketa taldekideak direla. Euskal Herrian garatu den hezkuntza ulertu, argitu eta transmititzeko lagungarriak izan daitezkeen hainbat edukien inguruan egituratu dugu museo hau. Horrela hainbat gela aurreikusi ditugu gai hauen inguruan: Ikastolak, Berrikuntza pedagogikoa, landa eskolak, eta baita edozein eskolaren museoak dituen osagai klasikoak: pupitreak, ikasgela, etabar. Ekarpen hau Ministerio de Educación y Ciencia-k finantziatutako ikerketa baten testuinguruan kokatzen da (proiektu-zenbakia EDU-2010-15218). Autoreak Eusko Jaurlaritzak IT 603-13 zenbakiarekin babestutako Hezkuntzan Azterketa Historiko eta Konparatuetarako (Garaian) taldekideak dira eta Euskal Herriko Unibertsitateko "Hezkuntza, Kultura eta Gizartea" Prestakuntza eta Ikerketarako Unitateko (UFI 11/54) kideak dira.</dcterms:description>
+            <dcterms:description xml:lang="spa">En la panorámica museística actual en España, los museos escolares instalados en sedes universitarias están adquiriendo una presencia cada día más relevante. En diferentes lugares de España (Albacete, Galicia, Cantabria, etc.) existen museos relacionados con la educación y con diferentes denominaciones (Museo escolar, Museos del Niño, etc.). También existen otros tipos de museos particulares o privados (museo del juguete), o los museos instalados en centros escolares tanto privados como públicos. Por lo que respecta a los museos instalados en universidades se pueden destacar los de Murcia, La Laguna, Sevilla, Salamanca, Huelva, etc algunos de ellos con presencia notable también en Internet, como museos virtuales. A esta línea abierta por otras universidades se une la reciente puesta en marcha de un Museo de la Educación del País Vasco-Euskal Hezkuntzaren Museoa, en la Universidad del País Vasco UPV/EHU. La creación de este museo viene precedida por la existencia de un Centro de Documentación sobre Historia de la Educación en el País Vasco, promovido por el grupo de Estudios Históricos y Comparados en Educación, al que pertenecen los autores de esta aportación (http://www.ehu.es/euskal-hezkuntza). Este Museo se está estructurando alrededor de una serie de tópicos que nos ayuden a comprender, explicar y transmitir las características diferenciales de la educación en el País Vasco. En este sentido están previstas salas con material referente a: las ikastolas (centros que imparten su enseñanza exclusivamente en lengua vasca), la renovación pedagógica, las escuelas rurales, etc.., además de todos los elementos clásicos de un museo escolar. Esta aportación es resultado de un proyecto de investigación financiado por el Ministerio de Educación y Ciencia, proyecto número EDU-2010-15218. Los autores son miembros del Grupo de Estudios Históricos y Comparados en Educación – Garaian, reconocido por el Gobierno Vasco con el número IT 603-13 y de la Unidad de Formación e Investigación “Educación, Cultura y Sociedad (UFI 11/54)” de la Universidad del País Vasco/Euskal Herriko Unibertsitatea UPV/EHU.</dcterms:description>
+            <dcterms:subject xml:lang="slv">zgodovina</dcterms:subject>
+            <dcterms:subject xml:lang="slv">šolstvo</dcterms:subject>
+            <dcterms:subject xml:lang="slv">muzej</dcterms:subject>
+            <dcterms:subject xml:lang="eng">history</dcterms:subject>
+            <dcterms:subject xml:lang="eng">school system</dcterms:subject>
+            <dcterms:subject xml:lang="eng">museum</dcterms:subject>
+            <dcterms:publisher>Slovenski šolski muzej, Ljubljana</dcterms:publisher>
+            <dcterms:publisher>Zveza zgodovinskih društev Slovenije, Ljubljana</dcterms:publisher>
+            <dcterms:publisher>ICOM Slovenija, Celje</dcterms:publisher>
+            <dcterms:publisher>Inštitut za novejšo zgodovino, Ljubljana</dcterms:publisher>
+            <dcterms:contributor>Mathias Rösch (moderator)</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2013-06-27</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">MovingImage</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">eng</dcterms:language>
+            <dcterms:license xsi:type="dcterms:URI">http://creativecommons.org/licenses/by-nc-nd/2.5/si/</dcterms:license>
+            <dcterms:license xml:lang="slv">Priznanje avtorstva-Nekomercialo-Brez predelav 2.5 Slovenija (CC BY-NC-ND 2.5 SI)</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.37664">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>37664</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/37664</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.37664">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="eng">
+                  <pre xmlns="http://sistory.si/schema/sistory/v3/entity">In the current museum panoramic in Spain, school museums installed on university headquarters are
+achieving an increasingly important presence. In different parts of Spain (Albacete, Galicia, Cantabria, etc.)
+there are education-related museums with different names such as School Museum, Children's Museum, etc.
+There are also other types of museums which can be personal or private (toy museum); or museums installed in
+both private and public schools. With respect to the museums installed in universities, it is necessary to
+highlight the ones placed in Murcia, La Laguna, Seville, Salamanca, Huelva, etc. Some of them have a
+remarkable presence on the Internet, working as virtual museums.
+To this line opened by other universities, it has to be joined the recent launch of a Museum of Education
+of the Basque Country-“Euskal Hezkuntzaren Museoa”, in the University of the Basque Country (UPV/EHU).
+The creation of this museum is preceded by the existence of a Documentation Centre on the History of
+Education in the Basque Country, promoted by the group of Historical Studies and Comparative Education,
+whose members are the authors of this contribution (http://www.ehu.es/euskal-hezkuntza) . This museum is
+being structured around a series of topics to help us understand, explain and transmit the differential
+characteristics of education in the Basque Country. In this sense, some rooms are being planned with material
+relating to: “ikastolas” (schools providing teaching exclusively in Basque), educational renewal, rural schools,
+etc.; as well as all the classic elements of a school museum.
+This paper is the result of a research project financed by the Spanish Ministry for Science and
+Education, project number EDU-2010-15218. The authors are members of the Group for Historical and
+Comparative Studies in Education – Garaian, recognized by the Basque Government, registry number IT 603/13
+and of the Unity of Education and Research “Education, Culture and Society (UFI 11/54)” of the University of
+the Basque Country UPV/EHU.</pre>
+               </entity:description>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="video1" USE="EXTERNAL">
+            <METS:FLocat USE="YOUTUBE"
+                         LOCTYPE="URL"
+                         xlink:href="//www.youtube.com/embed/vRXwOmeGn6U"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37663"/>
+         <METS:div TYPE="entity" DMDID="dc.37664" ADMID="premis.37664 entity.37664">
+            <METS:fptr FILEID="video1"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

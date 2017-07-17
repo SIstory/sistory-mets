@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/31025"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2015-06-02T10:45:58"
+                 LASTMODDATE="2017-02-15T13:22:28"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.31025" GROUPID="31025">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="slv">Matične knjige in zapisniki duš kot vir za preučevanje otroštva v 19. stoletju</dcterms:title>
+            <dcterms:alternative xml:lang="eng">Birth Registers and Libri Status Animarum as Sources for Childhood Research in 19th Century</dcterms:alternative>
+            <dcterms:creator>Škrlj Počkaj, Sonja</dcterms:creator>
+            <dcterms:abstract xml:lang="slv">Prispevek predstavlja primer uporabe matičnih knjig in popisov duš kot vir za preučevanje otroštva župnije Trnovo v 19. stoletju. Raziskava se ukvarja s številom rojstev, z dnevom opravljenega krsta in z imeni novorojenčkov ter deležem nezakonskih otrok. Pri smrtnosti ugotavlja število smrti, razlike v številu smrti po posameznih mesecih, starost umrlih ter vzroke povečane smrtnosti otrok v posameznih letih. S pomočjo popisov duš (Status animarum) predstavlja povprečno število otrok na družino, s tem pa poskuša ugotoviti, ali mit o »veliki družini« velja za ta del slovenskega ozemlja.</dcterms:abstract>
+            <dcterms:abstract xml:lang="eng">Paper represents an example of the use of register books and Libri Status Animarum as sources for childhood research in the Trnovo parish in the 19th century. Research is dealing with the numbers of births, days of Baptism, names of newborns and the percentage of illegitimate children. It analyses numbers of deaths, differeneces in the numbers of deaths by months, the age of deceased and causes for increased numbers of children deaths within families per year. With Libri status animarum the author represents the average number of children per familly and tries to find out if the myth of the »big familly« stands in this part of Slovenian land.</dcterms:abstract>
+            <dcterms:subject xml:lang="slv">župnija Trnovo</dcterms:subject>
+            <dcterms:subject xml:lang="slv">matične knjige</dcterms:subject>
+            <dcterms:subject xml:lang="slv">rojstvo</dcterms:subject>
+            <dcterms:subject xml:lang="slv">smrt</dcterms:subject>
+            <dcterms:subject xml:lang="slv">Libri status animarum</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Parish of Trnovo</dcterms:subject>
+            <dcterms:subject xml:lang="eng">register books</dcterms:subject>
+            <dcterms:subject xml:lang="eng">birth</dcterms:subject>
+            <dcterms:subject xml:lang="eng">death</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Libri Status Animarum</dcterms:subject>
+            <dcterms:publisher>Zveza zgodovinskih društev Slovenije</dcterms:publisher>
+            <dcterms:contributor>Peter Štih (gl. in od. ur.)</dcterms:contributor>
+            <dcterms:contributor>Aida Škoro Babić (ur. in prev.)</dcterms:contributor>
+            <dcterms:contributor>Mateja Jeraj (ur.)</dcterms:contributor>
+            <dcterms:contributor>Matevž Košir (ur.)</dcterms:contributor>
+            <dcterms:contributor>Bojan Balkovec (ur.)</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2012</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">Text</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">slv</dcterms:language>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:dmdSec ID="mods.31025" GROUPID="31025">
+      <METS:mdWrap MDTYPE="MODS" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <mods:relatedItem type="series">
+               <mods:titleInfo>
+                  <mods:title>Zbirka zgodovinskega časopisa, 45</mods:title>
+               </mods:titleInfo>
+            </mods:relatedItem>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.31025">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>31025</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/31025</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.31025">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Prispevek predstavlja
+                                    primer uporabe matičnih knjig in popisov duš kot vir za
+                                    preučevanje otroštva župnije Trnovo v 19. stoletju. Raziskava se
+                                    ukvarja s številom rojstev, z dnevom opravljenega krsta in z
+                                    imeni novorojenčkov ter deležem nezakonskih otrok. Pri smrtnosti
+                                    ugotavlja število smrti, razlike v številu smrti po posameznih
+                                    mesecih, starost umrlih ter vzroke povečane smrtnosti otrok v
+                                    posameznih letih. S pomočjo popisov duš (Status animarum)
+                                    predstavlja povprečno število otrok na družino, s tem pa poskuša
+                                    ugotoviti, ali mit o »veliki družini« velja za ta del
+                                    slovenskega ozemlja. </entity:description>
+               <entity:description xml:lang="eng"> Paper represents an
+                                    example of the use of register books and Libri Status Animarum
+                                    as sources for childhood research in the Trnovo parish in the
+                                    19th century. Research is dealing with the numbers of births,
+                                    days of Baptism, names of newborns and the percentage of
+                                    illegitimate children. It analyses numbers of deaths,
+                                    differeneces in the numbers of deaths by months, the age of
+                                    deceased and causes for increased numbers of children deaths
+                                    within families per year. With Libri status animarum the author
+                                    represents the average number of children per familly and tries
+                                    to find out if the myth of the »big familly« stands in this part
+                                    of Slovenian land. </entity:description>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/31016"/>
+         <METS:div TYPE="entity"
+                   DMDID="dc.31025 mods.31025"
+                   ADMID="premis.31025 entity.31025"/>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

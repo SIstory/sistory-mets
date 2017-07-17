@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/14262"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2012-11-30T11:42:49"
+                 LASTMODDATE="2017-02-09T11:17:44"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.14262" GROUPID="14262">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="slv">Represija nad nasprotniki revolucije na Primorskem</dcterms:title>
+            <dcterms:alternative xml:lang="eng">Repression Against the Opponents of the Revolution in the Slovenian Littoral</dcterms:alternative>
+            <dcterms:creator>Podberšič, Renato</dcterms:creator>
+            <dcterms:abstract xml:lang="eng">In the introduction we should emphasise that the situation in the Slovenian Littoral (Primorska) during World War II was different than in the other Slovenian provinces or the pre-war Drava Banate. Namely, Primorska was an internationally recognised territory of the Kingdom of Italy, and the authorities had never allowed any special non-Italian military formations to operate there. When the Italian state occupied the Slovenian territory at the end of World War I, it showed clearly that it intended to keep this territory permanently, thus it also started Italianising it systematically. The political groups in Primorska knew the situation in the so-called Ljubljana Province under the Italian occupation, where the conflict between the partisan and the anti-communist side already started in 1942. Therefore they tried to do everything to prevent a similar war between brothers in Primorska. However, their outlook on the situation that arose, as well as the opinions of the individuals, were very dissimilar, especially with regard to how to face the partisans or the Liberation Front, which ultimately also brought communism to Primorska. The people of Primorska felt the activities of the partisans more indirectly, especially as revenge of the Italians for the actions carried out by the partisans. As far as the communist revolution in Primorska is concerned, we can state that the examples of direct revolutionary violence had been rare until the spring of 1943. Before the Italian capitulation the most resounding event in the wider region of Gorizia was the murder of Ivo Bric, a respected Christian and pre-war anti-fascist from Dornberk. On the orders of the partisan authorities, in the beginning of June 1943 two underage boys killed him while mowing grass. However, direct partisan violence strengthened in the middle of 1943 and especially after the Italian capitulation in the autumn of 1943. The communist agenda of the so-called national liberation struggle intensified, and the so-called second stage of the revolution paved the way for the revolutionary takeover of power with the characteristics of the Soviet system, consequently leading towards the ever increasing revolutionary violence also in the (northern) Primorska, culminating in the autumn of 1943 and in the middle of 1944. As far as the research of the revolutionary violence in Slovenia and consequently also in Primorska is concerned, we should underline that during World War II the following processes took place simultaneously in Slovenia: occupation, resistance against the occupiers, collaboration, revolution, and anti-revolution. Individual concrete manifestations of violence could involve several of these aspects at the same time, therefore it is often very difficult to analyse and establish the precise characteristics of violence. In cases of revolutionary violence in Primorska, for example arrests and murders of ideological opponents, the perpetrators were numerous and diverse: individual partisan units, field units, members of the Security Intelligence Service, members of the National Security Army, or simply individuals who took it upon themselves to act in the name of the partisan movement. We should also distinguish between executions without the sentences of the partisan military courts, where murder was most often involved, and justifications or executions on the basis of the sentences of partisan military courts, which became operational in the middle of 1943.</dcterms:abstract>
+            <dcterms:abstract xml:lang="slv">V uvodu je treba poudariti, da so bile razmere na Primorskem med drugo svetovno vojno drugačne kot v drugih pokrajinah Slovenije oz. predvojni Dravski banovini. Primorska je bila namreč mednarodno priznano ozemlje Kraljevine Italije, in oblasti nikoli niso dovolile, da bi tam delovale posebne neitalijanske vojaške formacije. Italijanska država je namreč že ob zasedbi slovenskih krajev ob koncu prve svetovne vojne jasno pokazala, da je to ozemlje dobila v trajno posest in začela tudi načrtno italijanizacijo. Politične skupine na Primorskem so imele pred očmi razmere v t. i. Ljubljanski pokrajini pod italijansko zasedbo, kjer se je že leta 1942 vnel spopad med partizansko in protikomunistično stranjo. Zato so skušale narediti vse, da bi na Primorskem preprečile podobno bratomorno vojno. Njihovo gledanje na nastale razmere kot tudi gledanje posameznikov pa je bilo precej različno, še zlasti glede tega, kako se soočiti s partizanstvom oz. Osvobodilno fronto, ki je v končni posledici tudi na Primorsko prinašala komunizem. Primorci so partizansko delovanje čutili bolj posredno, predvsem kot maščevanje Italijanov za izvedene partizanske akcije. O začetkih komunistične revolucije na Primorskem lahko rečemo, da so primeri neposrednega revolucionarnega nasilja do pomladi 1943 redki. Pred kapitulacijo Italije je na širšem goriškem območju najbolj odmeval umor Iva Brica, uglednega kristjana in predvojnega protifašista iz Dornberka. Po ukazu partizanskih oblasti sta ga v začetku junija 1943 med košnjo na travniku pokončala mladoletna fanta. Neposredno partizansko nasilje pa se je okrepilo sredi leta 1943, še zlasti po kapitulaciji Italije jeseni 1943. Zaostrila se je komunistična sestavina t. i. narodnoosvobodilnega gibanja, kar je s t. i. drugo fazo revolucije vodilo v uresničevanje revolucionarnega prevzema oblasti, in to z značilnostmi sovjetskega sistema, kar je posledično vodilo v vse večje revolucionarno nasilje tudi na (severnem) Primorskem, ki je jeseni leta 1943 in sredi leta 1944 doseglo vrhunec. V zvezi s preučevanjem revolucionarnega nasilja na Slovenskem in posledično tudi na Primorskem je treba izpostaviti, da so se med drugo svetovno vojno na Slovenskem izvajali hkrati okupacija, upor proti okupatorju, kolaboracija, revolucija in protirevolucija. V posameznih konkretnih oblikah nasilja se je lahko prepletalo hkrati več prej omenjenih vidikov, zato je marsikdaj zelo težko razčleniti in ugotoviti natančno karakteristiko nasilja. V primerih revolucionarnega nasilja na Primorskem, na primer aretacij in umorov ideoloških nasprotnikov, je bila med storilci široka in pisana združba: posamezne partizanske enote, terenci, vosovci, pripadniki Vojske državne varnosti (VDV) ali kar posamezniki, ki so si sami vzeli pravico nastopanja v imenu partizanskega gibanja. Treba je tudi razlikovati med usmrtitvami brez sodbe partizanskih vojaških sodišč, kjer je največkrat šlo za umore, in t. i. justifikacijami oz. usmrtitvami na podlagi sodb partizanskih vojaških sodišč, ki so začela delovati sredi leta 1943.</dcterms:abstract>
+            <dcterms:publisher>Inštitut za novejšo zgodovino/Institute of Contemporary History, Ljubljana</dcterms:publisher>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2012-11-07</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">MovingImage</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">slv</dcterms:language>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.14262">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>14262</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/14262</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.14262">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> V uvodu je treba
+                                    poudariti, da so bile razmere na Primorskem med drugo svetovno
+                                    vojno drugačne kot v drugih pokrajinah Slovenije oz. predvojni
+                                    Dravski banovini. Primorska je bila namreč mednarodno priznano
+                                    ozemlje Kraljevine Italije, in oblasti nikoli niso dovolile, da
+                                    bi tam delovale posebne neitalijanske vojaške formacije.
+                                    Italijanska država je namreč že ob zasedbi slovenskih krajev ob
+                                    koncu prve svetovne vojne jasno pokazala, da je to ozemlje
+                                    dobila v trajno posest in začela tudi načrtno italijanizacijo.
+                                    Politične skupine na Primorskem so imele pred očmi razmere v t.
+                                    i. Ljubljanski pokrajini pod italijansko zasedbo, kjer se je že
+                                    leta 1942 vnel spopad med partizansko in protikomunistično
+                                    stranjo. Zato so skušale narediti vse, da bi na Primorskem
+                                    preprečile podobno bratomorno vojno. Njihovo gledanje na nastale
+                                    razmere kot tudi gledanje posameznikov pa je bilo precej
+                                    različno, še zlasti glede tega, kako se soočiti s partizanstvom
+                                    oz. Osvobodilno fronto, ki je v končni posledici tudi na
+                                    Primorsko prinašala komunizem. Primorci so partizansko delovanje
+                                    čutili bolj posredno, predvsem kot maščevanje Italijanov za
+                                    izvedene partizanske akcije. O začetkih komunistične revolucije
+                                    na Primorskem lahko rečemo, da so primeri neposrednega
+                                    revolucionarnega nasilja do pomladi 1943 redki. Pred
+                                    kapitulacijo Italije je na širšem goriškem območju najbolj
+                                    odmeval umor Iva Brica, uglednega kristjana in predvojnega
+                                    protifašista iz Dornberka. Po ukazu partizanskih oblasti sta ga
+                                    v začetku junija 1943 med košnjo na travniku pokončala
+                                    mladoletna fanta. Neposredno partizansko nasilje pa se je
+                                    okrepilo sredi leta 1943, še zlasti po kapitulaciji Italije
+                                    jeseni 1943. Zaostrila se je komunistična sestavina t. i.
+                                    narodnoosvobodilnega gibanja, kar je s t. i. drugo fazo
+                                    revolucije vodilo v uresničevanje revolucionarnega prevzema
+                                    oblasti, in to z značilnostmi sovjetskega sistema, kar je
+                                    posledično vodilo v vse večje revolucionarno nasilje tudi na
+                                    (severnem) Primorskem, ki je jeseni leta 1943 in sredi leta 1944
+                                    doseglo vrhunec. V zvezi s preučevanjem revolucionarnega nasilja
+                                    na Slovenskem in posledično tudi na Primorskem je treba
+                                    izpostaviti, da so se med drugo svetovno vojno na Slovenskem
+                                    izvajali hkrati okupacija, upor proti okupatorju, kolaboracija,
+                                    revolucija in protirevolucija. V posameznih konkretnih oblikah
+                                    nasilja se je lahko prepletalo hkrati več prej omenjenih
+                                    vidikov, zato je marsikdaj zelo težko razčleniti in ugotoviti
+                                    natančno karakteristiko nasilja. V primerih revolucionarnega
+                                    nasilja na Primorskem, na primer aretacij in umorov ideoloških
+                                    nasprotnikov, je bila med storilci široka in pisana združba:
+                                    posamezne partizanske enote, terenci, vosovci, pripadniki Vojske
+                                    državne varnosti (VDV) ali kar posamezniki, ki so si sami vzeli
+                                    pravico nastopanja v imenu partizanskega gibanja. Treba je tudi
+                                    razlikovati med usmrtitvami brez sodbe partizanskih vojaških
+                                    sodišč, kjer je največkrat šlo za umore, in t. i.
+                                    justifikacijami oz. usmrtitvami na podlagi sodb partizanskih
+                                    vojaških sodišč, ki so začela delovati sredi leta 1943. </entity:description>
+               <entity:description xml:lang="eng"> In the introduction we
+                                    should emphasise that the situation in the Slovenian Littoral
+                                    (Primorska) during World War II was different than in the other
+                                    Slovenian provinces or the pre-war Drava Banate. Namely,
+                                    Primorska was an internationally recognised territory of the
+                                    Kingdom of Italy, and the authorities had never allowed any
+                                    special non-Italian military formations to operate there. When
+                                    the Italian state occupied the Slovenian territory at the end of
+                                    World War I, it showed clearly that it intended to keep this
+                                    territory permanently, thus it also started Italianising it
+                                    systematically. The political groups in Primorska knew the
+                                    situation in the so-called Ljubljana Province under the Italian
+                                    occupation, where the conflict between the partisan and the
+                                    anti-communist side already started in 1942. Therefore they
+                                    tried to do everything to prevent a similar war between brothers
+                                    in Primorska. However, their outlook on the situation that
+                                    arose, as well as the opinions of the individuals, were very
+                                    dissimilar, especially with regard to how to face the partisans
+                                    or the Liberation Front, which ultimately also brought communism
+                                    to Primorska. The people of Primorska felt the activities of the
+                                    partisans more indirectly, especially as revenge of the Italians
+                                    for the actions carried out by the partisans. As far as the
+                                    communist revolution in Primorska is concerned, we can state
+                                    that the examples of direct revolutionary violence had been rare
+                                    until the spring of 1943. Before the Italian capitulation the
+                                    most resounding event in the wider region of Gorizia was the
+                                    murder of Ivo Bric, a respected Christian and pre-war
+                                    anti-fascist from Dornberk. On the orders of the partisan
+                                    authorities, in the beginning of June 1943 two underage boys
+                                    killed him while mowing grass. However, direct partisan violence
+                                    strengthened in the middle of 1943 and especially after the
+                                    Italian capitulation in the autumn of 1943. The communist agenda
+                                    of the so-called national liberation struggle intensified, and
+                                    the so-called second stage of the revolution paved the way for
+                                    the revolutionary takeover of power with the characteristics of
+                                    the Soviet system, consequently leading towards the ever
+                                    increasing revolutionary violence also in the (northern)
+                                    Primorska, culminating in the autumn of 1943 and in the middle
+                                    of 1944. As far as the research of the revolutionary violence in
+                                    Slovenia and consequently also in Primorska is concerned, we
+                                    should underline that during World War II the following
+                                    processes took place simultaneously in Slovenia: occupation,
+                                    resistance against the occupiers, collaboration, revolution, and
+                                    anti-revolution. Individual concrete manifestations of violence
+                                    could involve several of these aspects at the same time,
+                                    therefore it is often very difficult to analyse and establish
+                                    the precise characteristics of violence. In cases of
+                                    revolutionary violence in Primorska, for example arrests and
+                                    murders of ideological opponents, the perpetrators were numerous
+                                    and diverse: individual partisan units, field units, members of
+                                    the Security Intelligence Service, members of the National
+                                    Security Army, or simply individuals who took it upon themselves
+                                    to act in the name of the partisan movement. We should also
+                                    distinguish between executions without the sentences of the
+                                    partisan military courts, where murder was most often involved,
+                                    and justifications or executions on the basis of the sentences
+                                    of partisan military courts, which became operational in the
+                                    middle of 1943. </entity:description>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="video1" USE="EXTERNAL">
+            <METS:FLocat USE="YOUTUBE"
+                         LOCTYPE="URL"
+                         xlink:href="http://www.youtube.com/embed/DyCGD5vdZMY"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/14256"/>
+         <METS:div TYPE="entity" DMDID="dc.14262" ADMID="premis.14262 entity.14262">
+            <METS:fptr FILEID="video1"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

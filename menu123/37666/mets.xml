@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/37666"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2017-05-29T09:15:13"
+                 LASTMODDATE="2017-06-16T10:47:40"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.37666" GROUPID="37666">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="eng">When the "West" meets the "East": School museum in Yogyakarta, Indonesia</dcterms:title>
+            <dcterms:alternative xml:lang="slv">Ko se “Zahod” sreča z “Vzhodom”: Šolski muzej v Jogjakarti, Indonezija</dcterms:alternative>
+            <dcterms:alternative xml:lang="">Ketika "Barat" bertemu dengan "Timur": Museum Sekolah di Jogjakarta, Indonesia</dcterms:alternative>
+            <dcterms:creator>Palaić, Tina</dcterms:creator>
+            <dcterms:description xml:lang="eng">When someone combines work and pleasure only good things can happen. That was the case with my travel to Indonesia, where I went in September 2012. I love to travel and see new places but usually this is not enough for me. I also want to work with local people and get to know their concepts of life. Besides visiting great Borobudur temple and wonderful Mount Bromo in Bromo Tengger Semeru National Park I have met very nice and friendly people in School Museum in Yogyakarta – Museum Pendidikan Indonesia (MPI). MPI is first national school museum in Indonesia. It was established on 8th of July in 2008 by the Yogyakarta State University (Universitas Negeri Yogyakarta). It is very young museum but this tells nothing about their activities and goals. MPI has great plan: it tries to present the history of education of the entire country. Behind their aim lies the official national slogan »Bhinneka Tunggal Ika«, which means “Unity in Diversity”. There are over 300 ethnic groups in Indonesia. As my interlocutor pointed out to strengthen national identity they have to respect diversity and give value to the cultures and education histories of each ethnic group. For now their exhibition collection is modest, but they are planning to conduct new researches and prepare additional exhibitions and activities. As a guest of the MPI I attended the festival of museums, which was held from 23rd to 28th of September in Yogyakarta. The theme of the festival was “museum goes to Istana”, which means Sultan’s palace. 28 museums from Yogya and 5 from the capital city, Jakarta, started with the carnival of museums at the main street of the city, called Malioboro. They presented their activities and materials in a very imaginative ways. The carnival ended in Sultan’s palace where the central happening took place.</dcterms:description>
+            <dcterms:description xml:lang="slv">Kadar združimo delo z užitkom, zmeraj kaj dobrega nastane. Tako je bilo tudi v primeru mojega potovanja v Indonezijo, kamor sem odšla v septembru leta 2012. Zelo rada potujem in obiščem nove kraje, vendar običajno zame to ni dovolj. Med obiskom tuje dežele mi je pomembno tudi, da sodelujem z domačini in spoznavam njihove življenjske koncepte. Poleg ogleda veličastnega templja Borobudur in čudovitega vulkana Bromo v Nacionalnem parku Bromo Tengger Semeru sem spoznala zelo prijetne ljudi v Šolskem muzeju v Yogyakarti – v Museum Pendidikan Indonesia (MPI). MPI je prvi nacionalni šolski muzej v Indoneziji. 8. julija 2008 ga je ustanovila Državna univerza v Jogjakarti (Universitas Negeri Yogyakarta). To je zelo mlad muzej, mladost pa še nič ne pove o njihovih aktivnostih in ciljih. MPI ima velike načrte: predstaviti želi zgodovino izobraževanja v celotni državi. V ozadju tega cilja zasledimo uradni nacionalni slogan »Bhinneka Tunggal Ika«, kar pomeni »enotnost v različnosti«. V Indoneziji sobiva več kot 300 etničnih skupin. Kot je poudaril moj sogovornik, je za krepitev nacionalne identitete potrebno spoštovati različnost in dati vrednost kulturi in zgodovini izobraževanja vsake etnične skupine. Zaenkrat je razstavna zbirka muzeja še skromna, a načrtujejo nove raziskave in pripravo dodatnih razstav ter aktivnosti. Kot gost MPI-ja sem se udeležila festivala muzejev, ki je potekal od 23. do 28. septembra v Jogjakarti. Tema festivala je bila »muzej gre v palačo«, s čimer je bila mišljena sultanova palača v Jogjakarti. 28 muzejev iz Jogjakarte in 5 iz glavnega mesta, Jakarte, je festival pričelo s karnevalom muzejev na začetku glavne ulice mesta, imenovane Malioboro. Aktivnosti in muzejske eksponate so predstavili na zelo domiseln način. Karneval se je zaključil v sultanovi palači, kjer se je naslednje dni odvijalo osrednje dogajanje festivala.</dcterms:description>
+            <dcterms:description xml:lang="">Ketika kita menggabungkan pekerjaan dengan kesenangan, kami selalu mendapatkan hasil yang baik. Ini juga kasus perjalanan saya ke Indonesia, di mana saya pergi pada bulan September 2012. Saya suka bepergian dan mengunjungi tempat-tempat baru, tetapi ini biasanya tidak cukup untuk saya. Ketika saya mengunjungi sebuah negara yang baru adalah penting untuk bekerja sama dengan masyarakat setempat dan belajar cara hidup mereka. Selain mengunjungi Candi Borobudur yang megah dan indah Gunung Bromo di Bromo Tengger Semeru taman nasional, saya bertemu orang-orang yang sangat menyenangkan di museum sekolah di Yogyakarta - Museum Pendidikan Indonesia (MPI). MPI adalah yang pertama museum sekolah nasional di Indonesia. Universitas negeri di Yogyakarta didirikan pada tanggal 8 Juli di 2008. Ini adalah sebuah museum yang sangat muda, tapi usia tidak memberitahu tentang aktivitas atau tujuan. MPI memiliki rencana besar: untuk memperkenalkan sejarah pendidikan di seluruh negeri. Di balik tujuan ini kita menemukan slogan nasional »Bhinneka Tunggal Ika«. Ada lebih dari 300 kelompok etnis di Indonesia. Sebagai koresponden saya berkata, kita harus menghormati keragaman dan memberikan nilai kepada budaya dan sejarah pendidikan masing-masing kelompok etnis untuk memperkuat identitas nasional. Untuk saat ini koleksi museum sederhana, tapi ada merencanakan penelitian baru dan mempersiapkan eksibisi tambahan dan aktivitas. Sebagai tamu MPI saya menghadiri festival museum, yaitu dari 23. sampai 28. September di Yogyakarta. Tema festival adalah "museum pergi ke istana", yang berarti istana sultan di Yogyakarta. 28 museum dari Yogyakarta dan 5 dari Jakarta, ibukota negara, mulai festival museum dengan karnaval di pada awal Jalan Malioboro. Mereka memperkenalkan aktivitas dan pameran dengan cara yang sangat menarik. Karnaval berakhir di keraton sultan, di mana acara utama festival berlangsung dalam beberapa hari ke depan.</dcterms:description>
+            <dcterms:subject xml:lang="slv">zgodovina</dcterms:subject>
+            <dcterms:subject xml:lang="slv">šolstvo</dcterms:subject>
+            <dcterms:subject xml:lang="slv">muzej</dcterms:subject>
+            <dcterms:subject xml:lang="eng">history</dcterms:subject>
+            <dcterms:subject xml:lang="eng">school system</dcterms:subject>
+            <dcterms:subject xml:lang="eng">museum</dcterms:subject>
+            <dcterms:publisher>Slovenski šolski muzej, Ljubljana</dcterms:publisher>
+            <dcterms:publisher>Zveza zgodovinskih društev Slovenije, Ljubljana</dcterms:publisher>
+            <dcterms:publisher>ICOM Slovenija, Celje</dcterms:publisher>
+            <dcterms:publisher>Inštitut za novejšo zgodovino, Ljubljana</dcterms:publisher>
+            <dcterms:contributor>Mathias Rösch (moderator)</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2013-06-27</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">MovingImage</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">eng</dcterms:language>
+            <dcterms:license xsi:type="dcterms:URI">http://creativecommons.org/licenses/by-nc-nd/2.5/si/</dcterms:license>
+            <dcterms:license xml:lang="slv">Priznanje avtorstva-Nekomercialo-Brez predelav 2.5 Slovenija (CC BY-NC-ND 2.5 SI)</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.37666">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>37666</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/37666</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.37666">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="slv">
+                  <p xmlns="http://sistory.si/schema/sistory/v3/entity">Kadar združimo delo z užitkom, zmeraj kaj dobrega nastane.
+                                        Tako je bilo tudi v primeru mojega potovanja v Indonezijo,
+                                        kamor sem odšla v septembru leta 2012. Zelo rada potujem in
+                                        obiščem nove kraje, vendar običajno zame to ni dovolj. Med
+                                        obiskom tuje dežele mi je pomembno tudi, da sodelujem z
+                                        domačini in spoznavam njihove življenjske koncepte. Poleg
+                                        ogleda veličastnega templja Borobudur in čudovitega vulkana
+                                        Bromo v Nacionalnem parku Bromo Tengger Semeru sem spoznala
+                                        zelo prijetne ljudi v Šolskem muzeju v Yogyakarti – v Museum
+                                        Pendidikan Indonesia (MPI). MPI je prvi nacionalni šolski
+                                        muzej v Indoneziji. 8. julija 2008 ga je ustanovila Državna
+                                        univerza v Jogjakarti (Universitas Negeri Yogyakarta). To je
+                                        zelo mlad muzej, mladost pa še nič ne pove o njihovih
+                                        aktivnostih in ciljih. MPI ima velike načrte: predstaviti
+                                        želi zgodovino izobraževanja v celotni državi. V ozadju tega
+                                        cilja zasledimo uradni nacionalni slogan »Bhinneka Tunggal
+                                        Ika«, kar pomeni »enotnost v različnosti«. V Indoneziji
+                                        sobiva več kot 300 etničnih skupin. Kot je poudaril moj
+                                        sogovornik, je za krepitev nacionalne identitete potrebno
+                                        spoštovati različnost in dati vrednost kulturi in zgodovini
+                                        izobraževanja vsake etnične skupine. Zaenkrat je razstavna
+                                        zbirka muzeja še skromna, a načrtujejo nove raziskave in
+                                        pripravo dodatnih razstav ter aktivnosti. Kot gost MPI-ja
+                                        sem se udeležila festivala muzejev, ki je potekal od 23. do
+                                        28. septembra v Jogjakarti. Tema festivala je bila »muzej
+                                        gre v palačo«, s čimer je bila mišljena sultanova palača v
+                                        Jogjakarti. 28 muzejev iz Jogjakarte in 5 iz glavnega mesta,
+                                        Jakarte, je festival pričelo s karnevalom muzejev na začetku
+                                        glavne ulice mesta, imenovane Malioboro. Aktivnosti in
+                                        muzejske eksponate so predstavili na zelo domiseln način.
+                                        Karneval se je zaključil v sultanovi palači, kjer se je
+                                        naslednje dni odvijalo osrednje dogajanje festivala.</p>
+               </entity:description>
+               <entity:description xml:lang="eng">
+                  <p xmlns="http://sistory.si/schema/sistory/v3/entity">When someone combines work and pleasure only good things can
+                                        happen. That was the case with my travel to Indonesia, where
+                                        I went in September 2012. I love to travel and see new
+                                        places but usually this is not enough for me. I also want to
+                                        work with local people and get to know their concepts of
+                                        life. Besides visiting great Borobudur temple and wonderful
+                                        Mount Bromo in Bromo Tengger Semeru National Park I have met
+                                        very nice and friendly people in School Museum in Yogyakarta
+                                        – Museum Pendidikan Indonesia (MPI). MPI is first national
+                                        school museum in Indonesia. It was established on 8th of
+                                        July in 2008 by the Yogyakarta State University (Universitas
+                                        Negeri Yogyakarta). It is very young museum but this tells
+                                        nothing about their activities and goals. MPI has great
+                                        plan: it tries to present the history of education of the
+                                        entire country. Behind their aim lies the official national
+                                        slogan »Bhinneka Tunggal Ika«, which means “Unity in
+                                        Diversity”. There are over 300 ethnic groups in Indonesia.
+                                        As my interlocutor pointed out to strengthen national
+                                        identity they have to respect diversity and give value to
+                                        the cultures and education histories of each ethnic group.
+                                        For now their exhibition collection is modest, but they are
+                                        planning to conduct new researches and prepare additional
+                                        exhibitions and activities. As a guest of the MPI I attended
+                                        the festival of museums, which was held from 23rd to 28th of
+                                        September in Yogyakarta. The theme of the festival was
+                                        “museum goes to Istana”, which means Sultan’s palace. 28
+                                        museums from Yogya and 5 from the capital city, Jakarta,
+                                        started with the carnival of museums at the main street of
+                                        the city, called Malioboro. They presented their activities
+                                        and materials in a very imaginative ways. The carnival ended
+                                        in Sultan’s palace where the central happening took
+                                        place.</p>
+               </entity:description>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="video1" USE="EXTERNAL">
+            <METS:FLocat USE="YOUTUBE"
+                         LOCTYPE="URL"
+                         xlink:href="//www.youtube.com/embed/EVrhln8TlmQ"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/37663"/>
+         <METS:div TYPE="entity" DMDID="dc.37666" ADMID="premis.37666 entity.37666">
+            <METS:fptr FILEID="video1"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

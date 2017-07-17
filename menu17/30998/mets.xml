@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/30998"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+   <METS:metsHdr CREATEDATE="2015-05-14T10:50:04"
+                 LASTMODDATE="2017-02-15T09:29:39"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name/>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="dc.30998" GROUPID="30998">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="slv">Samovrednotenje dela učitelja zgodovine</dcterms:title>
+            <dcterms:alternative xml:lang="eng">Self-evaluation of History teacher's work</dcterms:alternative>
+            <dcterms:creator>Šitih, Matija Mitja</dcterms:creator>
+            <dcterms:description xml:lang="slv">The article summarized the central part of a Master's thesis, which researches the evaluation of pedagogic work of history teachers in general secondary schools. The teacher evaluates the success, purpose and effectiveness of his work by self-evaluation. This strives to ensure quality and entices a professional and personal development. Although the term implies various procedures (inquiry, discussion, reflection, class observation, self-assessment, etc.), all teachers come across self-evaluation. A history teacher with his/her work in class can have an impact on the perception of the pupils, can encourage the development of sensitivity and critical thinking and often represents to the pupils a certain reference and example. This is why a teacher cannot afford to not self-evaluate his work. Self-evaluation enables a current observation of the work and the possibility to determine the strong and weak areas. The time and effort a teacher invests in self-evaluation eventually pays off in the form of satisfaction in future work.</dcterms:description>
+            <dcterms:abstract xml:lang="slv">Članek je povzet po osrednjem delu magistrske naloge, ki raziskuje ovrednotenje pedagoškega dela učiteljev zgodovine v gimnazijah. Učitelj preverja uspeh, smiselnost in efektivnost lastnega dela s samovrednotenjem, ki teži k zagotavljanju kakovosti ter spodbuja profesionalni in osebni razvoj. Čeprav si pod istim pojmom predstavljajo različne postopke (anketiranje, pogovor, refleksijo, opazovanje pouka, samoocenjevanje ...), se s samovrednotenjem srečujejo vsi učitelji. Učitelj zgodovine z delom v razredu lahko vpliva na predstave učencev, spodbuja razvoj občutljivosti in kritičnosti ter učencem pogosto predstavlja referenco in zgled. Zato si nespraševanja o svojem delu ne sme privoščiti. Samovrednotenje omogoča sprotno preverjanje dela in ugotavljanje močnih in šibkih področij. Čas in napor, ki ga učitelj vloži vanj, se prej ali slej povrneta v obliki zadovoljstva pri nadaljnjem delu.</dcterms:abstract>
+            <dcterms:subject xml:lang="slv">samovrednotenje</dcterms:subject>
+            <dcterms:subject xml:lang="slv">učitelj zgodovine</dcterms:subject>
+            <dcterms:subject xml:lang="slv">kakovost</dcterms:subject>
+            <dcterms:subject xml:lang="slv">opazovanje pouka</dcterms:subject>
+            <dcterms:subject xml:lang="slv">profesionalni razvoj</dcterms:subject>
+            <dcterms:subject xml:lang="slv">vseživljenjsko učenje</dcterms:subject>
+            <dcterms:subject xml:lang="eng">self-evalvation</dcterms:subject>
+            <dcterms:subject xml:lang="eng">History teacher</dcterms:subject>
+            <dcterms:subject xml:lang="eng">quality</dcterms:subject>
+            <dcterms:subject xml:lang="eng">class observation</dcterms:subject>
+            <dcterms:subject xml:lang="eng">professional development</dcterms:subject>
+            <dcterms:subject xml:lang="eng">life-long learning</dcterms:subject>
+            <dcterms:publisher>Oddelek za zgodovino Filozofske fakultete Univerze v Ljubljani, Ljubljana</dcterms:publisher>
+            <dcterms:contributor>Danijela Trškan (ur.)</dcterms:contributor>
+            <dcterms:contributor>Darja Pipuš Sunesko (prev.)</dcterms:contributor>
+            <dcterms:contributor>Danijela Trškan (prev.)</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2011</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">Text</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">slv</dcterms:language>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:dmdSec ID="mods.30998" GROUPID="30998">
+      <METS:mdWrap MDTYPE="MODS" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <mods:relatedItem type="series">
+               <mods:relatedItem type="series">
+                  <mods:titleInfo>
+                     <mods:title>Historia: znanstvena zbirka Oddelka za zgodovino Filozofska fakultete v Ljubljani</mods:title>
+                  </mods:titleInfo>
+                  <mods:part>
+                     <mods:detail type="volumens">
+                        <mods:number>19</mods:number>
+                     </mods:detail>
+                  </mods:part>
+               </mods:relatedItem>
+            </mods:relatedItem>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="entity">
+      <METS:techMD ID="premis.30998">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:object>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>30998</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectIdentifier>
+                     <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                     <premis:objectIdentifierValue>http://hdl.handle.net/11686/30998#page=339</premis:objectIdentifierValue>
+                  </premis:objectIdentifier>
+                  <premis:objectCategory>Entity</premis:objectCategory>
+               </premis:object>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="entity.30998">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Članek je povzet po
+                                    osrednjem delu magistrske naloge, ki raziskuje ovrednotenje
+                                    pedagoškega dela učiteljev zgodovine v gimnazijah. Učitelj
+                                    preverja uspeh, smiselnost in efektivnost lastnega dela s
+                                    samovrednotenjem, ki teži k zagotavljanju kakovosti ter spodbuja
+                                    profesionalni in osebni razvoj. Čeprav si pod istim pojmom
+                                    predstavljajo različne postopke (anketiranje, pogovor,
+                                    refleksijo, opazovanje pouka, samoocenjevanje ...), se s
+                                    samovrednotenjem srečujejo vsi učitelji. Učitelj zgodovine z
+                                    delom v razredu lahko vpliva na predstave učencev, spodbuja
+                                    razvoj občutljivosti in kritičnosti ter učencem pogosto
+                                    predstavlja referenco in zgled. Zato si nespraševanja o svojem
+                                    delu ne sme privoščiti. Samovrednotenje omogoča sprotno
+                                    preverjanje dela in ugotavljanje močnih in šibkih področij. Čas
+                                    in napor, ki ga učitelj vloži vanj, se prej ali slej povrneta v
+                                    obliki zadovoljstva pri nadaljnjem delu. </entity:description>
+               <entity:description xml:lang="eng"> The article summarized
+                                    the central part of a Master's thesis, which researches the
+                                    evaluation of pedagogic work of history teachers in general
+                                    secondary schools. The teacher evaluates the success, purpose
+                                    and effectiveness of his work by self-evaluation. This strives
+                                    to ensure quality and entices a professional and personal
+                                    development. Although the term implies various procedures
+                                    (inquiry, discussion, reflection, class observation,
+                                    self-assessment, etc.), all teachers come across
+                                    self-evaluation. A history teacher with his/her work in class
+                                    can have an impact on the perception of the pupils, can
+                                    encourage the development of sensitivity and critical thinking
+                                    and often represents to the pupils a certain reference and
+                                    example. This is why a teacher cannot afford to not
+                                    self-evaluate his work. Self-evaluation enables a current
+                                    observation of the work and the possibility to determine the
+                                    strong and weak areas. The time and effort a teacher invests in
+                                    self-evaluation eventually pays off in the form of satisfaction
+                                    in future work. </entity:description>
+               <entity:page>339</entity:page>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   LABEL="SIstory"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/30974"/>
+         <METS:div TYPE="entity"
+                   DMDID="dc.30998 mods.30998"
+                   ADMID="premis.30998 entity.30998"/>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>
