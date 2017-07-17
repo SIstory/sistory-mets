@@ -37,6 +37,11 @@
           <xs:documentation>Če menu vsebuje publikacije, je true</xs:documentation>
         </xs:annotation>
       </xs:attribute>
+      <xs:attribute name="active" type="xs:NCName" default="false">
+        <xs:annotation>
+          <xs:documentation>Če menu ni aktivej, je false</xs:documentation>
+        </xs:annotation>
+      </xs:attribute>
     </xs:complexType>
   </xs:element>
   <xs:element name="title">

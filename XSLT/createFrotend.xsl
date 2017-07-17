@@ -11,56 +11,63 @@
     
     <xsl:output method="xml" indent="yes"/>
     
+    <xsl:variable name="document-uri" select="document-uri(.)"/>
+    <xsl:variable name="filename" select="(tokenize($document-uri,'/'))[last()]"/>
+    <xsl:variable name="menu" select="tokenize($filename,'-')[1]"/>
+    <xsl:variable name="document" select="concat($menu,'-frontend.xml')"/>
+    
     <xsl:template match="sistory:root">
-        <root xmlns="http://sistory.si/schema/sistory/v3/entity">
-            <!-- lahko poberem podatke za samo aktivne publikacije -->
-            <xsl:for-each select="sistory:publication[number(sistory:STATUS)=1]">
-                <xsl:variable name="id" select="sistory:ID"/>
-                <xsl:variable name="sistoryHTMLsl" select="concat('http://sistory.si/11686/',$id,'?language=sl')"/>
-                <xsl:variable name="sistoryHTMLen" select="concat('http://sistory.si/11686/',$id,'?language=en')"/>
-                <xsl:variable name="string-sl-var1">
-                    <xsl:value-of select="unparsed-text($sistoryHTMLsl,'UTF-8')"/>
-                </xsl:variable>
-                <xsl:variable name="string-en-var1">
-                    <xsl:value-of select="unparsed-text($sistoryHTMLen,'UTF-8')"/>
-                </xsl:variable>
-                
-                <frontend>
-                    <id>
-                        <xsl:value-of select="$id"/>
-                    </id>
-                    <files>
-                        <xsl:analyze-string select="$string-sl-var1" regex="(&lt;div\sid=&quot;okvircek&quot;&gt;)(.*?)(&lt;/aside&gt;)" flags="s">
-                            <xsl:matching-substring>
-                                <xsl:value-of select="." disable-output-escaping="yes"/>
-                                <xsl:text disable-output-escaping="yes"><![CDATA[</div>]]></xsl:text>
-                            </xsl:matching-substring>
-                            <xsl:non-matching-substring>
-                                <xsl:analyze-string select="." regex="&amp;download">
-                                    <xsl:matching-substring>
-                                        <xsl:text disable-output-escaping="yes"><![CDATA[&download]]></xsl:text>
-                                    </xsl:matching-substring>
-                                </xsl:analyze-string>
-                            </xsl:non-matching-substring>
-                        </xsl:analyze-string>
-                    </files>
-                    <description_sl>
-                        <xsl:analyze-string select="$string-sl-var1" regex="(&lt;section\sid=&quot;opis&quot;&gt;)(.*?)(&lt;/section&gt;)" flags="s">
-                            <xsl:matching-substring>
-                                <xsl:value-of select="." disable-output-escaping="yes"/>
-                            </xsl:matching-substring>
-                        </xsl:analyze-string>
-                    </description_sl>
-                    <description_en>
-                        <xsl:analyze-string select="$string-en-var1" regex="(&lt;section\sid=&quot;opis&quot;&gt;)(.*?)(&lt;/section&gt;)" flags="s">
-                            <xsl:matching-substring>
-                                <xsl:value-of select="." disable-output-escaping="yes"/>
-                            </xsl:matching-substring>
-                        </xsl:analyze-string>
-                    </description_en>
-                </frontend>
-            </xsl:for-each>
-        </root>
+        <xsl:result-document href="{$document}">
+            <root xmlns="http://sistory.si/schema/sistory/v3/entity">
+                <!-- lahko poberem podatke za samo aktivne publikacije -->
+                <xsl:for-each select="sistory:publication[number(sistory:STATUS)=1]">
+                    <xsl:variable name="id" select="sistory:ID"/>
+                    <xsl:variable name="sistoryHTMLsl" select="concat('http://sistory.si/11686/',$id,'?language=sl')"/>
+                    <xsl:variable name="sistoryHTMLen" select="concat('http://sistory.si/11686/',$id,'?language=en')"/>
+                    <xsl:variable name="string-sl-var1">
+                        <xsl:value-of select="unparsed-text($sistoryHTMLsl,'UTF-8')"/>
+                    </xsl:variable>
+                    <xsl:variable name="string-en-var1">
+                        <xsl:value-of select="unparsed-text($sistoryHTMLen,'UTF-8')"/>
+                    </xsl:variable>
+                    
+                    <frontend>
+                        <id>
+                            <xsl:value-of select="$id"/>
+                        </id>
+                        <files>
+                            <xsl:analyze-string select="$string-sl-var1" regex="(&lt;div\sid=&quot;okvircek&quot;&gt;)(.*?)(&lt;/aside&gt;)" flags="s">
+                                <xsl:matching-substring>
+                                    <xsl:value-of select="." disable-output-escaping="yes"/>
+                                    <xsl:text disable-output-escaping="yes"><![CDATA[</div>]]></xsl:text>
+                                </xsl:matching-substring>
+                                <xsl:non-matching-substring>
+                                    <xsl:analyze-string select="." regex="&amp;download">
+                                        <xsl:matching-substring>
+                                            <xsl:text disable-output-escaping="yes"><![CDATA[&download]]></xsl:text>
+                                        </xsl:matching-substring>
+                                    </xsl:analyze-string>
+                                </xsl:non-matching-substring>
+                            </xsl:analyze-string>
+                        </files>
+                        <description_sl>
+                            <xsl:analyze-string select="$string-sl-var1" regex="(&lt;section\sid=&quot;opis&quot;&gt;)(.*?)(&lt;/section&gt;)" flags="s">
+                                <xsl:matching-substring>
+                                    <xsl:value-of select="." disable-output-escaping="yes"/>
+                                </xsl:matching-substring>
+                            </xsl:analyze-string>
+                        </description_sl>
+                        <description_en>
+                            <xsl:analyze-string select="$string-en-var1" regex="(&lt;section\sid=&quot;opis&quot;&gt;)(.*?)(&lt;/section&gt;)" flags="s">
+                                <xsl:matching-substring>
+                                    <xsl:value-of select="." disable-output-escaping="yes"/>
+                                </xsl:matching-substring>
+                            </xsl:analyze-string>
+                        </description_en>
+                    </frontend>
+                </xsl:for-each>
+            </root>
+        </xsl:result-document>
     </xsl:template>
     
 </xsl:stylesheet>

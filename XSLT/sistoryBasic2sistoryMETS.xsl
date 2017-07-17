@@ -17,7 +17,7 @@
     version="2.0">
     
     <!-- TODO:
-            - v METS:div/@DMDID zapiši povezave na vse opisne metapodatke te entitete
+            - Naredi seznam uporabnikov administracije in iz njega potegni podatke o uporabniku (Priimek, Ime)
             - v Basic SIstory XML manjka podatek za URL umaknjene publikacije, so pa verjetno vse takšne publikacije v eni mapi
             - ker Tage še ne porabljamo, zato ni potrebe po pretvorbi
             - year ne bi uporabljal v posebnem metapodatkovnem polju (je nujno zapisan v dc:terms:date[@xsi:type='dcterms:W3CDTF']
@@ -48,7 +48,7 @@
     
     <xsl:template match="sistory:root">
         <!-- zajamem podatke iz ekstra dokument, v katerega sem shranil podatke iz sistory frontendta, ki niso bili v SIstory XML Basic -->
-        <xsl:variable name="menuDocument" select="concat('../pretvorba/menu',sistory:publication[1]/sistory:MENU_ID/@id,'-frontend.xml')"/>
+        <xsl:variable name="menuDocument" select="concat('../working/menu',sistory:publication[1]/sistory:MENU_ID/@id,'-frontend.xml')"/>
         <xsl:variable name="frontends" select="document($menuDocument)"/>
         <xsl:for-each select="sistory:publication">
             <xsl:variable name="sistoryID" select="sistory:ID"/>
@@ -64,7 +64,7 @@
                     xmlns:premis="http://www.loc.gov/standards/premis/v1"
                     xmlns:mods="http://www.loc.gov/mods/v3"
                     TYPE="entity"
-                    ID="SISTORY.ID.{$sistoryID}" OBJID="http://hdl.handle.net/11686/{$sistoryID}"
+                    OBJID="http://hdl.handle.net/11686/{$sistoryID}"
                     xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
                     <METS:metsHdr CREATEDATE="{translate(sistory:DATETIME_ADDED,' ','T')}">
                         <xsl:if test="sistory:DATETIME_MODIFIED">
@@ -79,36 +79,15 @@
                             </xsl:choose>
                         </xsl:attribute>
                         <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
-                            <METS:name>Zgodovina Slovenije - SIstory</METS:name>
+                            <METS:name>SIstory</METS:name>
+                            <METS:note>http://sistory.si/</METS:note>
                         </METS:agent>
                         <METS:agent ROLE="CREATOR" ID="user.{sistory:USER_ID_ADDED}" TYPE="INDIVIDUAL">
                             <!-- Naredi seznam uporabnikov administracije in iz njega potegni podatke o uporabniku (Priimek, Ime) -->
                             <METS:name></METS:name>
                         </METS:agent>
                     </METS:metsHdr>
-                    <METS:dmdSec ID="PREMIS.{$sistoryID}" GROUPID="{$sistoryID}">
-                        <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
-                            <METS:xmlData>
-                                <premis:object>
-                                    <premis:objectIdentifier>
-                                        <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
-                                        <premis:objectIdentifierValue>
-                                            <xsl:value-of select="$sistoryID"/>
-                                        </premis:objectIdentifierValue>
-                                    </premis:objectIdentifier>
-                                    <premis:objectIdentifier>
-                                        <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
-                                        <premis:objectIdentifierValue>
-                                            <xsl:text>http://hdl.handle.net/</xsl:text>
-                                            <xsl:value-of select="sistory:URN"/>
-                                        </premis:objectIdentifierValue>
-                                    </premis:objectIdentifier>
-                                    <premis:objectCategory>Entity</premis:objectCategory>
-                                </premis:object>
-                            </METS:xmlData>
-                        </METS:mdWrap>
-                    </METS:dmdSec>
-                    <METS:dmdSec ID="DC.{$sistoryID}" GROUPID="{$sistoryID}">
+                    <METS:dmdSec ID="dc.{$sistoryID}" GROUPID="{$sistoryID}">
                         <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
                             <METS:xmlData>
                                 <xsl:apply-templates select="sistory:TITLE[@titleType='Title']"/>
@@ -214,16 +193,38 @@
                         </METS:mdWrap>
                     </METS:dmdSec>
                     <xsl:if test="sistory:COLLECTION">
-                        <METS:dmdSec ID="MODS.{$sistoryID}" GROUPID="{$sistoryID}">
+                        <METS:dmdSec ID="mods.{$sistoryID}" GROUPID="{$sistoryID}">
                             <METS:mdWrap MDTYPE="MODS" MIMETYPE="text/xml">
                                 <METS:xmlData>
-                                    <mods:relatedItem type="series">
-                                        <mods:titleInfo>
-                                            <mods:title>
-                                                <xsl:value-of select="sistory:COLLECTION"/>
-                                            </mods:title>
-                                        </mods:titleInfo>
-                                    </mods:relatedItem>
+                                    <xsl:for-each select="sistory:COLLECTION">
+                                        <mods:relatedItem type="series">
+                                            <xsl:choose>
+                                                <xsl:when test="contains(.,';')">
+                                                    <mods:relatedItem type="series">
+                                                        <mods:titleInfo>
+                                                            <mods:title>
+                                                                <xsl:value-of select="normalize-space(substring-before(.,';'))"/>
+                                                            </mods:title>
+                                                        </mods:titleInfo>
+                                                        <mods:part>
+                                                            <mods:detail type="volumens">
+                                                                <mods:number>
+                                                                    <xsl:value-of select="normalize-space(substring-after(.,';'))"/>
+                                                                </mods:number>
+                                                            </mods:detail>
+                                                        </mods:part>
+                                                    </mods:relatedItem>
+                                                </xsl:when>
+                                                <xsl:otherwise>
+                                                    <mods:titleInfo>
+                                                        <mods:title>
+                                                            <xsl:value-of select="."/>
+                                                        </mods:title>
+                                                    </mods:titleInfo>
+                                                </xsl:otherwise>
+                                            </xsl:choose>
+                                        </mods:relatedItem>
+                                    </xsl:for-each>
                                 </METS:xmlData>
                             </METS:mdWrap>
                         </METS:dmdSec>
@@ -250,35 +251,59 @@
                             </METS:mdWrap>
                         </METS:dmdSec>
                     </xsl:for-each>
-                    <xsl:if test="$extraData/entity:description_sl/entity:section or
-                        $extraData/entity:description_en/entity:section or
-                        number(sistory:PAGE) gt 0">
-                        <METS:amdSec ID="amd-{$sistoryID}">
-                            <METS:techMD ID="SISTORY.{$sistoryID}">
+                    <!-- dodani nujni tehnični metapodatki, predvsem identifikator in vrsta -->
+                    <METS:amdSec ID="entity">
+                        <METS:techMD ID="premis.{$sistoryID}">
+                            <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+                                <METS:xmlData>
+                                    <premis:object>
+                                        <premis:objectIdentifier>
+                                            <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
+                                            <premis:objectIdentifierValue>
+                                                <xsl:value-of select="$sistoryID"/>
+                                            </premis:objectIdentifierValue>
+                                        </premis:objectIdentifier>
+                                        <premis:objectIdentifier>
+                                            <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                                            <premis:objectIdentifierValue>
+                                                <xsl:text>http://hdl.handle.net/</xsl:text>
+                                                <xsl:value-of select="sistory:URN"/>
+                                            </premis:objectIdentifierValue>
+                                        </premis:objectIdentifier>
+                                        <premis:objectCategory>Entity</premis:objectCategory>
+                                    </premis:object>
+                                </METS:xmlData>
+                            </METS:mdWrap>
+                        </METS:techMD>
+                        <xsl:if test="$extraData/entity:description_sl/entity:section or
+                            $extraData/entity:description_en/entity:section or
+                            number(sistory:PAGE) gt 0">
+                            <METS:techMD ID="entity.{$sistoryID}">
                                 <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-                                    <METS:xmlData  xmlns="http://sistory.si/schema/sistory/v3/entity" xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/sistory-entity.1.0.xsd">
+                                    <METS:xmlData  xmlns:entity="http://sistory.si/schema/sistory/v3/entity" xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
                                         <xsl:if test="$extraData/entity:description_sl/entity:section">
-                                            <description xml:lang="slv">
+                                            <entity:description xml:lang="slv">
                                                 <xsl:apply-templates select="$extraData/entity:description_sl/entity:section/entity:div/entity:ul/entity:li/entity:div/entity:div" mode="nodes"/>
-                                            </description>
+                                            </entity:description>
                                         </xsl:if>
                                         <xsl:if test="$extraData/entity:description_en/entity:section">
-                                            <description xml:lang="eng">
+                                            <entity:description xml:lang="eng">
                                                 <xsl:apply-templates select="$extraData/entity:description_en/entity:section/entity:div/entity:ul/entity:li/entity:div/entity:div" mode="nodes"/>
-                                            </description>
+                                            </entity:description>
                                         </xsl:if>
                                         <xsl:if test="number(sistory:PAGE) gt 0">
-                                            <page>
+                                            <entity:page>
                                                 <xsl:value-of select="sistory:PAGE"/>
-                                            </page>
+                                            </entity:page>
                                         </xsl:if>
                                     </METS:xmlData>
                                 </METS:mdWrap>
                             </METS:techMD>
-                        </METS:amdSec>
-                    </xsl:if>
+                        </xsl:if>
+                    </METS:amdSec>
                     <!-- dodal sem podatke za video (trenutno samo youtube): -->
                     <xsl:variable name="youtube" select="$extraData/entity:files/entity:div/entity:aside/entity:div[@class='pub_file pub_link']/entity:div/entity:div[contains(entity:div[1],'Video:')]/entity:div[2]/entity:iframe/@src"/>
+                    <!-- datoteke -->
                     <xsl:if test="sistory:PUBLICATION or sistory:IMAGE or sistory:LINK or string-length($youtube) gt 0">
                         <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink">
                             <xsl:if test="sistory:IMAGE">
@@ -321,14 +346,41 @@
                             </xsl:if>
                         </METS:fileSec>
                     </xsl:if>
-                    <METS:structMap TYPE="logical" LABEL="sistory" xmlns:xlink="http://www.w3.org/1999/xlink">
-                        <!-- najprej meni -->
-                        <METS:div>
-                            <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/menu{$menuID}"/>
+                    <METS:structMap LABEL="SIstory" xmlns:xlink="http://www.w3.org/1999/xlink">
+                        <xsl:attribute name="TYPE">
                             <xsl:choose>
-                                <!-- samostojna publikacija znotraj menija -->
-                                <xsl:when test="not(sistory:PARENT) and not(sistory:CHILDREN)">
-                                    <METS:div DMDID="DC.{$sistoryID}">
+                                <!-- če je samostojna publikacija ali če je parent publikacija, ki ni child od druge publikacije, potem je primarna entiteta -->
+                                <xsl:when test="not(sistory:PARENT)">primary</xsl:when>
+                                <!-- drugače je odvisna entiteta -->
+                                <xsl:otherwise>dependent</xsl:otherwise>
+                            </xsl:choose>
+                        </xsl:attribute>
+                        <!-- meni je samo pri primarnih entitetah -->
+                        <xsl:choose>
+                            <!-- če je samostojna publikacija ali če je parent publikacija, ki ni child, potem je primarna entiteta in ima menu -->
+                            <xsl:when test="not(sistory:PARENT)">
+                                <METS:div TYPE="collection">
+                                    <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/menu{$menuID}"/>
+                                    <!-- podatki o tej publikaciji -->
+                                    <METS:div TYPE="entity">
+                                        <xsl:attribute name="DMDID">
+                                            <!-- najprej povezava do Dublin Core metapodatkov, ki vedno obstajajo -->
+                                            <xsl:value-of select="concat('dc.',$sistoryID)"/>
+                                            <!-- potem pa še morebitne povezave do podatkov o zbirki v mods -->
+                                            <xsl:if test="sistory:COLLECTION">
+                                                <xsl:value-of select="concat(' mods.',$sistoryID)"/>
+                                            </xsl:if>
+                                        </xsl:attribute>
+                                        <xsl:attribute name="ADMID">
+                                            <!-- najprej povezava do premis tehničnih metapodatkov o identifikatorju, ki vedno obstajajo -->
+                                            <xsl:value-of select="concat('premis.',$sistoryID)"/>
+                                            <!-- potem še morebitna povezava do entity tehničnih metapodatkov -->
+                                            <xsl:if test="$extraData/entity:description_sl/entity:section or
+                                                $extraData/entity:description_en/entity:section or
+                                                number(sistory:PAGE) gt 0">
+                                                <xsl:value-of select="concat(' entity.',$sistoryID)"/>
+                                            </xsl:if>
+                                        </xsl:attribute>
                                         <xsl:if test="sistory:IMAGE">
                                             <METS:fptr FILEID="thumbnail"/>
                                         </xsl:if>
@@ -344,11 +396,40 @@
                                             <xsl:variable name="fileID" select="tokenize($handle,'/')[last()]"/>
                                             <METS:fptr FILEID="{$fileID}"/>
                                         </xsl:for-each>
+                                        <!-- dodamo morebitne povezave na child publikacije -->
+                                        <xsl:for-each select="sistory:CHILDREN/sistory:CHILD">
+                                            <METS:div TYPE="entity">
+                                                <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/{.}"/>
+                                            </METS:div>
+                                        </xsl:for-each>
                                     </METS:div>
-                                </xsl:when>
-                                <!-- če je sam parent, ki ima child publikacije -->
-                                <xsl:when test="sistory:CHILDREN and not(sistory:PARENT)">
-                                    <METS:div DMDID="DC.{$sistoryID}">
+                                </METS:div>
+                            </xsl:when>
+                            <!-- drugače je odvisna entiteta, nima menija -->
+                            <xsl:otherwise>
+                                <!-- dodamo njegovega parenta -->
+                                <METS:div TYPE="entity">
+                                    <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/{sistory:PARENT}"/>
+                                    <!-- potem pa dodamo podatke o tej child publikaciji -->
+                                    <METS:div TYPE="entity">
+                                        <xsl:attribute name="DMDID">
+                                            <!-- najprej povezava do Dublin Core metapodatkov, ki vedno obstajajo -->
+                                            <xsl:value-of select="concat('dc.',$sistoryID)"/>
+                                            <!-- potem pa še morebitne povezave do podatkov o zbirki v mods -->
+                                            <xsl:if test="sistory:COLLECTION">
+                                                <xsl:value-of select="concat(' mods.',$sistoryID)"/>
+                                            </xsl:if>
+                                        </xsl:attribute>
+                                        <xsl:attribute name="ADMID">
+                                            <!-- najprej povezava do premis tehničnih metapodatkov o identifikatorju, ki vedno obstajajo -->
+                                            <xsl:value-of select="concat('premis.',$sistoryID)"/>
+                                            <!-- potem še morebitna povezava do entity tehničnih metapodatkov -->
+                                            <xsl:if test="$extraData/entity:description_sl/entity:section or
+                                                $extraData/entity:description_en/entity:section or
+                                                number(sistory:PAGE) gt 0">
+                                                <xsl:value-of select="concat(' entity.',$sistoryID)"/>
+                                            </xsl:if>
+                                        </xsl:attribute>
                                         <xsl:if test="sistory:IMAGE">
                                             <METS:fptr FILEID="thumbnail"/>
                                         </xsl:if>
@@ -366,112 +447,14 @@
                                         </xsl:for-each>
                                         <!-- dodamo povezave na child publikacije -->
                                         <xsl:for-each select="sistory:CHILDREN/sistory:CHILD">
-                                            <METS:div>
+                                            <METS:div TYPE="entity">
                                                 <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/{.}"/>
                                             </METS:div>
                                         </xsl:for-each>
                                     </METS:div>
-                                </xsl:when>
-                                <!-- če je child publikacija -->
-                                <xsl:when test="sistory:PARENT and not(sistory:CHILDREN)">
-                                    <xsl:variable name="parentSIstoryID" select="sistory:PARENT"/>
-                                    <xsl:choose>
-                                        <!-- če je njegov parent tudi child od nekoga -->
-                                        <xsl:when test="ancestor::sistory:root/sistory:publication[sistory:ID=$parentSIstoryID]/sistory:PARENT">
-                                            <!-- dodamo najprej parenta od njegovega parenta -->
-                                            <METS:div>
-                                                <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/{ancestor::sistory:root/sistory:publication[sistory:ID=$parentSIstoryID]/sistory:PARENT}"/>
-                                                <!-- potem dodamo njegovega parenta -->
-                                                <METS:div>
-                                                    <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/{sistory:PARENT}"/>
-                                                    <!-- potem pa dodamo podatke o tej child publikaciji -->
-                                                    <METS:div DMDID="DC.{$sistoryID}">
-                                                        <xsl:if test="sistory:IMAGE">
-                                                            <METS:fptr FILEID="thumbnail"/>
-                                                        </xsl:if>
-                                                        <xsl:if test="sistory:LINK">
-                                                            <METS:fptr FILEID="external1"/>
-                                                        </xsl:if>
-                                                        <xsl:if test="string-length($youtube) gt 0">
-                                                            <METS:fptr FILEID="video1"/>
-                                                        </xsl:if>
-                                                        <xsl:for-each select="sistory:PUBLICATION">
-                                                            <xsl:variable name="fileName" select="@file"/>
-                                                            <xsl:variable name="handle" select="$extraData/entity:files/entity:div/entity:aside/entity:div[entity:div[1][entity:div[entity:div[2][. = $fileName]]]]/entity:a/@href"/>
-                                                            <xsl:variable name="fileID" select="tokenize($handle,'/')[last()]"/>
-                                                            <METS:fptr FILEID="{$fileID}"/>
-                                                        </xsl:for-each>
-                                                    </METS:div>
-                                                </METS:div>
-                                            </METS:div>
-                                        </xsl:when>
-                                        <!-- drugače je njegov parent primarna entieta -->
-                                        <xsl:otherwise>
-                                            <!-- dodamo njegovega parenta -->
-                                            <METS:div>
-                                                <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/{sistory:PARENT}"/>
-                                                <!-- potem pa dodamo podatke o tej child publikaciji -->
-                                                <METS:div DMDID="DC.{$sistoryID}">
-                                                    <xsl:if test="sistory:IMAGE">
-                                                        <METS:fptr FILEID="thumbnail"/>
-                                                    </xsl:if>
-                                                    <xsl:if test="sistory:LINK">
-                                                        <METS:fptr FILEID="external1"/>
-                                                    </xsl:if>
-                                                    <xsl:if test="string-length($youtube) gt 0">
-                                                        <METS:fptr FILEID="video1"/>
-                                                    </xsl:if>
-                                                    <xsl:for-each select="sistory:PUBLICATION">
-                                                        <xsl:variable name="fileName" select="@file"/>
-                                                        <xsl:variable name="handle" select="$extraData/entity:files/entity:div/entity:aside/entity:div[entity:div[1][entity:div[entity:div[2][. = $fileName]]]]/entity:a/@href"/>
-                                                        <xsl:variable name="fileID" select="tokenize($handle,'/')[last()]"/>
-                                                        <METS:fptr FILEID="{$fileID}"/>
-                                                    </xsl:for-each>
-                                                </METS:div>
-                                            </METS:div>
-                                        </xsl:otherwise>
-                                    </xsl:choose>
-                                </xsl:when>
-                                <!-- če je child publikacija, ki ima svoje child publikacije -->
-                                <xsl:when test="sistory:PARENT and sistory:CHILDREN">
-                                    <!-- dodamo njegovega parenta -->
-                                    <METS:div>
-                                        <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/{sistory:PARENT}"/>
-                                        <!-- potem pa dodamo podatke o tej child publikaciji -->
-                                        <METS:div DMDID="DC.{$sistoryID}">
-                                            
-                                            <xsl:if test="sistory:IMAGE">
-                                                <METS:fptr FILEID="thumbnail"/>
-                                            </xsl:if>
-                                            <xsl:if test="sistory:LINK">
-                                                <METS:fptr FILEID="external1"/>
-                                            </xsl:if>
-                                            <xsl:if test="string-length($youtube) gt 0">
-                                                <METS:fptr FILEID="video1"/>
-                                            </xsl:if>
-                                            <xsl:for-each select="sistory:PUBLICATION">
-                                                <xsl:variable name="fileName" select="@file"/>
-                                                <xsl:variable name="handle" select="$extraData/entity:files/entity:div/entity:aside/entity:div[entity:div[1][entity:div[entity:div[2][. = $fileName]]]]/entity:a/@href"/>
-                                                <xsl:variable name="fileID" select="tokenize($handle,'/')[last()]"/>
-                                                <METS:fptr FILEID="{$fileID}"/>
-                                            </xsl:for-each>
-                                            <!-- dodamo povezave na child publikacije -->
-                                            <xsl:for-each select="sistory:CHILDREN/sistory:CHILD">
-                                                <METS:div>
-                                                    <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/{.}"/>
-                                                </METS:div>
-                                            </xsl:for-each>
-                                        </METS:div>
-                                    </METS:div>
-                                </xsl:when>
-                                <xsl:otherwise>
-                                    <xsl:message>
-                                        <xsl:text>Ne morem procesirati METS:structMap publikacije </xsl:text>
-                                        <xsl:value-of select="$sistoryID"/>
-                                    </xsl:message>
-                                </xsl:otherwise>
-                            </xsl:choose>
-                        </METS:div>
+                                </METS:div>
+                            </xsl:otherwise>
+                        </xsl:choose>
                     </METS:structMap>
                 </METS:mets>
             </xsl:result-document>
