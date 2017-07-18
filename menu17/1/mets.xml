@@ -18,9 +18,7 @@
          <METS:name>SIstory</METS:name>
          <METS:note>http://sistory.si/</METS:note>
       </METS:agent>
-      <METS:agent ROLE="CREATOR" ID="user.14" TYPE="INDIVIDUAL">
-         <METS:name/>
-      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.14" TYPE="INDIVIDUAL"/>
    </METS:metsHdr>
    <METS:dmdSec ID="dc.1" GROUPID="1">
       <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">

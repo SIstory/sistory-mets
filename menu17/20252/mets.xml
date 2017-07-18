@@ -19,7 +19,7 @@
          <METS:note>http://sistory.si/</METS:note>
       </METS:agent>
       <METS:agent ROLE="CREATOR" ID="user.11" TYPE="INDIVIDUAL">
-         <METS:name/>
+         <METS:name>Pančur, Andrej</METS:name>
       </METS:agent>
    </METS:metsHdr>
    <METS:dmdSec ID="dc.20252" GROUPID="20252">
@@ -52,11 +52,13 @@
    <METS:dmdSec ID="mods.20252" GROUPID="20252">
       <METS:mdWrap MDTYPE="MODS" MIMETYPE="text/xml">
          <METS:xmlData>
-            <mods:relatedItem type="series">
-               <mods:titleInfo>
-                  <mods:title>Borec (553-554)</mods:title>
-               </mods:titleInfo>
-            </mods:relatedItem>
+            <mods:mods>
+               <mods:relatedItem type="series">
+                  <mods:titleInfo>
+                     <mods:title>Borec (553-554)</mods:title>
+                  </mods:titleInfo>
+               </mods:relatedItem>
+            </mods:mods>
          </METS:xmlData>
       </METS:mdWrap>
    </METS:dmdSec>

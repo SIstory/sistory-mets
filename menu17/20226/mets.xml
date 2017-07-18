@@ -19,7 +19,7 @@
          <METS:note>http://sistory.si/</METS:note>
       </METS:agent>
       <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
-         <METS:name/>
+         <METS:name>Meden, Katja</METS:name>
       </METS:agent>
    </METS:metsHdr>
    <METS:dmdSec ID="dc.20226" GROUPID="20226">
@@ -60,11 +60,13 @@
    <METS:dmdSec ID="mods.20226" GROUPID="20226">
       <METS:mdWrap MDTYPE="MODS" MIMETYPE="text/xml">
          <METS:xmlData>
-            <mods:relatedItem type="series">
-               <mods:titleInfo>
-                  <mods:title>Gradivo in razprave (15)</mods:title>
-               </mods:titleInfo>
-            </mods:relatedItem>
+            <mods:mods>
+               <mods:relatedItem type="series">
+                  <mods:titleInfo>
+                     <mods:title>Gradivo in razprave (15)</mods:title>
+                  </mods:titleInfo>
+               </mods:relatedItem>
+            </mods:mods>
          </METS:xmlData>
       </METS:mdWrap>
    </METS:dmdSec>

@@ -19,7 +19,7 @@
          <METS:note>http://sistory.si/</METS:note>
       </METS:agent>
       <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
-         <METS:name/>
+         <METS:name>Meden, Katja</METS:name>
       </METS:agent>
    </METS:metsHdr>
    <METS:dmdSec ID="dc.31050" GROUPID="31050">
@@ -57,11 +57,13 @@
    <METS:dmdSec ID="mods.31050" GROUPID="31050">
       <METS:mdWrap MDTYPE="MODS" MIMETYPE="text/xml">
          <METS:xmlData>
-            <mods:relatedItem type="series">
-               <mods:titleInfo>
-                  <mods:title>Zbirka zgodovinskega časopisa, 45</mods:title>
-               </mods:titleInfo>
-            </mods:relatedItem>
+            <mods:mods>
+               <mods:relatedItem type="series">
+                  <mods:titleInfo>
+                     <mods:title>Zbirka zgodovinskega časopisa, 45</mods:title>
+                  </mods:titleInfo>
+               </mods:relatedItem>
+            </mods:mods>
          </METS:xmlData>
       </METS:mdWrap>
    </METS:dmdSec>

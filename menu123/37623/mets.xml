@@ -19,7 +19,7 @@
          <METS:note>http://sistory.si/</METS:note>
       </METS:agent>
       <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
-         <METS:name/>
+         <METS:name>Meden, Katja</METS:name>
       </METS:agent>
    </METS:metsHdr>
    <METS:dmdSec ID="dc.37623" GROUPID="37623">

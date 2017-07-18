@@ -19,7 +19,7 @@
          <METS:note>http://sistory.si/</METS:note>
       </METS:agent>
       <METS:agent ROLE="CREATOR" ID="user.6" TYPE="INDIVIDUAL">
-         <METS:name/>
+         <METS:name>JurijHadalin</METS:name>
       </METS:agent>
    </METS:metsHdr>
    <METS:dmdSec ID="dc.37836" GROUPID="37836">
@@ -44,11 +44,13 @@
    <METS:dmdSec ID="mods.37836" GROUPID="37836">
       <METS:mdWrap MDTYPE="MODS" MIMETYPE="text/xml">
          <METS:xmlData>
-            <mods:relatedItem type="series">
-               <mods:titleInfo>
-                  <mods:title>Knjižnica Kultura</mods:title>
-               </mods:titleInfo>
-            </mods:relatedItem>
+            <mods:mods>
+               <mods:relatedItem type="series">
+                  <mods:titleInfo>
+                     <mods:title>Knjižnica Kultura</mods:title>
+                  </mods:titleInfo>
+               </mods:relatedItem>
+            </mods:mods>
          </METS:xmlData>
       </METS:mdWrap>
    </METS:dmdSec>

@@ -19,7 +19,7 @@
          <METS:note>http://sistory.si/</METS:note>
       </METS:agent>
       <METS:agent ROLE="CREATOR" ID="user.11" TYPE="INDIVIDUAL">
-         <METS:name/>
+         <METS:name>Pančur, Andrej</METS:name>
       </METS:agent>
    </METS:metsHdr>
    <METS:dmdSec ID="dc.35974" GROUPID="35974">
@@ -50,11 +50,13 @@
    <METS:dmdSec ID="mods.35974" GROUPID="35974">
       <METS:mdWrap MDTYPE="MODS" MIMETYPE="text/xml">
          <METS:xmlData>
-            <mods:relatedItem type="series">
-               <mods:titleInfo>
-                  <mods:title>Način življenja Slovencev v dvajsetem stoletju</mods:title>
-               </mods:titleInfo>
-            </mods:relatedItem>
+            <mods:mods>
+               <mods:relatedItem type="series">
+                  <mods:titleInfo>
+                     <mods:title>Način življenja Slovencev v dvajsetem stoletju</mods:title>
+                  </mods:titleInfo>
+               </mods:relatedItem>
+            </mods:mods>
          </METS:xmlData>
       </METS:mdWrap>
    </METS:dmdSec>
