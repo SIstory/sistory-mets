@@ -12,9 +12,11 @@
                  Zato morata dobiti trenutno najvišji novi številki!
                  Jaz pa ne vem, kateri številki sta to. Lahko tudi vzamem številki trenutno praznih map 
                  (npr. nekdanji številki menija Zgodovina in šola (4) za nav)! -->
+      
       <collection id="211">
          <title lang="slv">Neobjavljeno</title>
       </collection>
+      
       <collection id="1">
          <title lang="slv">Viri</title>
          <title lang="eng">Sources</title>
@@ -22,8 +24,358 @@
             <collection:description xml:lang="slv">Uporabite tiskane, arhivske in ustne vire, ki jih za vas  zbiramo na enem mestu. Prebrskajte bogate zbirke podatkov in si oglejte slikovno gradivo.</collection:description>
             <collection:description xml:lang="eng">Use printed, archive and oral sources gathered for you in one place. Browse through extensive databases and visual materials.</collection:description>
             <collection:wholeContent>true</collection:wholeContent>
+            <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+            <collection:searchResultsShow>One per line</collection:searchResultsShow>
          </menu>
+         <dublincore>
+            <dcterms:title>Viri</dcterms:title>
+            <dcterms:title xml:lang="eng">Sources</dcterms:title>
+            <dcterms:description>Uporabite tiskane, arhivske in ustne vire, ki jih za vas  zbiramo na enem mestu. Prebrskajte bogate zbirke podatkov in si oglejte slikovno gradivo.</dcterms:description>
+            <dcterms:description xml:lang="eng">Use printed, archive and oral sources gathered for you in one place. Browse through extensive databases and visual materials.</dcterms:description>
+         </dublincore>
+         
+         <collection id="13">
+            <title lang="slv">Arhivski viri</title>
+            <title lang="eng">Archive sources</title>
+            <menu>
+               <collection:wholeContent>false</collection:wholeContent>
+               <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+               <collection:searchResultsShow>One per line</collection:searchResultsShow>
+            </menu>
+            <dublincore>
+               <dcterms:title xml:lang="slv">Arhivski viri</dcterms:title>
+               <dcterms:title xml:lang="eng">Archive sources</dcterms:title>
+            </dublincore>
+            
+            <collection id="105">
+               <title lang="slv">Arhiv Republike Slovenije</title>
+               <title lang="eng">Archives of the Republic of Slovenia</title>
+               <menu>
+                  <collection:description xml:lang="slv"><p>Zametki arhiva segajo v leto 1859, ko je v Ljubljani na pobudo Historičnega društva za Kranjsko prišlo do vzpostavitve Deželnega arhiva. Arhivsko gradivo so do tedaj že zbirale in popisovale različne ustanove, društva in posamezniki, svoj prostor pa so v arhiv oddane arhivalije dobile z dograditvijo stavbe Deželnega, današnjega Narodnega muzeja v letu 1887. Arhiv je deloval v sklopu Kranjskega deželnega muzeja. Med svetovnima vojnama, leta 1926, je bil ustanovljen Državni arhiv, ki pa je še vedno deloval kot organizacijska enota muzeja.</p><p>31. oktobra 1945 je Narodna vlada Slovenije ustanovila Osrednji državni arhiv Slovenije kot samostojno institucijo, ki se je v letu 1953 preimenovala v Državni arhiv Slovenije, leta 1966 v Arhiv Slovenije, leta 1979 v Arhiv Socialistične republike Slovenije, leta 1991 pa v Arhiv Republike Slovenije. Po političnih spremembah leta 1990 so bili ukinjeni t. i. specialni arhivi. Arhivu je bil leta 1990 priključen najprej Zgodovinski arhiv Centralnega komiteja Zveze komunistov Slovenije, leta 1992 Arhiv Inštituta za zgodovino delavskega gibanja oziroma Arhiv Inštituta za novejšo zgodovino in v letu 1998 še del Arhiva Ministrstva za notranje zadeve z gradivom Službe državne varnosti.</p></collection:description>
+                  <collection:description xml:lang="eng"><p>The Archives dates back to 1859 when the Provincial Archives was established in Ljubljana on the initiative of the Carniolan Historical Society. By then, the archival records had been collected and recorded by various institutions, societies and individuals. More space was obtained for the archival material by the extension of the building of the Provincial Museum, the present-day National Museum, in 1887. The Archives operated as part of the Carniolan Provincial Museum. When the State Archives was established between the World Wars in 1926, it still operated as an organisational unit of the museum.</p><p>On 31 October 1945,the National Government of Slovenia established the Central State Archives of Slovenia as an independent institution. In 1953 it was renamed the State Archives of Slovenia. In 1966 its title was changed to the Archives of Slovenia, in 1979 to the Archives of Socialist Republic of Slovenia and in 1991 to the Archives of the Republic of Slovenia in 1991. After the political changes in 1990, the “special archives” were abolished and merged with the national archives. The Historical Archives of the Central Committee of the League of Communists of Slovenia merged with the Archives in 1990; the archives of the Institute of History of Labour Movement, i.e. the later Institute of Contemporary History merged with it in 1992 and the Archives of the Ministry of the Interior, which kept the records of the National Security Service, became part of it in 1998.</p></collection:description>
+               <collection:wholeContent>true</collection:wholeContent>
+                  <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                  <collection:searchResultsShow>One per line</collection:searchResultsShow>
+               </menu>
+               <dublincore>
+                  <dcterms:title xml:lang="slv">Arhiv Republike Slovenije</dcterms:title>
+                  <dcterms:title xml:lang="eng">Archives of the Republic of Slovenia</dcterms:title>
+                  <dcterms:description xml:lang="slv">Zametki arhiva segajo v leto 1859, ko je v Ljubljani na pobudo Historičnega društva za Kranjsko prišlo do vzpostavitve Deželnega arhiva. Arhivsko gradivo so do tedaj že zbirale in popisovale različne ustanove, društva in posamezniki, svoj prostor pa so v arhiv oddane arhivalije dobile z dograditvijo stavbe Deželnega, današnjega Narodnega muzeja v letu 1887. Arhiv je deloval v sklopu Kranjskega deželnega muzeja. Med svetovnima vojnama, leta 1926, je bil ustanovljen Državni arhiv, ki pa je še vedno deloval kot organizacijska enota muzeja.31. oktobra 1945 je Narodna vlada Slovenije ustanovila Osrednji državni arhiv Slovenije kot samostojno institucijo, ki se je v letu 1953 preimenovala v Državni arhiv Slovenije, leta 1966 v Arhiv Slovenije, leta 1979 v Arhiv Socialistične republike Slovenije, leta 1991 pa v Arhiv Republike Slovenije. Po političnih spremembah leta 1990 so bili ukinjeni t. i. specialni arhivi. Arhivu je bil leta 1990 priključen najprej Zgodovinski arhiv Centralnega komiteja Zveze komunistov Slovenije, leta 1992 Arhiv Inštituta za zgodovino delavskega gibanja oziroma Arhiv Inštituta za novejšo zgodovino in v letu 1998 še del Arhiva Ministrstva za notranje zadeve z gradivom Službe državne varnosti.</dcterms:description>
+                  <dcterms:description xml:lang="eng">The Archives dates back to 1859 when the Provincial Archives was established in Ljubljana on the initiative of the Carniolan Historical Society. By then, the archival records had been collected and recorded by various institutions, societies and individuals. More space was obtained for the archival material by the extension of the building of the Provincial Museum, the present-day National Museum, in 1887. The Archives operated as part of the Carniolan Provincial Museum. When the State Archives was established between the World Wars in 1926, it still operated as an organisational unit of the museum.On 31 October 1945,the National Government of Slovenia established the Central State Archives of Slovenia as an independent institution. In 1953 it was renamed the State Archives of Slovenia. In 1966 its title was changed to the Archives of Slovenia, in 1979 to the Archives of Socialist Republic of Slovenia and in 1991 to the Archives of the Republic of Slovenia in 1991. After the political changes in 1990, the “special archives” were abolished and merged with the national archives. The Historical Archives of the Central Committee of the League of Communists of Slovenia merged with the Archives in 1990; the archives of the Institute of History of Labour Movement, i.e. the later Institute of Contemporary History merged with it in 1992 and the Archives of the Ministry of the Interior, which kept the records of the National Security Service, became part of it in 1998.</dcterms:description>
+               </dublincore>
+
+               <collection id="233">
+                  <title lang="slv">AS 2058, Zbirka stenografskih beležk, zapisnikov sej predstavništev, senata in skupščine Kraljevine Jugoslavije 1919-1939</title>
+                  <title lang="eng">AS 2058, Stenographic Minutes of the Kingdom of Yugoslavia 1919-1939</title>
+                  <menu>
+                     <collection:description xml:lang="slv"><p>Gradivo vsebuje transliteracijo zapisnikov stenografskih beležk sej in zasedanj Začasnega narodnega predstavništva Kraljevine Srbov, Hrvatov in Slovencev (1919), Zakonodajnega odbora narodne skupščine Kraljevine Srbov, Hrvatov in Slovencev (1921 – 1922), Narodnega predstavništva Kraljevine Jugoslavije (senata in Narodne skupščine 1932), Senata Kraljevine Jugoslavije (1932 – 1939) in Narodne skupščine Kraljevine Jugoslavije (1931-1939).</p><p> Zapisniki sej in zasedanj so v srbohrvaščini (srbščini, hrvaščini), slovenščini, pisani pa v tiskani latinici in tiskani cirilici. Zbirka predstavlja enega od ključnih virov za raziskovanje politične zgodovine Kraljevine Jugoslavije ter vloge in pomena slovenske politike v njej. To gradivo je nepogrešljiv vir za preučevanje slovenske parlamentarne izkušnje v prvi jugoslovanski državi ter razvoja idejno- in narodnopolitičnih, državnopravnih ter socialnogospodarskih nazorov in politike slovenskih strank v letih 1919–1939.</p></collection:description>
+                     <collection:description xml:lang="eng"><p>The material contains the transliteration of the minutes of stenographic notes of the sessions and meetings of the Temporary National Representation of the Kingdom of Serbs, Croats and Slovenes (1919), the Legislative Committee of the National Assembly of the Kingdom of Serbs, Croats and Slovenes (1921–1922), the National Representation of the Kingdom of Yugoslavia (Senate and National Assembly 1932), the Senate of the Kingdom of Yugoslavia (1932–1939) and the National Assembly of the Kingdom of Yugoslavia (1931–1939).</p><p> The minutes of the sessions are in Serbo-Croatian (Serbian, Croatian) and Slovene languages, written in Latin and Cyrillic alphabets. This collection is one of the key sources for the research of political history of the Kingdom of Yugoslavia and of the role and importance of Slovenian politics in it. It is an indispensable source for the study of Slovenian parliamentary experience in the first Yugoslav state and the development of ideological and national political, state-law and socio-economic principles and policies of Slovenian parties in the period 1919–1939.</p></collection:description>
+                     <collection:wholeContent>true</collection:wholeContent>
+                     <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                     <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                  </menu>
+                  <dublincore>
+                     <dcterms:title xml:lang="slv">AS 2058, Zbirka stenografskih beležk, zapisnikov sej predstavništev, senata in skupščine Kraljevine Jugoslavije 1919-1939</dcterms:title>
+                     <dcterms:title xml:lang="eng">AS 2058, Stenographic Minutes of the Kingdom of Yugoslavia 1919-1939</dcterms:title>
+                     <dcterms:description xml:lang="slv">Gradivo vsebuje transliteracijo zapisnikov stenografskih beležk sej in zasedanj Začasnega narodnega predstavništva Kraljevine Srbov, Hrvatov in Slovencev (1919), Zakonodajnega odbora narodne skupščine Kraljevine Srbov, Hrvatov in Slovencev (1921 – 1922), Narodnega predstavništva Kraljevine Jugoslavije (senata in Narodne skupščine 1932), Senata Kraljevine Jugoslavije (1932 – 1939) in Narodne skupščine Kraljevine Jugoslavije (1931-1939).Zapisniki sej in zasedanj so v srbohrvaščini (srbščini, hrvaščini), slovenščini, pisani pa v tiskani latinici in tiskani cirilici. Zbirka predstavlja enega od ključnih virov za raziskovanje politične zgodovine Kraljevine Jugoslavije ter vloge in pomena slovenske politike v njej. To gradivo je nepogrešljiv vir za preučevanje slovenske parlamentarne izkušnje v prvi jugoslovanski državi ter razvoja idejno- in narodnopolitičnih, državnopravnih ter socialnogospodarskih nazorov in politike slovenskih strank v letih 1919–1939.</dcterms:description>
+                     <dcterms:description xml:lang="eng">The material contains the transliteration of the minutes of stenographic notes of the sessions and meetings of the Temporary National Representation of the Kingdom of Serbs, Croats and Slovenes (1919), the Legislative Committee of the National Assembly of the Kingdom of Serbs, Croats and Slovenes (1921–1922), the National Representation of the Kingdom of Yugoslavia (Senate and National Assembly 1932), the Senate of the Kingdom of Yugoslavia (1932–1939) and the National Assembly of the Kingdom of Yugoslavia (1931–1939).  The minutes of the sessions are in Serbo-Croatian (Serbian, Croatian) and Slovene languages, written in Latin and Cyrillic alphabets. This collection is one of the key sources for the research of political history of the Kingdom of Yugoslavia and of the role and importance of Slovenian politics in it. It is an indispensable source for the study of Slovenian parliamentary experience in the first Yugoslav state and the development of ideological and national political, state-law and socio-economic principles and policies of Slovenian parties in the period 1919–1939.</dcterms:description>
+                  </dublincore>
+                  
+               <collection id="260" active="false">
+                  <title lang="slv">Opis beležke</title>
+                  <title lang="eng">Opis beležke</title>
+                  <menu>
+                     <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                     <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                  </menu>
+                  <dublincore>
+                     <dcterms:title xml:lang="slv">Opis beležke</dcterms:title>
+                     <dcterms:title xml:lang="eng">Opis beležke</dcterms:title>
+                  </dublincore>
+               </collection>
+                  
+               <collection id="234" publications="true">
+                  <title lang="slv">SI AS 2058/1, Stenografske beležke Začasnega narodnega predstavništva Kraljevine Srbov, Hrvatov in Slovencev, 1919</title>
+                  <title lang="eng">SI AS 2058/1, Stenographic minutes of the Temporary National Representation of the Kingdom of Serbs, Croats and Slovenes, 1919</title>
+                  <menu>
+                     <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                     <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                  </menu>
+                  <dublincore>
+                     <dcterms:title xml:lang="slv">SI AS 2058/1, Stenografske beležke Začasnega narodnega predstavništva Kraljevine Srbov, Hrvatov in Slovencev, 1919</dcterms:title>
+                     <dcterms:title xml:lang="eng">SI AS 2058/1, Stenographic minutes of the Temporary National Representation of the Kingdom of Serbs, Croats and Slovenes, 1919</dcterms:title>
+                  </dublincore>
+               </collection>
+               
+               <collection id="235" publications="true">
+                  <title lang="slv">SI AS 2058/2, Stenografske beležke Zakonodajnega odbora narodne skupščine Kraljevine Srbov, Hrvatov in Slovencev, 1921</title>
+                  <title lang="eng">SI AS 2058/2, Stenographic minutes of the Legislative Committee of the National Assembly of the Kingdom of Serbs, Croats and Slovenes, 1921</title>
+                  <menu>
+                     <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                     <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                  </menu>
+                  <dublincore>
+                     <dcterms:title xml:lang="slv">SI AS 2058/2, Stenografske beležke Zakonodajnega odbora narodne skupščine Kraljevine Srbov, Hrvatov in Slovencev, 1921</dcterms:title>
+                     <dcterms:title xml:lang="eng">SI AS 2058/2, Stenographic minutes of the Legislative Committee of the National Assembly of the Kingdom of Serbs, Croats and Slovenes, 1921</dcterms:title>
+                  </dublincore> 
+               </collection>
+               
+               <collection id="236" publications="true">
+                  <title lang="slv">SI AS 2058/3, Stenografske beležke Zakonodajnega odbora narodne skupščine Kraljevine Srbov, Hrvatov in Slovencev, 1921-1922</title>
+                  <title lang="eng">SI AS 2058/3, Stenographic minutes of the Legislative Committee of the National Assembly of the Kingdom of Serbs, Croats and Slovenes, 1921-1922</title>
+               <menu>
+                  <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                  <collection:searchResultsShow>One per line</collection:searchResultsShow>
+               </menu>
+                  <dublincore>
+                     <dcterms:title xml:lang="slv">SI AS 2058/3, Stenografske beležke Zakonodajnega odbora narodne skupščine Kraljevine Srbov, Hrvatov in Slovencev, 1921-1922</dcterms:title>
+                     <dcterms:title xml:lang="eng">SI AS 2058/3, Stenographic minutes of the Legislative Committee of the National Assembly of the Kingdom of Serbs, Croats and Slovenes, 1921-1922</dcterms:title>
+                  </dublincore>
+               </collection>
+               
+               <collection id="237" publications="true">
+                  <title lang="slv">SI AS 2058/4, Stenografske beležke Narodnega predstavništva Kraljevine Jugoslavije (Senata in Narodne skupščine), 1932</title>
+                  <title lang="eng">SI AS 2058/4, Stenographic minutes of the National Representation of the Kingdom of Yugoslavia (Senate and National Assembly), 1934</title>
+               <menu>
+                  <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                  <collection:searchResultsShow>One per line</collection:searchResultsShow>
+               </menu>
+                  <dublincore>
+                     <dcterms:title xml:lang="slv">SI AS 2058/4, Stenografske beležke Narodnega predstavništva Kraljevine Jugoslavije (Senata in Narodne skupščine), 1932</dcterms:title>
+                     <dcterms:title xml:lang="eng">SI AS 2058/4, Stenographic minutes of the National Representation of the Kingdom of Yugoslavia (Senate and National Assembly), 1934</dcterms:title>
+                  </dublincore>
+               </collection>
+                
+                <collection id="238" publications="true">
+                   <title lang="slv">SI AS 2058/5, Stenografske beležke Senata Kraljevine Jugoslavije, 1932</title>
+                   <title lang="eng">SI AS 2058/5, Stenographic minutes of the Senate of the Kingdom of Yugoslavia, 1932</title>
+                <menu>
+                   <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                </menu>
+                   <dublincore>
+                      <dcterms:title xml:lang="slv">SI AS 2058/5, Stenografske beležke Senata Kraljevine Jugoslavije, 1932</dcterms:title>
+                      <dcterms:title xml:lang="eng">SI AS 2058/5, Stenographic minutes of the Senate of the Kingdom of Yugoslavia, 1932</dcterms:title>
+                   </dublincore>
+                </collection>
+                  
+                  <collection id="239" publications="true">
+                     <title lang="slv">SI AS 2058/6, Stenografske beležke Senata Kraljevine Jugoslavije, 1933</title>
+                     <title lang="eng">SI AS 2058/6, Stenographic minutes of the Senate of the Kingdom of Yugoslavia, 1933</title>
+                     <menu>
+                        <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                        <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                     </menu>
+                     <dublincore>
+                        <dcterms:title xml:lang="slv">SI AS 2058/6, Stenografske beležke Senata Kraljevine Jugoslavije, 1933</dcterms:title>
+                        <dcterms:title xml:lang="eng">SI AS 2058/6, Stenographic minutes of the Senate of the Kingdom of Yugoslavia, 1933</dcterms:title>
+                     </dublincore>
+                  </collection>
+               
+               <collection id="240" publications="true">
+                  <title lang="slv">SI AS 2058/7, Stenografske beležke Senata Kraljevine Jugoslavije, 1933</title>
+                  <title lang="eng">SI AS 2058/7, Stenographic minutes of the Senate of the Kingdom of Yugoslavia, 1933</title>
+              <menu>
+                 <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+              <collection:searchResultsShow>One per line</collection:searchResultsShow>
+              </menu>
+                  <dublincore>
+                     <dcterms:title xml:lang="slv">SI AS 2058/7, Stenografske beležke Senata Kraljevine Jugoslavije, 1933</dcterms:title>
+                     <dcterms:title xml:lang="eng">SI AS 2058/7, Stenographic minutes of the Senate of the Kingdom of Yugoslavia, 1933</dcterms:title>
+                  </dublincore>
+               </collection>
+                  
+                  <collection id="241" publications="true">
+                     <title lang="slv">SI AS 2058/8, Stenografske beležke Senata Kraljevine Jugoslavije, 1933</title>
+                     <title lang="eng">SI AS 2058/8, Stenographic minutes of the Senate of the Kingdom of Yugoslavia, 1933</title>
+                  <menu>
+                     <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                     <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                  </menu>
+                  <dublincore>
+                     <dcterms:title xml:lang="slv">SI AS 2058/8, Stenografske beležke Senata Kraljevine Jugoslavije, 1933</dcterms:title>
+                     <dcterms:title xml:lang="eng">SI AS 2058/8, Stenographic minutes of the Senate of the Kingdom of Yugoslavia, 1933</dcterms:title>
+                  </dublincore>
+                  </collection>
+               
+               <collection id="242" publications="true">
+                  <title lang="slv">SI AS 2058/9, Stenografske beležke Senata Kraljevine Jugoslavije, 1933-1934</title>
+                  <title lang="eng">SI AS 2058/9, Stenographic minutes of the Senate of the Kingdom of Yugoslavia, 1933-1934</title>
+               <menu>
+                  <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+               <collection:searchResultsShow>One per line</collection:searchResultsShow>
+               </menu>
+                  <dublincore>
+                     <dcterms:title xml:lang="slv">SI AS 2058/9, Stenografske beležke Senata Kraljevine Jugoslavije, 1933-1934</dcterms:title>
+                     <dcterms:title xml:lang="eng">SI AS 2058/9, Stenographic minutes of the Senate of the Kingdom of Yugoslavia, 1933-1934</dcterms:title>
+                  </dublincore>
+               </collection>
+               
+               <collection id="243" publications="true">
+                  <title lang="slv">AS 2058, Zbirka stenografskih beležk, zapisnikov sej predstavništev, senata in skupščine Kraljevine Jugoslavije 1919-1939 SI AS 2058/10, Stenografske beležke Senata Kraljevine Jugoslavije, 1934</title>
+                  <title lang="eng">SI AS 2058/10, Stenographic minutes of the Senate of the Kingdom of Yugoslavia, 1934</title>
+               <menu>
+                  <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+               <collection:searchResultsShow>One per line</collection:searchResultsShow>
+               </menu>
+                  <dublincore>
+                     <dcterms:title xml:lang="slv">SI AS 2058, Zbirka stenografskih beležk, zapisnikov sej predstavništev, senata in skupščine Kraljevine Jugoslavije 1919-1939 SI AS 2058/10, Stenografske beležke Senata Kraljevine Jugoslavije, 1934</dcterms:title>
+                     <dcterms:title xml:lang="eng">SI AS 2058/10, Stenographic minutes of the Senate of the Kingdom of Yugoslavia, 1934</dcterms:title>
+                  </dublincore>
+               </collection>
+                  
+              <collection id="244" publications="true">
+                 <title lang="slv">SI AS 2058/11, Stenografske beležke Senata Kraljevine Jugoslavije, 1934</title>
+                 <title lang="eng">SI AS 2058/11, Stenographic minutes of the Senate of the Kingdom of Yugoslavia, 1934</title>
+              <menu>
+                 <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+              <collection:searchResultsShow>One per line</collection:searchResultsShow>
+              </menu>
+                 <dublincore>
+                    <dcterms:title xml:lang="slv">SI AS 2058/11, Stenografske beležke Senata Kraljevine Jugoslavije, 1934</dcterms:title>
+                    <dcterms:title xml:lang="eng">SI AS 2058/11, Stenographic minutes of the Senate of the Kingdom of Yugoslavia, 1934</dcterms:title>
+                 </dublincore>
+              </collection> 
+                  
+              <collection id="245" publications="true">
+                 <title lang="slv">SI AS 2058/12, Stenografske beležke Senata Kraljevine Jugoslavije, 1934-1935</title>
+                 <title lang="eng">SI AS 2058/12, Stenographic minutes of the Senate of the Kingdom of Yugoslavia, 1934-1935</title>
+              <menu>
+                 <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                 <collection:searchResultsShow>One per line</collection:searchResultsShow>
+              </menu>
+                 <dublincore>
+                    <dcterms:title xml:lang="slv">SI AS 2058/12, Stenografske beležke Senata Kraljevine Jugoslavije, 1934-1935</dcterms:title>
+                    <dcterms:title xml:lang="eng">SI AS 2058/12, Stenographic minutes of the Senate of the Kingdom of Yugoslavia, 1934-1935</dcterms:title>
+                 </dublincore>
+              </collection>    
+               
+               <collection id="273">
+                  <title lang="slv">SI AS 2058/13, Stenografske beležke Senata Kraljevine Jugoslavije, 1935-1936</title>
+                  <title lang="eng">SI AS 2058/13, Stenographic minutes of the Senate of the Kingdom of Yugoslavia, 1935-1936</title>
+              <menu>
+                 <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                 <collection:searchResultsShow>One per line</collection:searchResultsShow>
+              </menu>
+                  <dublincore>
+                     <dcterms:title xml:lang="slv">SI AS 2058/13, Stenografske beležke Senata Kraljevine Jugoslavije, 1935-1936</dcterms:title>
+                     <dcterms:title xml:lang="eng">SI AS 2058/13, Stenographic minutes of the Senate of the Kingdom of Yugoslavia, 1935-1936</dcterms:title>
+                  </dublincore>
+               </collection>
+             
+             <collection id="274">
+                <title lang="slv">SI AS 2058/14, Stenografske beležke Senata Kraljevine Jugoslavije, 1937</title>
+                <title lang="eng">SI AS 2058/14, Stenographic minutes of the Senate of the Kingdom of Yugoslavia, 1937</title>
+             <menu>
+                <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                <collection:searchResultsShow>One per line</collection:searchResultsShow>
+             </menu>
+             <dublincore>
+                <dcterms:title xml:lang="slv">SI AS 2058/14, Stenografske beležke Senata Kraljevine Jugoslavije, 1937</dcterms:title>
+                <dcterms:title xml:lang="eng">SI AS 2058/14, Stenographic minutes of the Senate of the Kingdom of Yugoslavia, 1937</dcterms:title>
+             </dublincore>
+             </collection>
+               </collection>
+            </collection>
+            
+          <collection id="749">
+             <title lang="slv">Centralna pravosodna knjižnica</title>
+             <title lang="eng">Central Judicial Library</title>
+             <menu>
+                <collection:description xml:lang="slv"><p>Centralna pravosodna knjižnica je začela s svojim poslanstvom po zlomu Avstro-Ogrske leta 1918, ko je bilo z odlokom Narodne vlade ustanovljeno Višje deželno sodišče v Ljubljani (delovati je začelo 1. decembra 1918). Sočasno je bila na pobudo njegovega predsednika Ivana Kavčnika (in s privolitvijo Poverjeništva za pravosodje) ustanovljena Centralna knjižnica (kasneje preimenovana v Centralno pravosodno knjižnico), ki je delovala v okviru sodišča (sestavljale so jo knjižnica Deželnega sodišča, knjižnica društva Pravnik in knjižnica Juridičnega društva).</p><p>Začetni knjižnični fond je obsegal gradivo knjižnice Deželnega sodišča (osnovo so predstavljale nemške strokovne knjige, dunajsko pravno časopisje in zakoni). Pokrajinska uprava za Slovenijo je leta 1921 Centralni knjižnici podarila dragoceno zbirko knjižnice Juridičnega društva (Juristische Gesellschaft in Laibach - Juristenverein (1861–1923)), ki je bila bogato založena, predvsem s starimi pravnimi knjigami. Del te zbirke je tudi Zbirka patentov, odlokov, predpisov, norm, navodil, okrožnic ipd., ki so jih izdali Karl VI., Marija Terezija in Jožef II. (Sammlung verschiedener unter der Regierung Carl VI., Maria Theresia und Josef II. ergangenen Patente, Verordnungen, Vorschriften, Normen, Instruktionen, Cirkulare etc.).</p><p>Fond Centralne pravosodne knjižnice je izredno bogat. Obsega namreč vso slovensko literaturo s področja prava in pravosodja, obsežen del jugoslovanske literature in tujo pravno literaturo. Posebej dragocen je za pravosodje, saj igra pomembno vlogo pri razvoju pravne stroke, kot tak pa je tudi izjemen vir za preučevanje (pravne) zgodovine.</p></collection:description>
+                <collection:description xml:lang="eng"><p>The Central Judicial Library was established after the disintegration of Austro‑Hungary in 1918, when the Supreme Provincial Court, which started operating on 1 December 1918, was formed in Ljubljana by the decree of the National Government. At the same time the Central Library (later renamed as the Central Judicial Library) was established at the initiative of the President of the Supreme Provincial Court Ivan Kavčnik, with the consent of the Judicial Commission. The library operated in the context of the Court (it consisted of the Provincial Court Library, the Pravnik association library and the Juridical Association library). The initial library collection consisted of the materials of the Provincial Court Library (essentially German expert literature, Vienna legal magazines and legislation). In 1921 the provincial administration of Slovenia donated a valuable collection of the Juridical Association library (Juristische Gesellschaft in Laibach - Juristenverein (1861–1923)) to the Central Library. This collection consisted of an extensive selection of mostly older legal literature, and it also contained a collection of patents, decrees, regulations, norms, instructions, circulars, etc., released by Charles VI, Maria Theresa and Joseph II (Sammlung verschiedener unter der Regierung Carl VI., Maria Theresia und Josef II. ergangenen Patente, Verordnungen, Vorschriften, Normen, Instruktionen, Cirkulare etc.). The collection of the Central Judicial Library is extremely rich, encompassing all of the Slovenian literature from the field of law and justice, a significant part of the Yugoslav literature as well as foreign legal literature.  It is an especially precious resource for the justice system, as it has an important role in the development of the legal profession, and as such it also represents an extraordinary resource for the studying of (legal) history.</p></collection:description>
+                <collection:wholeContent>true</collection:wholeContent>
+                <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                <collection:searchResultsShow>One per line</collection:searchResultsShow>
+             </menu>
+             <dublincore>
+                <dcterms:title xml:lang="slv">Centralna pravosodna knjižnica</dcterms:title>
+                <dcterms:title xml:lang="eng">Central Judical Library</dcterms:title>
+                <dcterms:description xml:lang="slv">Centralna pravosodna knjižnica je začela s svojim poslanstvom po zlomu Avstro-Ogrske leta 1918, ko je bilo z odlokom Narodne vlade ustanovljeno Višje deželno sodišče v Ljubljani (delovati je začelo 1. decembra 1918). Sočasno je bila na pobudo njegovega predsednika Ivana Kavčnika (in s privolitvijo Poverjeništva za pravosodje) ustanovljena Centralna knjižnica (kasneje preimenovana v Centralno pravosodno knjižnico), ki je delovala v okviru sodišča (sestavljale so jo knjižnica Deželnega sodišča, knjižnica društva Pravnik in knjižnica Juridičnega društva). Začetni knjižnični fond je obsegal gradivo knjižnice Deželnega sodišča (osnovo so predstavljale nemške strokovne knjige, dunajsko pravno časopisje in zakoni). Pokrajinska uprava za Slovenijo je leta 1921 Centralni knjižnici podarila dragoceno zbirko knjižnice Juridičnega društva (Juristische Gesellschaft in Laibach - Juristenverein (1861–1923)), ki je bila bogato založena, predvsem s starimi pravnimi knjigami. Del te zbirke je tudi Zbirka patentov, odlokov, predpisov, norm, navodil, okrožnic ipd., ki so jih izdali Karl VI., Marija Terezija in Jožef II. (Sammlung verschiedener unter der Regierung Carl VI., Maria Theresia und Josef II. ergangenen Patente, Verordnungen, Vorschriften, Normen, Instruktionen, Cirkulare etc.). Fond Centralne pravosodne knjižnice je izredno bogat. Obsega namreč vso slovensko literaturo s področja prava in pravosodja, obsežen del jugoslovanske literature in tujo pravno literaturo.  Posebej dragocen je za pravosodje, saj igra pomembno vlogo pri razvoju pravne stroke, kot tak pa je tudi izjemen vir za preučevanje (pravne) zgodovine.</dcterms:description>
+                <dcterms:description xml:lang="eng">The Central Judicial Library was established after the disintegration of Austro‑Hungary in 1918, when the Supreme Provincial Court, which started operating on 1 December 1918, was formed in Ljubljana by the decree of the National Government. At the same time the Central Library (later renamed as the Central Judicial Library) was established at the initiative of the President of the Supreme Provincial Court Ivan Kavčnik, with the consent of the Judicial Commission. The library operated in the context of the Court (it consisted of the Provincial Court Library, the Pravnik association library and the Juridical Association library). The initial library collection consisted of the materials of the Provincial Court Library (essentially German expert literature, Vienna legal magazines and legislation). In 1921 the provincial administration of Slovenia donated a valuable collection of the Juridical Association library (Juristische Gesellschaft in Laibach - Juristenverein (1861–1923)) to the Central Library. This collection consisted of an extensive selection of mostly older legal literature, and it also contained a collection of patents, decrees, regulations, norms, instructions, circulars, etc., released by Charles VI, Maria Theresa and Joseph II (Sammlung verschiedener unter der Regierung Carl VI., Maria Theresia und Josef II. ergangenen Patente, Verordnungen, Vorschriften, Normen, Instruktionen, Cirkulare etc.). The collection of the Central Judicial Library is extremely rich, encompassing all of the Slovenian literature from the field of law and justice, a significant part of the Yugoslav literature as well as foreign legal literature.  It is an especially precious resource for the justice system, as it has an important role in the development of the legal profession, and as such it also represents an extraordinary resource for the studying of (legal) history.</dcterms:description>
+             </dublincore>
+             
+             <collection id="751" publications="true">
+                <title lang="slv">Zbirka raznih patentov, odlokov, predpisov, norm, navodil, okrožnic ipd., ki so jih izdali Karl VI., Marija Terezija in Jožef II.</title>
+                <title lang="eng">A Collection of various Patents, Decrees, Regulations, Norms, Instructions, Circulars etc., issued by Charles VI., Maria Theresa and Joseph II.</title>
+             <menu>
+                <collection:description xml:lang="slv"><p>Zbirko patentov, odlokov, predpisov, norm, navodil, okrožnic ipd. Karla VI., Marije Terezije in Jožefa II. hrani Centralna pravosodna knjižnica v treh zvezkih. V prvem in drugem zvezku so listine Karla VI. in Marije Terezije, medtem ko so v zadnjem zvezku listine Marije Terezije in Jožefa II. Večina dokumentov je tiskanih in pisanih v tiskani gotici, manjši del pa so rokopisi v pisani gotici. Po vsebini so dokumenti precej raznovrstni. Listine prvih dveh zvezkov vsebujejo razne določbe v zvezi z (vojnim ) davkom, vojsko, dalje strankami v postopku, precej je listin v zvezi s tobakom in soljo (ter tihotapljenjem), s kovanci (zlatniki in srebrniki), prav tako pa tudi z raznimi ekscesi (dueli, pretepi itd.). Listine se dotikajo še duševne oskrbe, ureditve (plovnih) poti, mitnin kakor tudi (tranzitne) trgovine. Listine, ki jih je izdal Jožef II., so (poleg nekaterih že naštetih zadev) urejale še podložniške razmere (pritožbe, lastnina, tlaka), zadeve v zvezi s tolerančnim patentom, z zakonsko zvezo, s pošto, z živalmi ipd. Listine v zbirki se delno navezujejo na Kranjsko in notranjeavstrijske dežele, ostale pa so bolj splošne in so bile v veljavi za širše cesarstvo</p></collection:description>
+                <collection:description xml:lang="eng"><p>(Original title: Sammlung verschiedener unter der Regierung Carl VI., Maria Theresa und Josef II. ergangenen Patente, Verordnungen, Vorschriften, Normen, Instruktionen, Cirkulare etc.) The collection of patents, decrees, regulations, norms, instructions, circulars etc. of Charles VI, Maria Theresa and Joseph II is kept at the Central Judicial Library in three volumes. The first and second volumes contain the documents of Charles VI and Maria Theresa, and the third one consists of the documents of Maria Theresa and Joseph II. The majority of the documents are printed in Gothic type, while some manuscripts are written in Gothic handwriting. The content of the documents is rather diverse. The documents in the first two volumes contain various provisions concerning (military) taxes, armed forces and parties to legal proceedings. Many of them concern tobacco and salt (smuggling), coins (gold and silver), as well as various types of disorderly conduct (duels, fights, etc.). The documents also relate to spiritual care, management of waterways and roads, tolls, and (transit) trade. The documents issued by Joseph II also provided for (apart from some of the aforementioned matters) serfdom issues (complaints, property, socage), matters related to the Patent of Tolerance, marriage, postal service, animals, etc. Partly the documents in the collection are related to Carniola and the Inner Austrian provinces, while the rest of them are more general and applicable to the wider Empire.</p></collection:description>
+                <collection:wholeContent>true</collection:wholeContent>
+                <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+             <collection:searchResultsShow>One per line</collection:searchResultsShow>
+             </menu>   
+              <dublincore>
+                 <dcterms:title xml:lang="slv">Zbirka raznih patentov, odlokov, predpisov, norm, navodil, okrožnic ipd., ki so jih izdali Karl VI., Marija Terezija in Jožef II.</dcterms:title>
+                 <dcterms:title xml:lang="eng">A Collection of various Patents, Decrees, Regulations, Norms, Instructions, Circulars etc., issued by Charles VI., Maria Theresa and Joseph II.</dcterms:title>
+                 <dcterms:description xml:lang="slv">Zbirko patentov, odlokov, predpisov, norm, navodil, okrožnic ipd. Karla VI., Marije Terezije in Jožefa II. hrani Centralna pravosodna knjižnica v treh zvezkih. V prvem in drugem zvezku so listine Karla VI. in Marije Terezije, medtem ko so v zadnjem zvezku listine Marije Terezije in Jožefa II. Večina dokumentov je tiskanih in pisanih v tiskani gotici, manjši del pa so rokopisi v pisani gotici. Po vsebini so dokumenti precej raznovrstni. Listine prvih dveh zvezkov vsebujejo razne določbe v zvezi z (vojnim ) davkom, vojsko, dalje strankami v postopku, precej je listin v zvezi s tobakom in soljo (ter tihotapljenjem), s kovanci (zlatniki in srebrniki), prav tako pa tudi z raznimi ekscesi (dueli, pretepi itd.). Listine se dotikajo še duševne oskrbe, ureditve (plovnih) poti, mitnin kakor tudi (tranzitne) trgovine. Listine, ki jih je izdal Jožef II., so (poleg nekaterih že naštetih zadev) urejale še podložniške razmere (pritožbe, lastnina, tlaka), zadeve v zvezi s tolerančnim patentom, z zakonsko zvezo, s pošto, z živalmi ipd. Listine v zbirki se delno navezujejo na Kranjsko in notranjeavstrijske dežele, ostale pa so bolj splošne in so bile v veljavi za širše cesarstvo</dcterms:description>
+                 <dcterms:description xml:lang="eng">(Original title: Sammlung verschiedener unter der Regierung Carl VI., Maria Theresa und Josef II. ergangenen Patente, Verordnungen, Vorschriften, Normen, Instruktionen, Cirkulare etc.) The collection of patents, decrees, regulations, norms, instructions, circulars etc. of Charles VI, Maria Theresa and Joseph II is kept at the Central Judicial Library in three volumes. The first and second volumes contain the documents of Charles VI and Maria Theresa, and the third one consists of the documents of Maria Theresa and Joseph II. The majority of the documents are printed in Gothic type, while some manuscripts are written in Gothic handwriting. The content of the documents is rather diverse. The documents in the first two volumes contain various provisions concerning (military) taxes, armed forces and parties to legal proceedings. Many of them concern tobacco and salt (smuggling), coins (gold and silver), as well as various types of disorderly conduct (duels, fights, etc.). The documents also relate to spiritual care, management of waterways and roads, tolls, and (transit) trade. The documents issued by Joseph II also provided for (apart from some of the aforementioned matters) serfdom issues (complaints, property, socage), matters related to the Patent of Tolerance, marriage, postal service, animals, etc. Partly the documents in the collection are related to Carniola and the Inner Austrian provinces, while the rest of them are more general and applicable to the wider Empire.</dcterms:description>
+              </dublincore>    
+             </collection>
+        </collection>
+            
+            <collection id="15" publications="true">
+            <title lang="slv">Narodna in študijska knjižnica</title> 
+               <title lang="eng">Slovene National Library of the Studies</title>
+               <menu>
+                  <collection:description xml:lang="slv"><p>Narodna in študijska knjižnica v Trstu (NŠK) je nastala v času tik po drugi svetovni vojni, njen nastanek pa temelji na bogati dediščini slovenskega kulturnega življenja na Tržaškem. Razvoj tega življenja je bil prekinjen s prihodom fašizma, zaradi katerega je ustanovitev NŠK dočakal le majhen del nekdanjega knjižnega in arhivskega fonda slovenskih ustanov iz zamejstva. Leta 1951 je bil v okviru knjižnice ustanovljen Odsek za zgodovino, ki do današnjih dni neprekinjeno skrbi za zbiranje arhivskega gradiva in muzejskih predmetov, pomembnih za preteklost in sedanjost Slovencev v zamejstvu. Odsek se v svojem delu ni omejil le na vlogo ustanove za hrambo tega bogatega gradiva, temveč že od samega začetka skrbi za njegovo strokovno in znanstveno proučevanje ter uporabo, kar se odraža v odsekovi bogati publicistični in razstavni dejavnosti ter pogosti organizaciji strokovnih srečanj.</p><p> O bogati zgodovini Odseka za zgodovino NŠK, njegovi dejavnosti in gradivu več na povezavah:</p><a href="http://sistory.si/publikacije/prenos/?urn=SISTORY:ID:1124">Kronološki pregled delovanja Odseka za zgodovino NŠK od ustanovitve do danes</a><br/><a href="http://sistory.si/publikacije/prenos/?urn=SISTORY:ID:1200">Prikaz organizacijske strukture, delovanja in gradiva Odseka za zgodovino NŠK</a></collection:description>
+                  <collection:description xml:lang="eng">The National and Study Library (Narodna in študijska knjižnica) in Trieste was founded soon after World War II. Its establishment is based on the rich heritage of the Slovenian cultural life in the Trieste region. The development of this life was halted with the onset of fascism, which is why only a fraction of the former book and archive collections of the Slovenian institutions in Italy had been preserved until the National and Study Library was established. In 1951 a Department of History (Odsek za zgodovino) was established in the context of the library, and to date it has overseen the collection of archive materials and museum artefacts significant for the past and the present of Slovenians in Italy. In its work the Department of History has not limited itself merely to the role of an institution responsible for keeping this rich material. Instead it has taken care of its expert and scientific study as well as use, which is reflected in the extensive publishing and exhibition activities of this Department as well as in its frequent organisation of expert meetings.</collection:description>
+               <collection:wholeContent>true</collection:wholeContent>
+                  <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                  <collection:searchResultsShow>One per line</collection:searchResultsShow>
+               </menu>
+               <dublincore>
+                  <dcterms:title xml:lang="slv">Narodna in študijska knjižnica</dcterms:title>
+                  <dcterms:title xml:lang="eng">Slovene National Library of the Studies</dcterms:title>
+                  <dcterms:description xml:lang="slv">Narodna in študijska knjižnica v Trstu (NŠK) je nastala v času tik po drugi svetovni vojni, njen nastanek pa temelji na bogati dediščini slovenskega kulturnega življenja na Tržaškem. Razvoj tega življenja je bil prekinjen s prihodom fašizma, zaradi katerega je ustanovitev NŠK dočakal le majhen del nekdanjega knjižnega in arhivskega fonda slovenskih ustanov iz zamejstva. Leta 1951 je bil v okviru knjižnice ustanovljen Odsek za zgodovino, ki do današnjih dni neprekinjeno skrbi za zbiranje arhivskega gradiva in muzejskih predmetov, pomembnih za preteklost in sedanjost Slovencev v zamejstvu. Odsek se v svojem delu ni omejil le na vlogo ustanove za hrambo tega bogatega gradiva, temveč že od samega začetka skrbi za njegovo strokovno in znanstveno proučevanje ter uporabo, kar se odraža v odsekovi bogati publicistični in razstavni dejavnosti ter pogosti organizaciji strokovnih srečanj.</dcterms:description>
+                  <dcterms:description xml:lang="eng">The National and Study Library (Narodna in študijska knjižnica) in Trieste was founded soon after World War II. Its establishment is based on the rich heritage of the Slovenian cultural life in the Trieste region. The development of this life was halted with the onset of fascism, which is why only a fraction of the former book and archive collections of the Slovenian institutions in Italy had been preserved until the National and Study Library was established. In 1951 a Department of History (Odsek za zgodovino) was established in the context of the library, and to date it has overseen the collection of archive materials and museum artefacts significant for the past and the present of Slovenians in Italy. In its work the Department of History has not limited itself merely to the role of an institution responsible for keeping this rich material. Instead it has taken care of its expert and scientific study as well as use, which is reflected in the extensive publishing and exhibition activities of this Department as well as in its frequent organisation of expert meetings.</dcterms:description>
+               </dublincore>
+               
+               <collection id="181" publications="true">
+                  <title lang="slv">Opis NSK</title>
+                  <title lang="eng">Opis NSK</title>
+                  <menu>
+                     <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                     <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                  </menu>
+                  <dublincore>
+                     <dcterms:title xml:lang="slv">Opis NSK</dcterms:title>
+                     <dcterms:title xml:lang="eng">Opis NSK</dcterms:title>
+                  </dublincore>
+               </collection>
+            </collection>
+            
+            <collection id="646">
+               <title lang="slv">Slovenski šolski muzej</title>
+               <title lang="eng">Slovene School Museum</title>
+               <menu>
+                  <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                  <collection:searchResultsShow>One per line</collection:searchResultsShow>
+               </menu>
+               <dublincore>
+                  <dcterms:title xml:lang="slv">Slovenski šolski muzej</dcterms:title>
+                  <dcterms:title xml:lang="eng">Slovene School Museum</dcterms:title>
+               </dublincore>
+               
+               <collection id="647">
+                  <title lang="slv">Zbirka šolskih listov</title>
+                  <title lang="eng">Collection of school censuses</title>
+                  <menu>
+                     <collection:description xml:lang="slv"><p>Šolski list predstavlja podobo posameznih slovenskih krajev in tamkajšnjih šol v 30. in 40. letih 20. stoletja, ki so v času nastanka vira sodile v jugoslovanski del Slovenije (Dravska banovina). Šolski list je obrazec št. 58/1928 Statističnega odseka ministrstva prosvete v obliki velike pole (35 x 49,5 cm) s štirimi stranmi pokončnega formata, z besedilom razpredelnic in vprašanj tega formularja v srbohrvaščini v cirilici (str. 1-2) in latinici (str. 3-4). Obrazci so praviloma izpolnjeni v slovenščini, dodane pa so priloge (načrti, skice, zemljevidi). Prva stran predstavlja širši geografski položaj šole in različne podatke o krajih šolskega okoliša. Druga stran je posvečena strnjenemu pregledu zgodovini šole, jeziku pouka, šolski zgradbi in vrtu. Tretjo stran sestavljata prostora za dve skici šolske stavbe v merilu 1:100 ter šolskega dvorišča, igrišča itd. v merilu 1:500. Zadnja, četrta stran, je do polovice izpolnjena s skico šolskega okoliša. Temu sledi prostor za »imena znamenitih ljudi, ki so se učili v tej šoli«, nato pa še spisek vseh šol v šolskem okolišu. Na koncu sta še datum (najbolj pogosto leta 1929). V šolski lisi so dopisovali podatke še v prvih letih po drugi svetovni vojni.</p>  <p> Krajša predstavitev tega vira je dostopna v reviji ARHIVI: glasilo Arhivskega društva in arhivov Slovenije ISSN: 0351-2835.- 13, št. 1/2 (1990), str. 107-108 pod naslovom:<a href="http://www.sistory.si/SISTORY:ID:10852#page=107">Šolski list - statistični vir o šolah na področju Dravske banovine v Slovenskem šolskem muzeju</a> </p>Za hitrejšo in lažjo navigacijo po krajih, kjer so se šole nahajale, je izdelan <a href="http://www.sistory.si/SISTORY:ID:20868">zemljevid s povezavami na šolske liste.</a></collection:description>
+                 <collection:wholeContent>true</collection:wholeContent>
+                     <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                     <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                  </menu>
+                  <dublincore>
+                     <dcterms:title xml:lang="slv">Zbirka šolskih listov</dcterms:title>
+                     <dcterms:title xml:lang="eng">Collection of school censuses</dcterms:title>
+                  </dublincore>
+               </collection>
+               
+            </collection>
+         </collection> 
       </collection>
+      
       <collection id="2">
          <title lang="slv">Literatura</title>
          <title lang="eng">Literature</title>
