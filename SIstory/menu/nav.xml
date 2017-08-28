@@ -3000,17 +3000,325 @@
                        <dcterms:license>https://creativecommons.org/publicdomain/mark/1.0/</dcterms:license>
                        <!--arhivska enota-->  
                     </dublincore>
-                 </collection>
-                 
-                 
+                 </collection>     
               </collection>
               
+              <collection id="616">
+                 <title lang="slv">Okrajno glavarstvo Novo mesto</title>
+                 <menu>
+                    <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                    <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                 </menu>
+                 <dublincore>
+                    <dcterms:title>Okrajno glavarstvo Novo mesto</dcterms:title>
+                    <dcterms:creator xml:lang="slv">Okrajno glavarstvo Novo mesto</dcterms:creator>
+                    <dcterms:creator xml:lang="deu">Bezirkshauptmannschaft Rudolfswerth</dcterms:creator>
+                    <dcterms:creator xml:lang="slv">Sresko poglavarstvo Novo mesto</dcterms:creator>
+                    <dcterms:creator xml:lang="slv">Sresko načelstvo Novo mesto</dcterms:creator>
+                    <dcterms:creator xml:lang="ita">Capitanato distrettuale di Novo mesto</dcterms:creator>
+                 </dublincore>
+             
+              
+              <collection id="617" publications="true">
+                 <title lang="slv">SI_ZAL_NME/0003 Popis prebivalstva 1869, občina Bela Cerkev</title>
+                 <title lang="eng">SI_ZAL_NME/0003 Popis prebivalstva 1869, občina Bela Cerkev</title>
+                 <menu>
+                    <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                    <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                 </menu>
+                 <dublincore>
+                    <dcterms:title xml:lang="slv">SI_ZAL_NME/0003 Popis prebivalstva 1869, občina Bela Cerkev</dcterms:title>
+                    <dcterms:title xml:lang="eng">SI_ZAL_NME/0003 Popis prebivalstva 1869, občina Bela Cerkev</dcterms:title>
+                 </dublincore>
+              </collection>
+              
+              <collection id="618" publications="true">
+                 <title lang="slv">SI_ZAL_NME/0003 Popis prebivalstva 1869, občina Črmošnjice</title>
+                 <title lang="eng">SI_ZAL_NME/0003 Popis prebivalstva 1869, občina Črmošnjice</title>
+                 <menu>
+                    <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                    <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                 </menu>
+                 <dublincore>
+                    <dcterms:title xml:lang="slv">SI_ZAL_NME/0003 Popis prebivalstva 1869, občina Črmošnjice</dcterms:title>
+                    <dcterms:title xml:lang="eng">SI_ZAL_NME/0003 Popis prebivalstva 1869, občina Črmošnjice</dcterms:title>
+                 </dublincore>
+              </collection>
+              
+              <collection id="619" publications="true">
+                 <title lang="slv">SI_ZAL_NME/0003 Popis prebivalstva 1869, občina Dobrnič</title>
+                 <title lang="eng">SI_ZAL_NME/0003 Popis prebivalstva 1869, občina Dobrnič</title>
+                 <menu>
+                    <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                    <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                 </menu>
+                 <dublincore>
+                    <dcterms:title xml:lang="slv">SI_ZAL_NME/0003 Popis prebivalstva 1869, občina Dobrnič</dcterms:title>
+                    <dcterms:title xml:lang="eng">SI_ZAL_NME/0003 Popis prebivalstva 1869, občina Dobrnič</dcterms:title>
+                 </dublincore>
+              </collection>
+              
+              <collection id="620" publications="true">
+                 <title lang="slv">SI_ZAL_NME/0003 Popis prebivalstva 1869, občina Kočevske Poljane</title>
+                 <title lang="eng">SI_ZAL_NME/0003 Popis prebivalstva 1869, občina Kočevske Poljane</title>
+                 <menu>
+                    <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                    <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                 </menu>
+                 <dublincore>
+                    <dcterms:title xml:lang="slv">SI_ZAL_NME/0003 Popis prebivalstva 1869, občina Kočevske Poljane</dcterms:title>
+                    <dcterms:title xml:lang="eng">SI_ZAL_NME/0003 Popis prebivalstva 1869, občina Kočevske Poljane</dcterms:title>
+                 </dublincore>
+              </collection>
+              
+              <collection id="621" publications="true">
+                 <title lang="slv">SI_ZAL_NME/0003 Popis prebivalstva 1869, občina Mirna</title>
+                 <title lang="eng">SI_ZAL_NME/0003 Popis prebivalstva 1869, občina Mirna</title>
+                 <menu>
+                    <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                    <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                 </menu>
+                 <dublincore>
+                    <dcterms:title xml:lang="slv">SI_ZAL_NME/0003 Popis prebivalstva 1869, občina Mirna</dcterms:title>
+                    <dcterms:title xml:lang="eng">SI_ZAL_NME/0003 Popis prebivalstva 1869, občina Mirna</dcterms:title>
+                 </dublincore>
+              </collection>
+              
+              <collection id="622" publications="true">
+                 <title lang="slv">SI_ZAL_NME/0003 Popis prebivalstva 1869, občina Prečna</title>
+                 <title lang="eng">SI_ZAL_NME/0003 Popis prebivalstva 1869, občina Prečna</title>
+                 <menu>
+                    <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                    <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                 </menu>
+                 <dublincore>
+                    <dcterms:title xml:lang="slv">SI_ZAL_NME/0003 Popis prebivalstva 1869, občina Prečna</dcterms:title>
+                    <dcterms:title xml:lang="eng">SI_ZAL_NME/0003 Popis prebivalstva 1869, občina Prečna</dcterms:title>
+                 </dublincore>
+              </collection>
+              
+              <collection id="623" publications="true">
+                 <title lang="slv">SI_ZAL_NME/0003 Popis prebivalstva 1869, Kandija (Novo mesto)</title>
+                 <title lang="eng">SI_ZAL_NME/0003 Popis prebivalstva 1869, Kandija (Novo mesto)</title>
+                 <menu>
+                    <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                    <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                 </menu>
+                 <dublincore>
+                    <dcterms:title xml:lang="slv">SI_ZAL_NME/0003 Popis prebivalstva 1869, Kandija (Novo mesto)</dcterms:title>
+                    <dcterms:title xml:lang="eng">SI_ZAL_NME/0003 Popis prebivalstva 1869, Kandija (Novo mesto)</dcterms:title>
+                    <dcterms:description>Kandija je bilo naselje v občini Šmihel-Stopiče. Leta 1923 je bila Kandija priključena Novemu mestu. Danes skupaj z naseljem Grm tvori novomeško krajevno skupnost Kandija-Grm.</dcterms:description>
+                 </dublincore>
+              </collection>
+              
+              <collection id="624" publications="true">
+                 <title lang="slv">SI_ZAL_NME/0003 Popis prebivalstva 1869, občina Trebnje</title>
+                 <title lang="eng">SI_ZAL_NME/0003 Popis prebivalstva 1869, občina Trebnje</title>
+                 <menu>
+                    <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                    <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                 </menu>
+                 <dublincore>
+                    <dcterms:title xml:lang="slv">SI_ZAL_NME/0003 Popis prebivalstva 1869, občina Trebnje</dcterms:title>
+                    <dcterms:title xml:lang="eng">SI_ZAL_NME/0003 Popis prebivalstva 1869, občina Trebnje</dcterms:title>
+                 </dublincore>
+              </collection>
+              
+              <collection id="625" publications="true">
+                 <title lang="slv">SI_ZAL_NME/0003 Popis prebivalstva 1869, občina Velika Loka</title>
+                 <title lang="eng">SI_ZAL_NME/0003 Popis prebivalstva 1869, občina Velika Loka</title>
+                 <menu>
+                    <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                    <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                 </menu>
+                 <dublincore>
+                    <dcterms:title xml:lang="slv">SI_ZAL_NME/0003 Popis prebivalstva 1869, občina Velika Loka</dcterms:title>
+                    <dcterms:title xml:lang="eng">SI_ZAL_NME/0003 Popis prebivalstva 1869, občina Velika Loka</dcterms:title>
+                 </dublincore>
+              </collection>
+              </collection>     
            </collection>
            
+           <collection id="737">
+              <title lang="slv">SI_ZAL_VRH/0016 Matični urad Vrhnika (1870-1959)</title>
+              <menu>
+                 <collection:description xml:lang="slv"><p>Muzejsko društvo Vrhnika je opravilo prepis dela  gradiva iz fonda Matični urad Vrhnika, VRH 16,  ki ga hrani Zgodovinski arhiv Ljubljana. Prepisane so knjige s popisi prebivalcev občine Vrhnike iz let 1890 in 1900. Sonja Anžič in Jože Setnikar sta gradivo pregledala, prepisala v digitalno obliko in pripravila za objavo v zborniku Vrhniški razgledi, v zvezkih št. 5 (glej <a class="" title="Vrhniški razgledi 5" target="_blank" href="http://www.dlib.si/details/URN:NBN:SI:DOC-XCCQFTUS">dLib</a>), 6 (glej <a class="" title="Vrhniški razgledi 6" target="_blank" href="http://www.dlib.si/details/URN:NBN:SI:doc-DLQUQF2Q">dLib</a>), 7 (glej <a class="" title="Vrhniški razgledi 7" target="_blank" href="http://www.dlib.si/details/URN:NBN:SI:doc-9QR4RC1M">dLib</a>) in 8 (glej <a class="" title="Vrhniški razgledi 8" target="_blank" href="http://www.dlib.si/details/URN:NBN:SI:doc-KTBJV9WA">dLib</a>).</p><p>Glede na opravljene prepise in na iniciativo Inštituta  za novejšo zgodovino (INZ), ki upravlja s spletnim portalom Zgodovina Slovenije - SIstory, pa je predsednica v društvu dobila mandat, da sodeluje z INZ. Leta 2014 sta INZ in MDV sklenila dogovor o sodelovanju pri projektu Popisi prebivalstva Slovenije 1830-1931. Gradivo iz fonda Matični urad Vrhnika (VRH 16), ki ga hrani Zgodovinski arhiv  Ljubljana, je INZ umestil v programski modul Popisi prebivalstva, ki je javno in prosto dostopen na  portalu SIstory.</p><p>Muzejsko društvo Vrhnika, ustanovljeno 1992, se že  od začetka zavzeto posveča spoznavanju zgodovinske identitete vrhniškega prostora. Raziskovanje, zbiranje, hrambo gradiva in prezentacijo izsledkov s področja domoznanstva ter varstva kulturne in  naravne dediščine društvo v svojem programu zajema  v celoti. Ministrstvo za kulturo RS mu je 2004 podelilo status društva v javnem interesu na področju kulture.</p><p>Muzejsko društvo izvaja večje projekte z Zavodom Ivana Cankarja Vrhnika. Med najvidnejšimi je zbornik  Vrhniški razgledi, ki izhaja od leta 1996 in zajema  zelo raznolika področja. Trenutno je v pripravi 16. zvezek. Med zahtevnimi projekti so dokumentarne razstave, ki so gostovale tudi v drugih krajih. Med njimi »Razvoj usnjarstva na Vrhniki«,  »Vrhnika v prvi svetovni vojni«, »Vrhnika na pomembni evropski poti«, »Ko je bila Vrhnika še pristanišče«, »Brata Jager«, razstave o najstarejših vrhniških ulicah in okoliških krajih. Društvo je postavilo spominske plošče slikarjem Petkovšku, Sternenu  in Ogrinu, v Ameriki uveljavljenima bratoma Jager ter spomenik vrhniškim krasoslovcem Michlerju, Habetu in Habiču. Pripravili so mnoga tematska predavanja in ekskurzije, v kraje, ki so tako ali drugače povezani  z Vrhniko, po Sloveniji in v tujino: Dunaj, Solnograško, rečna pristanišča v Nemčiji, Južna Tirolska. Pomemben dosežek je že iz leta 2009, izdelava projektne naloge  Muzej Vrhnika, ki je ena glavnih spodbud za Doživljajsko razstavišče Ljubljanica, ki nastaja na Vrhniki.</p></collection:description>
+              <collection:wholeContent>true</collection:wholeContent>
+                 <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                 <collection:searchResultsShow>One per line</collection:searchResultsShow>
+              </menu>
+              <dublincore>
+                 <dcterms:title>SI_ZAL_VRH/0016 Matični urad Vrhnika (1870-1959)</dcterms:title>
+                 <dcterms:created>1870-1959</dcterms:created>
+                 <dcterms:issued>2015</dcterms:issued>
+                 <dcterms:format>pdf</dcterms:format>
+                 <dcterms:identifier>SI_ZAL_VRH/0016</dcterms:identifier>
+                 <dcterms:source xml:lang="slv">Zgodovinski arhiv Ljubljana, Enota v Ljubljani</dcterms:source>
+                 <dcterms:source xml:lang="eng">Historical Archive Ljubljana</dcterms:source>
+                 <dcterms:language>slv</dcterms:language>
+                 <dcterms:language>eng</dcterms:language>
+                 <dcterms:license>https://creativecommons.org/publicdomain/mark/1.0/</dcterms:license>
+                 <dcterms:accrualMethod>Digitalizirano je bilo samo tisto analogno gradivo, katero vsebuje podatke o popisih prebivalstva.</dcterms:accrualMethod>
+              <!--arhivski elementi - fond, 2,3 tekočega metra, 14 škatel-->
+              </dublincore>
+              
+              <collection id="738" publications="true">
+                 <title lang="slv">SI_ZAL_VRH/0016/005 Popisi prebivalstva občine Vrhnika 1870 in 1880</title>
+                 <title lang="eng">SI_ZAL_VRH/0016/005 Popisi prebivalstva občine Vrhnika 1870 in 1880</title>
+              <menu>
+                 <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                 <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+              </menu>
+                 <dublincore>
+                    <dcterms:title xml:lang="slv">SI_ZAL_VRH/0016/005 Popisi prebivalstva občine Vrhnika 1870 in 1880</dcterms:title>
+                    <dcterms:title xml:lang="eng">SI_ZAL_VRH/0016/005 Popisi prebivalstva občine Vrhnika 1870 in 1880</dcterms:title>
+                 </dublincore>
+              </collection>
+              
+              <collection id="739" publications="true">
+                 <title lang="slv">SI_ZAL_VRH/0016/006 Popisi prebivalstva občine Vrhnika 1890</title>
+                 <title lang="eng">SI_ZAL_VRH/0016/006 Popisi prebivalstva občine Vrhnika 1890</title>
+                 <menu>
+                    <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                    <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                 </menu>
+                 <dublincore>
+                    <dcterms:title xml:lang="slv">SI_ZAL_VRH/0016/006 Popisi prebivalstva občine Vrhnika 1890</dcterms:title>
+                    <dcterms:title xml:lang="eng">SI_ZAL_VRH/0016/006 Popisi prebivalstva občine Vrhnika 1890</dcterms:title>
+                 </dublincore>
+              </collection>
+              
+              <collection id="740" publications="true">
+                 <title lang="slv">SI_ZAL_VRH/0016/007 Popisi prebivalstva občine Vrhnika 1900</title>
+                 <title lang="eng">SI_ZAL_VRH/0016/007 Popisi prebivalstva občine Vrhnika 1900</title>
+                 <menu>
+                    <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                    <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                 </menu>
+                 <dublincore>
+                    <dcterms:title xml:lang="slv">SI_ZAL_VRH/0016/007 Popisi prebivalstva občine Vrhnika 1900</dcterms:title>
+                    <dcterms:title xml:lang="eng">SI_ZAL_VRH/0016/007 Popisi prebivalstva občine Vrhnika 1900</dcterms:title>
+                 </dublincore>
+              </collection>
+              
+              <collection id="741" publications="true">
+                 <title lang="slv">SI_ZAL_VRH/0016/008 Popisi prebivalstva občine Vrhnika 1910</title>
+                 <title lang="eng">SI_ZAL_VRH/0016/008 Popisi prebivalstva občine Vrhnika 1910</title>
+                 <menu>
+                    <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                    <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                 </menu>
+                 <dublincore>
+                    <dcterms:title xml:lang="slv">SI_ZAL_VRH/0016/008 Popisi prebivalstva občine Vrhnika 1910</dcterms:title>
+                    <dcterms:title xml:lang="eng">SI_ZAL_VRH/0016/008 Popisi prebivalstva občine Vrhnika 1910</dcterms:title>
+                 </dublincore>
+              </collection>
+           </collection>
+             
+         <collection id="595">
+            <title lang="slv">Iskalnik po popisih prebivalstva</title>
+            <menu>
+               <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+               <collection:searchResultsShow>One per line</collection:searchResultsShow>
+            </menu>
+            <dublincore>
+               <dcterms:title>Iskalnik po popisih prebivalstva</dcterms:title>
+            </dublincore>
+         </collection>    
+        
+        <collection id="654" publications="true">
+           <title lang="slv">Navigacije po popisih prebivalstva</title>
+           <menu><collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+              <collection:searchResultsShow>One per line</collection:searchResultsShow>
+           </menu>
+           <dublincore>
+              <dcterms:title xml:lang="slv">Navigacije po popisih prebivalstva</dcterms:title>
+           </dublincore>
+        </collection>
+           
+           <collection id="747" publications="true">
+              <title lang="slv">Študije</title>
+              <title lang="eng">Studies</title>
+              <menu><collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                 <collection:searchResultsShow>One per line</collection:searchResultsShow>
+              </menu>
+              <dublincore>
+                 <dcterms:title xml:lang="slv">Študije</dcterms:title>
+                 <dcterms:title xml:lang="eng">Studies</dcterms:title>
+              </dublincore>
+           </collection>
         </collection>    
             
+            <collection id="73" publications="true">
+               <title lang="slv">Privilegijska knjiga</title>
+               <title lang="eng">Privilege book</title>
+               <menu>
+                  <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                  <collection:searchResultsShow>One per line</collection:searchResultsShow>
+               </menu>
+               <dublincore>
+                  <dcterms:title xml:lang="slv">Privilegijska knjiga</dcterms:title>
+                  <dcterms:title xml:lang="eng">Privilege book</dcterms:title>
+               </dublincore>
+            </collection>
             
+            <collection id="72" publications="true">
+               <title lang="slv">Listine</title>
+               <title lang="eng">Charters</title>
+               <menu>
+                  <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                  <collection:searchResultsShow>One per line</collection:searchResultsShow>
+               </menu>
+               <dublincore>
+                  <dcterms:title xml:lang="slv">Listine</dcterms:title>
+                  <dcterms:title xml:lang="eng">Charters</dcterms:title>
+               </dublincore>
+            </collection>
+            
+            <collection id="261" publications="true" active="false">
+               <title lang="slv">SI ZAL LJU 342 Fototeka (1859-2010)</title>  
+               <title lang="eng">SI ZAL LJU 342 Fototeka (1859-2010)</title>
+               <menu>
+                  <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                  <collection:searchResultsShow>One per line</collection:searchResultsShow>
+               </menu>
+               <dublincore>
+                  <dcterms:title xml:lang="slv">SI ZAL LJU 342 Fototeka (1859-2010)</dcterms:title>
+                  <dcterms:title xml:lang="eng">SI ZAL LJU 342 Fototeka (1859-2010)</dcterms:title>
+               </dublincore>
+            </collection>
          </collection> 
+         
+         <collection id="11">
+            <title lang="slv">Muzealije</title>  
+            <title lang="eng">Museum items</title>
+            <menu>
+               <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+               <collection:searchResultsShow>One per line</collection:searchResultsShow>
+            </menu>
+            <dublincore>
+               <dcterms:title xml:lang="slv">Muzealije</dcterms:title>
+               <dcterms:title xml:lang="eng">Museum items</dcterms:title>
+            </dublincore> 
+            
+            <collection id="196">
+               <title lang="slv">Odlivanje smrti</title>  
+               <title lang="eng">Museum items</title>
+               <menu>
+                  <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                  <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                  <collection:description xml:lang="slv">Raziskava Odlivanje smrti poteka v okviru 3-letnega evropskega projekta TRACES, ki ga financira Evropska komisija (Horizon 2020). Na primeru posmrtnih mask se ukvarjamo z vlogo umetnika pri posredovanju sporne dediščine, kar je tudi krovna tema celotnega podviga (Transmitting Contentious Cultural Heritages with the Arts: From Intervention to Co-Production). Devet univerz in dve društvi iz devetih držav se je lotilo zanimivega podviga: kako posredovati sporno kulturno dediščino s pomočjo umetnosti? V okviru projekta TRACES smo vzpostavili pet delovnih situacij, v katerih enakopravno sodelujejo umetniki, znanstveniki in upravljalci sporne kulturne dediščine. Vpeljava ustvarjalnih koprodukcij (creative coprodutions) želi preseči uveljavljeno prakso umetniških intervencij in posebno pozornost posveča razvoju metodologij sodelovanja. Do konca leta 2019 se bodo po Evropi zvrstile številne razstave, konference, diskusije in drugi dogodki, izšle pa bodo tudi tematske revije in “priročniki”.<h3>Partnerji</h3> <ol> <li>UNI-KLU | Universitaet Klagenfurt (Avstrija), Klaus Schönberger (koordinator projekta)</li> <li>POLIMI | Politecnico Di Milano (Italija), Luca Basso Peressut, Francesca Lanz</li> <li>UBER | Humboldt-Universitaet Zu Berlin (Nemčija), Sharon Macdonald, Regina Römhild, Tal Adler, Anna Szöke, Katherine Walker</li> <li>UNIVERSITY OSLO | Universitetet I Oslo (Norveška), Arnd Schneider</li> <li>ZHDK | Zürcher Hochschule der Künste (Švica), Nora Landkammer, Karin Schneider</li> <li>Hosman Durabil (Romunija), Julie Dawson, Anda Reuben</li> <li>NHM | Naturhistorisches Museum (Avstrija), Maria Teschler-Nicola</li> <li>UEDIN| The University Of Edinburgh (Velika Britanija), John Harris, Linda Fibiger, Joan Smith</li> <li>UJAG| Uniwersytet Jagiellonski (Poljska), Roma Sendyka, Erica Lehrer, Magdalena Zych, Wojciech Wilczyk</li> <li>ULster| University Of Ulster (Velika Britanija), Aisling O’Beirn, Martin Krenn</li> <li>DRS| Društvo za domače raziskave (Slovenija), Alenka Pirman, Jani Pirnat, Damijan Kracina</li> </ol> <h3>Povezave</h3> <ul> <li><a href="http://ddr.si/sl/category/projekti/odlivanje-smrti/" target="_blank">Društvo za domače raziskave: Odlivanje smrti</a></li> <li><a href="http://www.traces.polimi.it/" target="_blank">Spletno mesto projekta TRACES</a></li> <li><a href="https://www.facebook.com/tracesproject/" target="_blank">Facebook stran projekta TRACES</a></li> <li><a href="http://cordis.europa.eu/project/rcn/200849_en.html" target="_blank">Osnovna informacija o projektu TRACES na straneh Evropske komisije</a></li> </ul> <p> <a href="http://www.traces.polimi.it/" target="_blank"><img src="/cdn/publikacije/37001-38000/37143/traces_logo_RGB.png" name="TRACES logo" width="150px"/></a> </p> <table> <tbody> <tr> <td><img src="http://ec.europa.eu/research/participants/docs/h2020-funding-guide/imgs/eu-flag.jpg" name="European Union Flag"  width="120px"/></td> <td>Ta projekt je prejel sredstva iz programa Evropske unije za raziskave in inovacije Obzorje 2020 po pogodbi št. 693857.</td> </tr> </tbody> </table> </collection:description>
+                  <collection:description xml:lang="eng">The Casting of Death research is part of the TRACES, Transmitting Contentious Cultural Heritage with the Arts project, supported the European Commission (Horizon 2020).</collection:description>
+               </menu>
+               <dublincore>
+                  <dcterms:title xml:lang="slv">Odlivanje smrti</dcterms:title>
+                  <dcterms:title xml:lang="eng">Museum items</dcterms:title>
+                  <dcterms:description xml:lang="slv">Raziskava Odlivanje smrti poteka v okviru 3-letnega evropskega projekta TRACES, ki ga financira Evropska komisija (Horizon 2020). Na primeru posmrtnih mask se ukvarjamo z vlogo umetnika pri posredovanju sporne dediščine, kar je tudi krovna tema celotnega podviga (Transmitting Contentious Cultural Heritages with the Arts: From Intervention to Co-Production). Devet univerz in dve društvi iz devetih držav se je lotilo zanimivega podviga: kako posredovati sporno kulturno dediščino s pomočjo umetnosti? V okviru projekta TRACES smo vzpostavili pet delovnih situacij, v katerih enakopravno sodelujejo umetniki, znanstveniki in upravljalci sporne kulturne dediščine. Vpeljava ustvarjalnih koprodukcij (creative coprodutions) želi preseči uveljavljeno prakso umetniških intervencij in posebno pozornost posveča razvoju metodologij sodelovanja. Do konca leta 2019 se bodo po Evropi zvrstile številne razstave, konference, diskusije in drugi dogodki, izšle pa bodo tudi tematske revije in “priročniki”.</dcterms:description>
+                  <dcterms:description xml:lang="eng">The Casting of Death research is part of the TRACES, Transmitting Contentious Cultural Heritage with the Arts project, supported the European Commission (Horizon 2020).</dcterms:description>
+               </dublincore>
+            </collection>
+            
+         </collection>
       </collection>
       
       <collection id="2">
