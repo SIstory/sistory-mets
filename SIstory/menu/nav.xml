@@ -4867,22 +4867,433 @@
          </collection>
          
          
-         <collection id="809" publications="true">
+         <collection id="808" publications="true">
             <title lang="slv">SICI</title>
-            <title lang="eng">Research data</title>
+            <title lang="eng">SICI</title>
             <menu>
                <collection:searchResultsShow>One per line</collection:searchResultsShow>
                <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
             </menu>
             <dublincore>
                <dcterms:title xml:lang="slv">SICI</dcterms:title>      
-               <dcterms:title xml:lang="eng">Research data</dcterms:title>     
+               <dcterms:title xml:lang="eng">SICI</dcterms:title>     
             </dublincore>
          </collection>
          
+         <collection id="806">
+            <title lang="slv">Smrtne žrtve med prebivalstvom RS med drugo svetovno vojno in neposredno po njej</title>
+            <title lang="eng">Death toll in the population on the territory of the Republic of Slovenia during WWII and immediately afterwards</title>
+        <menu>
+           <collection:searchResultsShow>One per line</collection:searchResultsShow>
+        <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+        </menu>
+            <dublincore>
+               <dcterms:title xml:lang="slv">Smrtne žrtve med prebivalstvom RS med drugo svetovno vojno in neposredno po njej</dcterms:title>
+               <dcterms:title xml:lang="eng">Death toll in the population on the territory of the Republic of Slovenia during WWII and immediately afterwards</dcterms:title>
+            </dublincore>
+            
+            <collection id="810" active="false" publications="true">
+               <title lang="slv">Analize</title>
+               <title lang="eng">Analysis</title>
+               <menu>
+                  <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                  <collection:searchResultsShow>One per line</collection:searchResultsShow>
+               </menu>
+               <dublincore>
+                  <dcterms:title xml:lang="slv">Analize</dcterms:title>
+                  <dcterms:title xml:lang="eng">Analysis</dcterms:title>
+               </dublincore>
+            </collection>
+         </collection>
+            
+            <collection id="807" publications="true">
+               <title lang="slv">Zgodovinarski indeks citiranosti (ZIC)</title>
+               <title lang="eng">History Citation Index (HCI)</title>
+               <menu>
+                  <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                  <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+               </menu>
+               <dublincore>
+                  <dcterms:title xml:lang="slv">Zgodovinarski indeks citiranosti (ZIC)</dcterms:title>
+                  <dcterms:title xml:lang="eng">History Citation Index (HCI)</dcterms:title>
+               </dublincore>
+            </collection>
+         
       </collection>
       
+      <collection id="3">
+         <title lang="slv">DH</title>
+         <title lang="eng">DH</title>
+         <menu>
+            <collection:description xml:lang="slv">Digitalna humanistika</collection:description>
+            <collection:description xml:lang="eng">Digital humanistics</collection:description>
+            <collection:searchResultsShow>One per line</collection:searchResultsShow>
+            <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+         </menu>
+         <dublincore>
+            <dcterms:title xml:lang="slv">DH</dcterms:title>
+            <dcterms:title xml:lang="eng">DH</dcterms:title>
+         </dublincore>
+         
+         <collection id="725" active="false">
+            <title lang="slv">Digitalne zbirke</title>
+            <title lang="eng">Digital collections</title>
+            <menu>
+               <collection:searchResultsShow>One per line</collection:searchResultsShow>
+               <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+            </menu>
+            <dublincore>
+               <dcterms:title xml:lang="slv">Digitalne zbirke</dcterms:title>
+               <dcterms:title xml:lang="eng">Digital collections</dcterms:title>
+            </dublincore>
+            
+            <collection id="726" active="false">
+               <title lang="slv">Programi slovenskih političnih organizacij 1890-1918</title>
+               <title lang="eng">Programs of Slovenian political organizations 1890-1918</title>
+               <menu>
+                  <collection:description xml:lang="slv">Besedilni korpus programov slovenskih političnih strank, organizacij in društev od leta 1890 do druge svetovne vojne.</collection:description>
+                  <collection:description xml:lang="eng">Text corpus of the programmes of Slovenian political parties, organisations and associations from 1890 until World War II</collection:description>
+                  <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                  <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+               </menu>
+               <dublincore>
+                  <dcterms:title xml:lang="slv">Programi slovenskih političnih organizacij 1890-1918</dcterms:title>
+                  <dcterms:title xml:lang="eng">Programs of Slovenian political organizations 1890-1918</dcterms:title>
+                  <dcterms:description xml:lang="slv">Besedilni korpus programov slovenskih političnih strank, organizacij in društev od leta 1890 do druge svetovne vojne.</dcterms:description>
+                  <dcterms:description xml:lang="eng">Text corpus of the programmes of Slovenian political parties, organisations and associations from 1890 until World War II</dcterms:description>
+               </dublincore>
+               
+               <collection id="753" active="false">
+                  <title lang="slv">Programi slovenskih političnih strank, organizacij in društev v avstrijski dobi</title>
+                  <title lang="eng">Programmes of Slovenian political parties, organisations and associations in the Austrian period</title>
+                  <menu>
+                     <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                     <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                  </menu>
+                  <dublincore>
+                     <dcterms:title xml:lang="slv">Programi slovenskih političnih strank, organizacij in društev v avstrijski dobi</dcterms:title>
+                     <dcterms:title xml:lang="eng">Programmes of Slovenian political parties, organisations and associations in the Austrian period</dcterms:title>
+                  </dublincore>
+                  
+                  <collection id="755" active="false">
+                     <title lang="slv">Katoliški tabor</title>
+                     <title lang="eng">Catholic camp</title>
+                     <menu>
+                        <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                        <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                     </menu>
+                     <dublincore>
+                        <dcterms:title xml:lang="slv">Katoliški tabor</dcterms:title>
+                        <dcterms:title xml:lang="eng">Catholic camp</dcterms:title>
+                     </dublincore>
+                     
+                     <collection id="764" active="false" publications="true">
+                        <title lang="slv">Katoliška politična organizacija na Kranjskem</title>
+                        <title lang="eng">Catholic political organisation in Carniola</title>
+                        <menu>
+                           <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                           <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                        </menu>
+                        <dublincore>
+                           <dcterms:title xml:lang="slv">Katoliška politična organizacija na Kranjskem</dcterms:title>
+                           <dcterms:title xml:lang="eng">Catholic political organisation in Carniola</dcterms:title>
+                        </dublincore>
+                     </collection> 
+                     
+                     <collection id="765" active="false" publications="true">
+                        <title lang="slv">Katoliška politična organizacija na Koroškem</title>
+                        <title lang="eng">Catholic political organisation in Carinthia</title>
+                        <menu>
+                           <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                           <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                        </menu>
+                        <dublincore>
+                           <dcterms:title xml:lang="slv">Katoliška politična organizacija na Koroškem</dcterms:title>
+                           <dcterms:title xml:lang="eng">Catholic political organisation in Carinthia</dcterms:title>
+                        </dublincore>
+                     </collection>
+                        
+                        <collection id="766" active="false" publications="true">
+                           <title lang="slv">Katoliška politična organizacija na Štajerskem</title>
+                           <title lang="eng">Catholic political organisation in Styria</title>
+                           <menu>
+                              <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                              <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                           </menu>
+                           <dublincore>
+                              <dcterms:title xml:lang="slv">Katoliška politična organizacija na Štajerskem</dcterms:title>
+                              <dcterms:title xml:lang="eng">Catholic political organisation in Styria</dcterms:title>
+                           </dublincore>
+                        </collection> 
+                     
+                     <collection id="767" active="false" publications="true">
+                        <title lang="slv">Katoliška politična organizacija na Goriškem</title>
+                        <title lang="eng">Catholic political organisation in Gorizia region</title>
+                        <menu>
+                           <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                           <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                        </menu>
+                        <dublincore>
+                           <dcterms:title xml:lang="slv">Katoliška politična organizacija na Goriškem</dcterms:title>
+                           <dcterms:title xml:lang="eng">Catholic political organisation in Gorizia region</dcterms:title>
+                        </dublincore>
+                     </collection> 
+                     
+                     <collection id="768" active="false" publications="true">
+                        <title lang="slv">Katoliška politična organizacija v vseslovenskem obsegu</title>
+                        <title lang="eng">Catholic political organisation in all of Slovenia</title>
+                        <menu>
+                           <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                           <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                        </menu>
+                        <dublincore>
+                           <dcterms:title xml:lang="slv">Katoliška politična organizacija v vseslovenskem obsegu</dcterms:title>
+                           <dcterms:title xml:lang="eng">Catholic political organisation in all of Slovenia</dcterms:title>
+                        </dublincore>
+                     </collection>
+                  </collection> 
+                  
+                  
+                  <collection id="756" active="false" >
+                     <title lang="slv">Liberalni tabor</title>
+                     <title lang="eng">Liberal camp</title>
+                     <menu>
+                        <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                        <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                     </menu>
+                     <dublincore>
+                        <dcterms:title xml:lang="slv">Liberalni tabor</dcterms:title>
+                        <dcterms:title xml:lang="eng">Liberal camp</dcterms:title>
+                     </dublincore>
+                     
+                     <collection id="769" active="false" publications="true">
+                        <title lang="slv">Liberalna politična organizacija na Kranjskem</title>
+                        <title lang="eng">Liberal political organisation in Carniola</title>
+                        <menu>
+                           <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                           <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                        </menu>
+                        <dublincore>
+                           <dcterms:title xml:lang="slv">Liberalna politična organizacija na Kranjskem</dcterms:title>
+                           <dcterms:title xml:lang="eng">Liberal political organisation in Carniola</dcterms:title>
+                        </dublincore>
+                     </collection>
+                     
+                     <collection id="770" active="false" publications="true">
+                        <title lang="slv">Liberalna politična organizacija na Goriškem</title>
+                        <title lang="eng">Liberal political organisation in Gorizia</title>
+                        <menu>
+                           <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                           <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                        </menu>
+                        <dublincore>
+                           <dcterms:title xml:lang="slv">Liberalna politična organizacija na Goriškem</dcterms:title>
+                           <dcterms:title xml:lang="eng">Liberal political organisation in Gorizia</dcterms:title>
+                        </dublincore>
+                     </collection>
+                     
+                     <collection id="771" active="false" publications="true">
+                        <title lang="slv">Liberalna politična organizacija na Goriškem</title>
+                        <title lang="eng">Liberal political organisation in the Gorizia region</title>
+                        <menu>
+                           <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                           <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                        </menu>
+                        <dublincore>
+                           <dcterms:title xml:lang="slv">Liberalna politična organizacija na Goriškem</dcterms:title>
+                           <dcterms:title xml:lang="eng">Liberal political organisation in the Gorizia region</dcterms:title>
+                        </dublincore>
+                     </collection>
+                     
+                     <collection id="772" active="false" publications="true">
+                        <title lang="slv">Liberalna politična organizacija v vseslovenskem obsegu</title>
+                        <title lang="eng">Liberal political organisation in all of Slovenia</title>
+                        <menu>
+                           <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                           <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                        </menu>
+                        <dublincore>
+                           <dcterms:title xml:lang="slv">Liberalna politična organizacija v vseslovenskem obsegu</dcterms:title>
+                           <dcterms:title xml:lang="eng">Liberal political organisation in all of Slovenia</dcterms:title>
+                        </dublincore>
+                     </collection>
+                  </collection>
+                  
+                  <collection id="757" active="false" publications="true">
+                     <title lang="slv">Socialistični tabor</title>
+                     <title lang="eng">Socialist camp</title>
+                     <menu>
+                        <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                        <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                     </menu>
+                     <dublincore>
+                        <dcterms:title xml:lang="slv">Socialistični tabor</dcterms:title>
+                        <dcterms:title xml:lang="eng">Socialist camp</dcterms:title>
+                     </dublincore>
+                  </collection>
+                  
+                  <collection id="758" active="false" publications="true">
+                     <title lang="slv">Skupni ali večinsko podprti programi slovenske politike do konca avstrijske dobe</title>
+                     <title lang="eng">Common or majority supported Slovenian political programmes until the end of the Austrian period</title>
+                     <menu>
+                        <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                        <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                     </menu>
+                     <dublincore>
+                        <dcterms:title xml:lang="slv">Skupni ali večinsko podprti programi slovenske politike do konca avstrijske dobe</dcterms:title>
+                        <dcterms:title xml:lang="eng">Common or majority supported Slovenian political programmes until the end of the Austrian period</dcterms:title>
+                     </dublincore>
+                  </collection>
+                  
+                  <collection id="759" active="false" publications="true">
+                     <title lang="slv">Skupine in organizacije, oblikovane izven tradicionalnih političnih taborov</title>
+                     <title lang="eng">Political groups and organisations, established outside of the traditional political camps</title>
+                     <menu>
+                        <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                        <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                     </menu>
+                     <dublincore>
+                        <dcterms:title xml:lang="slv">Skupine in organizacije, oblikovane izven tradicionalnih političnih taborov</dcterms:title>
+                        <dcterms:title xml:lang="eng">Political groups and organisations, established outside of the traditional political camps</dcterms:title>
+                     </dublincore>
+                  </collection>
+               </collection>
+               
+               <collection id="754" active="false">
+                  <title lang="slv">Programi slovenskih političnih strank in načelne programsko politične izjave v času Države Slovencev, Hrvatov in Srbov</title>
+                  <title lang="eng">Programmes of Slovenian political parties and principled political programme statements in the State of Slovenes, Croats and Serbs</title>
+                  <menu>
+                     <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                     <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                  </menu>
+                  <dublincore>
+                     <dcterms:title xml:lang="slv">Programi slovenskih političnih strank in načelne programsko politične izjave v času Države Slovencev, Hrvatov in Srbov</dcterms:title>
+                     <dcterms:title xml:lang="eng">Programmes of Slovenian political parties and principled political programme statements in the State of Slovenes, Croats and Serbs</dcterms:title>
+                  </dublincore>
+                  
+                  <collection id="760" active="false" publications="true">
+                     <title lang="slv">Socialistični tabor</title>
+                     <title lang="eng">Socialistic camp</title>
+                     <menu>
+                        <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                        <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                     </menu>
+                     <dublincore>
+                        <dcterms:title xml:lang="slv">Socialistični tabor</dcterms:title>
+                        <dcterms:title xml:lang="eng">Socialistic camp</dcterms:title>
+                     </dublincore>
+                  </collection>
+                  
+                  <collection id="761" active="false" publications="true">
+                     <title lang="slv">Liberalni tabor</title>
+                     <title lang="eng">Liberal camp</title>
+                     <menu>
+                        <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                        <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                     </menu>
+                     <dublincore>
+                        <dcterms:title xml:lang="slv">Liberalni tabor</dcterms:title>
+                        <dcterms:title xml:lang="eng">Liberal camp</dcterms:title>
+                     </dublincore>
+                  </collection>
+                  
+                  <collection id="762" active="false" publications="true">
+                     <title lang="slv">Katoliški tabor</title>
+                     <title lang="eng">Catholic camp</title>
+                     <menu>
+                        <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                        <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                     </menu>
+                     <dublincore>
+                        <dcterms:title xml:lang="slv">Katoliški tabor</dcterms:title>
+                        <dcterms:title xml:lang="eng">Catholic camp</dcterms:title>
+                     </dublincore>
+                  </collection>
+                  
+                  <collection id="763" active="false" publications="true">
+                     <title lang="slv">Skupna stališča slovenskih političnih in kulturnih predstavnikov o jugoslovanski državni združitvi leta 1918</title>
+                     <title lang="eng">Common standpoints of the Slovenian political and cultural representatives about the Yugoslav state unification in 1918</title>
+                     <menu>
+                        <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                        <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                     </menu>
+                     <dublincore>
+                        <dcterms:title xml:lang="slv">Skupna stališča slovenskih političnih in kulturnih predstavnikov o jugoslovanski državni združitvi leta 1918</dcterms:title>
+                        <dcterms:title xml:lang="eng">Common standpoints of the Slovenian political and cultural representatives about the Yugoslav state unification in 1918</dcterms:title>
+                     </dublincore>
+                  </collection>
+               </collection> 
+            </collection>
+            
+            <collection id="729" active="false" publications="true">
+               <title lang="slv">Sejni zapisi</title>
+               <title lang="eng">Stenographical minutes</title>
+               <menu>
+                  <collection:description xml:lang="eng">Text corpus of the session minutes from the Assembly of the Socialist Republic of Slovenia (1963-1990) </collection:description>
+                  <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                  <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                  <collection:wholeContent>true</collection:wholeContent>
+               </menu>
+               <dublincore>
+                  <dcterms:title xml:lang="slv">Sejni zapisi</dcterms:title>
+                  <dcterms:title xml:lang="eng">Stenographical minutes</dcterms:title>
+                  <dcterms:description xml:lang="eng">Text corpus of the session minutes from the Assembly of the Socialist Republic of Slovenia (1963-1990) </dcterms:description>
+               </dublincore>
+            </collection>
+         </collection>
+         
+         <collection id="811" publications="true">
+            <title lang="slv">DARIAH-SI</title>
+            <title lang="eng">DARIAH-SI</title>
+            <menu>
+               <collection:searchResultsShow>One per line</collection:searchResultsShow>
+               <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+            </menu>
+            <dublincore>
+               <dcterms:title xml:lang="slv">DARIAH-SI</dcterms:title>
+               <dcterms:title xml:lang="eng">DARIAH-SI</dcterms:title>
+            </dublincore>
+         </collection>
+         
+         <collection id="608" publications="true">
+            <title lang="slv">Orodja</title>
+            <title lang="eng">Tools</title>
+            <menu>
+               <collection:searchResultsShow>One per line</collection:searchResultsShow>
+               <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+            </menu>
+            <dublincore>
+               <dcterms:title xml:lang="slv">Orodja</dcterms:title>
+               <dcterms:title xml:lang="eng">Tools</dcterms:title>
+            </dublincore>
+         </collection>
+         
+         <collection id="604" publications="true">
+            <title lang="slv">Dokumentacija</title>
+            <title lang="eng">Documentation</title>
+            <menu>
+               <collection:searchResultsShow>One per line</collection:searchResultsShow>
+               <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+            </menu>
+            <dublincore>
+               <dcterms:title xml:lang="slv">Dokumentacija</dcterms:title>
+               <dcterms:title xml:lang="eng">Documentation</dcterms:title>
+            </dublincore>
+         </collection>
+      </collection>
       
+      <collection id="6" publications="true">
+         <title lang="slv">O SIstory</title>
+         <title lang="eng">About SIstory</title>
+         <menu>
+            <collection:searchResultsShow>One per line</collection:searchResultsShow>
+            <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+         </menu>
+         <dublincore>
+            <dcterms:title xml:lang="slv">O SIstory</dcterms:title>
+            <dcterms:title xml:lang="eng">About SIstory</dcterms:title>
+         </dublincore>
+      </collection>
       
    </collection>
  </repository>
