@@ -13,7 +13,7 @@
                  Jaz pa ne vem, kateri številki sta to. Lahko tudi vzamem številki trenutno praznih map 
                  (npr. nekdanji številki menija Zgodovina in šola (4) za nav)! -->
       
-      <collection id="211">
+      <collection id="211" active="false">
          <title lang="slv">Neobjavljeno</title>
       </collection>
       
@@ -3318,27 +3318,1571 @@
                </dublincore>
             </collection>
             
+            <collection id="7">
+               <title lang="slv">Tiskani viri</title>  
+               <title lang="eng">Printed sources</title>
+               <menu>
+                  <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                  <collection:searchResultsShow>One per line</collection:searchResultsShow>
+               </menu>
+               <dublincore>
+                  <dcterms:title xml:lang="slv">Tiskani viri</dcterms:title>
+                  <dcterms:title xml:lang="eng">Printed sources</dcterms:title>
+               </dublincore>
+               
+               <collection id="57">
+                  <title lang="slv">Časopisni viri</title>  
+                  <title lang="eng">Newspaper sources</title>
+                  <menu>
+                     <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                     <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                  </menu>
+                  <dublincore>
+                     <dcterms:title xml:lang="slv">Časopisni viri</dcterms:title>
+                     <dcterms:title xml:lang="eng">Newspaper sources</dcterms:title>
+                  </dublincore>
+                  
+                 <collection id="816">
+                    <title lang="slv">Delavsko - kmetski list</title>  
+                    <title lang="eng">Delavsko - kmetski list</title>
+                    <menu>
+                       <collection:description xml:lang="slv">Delavsko-kmetski list je med letoma 1924 in 1926 predstavljal legalno tedensko glasilo tedaj ilegalne Komunistične partije Jugoslavije na Slovenskem. Izhajal je v Ljubljani, njegov predhodnik je bil list Glas Svobode. Med vidnejšimi sodelavci lista lahko naštejemo Dragotina Gustinčiča, Dušana Kermavnerja, Franceta in Mileta Klopčiča ter Lovra Kuharja. Okrog glasila se je oblikovala legalna politična skupina Delavsko kmetski republikanski blok, ki se je zavzemala za samostojno slovensko delavsko kmečko republiko in se borila proti politiki gospodarskega zatiranja ter za svobodo političnega delovanja. V posamičnih številkah lista lahko spremljamo zaplete v kriznem obdobju za Komunistično partijo Jugoslavije v Sloveniji, leta 1925 namreč prihaja do združevanja strokovnih organizacij. List je bil aprila 1926 prepovedan, vsebinsko pa se je nadaljeval v tedniku Enotnost.</collection:description>
+                       <collection:description xml:lang="eng">Between 1924 and 1926 Delavsko-kmetski list (Workers and Peasants Paper) represented a legal weekly publication of the Communist Party of Yugoslavia in Slovenia, illegal at the time. It was published in Ljubljana and it superseded the newspaper Glas Svobode (Voice of Freedom). The more prominent contributors of the paper include Dragotin Gustinčič, Dušan Kermavner, France and Mile Klopčič, and Lovro Kuhar. A legal political group called the Republican Bloc of Workers and Peasants formed around the paper, arguing for an independent Slovenian republic of workers and peasants, opposing the policy of economic repression, and supporting the freedom of political activities. In the individual issues of the paper we can follow the complications during the period critical for the Communist Party of Yugoslavia in Slovenia - because in 1925 the merging of expert organisations took place. In April 1926 the paper was forbidden, but essentially its work continued in the Enotnost (Unity) weekly.</collection:description>
+                       <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                       <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                       <collection:wholeContent>true</collection:wholeContent>
+                    </menu>
+                    <dublincore>
+                       <dcterms:title xml:lang="slv">Delavsko - kmetski list</dcterms:title>
+                       <dcterms:title xml:lang="eng">Delavsko - kmetski list</dcterms:title>
+                       <dcterms:description xml:lang="slv">Delavsko-kmetski list je med letoma 1924 in 1926 predstavljal legalno tedensko glasilo tedaj ilegalne Komunistične partije Jugoslavije na Slovenskem. Izhajal je v Ljubljani, njegov predhodnik je bil list Glas Svobode. Med vidnejšimi sodelavci lista lahko naštejemo Dragotina Gustinčiča, Dušana Kermavnerja, Franceta in Mileta Klopčiča ter Lovra Kuharja. Okrog glasila se je oblikovala legalna politična skupina Delavsko kmetski republikanski blok, ki se je zavzemala za samostojno slovensko delavsko kmečko republiko in se borila proti politiki gospodarskega zatiranja ter za svobodo političnega delovanja. V posamičnih številkah lista lahko spremljamo zaplete v kriznem obdobju za Komunistično partijo Jugoslavije v Sloveniji, leta 1925 namreč prihaja do združevanja strokovnih organizacij. List je bil aprila 1926 prepovedan, vsebinsko pa se je nadaljeval v tedniku Enotnost.</dcterms:description>
+                       <dcterms:description xml:lang="eng">Between 1924 and 1926 Delavsko-kmetski list (Workers and Peasants Paper) represented a legal weekly publication of the Communist Party of Yugoslavia in Slovenia, illegal at the time. It was published in Ljubljana and it superseded the newspaper Glas Svobode (Voice of Freedom). The more prominent contributors of the paper include Dragotin Gustinčič, Dušan Kermavner, France and Mile Klopčič, and Lovro Kuhar. A legal political group called the Republican Bloc of Workers and Peasants formed around the paper, arguing for an independent Slovenian republic of workers and peasants, opposing the policy of economic repression, and supporting the freedom of political activities. In the individual issues of the paper we can follow the complications during the period critical for the Communist Party of Yugoslavia in Slovenia - because in 1925 the merging of expert organisations took place. In April 1926 the paper was forbidden, but essentially its work continued in the Enotnost (Unity) weekly.</dcterms:description>
+                    </dublincore>
+                 </collection> 
+                  
+                  <collection id="817">
+                     <title lang="slv">Enotnost</title>  
+                     <title lang="eng">Unity</title>
+                     <menu>
+                        <collection:description xml:lang="slv">ENOTNOST ( 1926-29), legalno glasilo ilegalne Komunistične partije Jugoslavije v Sloveniji. Kot tednik je izhajala v Ljubljani. Njeni odgovorni uredniki so v času izhajanja bili Matija Vukovič, Alojz Kusold, Ciril Košir, Jakob Pančur, Anton Hlebec, Franc Wankmueller, Tone Praprotnik in Ivan Saje, med uredniki pa so bili tudi France Klopčič, Anton Hlebec, Dušan Kermavner, Dragotin Gustinčič. Med sodelavci lista lahko najdemo Ivana Regenta, Mileta Klopčiča, Lovra Kuharja, Ivana Grahorja, Bratka Krefta , Toneta Čufarja… Enotnost je opozarjala na nevarnost vojaške diktature, se zavzemala za enotnost delavskega strokovnega in političnega gibanja; veliko pozornost je posvečala tudi delavski kulturi. Povzeto po: Ferdo Fischer, Enotnost, ES, MK, Ljubljana 1989, str. 48.</collection:description>
+                        <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                        <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                        <collection:wholeContent>true</collection:wholeContent>
+                     </menu>
+                     <dublincore>
+                        <dcterms:title xml:lang="slv">Enotnost</dcterms:title>
+                        <dcterms:title xml:lang="eng">Unity</dcterms:title>
+                        <dcterms:description xml:lang="slv">ENOTNOST ( 1926-29), legalno glasilo ilegalne Komunistične partije Jugoslavije v Sloveniji. Kot tednik je izhajala v Ljubljani. Njeni odgovorni uredniki so v času izhajanja bili Matija Vukovič, Alojz Kusold, Ciril Košir, Jakob Pančur, Anton Hlebec, Franc Wankmueller, Tone Praprotnik in Ivan Saje, med uredniki pa so bili tudi France Klopčič, Anton Hlebec, Dušan Kermavner, Dragotin Gustinčič. Med sodelavci lista lahko najdemo Ivana Regenta, Mileta Klopčiča, Lovra Kuharja, Ivana Grahorja, Bratka Krefta , Toneta Čufarja… Enotnost je opozarjala na nevarnost vojaške diktature, se zavzemala za enotnost delavskega strokovnega in političnega gibanja; veliko pozornost je posvečala tudi delavski kulturi. Povzeto po: Ferdo Fischer, Enotnost, ES, MK, Ljubljana 1989, str. 48.</dcterms:description>
+                     </dublincore>  
+                  </collection>
+                  
+                  <collection id="818">
+                     <title lang="slv">Glas svobode</title>  
+                     <title lang="eng">Glas svobode</title>
+                     <menu>
+                        <collection:description xml:lang="slv">GLAS SVOBODE (1923-24) je bil legalni list KPJ, ki je izhajal pod formalnim okriljem Nezavisne delavske stranke Jugoslavije. Tedensko je izhajal v Ljubljani ter označuje čas vzpona revolucionarnega delavskega gibanja v Sloveniji pred trboveljskim obračunom z Orjuno, ki je kasneje dosegla tudi njegovo ukinitev V drugi polovici leta 1923 je v časopisu potekala diskusija NDSJ o nacionalnem vprašanju, januarja 1924 pa je bil v njem objavljen Predlog za referendum NDSJ, v katerem so obvestili javnost o sklepih ilegalne 3. državne konference KPJ, ki je bila med 1. in 4. januarjem 1924 v Beogradu. Med vidnejšimi sodelavci lista najdemo Dragutina Gustinčiča, Ivan Vuka, Vinka Martelanca, Dušana Kermavnerja, Franceta in Mileta Klopčiča… Povzeto po: Ferdo Fischer: Glas Svobode. V: ES, 3. zvezek, Ljubljana: 1989.</collection:description>
+                        <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                        <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                        <collection:wholeContent>true</collection:wholeContent>
+                     </menu>
+                     <dublincore>
+                        <dcterms:title xml:lang="slv">Glas svobode</dcterms:title>
+                        <dcterms:title xml:lang="eng">Glas svobode</dcterms:title>
+                        <dcterms:description xml:lang="slv">GLAS SVOBODE (1923-24) je bil legalni list KPJ, ki je izhajal pod formalnim okriljem Nezavisne delavske stranke Jugoslavije. Tedensko je izhajal v Ljubljani ter označuje čas vzpona revolucionarnega delavskega gibanja v Sloveniji pred trboveljskim obračunom z Orjuno, ki je kasneje dosegla tudi njegovo ukinitev V drugi polovici leta 1923 je v časopisu potekala diskusija NDSJ o nacionalnem vprašanju, januarja 1924 pa je bil v njem objavljen Predlog za referendum NDSJ, v katerem so obvestili javnost o sklepih ilegalne 3. državne konference KPJ, ki je bila med 1. in 4. januarjem 1924 v Beogradu. Med vidnejšimi sodelavci lista najdemo Dragutina Gustinčiča, Ivan Vuka, Vinka Martelanca, Dušana Kermavnerja, Franceta in Mileta Klopčiča… Povzeto po: Ferdo Fischer: Glas Svobode. V: ES, 3. zvezek, Ljubljana: 1989.</dcterms:description>
+                     </dublincore>  
+                  </collection>
+               </collection>
+               
+               <collection id="218">
+                  <title lang="slv">Knjižice in brošure</title>  
+                  <title lang="eng">Booklets and brochures</title>
+                  <menu> 
+                     <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                     <collection:searchResultsShow>One per line</collection:searchResultsShow>  
+                  </menu>
+                  <dublincore>
+                     <dcterms:title xml:lang="slv">Knjižice in brošure</dcterms:title>
+                     <dcterms:title xml:lang="eng">Booklets and brochures</dcterms:title>    
+                  </dublincore>    
+                  
+                  <collection id="814" publications="true">
+                     <title lang="slv">Zbirka tiskovin Silva Kranjca o koroškem plebiscitu</title>  
+                     <title lang="eng">Silvo Kranjec collection of printed matters on the Carinthian Plebiscite</title>
+                     <menu> 
+                        <collection:description xml:lang="slv">Zbirka tiskovin iz zapuščine zgodovinarja <a href="https://sl.wikipedia.org/wiki/Silvo_Kranjec">Silva Kranjca</a> obsega 42 enot različnega tiskanega gradiva, predvsem letakov, plakatov, nekaj pa tudi časopisja in brošur, ki so nastale v mesecih pred izvedbo koroškega plebiscita (10. oktobra. 1920). Gradivo je tako nemške kot tudi jugoslovanske provenience.</collection:description>
+                        <collection:description xml:lang="eng">A collection of printed materials from the legacy of historian Silvo Kranjec comprises 42 units of various prints, especially flyers, posters, as well as some newspapers and brochures that have occurred in the months before carrying out the Carinthian plebiscite (on 10 October 1920). The material is both of German and Yugoslav provenance.</collection:description>
+                        <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                        <collection:wholeContent>true</collection:wholeContent>
+                        <collection:searchResultsShow>One per line</collection:searchResultsShow>  
+                     </menu>
+                     <dublincore>
+                        <dcterms:title xml:lang="slv">Zbirka tiskovin Silva Kranjca o koroškem plebiscitu</dcterms:title>
+                        <dcterms:title xml:lang="eng">Silvo Kranjec collection of printed matters on the Carinthian Plebiscite</dcterms:title>    
+                        <dcterms:description xml:lang="slv">Zbirka tiskovin iz zapuščine zgodovinarja Silva Kranjca obsega 42 enot različnega tiskanega gradiva, predvsem letakov, plakatov, nekaj pa tudi časopisja in brošur, ki so nastale v mesecih pred izvedbo koroškega plebiscita (10. oktobra. 1920). Gradivo je tako nemške kot tudi jugoslovanske provenience.</dcterms:description>
+                        <dcterms:description xml:lang="eng">A collection of printed materials from the legacy of historian Silvo Kranjec comprises 42 units of various prints, especially flyers, posters, as well as some newspapers and brochures that have occurred in the months before carrying out the Carinthian plebiscite (on 10 October 1920). The material is both of German and Yugoslav provenance.</dcterms:description>
+                     </dublincore>     
+                  </collection>
+                  
+                  <collection id="815" publications="true">
+                     <title lang="slv">Zbirka cenikov za sadje in zelenjavo – Ljubljanska pokrajina</title>  
+                     <title lang="eng">Collection of price lists for fruits and vegetables - Province of Ljubljana</title>
+                     <menu> 
+                        <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                        <collection:searchResultsShow>One per line</collection:searchResultsShow>  
+                     </menu>
+                     <dublincore>
+                        <dcterms:title xml:lang="slv">Zbirka cenikov za sadje in zelenjavo – Ljubljanska pokrajina</dcterms:title>
+                        <dcterms:title xml:lang="eng">Collection of price lists for fruits and vegetables - Province of Ljubljana</dcterms:title>    
+                     </dublincore>
+                  </collection>
+               </collection>
+               
+               <collection id="271" publications="true">
+                  <title lang="slv">Krajevni leksikoni</title>  
+                  <title lang="eng">Gazetteers</title>
+                  <menu> 
+                     <collection:description xml:lang="slv">Krajevni repertoriji, ki so izhajali po posameznih deželah Habsburške monarhije, so na podlagi popisov prebivalstva prinašali podatke o prebivalstvu krajev.</collection:description>
+                     <collection:description xml:lang="eng">Local registers, based on censuses and published in individual provinces of Austria-Hungary, provided information on the local population.</collection:description>
+                     <collection:wholeContent>true</collection:wholeContent>
+                     <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                     <collection:searchResultsShow>One per line</collection:searchResultsShow>  
+                  </menu>
+                  <dublincore>
+                     <dcterms:title xml:lang="slv">Krajevni leksikoni</dcterms:title>
+                     <dcterms:title xml:lang="eng">Gazetteers</dcterms:title>  
+                     <dcterms:description xml:lang="slv">Krajevni repertoriji, ki so izhajali po posameznih deželah Habsburške monarhije, so na podlagi popisov prebivalstva prinašali podatke o prebivalstvu krajev.</dcterms:description>
+                     <dcterms:description xml:lang="eng">Local registers, based on censuses and published in individual provinces of Austria-Hungary, provided information on the local population.</dcterms:description>
+                  </dublincore>
+               </collection>
+             
+             <collection id="70" publications="true">
+                <title lang="slv">Monografski tiskani viri</title>  
+                <title lang="eng">Printed sources - monographs</title>
+                <menu> 
+                   <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                   <collection:searchResultsShow>One per line</collection:searchResultsShow>  
+                </menu>
+                <dublincore>
+                   <dcterms:title xml:lang="slv">Monografski tiskani viri</dcterms:title>
+                   <dcterms:title xml:lang="eng">Printed sources - monographs</dcterms:title>    
+                </dublincore>       
+             </collection>
+               
+               <collection id="58" publications="true">
+                  <title lang="slv">Periodično tiskani viri</title>  
+                  <title lang="eng">Printed sources - periodicles</title>
+                  <menu> 
+                     <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                     <collection:searchResultsShow>One per line</collection:searchResultsShow>  
+                  </menu>
+                  <dublincore>
+                     <dcterms:title xml:lang="slv">Monografski tiskani viri</dcterms:title>
+                     <dcterms:title xml:lang="eng">Printed sources - periodicles</dcterms:title>    
+                  </dublincore>       
+               
+               
+               <collection id="819">
+                  <title lang="slv">Mladina /Svobodna mladina 1925-1929</title>  
+                  <title lang="eng">Mladina /Svobodna mladina 1925-1929</title>
+                  <menu> 
+                     <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                     <collection:searchResultsShow>One per line</collection:searchResultsShow>  
+                     <collection:description xml:lang="slv">Veliko spremembo v uredniški politiki je pomenil prevzem uredništva v letih 1925/1926, saj je prešlo pod vpliv članov Literarno-dramatičnega krožka Ivan Cankar. Krožek je ustanovil Srečko Kosovel, ki je s svojimi idejami bistveno vplival na nadaljnji razvoj revije. V duhu časa so se tako v reviji zavzemali za vsebinsko radikalne in deloma utopične socialistične ideje, posebej veliko pozornosti pa so namenjali vprašanjem kapitalizma, slovenstva in kulturne politike. Literarni prispevki so bili pod plazom zgoraj omenjenih tem nekoliko postavljeni v ozadje, kljub temu pa je revija tudi v tem smislu pomembna zaradi svoje vloge v širjenju ekspresionizma na Slovenskem. Revija je izhajala do leta 1929, v zadnjih letih pod imenom Svobodna mladina, velja pa za prvo (filomarksistično)predhodnico kasnejšega glasila slovenske mladinske organizacije Mladina. Povzeto po: Lado Kralj, Mladina, ES 7, MK: 1993, str. 169.</collection:description>
+                  <collection:wholeContent>true</collection:wholeContent>
+                  </menu>
+                  <dublincore>
+                     <dcterms:title xml:lang="slv">Mladina /Svobodna mladina 1925-1929</dcterms:title>
+                     <dcterms:title xml:lang="eng">Mladina /Svobodna mladina 1925-1929</dcterms:title>    
+                     <dcterms:description xml:lang="slv">Družboslovna in literarna revija Mladina je mesečno izhajala med letoma 1924-1929 pod okriljem Samostojne kmetijske stranke. Revija je bila namenjena dijakom, študentom in njihovim profesorjem, zavzemala se je za vrnitev k etičnim vrednotam kmetstva in svarila pred komunizmom.Veliko spremembo v uredniški politiki je pomenil prevzem uredništva v letih 1925/1926, saj je prešlo pod vpliv članov Literarno-dramatičnega krožka Ivan Cankar. Krožek je ustanovil Srečko Kosovel, ki je s svojimi idejami bistveno vplival na nadaljnji razvoj revije. V duhu časa so se tako v reviji zavzemali za vsebinsko radikalne in deloma utopične socialistične ideje, posebej veliko pozornosti pa so namenjali vprašanjem kapitalizma, slovenstva in kulturne politike. Literarni prispevki so bili pod plazom zgoraj omenjenih tem nekoliko postavljeni v ozadje, kljub temu pa je revija tudi v tem smislu pomembna zaradi svoje vloge v širjenju ekspresionizma na Slovenskem. Revija je izhajala do leta 1929, v zadnjih letih pod imenom Svobodna mladina, velja pa za prvo (filomarksistično)predhodnico kasnejšega glasila slovenske mladinske organizacije Mladina. Povzeto po: Lado Kralj, Mladina, ES 7, MK: 1993, str. 169.</dcterms:description>
+                  </dublincore>
+               </collection>
+                  
+                  <collection id="820" publications="true">
+                     <title lang="slv">Koledar Mohorjeve družbe</title>  
+                     <title lang="eng">The Hermagoras society calendar</title>
+                     <menu> 
+                        <collection:description xml:lang="slv">Historiat Koledarja Mohorjeve družbe s kataloškimi povezavami.</collection:description>
+                        <collection:wholeContent>true</collection:wholeContent>
+                        <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                        <collection:searchResultsShow>One per line</collection:searchResultsShow>  
+                     </menu>
+                     <dublincore>
+                        <dcterms:title xml:lang="slv">Koledar Mohorjeve družbe</dcterms:title>
+                        <dcterms:title xml:lang="eng">The Hermagoras society calendar</dcterms:title> 
+                        <dcterms:description xml:lang="slv">Historiat Koledarja Mohorjeve družbe s kataloškimi povezavami.</dcterms:description>
+                     </dublincore>
+                  </collection>
+                  
+                  <collection id="828" publications="true">
+                     <title lang="slv">Poročevalec</title>  
+                     <title lang="eng">Poročevalec</title>
+                     <menu> 
+                        <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                        <collection:searchResultsShow>One per line</collection:searchResultsShow>  
+                     </menu>
+                     <dublincore>
+                        <dcterms:title xml:lang="slv">Poročevalec</dcterms:title>
+                        <dcterms:title xml:lang="eng">Poročevalec</dcterms:title>    
+                     </dublincore> 
+                  </collection>
+               </collection>
+               
+               <collection id="64">
+                  <title lang="slv">Priročniki</title>
+                  <title lang="eng">Handbooks</title>
+                  <menu>
+                     <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                     <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                  </menu>
+                  <dublincore>
+                     <dcterms:title xml:lang="slv">Priročniki</dcterms:title>
+                     <dcterms:title xml:lang="eng">Handbooks</dcterms:title>
+                  </dublincore>
+                  
+                  <collection id="100">
+                     <title lang="slv">Priročniki za šolstvo</title>
+                     <title lang="eng">Handbooks on education</title>
+                     <menu>
+                        <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                        <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                        <collection:description xml:lang="slv">Priročniki  s področja šolstva obsegajo različne tiskane objave seznamov in   podatkov šolskih oblasti, šol in učiteljstva v posameznih deželah ali pa   v vseh slovenskih deželah v Habsburški monarhije oz. v jugoslovanskem   delu Slovenije. Podatke o šolstvu so obsegali tudi splošni priročniki,   kot samostojne publikacije  pa so od 60. let 19. stol.   izhajali pod različnimi naslovi (Personalstand, Imenik, Popotnikov   koledar, Schematismus, Ročni zapisnik, Stalež šolstva in učiteljstva).   Obširni pregled tovrstnega gradiva prinaša delo »Jože Žontar (red.) et al., Priročniki in karte o organizacijski strukturi v deželah  Koroški, Kranjski, Primorju in Štajerski do 1918. Zgodovinsko bibliografski vodnik, 1988«).   Kot uporabni tiskani viri za šolsko in krajevno zgodovino in biografske   študije 19. in 20. stoletja so v digitalni obliki dostopni primeri   nekaterih priročnikov - od personalnega stanja učiteljstva, imenikov šol   in učiteljstva ter vse do statističnih pregledov šolstva in prosvete   (1939/40). Pri uporabi gradiva  je pomembno upoštevati navedbo v publikaciji na kateri datum (npr. začetek določenega šolskega leta) se nanašajo podatki.</collection:description>
+                        <collection:description xml:lang="eng">The handbooks in the area of education comprise various printed publications of the registers and data of school authorities, schools and teachers in selected provinces, in all Slovene provinces of the Habsburg Monarchy and in the Yugoslav part of Slovenia. The data on education were also included in general handbooks, and were published as separate publications under various titles since the 1860s (Personalstand, Imenik, Popotnikov koledar, Schematismus, Ročni zapisnik, Stalež šolstva in učiteljstva).  A comprehensive overview of this type of documentation can be found in »Jože Žontar (red.) et al., Priročniki in karte o organizacijski strukturi v deželah  Koroški, Kranjski, Primorju in Štajerski do 1918. Zgodovinsko bibliografski vodnik, 1988«). Various other handbooks, from personal situations of teachers to schools’ and teachers’ directories, statistical surveys on schools and education (1939/40) serve as another useful printed source of school and local history and biography studies of the 19th and 20th century, also available in the digital form. When using these materials, it is important to take note of the dates to which the data in the publication refer (e.g. the beginning of a certain school year).</collection:description>
+                    <collection:wholeContent>true</collection:wholeContent>
+                     </menu>
+                     <dublincore>
+                        <dcterms:title xml:lang="slv">Priročniki za šolstvo</dcterms:title>
+                        <dcterms:title xml:lang="eng">Handbooks on education</dcterms:title>
+                        <dcterms:description xml:lang="slv">Priročniki  s področja šolstva obsegajo različne tiskane objave seznamov in   podatkov šolskih oblasti, šol in učiteljstva v posameznih deželah ali pa   v vseh slovenskih deželah v Habsburški monarhije oz. v jugoslovanskem   delu Slovenije. Podatke o šolstvu so obsegali tudi splošni priročniki,   kot samostojne publikacije  pa so od 60. let 19. stol.   izhajali pod različnimi naslovi (Personalstand, Imenik, Popotnikov   koledar, Schematismus, Ročni zapisnik, Stalež šolstva in učiteljstva).   Obširni pregled tovrstnega gradiva prinaša delo »Jože Žontar (red.) et al., Priročniki in karte o organizacijski strukturi v deželah  Koroški, Kranjski, Primorju in Štajerski do 1918. Zgodovinsko bibliografski vodnik, 1988«).   Kot uporabni tiskani viri za šolsko in krajevno zgodovino in biografske   študije 19. in 20. stoletja so v digitalni obliki dostopni primeri   nekaterih priročnikov - od personalnega stanja učiteljstva, imenikov šol   in učiteljstva ter vse do statističnih pregledov šolstva in prosvete   (1939/40). Pri uporabi gradiva  je pomembno upoštevati navedbo v publikaciji na kateri datum (npr. začetek določenega šolskega leta) se nanašajo podatki.</dcterms:description>
+                        <dcterms:description xml:lang="slv">The handbooks in the area of education comprise various printed publications of the registers and data of school authorities, schools and teachers in selected provinces, in all Slovene provinces of the Habsburg Monarchy and in the Yugoslav part of Slovenia. The data on education were also included in general handbooks, and were published as separate publications under various titles since the 1860s (Personalstand, Imenik, Popotnikov koledar, Schematismus, Ročni zapisnik, Stalež šolstva in učiteljstva).  A comprehensive overview of this type of documentation can be found in »Jože Žontar (red.) et al., Priročniki in karte o organizacijski strukturi v deželah  Koroški, Kranjski, Primorju in Štajerski do 1918. Zgodovinsko bibliografski vodnik, 1988«). Various other handbooks, from personal situations of teachers to schools’ and teachers’ directories, statistical surveys on schools and education (1939/40) serve as another useful printed source of school and local history and biography studies of the 19th and 20th century, also available in the digital form. When using these materials, it is important to take note of the dates to which the data in the publication refer (e.g. the beginning of a certain school year).</dcterms:description>
+                     </dublincore>
+                  </collection>
+                  
+                  <collection id="99">
+                     <title lang="slv">Splošni priročniki</title>
+                     <title lang="eng">General handbooks</title>
+                     <menu>
+                        <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                        <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                     </menu>
+                     <dublincore>
+                        <dcterms:title xml:lang="slv">Splošni priročniki</dcterms:title>
+                        <dcterms:title xml:lang="eng">General Handbooks</dcterms:title>
+                     </dublincore>
+                  </collection>
+               </collection>
+               
+               <collection id="397">
+                  <title lang="slv">Sejni zapisi izvršnih in zakonodajnih teles</title>
+                  <title lang="eng">Verbatim minutes of the executive and legislative bodies</title>
+                  <menu>
+                     <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                     <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                  </menu>
+                  <dublincore>
+                     <dcterms:title xml:lang="slv">Sejni zapisi izvršnih in zakonodajnih teles</dcterms:title>
+                     <dcterms:title xml:lang="eng">Verbatim minutes of the executive and legislative bodies</dcterms:title>
+                  </dublincore>
+                  
+                  <collection id="719">
+                     <title lang="slv">Kranjski deželni zbor 1861-1918</title>
+                     <title lang="eng">Provincial Assembly of Carniola 1861-1918</title>
+                     <menu>
+                        <collection:description xml:lang="slv"> Obravnave deželnega zbora kranjskega (Bericht über die Verhandlungen des krainischen Landtages) v Ljubljani vsebujejo objave stenografskih zapisnikov zasedanj deželnega zbora, nosilca deželne avtonomije na Kranjskem. V pristojnost deželnega zbora so spadale nekatere šolske, občinske, cerkvene in vojaške zadeve, poleg tega pa tudi zadeve deželnega pomena (kultura, javne gradnje, razne gospodarske zadeve in dobrodelni zavodi). Deželnemu zboru (in deželnemu odboru kot izvršnemu organu deželne avtonomije) je predsedoval deželni glavar (Landeshauptmann). Med leti 1861 in 1908 je kranjski deželni zbor sestavljalo 37 poslancev. 10 so jih volili veleposestniki, 8 mesta in trgi, 16 ostale občine, 2 pa trgovsko-obrtna zbornica. Poleg 36 voljenih poslancev je bil kot virilist član deželnega zbora tudi ljubljanski škof. Po reformi leta 1908 je kranjski deželni zbor sestavljalo 50 poslancev.  Objavljeno gradivo, ki odstira politično, kulturno in gospodarsko življenje v avstrijski ustavni dobi na Kranjskem, je kot tako posebej dragoceno za nadaljnje znanstveno proučevanje.</collection:description>
+                        <collection:description xml:lang="eng">The discussions in the Carniolan Provincial Assembly (Bericht über die Verhandlungen des krainischen Landtages) in Ljubljana include the publications of the stenographic minutes of the sessions of the Provincial Assembly, representative of the Carniolan provincial autonomy. The Provincial Assembly was responsible for certain educational, municipal, ecclesiastical and military matters as well as the issues of provincial importance (culture, public construction works, various economic matters and charity institutes). The Provincial Assembly (and Provincial Committee as the executive body of the provincial autonomy) was presided over by the Provincial Governor (Landeshauptmann). Between 1861 and 1908 the Carniolan Provincial Assembly consisted of 37 members. 10 of these were elected by large estate owners, 8 by cities and towns, 16 by the other municipalities, and 2 by the Chamber of Commerce and Craft Trade. Apart from the 36 elected representatives the Ljubljana Bishop was a permanent non‑elected member of the Provincial Assembly. After the 1908 reform the Carniolan Provincial Assembly consisted of 50 members.  The published materials, describing the political, cultural and economic life in the Austrian constitutional period in Carniola, are thus an especially valuable resource for further scientific exploration.</collection:description>
+                        <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                        <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                     </menu>
+                     <dublincore>
+                        <dcterms:title xml:lang="slv">Kranjski deželni zbor 1861-1918</dcterms:title>
+                        <dcterms:title xml:lang="eng">Provincial Assembly of Carniola 1861-1918</dcterms:title>
+                        <dcterms:description xml:lang="slv"> Obravnave deželnega zbora kranjskega (Bericht über die Verhandlungen des krainischen Landtages) v Ljubljani vsebujejo objave stenografskih zapisnikov zasedanj deželnega zbora, nosilca deželne avtonomije na Kranjskem. V pristojnost deželnega zbora so spadale nekatere šolske, občinske, cerkvene in vojaške zadeve, poleg tega pa tudi zadeve deželnega pomena (kultura, javne gradnje, razne gospodarske zadeve in dobrodelni zavodi). Deželnemu zboru (in deželnemu odboru kot izvršnemu organu deželne avtonomije) je predsedoval deželni glavar (Landeshauptmann). Med leti 1861 in 1908 je kranjski deželni zbor sestavljalo 37 poslancev. 10 so jih volili veleposestniki, 8 mesta in trgi, 16 ostale občine, 2 pa trgovsko-obrtna zbornica. Poleg 36 voljenih poslancev je bil kot virilist član deželnega zbora tudi ljubljanski škof. Po reformi leta 1908 je kranjski deželni zbor sestavljalo 50 poslancev.  Objavljeno gradivo, ki odstira politično, kulturno in gospodarsko življenje v avstrijski ustavni dobi na Kranjskem, je kot tako posebej dragoceno za nadaljnje znanstveno proučevanje.</dcterms:description>
+                        <dcterms:description xml:lang="eng">The discussions in the Carniolan Provincial Assembly (Bericht über die Verhandlungen des krainischen Landtages) in Ljubljana include the publications of the stenographic minutes of the sessions of the Provincial Assembly, representative of the Carniolan provincial autonomy. The Provincial Assembly was responsible for certain educational, municipal, ecclesiastical and military matters as well as the issues of provincial importance (culture, public construction works, various economic matters and charity institutes). The Provincial Assembly (and Provincial Committee as the executive body of the provincial autonomy) was presided over by the Provincial Governor (Landeshauptmann). Between 1861 and 1908 the Carniolan Provincial Assembly consisted of 37 members. 10 of these were elected by large estate owners, 8 by cities and towns, 16 by the other municipalities, and 2 by the Chamber of Commerce and Craft Trade. Apart from the 36 elected representatives the Ljubljana Bishop was a permanent non‑elected member of the Provincial Assembly. After the 1908 reform the Carniolan Provincial Assembly consisted of 50 members.  The published materials, describing the political, cultural and economic life in the Austrian constitutional period in Carniola, are thus an especially valuable resource for further scientific exploration.</dcterms:description>
+                     </dublincore>
+                     
+                     <collection id="720" publications="true">
+                        <title lang="slv">1. perioda (1861-1867)</title>
+                        <title lang="eng">1. Period (1861-1867)</title>
+                        <menu>
+                           <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                           <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                        </menu>
+                        <dublincore>
+                           <dcterms:title xml:lang="slv">1. perioda (1861-1867)</dcterms:title>
+                           <dcterms:title xml:lang="eng">1. Period (1861-1867)</dcterms:title>
+                        </dublincore>
+                     </collection>  
+                     
+                     <collection id="721" publications="true">
+                        <title lang="slv">2. perioda (1867-1869)</title>
+                        <title lang="eng">2. Period (1867-1869)</title>
+                        <menu>
+                           <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                           <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                        </menu>
+                        <dublincore>
+                           <dcterms:title xml:lang="slv">2. perioda (1867-1869)</dcterms:title>
+                           <dcterms:title xml:lang="eng">2. Period (1867-1869)</dcterms:title>
+                        </dublincore>
+                     </collection> 
+                     
+                     <collection id="830" publications="true">
+                        <title lang="slv">3. perioda (1870-1871)</title>
+                        <title lang="eng">3. Period (1870-1871)</title>
+                        <menu>
+                           <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                           <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                        </menu>
+                        <dublincore>
+                           <dcterms:title xml:lang="slv">3. perioda(1870-1871)</dcterms:title>
+                           <dcterms:title xml:lang="eng">3. Period (1870-1871)</dcterms:title>
+                        </dublincore>
+                     </collection>
+                     
+                     <collection id="831" publications="true">
+                        <title lang="slv">4. perioda (1871-1877)</title>
+                        <title lang="eng">4. perioda (1871-1877)</title>
+                        <menu>
+                           <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                           <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                        </menu>
+                        <dublincore>
+                           <dcterms:title xml:lang="slv">4. perioda (1871-1872)</dcterms:title>
+                           <dcterms:title xml:lang="eng">4. perioda (1871-1872)</dcterms:title>
+                        </dublincore>
+                     </collection>
+                  </collection>
+                  
+                  <collection id="406" publications="true">
+                     <title lang="slv">Narodna vlada in Deželna vlada za Slovenijo (1918-1921)</title>
+                     <title lang="eng">National Government session minutes</title>
+                     <menu>
+                        <collection:description xml:lang="slv">Ljubljana : Arhiv Republike Slovenije, 1998-2002, 3 knjige. Komentirana objava s spremno študijo Petra Ribnikarja Sejnih zapisnikov Narodne vlade Slovencev, Hrvatov in Srbov v Ljubljani ter Deželne vlade za Slovenijo, ki sta delovali od 31. oktobra 1918 do 28. februarja 1919 oziroma 28. februarja 1919 do 9. julija 1921. Iz objavljenih zapisnikov (originale hrani Arhiv Republike Slovenije) se vidi ravnanje tedanje slovenske upravne oblasti na upravno-političnem, gospodarskem, kulturnem in vojaškem področju v omenjenem času. Zapisniki razkrivajo samostojno odločanje Narodne vlade SHS v Ljubljani na vseh področjih narodnega življenja v času obstoja Države Slovencev, Hrvatov in Srbov (29. oktober – 1. december 1918) ter, sicer že precej okrnjeno, avtonomno delovanje Deželne vlade za Slovenijo v Kraljevini Srbov, Hrvatov in Slovencev.</collection:description>
+                        <collection:description xml:lang="eng">Archive sources with the accompanying study by Peter Ribnikar of the minutes of the sessions of the National Government of Slovenes, Croats and Serbs in Ljubljana and the Provincial Government for Slovenia, which operated from 31 October 1918 to 28 February 1919 and from 28 February 1919 to 9 July 1921, respectively. The published minutes (originals are stored in the Archives of the Republic of Slovenia) reveal the activities of Slovenian administrative authorities in administrative-political, economic, cultural and military areas. They show that the National Government of SHS in Ljubljana took independent decisions in all spheres of life during the existence of the State of Slovenes, Croats and Serbs (29 October – 1 December 1918) and that the Provincial Government for Slovenia still had an autonomous, although rather weakened position within the Kingdom of Serbs, Croats and Slovenes.</collection:description>
+                       <collection:wholeContent>true</collection:wholeContent>
+                        <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                        <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                     </menu>
+                     <dublincore>
+                        <dcterms:title xml:lang="slv">Narodna vlada in Deželna vlada za Slovenijo (1918-1921)</dcterms:title>
+                        <dcterms:title xml:lang="eng">National Government session minutes</dcterms:title>
+                        <dcterms:description xml:lang="slv">Ljubljana : Arhiv Republike Slovenije, 1998-2002, 3 knjige. Komentirana objava s spremno študijo Petra Ribnikarja Sejnih zapisnikov Narodne vlade Slovencev, Hrvatov in Srbov v Ljubljani ter Deželne vlade za Slovenijo, ki sta delovali od 31. oktobra 1918 do 28. februarja 1919 oziroma  28. februarja 1919 do 9. julija 1921. Iz objavljenih zapisnikov (originale hrani Arhiv Republike Slovenije) se vidi ravnanje tedanje slovenske upravne oblasti na upravno-političnem, gospodarskem, kulturnem in vojaškem področju v omenjenem času. Zapisniki razkrivajo samostojno odločanje Narodne vlade SHS v Ljubljani na vseh področjih narodnega življenja v času obstoja Države Slovencev, Hrvatov in Srbov (29. oktober – 1. december 1918) ter, sicer že precej okrnjeno, avtonomno delovanje Deželne vlade za Slovenijo v Kraljevini Srbov, Hrvatov in Slovencev.</dcterms:description>
+                        <dcterms:description xml:lang="eng">Archive sources with the accompanying study by Peter Ribnikar of the minutes of the sessions of the National Government of Slovenes, Croats and Serbs in Ljubljana and the Provincial Government for Slovenia, which operated from 31 October 1918 to 28 February 1919 and from 28 February 1919 to 9 July 1921, respectively. The published minutes (originals are stored in the Archives of the Republic of Slovenia) reveal the activities of Slovenian administrative authorities in administrative-political, economic, cultural and military areas. They show that the National Government of SHS in Ljubljana took independent decisions in all spheres of life during the existence of the State of Slovenes, Croats and Serbs (29 October – 1 December 1918) and that the Provincial Government for Slovenia still had an autonomous, although rather weakened position within the Kingdom of Serbs, Croats and Slovenes.</dcterms:description>
+                     </dublincore>
+                  </collection>
+                  
+                  <collection id="407">
+                     <title lang="slv">Ljudska skupščina Ljudske republike Slovenije (1947-1963)</title>
+                     <title lang="eng">Shorthand minutes of the People's Assembly of the People's Republic of Slovenia (1947-1963)</title>
+                     <menu>
+                        <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                        <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                     </menu>
+                     <dublincore>
+                        <dcterms:title xml:lang="slv">Ljudska skupščina Ljudske republike Slovenije (1947-1963)</dcterms:title>
+                        <dcterms:title xml:lang="eng">Shorthand minutes of the People's Assembly of the People's Republic of Slovenia (1947-1963)</dcterms:title>
+                     </dublincore>
+                     
+                     
+                     <collection id="411" publications="true">
+                        <title lang="slv">1. sklic (1947-1950)</title>
+                        <title lang="eng">1st term (1947-1950)</title>
+                        <menu>
+                           <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                           <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                        </menu>
+                        <dublincore>
+                           <dcterms:title xml:lang="slv">1. sklic (1947-1950)</dcterms:title>
+                           <dcterms:title xml:lang="eng">1st term (1947-1950)</dcterms:title>
+                        </dublincore> 
+                     </collection>
+                     
+                     <collection id="412" publications="true">
+                        <title lang="slv">2. sklic (1951-1953)</title>
+                        <title lang="eng">2nd term (1951-1953)</title>
+                        <menu>
+                           <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                           <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                        </menu>
+                        <dublincore>
+                           <dcterms:title xml:lang="slv">2. sklic (1951-1953)</dcterms:title>
+                           <dcterms:title xml:lang="eng">2nd term (1951-1953)</dcterms:title>
+                        </dublincore> 
+                     </collection>
+                     
+                     <collection id="413" publications="true">
+                        <title lang="slv">3. sklic (1953-1957)</title>
+                        <title lang="eng">3rd term (1953-1957)</title>
+                        <menu>
+                           <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                           <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                        </menu>
+                        <dublincore>
+                           <dcterms:title xml:lang="slv">3. sklic (1953-1957)</dcterms:title>
+                           <dcterms:title xml:lang="eng">3rd term (1953-1957)</dcterms:title>
+                        </dublincore> 
+                     </collection>
+                     
+                     <collection id="414" publications="true">
+                        <title lang="slv">4. sklic (1958-1963)</title>
+                        <title lang="eng">4th term (1958-1963)</title>
+                        <menu>
+                           <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                           <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                        </menu>
+                        <dublincore>
+                           <dcterms:title xml:lang="slv">4. sklic (1958-1963)</dcterms:title>
+                           <dcterms:title xml:lang="eng">4th term (1958-1963)</dcterms:title>
+                        </dublincore> 
+                     </collection>
+                  </collection>
+                  
+                  <collection id="408" >
+                     <title lang="slv">Skupščina Socialistične republike Slovenije (1963-1990)</title>
+                     <title lang="eng">Assembly of the Socialist Republic of Slovenia (1963-1990)</title>
+                     <menu>
+                        <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                        <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                     </menu>
+                     <dublincore>
+                        <dcterms:title xml:lang="slv">Skupščina Socialistične republike Slovenije (1963-1990)</dcterms:title>
+                        <dcterms:title xml:lang="eng">Assembly of the Socialist Republic of Slovenia (1963-1990)</dcterms:title>
+                     </dublincore> 
+                     
+                     <collection id="671" publications="true">
+                        <title lang="slv">5. sklic (1963-1969)</title>
+                        <title lang="eng">5th term (1963-1969)</title>
+                        <menu>
+                           <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                           <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                        </menu>
+                        <dublincore>
+                           <dcterms:title xml:lang="slv">5. sklic (1963-1969)</dcterms:title>
+                           <dcterms:title xml:lang="eng">5th term (1963-1969)</dcterms:title>
+                        </dublincore>
+                     </collection>
+                     
+                     <collection id="672" publications="true">
+                        <title lang="slv">6. sklic (1969-1974)</title>
+                        <title lang="eng">6th term (1969-1974)</title>
+                        <menu>
+                           <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                           <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                        </menu>
+                        <dublincore>
+                           <dcterms:title xml:lang="slv">6. sklic (1969-1974)</dcterms:title>
+                           <dcterms:title xml:lang="eng">6th term (1969-1974)</dcterms:title>
+                        </dublincore>
+                     </collection>
+                     
+                     <collection id="673" publications="true">
+                        <title lang="slv">7. sklic (1974-1978)</title>
+                        <title lang="eng">7th term (1974-1978)</title>
+                        <menu>
+                           <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                           <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                        </menu>
+                        <dublincore>
+                           <dcterms:title xml:lang="slv">7. sklic (1974-1978)</dcterms:title>
+                           <dcterms:title xml:lang="eng">7th term (1974-1978)</dcterms:title>
+                        </dublincore>
+                     </collection>
+                     
+                     <collection id="674" publications="true">
+                        <title lang="slv">8. sklic (1978-1982)</title>
+                        <title lang="eng">8th term (1978-1982)</title>
+                        <menu>
+                           <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                           <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                        </menu>
+                        <dublincore>
+                           <dcterms:title xml:lang="slv">8. sklic (1978-1982)</dcterms:title>
+                           <dcterms:title xml:lang="eng">8th term (1978-1982)</dcterms:title>
+                        </dublincore>
+                     </collection>
+                     
+                     <collection id="409" publications="true">
+                        <title lang="slv">9. sklic (1982-1986)</title>
+                        <title lang="eng">9th term (1982-1986)</title>
+                        <menu>
+                           <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                           <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                        </menu>
+                        <dublincore>
+                           <dcterms:title xml:lang="slv">9. sklic (1982-1986)</dcterms:title>
+                           <dcterms:title xml:lang="eng">9th term (1982-1986)</dcterms:title>
+                        </dublincore>
+                     </collection>
+                     
+                     <collection id="410" publications="true">
+                        <title lang="slv">10. sklic (1986-1990)</title>
+                        <title lang="eng">10th term (1986-1990)</title>
+                        <menu>
+                           <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                           <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                        </menu>
+                        <dublincore>
+                           <dcterms:title xml:lang="slv">10. sklic (1986-1990)</dcterms:title>
+                           <dcterms:title xml:lang="eng">10th term (1986-1990)</dcterms:title>
+                        </dublincore>
+                     </collection>
+                     
+                     <collection id="587" publications="true">
+                        <title lang="slv">Kronološki pregled (1963-1990)</title>
+                        <title lang="eng">Chronological Review (1963-1990)</title>
+                        <menu>
+                           <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                           <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                        </menu>
+                        <dublincore>
+                           <dcterms:title xml:lang="slv">Kronološki pregled (1963-1990)</dcterms:title>
+                           <dcterms:title xml:lang="eng">Chronological Review (1963-1990)</dcterms:title>
+                        </dublincore>
+                     </collection>
+                  </collection>
+               
+                  <collection id="823" publications="true">
+                     <title lang="slv">Narodna skupčina Kraljevine Jugoslavije (1919-1945)</title>
+                     <menu>
+                        <collection:searchResultsShow>Multiple per line</collection:searchResultsShow>
+                        <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                     </menu>
+                     <dublincore>
+                        <dcterms:title xml:lang="slv">Narodna skupčina Kraljevine Jugoslavije (1919-1945)</dcterms:title>
+                     </dublincore>
+                  </collection>
+                  
+                  <collection id="825" publications="true">
+                     <title lang="slv">AVNOJ in Začasna ljudska skupščina DFJ (1942-1945)</title>
+                     <menu>
+                        <collection:searchResultsShow>Multiple per line</collection:searchResultsShow>
+                        <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                     </menu>
+                     <dublincore>
+                        <dcterms:title xml:lang="slv">AVNOJ in Začasna ljudska skupščina DFJ (1942-1945)</dcterms:title>
+                     </dublincore>
+                  </collection>
+               
+                  <collection id="822">
+                     <title lang="slv">Zvezna skupščina SFRJ (1945-1992)</title>
+                     <menu>
+                        <collection:searchResultsShow>Multiple per line</collection:searchResultsShow>
+                        <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                     </menu>
+                     <dublincore>
+                        <dcterms:title xml:lang="slv">Zvezna skupščina SFRJ (1945-1992)</dcterms:title>
+                     </dublincore>
+                     
+                     <collection id="824" publications="true">
+                        <title lang="slv">Ustavodajna skupščina (1945-1946)</title>
+                        <menu>
+                           <collection:searchResultsShow>Multiple per line</collection:searchResultsShow>
+                           <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                        </menu>
+                        <dublincore>
+                           <dcterms:title xml:lang="slv">Ustavodajna skupščina (1945-1946)</dcterms:title>
+                        </dublincore>
+                     </collection>
+                     
+                     <collection id="826" publications="true">
+                        <title lang="slv">Ljudska skupščina FLRJ - 1. sklic (1946-1950)</title>
+                        <menu>
+                           <collection:description xml:lang="slv">V prvem sklicu Ljudske skupščine Federativne ljudske republike Jugoslavije so si seje sledile po naslednjem vrstnem redu: Prvo izredno zasedanje (31. 1. do 4. 2. 1946) Drugo izredno zasedanje (20. 3. do 1. 4. 1946) Prvo redno zasedanje (15. 5. do 20. 7. 1946) Drugo redno zasedanje (2. 12. do 21. 12. 1947) Tretje redno zasedanje (26. 3. do 28. 4. 1947) Četrto redno zasedanje (24. 11. do 29. 11. 1947) Peto redno zasedanje (22. 4. do 28. 4. 1948) Šesto redno zasedanje (27. 9. do 30. 9. 1948) Tretje izredno zasedanje (27. 11. do 28. 11. 1948) Četrto izredno zasedanje (26. 12. do 30. 12. 1948) Sedmo redno zasedanje (25. 5. do 28. 5. 1949) Osmo redno zasedanje (26. 12. do 28. 12. 1949) Peto izredno zasedanje (20. 1. do 21. 1. 1950) Med objavljenimi stenografskimi zapisniki manjkajo še: Bilten zakonodavnog odbora Veća naroda Narodne skupštine FNRJ (17. 4. do 25. 4. 1946), Bilten zakonodavnog odbora saveznog veća Narodne skupštine FNRJ (17. 4. do 25. 4. 1946) ter Bilten zakonodavnih odbora Saveznog veća i veća naroda Narodne skupštine FNRJ (24. 10. do 29. 10. 1947). Publikacije bomo dodali v prihodnosti. Pregled je sestavljen po: Slobodan Nešović. Stvarni registar stenografskih beležaka vrhovnih pretstavničkih tela Jugoslavije od 26. XI 1942 do 21. XII 1957, Narodna skupština: Beograd, 1961.</collection:description>
+                           <collection:searchResultsShow>Multiple per line</collection:searchResultsShow>
+                           <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                           <collection:wholeContent>true</collection:wholeContent>
+                        </menu>
+                        <dublincore>
+                           <dcterms:title xml:lang="slv">Ljudska skupščina FLRJ - 1. sklic (1946-1950)</dcterms:title>
+                           <dcterms:description xml:lang="slv">V prvem sklicu Ljudske skupščine Federativne ljudske republike Jugoslavije so si seje sledile po naslednjem vrstnem redu: Prvo izredno zasedanje (31. 1. do 4. 2. 1946) Drugo izredno zasedanje (20. 3. do 1. 4. 1946) Prvo redno zasedanje (15. 5. do 20. 7. 1946) Drugo redno zasedanje (2. 12. do 21. 12. 1947) Tretje redno zasedanje (26. 3. do 28. 4. 1947) Četrto redno zasedanje (24. 11. do 29. 11. 1947) Peto redno zasedanje (22. 4. do 28. 4. 1948) Šesto redno zasedanje (27. 9. do 30. 9. 1948) Tretje izredno zasedanje (27. 11. do 28. 11. 1948) Četrto izredno zasedanje (26. 12. do 30. 12. 1948) Sedmo redno zasedanje (25. 5. do 28. 5. 1949) Osmo redno zasedanje (26. 12. do 28. 12. 1949) Peto izredno zasedanje (20. 1. do 21. 1. 1950) Med objavljenimi stenografskimi zapisniki manjkajo še: Bilten zakonodavnog odbora Veća naroda Narodne skupštine FNRJ (17. 4. do 25. 4. 1946), Bilten zakonodavnog odbora saveznog veća Narodne skupštine FNRJ (17. 4. do 25. 4. 1946) ter Bilten zakonodavnih odbora Saveznog veća i veća naroda Narodne skupštine FNRJ (24. 10. do 29. 10. 1947). Publikacije bomo dodali v prihodnosti. Pregled je sestavljen po: Slobodan Nešović. Stvarni registar stenografskih beležaka vrhovnih pretstavničkih tela Jugoslavije od 26. XI 1942 do 21. XII 1957, Narodna skupština: Beograd, 1961.</dcterms:description>
+                        </dublincore>
+                     </collection>
+                     
+                     <collection id="827" publications="true">
+                        <title lang="slv">Ljudska skupščina FLRJ - 1. sklic (1946-1950)</title>
+                        <menu>
+                           <collection:description xml:lang="slv">V drugem sklicu Ljudske skupščine Federativne ljudske republike Jugoslavije so si seje sledile po naslednjem vrstnem redu: Prvo redno zasedanje (24.4. do 27. 4. 1950), Prvo izredno zasedanje (26. 6. do 27. 6. 1950), Drugo redno zasedanje (27. 12. do 29. 12. 1950), Tretje redno zasedanje (25. 2. do 27. 2. 1951), Četrto redno zasedanje (28. 9. do 29. 9. 1951), Drugo izredno zasedanje (27. 12. do 29. 12. 1951), Peto redno zasedanje (28. 3. do 1. 4. 1952), Bilten zakonodajnih odborov Skupščine narodov in Zvezne skupščine (28. 12. 1952 – 8. 1. 1953), Šesto redno zasedanje (25.12. do 27. 12. 1952, 10. 1. do 14. 1. 1953, 25. 2. 1953 in 23. 3 1953), I. knjiga, Šesto redno zasedanje (20. 5. do 22. 5. 1953 in 7. 9. do 10. 9. 1953), druga knjiga. Med objavljenimi stenografskimi zapisniki manjka še: Bilten zakonodavnih odbora Veća naroda i Saveznog veća (14. 5. do 18. 5. 1949), izvod iz stenografskih beležaka o pretresu Predloga zakona o izmenama i dopunama Opšteg zakona o narodnim odborima. Publikacije bomo dodali v prihodnosti. Pregled je sestavljen po: Slobodan Nešović. Stvarni registar stenografskih beležaka vrhovnih pretstavničkih tela Jugoslavije od 26. XI 1942 do 21. XII 1957, Narodna skupština: Beograd, 1961.</collection:description>
+                           <collection:searchResultsShow>Multiple per line</collection:searchResultsShow>
+                           <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                           <collection:wholeContent>true</collection:wholeContent>
+                        </menu>
+                        <dublincore>
+                           <dcterms:title xml:lang="slv">Ljudska skupščina FLRJ - 1. sklic (1946-1950)</dcterms:title>
+                           <dcterms:description xml:lang="slv">V drugem sklicu Ljudske skupščine Federativne ljudske republike Jugoslavije so si seje sledile po naslednjem vrstnem redu: Prvo redno zasedanje (24.4. do 27. 4. 1950), Prvo izredno zasedanje (26. 6. do 27. 6. 1950), Drugo redno zasedanje (27. 12. do 29. 12. 1950), Tretje redno zasedanje (25. 2. do 27. 2. 1951), Četrto redno zasedanje (28. 9. do 29. 9. 1951), Drugo izredno zasedanje (27. 12. do 29. 12. 1951), Peto redno zasedanje (28. 3. do 1. 4. 1952), Bilten zakonodajnih odborov Skupščine narodov in Zvezne skupščine (28. 12. 1952 – 8. 1. 1953), Šesto redno zasedanje (25.12. do 27. 12. 1952, 10. 1. do 14. 1. 1953, 25. 2. 1953 in 23. 3 1953), I. knjiga, Šesto redno zasedanje (20. 5. do 22. 5. 1953 in 7. 9. do 10. 9. 1953), druga knjiga. Med objavljenimi stenografskimi zapisniki manjka še: Bilten zakonodavnih odbora Veća naroda i Saveznog veća (14. 5. do 18. 5. 1949), izvod iz stenografskih beležaka o pretresu Predloga zakona o izmenama i dopunama Opšteg zakona o narodnim odborima. Publikacije bomo dodali v prihodnosti. Pregled je sestavljen po: Slobodan Nešović. Stvarni registar stenografskih beležaka vrhovnih pretstavničkih tela Jugoslavije od 26. XI 1942 do 21. XII 1957, Narodna skupština: Beograd, 1961.</dcterms:description> 
+                        </dublincore>
+                     </collection>
+                  </collection>
+               </collection>
+            
+            <collection id="333" publications="true">
+               <title lang="slv">Slovarji</title>
+               <title lang="eng">Dictionaries</title>
+               <menu>  
+                  <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                  <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+               </menu>
+               <dublincore>
+                  <dcterms:title xml:lang="slv">Slovarji</dcterms:title>      
+                  <dcterms:title xml:lang="eng">Dictionaries</dcterms:title>
+               </dublincore>
+            </collection>
+               
+               
+               <collection id="324">
+                  <title lang="slv">Statistične publikacije</title>
+                  <title lang="eng">Statistical publications</title>
+                  <menu>  
+                     <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                     <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                  </menu>
+                  <dublincore>
+                     <dcterms:title xml:lang="slv">Statistične publikacije</dcterms:title>      
+                     <dcterms:title xml:lang="eng">Statistical publications</dcterms:title>
+                  </dublincore>
+                  
+                  <collection id="797" publications="true">
+                     <title lang="slv">Gospodarske analize in poročila</title>
+                     <title lang="eng">Economic analysis and reports</title>
+                     <menu>  
+                        <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                        <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                     </menu>
+                     <dublincore>
+                        <dcterms:title xml:lang="slv">Gospodarske analize in poročila</dcterms:title>      
+                        <dcterms:title xml:lang="eng">Economic analysis and reports</dcterms:title>
+                     </dublincore>  
+                  </collection>
+                  
+                  <collection id="326" publications="true">
+                     <title lang="slv">Popisne publikacije</title>
+                     <title lang="eng">Census publications</title>
+                     <menu>  
+                        <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                        <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                     </menu>
+                     <dublincore>
+                        <dcterms:title xml:lang="slv">Popisne publikacije</dcterms:title>      
+                        <dcterms:title xml:lang="eng">Census publications</dcterms:title>
+                     </dublincore>  
+                  </collection>
+                  
+                  <collection id="327" publications="true">
+                     <title lang="slv">Statistični letopisi</title>
+                     <title lang="eng">Statistical yearbooks</title>
+                     <menu>  
+                        <collection:description xml:lang="slv">Statistički godišnjaki Kraljevine Jugoslavije (Beograd 1929-1940, 10 zvezkov) so uradno statistično gradivo, ki ga je pripravila državna statistična služba (Opšta državna statistika). Odstirajo celovito statistično »podobo« prve Jugoslavije po ustaljenih rubrikah, od zemljepisnih in klimatskih podatkov, podatkov o prebivalstvu, gospodarstvu (po gospodarskih panogah), statističnih podatkov o kulturnem življenju, izobraževanju, zdravstvu, socialnem skrbstvu ter sodstvu, na koncu pa o ustroju države od predstavniških (voljenih) organov do državne uprave in financ. Statistični podatki so dobrodošel vir za prikaz družbenega in gospodarskega stanja prve jugoslovanske države. Vsak nadaljnji zvezek (naslednji letnik) je s podatki dopolnjeval predhodnega v posameznih rubrikah, tako da ne gre za povsem običajne statistične letopise, ki prinašajo letne statistične podatke. Osnova letopisov za obdobje tridesetih let je popis prebivalstva z dne 31. marca 1931, ki je bil zadnji tak popis v času pred drugo svetovno vojno.</collection:description>
+                        <collection:description xml:lang="eng">Statistical Yearbooks of the Kingdom of Yugoslavia (Statistički godišnjaki Kraljevine Jugoslavije, Beograd 1929-1940, 10 volumes) are official statistical documents prepared by the national statistical office (Opšta državna statistika). They provide a comprehensive statistical overview of the first Yugoslavia by usual sections, from geographic and climate data, data on population, economy (by economic activities), cultural life, to data on education, health-care, social-care and judiciary; and lastly, the data on the state structure, from representative (elected) bodies, to state administration and finances. The statistical data are a welcome source presenting the social and economic situation in the first Yugoslav state. As each new volume complemented the previous one in selected sections, these were not the usual yearbooks containing only annual statistical data. The yearbooks for the 30-year period were based on the population census of 31 March 1931, the last census before the World War II.</collection:description>
+                        <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                        <collection:wholeContent>true</collection:wholeContent>
+                        <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                     </menu>
+                     <dublincore>
+                        <dcterms:title xml:lang="slv">Statistični letopisi</dcterms:title>      
+                        <dcterms:title xml:lang="eng">Statistical yearbooks</dcterms:title>
+                        <dcterms:description xml:lang="slv">Statistički godišnjaki Kraljevine Jugoslavije (Beograd 1929-1940, 10 zvezkov) so uradno statistično gradivo, ki ga je pripravila državna statistična služba (Opšta državna statistika). Odstirajo celovito statistično »podobo« prve Jugoslavije po ustaljenih rubrikah, od zemljepisnih in klimatskih podatkov, podatkov o prebivalstvu, gospodarstvu (po gospodarskih panogah), statističnih podatkov o kulturnem življenju, izobraževanju, zdravstvu, socialnem skrbstvu ter sodstvu, na koncu pa o ustroju države od predstavniških (voljenih) organov do državne uprave in financ. Statistični podatki so dobrodošel vir za prikaz družbenega in gospodarskega stanja prve jugoslovanske države. Vsak nadaljnji zvezek (naslednji letnik) je s podatki dopolnjeval predhodnega v posameznih rubrikah, tako da ne gre za povsem običajne statistične letopise, ki prinašajo letne statistične podatke. Osnova letopisov za obdobje tridesetih let je popis prebivalstva z dne 31. marca 1931, ki je bil zadnji tak popis v času pred drugo svetovno vojno.</dcterms:description>
+                        <dcterms:description xml:lang="eng">Statistical Yearbooks of the Kingdom of Yugoslavia (Statistički godišnjaki Kraljevine Jugoslavije, Beograd 1929-1940, 10 volumes) are official statistical documents prepared by the national statistical office (Opšta državna statistika). They provide a comprehensive statistical overview of the first Yugoslavia by usual sections, from geographic and climate data, data on population, economy (by economic activities), cultural life, to data on education, health-care, social-care and judiciary; and lastly, the data on the state structure, from representative (elected) bodies, to state administration and finances. The statistical data are a welcome source presenting the social and economic situation in the first Yugoslav state. As each new volume complemented the previous one in selected sections, these were not the usual yearbooks containing only annual statistical data. The yearbooks for the 30-year period were based on the population census of 31 March 1931, the last census before the World War II.</dcterms:description>
+                     </dublincore>  
+                  </collection>
+               </collection>
+               
+               <collection id="69">
+                  <title lang="slv">Uradni listi</title>
+                  <title lang="eng">Official Gazzetes</title>
+                  <menu>  
+                     <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                     <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                  </menu>
+                  <dublincore>
+                     <dcterms:title xml:lang="slv">Uradni listi</dcterms:title>      
+                     <dcterms:title xml:lang="eng">Official Gazzetes</dcterms:title>
+                  </dublincore>  
+                  
+                  <collection id="187" publications="true">
+                     <title lang="slv">Uradni listi iz obdobja 1918-1941</title>
+                     <title lang="eng">Official Gazettes 1918-1941</title>
+                     <menu>  
+                        <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                        <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                     </menu>
+                     <dublincore>
+                        <dcterms:title xml:lang="slv">Uradni listi iz obdobja 1918-1941</dcterms:title>      
+                        <dcterms:title xml:lang="eng">Official Gazettes 1918-1941</dcterms:title>
+                     </dublincore>  
+                  </collection>
+                  
+                  <collection id="188">
+                     <title lang="slv">Uradni listi iz obdobja 1941-1945</title>
+                     <title lang="eng">Official Gazettes 1941-1945</title>
+                     <menu>  
+                        <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                        <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                     </menu>
+                     <dublincore>
+                        <dcterms:title xml:lang="slv">Uradni listi iz obdobja 1941-1945</dcterms:title>      
+                        <dcterms:title xml:lang="eng">Official Gazettes 1941-1945</dcterms:title>
+                     </dublincore>  
+                     
+                     <collection id="337">
+                        <title lang="slv">Uradni listi okupacijskih oblasti</title>
+                        <title lang="eng">Official gazettes of the occupying forces</title>
+                        <menu>  
+                           <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                           <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                        </menu>
+                        <dublincore>
+                           <dcterms:title xml:lang="slv">Uradni listi okupacijskih oblasti</dcterms:title>      
+                           <dcterms:title xml:lang="eng">Official gazettes of the occupying forces</dcterms:title>
+                        </dublincore>  
+                     </collection>
+                     
+                     <collection id="338">
+                        <title lang="slv">Službene novine Kraljevine Jugoslavije. Vojna izdaja.</title>
+                        <title lang="eng">Official Gazette of the Kingdom of Yugoslavia. War edition.</title>
+                        <menu>  
+                           <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                           <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                        </menu>
+                        <dublincore>
+                           <dcterms:title xml:lang="slv">Službene novine Kraljevine Jugoslavije. Vojna izdaja.</dcterms:title>      
+                           <dcterms:title xml:lang="eng">Official Gazette of the Kingdom of Yugoslavia. War edition.</dcterms:title>
+                        </dublincore>  
+                     </collection>
+                     
+                     <collection id="829">
+                        <title lang="slv">Zakoni, zakonske odredbe i naredbe Nezavisne Države Hrvatske</title>
+                        <menu>  
+                           <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                           <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                        </menu>
+                        <dublincore>
+                           <dcterms:title xml:lang="hrv">Zakoni, zakonske odredbe i naredbe Nezavisne Države Hrvatske</dcterms:title>      
+                        <dcterms:subject xml:lang="eng">Uradni listi</dcterms:subject>
+                           <dcterms:subject xml:lang="slv">druga svetovna vojna</dcterms:subject>
+                           <dcterms:subject xml:lang="eng">World War II</dcterms:subject>
+                           <dcterms:subject xml:lang="eng">official gazzetes</dcterms:subject>
+                           <dcterms:publisher>Knjižara St. Kugli, Zagreb</dcterms:publisher>
+                           <dcterms:contributor>A. Mataić (ur.)</dcterms:contributor>
+                           <dcterms:created>1941 - 1944</dcterms:created>
+                           <dcterms:type>Besedilo</dcterms:type>
+                           <dcterms:type>Text</dcterms:type>
+                        </dublincore>  
+                     </collection>
+                  </collection>
+                 
+                  <collection id="189">
+                     <title lang="slv">Uradni listi od leta 1945</title>
+                     <title lang="eng">Official Gazettes from 1945 on</title>
+                     <menu>  
+                        <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                        <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                     </menu>
+                     <dublincore>
+                        <dcterms:title xml:lang="slv">Uradni listi od leta 1945</dcterms:title>      
+                        <dcterms:title xml:lang="eng">Official Gazettes from 1945 on</dcterms:title>
+                     </dublincore>  
+                  </collection>
+               </collection>
+               
+               <collection id="396">
+                  <title lang="slv">Zemljevidi in atlasi</title>
+                  <title lang="eng">Maps and atlases</title>
+                  <menu>  
+                     <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                     <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                  </menu>
+                  <dublincore>
+                     <dcterms:title xml:lang="slv">Zemljevidi in atlasi</dcterms:title>      
+                     <dcterms:title xml:lang="eng">Maps and atlases</dcterms:title>
+                  </dublincore>  
+               </collection>
+            </collection>
+            
+            <collection id="8">
+               <title lang="slv">Ustni viri</title>
+               <title lang="eng">Oral sources</title>
+               <menu>  
+                  <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                  <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+               </menu>
+               <dublincore>
+                  <dcterms:title xml:lang="slv">Ustni viri</dcterms:title>      
+                  <dcterms:title xml:lang="eng">Oral sources</dcterms:title>
+               </dublincore>  
+            </collection>
          </collection>
       </collection>
       
       <collection id="2">
          <title lang="slv">Literatura</title>
          <title lang="eng">Literature</title>
-         <dublincore>
-            <dcterms:description xml:lang="slv">Prelistajte serijske publikacije, (e)-monografije in rokopise, od diplomskih del do doktoratov ter rokopisov, ki iz različnih razlogov niso bili dostopni javnosti.</dcterms:description>
-            <dcterms:description xml:lang="eng">Browse through serial publications, (e)-monographs and manuscripts, from graduate to doctoral theses, and manuscripts which have so far, for various reasons, not been available to the public.</dcterms:description>
-         </dublincore>
          <menu>
+            <collection:searchResultsShow>One per line</collection:searchResultsShow>
+            <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+            <collection:wholeContent>true</collection:wholeContent>
             <collection:description xml:lang="slv"><p>Prelistajte serijske publikacije, (e)-monografije in rokopise, od diplomskih del do doktoratov ter rokopisov, ki iz različnih razlogov niso bili dostopni javnosti.</p><p>Revija seznanja javnost z novejšimi raziskavami slovenskega (in tudi tujega) zgodovinopisja s področja zgodovine srednje in jugovzhodne Evrope 19. in 20. stoletja (politična, gospodarska, kulturna in socialna zgodovina). V prvih letih izhajanja je bil poudarek sicer na zgodovini delavskega gibanja, nato pa se je vsebina razširila tudi na druge teme. Poleg znanstvenih člankov revija objavlja ocene in poročila o pomembnejših delih iz novejše zgodovine. Med ustaljenimi rubrikami je objavljanje historične dokumentacije, v kateri so s strokovnimi komentarji objavljani izbrani zgodovinski viri.</p></collection:description>
             <collection:description xml:lang="eng"><p>Browse through serial publications, (e)-monographs and manuscripts, from graduate to doctoral theses, and manuscripts which have so far, for various reasons, not been available to the public.</p></collection:description>
          </menu>
-         <collection id="17" publications="true">
+         <dublincore>
+            <dcterms:title xml:lang="slv">Literatura</dcterms:title>
+            <dcterms:title xml:lang="eng">Literature</dcterms:title>
+            <dcterms:description xml:lang="slv">Prelistajte serijske publikacije, (e)-monografije in rokopise, od diplomskih del do doktoratov ter rokopisov, ki iz različnih razlogov niso bili dostopni javnosti.</dcterms:description>
+            <dcterms:description xml:lang="eng">Browse through serial publications, (e)-monographs and manuscripts, from graduate to doctoral theses, and manuscripts which have so far, for various reasons, not been available to the public.</dcterms:description>
+         </dublincore>
+         
+         <collection id="207" publications="true">
+            <title lang="slv">Izdaje virov</title>
+            <title lang="eng">Critical editions</title>
+            <menu>  
+               <collection:searchResultsShow>One per line</collection:searchResultsShow>
+               <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+            </menu>
+            <dublincore>
+               <dcterms:title xml:lang="slv">Izdaje virov</dcterms:title>      
+               <dcterms:title xml:lang="eng">Critical editions</dcterms:title>
+            </dublincore>
+         </collection>
+         
+         <collection id="17" >
             <title lang="slv">Monografije</title>
             <title lang="eng">Monographs</title>
+            <menu>  
+               <collection:searchResultsShow>One per line</collection:searchResultsShow>
+               <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+            </menu>
+            <dublincore>
+               <dcterms:title xml:lang="slv">Monografije</dcterms:title>      
+               <dcterms:title xml:lang="eng">Monographs</dcterms:title>
+            </dublincore>
+            
+            <collection id="372" publications="true">
+               <title lang="slv">Monografije</title>
+               <title lang="eng">Monographs</title>
+               <menu>  
+                  <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                  <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+               </menu>
+               <dublincore>
+                  <dcterms:title xml:lang="slv">Monografije</dcterms:title>      
+                  <dcterms:title xml:lang="eng">Monographs</dcterms:title>
+               </dublincore>
+            </collection> 
+            
+            <collection id="374" publications="true">
+               <title lang="slv">Zbirke</title>
+               <title lang="eng">Collections</title>
+               <menu>  
+                  <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                  <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+               </menu>
+               <dublincore>
+                  <dcterms:title xml:lang="slv">Zbirke</dcterms:title>      
+                  <dcterms:title xml:lang="eng">Collections</dcterms:title>
+               </dublincore>
+            </collection>
+            
+            <collection id="375" publications="true">
+               <title lang="slv">Založbe</title>
+               <title lang="eng">Publishers</title>
+               <menu>  
+                  <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                  <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+               </menu>
+               <dublincore>
+                  <dcterms:title xml:lang="slv">Založbe</dcterms:title>      
+                  <dcterms:title xml:lang="eng">Publishers</dcterms:title>
+               </dublincore>
+            </collection>
          </collection>
+         
+         <collection id="597" publications="true">
+            <title lang="slv">Referenčne zbirke</title>
+            <title lang="eng">Reference collections</title>
+            <menu>  
+               <collection:searchResultsShow>One per line</collection:searchResultsShow>
+               <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+            </menu>
+            <dublincore>
+               <dcterms:title xml:lang="slv">Referenčne zbirke</dcterms:title>      
+               <dcterms:title xml:lang="eng">Reference collections</dcterms:title>
+            </dublincore>
+         </collection>
+         
+         <collection id="16" publications="true">
+            <title lang="slv">Serijske publikacije</title>
+            <title lang="eng">Periodicals</title>
+            <menu>  
+               <collection:searchResultsShow>One per line</collection:searchResultsShow>
+               <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+            </menu>
+            <dublincore>
+               <dcterms:title xml:lang="slv">Serijske publikacije</dcterms:title>      
+               <dcterms:title xml:lang="eng">Periodicals</dcterms:title>
+            </dublincore>
+            
+            <collection id="84" publications="true">
+               <title lang="slv">Arhivi</title>
+               <title lang="eng">Archives</title>
+               <menu>
+                  <collection:description xml:lang="slv">Arhivi, glasilo Arhivskega društva in arhivov Slovenije, je osrednja slovenska arhivska znanstveno-strokovna periodična publikacija. Namenjena je objavam znanstvenih in strokovnih člankov in razprav s področja arhivistike, zgodovine, umetnostne zgodovine, pomožnih zgodovinskih ved, vede o virih ter prispevkov o strukturi in zgodovini uprave. Poleg obravnav metod arhivskega dela se v njej objavljajo tudi predpisi o arhivskem gradivu in arhivski službi, zgodovini arhivov, konservaciji in restavraciji arhivskega gradiva ter reprodukciji dokumentov. Revija spremlja razvoj arhivistike po svetu in aktualna vprašanja s področja zaščite in hranjenja novih oblik zapisov informacij na računalniških medijih. Glasilo izhaja od leta 1978 (do leta 2000 enkrat letno, od leta 2000 dalje dvakrat letno).Glasilo Arhivi trenutno izmenjujemo s 86 ustanovami (od teh s 45 v tujini) in s tem krepimo mednarodno sodelovanje, skrbimo za razvoj naše vede in izobraževanje slovenskih arhivistov. Na podlagi vključenosti naše publikacije v mednarodne bibliografske baze pa smo Arhivom dali možnost svetovne uporabnosti.</collection:description>
+                  <collection:description xml:lang="eng">Arhivi (Archives), the gazette of the Archival Association and Archives of Slovenia, is the central Slovenian scientific and expert periodic publication in the field of archival science. It is intended for the publication of scientific and expert articles and discussions from the field of archival science, history, art history, auxiliary historical sciences, resource sciences, as well as contributions about the structure and history of administration. Besides the explorations of archive work methods, the Arhivi gazette also contains regulations about archive materials and archive services, history of archives, conservation and restoration of archive materials, and document reproduction. The gazette follows the development of archival science all over the world and addresses the topical issues in the field of protection and preservation of new forms of information records on computer media. The gazette has been published since 1978 (until the year 2000 annually, and twice per year since 2000). The Arhivi gazette is currently exchanged with 86 institutions (of these 45 are abroad), thus strengthening international cooperation and ensuring the development of our science as well as the training of Slovenian archivists. Thanks to the inclusion of our publication in the international bibliographic databases, the Arhivi gazette can now be used all over the world.</collection:description>
+                  <collection:wholeContent>true</collection:wholeContent>
+                  <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                  <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+               </menu>
+               <dublincore>
+                  <dcterms:title xml:lang="slv">Arhivi</dcterms:title>      
+                  <dcterms:title xml:lang="eng">Archives</dcterms:title>
+                  <dcterms:description xml:lang="slv">Arhivi, glasilo Arhivskega društva in arhivov Slovenije, je osrednja slovenska arhivska znanstveno-strokovna periodična publikacija. Namenjena je objavam znanstvenih in strokovnih člankov in razprav s področja arhivistike, zgodovine, umetnostne zgodovine, pomožnih zgodovinskih ved, vede o virih ter prispevkov o strukturi in zgodovini uprave. Poleg obravnav metod arhivskega dela se v njej objavljajo tudi predpisi o arhivskem gradivu in arhivski službi, zgodovini arhivov, konservaciji in restavraciji arhivskega gradiva ter reprodukciji dokumentov. Revija spremlja razvoj arhivistike po svetu in aktualna vprašanja s področja zaščite in hranjenja novih oblik zapisov informacij na računalniških medijih. Glasilo izhaja od leta 1978 (do leta 2000 enkrat letno, od leta 2000 dalje dvakrat letno).Glasilo Arhivi trenutno izmenjujemo s 86 ustanovami (od teh s 45 v tujini) in s tem krepimo mednarodno sodelovanje, skrbimo za razvoj naše vede in izobraževanje slovenskih arhivistov. Na podlagi vključenosti naše publikacije v mednarodne bibliografske baze pa smo Arhivom dali možnost svetovne uporabnosti.</dcterms:description>
+                  <dcterms:description xml:lang="eng">Arhivi (Archives), the gazette of the Archival Association and Archives of Slovenia, is the central Slovenian scientific and expert periodic publication in the field of archival science. It is intended for the publication of scientific and expert articles and discussions from the field of archival science, history, art history, auxiliary historical sciences, resource sciences, as well as contributions about the structure and history of administration. Besides the explorations of archive work methods, the Arhivi gazette also contains regulations about archive materials and archive services, history of archives, conservation and restoration of archive materials, and document reproduction. The gazette follows the development of archival science all over the world and addresses the topical issues in the field of protection and preservation of new forms of information records on computer media. The gazette has been published since 1978 (until the year 2000 annually, and twice per year since 2000). The Arhivi gazette is currently exchanged with 86 institutions (of these 45 are abroad), thus strengthening international cooperation and ensuring the development of our science as well as the training of Slovenian archivists. Thanks to the inclusion of our publication in the international bibliographic databases, the Arhivi gazette can now be used all over the world.</dcterms:description>
+               </dublincore>
+            </collection>  
+            
+            <collection id="376" publications="true">
+               <title lang="slv">Bilten</title>
+               <title lang="eng">Bilten</title>
+               <menu>
+                  <collection:description xml:lang="slv">Slovenian Society for Eighteenth Century Studies (2009-2012) The Bulletin of the Slovenian Society for Eighteenth Century Studies provides summaries of the society's lectures and bibliographical overviews of eighteenth century studies in Slovenia in various fields. The Bulletin also contains information about other events taking place in the context of the Society's activities. The Slovenian Society for Eighteenth Century Studies (SD18) is a forum of experts from Slovenia, from the Slovenian minorities across the border, as well as foreign experts, studying the 18th century as an especially important period in the history of the Slovenian space. The society approaches its subject in an interdisciplinary manner and communicates its scientific findings to the wider public. It strives for the following: establishment and maintenance of contacts with representatives of various scientific areas; cooperation with relevant institutions in Slovenia (universities, institutes, libraries, museums, archives, etc.); international networking and cooperation, especially with similar societies, institutions and individuals in the countries whose histories are related to Slovenian history. The Society organises membership meetings, seminars and lectures. Each year it prepares at least one expert consultation, expert excursions, and publishes scientific and expert publications. Website of the Slovenian Society for Eighteenth Century Studies</collection:description>
+                  <collection:description xml:lang="eng"></collection:description> 
+                  <collection:wholeContent>true</collection:wholeContent>
+                  <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                  <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+               </menu>
+               <dublincore>
+                  <dcterms:title xml:lang="slv">Bilten</dcterms:title>      
+                  <dcterms:title xml:lang="eng">Bilten</dcterms:title>
+                  <dcterms:description xml:lang="slv">Slovenian Society for Eighteenth Century Studies (2009-2012) The Bulletin of the Slovenian Society for Eighteenth Century Studies provides summaries of the society's lectures and bibliographical overviews of eighteenth century studies in Slovenia in various fields. The Bulletin also contains information about other events taking place in the context of the Society's activities. The Slovenian Society for Eighteenth Century Studies (SD18) is a forum of experts from Slovenia, from the Slovenian minorities across the border, as well as foreign experts, studying the 18th century as an especially important period in the history of the Slovenian space. The society approaches its subject in an interdisciplinary manner and communicates its scientific findings to the wider public. It strives for the following: establishment and maintenance of contacts with representatives of various scientific areas; cooperation with relevant institutions in Slovenia (universities, institutes, libraries, museums, archives, etc.); international networking and cooperation, especially with similar societies, institutions and individuals in the countries whose histories are related to Slovenian history. The Society organises membership meetings, seminars and lectures. Each year it prepares at least one expert consultation, expert excursions, and publishes scientific and expert publications. Website of the Slovenian Society for Eighteenth Century Studies
+                  </dcterms:description>
+                  <dcterms:description xml:lang="eng">Slovenian Society for Eighteenth Century Studies (2009-2012) The Bulletin of the Slovenian Society for Eighteenth Century Studies provides summaries of the society's lectures and bibliographical overviews of eighteenth century studies in Slovenia in various fields. The Bulletin also contains information about other events taking place in the context of the Society's activities. The Slovenian Society for Eighteenth Century Studies (SD18) is a forum of experts from Slovenia, from the Slovenian minorities across the border, as well as foreign experts, studying the 18th century as an especially important period in the history of the Slovenian space. The society approaches its subject in an interdisciplinary manner and communicates its scientific findings to the wider public. It strives for the following: establishment and maintenance of contacts with representatives of various scientific areas; cooperation with relevant institutions in Slovenia (universities, institutes, libraries, museums, archives, etc.); international networking and cooperation, especially with similar societies, institutions and individuals in the countries whose histories are related to Slovenian history. The Society organises membership meetings, seminars and lectures. Each year it prepares at least one expert consultation, expert excursions, and publishes scientific and expert publications. Website of the Slovenian Society for Eighteenth Century Studies
+                  </dcterms:description>
+               </dublincore>
+            </collection> 
+            
+            <collection id="80" publications="true">
+               <title lang="slv">Borec</title>
+               <title lang="eng">Borec</title>
+               <menu>
+                  <collection:description xml:lang="slv">Revija za zgodovino, literaturo in antropologijo. Društvo za proučevanje zgodovine, antropologije in književnosti.</collection:description>
+                  <collection:wholeContent>true</collection:wholeContent>
+                  <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                  <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+               </menu>
+               <dublincore>
+                  <dcterms:title xml:lang="slv">Borec</dcterms:title>      
+                  <dcterms:title xml:lang="eng">Borec</dcterms:title>
+                  <dcterms:description xml:lang="slv">Revija za zgodovino, literaturo in antropologijo. Društvo za proučevanje zgodovine, antropologije in književnosti.</dcterms:description>   
+               </dublincore>
+            </collection> 
+            
+            <collection id="83" publications="true">
+               <title lang="slv">Časopis za zgodovino in narodopisje</title>
+               <title lang="eng">Časopis za zgodovino in narodopisje</title>
+               <menu>
+                  <collection:description xml:lang="slv">Zgodovinsko društvo v Mariboru (1904-1940). Združenje visokošolskih zavodov v Mariboru in Podružnica zgodovinskega društva v Mariboru (1965-1974) Univerza v Mariboru in Zgodovinsko društvo v Mariboru (1975-)</collection:description>
+                  <collection:wholeContent>true</collection:wholeContent>
+                  <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                  <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+               </menu>
+               <dublincore>
+                  <dcterms:title xml:lang="slv">Časopis za zgodovino in narodopisje</dcterms:title>      
+                  <dcterms:title xml:lang="eng">Časopis za zgodovino in narodopisje</dcterms:title>
+                  <dcterms:description xml:lang="slv">Zgodovinsko društvo v Mariboru (1904-1940). Združenje visokošolskih zavodov v Mariboru in Podružnica zgodovinskega društva v Mariboru (1965-1974) Univerza v Mariboru in Zgodovinsko društvo v Mariboru (1975-)</dcterms:description>  
+               </dublincore>
+            </collection> 
+            
+            <collection id="86" publications="true">
+            <title lang="slv">Drevesa</title>
+            <title lang="eng">Drevesa / Trees</title>
+            <menu>
+               <collection:description xml:lang="slv">The Drevesa (Trees) newspaper (meaning family or genealogical trees) has been published by the Slovenian Genealogical Society ever since its establishment in 1994. The contents are intended for the society's members and everyone interested in genealogical research. We are publishing expert and amateur contributions from the field of genealogy. Topical issues have also been published during an international genealogical conference, a genealogical exhibition (one in Slovenian and another in the English language), and issues dedicated to heraldry, family chronicles and a genealogical manual have also been released. Members receive the newspaper free of charge, and it is not sold to the general public</collection:description>
+               <collection:wholeContent>true</collection:wholeContent>
+               <collection:searchResultsShow>One per line</collection:searchResultsShow>
+               <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+            </menu>
+            <dublincore>
+               <dcterms:title xml:lang="slv">Drevesa</dcterms:title>      
+               <dcterms:title xml:lang="eng">Drevesa / Trees</dcterms:title>
+               <dcterms:description xml:lang="slv">The Drevesa (Trees) newspaper (meaning family or genealogical trees) has been published by the Slovenian Genealogical Society ever since its establishment in 1994. The contents are intended for the society's members and everyone interested in genealogical research. We are publishing expert and amateur contributions from the field of genealogy. Topical issues have also been published during an international genealogical conference, a genealogical exhibition (one in Slovenian and another in the English language), and issues dedicated to heraldry, family chronicles and a genealogical manual have also been released. Members receive the newspaper free of charge, and it is not sold to the general public</dcterms:description>  
+            </dublincore>
+         </collection>
+         
+         <collection id="86" publications="true">
+         <title lang="slv">Dve domovini / Two Homelands</title>
+         <title lang="eng">Dve domovini / Two Homelands</title>
+         <menu>
+            <collection:description xml:lang="slv">The Drevesa (Trees) newspaper (meaning family or genealogical trees) has been published by the Slovenian Genealogical Society ever since its establishment in 1994. The contents are intended for the society's members and everyone interested in genealogical research. We are publishing expert and amateur contributions from the field of genealogy. Topical issues have also been published during an international genealogical conference, a genealogical exhibition (one in Slovenian and another in the English language), and issues dedicated to heraldry, family chronicles and a genealogical manual have also been released. Members receive the newspaper free of charge, and it is not sold to the general public</collection:description>
+            <collection:wholeContent>true</collection:wholeContent>
+            <collection:searchResultsShow>One per line</collection:searchResultsShow>
+            <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+         </menu>
+         <dublincore>
+            <dcterms:title xml:lang="slv">Dve domovini / Two Homelands</dcterms:title>      
+            <dcterms:title xml:lang="eng">Dve domovini / Two Homelands</dcterms:title>
+            <dcterms:description xml:lang="slv">The Drevesa (Trees) newspaper (meaning family or genealogical trees) has been published by the Slovenian Genealogical Society ever since its establishment in 1994. The contents are intended for the society's members and everyone interested in genealogical research. We are publishing expert and amateur contributions from the field of genealogy. Topical issues have also been published during an international genealogical conference, a genealogical exhibition (one in Slovenian and another in the English language), and issues dedicated to heraldry, family chronicles and a genealogical manual have also been released. Members receive the newspaper free of charge, and it is not sold to the general public</dcterms:description>  
+         </dublincore>
       </collection>
+            
+            <collection id="341" publications="true">
+               <title lang="slv">Koroški zbornik</title>
+               <title lang="eng">Koroški zbornik</title>
+               <menu>
+                  <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                  <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+               </menu>
+               <dublincore>
+                  <dcterms:title xml:lang="slv">Koroški zbornik</dcterms:title>      
+                  <dcterms:title xml:lang="eng">Koroški zbornik</dcterms:title>     
+               </dublincore>
+            </collection>
+            
+            <collection id="79" publications="true">
+               <title lang="slv">Kronika: časopis za slovensko krajevno zgodovino</title>
+               <title lang="eng">Kronika: časopis za slovensko krajevno zgodovino</title>
+               <menu>
+                  <collection:description xml:lang="slv">Kronika, časopis za slovensko krajevno zgodovino primarno pokriva slovensko krajevno zgodovino in poskuša z izborom člankov popularizirati zgodovino in jo približati širšemu krogu bralcev. Kronika izhaja redno, trikrat na leto – februarja, junija in oktobra. Vsaki dve leti izide tudi tematska številka, ki je posvečena eni sami izbrani temi (npr. gradu Brdo pri Kranju (2004), Ljubljani (2002), gradu Snežnik (2000)...). Avtorji prispevkov so v veliki meri uveljavljeni znanstveniki, priložnost pa dajemo tudi mladim avtorjem, ki so šele na začetku svoje raziskovalne poti.</collection:description>
+                  <collection:description xml:lang="eng">Časopis za slovensko krajevno zgodovino (Kronika. Review for Slovenian local history). Zveza zgodovinskih društev Slovenije (Historical Association of Slovenia).</collection:description>
+                  <collection:wholeContent>true</collection:wholeContent>
+                  <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                  <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+               </menu>
+               <dublincore>
+                  <dcterms:title xml:lang="slv">Koroški zbornik</dcterms:title>      
+                  <dcterms:title xml:lang="eng">Koroški zbornik</dcterms:title>  
+                  <dcterms:description xml:lang="slv">Kronika, časopis za slovensko krajevno zgodovino primarno pokriva slovensko krajevno zgodovino in poskuša z izborom člankov popularizirati zgodovino in jo približati širšemu krogu bralcev. Kronika izhaja redno, trikrat na leto – februarja, junija in oktobra. Vsaki dve leti izide tudi tematska številka, ki je posvečena eni sami izbrani temi (npr. gradu Brdo pri Kranju (2004), Ljubljani (2002), gradu Snežnik (2000)...). Avtorji prispevkov so v veliki meri uveljavljeni znanstveniki, priložnost pa dajemo tudi mladim avtorjem, ki so šele na začetku svoje raziskovalne poti.</dcterms:description>
+                  <dcterms:description xml:lang="eng">Časopis za slovensko krajevno zgodovino (Kronika. Review for Slovenian local history). Zveza zgodovinskih društev Slovenije (Historical Association of Slovenia).</dcterms:description>
+               </dublincore>
+            </collection>
+            
+            <collection id="76" publications="true">
+               <title lang="slv">Prispevki za novejšo zgodovino</title>
+               <title lang="eng">Contributions to the contemporary history</title>
+               <!--Imena kolekcije so prevajana tudi v nemščino ter francoščino, edine sprejete vrednosti pa so slv ter eng-->
+               <menu>
+                  <collection:description xml:lang="slv">Prispevki za novejšo zgodovino je ena osrednjih slovenskih znanstvenih zgodovinopisnih revij, ki objavlja teme s področja novejše zgodovine (19. in 20. stoletje) srednje in jugovzhodne Evrope. Od leta 1960 revijo redno izdaja Inštitut za novejšo zgodovino (do leta 1986 je izhajala pod imenom Prispevki za zgodovino delavskega gibanja).</collection:description>
+                  <collection:description xml:lang="eng">Contributions to Contemporary History is one of the central Slovenian scientific historiographic journals, dedicated to publishing articles from the field of contemporary history (the 19th and 20th century). It has been published regularly since 1960 by the Institute of Contemporary History, and until 1986 it was entitled Contributions to the History of the Workers' Movement.</collection:description>
+                  <collection:wholeContent>true</collection:wholeContent>
+                  <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                  <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+               </menu>
+               <dublincore>
+                  <dcterms:title xml:lang="slv">Prispevki za novejšo zgodovino</dcterms:title>      
+                  <dcterms:title xml:lang="eng">Contributions to the contemporary history</dcterms:title>  
+                  <!--<dcterms:title xml:lang="deu">Beiträge zur Zeitgeschichte</dcterms:title> 
+                  <dcterms:title xml:lang="fra">Contributions á l'histoire contemporaine</dcterms:title>; tričkrovne kode po ISO 639-3; -->
+                  <dcterms:description xml:lang="slv">Prispevki za novejšo zgodovino je ena osrednjih slovenskih znanstvenih zgodovinopisnih revij, ki objavlja teme s področja novejše zgodovine (19. in 20. stoletje) srednje in jugovzhodne Evrope. Od leta 1960 revijo redno izdaja Inštitut za novejšo zgodovino (do leta 1986 je izhajala pod imenom Prispevki za zgodovino delavskega gibanja).</dcterms:description>
+                  <dcterms:description xml:lang="eng">Contributions to Contemporary History is one of the central Slovenian scientific historiographic journals, dedicated to publishing articles from the field of contemporary history (the 19th and 20th century). It has been published regularly since 1960 by the Institute of Contemporary History, and until 1986 it was entitled Contributions to the History of the Workers' Movement.</dcterms:description>
+               <dcterms:language>slv</dcterms:language>
+                  <dcterms:language>eng</dcterms:language>
+                  <dcterms:type>Collection</dcterms:type>
+                  <dcterms:type>Besedilo</dcterms:type>
+               </dublincore>
+            </collection>
+            
+            <collection id="82" publications="true">
+               <title lang="slv">Razprave in gradivo</title>
+               <title lang="eng">Treatises and Documents</title>
+               <menu>
+                  <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                  <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+               </menu>
+               <dublincore>
+                  <dcterms:title xml:lang="slv">Razprave in gradivo</dcterms:title>      
+                  <dcterms:title xml:lang="eng">Treatises and Documents</dcterms:title>     
+               </dublincore>
+            </collection>
+            
+            <collection id="614" publications="true">
+               <title lang="slv">Vojaška zgodovina</title>
+               <title lang="eng">Military history</title>
+               <menu>
+                  <collection:description xml:lang="slv">Revija Vojaška zgodovina je osrednja specializirana strokovna publikacija za področje vojaške zgodovine iz različnih obdobij v Sloveniji.</collection:description>
+                  <collection:description xml:lang="eng">Military History magazine is a central specialized professional publication in the field of military history from various periods in Slovenia.</collection:description>
+                  <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                  <collection:wholeContent>true</collection:wholeContent>
+                  <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+               </menu>
+               <dublincore>
+                  <dcterms:title xml:lang="slv">Vojaška zgodovina</dcterms:title>      
+                  <dcterms:title xml:lang="eng">Military history</dcterms:title>
+                  <dcterms:description xml:lang="slv">Revija Vojaška zgodovina je osrednja specializirana strokovna publikacija za področje vojaške zgodovine iz različnih obdobij v Sloveniji.</dcterms:description>
+                  <dcterms:description xml:lang="eng">Military History magazine is a central specialized professional publication in the field of military history from various periods in Slovenia.</dcterms:description>
+               </dublincore>
+            </collection>
+            
+            <collection id="658" publications="true">
+               <title lang="slv">Vrhniški razgledi</title>
+               <title lang="eng">Vrhniški razgledi</title>
+               <menu>
+                  <collection:description xml:lang="slv">Zbornik Vrhniški razgledi, ki prinaša strokovne prispevke povezane z domoznanskim proučevanjem Vrhnike, izhaja od leta 1996. </collection:description>
+                  <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                  <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                  <collection:wholeContent>true</collection:wholeContent>
+               </menu>
+               <dublincore>
+                  <dcterms:title xml:lang="slv">Vrhniški razgledi</dcterms:title>      
+                  <dcterms:title xml:lang="eng">Vrhniški razgledi</dcterms:title>   
+                  <dcterms:description xml:lang="slv">Zbornik Vrhniški razgledi, ki prinaša strokovne prispevke povezane z domoznanskim proučevanjem Vrhnike, izhaja od leta 1996. </dcterms:description>
+               </dublincore>
+            </collection>
+            
+            <collection id="270" publications="true">
+               <title lang="slv">Zgodovina v šoli</title>
+               <title lang="eng">Zgodovina v šoli</title>
+               <menu>
+                  <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                  <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                  <collection:wholeContent>true</collection:wholeContent>
+                  <collection:description xml:lang="slv">Zgodovina v šoli je osrednja slovenska revija, namenjena pouku zgodovine v osnovnih in srednjih šolah. V njej objavljajo didaktične in znanstvene članke slovenski in tuji avtorji. Izhaja nepretrgoma od leta 1992. Do leta 1999 je izhajala štirikrat in do leta 2003 trikrat letno. Od leta 2004 izhaja dvakrat letno, izdaja jo Zavod RS za šolstvo v slovenskem in s povzetki v angleškem jeziku. Namen revije je spremljati in nuditi podporo posodabljanju pouka zgodovine v osnovnih in srednjih šolah z objavljanjem didaktičnih člankov s področja teorije in prakse pouka zgodovine ter objavljati izsledke novejših raziskav iz vseh zgodovinskih obdobij ter aktualnih tem glede na vsebino učnih načrtov ter predmetnih katalogov za zgodovino. V reviji se redno objavlja tudi poročila in ocene o publikacijah s področja didaktike zgodovine kot tudi znanstvenih publikacij, ki so pomembne pri strokovnih pripravah učiteljev na pouk. V ostalih rubrikah se objavlja še članke o eksternem preverjanju znanja zgodovine v osnovni šoli in gimnaziji, o tekmovanjih iz znanja zgodovine, članke s področja povezovanja šol z muzeji, arhivi in drugimi ustanovami, pomembnimi za pouk zgodovine ipd.</collection:description>
+               </menu>
+               <dublincore>
+                  <dcterms:title xml:lang="slv">Zgodovina v šoli</dcterms:title>      
+                  <dcterms:title xml:lang="eng">Zgodovina v šolis</dcterms:title>    
+                  <dcterms:description xml:lang="slv">Zgodovina v šoli je osrednja slovenska revija, namenjena pouku zgodovine v osnovnih in srednjih šolah. V njej objavljajo didaktične in znanstvene članke slovenski in tuji avtorji. Izhaja nepretrgoma od leta 1992. Do leta 1999 je izhajala štirikrat in do leta 2003 trikrat letno. Od leta 2004 izhaja dvakrat letno, izdaja jo Zavod RS za šolstvo v slovenskem in s povzetki v angleškem jeziku. Namen revije je spremljati in nuditi podporo posodabljanju pouka zgodovine v osnovnih in srednjih šolah z objavljanjem didaktičnih člankov s področja teorije in prakse pouka zgodovine ter objavljati izsledke novejših raziskav iz vseh zgodovinskih obdobij ter aktualnih tem glede na vsebino učnih načrtov ter predmetnih katalogov za zgodovino. V reviji se redno objavlja tudi poročila in ocene o publikacijah s področja didaktike zgodovine kot tudi znanstvenih publikacij, ki so pomembne pri strokovnih pripravah učiteljev na pouk. V ostalih rubrikah se objavlja še članke o eksternem preverjanju znanja zgodovine v osnovni šoli in gimnaziji, o tekmovanjih iz znanja zgodovine, članke s področja povezovanja šol z muzeji, arhivi in drugimi ustanovami, pomembnimi za pouk zgodovine ipd.</dcterms:description>
+               </dublincore>
+            </collection>
+            
+            <collection id="78" publications="true">
+               <title lang="slv">Zgodovina za vse</title>
+               <title lang="eng">Zgodovina za vse</title>
+               <menu>
+                  <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                  <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                  <collection:description xml:lang="slv">Revija Zgodovina za vse je usmerjena v historično antropologijo in se ukvarja z zgodovino vsakdanjega življenja in zgodovino od spodaj ali zgodovino malih ljudi. Posebna odlika revije je povratek k pripovedništvu. Razdeljena je v tri dele. Prvi vsebuje zgodbe, ki jih piše življenje in članke, ki ustrezajo programski orientaciji revije. Kriterij za prispevke je znanstveni pristop z bogatim kritičnim aparatom in stil prispevkov (napisani so v obliki pripovedi, t.j. zgodbi, ki se izogiba dolgočasni naraciji), ki mora biti na dovolj visoki ravni. Drugi del vsebuje prispevke s področja historične teorije in polemike, tretji pa ocene knjig, ki se ukvarjajo s podobnimi temami. Največja značilnost revije je nedvomno povratek k pripovedništvu. Članki se odlikujejo po bogati pripovedi ali opisu (t.j. globoki ali poglobljeni opis). Ta spada med t.i. moderno pripoved, ki jo zgodovinarji pod vplivom odkritij antropologije postavljajo nasproti klasični pripovedi ali »tankemu opisu«. Temeljite in natančne študije različnih fenomenov iz slovenske zgodovine predstavljajo kompleksne članke, ki se glede na uporabljeno metodologijo in tehnike pisanja uvrščajo na področje mikrozgodovine ali mikropripovedi, zgodovine vsakdanjega življenja, zgodovine mentalitete ter zgodovine civilizacij, navad in običajev. Glede na paradigmatsko usmeritev lahko revijo uvrstimo med podobne zgodovinske publikacije v Evropi. Članki so dopolnjeni z daljšimi nemškimi povzetki in s krajšimi slovenskimi in angleškimi sinopsisi. Revija izhaja dvakrat letno.</collection:description>
+               <collection:wholeContent>true</collection:wholeContent>
+               </menu>
+               <dublincore>
+                  <dcterms:title xml:lang="slv">Zgodovina za vse</dcterms:title>      
+                  <dcterms:title xml:lang="eng">Zgodovina za vse</dcterms:title>  
+                  <dcterms:description xml:lang="slv">Revija Zgodovina za vse je usmerjena v historično antropologijo in se ukvarja z zgodovino vsakdanjega življenja in zgodovino od spodaj ali zgodovino malih ljudi. Posebna odlika revije je povratek k pripovedništvu. Razdeljena je v tri dele. Prvi vsebuje zgodbe, ki jih piše življenje in članke, ki ustrezajo programski orientaciji revije. Kriterij za prispevke je znanstveni pristop z bogatim kritičnim aparatom in stil prispevkov (napisani so v obliki pripovedi, t.j. zgodbi, ki se izogiba dolgočasni naraciji), ki mora biti na dovolj visoki ravni. Drugi del vsebuje prispevke s področja historične teorije in polemike, tretji pa ocene knjig, ki se ukvarjajo s podobnimi temami. Največja značilnost revije je nedvomno povratek k pripovedništvu. Članki se odlikujejo po bogati pripovedi ali opisu (t.j. globoki ali poglobljeni opis). Ta spada med t.i. moderno pripoved, ki jo zgodovinarji pod vplivom odkritij antropologije postavljajo nasproti klasični pripovedi ali »tankemu opisu«. Temeljite in natančne študije različnih fenomenov iz slovenske zgodovine predstavljajo kompleksne članke, ki se glede na uporabljeno metodologijo in tehnike pisanja uvrščajo na področje mikrozgodovine ali mikropripovedi, zgodovine vsakdanjega življenja, zgodovine mentalitete ter zgodovine civilizacij, navad in običajev. Glede na paradigmatsko usmeritev lahko revijo uvrstimo med podobne zgodovinske publikacije v Evropi. Članki so dopolnjeni z daljšimi nemškimi povzetki in s krajšimi slovenskimi in angleškimi sinopsisi. Revija izhaja dvakrat letno.</dcterms:description>
+               </dublincore>
+            </collection>
+            
+            <collection id="82" publications="true">
+               <title lang="slv">Zgodovinski časopis</title>
+               <title lang="eng">Zgodovinski časopis</title>
+               <menu>
+                  <collection:description xml:lang="slv">Zgodovinski časopis je glasilo Zveze Zgodovinskih društev Slovenije, v katero se je leta 1981 preoblikovalo Zgodovinsko društvo za Slovenijo. Prvi zvezek Zgodovinskega časopisa, ki je na dobrih 240 straneh vseboval vse štiri številke prvega letnika, je z letnico 1947 izšel 12. junija 1948. Novi strokovni časopis slovenskih zgodovinarjev je bil v življenje priklican kot glasilo novega Zgodovinskega društva za Slovenijo in je na svoj način odražal nov čas, ki je nastopil po koncu druge svetovne vojne. A čeprav je bil Zgodovinski časopis nova periodična revija in je bilo Zgodovinsko društvo za Slovenijo nova stanovska organizacija, to vendarle ne pomeni, da sta bila brez korenin, tradicije in predhodnikov. Vse troje sega že v 19. stoletje in tradicija, na katero se lahko sklicuje Zgodovinski časopis sega vse do Mitteilungen des Historischen Vereins für Krain, ki so začele izhajati 1846. Neposredni predhodnih Zgodovinskega časopisa pa je bil Glasnik Muzejskega društva za Sloevnijo (1919-1945), ki se je ob preoblikovanju Muzejskega društva za Slovenijo leta 1946 v Zgodovinsko društvo za Slovenijo tudi sam preoblikoval v Zgodovinski časopis. Tako kot še na marsikaterem področju življenja po vojni, so bili tudi začetki Zgodovinskega časopisa skromni in prvih 21 letnikov je imelo vsega skupaj 16 zvezkov. Kasneje se je stanje bistveno spremenilo in do konca leta 2008 je v 62 letnikih izšlo že 138 zvezkov revije, ki od leta 2001 izhaja vsako leto v dveh dvojnih številkah. Glavni oziroma odgovorni uredniki Zgodovinskega časopisa so do sedaj bili Bogo Grafenauer (1947-1968), Ferdo Gestrin (1969-1972), Vasilij Melik (1973-1999) in Peter Štih (2000-). V Zgodovinskem časopisu, ki je osrednja revija slovenskih zgodovinarjev, so objavljali prav vsi zgodovinarji in zgodovinarke, ki so kaj pomenili ali pa sedaj nekaj pomenijo v slovenskem zgodovinopisju. Zato se skozi posamezne številke Zgodovinskega časopisa, katerega vsebine so lahko dostopne na medmrežju, na svoj način zrcali tudi zgodovina slovenskega zgodovinopisja po drugi svetovni vojni in skozi njegove strani lahko sledimo poti, ki jo je to zgodovinopisje prehodilo.</collection:description>
+                  <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                  <collection:wholeContent>true</collection:wholeContent>
+                  <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+               </menu>
+               <dublincore>
+                  <dcterms:title xml:lang="slv">Zgodovinski časopis</dcterms:title>      
+                  <dcterms:title xml:lang="eng">Zgodovinski časopis</dcterms:title>   
+                  <dcterms:description xml:lang="slv">Zgodovinski časopis je glasilo Zveze Zgodovinskih društev Slovenije, v katero se je leta 1981 preoblikovalo Zgodovinsko društvo za Slovenijo. Prvi zvezek Zgodovinskega časopisa, ki je na dobrih 240 straneh vseboval vse štiri številke prvega letnika, je z letnico 1947 izšel 12. junija 1948. Novi strokovni časopis slovenskih zgodovinarjev je bil v življenje priklican kot glasilo novega Zgodovinskega društva za Slovenijo in je na svoj način odražal nov čas, ki je nastopil po koncu druge svetovne vojne. A čeprav je bil Zgodovinski časopis nova periodična revija in je bilo Zgodovinsko društvo za Slovenijo nova stanovska organizacija, to vendarle ne pomeni, da sta bila brez korenin, tradicije in predhodnikov. Vse troje sega že v 19. stoletje in tradicija, na katero se lahko sklicuje Zgodovinski časopis sega vse do Mitteilungen des Historischen Vereins für Krain, ki so začele izhajati 1846. Neposredni predhodnih Zgodovinskega časopisa pa je bil Glasnik Muzejskega društva za Sloevnijo (1919-1945), ki se je ob preoblikovanju Muzejskega društva za Slovenijo leta 1946 v Zgodovinsko društvo za Slovenijo tudi sam preoblikoval v Zgodovinski časopis. Tako kot še na marsikaterem področju življenja po vojni, so bili tudi začetki Zgodovinskega časopisa skromni in prvih 21 letnikov je imelo vsega skupaj 16 zvezkov. Kasneje se je stanje bistveno spremenilo in do konca leta 2008 je v 62 letnikih izšlo že 138 zvezkov revije, ki od leta 2001 izhaja vsako leto v dveh dvojnih številkah. Glavni oziroma odgovorni uredniki Zgodovinskega časopisa so do sedaj bili Bogo Grafenauer (1947-1968), Ferdo Gestrin (1969-1972), Vasilij Melik (1973-1999) in Peter Štih (2000-). V Zgodovinskem časopisu, ki je osrednja revija slovenskih zgodovinarjev, so objavljali prav vsi zgodovinarji in zgodovinarke, ki so kaj pomenili ali pa sedaj nekaj pomenijo v slovenskem zgodovinopisju. Zato se skozi posamezne številke Zgodovinskega časopisa, katerega vsebine so lahko dostopne na medmrežju, na svoj način zrcali tudi zgodovina slovenskega zgodovinopisja po drugi svetovni vojni in skozi njegove strani lahko sledimo poti, ki jo je to zgodovinopisje prehodilo.</dcterms:description>
+               </dublincore>
+            </collection>
+         </collection>
+         
+         <collection id="21">
+            <title lang="slv">Šolska in visokošolska dela</title>
+            <title lang="eng">Šolska in visokošolska dela</title>
+            <menu>
+               <collection:searchResultsShow>One per line</collection:searchResultsShow>
+               <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+            </menu>
+            <dublincore>
+               <dcterms:title xml:lang="slv">Šolska in visokošolska dela</dcterms:title>      
+               <dcterms:title xml:lang="eng">Šolska in visokošolska dela</dcterms:title>     
+            </dublincore>
+            
+            <collection id="88" publications="true">
+               <title lang="slv">Diplomska dela</title>
+               <title lang="eng">Graduate Thesis</title>
+               <menu>
+                  <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                  <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+               </menu>
+               <dublincore>
+                  <dcterms:title xml:lang="slv">Diplomska dela</dcterms:title>      
+                  <dcterms:title xml:lang="eng">Graduate Thesis</dcterms:title>     
+               </dublincore>
+            </collection>
+            
+            <collection id="89" publications="true">
+               <title lang="slv">Magistrske naloge</title>
+               <title lang="eng">Master Thesis</title>
+               <menu>
+                  <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                  <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+               </menu>
+               <dublincore>
+                  <dcterms:title xml:lang="slv">Magistrske naloge</dcterms:title>      
+                  <dcterms:title xml:lang="eng">Master Thesis</dcterms:title>     
+               </dublincore>
+            </collection>
+            
+            <collection id="112" publications="true">
+               <title lang="slv">Doktorati</title>
+               <title lang="eng">Doctoral Thesis</title>
+               <menu>
+                  <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                  <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+               </menu>
+               <dublincore>
+                  <dcterms:title xml:lang="slv">Doktorati</dcterms:title>      
+                  <dcterms:title xml:lang="eng">Doctoral Thesis</dcterms:title>     
+               </dublincore>
+            </collection>
+            
+            <collection id="813" publications="true">
+               <title lang="slv">Učbeniki</title>
+               <title lang="eng">Textbooks</title>
+               <menu>
+                  <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                  <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+               </menu>
+               <dublincore>
+                  <dcterms:title xml:lang="slv">Učbeniki</dcterms:title>      
+                  <dcterms:title xml:lang="eng">Textbooks</dcterms:title>     
+               </dublincore>
+            </collection>
+            
+            <collection id="90" publications="true">
+               <title lang="slv">Učni načrti</title>
+               <title lang="eng">Curriculum</title>
+               <menu>
+                  <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                  <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+               </menu>
+               <dublincore>
+                  <dcterms:title xml:lang="slv">Učni načrti</dcterms:title>      
+                  <dcterms:title xml:lang="eng">Curriculum</dcterms:title>     
+               </dublincore>
+            </collection>
+         </collection>
+         
+         <collection id="821" publications="true">
+            <title lang="slv">Tipkopisi</title>
+            <title lang="eng">Typescript</title>
+            <menu>
+               <collection:searchResultsShow>One per line</collection:searchResultsShow>
+               <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+            </menu>
+            <dublincore>
+               <dcterms:title xml:lang="slv">Tipkopisi</dcterms:title>      
+               <dcterms:title xml:lang="eng">Typescript</dcterms:title>     
+            </dublincore>
+         </collection>
+         
+         <collection id="334">
+            <title lang="slv">Zbirke</title>
+            <title lang="eng">Collections</title>
+            <menu>
+               <collection:searchResultsShow>One per line</collection:searchResultsShow>
+               <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+            </menu>
+            <dublincore>
+               <dcterms:title xml:lang="slv">Zbirke</dcterms:title>      
+               <dcterms:title xml:lang="eng">Collections</dcterms:title>     
+            </dublincore>
+            
+            <collection id="334" publications="true">
+               <title lang="slv">Programi slovenskih političnih organizacij</title>
+               <title lang="eng">Programi slovenskih političnih organizacij</title>
+               <menu>
+                  <collection:description xml:lang="slv">Besedilni korpus programov slovenskih političnih strank, organizacij in društev od leta 1890 do druge svetovne vojne.</collection:description>
+                  <collection:description xml:lang="eng">Text corpus of the programmes of Slovenian political parties, organisations and associations from 1890 until World War II The text corpus is being created in the context of the Research Infrastructures of Slovenian Historiography activities (SIstory and DARIAH-SI)</collection:description>
+                  <collection:wholeContent>true</collection:wholeContent>
+                  <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                  <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+               </menu>
+               <dublincore>
+                  <dcterms:title xml:lang="slv">Programi slovenskih političnih organizacij</dcterms:title>      
+                  <dcterms:title xml:lang="eng">Programi slovenskih političnih organizacij</dcterms:title>  
+                  <dcterms:description xml:lang="slv">Besedilni korpus programov slovenskih političnih strank, organizacij in društev od leta 1890 do druge svetovne vojne.</dcterms:description>
+                  <dcterms:description xml:lang="eng">Text corpus of the programmes of Slovenian political parties, organisations and associations from 1890 until World War II The text corpus is being created in the context of the Research Infrastructures of Slovenian Historiography activities (SIstory and DARIAH-SI)</dcterms:description>
+               </dublincore>
+            </collection>
+            
+            <collection id="334">
+               <title lang="slv">Slovenski okraji in občine med obema vojnama - mikroštudije</title>
+               <title lang="eng">Slovenian districts and municipalities in the interwar period - microstudies</title>
+               <menu>
+                  <collection:description xml:lang="slv">V sklopu svojega obširnega raziskovalnega dela, v katerem se ukvarja predvsem z obdobjem prve Jugoslavije, je dr. Anka Vidovič Miklavčič posebno pozornost posvetila mikroštudijam o dogajanju v lokalnih administrativnih enotah. V zapisu ob njeni sedemdestletnici v Zgodovinskem časopisu je prof. dr. Miroslav Stiplovšek napisal: »Značilnost jubilantkine raziskovalne dejavnosti v zadnjih letih so tudi krajevnozgodovinske razprave o političnem življenju in drugem dogajanju v posameznih okrajih in občinah v obdobju 1929-1941. Mikroštudije o devetih okrajih in treh občinah so dragocene zlasti zato, ker osvetljujejo posebnosti posameznih manjših območij, ki v splošnih orisih ne morejo priti dovolj do izraza.« (Dr. Anka Vidovič-Miklavčič – sedemdesetletnica) Od takrat je seznamu dodala še mikroštudijo o okraju Kranj (1. del), ki mu bo v letu 2015 sledilo še nadaljevanje. Na portalu Zgodovina Slovenije – SIstory smo sklenili te študije zbrati na enem mestu, v zbirko pa bomo postopoma dodajali vse dosegljive materiale.</collection:description>
+                  <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                  <collection:wholeContent>true</collection:wholeContent>
+                  <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+               </menu>
+               <dublincore>
+                  <dcterms:title xml:lang="slv">Slovenski okraji in občine med obema vojnama - mikroštudije</dcterms:title>      
+                  <dcterms:title xml:lang="eng">Slovenian districts and municipalities in the interwar period - microstudies</dcterms:title>     
+                  <dcterms:description xml:lang="slv">V sklopu svojega obširnega raziskovalnega dela, v katerem se ukvarja predvsem z obdobjem prve Jugoslavije, je dr. Anka Vidovič Miklavčič posebno pozornost posvetila mikroštudijam o dogajanju v lokalnih administrativnih enotah. V zapisu ob njeni sedemdestletnici v Zgodovinskem časopisu je prof. dr. Miroslav Stiplovšek napisal: »Značilnost jubilantkine raziskovalne dejavnosti v zadnjih letih so tudi krajevnozgodovinske razprave o političnem življenju in drugem dogajanju v posameznih okrajih in občinah v obdobju 1929-1941. Mikroštudije o devetih okrajih in treh občinah so dragocene zlasti zato, ker osvetljujejo posebnosti posameznih manjših območij, ki v splošnih orisih ne morejo priti dovolj do izraza.« (Dr. Anka Vidovič-Miklavčič – sedemdesetletnica) Od takrat je seznamu dodala še mikroštudijo o okraju Kranj (1. del), ki mu bo v letu 2015 sledilo še nadaljevanje. Na portalu Zgodovina Slovenije – SIstory smo sklenili te študije zbrati na enem mestu, v zbirko pa bomo postopoma dodajali vse dosegljive materiale.</dcterms:description>
+               </dublincore>
+            </collection>
+         </collection>   
+      </collection>
+      
       <collection id="122">
          <title lang="slv">Dogodki</title>
+         <title lang="eng">Events</title>
+         <menu>
+            <collection:description xml:lang="slv">Sprehodite se po virtualnih razstavah in si oglejte utrinke s predavanj in konferenc, ki se jih niste uspeli udeležiti.</collection:description>
+            <collection:description xml:lang="eng">Walk through virtual exhibitions and see excerpts of lectures and conferences which you could not attend.</collection:description>
+         <collection:wholeContent>true</collection:wholeContent>
+         </menu>
+         <dublincore>
+            <dcterms:title xml:lang="slv">Dogodki</dcterms:title>
+            <dcterms:title xml:lang="eng">Events</dcterms:title>
+            <dcterms:description xml:lang="slv">Sprehodite se po virtualnih razstavah in si oglejte utrinke s predavanj in konferenc, ki se jih niste uspeli udeležiti.</dcterms:description>
+            <dcterms:description xml:lang="eng">Walk through virtual exhibitions and see excerpts of lectures and conferences which you could not attend.</dcterms:description>
+         </dublincore>
+         
+         <collection id="123">
+            <title lang="slv">Konference</title>
+            <title lang="eng">Conferences</title>
+            <menu>
+               <collection:searchResultsShow>One per line</collection:searchResultsShow>
+               <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+            </menu>
+            <dublincore>
+               <dcterms:title xml:lang="slv">Konference</dcterms:title>      
+               <dcterms:title xml:lang="eng">Conferences</dcterms:title>     
+            </dublincore>
+            
+            <collection id="323" publications="true">
+            <title lang="slv">Opis</title>
+               <title lang="eng">Opis</title>
+            <menu>
+               <collection:searchResultsShow>One per line</collection:searchResultsShow>
+               <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+            </menu>
+            <dublincore>
+               <dcterms:title xml:lang="slv">Opis</dcterms:title>      
+               <dcterms:title xml:lang="eng">Opis</dcterms:title>     
+            </dublincore>
+         </collection>
+            
+            <collection id="387" publications="true">
+               <title lang="slv">Zgodovina otroštva</title>
+               <title lang="eng">Zgodovina otroštva</title>
+               <menu>
+                  <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                  <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+               </menu>
+               <dublincore>
+                  <dcterms:title xml:lang="slv">Zgodovina otroštva</dcterms:title>      
+                  <dcterms:title xml:lang="eng">Zgodovina otroštva</dcterms:title>     
+               </dublincore>
+            </collection>
+            
+            <collection id="593" publications="true">
+               <title lang="slv">15. mednarodni simpozij šolskih muzejev in šolsko-zgodovinskih zbirk</title>
+               <title lang="eng">15. mednarodni simpozij šolskih muzejev in šolsko-zgodovinskih zbirk</title>
+               <menu>
+                  <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                  <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+               </menu>
+               <dublincore>
+                  <dcterms:title xml:lang="slv">15. mednarodni simpozij šolskih muzejev in šolsko-zgodovinskih zbirk</dcterms:title>      
+                  <dcterms:title xml:lang="eng">15. mednarodni simpozij šolskih muzejev in šolsko-zgodovinskih zbirk</dcterms:title>     
+               </dublincore>
+            </collection>
+            
+            <collection id="717" publications="true">
+               <title lang="slv">37. zborovanje Zveze zgodovinskih društev Slovenije</title>
+               <title lang="eng">37. zborovanje Zveze zgodovinskih društev Slovenije</title>
+               <menu>
+                  <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                  <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+               </menu>
+               <dublincore>
+                  <dcterms:title xml:lang="slv">37. zborovanje Zveze zgodovinskih društev Slovenije</dcterms:title>      
+                  <dcterms:title xml:lang="eng">37. zborovanje Zveze zgodovinskih društev Slovenije</dcterms:title>     
+               </dublincore>
+            </collection>
+         </collection>
+         
+         <collection id="124">
+            <title lang="slv">Predavanja</title>
+            <title lang="eng">Lectures</title>
+            <menu>
+               <collection:searchResultsShow>One per line</collection:searchResultsShow>
+               <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+            </menu>
+            <dublincore>
+               <dcterms:title xml:lang="slv">Predavanja</dcterms:title>      
+               <dcterms:title xml:lang="eng">Lectures</dcterms:title>     
+            </dublincore>
+            
+            <collection id="656" publications="true">
+               <title lang="slv">Zgodovinsko društvo Ljubljana 2014 - 2016</title>
+               <title lang="eng">Zgodovinsko društvo Ljubljana 2014 - 2016</title>
+               <menu>
+                  <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                  <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+               </menu>
+               <dublincore>
+                  <dcterms:title xml:lang="slv">Zgodovinsko društvo Ljubljana 2014 - 2016</dcterms:title>      
+                  <dcterms:title xml:lang="eng">Zgodovinsko društvo Ljubljana 2014 - 2016</dcterms:title>     
+               </dublincore>
+            </collection>
+            
+            <collection id="378" publications="true">
+               <title lang="slv">Slovensko društvo za preučevanje 18. stoletja (2009-2012)</title>
+               <title lang="eng">Slovensko društvo za preučevanje 18. stoletja (2009-2012)</title>
+               <menu>
+                  <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                  <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+               </menu>
+               <dublincore>
+                  <dcterms:title xml:lang="slv">Slovensko društvo za preučevanje 18. stoletja (2009-2012)</dcterms:title>      
+                  <dcterms:title xml:lang="eng">Slovensko društvo za preučevanje 18. stoletja (2009-2012)</dcterms:title>     
+               </dublincore>
+            </collection>
+            
+            <collection id="183" publications="true">
+               <title lang="slv">Zgodovinsko društvo Ljubljana 2008 - 2009</title>
+               <title lang="eng">Ljubljana historical society 2008 - 2009</title>
+               <menu>
+                  <collection:description xml:lang="slv">V letih 2008 in 2009 je Zgodovinsko društvo Ljubljana v sodelovanju s Festivalom Ljubljana organiziralo enajst predavanj na temo Zgodbe z Ljubljanskega gradu. Predavatelji so v grajski Modri dvorani poslušalcem predstavili delovanje deželnih stanov in frančiškanskega reda, spregovorili so o znamenitem zaporniku Ljubljanskega gradu – Giorgiu Pallavicinu, o kugi devetnajstega stoletja – koleri, o meščanih in o eminentnih objektih, kjer se je odvijalo kulturno življenje Ljubljančanov – Kolizeju, Kazini, Narodnem domu ter o športnem dogajanju na prvem ljubljanskem stadionu, beseda je tekla tudi o Ljubljanici – reki, ki je z arheološkimi najdbami skozi stoletja bila nema priča življenja v mestu. Pri organizaciji predavanj se nismo izognili niti večnima temama – prvi in drugi svetovni vojni, ki sta hudo prizadeli prebivalce Ljubljane. Ker predavanja niso izšla v tiskani obliki, smo se odločili, da jih širši javnosti predstavimo na spletnem portalu Sistory.</collection:description>
+                  <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                  <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+               </menu>
+               <dublincore>
+                  <dcterms:title xml:lang="slv">Zgodovinsko društvo Ljubljana 2008 - 2009</dcterms:title>      
+                  <dcterms:title xml:lang="eng">Ljubljana historical society 2008 - 2009</dcterms:title>     
+               </dublincore>
+            </collection>
+            
+            <collection id="336" publications="true">
+               <title lang="slv">Zgodovinsko društvo Ljubljana 2009 - 2013</title>
+               <title lang="eng">Zgodovinsko društvo Ljubljana 2009 - 2013</title>
+               <menu>
+                  <collection:description xml:lang="slv">Od konca leta 2009 Zgodovinsko društvo Ljubljana v sodelovanju z Modrijanovo knjigarno organizira redna mesečna predavanja.</collection:description>
+                  <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                  <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+               </menu>
+               <dublincore>
+                  <dcterms:title xml:lang="slv">Zgodovinsko društvo Ljubljana 2009 - 2013</dcterms:title>      
+                  <dcterms:title xml:lang="eng">Zgodovinsko društvo Ljubljana 2009 - 2013</dcterms:title>     
+               </dublincore>
+            </collection>
+         </collection>
+         
+         <collection id="125">
+            <title lang="slv">Razstave</title>
+            <title lang="eng">Exhibitions</title>
+            <menu>
+               <collection:searchResultsShow>One per line</collection:searchResultsShow>
+               <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+            </menu>
+            <dublincore>
+               <dcterms:title xml:lang="slv">Razstave</dcterms:title>      
+               <dcterms:title xml:lang="eng">Exhibitions</dcterms:title>     
+            </dublincore>
+         </collection>
       </collection>
+      
+      <collection id="4" active="false">
+         <title lang="slv">Zgodovina in šola</title>
+         <title lang="eng">Zgodovina in šola</title>
+         <menu>
+            <collection:searchResultsShow>One per line</collection:searchResultsShow>
+            <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+         </menu>
+         <dublincore>
+            <dcterms:title xml:lang="slv">Zgodovina in šola</dcterms:title>      
+            <dcterms:title xml:lang="eng">Zgodovina in šola</dcterms:title>     
+         </dublincore>
+         
+         <collection id="23" active="false" publications="true">
+            <title lang="slv">Zgod(b)oved</title>
+            <title lang="eng">Zgod(b)oved</title>
+            <menu>
+               <collection:searchResultsShow>One per line</collection:searchResultsShow>
+               <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+            </menu>
+            <dublincore>
+               <dcterms:title xml:lang="slv">Zgod(b)oved</dcterms:title>      
+               <dcterms:title xml:lang="eng">Zgod(b)oved</dcterms:title>     
+            </dublincore>
+         </collection>
+      </collection>
+      
+      <collection id="5">
+         <title lang="slv">Podatki</title>
+         <title lang="eng">Podatki</title>
+         <menu>
+            <collection:description xml:lang="slv">Raziskovalni podatki - V tem sklopus so zbrani repozitoriji raziskovalnih  podatkov s področja humanistike v Sloveniji ter različne  zbirke raziskovalnih podatkov in baze podatkov, ki jih hranimo na portalu SIstory.</collection:description>
+            <collection:searchResultsShow>One per line</collection:searchResultsShow>
+            <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+         </menu>
+         <dublincore>
+            <dcterms:title xml:lang="slv">Podatki</dcterms:title>      
+            <dcterms:title xml:lang="eng">Podatki</dcterms:title> 
+            <dcterms:description xml:lang="slv">Raziskovalni podatki - V tem sklopus so zbrani repozitoriji raziskovalnih  podatkov s področja humanistike v Sloveniji ter različne  zbirke raziskovalnih podatkov in baze podatkov, ki jih hranimo na portalu SIstory.</dcterms:description>
+         </dublincore>
+         
+         <collection id="804" publications="true">
+            <title lang="slv">Arhiv družboslovnih podatkov</title>
+            <title lang="eng">Social Science Data Archive</title>
+            <menu>
+               <collection:searchResultsShow>One per line</collection:searchResultsShow>
+               <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+            </menu>
+            <dublincore>
+               <dcterms:title xml:lang="slv">Arhiv družboslovnih podatkov</dcterms:title>      
+               <dcterms:title xml:lang="eng">Social Science Data Archive</dcterms:title>     
+            </dublincore>
+         </collection>
+         
+         <collection id="805" publications="true">
+            <title lang="slv">CLARIN.SI</title>
+            <title lang="slv">Slovenska raziskovalna infrastruktura za jezikovne vire in tehnologije</title>
+            <title lang="eng">Common Language Resources and Technology Infrastructure, Slovenia</title>
+            <menu>
+               <collection:searchResultsShow>One per line</collection:searchResultsShow>
+               <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+            </menu>
+            <dublincore>
+               <dcterms:title xml:lang="slv">CLARIN.SI</dcterms:title>    
+               <dcterms:title xml:lang="slv">Slovenska raziskovalna infrastruktura za jezikovne vire in tehnologije</dcterms:title>
+               <dcterms:title xml:lang="eng">Common Language Resources and Technology Infrastructure, Slovenia</dcterms:title>     
+            </dublincore>
+         </collection>
+         
+         <collection id="809" publications="true">
+            <title lang="slv">Raziskovalni podatki</title>
+            <title lang="eng">Research data</title>
+            <menu>
+               <collection:searchResultsShow>One per line</collection:searchResultsShow>
+               <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+            </menu>
+            <dublincore>
+               <dcterms:title xml:lang="slv">Raziskovalni podatki</dcterms:title>      
+               <dcterms:title xml:lang="eng">Research data</dcterms:title>     
+            </dublincore>
+         </collection>
+         
+         <collection id="809" publications="true">
+            <title lang="slv">Raziskovalni podatki</title>
+            <title lang="eng">Research data</title>
+            <menu>
+               <collection:searchResultsShow>One per line</collection:searchResultsShow>
+               <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+            </menu>
+            <dublincore>
+               <dcterms:title xml:lang="slv">Raziskovalni podatki</dcterms:title>      
+               <dcterms:title xml:lang="eng">Research data</dcterms:title>     
+            </dublincore>
+         </collection>
+         
+         
+         <collection id="809" publications="true">
+            <title lang="slv">SICI</title>
+            <title lang="eng">Research data</title>
+            <menu>
+               <collection:searchResultsShow>One per line</collection:searchResultsShow>
+               <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+            </menu>
+            <dublincore>
+               <dcterms:title xml:lang="slv">SICI</dcterms:title>      
+               <dcterms:title xml:lang="eng">Research data</dcterms:title>     
+            </dublincore>
+         </collection>
+         
+      </collection>
+      
+      
+      
    </collection>
-</repository>
+ </repository>
