@@ -64,7 +64,7 @@
                   <dcterms:description xml:lang="eng">The Archives dates back to 1859 when the Provincial Archives was established in Ljubljana on the initiative of the Carniolan Historical Society. By then, the archival records had been collected and recorded by various institutions, societies and individuals. More space was obtained for the archival material by the extension of the building of the Provincial Museum, the present-day National Museum, in 1887. The Archives operated as part of the Carniolan Provincial Museum. When the State Archives was established between the World Wars in 1926, it still operated as an organisational unit of the museum.On 31 October 1945,the National Government of Slovenia established the Central State Archives of Slovenia as an independent institution. In 1953 it was renamed the State Archives of Slovenia. In 1966 its title was changed to the Archives of Slovenia, in 1979 to the Archives of Socialist Republic of Slovenia and in 1991 to the Archives of the Republic of Slovenia in 1991. After the political changes in 1990, the “special archives” were abolished and merged with the national archives. The Historical Archives of the Central Committee of the League of Communists of Slovenia merged with the Archives in 1990; the archives of the Institute of History of Labour Movement, i.e. the later Institute of Contemporary History merged with it in 1992 and the Archives of the Ministry of the Interior, which kept the records of the National Security Service, became part of it in 1998.</dcterms:description>
                </dublincore>
 
-               <collection id="233" publications="true">
+               <collection id="233">
                   <title lang="slv">AS 2058, Zbirka stenografskih beležk, zapisnikov sej predstavništev, senata in skupščine Kraljevine Jugoslavije 1919-1939</title>
                   <title lang="eng">AS 2058, Stenographic Minutes of the Kingdom of Yugoslavia 1919-1939</title>
                   <menu>
@@ -250,7 +250,7 @@
                  </dublincore>
               </collection>    
                
-               <collection id="273">
+               <collection id="273" publications="true">
                   <title lang="slv">SI AS 2058/13, Stenografske beležke Senata Kraljevine Jugoslavije, 1935-1936</title>
                   <title lang="eng">SI AS 2058/13, Stenographic minutes of the Senate of the Kingdom of Yugoslavia, 1935-1936</title>
               <menu>
@@ -263,7 +263,7 @@
                   </dublincore>
                </collection>
              
-             <collection id="274">
+             <collection id="274" publications="true">
                 <title lang="slv">SI AS 2058/14, Stenografske beležke Senata Kraljevine Jugoslavije, 1937</title>
                 <title lang="eng">SI AS 2058/14, Stenographic minutes of the Senate of the Kingdom of Yugoslavia, 1937</title>
              <menu>
@@ -275,7 +275,294 @@
                 <dcterms:title xml:lang="eng">SI AS 2058/14, Stenographic minutes of the Senate of the Kingdom of Yugoslavia, 1937</dcterms:title>
              </dublincore>
              </collection>
-               </collection>
+              
+            
+            <collection id="275" publications="true">
+               <title lang="slv">SI AS 2058/15, Stenografske beležke Senata Kraljevine Jugoslavije, 1936-1937</title>
+               <title lang="eng">SI AS 2058/15, Stenographic minutes of the Senate of the Kingdom of Yugoslavia, 1936-1937</title>
+               <menu>
+                  <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                  <collection:searchResultsShow>One per line</collection:searchResultsShow>
+               </menu>
+               <dublincore>
+                  <dcterms:title xml:lang="slv">SI AS 2058/15, Stenografske beležke Senata Kraljevine Jugoslavije, 1936-1937</dcterms:title>
+                  <dcterms:title xml:lang="eng">SI AS 2058/15, Stenographic minutes of the Senate of the Kingdom of Yugoslavia, 1936-1937</dcterms:title>
+               </dublincore>
+            </collection>
+                  
+                  <collection id="276" publications="true">
+                     <title lang="slv">SI AS 2058/16, Stenografske beležke Senata Kraljevine Jugoslavije, 1937</title>
+                     <title lang="eng">SI AS 2058/16, Stenographic minutes of the Senate of the Kingdom of Yugoslavia, 1937</title>
+                     <menu>
+                        <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                        <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                     </menu>
+                     <dublincore>
+                        <dcterms:title xml:lang="slv">SI AS 2058/16, Stenografske beležke Senata Kraljevine Jugoslavije, 1937</dcterms:title>
+                        <dcterms:title xml:lang="eng">SI AS 2058/16, Stenographic minutes of the Senate of the Kingdom of Yugoslavia, 1937</dcterms:title>
+                     </dublincore>
+                  </collection>
+                  
+                  <collection id="277" publications="true">
+                     <title lang="slv">SI AS 2058/17, Stenografske beležke Senata Kraljevine Jugoslavije, 1937-1938</title>
+                     <title lang="eng">SI AS 2058/17, Stenographic minutes of the Senate of the Kingdom of Yugoslavia, 1937-1938</title>
+                     <menu>
+                        <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                        <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                     </menu>
+                     <dublincore>
+                        <dcterms:title xml:lang="slv">SI AS 2058/17, Stenografske beležke Senata Kraljevine Jugoslavije, 1937-1938</dcterms:title>
+                        <dcterms:title xml:lang="eng">SI AS 2058/17, Stenographic minutes of the Senate of the Kingdom of Yugoslavia, 1937-1938</dcterms:title>
+                     </dublincore>
+                  </collection>
+                 
+                  <collection id="278" publications="true">
+                     <title lang="slv">SI AS 2058/18, Stenografske beležke Senata Kraljevine Jugoslavije, 1932</title>
+                     <title lang="eng">SI AS 2058/18, Stenographic minutes of the Senate of the Kingdom of Yugoslavia, 1932</title>
+                     <menu>
+                        <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                        <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                     </menu>
+                     <dublincore>
+                        <dcterms:title xml:lang="slv">SI AS 2058/18, Stenografske beležke Senata Kraljevine Jugoslavije, 1932</dcterms:title>
+                        <dcterms:title xml:lang="eng">SI AS 2058/18, Stenographic minutes of the Senate of the Kingdom of Yugoslavia, 1932</dcterms:title>
+                     </dublincore>
+                  </collection>
+                 
+                  <collection id="279" publications="true">
+                     <title lang="slv">SI AS 2058/19, Stenografske beležke Senata Kraljevine Jugoslavije, 1932</title>
+                     <title lang="eng">SI AS 2058/19, Stenographic minutes of the Senate of the Kingdom of Yugoslavia, 1932</title>
+                     <menu>
+                        <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                        <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                     </menu>
+                     <dublincore>
+                        <dcterms:title xml:lang="slv">SI AS 2058/19, Stenografske beležke Senata Kraljevine Jugoslavije, 1932</dcterms:title>
+                        <dcterms:title xml:lang="eng">SI AS 2058/19, Stenographic minutes of the Senate of the Kingdom of Yugoslavia, 1932</dcterms:title>
+                     </dublincore>
+                  </collection>
+                  
+                  <collection id="280" publications="true">
+                     <title lang="slv">SI AS 2058/20, Stenografske beležke Senata Kraljevine Jugoslavije, 1939</title>
+                     <title lang="eng">SI AS 2058/20, Stenographic minutes of the Senate of the Kingdom of Yugoslavia, 1939</title>
+                     <menu>
+                        <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                        <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                     </menu>
+                     <dublincore>
+                        <dcterms:title xml:lang="slv">SI AS 2058/20, Stenografske beležke Senata Kraljevine Jugoslavije, 1939</dcterms:title>
+                        <dcterms:title xml:lang="eng">SI AS 2058/20, Stenographic minutes of the Senate of the Kingdom of Yugoslavia, 1939</dcterms:title>
+                     </dublincore>
+                  </collection>
+                 
+                  <collection id="281" publications="true">
+                     <title lang="slv">SI AS 2058/21, Stenografske beležke Narodne skupščine Kraljevine Jugoslavije, 1932-1933</title>
+                     <title lang="eng">SI AS 2058/21, Stenographic minutes of the National Assembly of the Kingdom of Yugoslavia, 1932-1933</title>
+                     <menu>
+                        <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                        <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                     </menu>
+                     <dublincore>
+                        <dcterms:title xml:lang="slv">SI AS 2058/21, Stenografske beležke Narodne skupščine Kraljevine Jugoslavije, 1932-1933</dcterms:title>
+                        <dcterms:title xml:lang="eng">SI AS 2058/21, Stenographic minutes of the National Assembly of the Kingdom of Yugoslavia, 1932-1933</dcterms:title>
+                     </dublincore>
+                  </collection>
+                 
+                  <collection id="282" publications="true">
+                     <title lang="slv">SI AS 2058/22, Stenografske beležke Narodne skupščine Kraljevine Jugoslavije, 1933</title>
+                     <title lang="eng"> SI AS 2058/22, Stenographic minutes of the National Assembly of the Kingdom of Yugoslavia, 1933</title>
+                     <menu>
+                        <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                        <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                     </menu>
+                     <dublincore>
+                        <dcterms:title xml:lang="slv">SI AS 2058/22, Stenografske beležke Narodne skupščine Kraljevine Jugoslavije, 1933</dcterms:title>
+                        <dcterms:title xml:lang="eng">SI AS 2058/22, Stenographic minutes of the National Assembly of the Kingdom of Yugoslavia, 1933</dcterms:title>
+                     </dublincore>
+                  </collection>
+                  
+                  <collection id="283" publications="true">
+                     <title lang="slv">SI AS 2058/23, Stenografske beležke Narodne skupščine Kraljevine Jugoslavije, 1933-1934</title>
+                     <title lang="eng">SI AS 2058/23, Stenographic minutes of the National Assembly of the Kingdom of Yugoslavia, 1933-1934</title>
+                     <menu>
+                        <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                        <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                     </menu>
+                     <dublincore>
+                        <dcterms:title xml:lang="slv">SI AS 2058/23, Stenografske beležke Narodne skupščine Kraljevine Jugoslavije, 1933-1934SI AS 2058/22, Stenografske beležke Narodne skupščine Kraljevine Jugoslavije, 1933</dcterms:title>
+                        <dcterms:title xml:lang="eng">SI AS 2058/23, Stenographic minutes of the National Assembly of the Kingdom of Yugoslavia, 1933-1934</dcterms:title>
+                     </dublincore>
+                  </collection>
+                 
+                  <collection id="284" publications="true">
+                     <title lang="slv">SI AS 2058/24, Stenografske beležke Narodne skupščine Kraljevine Jugoslavije, 1934</title>
+                     <title lang="eng">SI AS 2058/24, Stenographic minutes of the National Assembly of the Kingdom of Yugoslavia, 1934</title>
+                     <menu>
+                        <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                        <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                     </menu>
+                     <dublincore>
+                        <dcterms:title xml:lang="slv">SI AS 2058/24, Stenografske beležke Narodne skupščine Kraljevine Jugoslavije, 1934</dcterms:title>
+                        <dcterms:title xml:lang="eng">SI AS 2058/24, Stenographic minutes of the National Assembly of the Kingdom of Yugoslavia, 1934</dcterms:title>
+                     </dublincore>
+                  </collection>
+                 
+                  <collection id="285" publications="true">
+                     <title lang="slv">SI AS 2058/25, Stenografske beležke Narodne skupščine Kraljevine Jugoslavije, 1934-1935</title>
+                     <title lang="eng">SI AS 2058/25, Stenographic minutes of the National Assembly of the Kingdom of Yugoslavia, 1934-1935</title>
+                     <menu>
+                        <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                        <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                     </menu>
+                     <dublincore>
+                        <dcterms:title xml:lang="slv">SI AS 2058/25, Stenografske beležke Narodne skupščine Kraljevine Jugoslavije, 1934-1935</dcterms:title>
+                        <dcterms:title xml:lang="eng">SI AS 2058/25, Stenographic minutes of the National Assembly of the Kingdom of Yugoslavia, 1934-1935</dcterms:title>
+                     </dublincore>
+                  </collection>
+                  
+                  <collection id="286" publications="true">
+                     <title lang="slv">SI AS 2058/26, Stenografske beležke Narodne skupščine Kraljevine Jugoslavije, 1935</title>
+                     <title lang="eng">SI AS 2058/26, Stenographic minutes of the National Assembly of the Kingdom of Yugoslavia, 1935</title>
+                     <menu>
+                        <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                        <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                     </menu>
+                     <dublincore>
+                        <dcterms:title xml:lang="slv">SI AS 2058/26, Stenografske beležke Narodne skupščine Kraljevine Jugoslavije, 1935</dcterms:title>
+                        <dcterms:title xml:lang="eng">SI AS 2058/26, Stenographic minutes of the National Assembly of the Kingdom of Yugoslavia, 1935</dcterms:title>
+                     </dublincore>
+                  </collection>
+                  
+                  <collection id="287" publications="true">
+                     <title lang="slv">SI AS 2058/27, Stenografske beležke Narodne skupščine Kraljevine Jugoslavije, 1936</title>
+                     <title lang="eng">SI AS 2058/27, Stenographic minutes of the National Assembly of the Kingdom of Yugoslavia, 1936</title>
+                     <menu>
+                        <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                        <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                     </menu>
+                     <dublincore>
+                        <dcterms:title xml:lang="slv">SI AS 2058/27, Stenografske beležke Narodne skupščine Kraljevine Jugoslavije, 1936</dcterms:title>
+                        <dcterms:title xml:lang="eng">SI AS 2058/27, Stenographic minutes of the National Assembly of the Kingdom of Yugoslavia, 1936</dcterms:title>
+                     </dublincore>
+                  </collection>
+                  
+                  <collection id="288" publications="true">
+                     <title lang="slv">SI AS 2058/28, Stenografske beležke Narodne skupščine Kraljevine Jugoslavije, 1936-1937</title>
+                     <title lang="eng">SI AS 2058/28, Stenographic minutes of the National Assembly of the Kingdom of Yugoslavia, 1936-1937</title>
+                     <menu>
+                        <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                        <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                     </menu>
+                     <dublincore>
+                        <dcterms:title xml:lang="slv">SI AS 2058/28, Stenografske beležke Narodne skupščine Kraljevine Jugoslavije, 1936-1937</dcterms:title>
+                        <dcterms:title xml:lang="eng">SI AS 2058/28, Stenographic minutes of the National Assembly of the Kingdom of Yugoslavia, 1936-1937</dcterms:title>
+                     </dublincore>
+                  </collection>
+                  
+                  <collection id="289" publications="true">
+                     <title lang="slv">SI AS 2058/29, Stenografske beležke Narodne skupščine Kraljevine Jugoslavije, 1937</title>
+                     <title lang="eng">SI AS 2058/29, Stenographic minutes of the National Assembly of the Kingdom of Yugoslavia, 1937</title>
+                     <menu>
+                        <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                        <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                     </menu>
+                     <dublincore>
+                        <dcterms:title xml:lang="slv">SI AS 2058/29, Stenografske beležke Narodne skupščine Kraljevine Jugoslavije, 1937</dcterms:title>
+                        <dcterms:title xml:lang="eng">SI AS 2058/29, Stenographic minutes of the National Assembly of the Kingdom of Yugoslavia, 1937</dcterms:title>
+                     </dublincore>
+                  </collection>
+                 
+                  <collection id="290" publications="true">
+                     <title lang="slv">SI AS 2058/30, Stenografske beležke Narodne skupščine Kraljevine Jugoslavije, 1937</title>
+                     <title lang="eng">SI AS 2058/30, Stenographic minutes of the National Assembly of the Kingdom of Yugoslavia, 1937</title>
+                     <menu>
+                        <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                        <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                     </menu>
+                     <dublincore>
+                        <dcterms:title xml:lang="slv">SI AS 2058/30, Stenografske beležke Narodne skupščine Kraljevine Jugoslavije, 1937</dcterms:title>
+                        <dcterms:title xml:lang="eng">SI AS 2058/30, Stenographic minutes of the National Assembly of the Kingdom of Yugoslavia, 1937</dcterms:title>
+                     </dublincore>
+                  </collection>
+                  
+                  <collection id="291" publications="true">
+                     <title lang="slv">SI AS 2058/31, Stenografske beležke Narodne skupščine Kraljevine Jugoslavije, 1937-1938</title>
+                     <title lang="eng">SI AS 2058/31, Stenographic minutes of the National Assembly of the Kingdom of Yugoslavia, 1937-1938</title>
+                     <menu>
+                        <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                        <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                     </menu>
+                     <dublincore>
+                        <dcterms:title xml:lang="slv">SI AS 2058/31, Stenografske beležke Narodne skupščine Kraljevine Jugoslavije, 1937-1938</dcterms:title>
+                        <dcterms:title xml:lang="eng">SI AS 2058/31, Stenographic minutes of the National Assembly of the Kingdom of Yugoslavia, 1937-1938</dcterms:title>
+                     </dublincore>
+                  </collection>
+                  
+                  <collection id="292" publications="true">
+                     <title lang="slv">SI AS 2058/32, Stenografske beležke Narodne skupščine Kraljevine Jugoslavije, 1938</title>
+                     <title lang="eng">SI AS 2058/32, Stenographic minutes of the National Assembly of the Kingdom of Yugoslavia, 1938</title>
+                     <menu>
+                        <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                        <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                     </menu>
+                     <dublincore>
+                        <dcterms:title xml:lang="slv">SI AS 2058/32, Stenografske beležke Narodne skupščine Kraljevine Jugoslavije, 1938</dcterms:title>
+                        <dcterms:title xml:lang="eng">SI AS 2058/32, Stenographic minutes of the National Assembly of the Kingdom of Yugoslavia, 1938</dcterms:title>
+                     </dublincore>
+                  </collection>
+                  
+                  <collection id="293" publications="true">
+                     <title lang="slv">SI AS 2058/33, Stenografske beležke Narodne skupščine Kraljevine Jugoslavije, 1938</title>
+                     <title lang="eng">SI AS 2058/33, Stenographic minutes of the National Assembly of the Kingdom of Yugoslavia, 1938</title>
+                     <menu>
+                        <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                        <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                     </menu>
+                     <dublincore>
+                        <dcterms:title xml:lang="slv">SI AS 2058/33, Stenografske beležke Narodne skupščine Kraljevine Jugoslavije, 1938</dcterms:title>
+                        <dcterms:title xml:lang="eng">SI AS 2058/33, Stenographic minutes of the National Assembly of the Kingdom of Yugoslavia, 1938</dcterms:title>
+                     </dublincore>
+                  </collection>
+                  
+                  <collection id="294" publications="true">
+                     <title lang="slv">SI AS 2058/34, Stenografske beležke Narodne skupščine Kraljevine Jugoslavije, 1931-1932</title>
+                     <title lang="eng">SI AS 2058/34, Stenographic minutes of the National Assembly of the Kingdom of Yugoslavia, 1931-1932</title>
+                     <menu>
+                        <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                        <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                     </menu>
+                     <dublincore>
+                        <dcterms:title xml:lang="slv">SI AS 2058/34, Stenografske beležke Narodne skupščine Kraljevine Jugoslavije, 1931-1932</dcterms:title>
+                        <dcterms:title xml:lang="eng">SI AS 2058/34, Stenographic minutes of the National Assembly of the Kingdom of Yugoslavia, 1931-1932</dcterms:title>
+                     </dublincore>
+                  </collection>
+                  
+                  <collection id="295" publications="true">
+                     <title lang="slv">SI AS 2058/35, Stenografske beležke Narodne skupščine Kraljevine Jugoslavije, 1932</title>
+                     <title lang="eng">SI AS 2058/35, Stenographic minutes of the National Assembly of the Kingdom of Yugoslavia, 1932</title>
+                     <menu>
+                        <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                        <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                     </menu>
+                     <dublincore>
+                        <dcterms:title xml:lang="slv">SI AS 2058/35, Stenografske beležke Narodne skupščine Kraljevine Jugoslavije, 1932</dcterms:title>
+                        <dcterms:title xml:lang="eng">SI AS 2058/35, Stenographic minutes of the National Assembly of the Kingdom of Yugoslavia, 1932</dcterms:title>
+                     </dublincore>
+                  </collection>
+                  
+                  <collection id="296" publications="true">
+                     <title lang="slv">SI AS 2058/36, Stenografske beležke Narodne skupščine Kraljevine Jugoslavije, 1939</title>
+                     <title lang="eng">SI AS 2058/36, Stenographic minutes of the National Assembly of the Kingdom of Yugoslavia, 1939</title>
+                     <menu>
+                        <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                        <collection:searchResultsShow>One per line</collection:searchResultsShow>
+                     </menu>
+                     <dublincore>
+                        <dcterms:title xml:lang="slv">SI AS 2058/36, Stenografske beležke Narodne skupščine Kraljevine Jugoslavije, 1939</dcterms:title>
+                        <dcterms:title xml:lang="eng">SI AS 2058/36, Stenographic minutes of the National Assembly of the Kingdom of Yugoslavia, 1939</dcterms:title>
+                     </dublincore>
+                  </collection>
+            </collection>
             </collection>
             
           <collection id="749">
@@ -331,7 +618,7 @@
                   <dcterms:description xml:lang="eng">The National and Study Library (Narodna in študijska knjižnica) in Trieste was founded soon after World War II. Its establishment is based on the rich heritage of the Slovenian cultural life in the Trieste region. The development of this life was halted with the onset of fascism, which is why only a fraction of the former book and archive collections of the Slovenian institutions in Italy had been preserved until the National and Study Library was established. In 1951 a Department of History (Odsek za zgodovino) was established in the context of the library, and to date it has overseen the collection of archive materials and museum artefacts significant for the past and the present of Slovenians in Italy. In its work the Department of History has not limited itself merely to the role of an institution responsible for keeping this rich material. Instead it has taken care of its expert and scientific study as well as use, which is reflected in the extensive publishing and exhibition activities of this Department as well as in its frequent organisation of expert meetings.</dcterms:description>
                </dublincore>
                
-               <collection id="181" publications="true">
+               <collection id="181" publications="true" active="false">
                   <title lang="slv">Opis NSK</title>
                   <title lang="eng">Opis NSK</title>
                   <menu>
@@ -610,7 +897,7 @@
                     </dublincore>
                  </collection>
                  
-                 <collection id="518">
+                 <collection id="518" publications="true">
                     <title lang="slv">SI_ZAL_LJU/0504, t.e. 034, Konskripcijske tabele 1830 - 1857, Kapucinsko predmestje</title>
                  <menu>
                     <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
@@ -3246,8 +3533,7 @@
                  <dcterms:title xml:lang="slv">Študije</dcterms:title>
                  <dcterms:title xml:lang="eng">Studies</dcterms:title>
               </dublincore>
-           </collection>
-        </collection>    
+            
             
             <collection id="73" publications="true">
                <title lang="slv">Privilegijska knjiga</title>
@@ -3287,7 +3573,7 @@
                   <dcterms:title xml:lang="eng">SI ZAL LJU 342 Fototeka (1859-2010)</dcterms:title>
                </dublincore>
             </collection>
-         </collection> 
+         </collection> </collection></collection>
          
          <collection id="11">
             <title lang="slv">Muzealije</title>  

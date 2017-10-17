@@ -1,0 +1,213 @@
+<root>
+    <publication>
+        <ID>9633</ID>
+        <URN>11686/9633</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1912</DATE>
+        <MENU_ID id="15">Narodna in študijska knjižnica</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <TITLE titleType="Title" lang="slv">Jadranska banka v Trstu</TITLE>
+        <TITLE titleType="Title" lang="slv">Zapisnik sej upravnega sveta:  29.oktober 1905 – 1. december 1912</TITLE>
+        <PUBLISHER>Narodna in študijska knjižnica (Odsek za zgodovino), Trst</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1912</YEAR>
+        <DATETIME_ADDED>2012-07-17 13:33:43</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-11-17 17:24:26</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="Jadranska_banka_v_Trstu_Zapisnik_sej_upravnega_sveta_29.10.1905-1913.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>9632</ID>
+        <URN>11686/9632</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1913</DATE>
+        <MENU_ID id="15">Narodna in študijska knjižnica</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <TITLE titleType="Title" lang="slv">Jadranska banka v Trstu</TITLE>
+        <TITLE titleType="Title" lang="slv">Zapisnik sej eksekutivnega odbora: 30. oktober 1908 – 9. september 1913</TITLE>
+        <PUBLISHER>Narodna in študijska knjižnica (Odsek za zgodovino), Trst</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1913</YEAR>
+        <DATETIME_ADDED>2012-10-11 12:32:18</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-11-17 17:23:59</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="Jadranska_banka_v_Trstu_Zapisnik_sej_eksekutivnega_odbora_1908-1913.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>9631</ID>
+        <URN>11686/9631</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1908</DATE>
+        <MENU_ID id="15">Narodna in študijska knjižnica</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <TITLE titleType="Title" lang="slv">Jadranska banka v Trstu</TITLE>
+        <TITLE titleType="Title" lang="slv">Zapisnik sej eksekutivnega odbora: 31. oktober 1905 – 19. julij 1908</TITLE>
+        <PUBLISHER>Narodna in študijska knjižnica (Odsek za zgodovino), Trst</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1908</YEAR>
+        <DATETIME_ADDED>2012-07-17 13:32:47</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-11-17 17:23:29</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="Jadranska_banka_v_Trstu_Zapisnik_sej_eksekutivnega_odbora_31.10.1905-1908.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>9630</ID>
+        <URN>11686/9630</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1922</DATE>
+        <MENU_ID id="15">Narodna in študijska knjižnica</MENU_ID>
+        <LANGUAGE lang="hrv">17</LANGUAGE>
+        <LANGUAGE lang="ita">8</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <TITLE titleType="Title" lang="slv">Hrvatska štedionica v Trstu</TITLE>
+        <TITLE titleType="Title" lang="slv">Zapisniki glavne skupščine: 3. april 1910 – 7. november 1922</TITLE>
+        <PUBLISHER>Narodna in študijska knjižnica (Odsek za zgodovino), Trst</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1922</YEAR>
+        <DATETIME_ADDED>2012-07-17 13:32:17</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-11-17 17:23:00</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="Hrvatska_stedionica_v_Trstu_Jadranska_banka_v_Trstu.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>940</ID>
+        <URN>11686/940</URN>
+        <CHILD_ORDER>8</CHILD_ORDER>
+        <DATE type="Date">1907</DATE>
+        <MENU_ID id="15">Narodna in študijska knjižnica</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <TITLE titleType="Title" lang="slv">Tajnikova knjiga</TITLE>
+        <TITLE titleType="Title" lang="slv">Slovenska čitalnica v Škednju (Trst)</TITLE>
+        <TITLE titleType="Title" lang="slv">20. december 1897 – 27. februar 1907</TITLE>
+        <SUBJECT lang="slv">seje</SUBJECT>
+        <PUBLISHER>Narodna in študijska knjižnica (Odsek za zgodovino), Trst</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1907</YEAR>
+        <DATETIME_ADDED>2012-07-17 13:30:48</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-11-17 17:22:22</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="Slovenska_citalnica_v_Skednju.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>939</ID>
+        <URN>11686/939</URN>
+        <CHILD_ORDER>7</CHILD_ORDER>
+        <DATE type="Date">1876</DATE>
+        <MENU_ID id="15">Narodna in študijska knjižnica</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <TITLE titleType="Title" lang="slv">Slavjanska čitalnica v Trstu</TITLE>
+        <TITLE titleType="Title" lang="slv">Odborovih pomenkov knjiga</TITLE>
+        <TITLE titleType="Title" lang="slv">17. december 1865 – 19. marec 1876</TITLE>
+        <PUBLISHER>Narodna in študijska knjižnica (Odsek za zgodovino), Trst</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1876</YEAR>
+        <DATETIME_ADDED>2012-07-17 13:31:03</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-11-17 17:21:59</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="Slavjanska_citalnica_v_Trstu.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>938</ID>
+        <URN>11686/938</URN>
+        <CHILD_ORDER>6</CHILD_ORDER>
+        <DATE type="Date">1912</DATE>
+        <MENU_ID id="15">Narodna in študijska knjižnica</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <TITLE titleType="Title" lang="slv">Pevsko društvo Adrija v Barkovljah (Trst)</TITLE>
+        <TITLE titleType="Title" lang="slv">Tajniška knjiga 1894 – 1912</TITLE>
+        <PUBLISHER>Narodna in študijska knjižnica (Odsek za zgodovino), Trst</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1912</YEAR>
+        <DATETIME_ADDED>2012-07-17 13:31:19</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-11-17 17:21:21</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="Pevsko_drustvo_Adrija_v_Barkovljah.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>937</ID>
+        <URN>11686/937</URN>
+        <CHILD_ORDER>5</CHILD_ORDER>
+        <DATE type="Date">1914</DATE>
+        <MENU_ID id="15">Narodna in študijska knjižnica</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <TITLE titleType="Title" lang="slv">Javna ljudska knjižnica v Nabrežini</TITLE>
+        <TITLE titleType="Title" lang="slv">Zapisniki: 16. januar 1906 – 4. marec 1914</TITLE>
+        <PUBLISHER>Narodna in študijska knjižnica (Odsek za zgodovino), Trst</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1914</YEAR>
+        <DATETIME_ADDED>2012-07-17 13:31:38</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-11-17 17:20:55</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="Javna_ljudska_knjiznica_v_Nabrezini.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>936</ID>
+        <URN>11686/936</URN>
+        <CHILD_ORDER>4</CHILD_ORDER>
+        <DATE type="Date">1926</DATE>
+        <MENU_ID id="15">Narodna in študijska knjižnica</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <TITLE titleType="Title" lang="slv">Dramatični krožek v Gorici</TITLE>
+        <TITLE titleType="Title" lang="slv">Zapisnik sej: 15. november 1923 – 13. september 1926</TITLE>
+        <PUBLISHER>Narodna in študijska knjižnica (Odsek za zgodovino), Trst</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1926</YEAR>
+        <DATETIME_ADDED>2012-07-17 13:32:03</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-11-17 17:19:55</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="Dramaticni_krozek_v_Gorici.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+</root>
