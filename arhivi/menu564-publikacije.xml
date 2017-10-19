@@ -1,0 +1,3288 @@
+<root>
+    <publication>
+        <ID>25323</ID>
+        <URN>11686/25323</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1931</DATE>
+        <MENU_ID id="564">SI_ZAL_LJU/0504, t.e. 327, Popis prebivalstva 31. 3. 1931, Miklošičeva c. - Mivka</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:14/enota:428</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 3. 1931, Ljubljana, Mivka 9,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:25323">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Ljubljana</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 3. 1931</TITLE>
+        <TITLE titleType="Title" lang="slv">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="slv">Mivka 9</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 March 1931</TITLE>
+        <TITLE titleType="Title" lang="eng">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="eng">Mivka 9</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1931</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1931</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/327/Mivka 9</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1931-03-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1931</YEAR>
+        <DATETIME_ADDED>2014-04-03 20:54:48</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-04-03 20:54:48</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="LJU_504_327_mivka_9.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>25322</ID>
+        <URN>11686/25322</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1931</DATE>
+        <MENU_ID id="564">SI_ZAL_LJU/0504, t.e. 327, Popis prebivalstva 31. 3. 1931, Miklošičeva c. - Mivka</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:14/enota:427</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 3. 1931, Ljubljana, Mivka 7,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:25322">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Ljubljana</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 3. 1931</TITLE>
+        <TITLE titleType="Title" lang="slv">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="slv">Mivka 7</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 March 1931</TITLE>
+        <TITLE titleType="Title" lang="eng">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="eng">Mivka 7</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1931</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1931</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/327/Mivka 7</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1931-03-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1931</YEAR>
+        <DATETIME_ADDED>2014-04-03 20:54:45</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-04-03 20:54:45</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="LJU_504_327_mivka_7.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>25321</ID>
+        <URN>11686/25321</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1931</DATE>
+        <MENU_ID id="564">SI_ZAL_LJU/0504, t.e. 327, Popis prebivalstva 31. 3. 1931, Miklošičeva c. - Mivka</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:14/enota:426</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 3. 1931, Ljubljana, Mivka 6,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:25321">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Ljubljana</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 3. 1931</TITLE>
+        <TITLE titleType="Title" lang="slv">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="slv">Mivka 6</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 March 1931</TITLE>
+        <TITLE titleType="Title" lang="eng">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="eng">Mivka 6</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1931</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1931</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/327/Mivka 6</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1931-03-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1931</YEAR>
+        <DATETIME_ADDED>2014-04-03 20:54:41</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-04-03 20:54:41</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="LJU_504_327_mivka_6.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>25320</ID>
+        <URN>11686/25320</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1931</DATE>
+        <MENU_ID id="564">SI_ZAL_LJU/0504, t.e. 327, Popis prebivalstva 31. 3. 1931, Miklošičeva c. - Mivka</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:14/enota:425</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 3. 1931, Ljubljana, Mivka 4,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:25320">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Ljubljana</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 3. 1931</TITLE>
+        <TITLE titleType="Title" lang="slv">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="slv">Mivka 4</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 March 1931</TITLE>
+        <TITLE titleType="Title" lang="eng">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="eng">Mivka 4</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1931</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1931</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/327/Mivka 4</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1931-03-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1931</YEAR>
+        <DATETIME_ADDED>2014-04-03 20:54:38</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-04-03 20:54:38</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="LJU_504_327_mivka_4.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>25319</ID>
+        <URN>11686/25319</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1931</DATE>
+        <MENU_ID id="564">SI_ZAL_LJU/0504, t.e. 327, Popis prebivalstva 31. 3. 1931, Miklošičeva c. - Mivka</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:14/enota:424</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 3. 1931, Ljubljana, Mivka 32,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:25319">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Ljubljana</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 3. 1931</TITLE>
+        <TITLE titleType="Title" lang="slv">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="slv">Mivka 32</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 March 1931</TITLE>
+        <TITLE titleType="Title" lang="eng">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="eng">Mivka 32</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1931</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1931</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/327/Mivka 32</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1931-03-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1931</YEAR>
+        <DATETIME_ADDED>2014-04-03 20:54:34</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-04-03 20:54:34</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="LJU_504_327_mivka_32.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>25318</ID>
+        <URN>11686/25318</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1931</DATE>
+        <MENU_ID id="564">SI_ZAL_LJU/0504, t.e. 327, Popis prebivalstva 31. 3. 1931, Miklošičeva c. - Mivka</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:14/enota:423</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 3. 1931, Ljubljana, Mivka 30,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:25318">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Ljubljana</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 3. 1931</TITLE>
+        <TITLE titleType="Title" lang="slv">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="slv">Mivka 30</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 March 1931</TITLE>
+        <TITLE titleType="Title" lang="eng">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="eng">Mivka 30</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1931</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1931</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/327/Mivka 30</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1931-03-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1931</YEAR>
+        <DATETIME_ADDED>2014-04-03 20:54:31</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-04-03 20:54:31</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="LJU_504_327_mivka_30.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>25317</ID>
+        <URN>11686/25317</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1931</DATE>
+        <MENU_ID id="564">SI_ZAL_LJU/0504, t.e. 327, Popis prebivalstva 31. 3. 1931, Miklošičeva c. - Mivka</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:14/enota:422</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 3. 1931, Ljubljana, Mivka 3,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:25317">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Ljubljana</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 3. 1931</TITLE>
+        <TITLE titleType="Title" lang="slv">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="slv">Mivka 3</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 March 1931</TITLE>
+        <TITLE titleType="Title" lang="eng">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="eng">Mivka 3</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1931</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1931</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/327/Mivka 3</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1931-03-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1931</YEAR>
+        <DATETIME_ADDED>2014-04-03 20:54:28</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-04-03 20:54:28</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="LJU_504_327_mivka_3.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>25316</ID>
+        <URN>11686/25316</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1931</DATE>
+        <MENU_ID id="564">SI_ZAL_LJU/0504, t.e. 327, Popis prebivalstva 31. 3. 1931, Miklošičeva c. - Mivka</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:14/enota:421</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 3. 1931, Ljubljana, Mivka 28,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:25316">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Ljubljana</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 3. 1931</TITLE>
+        <TITLE titleType="Title" lang="slv">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="slv">Mivka 28</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 March 1931</TITLE>
+        <TITLE titleType="Title" lang="eng">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="eng">Mivka 28</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1931</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1931</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/327/Mivka 28</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1931-03-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1931</YEAR>
+        <DATETIME_ADDED>2014-04-03 20:54:25</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-04-03 20:54:25</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="LJU_504_327_mivka_28.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>25315</ID>
+        <URN>11686/25315</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1931</DATE>
+        <MENU_ID id="564">SI_ZAL_LJU/0504, t.e. 327, Popis prebivalstva 31. 3. 1931, Miklošičeva c. - Mivka</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:14/enota:420</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 3. 1931, Ljubljana, Mivka 23,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:25315">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Ljubljana</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 3. 1931</TITLE>
+        <TITLE titleType="Title" lang="slv">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="slv">Mivka 23</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 March 1931</TITLE>
+        <TITLE titleType="Title" lang="eng">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="eng">Mivka 23</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1931</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1931</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/327/Mivka 23</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1931-03-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1931</YEAR>
+        <DATETIME_ADDED>2014-04-03 20:54:20</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-04-03 20:54:20</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="LJU_504_327_mivka_23.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>25314</ID>
+        <URN>11686/25314</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1931</DATE>
+        <MENU_ID id="564">SI_ZAL_LJU/0504, t.e. 327, Popis prebivalstva 31. 3. 1931, Miklošičeva c. - Mivka</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:14/enota:419</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 3. 1931, Ljubljana, Mivka 2,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:25314">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Ljubljana</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 3. 1931</TITLE>
+        <TITLE titleType="Title" lang="slv">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="slv">Mivka 2</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 March 1931</TITLE>
+        <TITLE titleType="Title" lang="eng">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="eng">Mivka 2</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1931</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1931</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/327/Mivka 2</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1931-03-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1931</YEAR>
+        <DATETIME_ADDED>2014-04-03 20:54:17</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-04-03 20:54:17</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="LJU_504_327_mivka_2.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>25313</ID>
+        <URN>11686/25313</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1931</DATE>
+        <MENU_ID id="564">SI_ZAL_LJU/0504, t.e. 327, Popis prebivalstva 31. 3. 1931, Miklošičeva c. - Mivka</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:14/enota:418</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 3. 1931, Ljubljana, Mivka 12,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:25313">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Ljubljana</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 3. 1931</TITLE>
+        <TITLE titleType="Title" lang="slv">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="slv">Mivka 12</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 March 1931</TITLE>
+        <TITLE titleType="Title" lang="eng">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="eng">Mivka 12</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1931</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1931</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/327/Mivka 12</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1931-03-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1931</YEAR>
+        <DATETIME_ADDED>2014-04-03 20:54:11</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-04-03 20:54:11</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="LJU_504_327_mivka_12.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>25312</ID>
+        <URN>11686/25312</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1931</DATE>
+        <MENU_ID id="564">SI_ZAL_LJU/0504, t.e. 327, Popis prebivalstva 31. 3. 1931, Miklošičeva c. - Mivka</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:14/enota:417</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 3. 1931, Ljubljana, Mivka 11,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:25312">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Ljubljana</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 3. 1931</TITLE>
+        <TITLE titleType="Title" lang="slv">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="slv">Mivka 11</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 March 1931</TITLE>
+        <TITLE titleType="Title" lang="eng">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="eng">Mivka 11</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1931</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1931</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/327/Mivka 11</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1931-03-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1931</YEAR>
+        <DATETIME_ADDED>2014-04-03 20:54:07</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-04-03 20:54:07</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="LJU_504_327_mivka_11.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>25311</ID>
+        <URN>11686/25311</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1931</DATE>
+        <MENU_ID id="564">SI_ZAL_LJU/0504, t.e. 327, Popis prebivalstva 31. 3. 1931, Miklošičeva c. - Mivka</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:14/enota:416</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 3. 1931, Ljubljana, Mišičeva cesta 6,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:25311">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Ljubljana</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 3. 1931</TITLE>
+        <TITLE titleType="Title" lang="slv">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="slv">Mišičeva cesta 6</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 March 1931</TITLE>
+        <TITLE titleType="Title" lang="eng">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="eng">Mišičeva cesta 6</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1931</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1931</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/327/Mišičeva cesta 6</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1931-03-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1931</YEAR>
+        <DATETIME_ADDED>2014-04-03 20:54:03</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-04-03 20:54:03</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="LJU_504_327_misiceva_cesta_6.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>25310</ID>
+        <URN>11686/25310</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1931</DATE>
+        <MENU_ID id="564">SI_ZAL_LJU/0504, t.e. 327, Popis prebivalstva 31. 3. 1931, Miklošičeva c. - Mivka</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:14/enota:415</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 3. 1931, Ljubljana, Mišičeva cesta 4,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:25310">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Ljubljana</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 3. 1931</TITLE>
+        <TITLE titleType="Title" lang="slv">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="slv">Mišičeva cesta 4</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 March 1931</TITLE>
+        <TITLE titleType="Title" lang="eng">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="eng">Mišičeva cesta 4</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1931</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1931</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/327/Mišičeva cesta 4</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1931-03-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1931</YEAR>
+        <DATETIME_ADDED>2014-04-03 20:54:00</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-04-03 20:54:00</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="LJU_504_327_misiceva_cesta_4.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>25309</ID>
+        <URN>11686/25309</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1931</DATE>
+        <MENU_ID id="564">SI_ZAL_LJU/0504, t.e. 327, Popis prebivalstva 31. 3. 1931, Miklošičeva c. - Mivka</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:14/enota:414</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 3. 1931, Ljubljana, Mišičeva cesta 2b,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:25309">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Ljubljana</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 3. 1931</TITLE>
+        <TITLE titleType="Title" lang="slv">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="slv">Mišičeva cesta 2b</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 March 1931</TITLE>
+        <TITLE titleType="Title" lang="eng">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="eng">Mišičeva cesta 2b</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1931</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1931</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/327/Mišičeva cesta 2b</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1931-03-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1931</YEAR>
+        <DATETIME_ADDED>2014-04-03 20:53:57</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-04-03 20:53:57</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="LJU_504_327_misiceva_cesta_2b.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>25308</ID>
+        <URN>11686/25308</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1931</DATE>
+        <MENU_ID id="564">SI_ZAL_LJU/0504, t.e. 327, Popis prebivalstva 31. 3. 1931, Miklošičeva c. - Mivka</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:14/enota:413</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 3. 1931, Ljubljana, Mišičeva cesta 23,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:25308">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Ljubljana</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 3. 1931</TITLE>
+        <TITLE titleType="Title" lang="slv">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="slv">Mišičeva cesta 23</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 March 1931</TITLE>
+        <TITLE titleType="Title" lang="eng">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="eng">Mišičeva cesta 23</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1931</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1931</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/327/Mišičeva cesta 23</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1931-03-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1931</YEAR>
+        <DATETIME_ADDED>2014-04-03 20:53:53</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-04-03 20:53:53</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="LJU_504_327_misiceva_cesta_23.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>25307</ID>
+        <URN>11686/25307</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1931</DATE>
+        <MENU_ID id="564">SI_ZAL_LJU/0504, t.e. 327, Popis prebivalstva 31. 3. 1931, Miklošičeva c. - Mivka</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:14/enota:412</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 3. 1931, Ljubljana, Mišičeva cesta 21,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:25307">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Ljubljana</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 3. 1931</TITLE>
+        <TITLE titleType="Title" lang="slv">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="slv">Mišičeva cesta 21</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 March 1931</TITLE>
+        <TITLE titleType="Title" lang="eng">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="eng">Mišičeva cesta 21</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1931</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1931</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/327/Mišičeva cesta 21</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1931-03-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1931</YEAR>
+        <DATETIME_ADDED>2014-04-03 20:53:47</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-04-03 20:53:47</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="LJU_504_327_misiceva_cesta_21.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>25306</ID>
+        <URN>11686/25306</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1931</DATE>
+        <MENU_ID id="564">SI_ZAL_LJU/0504, t.e. 327, Popis prebivalstva 31. 3. 1931, Miklošičeva c. - Mivka</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:14/enota:411</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 3. 1931, Ljubljana, Mišičeva cesta 2,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:25306">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Ljubljana</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 3. 1931</TITLE>
+        <TITLE titleType="Title" lang="slv">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="slv">Mišičeva cesta 2</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 March 1931</TITLE>
+        <TITLE titleType="Title" lang="eng">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="eng">Mišičeva cesta 2</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1931</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1931</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/327/Mišičeva cesta 2</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1931-03-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1931</YEAR>
+        <DATETIME_ADDED>2014-04-03 20:53:44</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-04-03 20:53:44</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="LJU_504_327_misiceva_cesta_2.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>25305</ID>
+        <URN>11686/25305</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1931</DATE>
+        <MENU_ID id="564">SI_ZAL_LJU/0504, t.e. 327, Popis prebivalstva 31. 3. 1931, Miklošičeva c. - Mivka</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:14/enota:410</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 3. 1931, Ljubljana, Mirje 9,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:25305">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Ljubljana</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 3. 1931</TITLE>
+        <TITLE titleType="Title" lang="slv">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="slv">Mirje 9</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 March 1931</TITLE>
+        <TITLE titleType="Title" lang="eng">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="eng">Mirje 9</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1931</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1931</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/327/Mirje 9</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1931-03-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1931</YEAR>
+        <DATETIME_ADDED>2014-04-03 20:53:41</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-04-03 20:53:41</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="LJU_504_327_mirje_9.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>25304</ID>
+        <URN>11686/25304</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1931</DATE>
+        <MENU_ID id="564">SI_ZAL_LJU/0504, t.e. 327, Popis prebivalstva 31. 3. 1931, Miklošičeva c. - Mivka</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:14/enota:409</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 3. 1931, Ljubljana, Mirje 6,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:25304">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Ljubljana</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 3. 1931</TITLE>
+        <TITLE titleType="Title" lang="slv">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="slv">Mirje 6</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 March 1931</TITLE>
+        <TITLE titleType="Title" lang="eng">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="eng">Mirje 6</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1931</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1931</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/327/Mirje 6</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1931-03-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1931</YEAR>
+        <DATETIME_ADDED>2014-04-03 20:53:37</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-04-03 20:53:37</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="LJU_504_327_mirje_6.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>25303</ID>
+        <URN>11686/25303</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1931</DATE>
+        <MENU_ID id="564">SI_ZAL_LJU/0504, t.e. 327, Popis prebivalstva 31. 3. 1931, Miklošičeva c. - Mivka</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:14/enota:408</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 3. 1931, Ljubljana, Mirje 4,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:25303">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Ljubljana</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 3. 1931</TITLE>
+        <TITLE titleType="Title" lang="slv">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="slv">Mirje 4</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 March 1931</TITLE>
+        <TITLE titleType="Title" lang="eng">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="eng">Mirje 4</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1931</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1931</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/327/Mirje 4</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1931-03-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1931</YEAR>
+        <DATETIME_ADDED>2014-04-03 20:53:34</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-04-03 20:53:34</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="LJU_504_327_mirje_4.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>25302</ID>
+        <URN>11686/25302</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1931</DATE>
+        <MENU_ID id="564">SI_ZAL_LJU/0504, t.e. 327, Popis prebivalstva 31. 3. 1931, Miklošičeva c. - Mivka</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:14/enota:407</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 3. 1931, Ljubljana, Mirje 27,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:25302">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Ljubljana</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 3. 1931</TITLE>
+        <TITLE titleType="Title" lang="slv">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="slv">Mirje 27</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 March 1931</TITLE>
+        <TITLE titleType="Title" lang="eng">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="eng">Mirje 27</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1931</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1931</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/327/Mirje 27</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1931-03-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1931</YEAR>
+        <DATETIME_ADDED>2014-04-03 20:53:31</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-04-03 20:53:31</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="LJU_504_327_mirje_27.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>25301</ID>
+        <URN>11686/25301</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1931</DATE>
+        <MENU_ID id="564">SI_ZAL_LJU/0504, t.e. 327, Popis prebivalstva 31. 3. 1931, Miklošičeva c. - Mivka</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:14/enota:406</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 3. 1931, Ljubljana, Mirje 25,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:25301">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Ljubljana</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 3. 1931</TITLE>
+        <TITLE titleType="Title" lang="slv">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="slv">Mirje 25</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 March 1931</TITLE>
+        <TITLE titleType="Title" lang="eng">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="eng">Mirje 25</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1931</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1931</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/327/Mirje 25</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1931-03-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1931</YEAR>
+        <DATETIME_ADDED>2014-04-03 20:53:27</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-04-03 20:53:27</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="LJU_504_327_mirje_25.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>25300</ID>
+        <URN>11686/25300</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1931</DATE>
+        <MENU_ID id="564">SI_ZAL_LJU/0504, t.e. 327, Popis prebivalstva 31. 3. 1931, Miklošičeva c. - Mivka</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:14/enota:405</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 3. 1931, Ljubljana, Mirje 23,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:25300">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Ljubljana</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 3. 1931</TITLE>
+        <TITLE titleType="Title" lang="slv">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="slv">Mirje 23</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 March 1931</TITLE>
+        <TITLE titleType="Title" lang="eng">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="eng">Mirje 23</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1931</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1931</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/327/Mirje 23</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1931-03-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1931</YEAR>
+        <DATETIME_ADDED>2014-04-03 20:53:24</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-04-03 20:53:24</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="LJU_504_327_mirje_23.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>25299</ID>
+        <URN>11686/25299</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1931</DATE>
+        <MENU_ID id="564">SI_ZAL_LJU/0504, t.e. 327, Popis prebivalstva 31. 3. 1931, Miklošičeva c. - Mivka</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:14/enota:404</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 3. 1931, Ljubljana, Mirje 21,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:25299">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Ljubljana</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 3. 1931</TITLE>
+        <TITLE titleType="Title" lang="slv">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="slv">Mirje 21</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 March 1931</TITLE>
+        <TITLE titleType="Title" lang="eng">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="eng">Mirje 21</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1931</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1931</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/327/Mirje 21</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1931-03-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1931</YEAR>
+        <DATETIME_ADDED>2014-04-03 20:53:21</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-04-03 20:53:21</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="LJU_504_327_mirje_21.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>25298</ID>
+        <URN>11686/25298</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1931</DATE>
+        <MENU_ID id="564">SI_ZAL_LJU/0504, t.e. 327, Popis prebivalstva 31. 3. 1931, Miklošičeva c. - Mivka</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:14/enota:403</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 3. 1931, Ljubljana, Mirje 2,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:25298">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Ljubljana</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 3. 1931</TITLE>
+        <TITLE titleType="Title" lang="slv">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="slv">Mirje 2</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 March 1931</TITLE>
+        <TITLE titleType="Title" lang="eng">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="eng">Mirje 2</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1931</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1931</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/327/Mirje 2</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1931-03-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1931</YEAR>
+        <DATETIME_ADDED>2014-04-03 20:53:18</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-04-03 20:53:18</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="LJU_504_327_mirje_2.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>25297</ID>
+        <URN>11686/25297</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1931</DATE>
+        <MENU_ID id="564">SI_ZAL_LJU/0504, t.e. 327, Popis prebivalstva 31. 3. 1931, Miklošičeva c. - Mivka</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:14/enota:402</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 3. 1931, Ljubljana, Mirje 13,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:25297">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Ljubljana</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 3. 1931</TITLE>
+        <TITLE titleType="Title" lang="slv">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="slv">Mirje 13</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 March 1931</TITLE>
+        <TITLE titleType="Title" lang="eng">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="eng">Mirje 13</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1931</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1931</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/327/Mirje 13</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1931-03-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1931</YEAR>
+        <DATETIME_ADDED>2014-04-03 20:53:15</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-04-03 20:53:15</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="LJU_504_327_mirje_13.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>25296</ID>
+        <URN>11686/25296</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1931</DATE>
+        <MENU_ID id="564">SI_ZAL_LJU/0504, t.e. 327, Popis prebivalstva 31. 3. 1931, Miklošičeva c. - Mivka</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:14/enota:401</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 3. 1931, Ljubljana, Mirje 11,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:25296">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Ljubljana</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 3. 1931</TITLE>
+        <TITLE titleType="Title" lang="slv">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="slv">Mirje 11</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 March 1931</TITLE>
+        <TITLE titleType="Title" lang="eng">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="eng">Mirje 11</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1931</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1931</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/327/Mirje 11</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1931-03-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1931</YEAR>
+        <DATETIME_ADDED>2014-04-03 20:53:12</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-04-03 20:53:12</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="LJU_504_327_mirje_11.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>25295</ID>
+        <URN>11686/25295</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1931</DATE>
+        <MENU_ID id="564">SI_ZAL_LJU/0504, t.e. 327, Popis prebivalstva 31. 3. 1931, Miklošičeva c. - Mivka</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:14/enota:400</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 3. 1931, Ljubljana, Mirje 1,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:25295">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Ljubljana</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 3. 1931</TITLE>
+        <TITLE titleType="Title" lang="slv">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="slv">Mirje 1</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 March 1931</TITLE>
+        <TITLE titleType="Title" lang="eng">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="eng">Mirje 1</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1931</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1931</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/327/Mirje 1</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1931-03-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1931</YEAR>
+        <DATETIME_ADDED>2014-04-03 20:53:08</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-04-03 20:53:08</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="LJU_504_327_mirje_1.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>25294</ID>
+        <URN>11686/25294</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1931</DATE>
+        <MENU_ID id="564">SI_ZAL_LJU/0504, t.e. 327, Popis prebivalstva 31. 3. 1931, Miklošičeva c. - Mivka</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:14/enota:399</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 3. 1931, Ljubljana, Miklošičeva cesta NN1,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:25294">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Ljubljana</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 3. 1931</TITLE>
+        <TITLE titleType="Title" lang="slv">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="slv">Miklošičeva cesta NN1</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 March 1931</TITLE>
+        <TITLE titleType="Title" lang="eng">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="eng">Miklošičeva cesta NN1</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1931</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1931</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/327/Miklošičeva cesta NN1</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1931-03-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1931</YEAR>
+        <DATETIME_ADDED>2014-04-03 20:53:04</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-04-03 20:53:04</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="LJU_504_327_miklosiceva_cesta_NN1.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>25293</ID>
+        <URN>11686/25293</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1931</DATE>
+        <MENU_ID id="564">SI_ZAL_LJU/0504, t.e. 327, Popis prebivalstva 31. 3. 1931, Miklošičeva c. - Mivka</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:14/enota:398</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 3. 1931, Ljubljana, Miklošičeva cesta 9,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:25293">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Ljubljana</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 3. 1931</TITLE>
+        <TITLE titleType="Title" lang="slv">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="slv">Miklošičeva cesta 9</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 March 1931</TITLE>
+        <TITLE titleType="Title" lang="eng">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="eng">Miklošičeva cesta 9</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1931</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1931</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/327/Miklošičeva cesta 9</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1931-03-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1931</YEAR>
+        <DATETIME_ADDED>2014-04-03 20:52:59</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-04-03 20:52:59</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="LJU_504_327_miklosiceva_cesta_9.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>25292</ID>
+        <URN>11686/25292</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1931</DATE>
+        <MENU_ID id="564">SI_ZAL_LJU/0504, t.e. 327, Popis prebivalstva 31. 3. 1931, Miklošičeva c. - Mivka</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:14/enota:397</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 3. 1931, Ljubljana, Miklošičeva cesta 8,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:25292">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Ljubljana</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 3. 1931</TITLE>
+        <TITLE titleType="Title" lang="slv">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="slv">Miklošičeva cesta 8</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 March 1931</TITLE>
+        <TITLE titleType="Title" lang="eng">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="eng">Miklošičeva cesta 8</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1931</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1931</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/327/Miklošičeva cesta 8</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1931-03-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1931</YEAR>
+        <DATETIME_ADDED>2014-04-03 20:52:54</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-04-03 20:52:54</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="LJU_504_327_miklosiceva_cesta_8.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>25291</ID>
+        <URN>11686/25291</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1931</DATE>
+        <MENU_ID id="564">SI_ZAL_LJU/0504, t.e. 327, Popis prebivalstva 31. 3. 1931, Miklošičeva c. - Mivka</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:14/enota:396</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 3. 1931, Ljubljana, Miklošičeva cesta 7,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:25291">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Ljubljana</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 3. 1931</TITLE>
+        <TITLE titleType="Title" lang="slv">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="slv">Miklošičeva cesta 7</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 March 1931</TITLE>
+        <TITLE titleType="Title" lang="eng">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="eng">Miklošičeva cesta 7</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1931</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1931</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/327/Miklošičeva cesta 7</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1931-03-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1931</YEAR>
+        <DATETIME_ADDED>2014-04-03 20:52:49</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-04-03 20:52:49</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="LJU_504_327_miklosiceva_cesta_7.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>25290</ID>
+        <URN>11686/25290</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1931</DATE>
+        <MENU_ID id="564">SI_ZAL_LJU/0504, t.e. 327, Popis prebivalstva 31. 3. 1931, Miklošičeva c. - Mivka</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:14/enota:395</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 3. 1931, Ljubljana, Miklošičeva cesta 6,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:25290">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Ljubljana</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 3. 1931</TITLE>
+        <TITLE titleType="Title" lang="slv">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="slv">Miklošičeva cesta 6</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 March 1931</TITLE>
+        <TITLE titleType="Title" lang="eng">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="eng">Miklošičeva cesta 6</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1931</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1931</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/327/Miklošičeva cesta 6</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1931-03-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1931</YEAR>
+        <DATETIME_ADDED>2014-04-03 20:52:42</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-04-03 20:52:42</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="LJU_504_327_miklosiceva_cesta_6.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>25289</ID>
+        <URN>11686/25289</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1931</DATE>
+        <MENU_ID id="564">SI_ZAL_LJU/0504, t.e. 327, Popis prebivalstva 31. 3. 1931, Miklošičeva c. - Mivka</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:14/enota:394</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 3. 1931, Ljubljana, Miklošičeva cesta 5,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:25289">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Ljubljana</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 3. 1931</TITLE>
+        <TITLE titleType="Title" lang="slv">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="slv">Miklošičeva cesta 5</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 March 1931</TITLE>
+        <TITLE titleType="Title" lang="eng">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="eng">Miklošičeva cesta 5</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1931</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1931</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/327/Miklošičeva cesta 5</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1931-03-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1931</YEAR>
+        <DATETIME_ADDED>2014-04-03 20:52:38</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-04-03 20:52:38</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="LJU_504_327_miklosiceva_cesta_5.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>25288</ID>
+        <URN>11686/25288</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1931</DATE>
+        <MENU_ID id="564">SI_ZAL_LJU/0504, t.e. 327, Popis prebivalstva 31. 3. 1931, Miklošičeva c. - Mivka</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:14/enota:393</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 3. 1931, Ljubljana, Miklošičeva cesta 4,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:25288">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Ljubljana</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 3. 1931</TITLE>
+        <TITLE titleType="Title" lang="slv">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="slv">Miklošičeva cesta 4</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 March 1931</TITLE>
+        <TITLE titleType="Title" lang="eng">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="eng">Miklošičeva cesta 4</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1931</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1931</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/327/Miklošičeva cesta 4</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1931-03-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1931</YEAR>
+        <DATETIME_ADDED>2014-04-03 20:52:34</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-04-03 20:52:34</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="LJU_504_327_miklosiceva_cesta_4.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>25287</ID>
+        <URN>11686/25287</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1931</DATE>
+        <MENU_ID id="564">SI_ZAL_LJU/0504, t.e. 327, Popis prebivalstva 31. 3. 1931, Miklošičeva c. - Mivka</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:14/enota:392</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 3. 1931, Ljubljana, Miklošičeva cesta 36,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:25287">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Ljubljana</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 3. 1931</TITLE>
+        <TITLE titleType="Title" lang="slv">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="slv">Miklošičeva cesta 36</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 March 1931</TITLE>
+        <TITLE titleType="Title" lang="eng">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="eng">Miklošičeva cesta 36</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1931</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1931</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/327/Miklošičeva cesta 36</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1931-03-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1931</YEAR>
+        <DATETIME_ADDED>2014-04-03 20:52:30</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-04-03 20:52:30</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="LJU_504_327_miklosiceva_cesta_36.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>25286</ID>
+        <URN>11686/25286</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1931</DATE>
+        <MENU_ID id="564">SI_ZAL_LJU/0504, t.e. 327, Popis prebivalstva 31. 3. 1931, Miklošičeva c. - Mivka</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:14/enota:391</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 3. 1931, Ljubljana, Miklošičeva cesta 34,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:25286">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Ljubljana</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 3. 1931</TITLE>
+        <TITLE titleType="Title" lang="slv">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="slv">Miklošičeva cesta 34</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 March 1931</TITLE>
+        <TITLE titleType="Title" lang="eng">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="eng">Miklošičeva cesta 34</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1931</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1931</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/327/Miklošičeva cesta 34</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1931-03-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1931</YEAR>
+        <DATETIME_ADDED>2014-04-03 20:52:23</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-04-03 20:52:23</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="LJU_504_327_miklosiceva_cesta_34.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>25285</ID>
+        <URN>11686/25285</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1931</DATE>
+        <MENU_ID id="564">SI_ZAL_LJU/0504, t.e. 327, Popis prebivalstva 31. 3. 1931, Miklošičeva c. - Mivka</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:14/enota:390</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 3. 1931, Ljubljana, Miklošičeva cesta 30,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:25285">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Ljubljana</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 3. 1931</TITLE>
+        <TITLE titleType="Title" lang="slv">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="slv">Miklošičeva cesta 30</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 March 1931</TITLE>
+        <TITLE titleType="Title" lang="eng">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="eng">Miklošičeva cesta 30</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1931</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1931</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/327/Miklošičeva cesta 30</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1931-03-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1931</YEAR>
+        <DATETIME_ADDED>2014-04-03 20:52:19</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-04-03 20:52:19</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="LJU_504_327_miklosiceva_cesta_30.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>25284</ID>
+        <URN>11686/25284</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1931</DATE>
+        <MENU_ID id="564">SI_ZAL_LJU/0504, t.e. 327, Popis prebivalstva 31. 3. 1931, Miklošičeva c. - Mivka</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:14/enota:389</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 3. 1931, Ljubljana, Miklošičeva cesta 3,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:25284">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Ljubljana</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 3. 1931</TITLE>
+        <TITLE titleType="Title" lang="slv">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="slv">Miklošičeva cesta 3</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 March 1931</TITLE>
+        <TITLE titleType="Title" lang="eng">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="eng">Miklošičeva cesta 3</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1931</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1931</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/327/Miklošičeva cesta 3</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1931-03-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1931</YEAR>
+        <DATETIME_ADDED>2014-04-03 20:52:16</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-04-03 20:52:16</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="LJU_504_327_miklosiceva_cesta_3.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>25283</ID>
+        <URN>11686/25283</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1931</DATE>
+        <MENU_ID id="564">SI_ZAL_LJU/0504, t.e. 327, Popis prebivalstva 31. 3. 1931, Miklošičeva c. - Mivka</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:14/enota:388</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 3. 1931, Ljubljana, Miklošičeva cesta 28,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:25283">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Ljubljana</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 3. 1931</TITLE>
+        <TITLE titleType="Title" lang="slv">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="slv">Miklošičeva cesta 28</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 March 1931</TITLE>
+        <TITLE titleType="Title" lang="eng">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="eng">Miklošičeva cesta 28</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1931</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1931</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/327/Miklošičeva cesta 28</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1931-03-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1931</YEAR>
+        <DATETIME_ADDED>2014-04-03 20:52:12</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-04-03 20:52:12</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="LJU_504_327_miklosiceva_cesta_28.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>25282</ID>
+        <URN>11686/25282</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1931</DATE>
+        <MENU_ID id="564">SI_ZAL_LJU/0504, t.e. 327, Popis prebivalstva 31. 3. 1931, Miklošičeva c. - Mivka</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:14/enota:387</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 3. 1931, Ljubljana, Miklošičeva cesta 26,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:25282">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Ljubljana</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 3. 1931</TITLE>
+        <TITLE titleType="Title" lang="slv">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="slv">Miklošičeva cesta 26</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 March 1931</TITLE>
+        <TITLE titleType="Title" lang="eng">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="eng">Miklošičeva cesta 26</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1931</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1931</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/327/Miklošičeva cesta 26</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1931-03-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1931</YEAR>
+        <DATETIME_ADDED>2014-04-03 20:52:08</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-04-03 20:52:08</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="LJU_504_327_miklosiceva_cesta_26.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>25281</ID>
+        <URN>11686/25281</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1931</DATE>
+        <MENU_ID id="564">SI_ZAL_LJU/0504, t.e. 327, Popis prebivalstva 31. 3. 1931, Miklošičeva c. - Mivka</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:14/enota:386</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 3. 1931, Ljubljana, Miklošičeva cesta 24,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:25281">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Ljubljana</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 3. 1931</TITLE>
+        <TITLE titleType="Title" lang="slv">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="slv">Miklošičeva cesta 24</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 March 1931</TITLE>
+        <TITLE titleType="Title" lang="eng">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="eng">Miklošičeva cesta 24</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1931</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1931</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/327/Miklošičeva cesta 24</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1931-03-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1931</YEAR>
+        <DATETIME_ADDED>2014-04-03 20:52:04</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-04-03 20:52:04</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="LJU_504_327_miklosiceva_cesta_24.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>25280</ID>
+        <URN>11686/25280</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1931</DATE>
+        <MENU_ID id="564">SI_ZAL_LJU/0504, t.e. 327, Popis prebivalstva 31. 3. 1931, Miklošičeva c. - Mivka</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:14/enota:385</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 3. 1931, Ljubljana, Miklošičeva cesta 22,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:25280">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Ljubljana</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 3. 1931</TITLE>
+        <TITLE titleType="Title" lang="slv">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="slv">Miklošičeva cesta 22</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 March 1931</TITLE>
+        <TITLE titleType="Title" lang="eng">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="eng">Miklošičeva cesta 22</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1931</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1931</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/327/Miklošičeva cesta 22</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1931-03-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1931</YEAR>
+        <DATETIME_ADDED>2014-04-03 20:51:59</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-04-03 20:51:59</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="LJU_504_327_miklosiceva_cesta_22.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>25279</ID>
+        <URN>11686/25279</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1931</DATE>
+        <MENU_ID id="564">SI_ZAL_LJU/0504, t.e. 327, Popis prebivalstva 31. 3. 1931, Miklošičeva c. - Mivka</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:14/enota:384</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 3. 1931, Ljubljana, Miklošičeva cesta 20,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:25279">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Ljubljana</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 3. 1931</TITLE>
+        <TITLE titleType="Title" lang="slv">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="slv">Miklošičeva cesta 20</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 March 1931</TITLE>
+        <TITLE titleType="Title" lang="eng">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="eng">Miklošičeva cesta 20</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1931</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1931</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/327/Miklošičeva cesta 20</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1931-03-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1931</YEAR>
+        <DATETIME_ADDED>2014-04-03 20:51:53</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-04-03 20:51:53</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="LJU_504_327_miklosiceva_cesta_20.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>25278</ID>
+        <URN>11686/25278</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1931</DATE>
+        <MENU_ID id="564">SI_ZAL_LJU/0504, t.e. 327, Popis prebivalstva 31. 3. 1931, Miklošičeva c. - Mivka</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:14/enota:383</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 3. 1931, Ljubljana, Miklošičeva cesta 18,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:25278">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Ljubljana</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 3. 1931</TITLE>
+        <TITLE titleType="Title" lang="slv">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="slv">Miklošičeva cesta 18</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 March 1931</TITLE>
+        <TITLE titleType="Title" lang="eng">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="eng">Miklošičeva cesta 18</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1931</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1931</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/327/Miklošičeva cesta 18</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1931-03-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1931</YEAR>
+        <DATETIME_ADDED>2014-04-03 20:51:48</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-04-03 20:51:48</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="LJU_504_327_miklosiceva_cesta_18.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>25277</ID>
+        <URN>11686/25277</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1931</DATE>
+        <MENU_ID id="564">SI_ZAL_LJU/0504, t.e. 327, Popis prebivalstva 31. 3. 1931, Miklošičeva c. - Mivka</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:14/enota:382</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 3. 1931, Ljubljana, Miklošičeva cesta 16,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:25277">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Ljubljana</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 3. 1931</TITLE>
+        <TITLE titleType="Title" lang="slv">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="slv">Miklošičeva cesta 16</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 March 1931</TITLE>
+        <TITLE titleType="Title" lang="eng">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="eng">Miklošičeva cesta 16</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1931</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1931</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/327/Miklošičeva cesta 16</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1931-03-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1931</YEAR>
+        <DATETIME_ADDED>2014-04-03 20:51:44</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-04-03 20:51:44</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="LJU_504_327_miklosiceva_cesta_16.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>25276</ID>
+        <URN>11686/25276</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1931</DATE>
+        <MENU_ID id="564">SI_ZAL_LJU/0504, t.e. 327, Popis prebivalstva 31. 3. 1931, Miklošičeva c. - Mivka</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:14/enota:381</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 3. 1931, Ljubljana, Miklošičeva cesta 15,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:25276">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Ljubljana</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 3. 1931</TITLE>
+        <TITLE titleType="Title" lang="slv">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="slv">Miklošičeva cesta 15</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 March 1931</TITLE>
+        <TITLE titleType="Title" lang="eng">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="eng">Miklošičeva cesta 15</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1931</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1931</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/327/Miklošičeva cesta 15</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1931-03-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1931</YEAR>
+        <DATETIME_ADDED>2014-04-03 20:51:36</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-04-03 20:51:36</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="LJU_504_327_miklosiceva_cesta_15.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>25275</ID>
+        <URN>11686/25275</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1931</DATE>
+        <MENU_ID id="564">SI_ZAL_LJU/0504, t.e. 327, Popis prebivalstva 31. 3. 1931, Miklošičeva c. - Mivka</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:14/enota:380</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 3. 1931, Ljubljana, Miklošičeva cesta 14,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:25275">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Ljubljana</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 3. 1931</TITLE>
+        <TITLE titleType="Title" lang="slv">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="slv">Miklošičeva cesta 14</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 March 1931</TITLE>
+        <TITLE titleType="Title" lang="eng">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="eng">Miklošičeva cesta 14</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1931</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1931</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/327/Miklošičeva cesta 14</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1931-03-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1931</YEAR>
+        <DATETIME_ADDED>2014-04-03 20:51:32</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-04-03 20:51:32</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="LJU_504_327_miklosiceva_cesta_14.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>25274</ID>
+        <URN>11686/25274</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1931</DATE>
+        <MENU_ID id="564">SI_ZAL_LJU/0504, t.e. 327, Popis prebivalstva 31. 3. 1931, Miklošičeva c. - Mivka</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:14/enota:379</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 3. 1931, Ljubljana, Miklošičeva cesta 13,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:25274">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Ljubljana</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 3. 1931</TITLE>
+        <TITLE titleType="Title" lang="slv">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="slv">Miklošičeva cesta 13</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 March 1931</TITLE>
+        <TITLE titleType="Title" lang="eng">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="eng">Miklošičeva cesta 13</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1931</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1931</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/327/Miklošičeva cesta 13</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1931-03-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1931</YEAR>
+        <DATETIME_ADDED>2014-04-03 20:51:27</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-04-03 20:51:27</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="LJU_504_327_miklosiceva_cesta_13.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>25273</ID>
+        <URN>11686/25273</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1931</DATE>
+        <MENU_ID id="564">SI_ZAL_LJU/0504, t.e. 327, Popis prebivalstva 31. 3. 1931, Miklošičeva c. - Mivka</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:14/enota:378</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 3. 1931, Ljubljana, Miklošičeva cesta 11,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:25273">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Ljubljana</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 3. 1931</TITLE>
+        <TITLE titleType="Title" lang="slv">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="slv">Miklošičeva cesta 11</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 March 1931</TITLE>
+        <TITLE titleType="Title" lang="eng">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="eng">Miklošičeva cesta 11</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1931</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1931</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/327/Miklošičeva cesta 11</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1931-03-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1931</YEAR>
+        <DATETIME_ADDED>2014-04-03 20:51:23</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-04-03 20:51:23</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="LJU_504_327_miklosiceva_cesta_11.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>25272</ID>
+        <URN>11686/25272</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1931</DATE>
+        <MENU_ID id="564">SI_ZAL_LJU/0504, t.e. 327, Popis prebivalstva 31. 3. 1931, Miklošičeva c. - Mivka</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:14/enota:377</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 3. 1931, Ljubljana, Miklošičeva cesta 10,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:25272">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Ljubljana</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 3. 1931</TITLE>
+        <TITLE titleType="Title" lang="slv">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="slv">Miklošičeva cesta 10</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 March 1931</TITLE>
+        <TITLE titleType="Title" lang="eng">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="eng">Miklošičeva cesta 10</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1931</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1931</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/327/Miklošičeva cesta 10</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1931-03-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1931</YEAR>
+        <DATETIME_ADDED>2014-04-03 20:51:18</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-04-03 20:51:18</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="LJU_504_327_miklosiceva_cesta_10.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>25271</ID>
+        <URN>11686/25271</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1931</DATE>
+        <MENU_ID id="564">SI_ZAL_LJU/0504, t.e. 327, Popis prebivalstva 31. 3. 1931, Miklošičeva c. - Mivka</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:14/enota:376</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 3. 1931, Ljubljana, Miklošičeva cesta 1,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:25271">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Ljubljana</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 3. 1931</TITLE>
+        <TITLE titleType="Title" lang="slv">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="slv">Miklošičeva cesta 1</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 March 1931</TITLE>
+        <TITLE titleType="Title" lang="eng">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="eng">Miklošičeva cesta 1</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1931</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1931</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/327/Miklošičeva cesta 1</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1931-03-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1931</YEAR>
+        <DATETIME_ADDED>2014-04-03 20:51:11</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-04-03 20:51:11</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="LJU_504_327_miklosiceva_cesta_1.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+</root>

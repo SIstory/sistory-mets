@@ -1,0 +1,2048 @@
+<root>
+    <publication>
+        <ID>25558</ID>
+        <URN>11686/25558</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1931</DATE>
+        <MENU_ID id="568">SI_ZAL_LJU/0504, t.e. 331, Popis prebivalstva 31. 3. 1931, Poljanska c. št. 40-konca</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:14/enota:663</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 3. 1931, Ljubljana, Poljanska cesta 91,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:25558">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Ljubljana</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 3. 1931</TITLE>
+        <TITLE titleType="Title" lang="slv">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="slv">Poljanska cesta 91</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 March 1931</TITLE>
+        <TITLE titleType="Title" lang="eng">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="eng">Poljanska cesta 91</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1931</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1931</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/331/Poljanska cesta 91</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1931-03-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1931</YEAR>
+        <DATETIME_ADDED>2014-04-03 21:15:04</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-04-03 21:15:04</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="LJU_504_331_poljanska_cesta_91.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>25557</ID>
+        <URN>11686/25557</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1931</DATE>
+        <MENU_ID id="568">SI_ZAL_LJU/0504, t.e. 331, Popis prebivalstva 31. 3. 1931, Poljanska c. št. 40-konca</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:14/enota:662</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 3. 1931, Ljubljana, Poljanska cesta 89,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:25557">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Ljubljana</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 3. 1931</TITLE>
+        <TITLE titleType="Title" lang="slv">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="slv">Poljanska cesta 89</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 March 1931</TITLE>
+        <TITLE titleType="Title" lang="eng">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="eng">Poljanska cesta 89</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1931</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1931</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/331/Poljanska cesta 89</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1931-03-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1931</YEAR>
+        <DATETIME_ADDED>2014-04-03 21:15:01</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-04-03 21:15:01</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="LJU_504_331_poljanska_cesta_89.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>25556</ID>
+        <URN>11686/25556</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1931</DATE>
+        <MENU_ID id="568">SI_ZAL_LJU/0504, t.e. 331, Popis prebivalstva 31. 3. 1931, Poljanska c. št. 40-konca</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:14/enota:661</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 3. 1931, Ljubljana, Poljanska cesta 87,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:25556">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Ljubljana</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 3. 1931</TITLE>
+        <TITLE titleType="Title" lang="slv">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="slv">Poljanska cesta 87</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 March 1931</TITLE>
+        <TITLE titleType="Title" lang="eng">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="eng">Poljanska cesta 87</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1931</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1931</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/331/Poljanska cesta 87</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1931-03-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1931</YEAR>
+        <DATETIME_ADDED>2014-04-03 21:14:57</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-04-03 21:14:57</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="LJU_504_331_poljanska_cesta_87.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>25555</ID>
+        <URN>11686/25555</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1931</DATE>
+        <MENU_ID id="568">SI_ZAL_LJU/0504, t.e. 331, Popis prebivalstva 31. 3. 1931, Poljanska c. št. 40-konca</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:14/enota:660</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 3. 1931, Ljubljana, Poljanska cesta 85,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:25555">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Ljubljana</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 3. 1931</TITLE>
+        <TITLE titleType="Title" lang="slv">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="slv">Poljanska cesta 85</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 March 1931</TITLE>
+        <TITLE titleType="Title" lang="eng">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="eng">Poljanska cesta 85</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1931</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1931</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/331/Poljanska cesta 85</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1931-03-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1931</YEAR>
+        <DATETIME_ADDED>2014-04-03 21:14:53</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-04-03 21:14:53</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="LJU_504_331_poljanska_cesta_85.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>25554</ID>
+        <URN>11686/25554</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1931</DATE>
+        <MENU_ID id="568">SI_ZAL_LJU/0504, t.e. 331, Popis prebivalstva 31. 3. 1931, Poljanska c. št. 40-konca</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:14/enota:659</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 3. 1931, Ljubljana, Poljanska cesta 79,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:25554">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Ljubljana</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 3. 1931</TITLE>
+        <TITLE titleType="Title" lang="slv">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="slv">Poljanska cesta 79</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 March 1931</TITLE>
+        <TITLE titleType="Title" lang="eng">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="eng">Poljanska cesta 79</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1931</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1931</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/331/Poljanska cesta 79</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1931-03-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1931</YEAR>
+        <DATETIME_ADDED>2014-04-03 21:14:49</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-04-03 21:14:49</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="LJU_504_331_poljanska_cesta_79.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>25553</ID>
+        <URN>11686/25553</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1931</DATE>
+        <MENU_ID id="568">SI_ZAL_LJU/0504, t.e. 331, Popis prebivalstva 31. 3. 1931, Poljanska c. št. 40-konca</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:14/enota:658</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 3. 1931, Ljubljana, Poljanska cesta 77,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:25553">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Ljubljana</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 3. 1931</TITLE>
+        <TITLE titleType="Title" lang="slv">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="slv">Poljanska cesta 77</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 March 1931</TITLE>
+        <TITLE titleType="Title" lang="eng">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="eng">Poljanska cesta 77</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1931</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1931</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/331/Poljanska cesta 77</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1931-03-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1931</YEAR>
+        <DATETIME_ADDED>2014-04-03 21:14:42</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-04-03 21:14:42</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="LJU_504_331_poljanska_cesta_77.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>25552</ID>
+        <URN>11686/25552</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1931</DATE>
+        <MENU_ID id="568">SI_ZAL_LJU/0504, t.e. 331, Popis prebivalstva 31. 3. 1931, Poljanska c. št. 40-konca</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:14/enota:657</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 3. 1931, Ljubljana, Poljanska cesta 75,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:25552">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Ljubljana</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 3. 1931</TITLE>
+        <TITLE titleType="Title" lang="slv">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="slv">Poljanska cesta 75</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 March 1931</TITLE>
+        <TITLE titleType="Title" lang="eng">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="eng">Poljanska cesta 75</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1931</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1931</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/331/Poljanska cesta 75</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1931-03-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1931</YEAR>
+        <DATETIME_ADDED>2014-04-03 21:14:38</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-04-03 21:14:38</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="LJU_504_331_poljanska_cesta_75.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>25551</ID>
+        <URN>11686/25551</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1931</DATE>
+        <MENU_ID id="568">SI_ZAL_LJU/0504, t.e. 331, Popis prebivalstva 31. 3. 1931, Poljanska c. št. 40-konca</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:14/enota:656</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 3. 1931, Ljubljana, Poljanska cesta 73,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:25551">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Ljubljana</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 3. 1931</TITLE>
+        <TITLE titleType="Title" lang="slv">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="slv">Poljanska cesta 73</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 March 1931</TITLE>
+        <TITLE titleType="Title" lang="eng">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="eng">Poljanska cesta 73</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1931</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1931</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/331/Poljanska cesta 73</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1931-03-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1931</YEAR>
+        <DATETIME_ADDED>2014-04-03 21:14:31</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-04-03 21:14:31</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="LJU_504_331_poljanska_cesta_73.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>25550</ID>
+        <URN>11686/25550</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1931</DATE>
+        <MENU_ID id="568">SI_ZAL_LJU/0504, t.e. 331, Popis prebivalstva 31. 3. 1931, Poljanska c. št. 40-konca</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:14/enota:655</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 3. 1931, Ljubljana, Poljanska cesta 71,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:25550">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Ljubljana</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 3. 1931</TITLE>
+        <TITLE titleType="Title" lang="slv">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="slv">Poljanska cesta 71</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 March 1931</TITLE>
+        <TITLE titleType="Title" lang="eng">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="eng">Poljanska cesta 71</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1931</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1931</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/331/Poljanska cesta 71</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1931-03-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1931</YEAR>
+        <DATETIME_ADDED>2014-04-03 21:14:26</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-04-03 21:14:26</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="LJU_504_331_poljanska_cesta_71.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>25549</ID>
+        <URN>11686/25549</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1931</DATE>
+        <MENU_ID id="568">SI_ZAL_LJU/0504, t.e. 331, Popis prebivalstva 31. 3. 1931, Poljanska c. št. 40-konca</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:14/enota:654</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 3. 1931, Ljubljana, Poljanska cesta 70,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:25549">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Ljubljana</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 3. 1931</TITLE>
+        <TITLE titleType="Title" lang="slv">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="slv">Poljanska cesta 70</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 March 1931</TITLE>
+        <TITLE titleType="Title" lang="eng">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="eng">Poljanska cesta 70</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1931</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1931</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/331/Poljanska cesta 70</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1931-03-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1931</YEAR>
+        <DATETIME_ADDED>2014-04-03 21:14:23</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-04-03 21:14:23</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="LJU_504_331_poljanska_cesta_70.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>25548</ID>
+        <URN>11686/25548</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1931</DATE>
+        <MENU_ID id="568">SI_ZAL_LJU/0504, t.e. 331, Popis prebivalstva 31. 3. 1931, Poljanska c. št. 40-konca</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:14/enota:653</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 3. 1931, Ljubljana, Poljanska cesta 69,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:25548">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Ljubljana</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 3. 1931</TITLE>
+        <TITLE titleType="Title" lang="slv">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="slv">Poljanska cesta 69</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 March 1931</TITLE>
+        <TITLE titleType="Title" lang="eng">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="eng">Poljanska cesta 69</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1931</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1931</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/331/Poljanska cesta 69</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1931-03-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1931</YEAR>
+        <DATETIME_ADDED>2014-04-03 21:14:15</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-04-03 21:14:15</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="LJU_504_331_poljanska_cesta_69.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>25547</ID>
+        <URN>11686/25547</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1931</DATE>
+        <MENU_ID id="568">SI_ZAL_LJU/0504, t.e. 331, Popis prebivalstva 31. 3. 1931, Poljanska c. št. 40-konca</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:14/enota:652</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 3. 1931, Ljubljana, Poljanska cesta 68,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:25547">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Ljubljana</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 3. 1931</TITLE>
+        <TITLE titleType="Title" lang="slv">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="slv">Poljanska cesta 68</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 March 1931</TITLE>
+        <TITLE titleType="Title" lang="eng">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="eng">Poljanska cesta 68</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1931</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1931</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/331/Poljanska cesta 68</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1931-03-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1931</YEAR>
+        <DATETIME_ADDED>2014-04-03 21:14:11</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-04-03 21:14:11</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="LJU_504_331_poljanska_cesta_68.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>25546</ID>
+        <URN>11686/25546</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1931</DATE>
+        <MENU_ID id="568">SI_ZAL_LJU/0504, t.e. 331, Popis prebivalstva 31. 3. 1931, Poljanska c. št. 40-konca</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:14/enota:651</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 3. 1931, Ljubljana, Poljanska cesta 64,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:25546">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Ljubljana</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 3. 1931</TITLE>
+        <TITLE titleType="Title" lang="slv">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="slv">Poljanska cesta 64</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 March 1931</TITLE>
+        <TITLE titleType="Title" lang="eng">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="eng">Poljanska cesta 64</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1931</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1931</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/331/Poljanska cesta 64</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1931-03-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1931</YEAR>
+        <DATETIME_ADDED>2014-04-03 21:14:06</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-04-03 21:14:06</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="LJU_504_331_poljanska_cesta_64.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>25545</ID>
+        <URN>11686/25545</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1931</DATE>
+        <MENU_ID id="568">SI_ZAL_LJU/0504, t.e. 331, Popis prebivalstva 31. 3. 1931, Poljanska c. št. 40-konca</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:14/enota:650</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 3. 1931, Ljubljana, Poljanska cesta 62,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:25545">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Ljubljana</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 3. 1931</TITLE>
+        <TITLE titleType="Title" lang="slv">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="slv">Poljanska cesta 62</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 March 1931</TITLE>
+        <TITLE titleType="Title" lang="eng">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="eng">Poljanska cesta 62</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1931</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1931</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/331/Poljanska cesta 62</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1931-03-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1931</YEAR>
+        <DATETIME_ADDED>2014-04-03 21:14:01</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-04-03 21:14:01</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="LJU_504_331_poljanska_cesta_62.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>25544</ID>
+        <URN>11686/25544</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1931</DATE>
+        <MENU_ID id="568">SI_ZAL_LJU/0504, t.e. 331, Popis prebivalstva 31. 3. 1931, Poljanska c. št. 40-konca</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:14/enota:649</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 3. 1931, Ljubljana, Poljanska cesta 60,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:25544">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Ljubljana</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 3. 1931</TITLE>
+        <TITLE titleType="Title" lang="slv">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="slv">Poljanska cesta 60</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 March 1931</TITLE>
+        <TITLE titleType="Title" lang="eng">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="eng">Poljanska cesta 60</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1931</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1931</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/331/Poljanska cesta 60</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1931-03-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1931</YEAR>
+        <DATETIME_ADDED>2014-04-03 21:13:54</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-04-03 21:13:54</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="LJU_504_331_poljanska_cesta_60.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>25543</ID>
+        <URN>11686/25543</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1931</DATE>
+        <MENU_ID id="568">SI_ZAL_LJU/0504, t.e. 331, Popis prebivalstva 31. 3. 1931, Poljanska c. št. 40-konca</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:14/enota:648</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 3. 1931, Ljubljana, Poljanska cesta 59,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:25543">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Ljubljana</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 3. 1931</TITLE>
+        <TITLE titleType="Title" lang="slv">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="slv">Poljanska cesta 59</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 March 1931</TITLE>
+        <TITLE titleType="Title" lang="eng">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="eng">Poljanska cesta 59</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1931</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1931</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/331/Poljanska cesta 59</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1931-03-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1931</YEAR>
+        <DATETIME_ADDED>2014-04-03 21:13:49</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-04-03 21:13:49</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="LJU_504_331_poljanska_cesta_59.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>25542</ID>
+        <URN>11686/25542</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1931</DATE>
+        <MENU_ID id="568">SI_ZAL_LJU/0504, t.e. 331, Popis prebivalstva 31. 3. 1931, Poljanska c. št. 40-konca</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:14/enota:647</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 3. 1931, Ljubljana, Poljanska cesta 58,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:25542">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Ljubljana</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 3. 1931</TITLE>
+        <TITLE titleType="Title" lang="slv">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="slv">Poljanska cesta 58</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 March 1931</TITLE>
+        <TITLE titleType="Title" lang="eng">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="eng">Poljanska cesta 58</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1931</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1931</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/331/Poljanska cesta 58</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1931-03-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1931</YEAR>
+        <DATETIME_ADDED>2014-04-03 21:13:44</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-04-03 21:13:44</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="LJU_504_331_poljanska_cesta_58.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>25541</ID>
+        <URN>11686/25541</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1931</DATE>
+        <MENU_ID id="568">SI_ZAL_LJU/0504, t.e. 331, Popis prebivalstva 31. 3. 1931, Poljanska c. št. 40-konca</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:14/enota:646</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 3. 1931, Ljubljana, Poljanska cesta 55,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:25541">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Ljubljana</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 3. 1931</TITLE>
+        <TITLE titleType="Title" lang="slv">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="slv">Poljanska cesta 55</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 March 1931</TITLE>
+        <TITLE titleType="Title" lang="eng">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="eng">Poljanska cesta 55</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1931</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1931</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/331/Poljanska cesta 55</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1931-03-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1931</YEAR>
+        <DATETIME_ADDED>2014-04-03 21:13:39</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-04-03 21:13:39</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="LJU_504_331_poljanska_cesta_55.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>25540</ID>
+        <URN>11686/25540</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1931</DATE>
+        <MENU_ID id="568">SI_ZAL_LJU/0504, t.e. 331, Popis prebivalstva 31. 3. 1931, Poljanska c. št. 40-konca</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:14/enota:645</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 3. 1931, Ljubljana, Poljanska cesta 54,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:25540">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Ljubljana</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 3. 1931</TITLE>
+        <TITLE titleType="Title" lang="slv">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="slv">Poljanska cesta 54</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 March 1931</TITLE>
+        <TITLE titleType="Title" lang="eng">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="eng">Poljanska cesta 54</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1931</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1931</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/331/Poljanska cesta 54</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1931-03-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1931</YEAR>
+        <DATETIME_ADDED>2014-04-03 21:13:30</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-04-03 21:13:30</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="LJU_504_331_poljanska_cesta_54.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>25539</ID>
+        <URN>11686/25539</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1931</DATE>
+        <MENU_ID id="568">SI_ZAL_LJU/0504, t.e. 331, Popis prebivalstva 31. 3. 1931, Poljanska c. št. 40-konca</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:14/enota:644</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 3. 1931, Ljubljana, Poljanska cesta 53,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:25539">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Ljubljana</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 3. 1931</TITLE>
+        <TITLE titleType="Title" lang="slv">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="slv">Poljanska cesta 53</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 March 1931</TITLE>
+        <TITLE titleType="Title" lang="eng">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="eng">Poljanska cesta 53</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1931</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1931</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/331/Poljanska cesta 53</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1931-03-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1931</YEAR>
+        <DATETIME_ADDED>2014-04-03 21:13:25</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-04-03 21:13:25</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="LJU_504_331_poljanska_cesta_53.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>25538</ID>
+        <URN>11686/25538</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1931</DATE>
+        <MENU_ID id="568">SI_ZAL_LJU/0504, t.e. 331, Popis prebivalstva 31. 3. 1931, Poljanska c. št. 40-konca</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:14/enota:643</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 3. 1931, Ljubljana, Poljanska cesta 52,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:25538">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Ljubljana</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 3. 1931</TITLE>
+        <TITLE titleType="Title" lang="slv">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="slv">Poljanska cesta 52</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 March 1931</TITLE>
+        <TITLE titleType="Title" lang="eng">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="eng">Poljanska cesta 52</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1931</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1931</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/331/Poljanska cesta 52</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1931-03-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1931</YEAR>
+        <DATETIME_ADDED>2014-04-03 21:13:18</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-04-03 21:13:18</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="LJU_504_331_poljanska_cesta_52.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>25537</ID>
+        <URN>11686/25537</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1931</DATE>
+        <MENU_ID id="568">SI_ZAL_LJU/0504, t.e. 331, Popis prebivalstva 31. 3. 1931, Poljanska c. št. 40-konca</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:14/enota:642</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 3. 1931, Ljubljana, Poljanska cesta 51,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:25537">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Ljubljana</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 3. 1931</TITLE>
+        <TITLE titleType="Title" lang="slv">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="slv">Poljanska cesta 51</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 March 1931</TITLE>
+        <TITLE titleType="Title" lang="eng">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="eng">Poljanska cesta 51</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1931</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1931</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/331/Poljanska cesta 51</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1931-03-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1931</YEAR>
+        <DATETIME_ADDED>2014-04-03 21:13:12</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-04-03 21:13:12</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="LJU_504_331_poljanska_cesta_51.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>25536</ID>
+        <URN>11686/25536</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1931</DATE>
+        <MENU_ID id="568">SI_ZAL_LJU/0504, t.e. 331, Popis prebivalstva 31. 3. 1931, Poljanska c. št. 40-konca</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:14/enota:641</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 3. 1931, Ljubljana, Poljanska cesta 50,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:25536">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Ljubljana</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 3. 1931</TITLE>
+        <TITLE titleType="Title" lang="slv">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="slv">Poljanska cesta 50</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 March 1931</TITLE>
+        <TITLE titleType="Title" lang="eng">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="eng">Poljanska cesta 50</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1931</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1931</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/331/Poljanska cesta 50</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1931-03-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1931</YEAR>
+        <DATETIME_ADDED>2014-04-03 21:13:06</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-04-03 21:13:06</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="LJU_504_331_poljanska_cesta_50.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>25535</ID>
+        <URN>11686/25535</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1931</DATE>
+        <MENU_ID id="568">SI_ZAL_LJU/0504, t.e. 331, Popis prebivalstva 31. 3. 1931, Poljanska c. št. 40-konca</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:14/enota:640</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 3. 1931, Ljubljana, Poljanska cesta 49,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:25535">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Ljubljana</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 3. 1931</TITLE>
+        <TITLE titleType="Title" lang="slv">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="slv">Poljanska cesta 49</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 March 1931</TITLE>
+        <TITLE titleType="Title" lang="eng">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="eng">Poljanska cesta 49</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1931</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1931</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/331/Poljanska cesta 49</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1931-03-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1931</YEAR>
+        <DATETIME_ADDED>2014-04-03 21:12:58</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-04-03 21:12:58</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="LJU_504_331_poljanska_cesta_49.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>25534</ID>
+        <URN>11686/25534</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1931</DATE>
+        <MENU_ID id="568">SI_ZAL_LJU/0504, t.e. 331, Popis prebivalstva 31. 3. 1931, Poljanska c. št. 40-konca</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:14/enota:639</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 3. 1931, Ljubljana, Poljanska cesta 48,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:25534">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Ljubljana</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 3. 1931</TITLE>
+        <TITLE titleType="Title" lang="slv">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="slv">Poljanska cesta 48</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 March 1931</TITLE>
+        <TITLE titleType="Title" lang="eng">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="eng">Poljanska cesta 48</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1931</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1931</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/331/Poljanska cesta 48</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1931-03-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1931</YEAR>
+        <DATETIME_ADDED>2014-04-03 21:12:52</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-04-03 21:12:52</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="LJU_504_331_poljanska_cesta_48.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>25533</ID>
+        <URN>11686/25533</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1931</DATE>
+        <MENU_ID id="568">SI_ZAL_LJU/0504, t.e. 331, Popis prebivalstva 31. 3. 1931, Poljanska c. št. 40-konca</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:14/enota:638</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 3. 1931, Ljubljana, Poljanska cesta 47,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:25533">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Ljubljana</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 3. 1931</TITLE>
+        <TITLE titleType="Title" lang="slv">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="slv">Poljanska cesta 47</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 March 1931</TITLE>
+        <TITLE titleType="Title" lang="eng">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="eng">Poljanska cesta 47</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1931</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1931</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/331/Poljanska cesta 47</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1931-03-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1931</YEAR>
+        <DATETIME_ADDED>2014-04-03 21:12:48</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-04-03 21:12:48</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="LJU_504_331_poljanska_cesta_47.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>25532</ID>
+        <URN>11686/25532</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1931</DATE>
+        <MENU_ID id="568">SI_ZAL_LJU/0504, t.e. 331, Popis prebivalstva 31. 3. 1931, Poljanska c. št. 40-konca</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:14/enota:637</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 3. 1931, Ljubljana, Poljanska cesta 46,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:25532">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Ljubljana</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 3. 1931</TITLE>
+        <TITLE titleType="Title" lang="slv">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="slv">Poljanska cesta 46</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 March 1931</TITLE>
+        <TITLE titleType="Title" lang="eng">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="eng">Poljanska cesta 46</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1931</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1931</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/331/Poljanska cesta 46</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1931-03-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1931</YEAR>
+        <DATETIME_ADDED>2014-04-03 21:12:44</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-04-03 21:12:44</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="LJU_504_331_poljanska_cesta_46.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>25531</ID>
+        <URN>11686/25531</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1931</DATE>
+        <MENU_ID id="568">SI_ZAL_LJU/0504, t.e. 331, Popis prebivalstva 31. 3. 1931, Poljanska c. št. 40-konca</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:14/enota:636</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 3. 1931, Ljubljana, Poljanska cesta 45,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:25531">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Ljubljana</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 3. 1931</TITLE>
+        <TITLE titleType="Title" lang="slv">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="slv">Poljanska cesta 45</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 March 1931</TITLE>
+        <TITLE titleType="Title" lang="eng">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="eng">Poljanska cesta 45</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1931</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1931</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/331/Poljanska cesta 45</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1931-03-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1931</YEAR>
+        <DATETIME_ADDED>2014-04-03 21:12:40</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-04-03 21:12:40</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="LJU_504_331_poljanska_cesta_45.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>25530</ID>
+        <URN>11686/25530</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1931</DATE>
+        <MENU_ID id="568">SI_ZAL_LJU/0504, t.e. 331, Popis prebivalstva 31. 3. 1931, Poljanska c. št. 40-konca</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:14/enota:635</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 3. 1931, Ljubljana, Poljanska cesta 44,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:25530">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Ljubljana</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 3. 1931</TITLE>
+        <TITLE titleType="Title" lang="slv">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="slv">Poljanska cesta 44</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 March 1931</TITLE>
+        <TITLE titleType="Title" lang="eng">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="eng">Poljanska cesta 44</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1931</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1931</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/331/Poljanska cesta 44</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1931-03-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1931</YEAR>
+        <DATETIME_ADDED>2014-04-03 21:12:37</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-04-03 21:12:37</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="LJU_504_331_poljanska_cesta_44.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>25529</ID>
+        <URN>11686/25529</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1931</DATE>
+        <MENU_ID id="568">SI_ZAL_LJU/0504, t.e. 331, Popis prebivalstva 31. 3. 1931, Poljanska c. št. 40-konca</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:14/enota:634</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 3. 1931, Ljubljana, Poljanska cesta 43,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:25529">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Ljubljana</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 3. 1931</TITLE>
+        <TITLE titleType="Title" lang="slv">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="slv">Poljanska cesta 43</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 March 1931</TITLE>
+        <TITLE titleType="Title" lang="eng">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="eng">Poljanska cesta 43</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1931</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1931</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/331/Poljanska cesta 43</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1931-03-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1931</YEAR>
+        <DATETIME_ADDED>2014-04-03 21:12:31</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-04-03 21:12:31</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="LJU_504_331_poljanska_cesta_43.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>25528</ID>
+        <URN>11686/25528</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1931</DATE>
+        <MENU_ID id="568">SI_ZAL_LJU/0504, t.e. 331, Popis prebivalstva 31. 3. 1931, Poljanska c. št. 40-konca</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:14/enota:633</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 3. 1931, Ljubljana, Poljanska cesta 42,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:25528">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Ljubljana</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 3. 1931</TITLE>
+        <TITLE titleType="Title" lang="slv">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="slv">Poljanska cesta 42</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 March 1931</TITLE>
+        <TITLE titleType="Title" lang="eng">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="eng">Poljanska cesta 42</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1931</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1931</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/331/Poljanska cesta 42</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1931-03-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1931</YEAR>
+        <DATETIME_ADDED>2014-04-03 21:12:27</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-04-03 21:12:27</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="LJU_504_331_poljanska_cesta_42.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>25527</ID>
+        <URN>11686/25527</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1931</DATE>
+        <MENU_ID id="568">SI_ZAL_LJU/0504, t.e. 331, Popis prebivalstva 31. 3. 1931, Poljanska c. št. 40-konca</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:14/enota:632</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 3. 1931, Ljubljana, Poljanska cesta 41,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:25527">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Ljubljana</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 3. 1931</TITLE>
+        <TITLE titleType="Title" lang="slv">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="slv">Poljanska cesta 41</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 March 1931</TITLE>
+        <TITLE titleType="Title" lang="eng">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="eng">Poljanska cesta 41</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1931</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1931</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/331/Poljanska cesta 41</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1931-03-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1931</YEAR>
+        <DATETIME_ADDED>2014-04-03 21:12:21</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-04-03 21:12:21</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="LJU_504_331_poljanska_cesta_41.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>25526</ID>
+        <URN>11686/25526</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1931</DATE>
+        <MENU_ID id="568">SI_ZAL_LJU/0504, t.e. 331, Popis prebivalstva 31. 3. 1931, Poljanska c. št. 40-konca</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:14/enota:631</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 3. 1931, Ljubljana, Poljanska cesta 40,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:25526">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Ljubljana</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 3. 1931</TITLE>
+        <TITLE titleType="Title" lang="slv">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="slv">Poljanska cesta 40</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 March 1931</TITLE>
+        <TITLE titleType="Title" lang="eng">Ljubljana</TITLE>
+        <TITLE titleType="Title" lang="eng">Poljanska cesta 40</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1931</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1931</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/331/Poljanska cesta 40</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1931-03-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1931</YEAR>
+        <DATETIME_ADDED>2014-04-03 21:11:41</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-04-03 21:11:41</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="LJU_504_331_poljanska_cesta_40.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+</root>
