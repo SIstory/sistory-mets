@@ -1,0 +1,905 @@
+<root>
+    <publication>
+        <ID>31111</ID>
+        <URN>11686/31111</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CONTRIBUTOR>Andrej Kotnik (ur.)</CONTRIBUTOR>
+        <CONTRIBUTOR>Dejan Burkeljca</CONTRIBUTOR>
+        <CONTRIBUTOR>Samo Surina</CONTRIBUTOR>
+        <CONTRIBUTOR>Helena Kovačič</CONTRIBUTOR>
+        <CONTRIBUTOR>Špela Lemut</CONTRIBUTOR>
+        <CONTRIBUTOR>Mateja Keber</CONTRIBUTOR>
+        <CONTRIBUTOR>Janez Majcenovič</CONTRIBUTOR>
+        <CONTRIBUTOR>Davor Gregorc</CONTRIBUTOR>
+        <CONTRIBUTOR>Barbara Petrušič</CONTRIBUTOR>
+        <CONTRIBUTOR>Peter Podbrežnik</CONTRIBUTOR>
+        <CONTRIBUTOR>Matej Stele</CONTRIBUTOR>
+        <DATE type="Date">2015</DATE>
+        <DATE type="Date Created" format="Period">
+            <START>2013</START>
+            <END></END>
+            <NAME></NAME>
+            <SCHEME></SCHEME>
+        </DATE>
+        <MENU_ID id="597">Referenčne zbirke</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Interactive Resource">5</TYPE_DC>
+        <TITLE titleType="Title" lang="slv">Kamniško-komendski biografski leksikon</TITLE>
+        <TITLE titleType="Title" lang="eng">Biographical lexicon of Kamnik and Komenda municipalities</TITLE>
+        <SUBJECT lang="slv">biografika</SUBJECT>
+        <SUBJECT lang="eng">biography</SUBJECT>
+        <PUBLISHER>Knjižnica Franceta Balantiča, Kamnik</PUBLISHER>
+        <LINK>http://www.leksikon.si/</LINK>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>2015</YEAR>
+        <DATETIME_ADDED>2015-07-21 14:04:28</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-12-28 17:02:56</DATETIME_MODIFIED>
+        <USER_ID_ADDED>11</USER_ID_ADDED>
+        <IMAGE>kamnik.jpg</IMAGE>
+    </publication>
+    <publication>
+        <ID>20418</ID>
+        <URN>11686/20418</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CONTRIBUTOR>Petra Vide Ogrin (ur.)</CONTRIBUTOR>
+        <CREATOR>
+            <IME>Petra</IME>
+            <PRIIMEK>Vide Ogrin</PRIIMEK>
+        </CREATOR>
+        <CREATOR>
+            <IME>Mojca</IME>
+            <PRIIMEK>Mlinar Strgar</PRIIMEK>
+        </CREATOR>
+        <CREATOR>
+            <IME>Matija</IME>
+            <PRIIMEK>Ogrin</PRIIMEK>
+        </CREATOR>
+        <CREATOR>
+            <IME>Drago</IME>
+            <PRIIMEK>Kladnik</PRIIMEK>
+        </CREATOR>
+        <CREATOR>
+            <IME>Miha</IME>
+            <PRIIMEK>Preinfalk</PRIIMEK>
+        </CREATOR>
+        <CREATOR>
+            <IME>Andreja</IME>
+            <PRIIMEK>Žele</PRIIMEK>
+        </CREATOR>
+        <CREATOR>
+            <IME>Monika</IME>
+            <PRIIMEK>Kropej</PRIIMEK>
+        </CREATOR>
+        <CREATOR>
+            <IME>Marijan</IME>
+            <PRIIMEK>Smolik</PRIIMEK>
+        </CREATOR>
+        <CREATOR>
+            <IME>Simona</IME>
+            <PRIIMEK>Frankl</PRIIMEK>
+        </CREATOR>
+        <CREATOR>
+            <IME>Ahac</IME>
+            <PRIIMEK>Meden</PRIIMEK>
+        </CREATOR>
+        <CREATOR>
+            <IME>Tomaž</IME>
+            <PRIIMEK>Erjavec</PRIIMEK>
+        </CREATOR>
+        <CREATOR>
+            <IME>Joh</IME>
+            <PRIIMEK>Dokler</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date">2013</DATE>
+        <MENU_ID id="597">Referenčne zbirke</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Collection">1</TYPE_DC>
+        <TITLE titleType="Title" lang="slv">Slovenska biografija</TITLE>
+        <TITLE titleType="Title" lang="slv">Slovenian biography</TITLE>
+        <SUBJECT lang="slv">biografika</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="eng">biography</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <PUBLISHER>Slovenska akademija znanosti in umetnosti, Ljubljana</PUBLISHER>
+        <PUBLISHER>Znanstvenoraziskovalni center SAZU, Ljubljana</PUBLISHER>
+        <LINK>http://www.slovenska-biografija.si/</LINK>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>2013</YEAR>
+        <DATETIME_ADDED>2013-12-12 19:00:09</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-12-28 17:03:13</DATETIME_MODIFIED>
+        <USER_ID_ADDED>11</USER_ID_ADDED>
+        <IMAGE>biografija.jpg</IMAGE>
+    </publication>
+    <publication>
+        <ID>20397</ID>
+        <URN>11686/20397</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CONTRIBUTOR>Jana Zeni Bešter (ur.)</CONTRIBUTOR>
+        <CONTRIBUTOR>Damjan Mulej (ur.)</CONTRIBUTOR>
+        <CONTRIBUTOR>Nina Jamar (ur.)</CONTRIBUTOR>
+        <CONTRIBUTOR>Snežna Taler (ur.)</CONTRIBUTOR>
+        <DATE type="Date">2013</DATE>
+        <MENU_ID id="597">Referenčne zbirke</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Interactive Resource">5</TYPE_DC>
+        <TITLE titleType="Title" lang="slv">Gorenjci.si</TITLE>
+        <PUBLISHER>Mestna knjižnica Kranj, Kranj</PUBLISHER>
+        <LINK>http://www.gorenjci.si/</LINK>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>2013</YEAR>
+        <DATETIME_ADDED>2013-11-19 11:31:22</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-12-28 17:03:29</DATETIME_MODIFIED>
+        <USER_ID_ADDED>11</USER_ID_ADDED>
+        <IMAGE>dddd.jpg</IMAGE>
+    </publication>
+    <publication>
+        <ID>20396</ID>
+        <URN>11686/20396</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">2013</DATE>
+        <MENU_ID id="597">Referenčne zbirke</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Interactive Resource">5</TYPE_DC>
+        <TITLE titleType="Title" lang="slv">Pomurci.si</TITLE>
+        <SUBJECT lang="slv">biografika</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="eng">biography</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <PUBLISHER>Pokrajinska in študijska knjižnica, Murska Sobota</PUBLISHER>
+        <LINK>http://www.pomurci.si/</LINK>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>2013</YEAR>
+        <DATETIME_ADDED>2013-11-19 11:22:26</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-12-28 17:03:04</DATETIME_MODIFIED>
+        <USER_ID_ADDED>11</USER_ID_ADDED>
+        <IMAGE>dddd.jpg</IMAGE>
+    </publication>
+    <publication>
+        <ID>20395</ID>
+        <URN>11686/20395</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">2013</DATE>
+        <MENU_ID id="597">Referenčne zbirke</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Interactive Resource">5</TYPE_DC>
+        <TITLE titleType="Title" lang="slv">Primorci.si</TITLE>
+        <SUBJECT lang="slv">biografika</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="eng">biography</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <PUBLISHER>Goriška knjižnica Franceta Bevka, Nova Gorica</PUBLISHER>
+        <PUBLISHER>Osrednja knjižnica Srečka Vilharja, Koper</PUBLISHER>
+        <LINK>http://www.primorci.si/</LINK>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>2013</YEAR>
+        <DATETIME_ADDED>2013-11-19 11:17:51</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-12-28 17:03:21</DATETIME_MODIFIED>
+        <USER_ID_ADDED>11</USER_ID_ADDED>
+        <IMAGE>dddd.jpg</IMAGE>
+    </publication>
+    <publication>
+        <ID>20394</ID>
+        <URN>11686/20394</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CREATOR2 lang="slv">Knjižnica Jožeta Udoviča Cerknica</CREATOR2>
+        <DATE type="Date">2013</DATE>
+        <MENU_ID id="597">Referenčne zbirke</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Interactive Resource">5</TYPE_DC>
+        <TITLE titleType="Title" lang="slv">Notranjci.si</TITLE>
+        <SUBJECT lang="slv">biografika</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="eng">biography</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <PUBLISHER>Knjižnica Jožeta Udoviča, Cerknica</PUBLISHER>
+        <LINK>http://www.notranjci.si/</LINK>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>2013</YEAR>
+        <DATETIME_ADDED>2013-11-19 11:11:46</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-12-28 17:03:38</DATETIME_MODIFIED>
+        <USER_ID_ADDED>11</USER_ID_ADDED>
+        <IMAGE>dddd.jpg</IMAGE>
+    </publication>
+    <publication>
+        <ID>20393</ID>
+        <URN>11686/20393</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CONTRIBUTOR>Knjižnica Antona Sovreta Hrastnik</CONTRIBUTOR>
+        <CONTRIBUTOR>Knjižnica Laško</CONTRIBUTOR>
+        <CONTRIBUTOR>Knjižnica Mileta Klopčiča Zagorje</CONTRIBUTOR>
+        <CONTRIBUTOR>Knjižnica Rogaška Slatina</CONTRIBUTOR>
+        <CONTRIBUTOR>Knjižnica Šmarje pri Jelšah</CONTRIBUTOR>
+        <CONTRIBUTOR>Knjižnica Toneta Seliškarja Trbovlje</CONTRIBUTOR>
+        <CONTRIBUTOR>Medobčinska splošna knjižnica Žalec</CONTRIBUTOR>
+        <CONTRIBUTOR>Osrednja knjižnica Mozirje</CONTRIBUTOR>
+        <CONTRIBUTOR>Splošna knjižnica Slovenske Konjice</CONTRIBUTOR>
+        <CREATOR2 lang="slv">Osrednja knjižnica Celje</CREATOR2>
+        <DATE type="Date">2013</DATE>
+        <MENU_ID id="597">Referenčne zbirke</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Interactive Resource">5</TYPE_DC>
+        <TITLE titleType="Title" lang="slv">Spletni biografski leksikon celjskega območja in Zasavja</TITLE>
+        <TITLE titleType="Title" lang="eng">Online biographical lexicon of Celje and Zasavje region</TITLE>
+        <SUBJECT lang="slv">biografika</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="eng">biography</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <PUBLISHER>Osrednja knjižnica Celje, Celje</PUBLISHER>
+        <LINK>http://www.celjskozasavski.si/</LINK>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>2013</YEAR>
+        <DATETIME_ADDED>2013-11-19 10:52:56</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-12-28 17:03:56</DATETIME_MODIFIED>
+        <USER_ID_ADDED>11</USER_ID_ADDED>
+        <IMAGE>dddd.jpg</IMAGE>
+    </publication>
+    <publication>
+        <ID>1568</ID>
+        <URN>11686/1568</URN>
+        <CHILD_ORDER>6832</CHILD_ORDER>
+        <CONTRIBUTOR>Nevenka Šivavec</CONTRIBUTOR>
+        <CREATOR>
+            <IME>Alenka</IME>
+            <PRIIMEK>Pirman</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date">2005</DATE>
+        <MENU_ID id="597">Referenčne zbirke</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <TITLE titleType="Title" lang="slv">Arcticae horulae</TITLE>
+        <TITLE titleType="Title" lang="slv">Slovar nemških izposojenk v slovenskem jeziku</TITLE>
+        <TITLE titleType="Title" lang="slv">[elektronski vir]</TITLE>
+        <SUBJECT lang="slv">slovarji</SUBJECT>
+        <SUBJECT lang="slv">nemščina</SUBJECT>
+        <SUBJECT lang="slv">slovenščina</SUBJECT>
+        <SUBJECT lang="eng">dictionary</SUBJECT>
+        <SUBJECT lang="eng">German</SUBJECT>
+        <SUBJECT lang="eng">Slovene</SUBJECT>
+        <PUBLISHER>SCCA, Zavod za sodobno umetnost, Ljubljana</PUBLISHER>
+        <LINK>http://www.arcticae-horulae.si/abcd.htm</LINK>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>2005</YEAR>
+        <DATETIME_ADDED>2012-01-23 13:25:21</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-12-28 17:03:47</DATETIME_MODIFIED>
+        <USER_ID_ADDED>11</USER_ID_ADDED>
+        <IMAGE>article.JPG</IMAGE>
+    </publication>
+    <publication>
+        <ID>900</ID>
+        <URN>11686/900</URN>
+        <CHILD_ORDER>6519</CHILD_ORDER>
+        <DATE type="Date">1974</DATE>
+        <MENU_ID id="597">Referenčne zbirke</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <TITLE titleType="Title" lang="slv">Primorski slovenski biografski leksikon</TITLE>
+        <TITLE titleType="Title" lang="slv">1. snopič</TITLE>
+        <TITLE titleType="Title" lang="slv">A - Bartol</TITLE>
+        <SUBJECT lang="slv">biografski leksikoni</SUBJECT>
+        <SUBJECT lang="slv">Slovenci</SUBJECT>
+        <SUBJECT lang="slv">Primorci</SUBJECT>
+        <SUBJECT lang="eng">biographical lexicon</SUBJECT>
+        <SUBJECT lang="eng">Slovenes</SUBJECT>
+        <SUBJECT lang="eng">Slovene Littoral</SUBJECT>
+        <PUBLISHER>Goriška Mohorjeva družba, Gorica</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1974</YEAR>
+        <DATETIME_ADDED>2011-11-22 10:48:07</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-12-28 17:00:32</DATETIME_MODIFIED>
+        <USER_ID_ADDED>11</USER_ID_ADDED>
+        <PUBLICATION file="Primorski_slovenski_biografski_leksikon_01.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>806</ID>
+        <URN>11686/806</URN>
+        <CHILD_ORDER>6518</CHILD_ORDER>
+        <DATE type="Date">1975</DATE>
+        <MENU_ID id="597">Referenčne zbirke</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <TITLE titleType="Title" lang="slv">Primorski slovenski biografski leksikon</TITLE>
+        <TITLE titleType="Title" lang="slv">2. snopič</TITLE>
+        <TITLE titleType="Title" lang="slv">Bartol - Bor</TITLE>
+        <SUBJECT lang="slv">biografski leksikoni</SUBJECT>
+        <SUBJECT lang="slv">Slovenci</SUBJECT>
+        <SUBJECT lang="slv">Primorci</SUBJECT>
+        <SUBJECT lang="eng">biographical lexicon</SUBJECT>
+        <SUBJECT lang="eng">Slovenes</SUBJECT>
+        <SUBJECT lang="eng">Slovene Littoral</SUBJECT>
+        <PUBLISHER>Goriška Mohorjeva družba, Gorica</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1975</YEAR>
+        <DATETIME_ADDED>2011-11-22 10:48:22</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-12-28 17:00:42</DATETIME_MODIFIED>
+        <USER_ID_ADDED>11</USER_ID_ADDED>
+        <PUBLICATION file="Primorski_slovenski_biografski_leksikon_02.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>276</ID>
+        <URN>11686/276</URN>
+        <CHILD_ORDER>6517</CHILD_ORDER>
+        <CONTRIBUTOR>Martin Jevnikar (urednik)</CONTRIBUTOR>
+        <DATE type="Date">1994</DATE>
+        <MENU_ID id="597">Referenčne zbirke</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <TITLE titleType="Title" lang="slv">Primorski slovenski biografski leksikon</TITLE>
+        <TITLE titleType="Title" lang="slv">20. snopič</TITLE>
+        <TITLE titleType="Title" lang="slv">dodatek M - Ž</TITLE>
+        <SUBJECT lang="slv">biografski leksikoni</SUBJECT>
+        <SUBJECT lang="slv">Slovenci</SUBJECT>
+        <SUBJECT lang="slv">Primorci</SUBJECT>
+        <SUBJECT lang="eng">biographical lexicon</SUBJECT>
+        <SUBJECT lang="eng">Slovenes</SUBJECT>
+        <SUBJECT lang="eng">Slovene Littoral</SUBJECT>
+        <PUBLISHER>Goriška Mohorjeva družba, Gorica</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1994</YEAR>
+        <DATETIME_ADDED>2011-11-22 10:48:36</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-12-28 17:04:12</DATETIME_MODIFIED>
+        <USER_ID_ADDED>11</USER_ID_ADDED>
+        <PUBLICATION file="Primorski_slovenski_biografski_leksikon_20.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>275</ID>
+        <URN>11686/275</URN>
+        <CHILD_ORDER>6516</CHILD_ORDER>
+        <CONTRIBUTOR>Martin Jevnikar (urednik)</CONTRIBUTOR>
+        <DATE type="Date">1993</DATE>
+        <MENU_ID id="597">Referenčne zbirke</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <TITLE titleType="Title" lang="slv">Primorski slovenski biografski leksikon</TITLE>
+        <TITLE titleType="Title" lang="slv">19. snopič</TITLE>
+        <TITLE titleType="Title" lang="slv">dodatek B - L</TITLE>
+        <SUBJECT lang="slv">biografski leksikoni</SUBJECT>
+        <SUBJECT lang="slv">Slovenci</SUBJECT>
+        <SUBJECT lang="slv">Primorci</SUBJECT>
+        <SUBJECT lang="eng">biographical lexicon</SUBJECT>
+        <SUBJECT lang="eng">Slovenes</SUBJECT>
+        <SUBJECT lang="eng">Slovene Littoral</SUBJECT>
+        <PUBLISHER>Goriška Mohorjeva družba, Gorica</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1993</YEAR>
+        <DATETIME_ADDED>2011-11-22 10:48:51</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-12-28 17:00:59</DATETIME_MODIFIED>
+        <USER_ID_ADDED>11</USER_ID_ADDED>
+        <PUBLICATION file="Primorski_slovenski_biografski_leksikon_19.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>274</ID>
+        <URN>11686/274</URN>
+        <CHILD_ORDER>6515</CHILD_ORDER>
+        <CONTRIBUTOR>Martin Jevnikar (urednik)</CONTRIBUTOR>
+        <DATE type="Date">1992</DATE>
+        <MENU_ID id="597">Referenčne zbirke</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <TITLE titleType="Title" lang="slv">Primorski slovenski biografski leksikon</TITLE>
+        <TITLE titleType="Title" lang="slv">18. snopič</TITLE>
+        <TITLE titleType="Title" lang="slv">Zgaga - Žvanut in dodatek A - B</TITLE>
+        <SUBJECT lang="slv">biografski leksikoni</SUBJECT>
+        <SUBJECT lang="slv">Slovenci</SUBJECT>
+        <SUBJECT lang="slv">Primorci</SUBJECT>
+        <SUBJECT lang="eng">biographical lexicon</SUBJECT>
+        <SUBJECT lang="eng">Slovenes</SUBJECT>
+        <SUBJECT lang="eng">Slovene Littoral</SUBJECT>
+        <PUBLISHER>Goriška Mohorjeva družba, Gorica</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1992</YEAR>
+        <DATETIME_ADDED>2011-11-22 10:49:06</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-12-28 17:02:22</DATETIME_MODIFIED>
+        <USER_ID_ADDED>11</USER_ID_ADDED>
+        <PUBLICATION file="Primorski_slovenski_biografski_leksikon_18.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>273</ID>
+        <URN>11686/273</URN>
+        <CHILD_ORDER>6514</CHILD_ORDER>
+        <CONTRIBUTOR>Martin Jevnikar (urednik)</CONTRIBUTOR>
+        <DATE type="Date">1991</DATE>
+        <MENU_ID id="597">Referenčne zbirke</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <TITLE titleType="Title" lang="slv">Primorski slovenski biografski leksikon</TITLE>
+        <TITLE titleType="Title" lang="slv">17. snopič</TITLE>
+        <TITLE titleType="Title" lang="slv">Velikonja - Zemljak</TITLE>
+        <SUBJECT lang="slv">biografski leksikoni</SUBJECT>
+        <SUBJECT lang="slv">Slovenci</SUBJECT>
+        <SUBJECT lang="slv">Primorci</SUBJECT>
+        <SUBJECT lang="eng">biographical lexicon</SUBJECT>
+        <SUBJECT lang="eng">Slovenes</SUBJECT>
+        <SUBJECT lang="eng">Slovene Littoral</SUBJECT>
+        <PUBLISHER>Goriška Mohorjeva družba, Gorica</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1991</YEAR>
+        <DATETIME_ADDED>2011-11-22 10:49:21</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-12-28 17:04:40</DATETIME_MODIFIED>
+        <USER_ID_ADDED>11</USER_ID_ADDED>
+        <PUBLICATION file="Primorski_slovenski_biografski_leksikon_17.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>272</ID>
+        <URN>11686/272</URN>
+        <CHILD_ORDER>6513</CHILD_ORDER>
+        <CONTRIBUTOR>Martin Jevnikar (urednik)</CONTRIBUTOR>
+        <DATE type="Date">1990</DATE>
+        <MENU_ID id="597">Referenčne zbirke</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <TITLE titleType="Title" lang="slv">Primorski slovenski biografski leksikon</TITLE>
+        <TITLE titleType="Title" lang="slv">16. snopič</TITLE>
+        <TITLE titleType="Title" lang="slv">Tič - Velikonja</TITLE>
+        <SUBJECT lang="slv">biografski leksikoni</SUBJECT>
+        <SUBJECT lang="slv">Slovenci</SUBJECT>
+        <SUBJECT lang="slv">Primorci</SUBJECT>
+        <SUBJECT lang="eng">biographical lexicon</SUBJECT>
+        <SUBJECT lang="eng">Slovenes</SUBJECT>
+        <SUBJECT lang="eng">Slovene Littoral</SUBJECT>
+        <PUBLISHER>Goriška Mohorjeva družba, Gorica</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1990</YEAR>
+        <DATETIME_ADDED>2011-11-22 10:49:37</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-12-28 17:00:49</DATETIME_MODIFIED>
+        <USER_ID_ADDED>11</USER_ID_ADDED>
+        <PUBLICATION file="Primorski_slovenski_biografski_leksikon_16.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>271</ID>
+        <URN>11686/271</URN>
+        <CHILD_ORDER>6512</CHILD_ORDER>
+        <CONTRIBUTOR>Martin Jevnikar (urednik)</CONTRIBUTOR>
+        <DATE type="Date">1989</DATE>
+        <MENU_ID id="597">Referenčne zbirke</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <TITLE titleType="Title" lang="slv">Primorski slovenski biografski leksikon</TITLE>
+        <TITLE titleType="Title" lang="slv">15. snopič</TITLE>
+        <TITLE titleType="Title" lang="slv">Suhadolc - Theuerschuh</TITLE>
+        <SUBJECT lang="slv">biografski leksikoni</SUBJECT>
+        <SUBJECT lang="slv">Slovenci</SUBJECT>
+        <SUBJECT lang="slv">Primorci</SUBJECT>
+        <SUBJECT lang="eng">biographical lexicon</SUBJECT>
+        <SUBJECT lang="eng">Slovenes</SUBJECT>
+        <SUBJECT lang="eng">Slovene Littoral</SUBJECT>
+        <PUBLISHER>Goriška Mohorjeva družba, Gorica</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1989</YEAR>
+        <DATETIME_ADDED>2011-11-22 10:49:53</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-12-28 17:02:04</DATETIME_MODIFIED>
+        <USER_ID_ADDED>11</USER_ID_ADDED>
+        <PUBLICATION file="Primorski_slovenski_biografski_leksikon_15.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>270</ID>
+        <URN>11686/270</URN>
+        <CHILD_ORDER>6511</CHILD_ORDER>
+        <CONTRIBUTOR>Martin Jevnikar (urednik)</CONTRIBUTOR>
+        <DATE type="Date">1988</DATE>
+        <MENU_ID id="597">Referenčne zbirke</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <TITLE titleType="Title" lang="slv">Primorski slovenski biografski leksikon</TITLE>
+        <TITLE titleType="Title" lang="slv">14. snopič</TITLE>
+        <TITLE titleType="Title" lang="slv">Sedej - Suhadolc</TITLE>
+        <SUBJECT lang="slv">biografski leksikoni</SUBJECT>
+        <SUBJECT lang="slv">Slovenci</SUBJECT>
+        <SUBJECT lang="slv">Primorci</SUBJECT>
+        <SUBJECT lang="eng">biographical lexicon</SUBJECT>
+        <SUBJECT lang="eng">Slovenes</SUBJECT>
+        <SUBJECT lang="eng">Slovene Littoral</SUBJECT>
+        <PUBLISHER>Goriška Mohorjeva družba, Gorica</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1988</YEAR>
+        <DATETIME_ADDED>2011-11-22 10:50:09</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-12-28 17:01:08</DATETIME_MODIFIED>
+        <USER_ID_ADDED>11</USER_ID_ADDED>
+        <PUBLICATION file="Primorski_slovenski_biografski_leksikon_14.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>269</ID>
+        <URN>11686/269</URN>
+        <CHILD_ORDER>6510</CHILD_ORDER>
+        <CONTRIBUTOR>Martin Jevnikar (urednik)</CONTRIBUTOR>
+        <DATE type="Date">1987</DATE>
+        <MENU_ID id="597">Referenčne zbirke</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <TITLE titleType="Title" lang="slv">Primorski slovenski biografski leksikon</TITLE>
+        <TITLE titleType="Title" lang="slv">13. snopič</TITLE>
+        <TITLE titleType="Title" lang="slv">Rebula - Sedej</TITLE>
+        <SUBJECT lang="slv">biografski leksikoni</SUBJECT>
+        <SUBJECT lang="slv">Slovenci</SUBJECT>
+        <SUBJECT lang="slv">Primorci</SUBJECT>
+        <SUBJECT lang="eng">biographical lexicon</SUBJECT>
+        <SUBJECT lang="eng">Slovenes</SUBJECT>
+        <SUBJECT lang="eng">Slovene Littoral</SUBJECT>
+        <PUBLISHER>Goriška Mohorjeva družba, Gorica</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1987</YEAR>
+        <DATETIME_ADDED>2011-11-22 11:19:19</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-12-28 17:01:27</DATETIME_MODIFIED>
+        <USER_ID_ADDED>11</USER_ID_ADDED>
+        <PUBLICATION file="Primorski_slovenski_biografski_leksikon_13.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>268</ID>
+        <URN>11686/268</URN>
+        <CHILD_ORDER>6509</CHILD_ORDER>
+        <CONTRIBUTOR>Martin Jevnikar (urednik)</CONTRIBUTOR>
+        <DATE type="Date">1986</DATE>
+        <MENU_ID id="597">Referenčne zbirke</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <TITLE titleType="Title" lang="slv">Primorski slovenski biografski leksikon</TITLE>
+        <TITLE titleType="Title" lang="slv">12. snopič</TITLE>
+        <TITLE titleType="Title" lang="slv">Pirjevec - Rebula</TITLE>
+        <SUBJECT lang="slv">biografski leksikoni</SUBJECT>
+        <SUBJECT lang="slv">Slovenci</SUBJECT>
+        <SUBJECT lang="slv">Primorci</SUBJECT>
+        <SUBJECT lang="eng">biographical lexicon</SUBJECT>
+        <SUBJECT lang="eng">Slovenes</SUBJECT>
+        <SUBJECT lang="eng">Slovene Littoral</SUBJECT>
+        <PUBLISHER>Goriška Mohorjeva družba, Gorica</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1986</YEAR>
+        <DATETIME_ADDED>2011-11-22 11:19:42</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-12-28 17:04:52</DATETIME_MODIFIED>
+        <USER_ID_ADDED>11</USER_ID_ADDED>
+        <PUBLICATION file="Primorski_slovenski_biografski_leksikon_12.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>267</ID>
+        <URN>11686/267</URN>
+        <CHILD_ORDER>6508</CHILD_ORDER>
+        <CONTRIBUTOR>Martin Jevnikar (urednik)</CONTRIBUTOR>
+        <DATE type="Date">1985</DATE>
+        <MENU_ID id="597">Referenčne zbirke</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <TITLE titleType="Title" lang="slv">Primorski slovenski biografski leksikon</TITLE>
+        <TITLE titleType="Title" lang="slv">11. snopič</TITLE>
+        <TITLE titleType="Title" lang="slv">Omersa - Pirjevec</TITLE>
+        <SUBJECT lang="slv">biografski leksikoni</SUBJECT>
+        <SUBJECT lang="slv">Slovenci</SUBJECT>
+        <SUBJECT lang="slv">Primorci</SUBJECT>
+        <SUBJECT lang="slv">biographical lexicon</SUBJECT>
+        <SUBJECT lang="slv">Slovenes</SUBJECT>
+        <SUBJECT lang="slv">Slovene Littoral</SUBJECT>
+        <PUBLISHER>Goriška Mohorjeva družba, Gorica</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1985</YEAR>
+        <DATETIME_ADDED>2011-11-22 11:20:02</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-12-28 17:01:18</DATETIME_MODIFIED>
+        <USER_ID_ADDED>11</USER_ID_ADDED>
+        <PUBLICATION file="Primorski_slovenski_biografski_leksikon_11.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>266</ID>
+        <URN>11686/266</URN>
+        <CHILD_ORDER>6507</CHILD_ORDER>
+        <CONTRIBUTOR>Martin Jevnikar (urednik)</CONTRIBUTOR>
+        <DATE type="Date">1984</DATE>
+        <MENU_ID id="597">Referenčne zbirke</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <TITLE titleType="Title" lang="slv">Primorski slovenski biografski leksikon</TITLE>
+        <TITLE titleType="Title" lang="slv">10. snopič</TITLE>
+        <TITLE titleType="Title" lang="slv">Martelanc - Omersa</TITLE>
+        <SUBJECT lang="slv">biografski leksikoni</SUBJECT>
+        <SUBJECT lang="slv">Slovenci</SUBJECT>
+        <SUBJECT lang="slv">Primorci</SUBJECT>
+        <SUBJECT lang="eng">biographical lexicon</SUBJECT>
+        <SUBJECT lang="eng">Slovenes</SUBJECT>
+        <SUBJECT lang="eng">Slovene Littoral</SUBJECT>
+        <PUBLISHER>Goriška Mohorjeva družba, Gorica</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1984</YEAR>
+        <DATETIME_ADDED>2011-11-22 11:20:19</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-12-28 17:01:36</DATETIME_MODIFIED>
+        <USER_ID_ADDED>11</USER_ID_ADDED>
+        <PUBLICATION file="Primorski_slovenski_biografski_leksikon_10.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>265</ID>
+        <URN>11686/265</URN>
+        <CHILD_ORDER>6506</CHILD_ORDER>
+        <CONTRIBUTOR>Martin Jevnikar urednik)</CONTRIBUTOR>
+        <DATE type="Date">1983</DATE>
+        <MENU_ID id="597">Referenčne zbirke</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <TITLE titleType="Title" lang="slv">Primorski slovenski biografski leksikon</TITLE>
+        <TITLE titleType="Title" lang="slv">9. snopič</TITLE>
+        <TITLE titleType="Title" lang="slv">Križnič - Martelanc</TITLE>
+        <SUBJECT lang="slv">biografski leksikoni</SUBJECT>
+        <SUBJECT lang="slv">Slovenci</SUBJECT>
+        <SUBJECT lang="slv">Primorci</SUBJECT>
+        <SUBJECT lang="eng">biographical lexicon</SUBJECT>
+        <SUBJECT lang="eng">Slovenes</SUBJECT>
+        <SUBJECT lang="eng">Slovene Littoral</SUBJECT>
+        <PUBLISHER>Goriška Mohorjeva družba, Gorica</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1983</YEAR>
+        <DATETIME_ADDED>2011-11-22 11:20:40</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-12-28 17:01:46</DATETIME_MODIFIED>
+        <USER_ID_ADDED>11</USER_ID_ADDED>
+        <PUBLICATION file="Primorski_slovenski_biografski_leksikon_09.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>264</ID>
+        <URN>11686/264</URN>
+        <CHILD_ORDER>6505</CHILD_ORDER>
+        <CONTRIBUTOR>Martin Jevnikar (urednik)</CONTRIBUTOR>
+        <DATE type="Date">1982</DATE>
+        <MENU_ID id="597">Referenčne zbirke</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <TITLE titleType="Title" lang="slv">Primorski slovenski biografski leksikon</TITLE>
+        <TITLE titleType="Title" lang="slv">8. snopič</TITLE>
+        <TITLE titleType="Title" lang="slv">Kacin - Križnar</TITLE>
+        <SUBJECT lang="slv">biografski leksikoni</SUBJECT>
+        <SUBJECT lang="slv">Slovenci</SUBJECT>
+        <SUBJECT lang="slv">Primorci</SUBJECT>
+        <SUBJECT lang="eng">biographical lexicon</SUBJECT>
+        <SUBJECT lang="eng">Slovenes</SUBJECT>
+        <SUBJECT lang="eng">Slovene Littoral</SUBJECT>
+        <PUBLISHER>Goriška Mohorjeva družba, Gorica</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1982</YEAR>
+        <DATETIME_ADDED>2011-11-22 11:20:58</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-12-28 17:02:12</DATETIME_MODIFIED>
+        <USER_ID_ADDED>11</USER_ID_ADDED>
+        <PUBLICATION file="Primorski_slovenski_biografski_leksikon_08.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>263</ID>
+        <URN>11686/263</URN>
+        <CHILD_ORDER>6504</CHILD_ORDER>
+        <CONTRIBUTOR>Martin Jevnikar (urednik)</CONTRIBUTOR>
+        <DATE type="Date">1981</DATE>
+        <MENU_ID id="597">Referenčne zbirke</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <TITLE titleType="Title" lang="slv">Primorski slovenski biografski leksikon</TITLE>
+        <TITLE titleType="Title" lang="slv">7. snopič</TITLE>
+        <TITLE titleType="Title" lang="slv">Hafner - Juvančić</TITLE>
+        <SUBJECT lang="slv">biografski leksikon</SUBJECT>
+        <SUBJECT lang="slv">Slovenci</SUBJECT>
+        <SUBJECT lang="slv">Primorci</SUBJECT>
+        <SUBJECT lang="eng">biographical lexicon</SUBJECT>
+        <SUBJECT lang="eng">Slovenes</SUBJECT>
+        <SUBJECT lang="eng">Slovene Littoral</SUBJECT>
+        <PUBLISHER>Goriška Mohorjeva družba, Gorica</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1981</YEAR>
+        <DATETIME_ADDED>2011-11-22 11:21:24</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-12-28 17:01:55</DATETIME_MODIFIED>
+        <USER_ID_ADDED>11</USER_ID_ADDED>
+        <PUBLICATION file="Primorski_slovenski_biografski_leksikon_07.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>262</ID>
+        <URN>11686/262</URN>
+        <CHILD_ORDER>6503</CHILD_ORDER>
+        <DATE type="Date">1979</DATE>
+        <MENU_ID id="597">Referenčne zbirke</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <TITLE titleType="Title" lang="slv">Primorski slovenski biografski leksikon</TITLE>
+        <TITLE titleType="Title" lang="slv">6. snopič</TITLE>
+        <TITLE titleType="Title" lang="slv">Gracar - Hafner</TITLE>
+        <SUBJECT lang="slv">biografski leksikoni</SUBJECT>
+        <SUBJECT lang="slv">Slovenci</SUBJECT>
+        <SUBJECT lang="slv">Primorci</SUBJECT>
+        <SUBJECT lang="eng">biographical lexicon</SUBJECT>
+        <SUBJECT lang="eng">Slovenes</SUBJECT>
+        <SUBJECT lang="eng">Slovene Littoral</SUBJECT>
+        <PUBLISHER>Goriška Mohorjeva družba, Gorica</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1979</YEAR>
+        <DATETIME_ADDED>2011-11-22 11:21:41</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-12-28 17:04:22</DATETIME_MODIFIED>
+        <USER_ID_ADDED>11</USER_ID_ADDED>
+        <PUBLICATION file="Primorski_slovenski_biografski_leksikon_06.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>261</ID>
+        <URN>11686/261</URN>
+        <CHILD_ORDER>6502</CHILD_ORDER>
+        <DATE type="Date">1978</DATE>
+        <MENU_ID id="597">Referenčne zbirke</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <TITLE titleType="Title" lang="slv">Primorski slovenski biografski leksikon</TITLE>
+        <TITLE titleType="Title" lang="slv">5. snopič</TITLE>
+        <TITLE titleType="Title" lang="slv">Fogar - Grabrijan</TITLE>
+        <SUBJECT lang="slv">biografski leksikoni</SUBJECT>
+        <SUBJECT lang="slv">Slovenci</SUBJECT>
+        <SUBJECT lang="slv">Primorci</SUBJECT>
+        <SUBJECT lang="eng">biographical lexicon</SUBJECT>
+        <SUBJECT lang="eng">Slovenes</SUBJECT>
+        <SUBJECT lang="eng">Slovene Littoral</SUBJECT>
+        <PUBLISHER>Goriška Mohorjeva družba, Gorica</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1978</YEAR>
+        <DATETIME_ADDED>2011-11-22 11:21:59</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-12-28 17:02:31</DATETIME_MODIFIED>
+        <USER_ID_ADDED>11</USER_ID_ADDED>
+        <PUBLICATION file="Primorski_slovenski_biografski_leksikon_05.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>260</ID>
+        <URN>11686/260</URN>
+        <CHILD_ORDER>6501</CHILD_ORDER>
+        <DATE type="Date">1977</DATE>
+        <MENU_ID id="597">Referenčne zbirke</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <TITLE titleType="Title" lang="slv">Primorski slovenski biografski leksikon</TITLE>
+        <TITLE titleType="Title" lang="slv">4. snopič</TITLE>
+        <TITLE titleType="Title" lang="slv">Čotar - Fogar</TITLE>
+        <SUBJECT lang="slv">biografski leksikoni</SUBJECT>
+        <SUBJECT lang="slv">Slovenci</SUBJECT>
+        <SUBJECT lang="slv">Primorci</SUBJECT>
+        <SUBJECT lang="eng">biographical lexicon</SUBJECT>
+        <SUBJECT lang="eng">Slovenes</SUBJECT>
+        <SUBJECT lang="eng">Slovene Littoral</SUBJECT>
+        <PUBLISHER>Goriška Mohorjeva družba, Gorica</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1977</YEAR>
+        <DATETIME_ADDED>2011-11-22 11:22:17</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-12-28 17:04:04</DATETIME_MODIFIED>
+        <USER_ID_ADDED>11</USER_ID_ADDED>
+        <PUBLICATION file="Primorski_slovenski_biografski_leksikon_04.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>259</ID>
+        <URN>11686/259</URN>
+        <CHILD_ORDER>6500</CHILD_ORDER>
+        <DATE type="Date">1976</DATE>
+        <MENU_ID id="597">Referenčne zbirke</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <TITLE titleType="Title" lang="slv">Primorski slovenski biografski leksikon</TITLE>
+        <TITLE titleType="Title" lang="slv">3. snopič</TITLE>
+        <TITLE titleType="Title" lang="slv">Bor - Čopič</TITLE>
+        <SUBJECT lang="slv">biografski leksikoni</SUBJECT>
+        <SUBJECT lang="slv">Slovenci</SUBJECT>
+        <SUBJECT lang="slv">Primorci</SUBJECT>
+        <SUBJECT lang="eng">biographical lexicon</SUBJECT>
+        <SUBJECT lang="eng">Slovenes</SUBJECT>
+        <SUBJECT lang="eng">Slovene Littoral</SUBJECT>
+        <PUBLISHER>Goriška Mohorjeva družba, Gorica</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1976</YEAR>
+        <DATETIME_ADDED>2011-11-22 11:22:35</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-12-28 17:04:31</DATETIME_MODIFIED>
+        <USER_ID_ADDED>11</USER_ID_ADDED>
+        <PUBLICATION file="Primorski_slovenski_biografski_leksikon_03.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+</root>

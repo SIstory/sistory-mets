@@ -1,0 +1,46 @@
+<root>
+    <publication>
+        <ID>31451</ID>
+        <URN>11686/31451</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CONTRIBUTOR>Slobodan Nešović (ur.)</CONTRIBUTOR>
+        <CREATOR2 lang="srp">Savezna narodna skupština</CREATOR2>
+        <DATE type="Date">1961</DATE>
+        <MENU_ID id="397">Sejni zapisi izvršnih in zakonodajnih teles</MENU_ID>
+        <LANGUAGE lang="srp">16</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title"> Stvarni registar : stenografskih beležaka vrhovnih pretstavničkih tela Jugoslavije : od 26 XI 1942 do 21 XII 1957 : AVNOJ, Privremena Narodna skupština DFJ, Ustavotvorna skupština, Narodna skupština FNRJ- I i II saziv i Savezna narodna skupština - III saziv </span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:31451" rel="dct:creator"><span property="dct:title">Savezna narodna skupština, Beograd</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+To delo avtorskopravno ni varovano.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="srp">Stvarni registar: stenografskih beležaka vrhovnih pretstavničkih tela Jugoslavije : od 26 XI 1942 do 21 XII 1957 : AVNOJ, Privremena Narodna skupština DFJ, Ustavotvorna skupština, Narodna skupština FNRJ- I i II saziv i Savezna narodna skupština-III saziv</TITLE>
+        <SUBJECT lang="slv">register</SUBJECT>
+        <SUBJECT lang="slv">stenografske beležke</SUBJECT>
+        <SUBJECT lang="slv">zvezna skupščina</SUBJECT>
+        <SUBJECT lang="slv">Jugoslavija</SUBJECT>
+        <SUBJECT lang="eng">registry</SUBJECT>
+        <SUBJECT lang="eng">stenographical minutes</SUBJECT>
+        <SUBJECT lang="eng">federal assembly</SUBJECT>
+        <SUBJECT lang="eng">Yugoslavia</SUBJECT>
+        <PUBLISHER>Savezna narodna skupština, Beograd</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1961</YEAR>
+        <DATETIME_ADDED>2015-09-29 08:36:29</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-12-29 00:24:59</DATETIME_MODIFIED>
+        <USER_ID_ADDED>11</USER_ID_ADDED>
+        <PUBLICATION file="Stvarni_registar_1942-1957.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+</root>

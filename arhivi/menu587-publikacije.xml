@@ -1,0 +1,74 @@
+<root>
+    <publication>
+        <ID>30147</ID>
+        <URN>11686/30147</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <MENU_ID id="587">Kronološki pregled (1963-1990)</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Sistem">7</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <TITLE titleType="Title" lang="slv">Sejni zapisi Skupščine Socialistične Republike Slovenije</TITLE>
+        <TITLE titleType="Title" lang="slv">Skupne seje in skupna zasedanja</TITLE>
+        <TITLE titleType="Title" lang="slv">Kronološki pregled</TITLE>
+        <TITLE titleType="Title" lang="slv">Leta: 1963-1990</TITLE>
+        <TITLE titleType="Title" lang="eng">Shorthand minutes of the People’s Assembly of the People’s Republic of Slovenia</TITLE>
+        <TITLE titleType="Title" lang="eng">Joint Sessions and</TITLE>
+        <TITLE titleType="Title" lang="eng">Joint Constitutive Sessions</TITLE>
+        <TITLE titleType="Title" lang="eng">Years:1963-1990</TITLE>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <DATETIME_ADDED>2014-11-27 10:56:32</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-02-06 13:39:51</DATETIME_MODIFIED>
+        <USER_ID_ADDED>100</USER_ID_ADDED>
+        <IMAGE>koledar-slika.png</IMAGE>
+    </publication>
+    <publication>
+        <ID>30146</ID>
+        <URN>11686/30146</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <MENU_ID id="587">Kronološki pregled (1963-1990)</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Sistem">7</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <TITLE titleType="Title" lang="slv">Sejni zapisi Skupščine Socialistične Republike Slovenije</TITLE>
+        <TITLE titleType="Title" lang="slv">Skupščine Samoupravnih interesnih skupnosti</TITLE>
+        <TITLE titleType="Title" lang="slv">Kronološki pregled</TITLE>
+        <TITLE titleType="Title" lang="slv">Leta: 1975-1985</TITLE>
+        <TITLE titleType="Title" lang="eng">Shorthand minutes of the People’s Assembly of the People’s Republic of Slovenia</TITLE>
+        <TITLE titleType="Title" lang="eng">Assemblies of Self-managed Communities of Interest</TITLE>
+        <TITLE titleType="Title" lang="eng">Chronological Review</TITLE>
+        <TITLE titleType="Title" lang="eng">Years: 1975-1985</TITLE>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <DATETIME_ADDED>2014-11-27 10:43:49</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-02-06 14:16:37</DATETIME_MODIFIED>
+        <USER_ID_ADDED>100</USER_ID_ADDED>
+        <IMAGE>koledar-slika.png</IMAGE>
+    </publication>
+    <publication>
+        <ID>20205</ID>
+        <URN>11686/20205</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <MENU_ID id="587">Kronološki pregled (1963-1990)</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Sistem">7</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <TITLE titleType="Title" lang="slv">Sejni zapisi Skupščine Socialistične Republike Slovenije</TITLE>
+        <TITLE titleType="Title" lang="slv">Zbori</TITLE>
+        <TITLE titleType="Title" lang="slv">Kronološki pregled</TITLE>
+        <TITLE titleType="Title" lang="slv">Leta: 1963-1990</TITLE>
+        <TITLE titleType="Title" lang="eng">Shorthand minutes of the People’s Assembly of the People’s Republic of Slovenia</TITLE>
+        <TITLE titleType="Title" lang="eng">Chambers</TITLE>
+        <TITLE titleType="Title" lang="eng">Chronological Review</TITLE>
+        <TITLE titleType="Title" lang="eng">Years: 1963-1990</TITLE>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <DATETIME_ADDED>2013-08-06 15:58:54</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-02-06 13:23:04</DATETIME_MODIFIED>
+        <USER_ID_ADDED>100</USER_ID_ADDED>
+        <IMAGE>sistory-kronologija.jpg</IMAGE>
+    </publication>
+</root>

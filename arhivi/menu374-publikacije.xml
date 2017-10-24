@@ -1,0 +1,515 @@
+<root>
+    <publication>
+        <ID>30012</ID>
+        <URN>11686/30012</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date Issued" format="Period">
+            <START>1955</START>
+            <END></END>
+            <NAME></NAME>
+            <SCHEME></SCHEME>
+        </DATE>
+        <MENU_ID id="374">Zbirke</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Collection">1</TYPE_DC>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/30414</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/29972</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/29984</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/29975</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/29974</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/29976</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/29983</RELATION>
+        <TITLE titleType="Title" lang="slv">Knjižnica Kronike, časopisa za slovensko krajevno zgodovino</TITLE>
+        <SUBJECT lang="slv">Kulturna zgodovina</SUBJECT>
+        <PUBLISHER>Zveza zgodovinskih društev Slovenije</PUBLISHER>
+        <IDENTIFIER identifierType="Identifier">COBISS.SI-ID 3463776</IDENTIFIER>
+        <KNJIZNICARSKI knjizniElType="libLevel">Knjižna zbirka</KNJIZNICARSKI>
+        <KNJIZNICARSKI knjizniElType="libPubFrequency">Občasno</KNJIZNICARSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1955</YEAR>
+        <DATETIME_ADDED>2014-11-17 10:48:00</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-10-07 12:02:57</DATETIME_MODIFIED>
+        <USER_ID_ADDED>100</USER_ID_ADDED>
+        <IMAGE>logo-Kronika2.png</IMAGE>
+    </publication>
+    <publication>
+        <ID>26738</ID>
+        <URN>11686/26738</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date Issued" format="Period">
+            <START>1980</START>
+            <END></END>
+            <NAME></NAME>
+            <SCHEME></SCHEME>
+        </DATE>
+        <MENU_ID id="374">Zbirke</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Collection">1</TYPE_DC>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/26799</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/30418</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/26798</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/26736</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/35238</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/30404</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/26860</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/30407</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/26800</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/30413</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/26861</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/30412</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/30415</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/26859</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/30416</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/30405</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/30410</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/30417</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/30406</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/35220</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/35240</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/35237</RELATION>
+        <TITLE titleType="Title" lang="slv">Zbirka Zgodovinskega časopisa</TITLE>
+        <SUBJECT lang="slv">Zgodovina</SUBJECT>
+        <SUBJECT lang="eng">History</SUBJECT>
+        <PUBLISHER>Zveza zgodovinskih društev Slovenije</PUBLISHER>
+        <IDENTIFIER identifierType="Identifier">ISSN	1408-3531</IDENTIFIER>
+        <IDENTIFIER identifierType="Identifier">COBISS.SI-ID 67929088</IDENTIFIER>
+        <KNJIZNICARSKI knjizniElType="libLevel">Knjižna zbirka</KNJIZNICARSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1980</YEAR>
+        <DATETIME_ADDED>2014-04-14 14:56:20</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-10-10 13:42:20</DATETIME_MODIFIED>
+        <USER_ID_ADDED>100</USER_ID_ADDED>
+        <IMAGE>Zveza_zgodovinskih_drustev_Slovenije-logo.jpg</IMAGE>
+    </publication>
+    <publication>
+        <ID>20233</ID>
+        <URN>11686/20233</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <MENU_ID id="374">Zbirke</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Collection">1</TYPE_DC>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/15561</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/15360</RELATION>
+        <TITLE titleType="Title" lang="slv">Tiri in čas</TITLE>
+        <SUBJECT lang="slv">Železnice</SUBJECT>
+        <SUBJECT lang="slv">Zgodovina</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="eng">Railway</SUBJECT>
+        <SUBJECT lang="eng">History</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <PUBLISHER>Slovenske železnice - Železniški muzej</PUBLISHER>
+        <IDENTIFIER identifierType="Identifier">ISSN 0353-4804</IDENTIFIER>
+        <IDENTIFIER identifierType="Identifier">COBISS.SI-ID 16560386</IDENTIFIER>
+        <KNJIZNICARSKI knjizniElType="libLevel">Knjižna zbirka</KNJIZNICARSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1989</YEAR>
+        <DATETIME_ADDED>2013-09-25 16:25:31</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-10-10 12:03:26</DATETIME_MODIFIED>
+        <USER_ID_ADDED>100</USER_ID_ADDED>
+        <IMAGE>logo-Zelezniski_muzej-V2.jpg</IMAGE>
+    </publication>
+    <publication>
+        <ID>20231</ID>
+        <URN>11686/20231</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date Issued" format="Period">
+            <START>1979</START>
+            <END></END>
+            <NAME></NAME>
+            <SCHEME></SCHEME>
+        </DATE>
+        <MENU_ID id="374">Zbirke</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Collection">1</TYPE_DC>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/11660</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/9599</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/31137</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/20239</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/9600</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/31138</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/9166</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/9163</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/35973</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/20226</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/9601</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/20241</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/20242</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/20240</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/37167</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/37166</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/31139</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/37170</RELATION>
+        <TITLE titleType="Title" lang="slv">Gradivo in razprave</TITLE>
+        <SUBJECT lang="slv">Zgodovina</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana</PUBLISHER>
+        <PUBLISHER>http://hdl.handle.net/11686/4878</PUBLISHER>
+        <IDENTIFIER identifierType="Identifier">ISSN 1318-3478</IDENTIFIER>
+        <IDENTIFIER identifierType="Identifier">COBISS.SI-ID 725837</IDENTIFIER>
+        <KNJIZNICARSKI knjizniElType="libLevel">Knjižna zbirka</KNJIZNICARSKI>
+        <KNJIZNICARSKI knjizniElType="libPubFrequency">Občasno</KNJIZNICARSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1979</YEAR>
+        <DATETIME_ADDED>2013-09-25 12:54:38</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-09-20 14:32:29</DATETIME_MODIFIED>
+        <USER_ID_ADDED>81</USER_ID_ADDED>
+        <IMAGE>Zgodovinski arhiv Ljubljana.jpg</IMAGE>
+    </publication>
+    <publication>
+        <ID>20230</ID>
+        <URN>11686/20230</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <MENU_ID id="374">Zbirke</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Collection">1</TYPE_DC>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/20421</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/20424</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/20749</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/20750</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/2562</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/26810</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/20217</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/26858</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/26858</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/26857</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/26853</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/30974</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/26733</RELATION>
+        <TITLE titleType="Title" lang="slv">Historia: znanstvena zbirka Oddelka za zgodovino Filozofska fakultete v Ljubljani</TITLE>
+        <SUBJECT lang="slv">Zgodovina</SUBJECT>
+        <SUBJECT lang="eng">History</SUBJECT>
+        <PUBLISHER>Oddelek za zgodovino Filozofske fakultete</PUBLISHER>
+        <PUBLISHER>http://hdl.handle.net/11686/20273</PUBLISHER>
+        <KNJIZNICARSKI knjizniElType="libLevel">Knjižna zbirka</KNJIZNICARSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <DATETIME_ADDED>2013-09-25 12:06:21</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-09-20 15:29:41</DATETIME_MODIFIED>
+        <USER_ID_ADDED>81</USER_ID_ADDED>
+        <IMAGE>header-FF-OddelekZaZgodovino.jpg</IMAGE>
+    </publication>
+    <publication>
+        <ID>9070</ID>
+        <URN>11686/9070</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <MENU_ID id="374">Zbirke</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Collection">1</TYPE_DC>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/8925</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/8926</RELATION>
+        <TITLE titleType="Title" lang="slv">Zbrana dela Primoža Trubarja</TITLE>
+        <PUBLISHER>Pedagoški inštitut</PUBLISHER>
+        <PUBLISHER>http://hdl.handle.net/11686/9067</PUBLISHER>
+        <KNJIZNICARSKI knjizniElType="libLevel">Knjižna zbirka</KNJIZNICARSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <DATETIME_ADDED>2012-04-15 10:00:14</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-10-11 10:27:03</DATETIME_MODIFIED>
+        <USER_ID_ADDED>100</USER_ID_ADDED>
+        <IMAGE>banner_si.png</IMAGE>
+    </publication>
+    <publication>
+        <ID>9069</ID>
+        <URN>11686/9069</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date Issued" format="Period">
+            <START>2009</START>
+            <END></END>
+            <NAME></NAME>
+            <SCHEME></SCHEME>
+        </DATE>
+        <MENU_ID id="374">Zbirke</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Collection">1</TYPE_DC>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/914</RELATION>
+        <TITLE titleType="Title" lang="slv">Digitalna knjižnica</TITLE>
+        <TITLE titleType="Title" lang="slv">Compendia</TITLE>
+        <PUBLISHER>Pedagoški inštitut, Ljubljana</PUBLISHER>
+        <PUBLISHER>http://hdl.handle.net/11686/9067</PUBLISHER>
+        <IDENTIFIER identifierType="Identifier">ISSN 1855-9654</IDENTIFIER>
+        <IDENTIFIER identifierType="Identifier">COBISS.SI-ID 252537088</IDENTIFIER>
+        <KNJIZNICARSKI knjizniElType="libLevel">knjižna zbirka</KNJIZNICARSKI>
+        <KNJIZNICARSKI knjizniElType="libPubFrequency">občasno</KNJIZNICARSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>2009</YEAR>
+        <DATETIME_ADDED>2012-04-15 09:56:45</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-10-05 11:36:36</DATETIME_MODIFIED>
+        <USER_ID_ADDED>11</USER_ID_ADDED>
+        <IMAGE>Digitalna knjiznica_logotip.jpg</IMAGE>
+    </publication>
+    <publication>
+        <ID>9068</ID>
+        <URN>11686/9068</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date Issued" format="Period">
+            <START>2009</START>
+            <END></END>
+            <NAME></NAME>
+            <SCHEME></SCHEME>
+        </DATE>
+        <MENU_ID id="374">Zbirke</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Collection">1</TYPE_DC>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/911</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/912</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/913</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/968</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/971</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/983</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/9071</RELATION>
+        <TITLE titleType="Title" lang="slv">Dissertationes</TITLE>
+        <SUBJECT lang="slv">Humanistične vede</SUBJECT>
+        <PUBLISHER>Pedagoški inštitut, Ljubljana</PUBLISHER>
+        <PUBLISHER>http://hdl.handle.net/11686/9067</PUBLISHER>
+        <IDENTIFIER identifierType="Identifier">ISSN 1855-9638</IDENTIFIER>
+        <IDENTIFIER identifierType="Identifier">COBISS.SI-ID 252536576</IDENTIFIER>
+        <KNJIZNICARSKI knjizniElType="libLevel">knjižna zbirka</KNJIZNICARSKI>
+        <KNJIZNICARSKI knjizniElType="libPubFrequency">občasno</KNJIZNICARSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>2009</YEAR>
+        <DATETIME_ADDED>2012-04-17 20:12:25</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-10-05 13:34:31</DATETIME_MODIFIED>
+        <USER_ID_ADDED>100</USER_ID_ADDED>
+        <IMAGE>Digitalna knjiznica_logotip.jpg</IMAGE>
+    </publication>
+    <publication>
+        <ID>4897</ID>
+        <URN>11686/4897</URN>
+        <CHILD_ORDER>7258</CHILD_ORDER>
+        <MENU_ID id="374">Zbirke</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Sistem">7</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/4872</RELATION>
+        <TITLE titleType="Title" lang="slv">Documenta et studia historiae recentioris</TITLE>
+        <PUBLISHER>Založba Litera</PUBLISHER>
+        <KNJIZNICARSKI knjizniElType="libLevel">Knjižna zbirka</KNJIZNICARSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <DATETIME_ADDED>2012-04-14 19:40:28</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-10-06 10:40:40</DATETIME_MODIFIED>
+        <USER_ID_ADDED>100</USER_ID_ADDED>
+        <IMAGE>Litera-logo.jpg</IMAGE>
+    </publication>
+    <publication>
+        <ID>4842</ID>
+        <URN>11686/4842</URN>
+        <CHILD_ORDER>7257</CHILD_ORDER>
+        <DATE type="Date Issued" format="Period">
+            <START>1996</START>
+            <END></END>
+            <NAME></NAME>
+            <SCHEME></SCHEME>
+        </DATE>
+        <MENU_ID id="374">Zbirke</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Collection">1</TYPE_DC>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/842</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/1043</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/1044</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/1045</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/1046</RELATION>
+        <TITLE titleType="Title" lang="slv">Odsevi preteklosti</TITLE>
+        <PUBLISHER>Muzej novejše zgodovine Celje</PUBLISHER>
+        <IDENTIFIER identifierType="Identifier">ISSN	1408-6611</IDENTIFIER>
+        <IDENTIFIER identifierType="Identifier">COBISS.SI-ID 75751936</IDENTIFIER>
+        <KNJIZNICARSKI knjizniElType="libLevel">Knjižna zbirka</KNJIZNICARSKI>
+        <KNJIZNICARSKI knjizniElType="libPubFrequency">Občasno</KNJIZNICARSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1996</YEAR>
+        <DATETIME_ADDED>2012-04-14 19:42:24</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-10-10 08:35:57</DATETIME_MODIFIED>
+        <USER_ID_ADDED>100</USER_ID_ADDED>
+        <IMAGE>Odsevi preteklosti2.jpg</IMAGE>
+    </publication>
+    <publication>
+        <ID>4823</ID>
+        <URN>11686/4823</URN>
+        <CHILD_ORDER>7256</CHILD_ORDER>
+        <DATE type="Date Issued" format="Period">
+            <START>1980</START>
+            <END></END>
+            <NAME></NAME>
+            <SCHEME></SCHEME>
+        </DATE>
+        <MENU_ID id="374">Zbirke</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Collection">1</TYPE_DC>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/20731</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/996</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/982</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/20730</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/3038</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/995</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/993</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/2561</RELATION>
+        <TITLE titleType="Title" lang="slv">Documenta et studia historiae recentioris</TITLE>
+        <SUBJECT lang="slv">Preučevanje področij</SUBJECT>
+        <SUBJECT lang="slv">Preučevanje krajev</SUBJECT>
+        <SUBJECT lang="slv">Domoznanstvo</SUBJECT>
+        <PUBLISHER>Založba Obzorja, Maribor</PUBLISHER>
+        <PUBLISHER>http://hdl.handle.net/11686/4885</PUBLISHER>
+        <IDENTIFIER identifierType="Identifier">ISSN 1408-2551</IDENTIFIER>
+        <IDENTIFIER identifierType="Identifier">COBISS.SI-ID 66590464</IDENTIFIER>
+        <KNJIZNICARSKI knjizniElType="libLevel">Knjižna zbirka</KNJIZNICARSKI>
+        <KNJIZNICARSKI knjizniElType="libPubFrequency">Občasno</KNJIZNICARSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1980</YEAR>
+        <DATETIME_ADDED>2012-04-14 19:42:41</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-10-06 09:48:25</DATETIME_MODIFIED>
+        <USER_ID_ADDED>100</USER_ID_ADDED>
+        <IMAGE>znak-zalozba-Obzorja-col2.jpg</IMAGE>
+    </publication>
+    <publication>
+        <ID>4822</ID>
+        <URN>11686/4822</URN>
+        <CHILD_ORDER>7255</CHILD_ORDER>
+        <DATE type="Date Issued" format="Period">
+            <START>2005</START>
+            <END></END>
+            <NAME></NAME>
+            <SCHEME></SCHEME>
+        </DATE>
+        <MENU_ID id="374">Zbirke</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <LANGUAGE lang="eng">2</LANGUAGE>
+        <LANGUAGE lang="hrv">17</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Collection">1</TYPE_DC>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/1556</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/1557</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/1558</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/1559</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/1560</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/1555</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/1561</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/1563</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/34875</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/1564</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/1562</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/38023</RELATION>
+        <TITLE titleType="Title" lang="slv">Razpoznavanja</TITLE>
+        <SUBJECT lang="slv">Zgodovina</SUBJECT>
+        <SUBJECT lang="eng">History</SUBJECT>
+        <PUBLISHER>Inštitut za novejšo zgodovino</PUBLISHER>
+        <IDENTIFIER identifierType="Identifier">ISSN 2350-5664</IDENTIFIER>
+        <IDENTIFIER identifierType="Sistory signatura">COBISS.SI-ID 273026304</IDENTIFIER>
+        <KNJIZNICARSKI knjizniElType="libLevel">Knjižna zbirka</KNJIZNICARSKI>
+        <KNJIZNICARSKI knjizniElType="libPubFrequency">Občasno</KNJIZNICARSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>2005</YEAR>
+        <DATETIME_ADDED>2012-04-14 19:42:56</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-10-23 11:07:10</DATETIME_MODIFIED>
+        <USER_ID_ADDED>123</USER_ID_ADDED>
+        <IMAGE>logo zbirke razpoznavanja2.jpg</IMAGE>
+    </publication>
+    <publication>
+        <ID>4821</ID>
+        <URN>11686/4821</URN>
+        <CHILD_ORDER>7254</CHILD_ORDER>
+        <DATE type="Date Issued" format="Period">
+            <START>2003</START>
+            <END></END>
+            <NAME></NAME>
+            <SCHEME></SCHEME>
+        </DATE>
+        <MENU_ID id="374">Zbirke</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Collection">1</TYPE_DC>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/924</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/1047</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/1051</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/4744</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/1048</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/1052</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/4781</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/12289</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/15102</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/20425</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/30170</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/35096</RELATION>
+        <TITLE titleType="Title" lang="slv">Zgodovini.ce</TITLE>
+        <SUBJECT lang="slv">Zgodovina</SUBJECT>
+        <SUBJECT lang="slv">Celje</SUBJECT>
+        <SUBJECT lang="eng">History</SUBJECT>
+        <PUBLISHER>Zgodovinsko društvo Celje</PUBLISHER>
+        <IDENTIFIER identifierType="Identifier">ISSN 1854-7591</IDENTIFIER>
+        <IDENTIFIER identifierType="Identifier">COBISS.SI-ID 230751488</IDENTIFIER>
+        <KNJIZNICARSKI knjizniElType="libLevel">Knjižna zbirka</KNJIZNICARSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>2003</YEAR>
+        <DATETIME_ADDED>2012-04-14 19:43:09</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-10-11 10:52:47</DATETIME_MODIFIED>
+        <USER_ID_ADDED>100</USER_ID_ADDED>
+        <IMAGE>Zgodovina_za_vse-ikona.jpg</IMAGE>
+    </publication>
+    <publication>
+        <ID>4820</ID>
+        <URN>11686/4820</URN>
+        <CHILD_ORDER>7253</CHILD_ORDER>
+        <DATE type="Date Issued" format="Period">
+            <START>2008</START>
+            <END></END>
+            <NAME></NAME>
+            <SCHEME></SCHEME>
+        </DATE>
+        <MENU_ID id="374">Zbirke</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <LANGUAGE lang="eng">2</LANGUAGE>
+        <LANGUAGE lang="hrv">17</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Collection">1</TYPE_DC>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/780</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/15560</RELATION>
+        <TITLE titleType="Title" lang="slv">Vpogledi</TITLE>
+        <SUBJECT lang="slv">Zgodovina</SUBJECT>
+        <SUBJECT lang="eng">History</SUBJECT>
+        <PUBLISHER>Inštitut za novejšo zgodovino</PUBLISHER>
+        <PUBLISHER>http://hdl.handle.net/11686/4893</PUBLISHER>
+        <IDENTIFIER identifierType="Identifier">ISSN	 2350-5656</IDENTIFIER>
+        <IDENTIFIER identifierType="Identifier">COBISS.SI-ID 273025536</IDENTIFIER>
+        <KNJIZNICARSKI knjizniElType="libLevel">Knjižna zbirka</KNJIZNICARSKI>
+        <KNJIZNICARSKI knjizniElType="libPubFrequency">Občasno</KNJIZNICARSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>2008</YEAR>
+        <DATETIME_ADDED>2012-04-14 19:43:32</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-10-10 11:55:51</DATETIME_MODIFIED>
+        <USER_ID_ADDED>100</USER_ID_ADDED>
+        <IMAGE>Vpogledi-ikona2.jpg</IMAGE>
+    </publication>
+</root>

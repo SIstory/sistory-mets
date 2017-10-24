@@ -3573,6 +3573,19 @@
                   <dcterms:title xml:lang="eng">SI ZAL LJU 342 Fototeka (1859-2010)</dcterms:title>
                </dublincore>
             </collection>
+              
+          <collection id="812" publications="true">
+             <title lang="slv">Zasebno arhivsko gradivo</title>  
+             <title lang="eng">Private archive soruces</title>
+             <menu>
+                <collection:searchResultsSort>Title ascending</collection:searchResultsSort>
+                <collection:searchResultsShow>One per line</collection:searchResultsShow>
+             </menu>
+             <dublincore>
+                <dcterms:title xml:lang="slv">Zasebno arhivsko gradivo</dcterms:title>
+                <dcterms:title xml:lang="eng">Private archive sources</dcterms:title>
+             </dublincore>
+          </collection>    
          </collection> </collection></collection>
          
          <collection id="11">
@@ -3587,7 +3600,7 @@
                <dcterms:title xml:lang="eng">Museum items</dcterms:title>
             </dublincore> 
             
-            <collection id="196">
+            <collection id="196" publications="true">
                <title lang="slv">Odlivanje smrti</title>  
                <title lang="eng">Museum items</title>
                <menu>
@@ -3628,7 +3641,7 @@
                      <dcterms:title xml:lang="eng">Newspaper sources</dcterms:title>
                   </dublincore>
                   
-                 <collection id="816">
+                 <collection id="816" publications="true">
                     <title lang="slv">Delavsko - kmetski list</title>  
                     <title lang="eng">Delavsko - kmetski list</title>
                     <menu>
@@ -3646,7 +3659,7 @@
                     </dublincore>
                  </collection> 
                   
-                  <collection id="817">
+                  <collection id="817" publications="true">
                      <title lang="slv">Enotnost</title>  
                      <title lang="eng">Unity</title>
                      <menu>
@@ -3662,7 +3675,7 @@
                      </dublincore>  
                   </collection>
                   
-                  <collection id="818">
+                  <collection id="818" publications="true">
                      <title lang="slv">Glas svobode</title>  
                      <title lang="eng">Glas svobode</title>
                      <menu>
@@ -3679,7 +3692,7 @@
                   </collection>
                </collection>
                
-               <collection id="218">
+               <collection id="218" publications="true">
                   <title lang="slv">Knjižice in brošure</title>  
                   <title lang="eng">Booklets and brochures</title>
                   <menu> 
@@ -3767,7 +3780,7 @@
                   </dublincore>       
                
                
-               <collection id="819">
+               <collection id="819" publications="true">
                   <title lang="slv">Mladina /Svobodna mladina 1925-1929</title>  
                   <title lang="eng">Mladina /Svobodna mladina 1925-1929</title>
                   <menu> 
@@ -3813,7 +3826,7 @@
                   </collection>
                </collection>
                
-               <collection id="64">
+               <collection id="64" publications="true">
                   <title lang="slv">Priročniki</title>
                   <title lang="eng">Handbooks</title>
                   <menu>
@@ -3825,7 +3838,9 @@
                      <dcterms:title xml:lang="eng">Handbooks</dcterms:title>
                   </dublincore>
                   
-                  <collection id="100">
+                
+                  
+                  <collection id="100" publications="true">
                      <title lang="slv">Priročniki za šolstvo</title>
                      <title lang="eng">Handbooks on education</title>
                      <menu>
@@ -3857,7 +3872,7 @@
                   </collection>
                </collection>
                
-               <collection id="397">
+               <collection id="397" publications="true">
                   <title lang="slv">Sejni zapisi izvršnih in zakonodajnih teles</title>
                   <title lang="eng">Verbatim minutes of the executive and legislative bodies</title>
                   <menu>
@@ -3938,7 +3953,7 @@
                      </collection>
                   </collection>
                   
-                  <collection id="406" publications="true">
+                  <collection id="406">
                      <title lang="slv">Narodna vlada in Deželna vlada za Slovenijo (1918-1921)</title>
                      <title lang="eng">National Government session minutes</title>
                      <menu>
@@ -4307,7 +4322,7 @@
                         <dcterms:title xml:lang="eng">Official Gazettes 1941-1945</dcterms:title>
                      </dublincore>  
                      
-                     <collection id="337">
+                     <collection id="337" publications="true">
                         <title lang="slv">Uradni listi okupacijskih oblasti</title>
                         <title lang="eng">Official gazettes of the occupying forces</title>
                         <menu>  
@@ -4320,7 +4335,7 @@
                         </dublincore>  
                      </collection>
                      
-                     <collection id="338">
+                     <collection id="338" publications="true">
                         <title lang="slv">Službene novine Kraljevine Jugoslavije. Vojna izdaja.</title>
                         <title lang="eng">Official Gazette of the Kingdom of Yugoslavia. War edition.</title>
                         <menu>  
@@ -4333,7 +4348,7 @@
                         </dublincore>  
                      </collection>
                      
-                     <collection id="829">
+                     <collection id="829" publications="true">
                         <title lang="slv">Zakoni, zakonske odredbe i naredbe Nezavisne Države Hrvatske</title>
                         <menu>  
                            <collection:searchResultsShow>One per line</collection:searchResultsShow>
@@ -4354,7 +4369,7 @@
                      </collection>
                   </collection>
                  
-                  <collection id="189">
+                  <collection id="189" publications="true">
                      <title lang="slv">Uradni listi od leta 1945</title>
                      <title lang="eng">Official Gazettes from 1945 on</title>
                      <menu>  
@@ -4368,7 +4383,7 @@
                   </collection>
                </collection>
                
-               <collection id="396">
+               <collection id="396" publications="true">
                   <title lang="slv">Zemljevidi in atlasi</title>
                   <title lang="eng">Maps and atlases</title>
                   <menu>  
@@ -4382,7 +4397,7 @@
                </collection>
             </collection>
             
-            <collection id="8">
+            <collection id="8" publications="true">
                <title lang="slv">Ustni viri</title>
                <title lang="eng">Oral sources</title>
                <menu>  
@@ -4427,7 +4442,7 @@
             </dublincore>
          </collection>
          
-         <collection id="17" >
+         <collection id="17" publications="true" >
             <title lang="slv">Monografije</title>
             <title lang="eng">Monographs</title>
             <menu>  

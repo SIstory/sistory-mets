@@ -1,0 +1,486 @@
+<root>
+    <publication>
+        <ID>36150</ID>
+        <URN>11686/36150</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CREATOR2 lang="srp">Savezni zavod za statistiku i evidenciju FNRJ, Odelenje za statistiku i evidenciju spolnje trgovine</CREATOR2>
+        <CREATOR2 lang="eng">Federal statistical office of the FPR of Yugoslavia, Foreign trade divison</CREATOR2>
+        <DATE type="Date" format="W3CDTF">1953-01-01</DATE>
+        <MENU_ID id="797">Gospodarske analize in poročila</MENU_ID>
+        <LANGUAGE lang="srp">16</LANGUAGE>
+        <LANGUAGE lang="eng">2</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title">Statistika spoljne trgovine FNR Jugoslavije za 1946, 1947, 1948 i 1949 godinu</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:36150" rel="dct:creator"><span property="dct:title">Savezni zavod za statistiku i evidenciju FNRJ, Beograd</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+Avtorske pravice so potekle, delo je v javni domeni.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="eng">Statistics of foreign trade of the FPR of Yugoslavia years 1946, 1947, 1948 and 1949</TITLE>
+        <TITLE titleType="Title" lang="srp">Statistika spoljne trgovine FNR Jugoslavije za 1946, 1947, 1948 i 1949 godinu</TITLE>
+        <SUBJECT lang="slv">statistika</SUBJECT>
+        <SUBJECT lang="slv">zunanja trgovina</SUBJECT>
+        <SUBJECT lang="slv">Jugoslavija</SUBJECT>
+        <SUBJECT lang="eng">statistics</SUBJECT>
+        <SUBJECT lang="eng">foreign trade</SUBJECT>
+        <SUBJECT lang="eng">Yugoslavia</SUBJECT>
+        <PUBLISHER>Savezni zavod za statistiku i evidenciju FNRJ, Beograd</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1953</YEAR>
+        <DATETIME_ADDED>2016-12-15 15:34:55</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-12-16 14:19:13</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="statistika_spoljne_trgovine_FNRJ.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>34830</ID>
+        <URN>11686/34830</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CONTRIBUTOR>Velimir Bajkić (ur.)</CONTRIBUTOR>
+        <CREATOR2 lang="slv">Narodno blagostanje, Beograd</CREATOR2>
+        <DATE type="Date">1940</DATE>
+        <MENU_ID id="797">Gospodarske analize in poročila</MENU_ID>
+        <LANGUAGE lang="srp">16</LANGUAGE>
+        <LANGUAGE lang="srp">5</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title">Naša narodna privreda u 1940/1941 god. u svetlosti bilansa naših vodečih akcionarskih društava</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:34830" rel="dct:creator"><span property="dct:title">Narodno blagostanje, Beograd</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+Avtorske pravice so potekle, delo je v javni domeni.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="srp">Наша народна привреда у 1940/1941 год. у светлости биланса наших водечих акционарских друштава</TITLE>
+        <TITLE titleType="Title" lang="srp">Naša narodna privreda u 1940/1941 god. u svetlosti bilansa naših vodečih akcionarskih društava</TITLE>
+        <SUBJECT lang="slv">gospodarstvo</SUBJECT>
+        <SUBJECT lang="slv">bilance</SUBJECT>
+        <SUBJECT lang="slv">Kraljevina Jugoslavija</SUBJECT>
+        <SUBJECT lang="eng">economy</SUBJECT>
+        <SUBJECT lang="eng">balances</SUBJECT>
+        <SUBJECT lang="eng">Kingdom of Yugoslavia</SUBJECT>
+        <PUBLISHER>Narodno blagostanje, Beograd</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1940</YEAR>
+        <DATETIME_ADDED>2015-11-26 07:49:30</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-11-17 15:09:10</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="EA_1940-1941.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>34829</ID>
+        <URN>11686/34829</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CONTRIBUTOR>Velimir Bajkić (ur.)</CONTRIBUTOR>
+        <CREATOR2 lang="slv">Narodno blagostanje, Beograd</CREATOR2>
+        <DATE type="Date">1939</DATE>
+        <MENU_ID id="797">Gospodarske analize in poročila</MENU_ID>
+        <LANGUAGE lang="srp">16</LANGUAGE>
+        <LANGUAGE lang="srp">5</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title">Naša narodna privreda u 1939 god. u svetlosti bilansa naših vodečih akcionarskih društava</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:34829" rel="dct:creator"><span property="dct:title">Narodno blagostanje, Beograd</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+Avtorske pravice so potekle, delo je v javni domeni.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="srp">Наша народна привреда у 1939 год. у светлости биланса наших водечих акционарских друштава</TITLE>
+        <TITLE titleType="Title" lang="srp">Naša narodna privreda u 1939 god. u svetlosti bilansa naših vodečih akcionarskih društava</TITLE>
+        <SUBJECT lang="slv">gospodarstvo</SUBJECT>
+        <SUBJECT lang="slv">bilance</SUBJECT>
+        <SUBJECT lang="slv">Kraljevina Jugoslavija</SUBJECT>
+        <SUBJECT lang="eng">economy</SUBJECT>
+        <SUBJECT lang="eng">balances</SUBJECT>
+        <SUBJECT lang="eng">Kingdom of Yugoslavia</SUBJECT>
+        <PUBLISHER>Narodno blagostanje, Beograd</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1939</YEAR>
+        <DATETIME_ADDED>2015-11-26 07:44:54</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-11-17 15:09:21</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="EA_1939.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>34828</ID>
+        <URN>11686/34828</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CONTRIBUTOR>Velimir Bajkić (ur.)</CONTRIBUTOR>
+        <CREATOR2 lang="slv">Narodno blagostanje, Beograd</CREATOR2>
+        <DATE type="Date">1938</DATE>
+        <MENU_ID id="797">Gospodarske analize in poročila</MENU_ID>
+        <LANGUAGE lang="srp">16</LANGUAGE>
+        <LANGUAGE lang="srp">5</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title">Naša narodna privreda u 1938 god. u svetlosti bilansa naših vodečih akcionarskih društava</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:34828" rel="dct:creator"><span property="dct:title">Narodno blagostanje, Beograd</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+Avtorske pravice so potekle, delo je v javni domeni.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="srp">Наша народна привреда у 1938 год. у светлости биланса наших водечих акционарских друштава</TITLE>
+        <TITLE titleType="Title" lang="srp">Naša narodna privreda u 1938 god. u svetlosti bilansa naših vodečih akcionarskih društava</TITLE>
+        <SUBJECT lang="slv">gospodarstvo</SUBJECT>
+        <SUBJECT lang="slv">bilance</SUBJECT>
+        <SUBJECT lang="slv">Kraljevina Jugoslavija</SUBJECT>
+        <SUBJECT lang="eng">economy</SUBJECT>
+        <SUBJECT lang="eng">balances</SUBJECT>
+        <SUBJECT lang="eng">Kingdom of Yugoslavia</SUBJECT>
+        <PUBLISHER>Narodno blagostanje, Beograd</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1938</YEAR>
+        <DATETIME_ADDED>2015-11-26 07:44:33</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-11-17 15:09:33</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="EA_1938.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>34827</ID>
+        <URN>11686/34827</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CONTRIBUTOR>Velimir Bajkić (ur.)</CONTRIBUTOR>
+        <CREATOR2 lang="slv">Narodno blagostanje, Beograd</CREATOR2>
+        <DATE type="Date">1937</DATE>
+        <MENU_ID id="797">Gospodarske analize in poročila</MENU_ID>
+        <LANGUAGE lang="srp">16</LANGUAGE>
+        <LANGUAGE lang="srp">5</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title">Naša narodna privreda u 1937 god. u svetlosti bilansa naših vodečih akcionarskih društava</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:34827" rel="dct:creator"><span property="dct:title">Narodno blagostanje, Beograd</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+Avtorske pravice so potekle, delo je v javni domeni.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="srp">Наша народна привреда у 1937 год. у светлости биланса наших водечих акционарских друштава</TITLE>
+        <TITLE titleType="Title" lang="srp">Naša narodna privreda u 1937 god. u svetlosti bilansa naših vodečih akcionarskih društava</TITLE>
+        <SUBJECT lang="slv">gospodarstvo</SUBJECT>
+        <SUBJECT lang="slv">bilance</SUBJECT>
+        <SUBJECT lang="slv">Kraljevina Jugoslavija</SUBJECT>
+        <SUBJECT lang="eng">economy</SUBJECT>
+        <SUBJECT lang="eng">balances</SUBJECT>
+        <SUBJECT lang="eng">Kingdom of Yugoslavia</SUBJECT>
+        <PUBLISHER>Narodno blagostanje, Beograd</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1937</YEAR>
+        <DATETIME_ADDED>2015-11-26 07:43:12</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-11-17 15:09:48</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="EA_1937.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>34826</ID>
+        <URN>11686/34826</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CONTRIBUTOR>Velimir Bajkić (ur.)</CONTRIBUTOR>
+        <CREATOR2 lang="slv">Narodno blagostanje, Beograd</CREATOR2>
+        <DATE type="Date">1936</DATE>
+        <MENU_ID id="797">Gospodarske analize in poročila</MENU_ID>
+        <LANGUAGE lang="srp">16</LANGUAGE>
+        <LANGUAGE lang="srp">5</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title">Naša narodna privreda u 1936 god. u svetlosti bilansa naših vodečih akcionarskih društava</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:34826" rel="dct:creator"><span property="dct:title">Narodno blagostanje, Beograd</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+Avtorske pravice so potekle, delo je v javni domeni.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="srp">Наша народна привреда у 1936 год. у светлости биланса наших водечих акционарских друштава</TITLE>
+        <TITLE titleType="Title" lang="srp">Naša narodna privreda u 1936 god. u svetlosti bilansa naših vodečih akcionarskih društava</TITLE>
+        <SUBJECT lang="slv">gospodarstvo</SUBJECT>
+        <SUBJECT lang="slv">bilance</SUBJECT>
+        <SUBJECT lang="slv">Kraljevina Jugoslavija</SUBJECT>
+        <SUBJECT lang="eng">economy</SUBJECT>
+        <SUBJECT lang="eng">balances</SUBJECT>
+        <SUBJECT lang="eng">Kingdom of Yugoslavia</SUBJECT>
+        <PUBLISHER>Narodno blagostanje, Beograd</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1936</YEAR>
+        <DATETIME_ADDED>2015-11-26 07:41:45</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-11-17 15:10:54</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="EA_1936.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>34825</ID>
+        <URN>11686/34825</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CONTRIBUTOR>Velimir Bajkić (ur.)</CONTRIBUTOR>
+        <CREATOR2 lang="slv">Narodno blagostanje, Beograd</CREATOR2>
+        <DATE type="Date">1935</DATE>
+        <MENU_ID id="797">Gospodarske analize in poročila</MENU_ID>
+        <LANGUAGE lang="srp">16</LANGUAGE>
+        <LANGUAGE lang="srp">5</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title">Naša narodna privreda u 1935 god. u svetlosti bilansa naših vodečih akcionarskih društava</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:34825" rel="dct:creator"><span property="dct:title">Narodno blagostanje, Beograd</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+Avtorske pravice so potekle, delo je v javni domeni.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="srp">Наша народна привреда у 1935 год. у светлости биланса наших водечих акционарских друштава</TITLE>
+        <TITLE titleType="Title" lang="srp">Naša narodna privreda u 1935 god. u svetlosti bilansa naših vodečih akcionarskih društava</TITLE>
+        <SUBJECT lang="slv">gospodarstvo</SUBJECT>
+        <SUBJECT lang="slv">bilance</SUBJECT>
+        <SUBJECT lang="slv">Kraljevina Jugoslavija</SUBJECT>
+        <SUBJECT lang="eng">economy</SUBJECT>
+        <SUBJECT lang="eng">balances</SUBJECT>
+        <SUBJECT lang="eng">Kingdom of Yugoslavia</SUBJECT>
+        <PUBLISHER>Narodno blagostanje, Beograd</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1935</YEAR>
+        <DATETIME_ADDED>2015-11-24 23:20:30</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-11-17 15:10:46</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="EA_1935.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>34824</ID>
+        <URN>11686/34824</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CONTRIBUTOR>Velimir Bajkić (ur.)</CONTRIBUTOR>
+        <CREATOR2 lang="slv">Narodno blagostanje, Beograd</CREATOR2>
+        <DATE type="Date">1934</DATE>
+        <MENU_ID id="797">Gospodarske analize in poročila</MENU_ID>
+        <LANGUAGE lang="srp">16</LANGUAGE>
+        <LANGUAGE lang="srp">5</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title">Naša narodna privreda u 1934 god. u svetlosti bilansa naših vodečih akcionarskih društava</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:34824" rel="dct:creator"><span property="dct:title">Narodno blagostanje, Beograd</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+Avtorske pravice so potekle, delo je v javni domeni.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="srp">Наша народна привреда у 1934 год. у светлости биланса наших водечих акционарских друштава</TITLE>
+        <TITLE titleType="Title" lang="srp">Naša narodna privreda u 1934 god. u svetlosti bilansa naših vodečih akcionarskih društava</TITLE>
+        <SUBJECT lang="slv">gospodarstvo</SUBJECT>
+        <SUBJECT lang="slv">bilance</SUBJECT>
+        <SUBJECT lang="slv">Kraljevina Jugoslavija</SUBJECT>
+        <SUBJECT lang="eng">economy</SUBJECT>
+        <SUBJECT lang="eng">balances</SUBJECT>
+        <SUBJECT lang="eng">Kingdom of Yugoslavia</SUBJECT>
+        <PUBLISHER>Narodno blagostanje, Beograd</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1934</YEAR>
+        <DATETIME_ADDED>2015-11-24 23:18:19</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-11-17 15:10:37</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="EA_1934.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>34823</ID>
+        <URN>11686/34823</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CONTRIBUTOR>Velimir Bajkić (ur.)</CONTRIBUTOR>
+        <CREATOR2 lang="slv">Narodno blagostanje, Beograd</CREATOR2>
+        <DATE type="Date">1933</DATE>
+        <MENU_ID id="797">Gospodarske analize in poročila</MENU_ID>
+        <LANGUAGE lang="srp">16</LANGUAGE>
+        <LANGUAGE lang="srp">5</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title">Naša narodna privreda u 1933 god. u svetlosti bilansa naših vodečih akcionarskih društava</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:34823" rel="dct:creator"><span property="dct:title">Narodno blagostanje, Beograd</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+Avtorske pravice so potekle, delo je v javni domeni.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="srp">Наша народна привреда у 1933 год. у светлости биланса наших водечих акционарских друштава</TITLE>
+        <TITLE titleType="Title" lang="srp">Naša narodna privreda u 1933 god. u svetlosti bilansa naših vodečih akcionarskih društava</TITLE>
+        <SUBJECT lang="slv">gospodarstvo</SUBJECT>
+        <SUBJECT lang="slv">bilance</SUBJECT>
+        <SUBJECT lang="slv">Kraljevina Jugoslavija</SUBJECT>
+        <SUBJECT lang="eng">economy</SUBJECT>
+        <SUBJECT lang="eng">balances</SUBJECT>
+        <SUBJECT lang="eng">Kingdom of Yugoslavia</SUBJECT>
+        <PUBLISHER>Narodno blagostanje, Beograd</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1933</YEAR>
+        <DATETIME_ADDED>2015-11-24 23:16:30</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-11-17 15:10:28</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="EA_1933.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>34822</ID>
+        <URN>11686/34822</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CONTRIBUTOR>Velimir Bajkić (ur.)</CONTRIBUTOR>
+        <CREATOR2 lang="slv">Narodno blagostanje, Beograd</CREATOR2>
+        <DATE type="Date">1932</DATE>
+        <MENU_ID id="797">Gospodarske analize in poročila</MENU_ID>
+        <LANGUAGE lang="srp">16</LANGUAGE>
+        <LANGUAGE lang="srp">5</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title">Naša narodna privreda u 1932 god. u svetlosti bilansa naših vodečih akcionarskih društava</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:34822" rel="dct:creator"><span property="dct:title">Narodno blagostanje, Beograd</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+Avtorske pravice so potekle, delo je v javni domeni.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Наша народна привреда у 1932 год. у светлости биланса наших водечих акционарских друштава</TITLE>
+        <TITLE titleType="Title" lang="srp">Naša narodna privreda u 1932 god. u svetlosti bilansa naših vodečih akcionarskih društava</TITLE>
+        <SUBJECT lang="slv">gospodarstvo</SUBJECT>
+        <SUBJECT lang="slv">bilance</SUBJECT>
+        <SUBJECT lang="slv">Kraljevina Jugoslavija</SUBJECT>
+        <SUBJECT lang="eng">economy</SUBJECT>
+        <SUBJECT lang="eng">balances</SUBJECT>
+        <SUBJECT lang="eng">Kingdom of Yugoslavia</SUBJECT>
+        <PUBLISHER>Narodno blagostanje, Beograd</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1932</YEAR>
+        <DATETIME_ADDED>2015-11-24 23:14:16</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-11-17 15:10:17</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="EA_1932.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>34821</ID>
+        <URN>11686/34821</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CONTRIBUTOR>Velimir Bajkić (ur.)</CONTRIBUTOR>
+        <CREATOR2 lang="slv">Narodno blagostanje, Beograd</CREATOR2>
+        <DATE type="Date">1931</DATE>
+        <MENU_ID id="797">Gospodarske analize in poročila</MENU_ID>
+        <LANGUAGE lang="srp">16</LANGUAGE>
+        <LANGUAGE lang="srp">5</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title">Naša narodna privreda u 1931 god. u svetlosti bilansa naših vodečih akcionarskih društava</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:34821" rel="dct:creator"><span property="dct:title">Narodno blagostanje, Beograd</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+Avtorske pravice so potekle, delo je v javni domeni.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Наша народна привреда у 1931 год. у светлости биланса наших водечих акционарских друштава</TITLE>
+        <TITLE titleType="Title" lang="srp">Naša narodna privreda u 1931 god. u svetlosti bilansa naših vodečih akcionarskih društava</TITLE>
+        <SUBJECT lang="slv">gospodarstvo</SUBJECT>
+        <SUBJECT lang="slv">bilance</SUBJECT>
+        <SUBJECT lang="slv">Kraljevina Jugoslavija</SUBJECT>
+        <SUBJECT lang="eng">economy</SUBJECT>
+        <SUBJECT lang="eng">balances</SUBJECT>
+        <SUBJECT lang="eng">Kingdom of Yugoslavia</SUBJECT>
+        <PUBLISHER>Narodno blagostanje, Beograd</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1931</YEAR>
+        <DATETIME_ADDED>2015-11-24 23:12:15</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-11-17 15:10:06</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="EA_1931.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+</root>

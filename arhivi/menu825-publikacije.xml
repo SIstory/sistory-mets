@@ -1,0 +1,287 @@
+<root>
+    <publication>
+        <ID>37826</ID>
+        <URN>11686/37826</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CONTRIBUTOR>Slobodan Nešović (ur.)</CONTRIBUTOR>
+        <DATE type="Date" format="W3CDTF">1975-01-01</DATE>
+        <MENU_ID id="825">AVNOJ in Začasna ljudska skupščina DFJ (1942-1945)</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="isVersionOf" relationAttr="URI" lang="slv">http://www.sistory.si/11686/991</RELATION>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title"> Tretje zasedanje AVNOJ</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:37826" rel="dct:creator"><span property="dct:title">Komunist, Ljubljana</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+To delo avtorskopravno ni varovano.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Tretje zasedanje AVNOJ</TITLE>
+        <SUBJECT lang="slv">AVNOJ</SUBJECT>
+        <SUBJECT lang="slv">tretje zasedanje</SUBJECT>
+        <SUBJECT lang="slv">1945</SUBJECT>
+        <SUBJECT lang="slv">stenografski zapisniki</SUBJECT>
+        <SUBJECT lang="slv">Skupščina Jugoslavije</SUBJECT>
+        <SUBJECT lang="eng">Stenographic minutes</SUBJECT>
+        <SUBJECT lang="eng">Yugoslavia</SUBJECT>
+        <PUBLISHER>Komunist, Ljubljana</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1975</YEAR>
+        <DATETIME_ADDED>2017-06-19 12:31:14</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-06-19 14:06:27</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="TRETJE_ZASEDANJE_AVNOJ.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>37825</ID>
+        <URN>11686/37825</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CONTRIBUTOR>Slobodan Nešović (ur.)</CONTRIBUTOR>
+        <DATE type="Date" format="W3CDTF">1973-01-01</DATE>
+        <MENU_ID id="825">AVNOJ in Začasna ljudska skupščina DFJ (1942-1945)</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="isVersionOf" relationAttr="URI" lang="slv">http://www.sistory.si/11686/12958</RELATION>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title"> Prvo in drugo zasedanje AVNOJ (26. in 27. novembra 1942 in 29. in 30. novembra 1943)</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:37825" rel="dct:creator"><span property="dct:title">Komunist, Ljubljana</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+To delo avtorskopravno ni varovano.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Prvo in drugo zasedanje AVNOJ</TITLE>
+        <TITLE titleType="Title" lang="slv">26. in 27. novembra 1942 in 29. in 30. novembra 1943</TITLE>
+        <TITLE titleType="Title" lang="slv">Prva slovenska izdaja ob 30. obletnici drugega zasedanja AVNOJ</TITLE>
+        <SUBJECT lang="slv">2. svetovna vojna</SUBJECT>
+        <SUBJECT lang="slv">narodnoosvobodilno gibanje</SUBJECT>
+        <SUBJECT lang="slv">politični sistem</SUBJECT>
+        <SUBJECT lang="slv">Jugoslavija</SUBJECT>
+        <SUBJECT lang="eng">World War II</SUBJECT>
+        <SUBJECT lang="eng">National Liberation Movement</SUBJECT>
+        <SUBJECT lang="eng">political system</SUBJECT>
+        <SUBJECT lang="eng">Yugoslavia</SUBJECT>
+        <PUBLISHER>Komunist, Ljubljana</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1973</YEAR>
+        <DATETIME_ADDED>2017-06-19 12:30:43</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-06-19 14:05:08</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="PRVO_DRUGO_ZASEDANJE_AVNOJ.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>12958</ID>
+        <URN>11686/12958</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CONTRIBUTOR>Moša Pijade (ur.)</CONTRIBUTOR>
+        <CONTRIBUTOR>Slobodan Nešović (ur.)</CONTRIBUTOR>
+        <DATE type="Date">1953</DATE>
+        <MENU_ID id="825">AVNOJ in Začasna ljudska skupščina DFJ (1942-1945)</MENU_ID>
+        <LANGUAGE lang="srp">5</LANGUAGE>
+        <LANGUAGE lang="srp">16</LANGUAGE>
+        <LANGUAGE lang="hrv">17</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title">Prvo i drugo zasedanje Antifašističkog veća narodnog oslobođenja Jugoslavije</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:12958" rel="dct:creator"><span property="dct:title">Prezidijum Narodne skupštine FNRJ</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+To delo avtorskopravno ni varovano.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="srp">Прво и друго заседање Антифашистичког већа народног ослобођења Југославије (26 и 27 новембра 1942; 29 и 30 новембра 1943). По стенографским белешкама и другим изворима</TITLE>
+        <TITLE titleType="Title" lang="srp">Prvo i drugo zasedanje Antifašističkog veća narodnog oslobođenja Jugoslavije (26 i 27 novembra 1942; 29 i 30 novembra 1943). Po stenografskim beleškama i drugim izvorima</TITLE>
+        <SUBJECT lang="slv">2. svetovna vojna</SUBJECT>
+        <SUBJECT lang="slv">narodnoosvobodilno gibanje</SUBJECT>
+        <SUBJECT lang="slv">politični sistem</SUBJECT>
+        <SUBJECT lang="slv">Jugoslavija</SUBJECT>
+        <SUBJECT lang="eng">World War II</SUBJECT>
+        <SUBJECT lang="eng">National Liberation Movement</SUBJECT>
+        <SUBJECT lang="eng">political system</SUBJECT>
+        <SUBJECT lang="eng">Yugoslavia</SUBJECT>
+        <PUBLISHER>Prezidijum Narodne skupštine FNRJ, Beograd</PUBLISHER>
+        <COVERAGE coverageType="Coverage" lang="slv">2. svetovna vojna, narodnoosvobodilno gibanje, politični sistem, Jugoslavija</COVERAGE>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1953</YEAR>
+        <DATETIME_ADDED>2012-10-18 14:04:19</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-12-29 15:42:36</DATETIME_MODIFIED>
+        <USER_ID_ADDED>11</USER_ID_ADDED>
+        <PUBLICATION file="Drugo_zasedanje_AVNOJ-a.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>991</ID>
+        <URN>11686/991</URN>
+        <CHILD_ORDER>270</CHILD_ORDER>
+        <DATE type="Date">1945</DATE>
+        <MENU_ID id="825">AVNOJ in Začasna ljudska skupščina DFJ (1942-1945)</MENU_ID>
+        <LANGUAGE lang="srp">5</LANGUAGE>
+        <LANGUAGE lang="srp">16</LANGUAGE>
+        <LANGUAGE lang="hrv">17</LANGUAGE>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title">Treće zasedanje Antifašističkog veća narodnog oslobođenja Jugoslavije i zasedanje privremene narodne skupštine</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:991" rel="dct:creator"><span property="dct:title">Prezidijum narodne skupštine FNRJ</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+To delo avtorskopravno ni varovano.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="srp">Треће заседање Антифашистичког већа народног ослобођења Југославије и заседање привремене народне скупштине</TITLE>
+        <TITLE titleType="Title" lang="srp">7-26 август 1945</TITLE>
+        <TITLE titleType="Title" lang="srp">стенографске белешке</TITLE>
+        <TITLE titleType="Title" lang="srp">Treće zasedanje Antifašističkog veća narodnog oslobođenja Jugoslavije i zasedanje privremene narodne skupštine</TITLE>
+        <TITLE titleType="Title" lang="srp">7-26 avgust 1945</TITLE>
+        <TITLE titleType="Title" lang="srp">stenografske beleške</TITLE>
+        <SUBJECT lang="slv">AVNOJ</SUBJECT>
+        <SUBJECT lang="slv">tretje zasedanje</SUBJECT>
+        <SUBJECT lang="slv">1945</SUBJECT>
+        <SUBJECT lang="slv">stenografski zapisniki</SUBJECT>
+        <SUBJECT lang="slv">Skupščina Jugoslavije</SUBJECT>
+        <SUBJECT lang="eng">Stenographic minutes</SUBJECT>
+        <SUBJECT lang="eng">Yugoslavia</SUBJECT>
+        <PUBLISHER>Prezidijum narodne skupštine FNRJ, Beograd</PUBLISHER>
+        <COVERAGE coverageType="Coverage" lang="slv">Jugoslavija, 1954</COVERAGE>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1945</YEAR>
+        <DATETIME_ADDED>2012-01-26 22:48:45</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-12-29 15:42:46</DATETIME_MODIFIED>
+        <USER_ID_ADDED>11</USER_ID_ADDED>
+        <PUBLICATION file="Zasedanje_AVNOJ_7.-26.8.1945.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>990</ID>
+        <URN>11686/990</URN>
+        <CHILD_ORDER>269</CHILD_ORDER>
+        <CONTRIBUTOR>Slobodan Nešović (ur.)</CONTRIBUTOR>
+        <DATE type="Date">1951</DATE>
+        <MENU_ID id="825">AVNOJ in Začasna ljudska skupščina DFJ (1942-1945)</MENU_ID>
+        <LANGUAGE lang="srp">5</LANGUAGE>
+        <LANGUAGE lang="srp">16</LANGUAGE>
+        <LANGUAGE lang="hrv">17</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title">Zakonodavni rad pretsedništva Antifašističkog veća narodnog oslobođenja Jugoslavije i pretsedništva privremene narodne skupštine DFJ</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:990" rel="dct:creator"><span property="dct:title">Prezidijum narodne skupštine FNRJ</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+To delo avtorskopravno ni varovano.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="srp">Законодавни рад претседништва Антифашистичког већа народног ослобођења Југославије и претседништва привремене народне скупштине ДФЈ</TITLE>
+        <TITLE titleType="Title" lang="srp">(19. новембра 1944 - 27 октобра 1945)</TITLE>
+        <TITLE titleType="Title" lang="srp">по стенографским белешкама и другим изворима</TITLE>
+        <TITLE titleType="Title" lang="srp">Zakonodavni rad pretsedništva Antifašističkog veća narodnog oslobođenja Jugoslavije i pretsedništva privremene narodne skupštine DFJ</TITLE>
+        <TITLE titleType="Title" lang="srp">(19. novembra 1944 - 27 oktobra 1945)</TITLE>
+        <TITLE titleType="Title" lang="srp">po stenografskim beleškama i drugim izvorima</TITLE>
+        <SUBJECT lang="slv">stenografski zapisniki</SUBJECT>
+        <SUBJECT lang="slv">AVNOJ</SUBJECT>
+        <SUBJECT lang="slv">Jugoslavija</SUBJECT>
+        <SUBJECT lang="eng">stenographical minutes</SUBJECT>
+        <SUBJECT lang="eng">Yugoslavia</SUBJECT>
+        <PUBLISHER>Prezidijum Narodne skupštine FNRJ, Beograd</PUBLISHER>
+        <COVERAGE coverageType="Coverage" lang="slv">Jugoslavija, 1944-1945</COVERAGE>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1951</YEAR>
+        <DATETIME_ADDED>2012-01-26 22:49:39</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-12-29 15:42:56</DATETIME_MODIFIED>
+        <USER_ID_ADDED>11</USER_ID_ADDED>
+        <PUBLICATION file="Zakonodavni_rad_pretsednistva_AVNOJ_19.11.1944-27.10.1945.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>988</ID>
+        <URN>11686/988</URN>
+        <CHILD_ORDER>267</CHILD_ORDER>
+        <CONTRIBUTOR>Slobodan Nešović (ur.</CONTRIBUTOR>
+        <DATE type="Date">1952</DATE>
+        <MENU_ID id="825">AVNOJ in Začasna ljudska skupščina DFJ (1942-1945)</MENU_ID>
+        <LANGUAGE lang="srp">5</LANGUAGE>
+        <LANGUAGE lang="srp">16</LANGUAGE>
+        <LANGUAGE lang="hrv">17</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title">Rad zakonodavnih odbora veća narodnog oslobođenja Jugoslavije i privremene narodne skupštine DFJ</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:988" rel="dct:creator"><span property="dct:title">Prezidijum Narodne skupštine FNRJ</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+To delo avtorskopravno ni varovano.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="srp">Rad zakonodavnih odbora veća narodnog oslobođenja Jugoslavije i privremene narodne skupštine DFJ</TITLE>
+        <TITLE titleType="Title" lang="srp">po stenografskim beleškama i drugim izvorima</TITLE>
+        <TITLE titleType="Title" lang="srp">(3 aprila - 25 oktobra 1945)</TITLE>
+        <SUBJECT lang="slv">skupščina</SUBJECT>
+        <SUBJECT lang="slv">Jugoslavija</SUBJECT>
+        <SUBJECT lang="slv">Federativna narodna republika Jugoslavija</SUBJECT>
+        <SUBJECT lang="slv">stenografski zapisniki</SUBJECT>
+        <SUBJECT lang="slv">skupščinski organi</SUBJECT>
+        <SUBJECT lang="slv">zakonodaja</SUBJECT>
+        <SUBJECT lang="slv">predsedstvo</SUBJECT>
+        <SUBJECT lang="eng">assembly</SUBJECT>
+        <SUBJECT lang="eng">Yugoslavia</SUBJECT>
+        <SUBJECT lang="eng">stenographical minutes</SUBJECT>
+        <PUBLISHER>Prezidijum Narodne skupštine FNRJ, Beograd</PUBLISHER>
+        <COVERAGE coverageType="Coverage" lang="slv">Jugoslavija, 1945</COVERAGE>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1952</YEAR>
+        <DATETIME_ADDED>2012-01-26 22:51:51</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-12-29 15:43:06</DATETIME_MODIFIED>
+        <USER_ID_ADDED>11</USER_ID_ADDED>
+        <PUBLICATION file="Rad_zakonodavnih_odbora_3.4.1945-25.10.1945.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+</root>

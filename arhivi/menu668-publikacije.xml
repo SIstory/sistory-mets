@@ -1,0 +1,345 @@
+<root>
+    <publication>
+        <ID>29970</ID>
+        <URN>11686/29970</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CREATOR>
+            <IME>Anka</IME>
+            <PRIIMEK>Vidovič  Miklavčič</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date">2010</DATE>
+        <MENU_ID id="668">Slovenski okraji in občine med obema vojnama - mikroštudije</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="isPartOf" relationAttr="xml:lang" lang="slv">Kranjski zbornik ISSN: 0351-9589 (2010), str. 80-86</RELATION>
+        <COPYRIGHT>
+            <![CDATA[<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/2.5/si/"><img alt="Creative Commons licenca" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-nd/2.5/si/88x31.png" /></a><br />To <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">delo</span> avtorja <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.sistory.si/SISTORY:ID:29970" property="cc:attributionName" rel="cc:attributionURL">Anka Vidovič Miklavčič</a> je ponujeno pod <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/2.5/si/">Creative Commons Priznanje avtorstva-Nekomercialno-Brez predelav 2.5 Slovenija licenco</a>.]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Mozaik preteklosti okraja Kranj v letih 1929-1935, 1. del</TITLE>
+        <TITLE titleType="Title" lang="slv">Kratek pregled upravne in cerkvene ureditve okraja</TITLE>
+        <SUBJECT lang="slv">Kranj</SUBJECT>
+        <SUBJECT lang="slv">zgodovina</SUBJECT>
+        <SUBJECT lang="slv">upravna ureditev</SUBJECT>
+        <SUBJECT lang="slv">cerkvena ureditev</SUBJECT>
+        <SUBJECT lang="eng">Kranj</SUBJECT>
+        <SUBJECT lang="eng">history</SUBJECT>
+        <SUBJECT lang="eng">administrative organization</SUBJECT>
+        <SUBJECT lang="eng">church organization</SUBJECT>
+        <PUBLISHER>Mestna občina Kranj, Kranj</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>2010</YEAR>
+        <DATETIME_ADDED>2014-11-12 07:11:38</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-11-22 15:18:13</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="kranjski_zbornik_clanek.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>29969</ID>
+        <URN>11686/29969</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CREATOR>
+            <IME>Anka</IME>
+            <PRIIMEK>Vidovič  Miklavčič</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date">2007</DATE>
+        <MENU_ID id="668">Slovenski okraji in občine med obema vojnama - mikroštudije</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="isPartOf" relationAttr="URI" lang="slv">http://sistory.si/SISTORY:ID:27079</RELATION>
+        <COPYRIGHT>
+            <![CDATA[<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/2.5/si/"><img alt="Creative Commons licenca" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-nd/2.5/si/88x31.png" /></a><br />To <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">delo</span> avtorja <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.sistory.si/SISTORY:ID:29969" property="cc:attributionName" rel="cc:attributionURL">Anka Vidovič Miklavčič</a> je ponujeno pod <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/2.5/si/">Creative Commons Priznanje avtorstva-Nekomercialno-Brez predelav 2.5 Slovenija licenco</a>.]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Iz mozaika preteklosti občine Vrhnika v letih 1929-1941</TITLE>
+        <TITLE titleType="Title" lang="slv">Upravna ureditev, prebivalstvo, kulturni dogodki in gospodarstvo</TITLE>
+        <SUBJECT lang="slv">Vrhnika</SUBJECT>
+        <SUBJECT lang="slv">prebivalstvo</SUBJECT>
+        <SUBJECT lang="slv">upravna ureditev</SUBJECT>
+        <SUBJECT lang="slv">kulturni dogodki</SUBJECT>
+        <SUBJECT lang="slv">gospodarstvo</SUBJECT>
+        <SUBJECT lang="eng">Vrhnika</SUBJECT>
+        <SUBJECT lang="eng">population</SUBJECT>
+        <SUBJECT lang="eng">administrative organization</SUBJECT>
+        <SUBJECT lang="eng">cultural events</SUBJECT>
+        <SUBJECT lang="eng">economy</SUBJECT>
+        <PUBLISHER>Muzejsko društvo Vrhnika, Vrhnika</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>2007</YEAR>
+        <DATETIME_ADDED>2014-11-12 07:08:39</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-11-22 15:19:02</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="Anka_vidovic_miklavcic_vrhnika.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>27148</ID>
+        <URN>11686/27148</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CONTRIBUTOR>Dušan Nećak (ur.)</CONTRIBUTOR>
+        <CREATOR>
+            <IME>Anka</IME>
+            <PRIIMEK>Vidovič Miklavčič</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date">2005</DATE>
+        <MENU_ID id="668">Slovenski okraji in občine med obema vojnama - mikroštudije</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Povezava">2</TYPE>
+        <TYPE_DC title="Interactive Resource">5</TYPE_DC>
+        <TITLE titleType="Title" lang="slv">Drobci iz preteklosti kamniškega okraja v letih 1929-1941</TITLE>
+        <SUBJECT lang="slv">Kraljevina Jugoslavija</SUBJECT>
+        <SUBJECT lang="slv">Kamnik</SUBJECT>
+        <SUBJECT lang="slv">proslave</SUBJECT>
+        <SUBJECT lang="slv">zgodovina</SUBJECT>
+        <SUBJECT lang="eng">Kingdom of Yugoslavia</SUBJECT>
+        <SUBJECT lang="eng">Kamnik</SUBJECT>
+        <SUBJECT lang="eng">celebrations</SUBJECT>
+        <SUBJECT lang="eng">history</SUBJECT>
+        <PUBLISHER>Oddelek za zgodovino Filozofske fakultete Univerze v Ljubljani, Ljubljana</PUBLISHER>
+        <SOURCE sourceType="Vir - URN Naslov">http://sistory.si/SISTORY:ID:26789</SOURCE>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>2005</YEAR>
+        <DATETIME_ADDED>2014-09-11 17:44:42</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-11-22 15:19:27</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <IMAGE>moh.jpg</IMAGE>
+    </publication>
+    <publication>
+        <ID>27147</ID>
+        <URN>11686/27147</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CONTRIBUTOR>Zdenko Čepič (ur.)</CONTRIBUTOR>
+        <CONTRIBUTOR>Dušan Nećak (ur.)</CONTRIBUTOR>
+        <CONTRIBUTOR>Miroslav Stiplovšek (ur.)</CONTRIBUTOR>
+        <CREATOR>
+            <IME>Anka</IME>
+            <PRIIMEK>Vidovič Miklavčič</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date">1999</DATE>
+        <MENU_ID id="668">Slovenski okraji in občine med obema vojnama - mikroštudije</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Povezava">2</TYPE>
+        <TYPE_DC title="Interactive Resource">5</TYPE_DC>
+        <TITLE titleType="Title" lang="slv">Kočevski okraj v desetletju pred aprilskim zlomom</TITLE>
+        <SUBJECT lang="slv">Kočevje</SUBJECT>
+        <SUBJECT lang="slv">kultura</SUBJECT>
+        <SUBJECT lang="slv">politične stranke</SUBJECT>
+        <SUBJECT lang="slv">društva in organizacije</SUBJECT>
+        <SUBJECT lang="eng">Kočevje</SUBJECT>
+        <SUBJECT lang="eng">culture</SUBJECT>
+        <SUBJECT lang="eng">political parties</SUBJECT>
+        <SUBJECT lang="eng">societies and organizations</SUBJECT>
+        <PUBLISHER>Oddelek za zgodovino Filozofske fakultete Univerze v Ljubljani, Ljubljana</PUBLISHER>
+        <SOURCE sourceType="Vir - URN Naslov">http://www.sistory.si/SISTORY:ID:20773</SOURCE>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1999</YEAR>
+        <DATETIME_ADDED>2014-09-11 17:39:15</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-11-22 15:19:56</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <IMAGE>moh.jpg</IMAGE>
+    </publication>
+    <publication>
+        <ID>27146</ID>
+        <URN>11686/27146</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CONTRIBUTOR>Aleš Gabrič (odg. ur.)</CONTRIBUTOR>
+        <CREATOR>
+            <IME>Anka</IME>
+            <PRIIMEK>Vidovič Miklavčič</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date">2004</DATE>
+        <MENU_ID id="668">Slovenski okraji in občine med obema vojnama - mikroštudije</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Povezava">2</TYPE>
+        <TYPE_DC title="Interactive Resource">5</TYPE_DC>
+        <TITLE titleType="Title" lang="slv">Društva in organizacije v meščanskem taboru v celjskem okraju 1929–1941</TITLE>
+        <TITLE titleType="Title" lang="eng">Civic Societies And Organisations In The Celje District In The Period 1929-1941</TITLE>
+        <SUBJECT lang="slv">okraj Celje</SUBJECT>
+        <SUBJECT lang="slv">politične stranke</SUBJECT>
+        <SUBJECT lang="slv">kmečkostanovske organizacije</SUBJECT>
+        <SUBJECT lang="slv">kulturno-prosvetne organizacije</SUBJECT>
+        <SUBJECT lang="slv">sindikalne organizacije</SUBJECT>
+        <SUBJECT lang="slv">telesnovzgojne organizacije</SUBJECT>
+        <SUBJECT lang="slv">Katoliška akcija</SUBJECT>
+        <SUBJECT lang="eng">District of Celje</SUBJECT>
+        <SUBJECT lang="eng">political parties</SUBJECT>
+        <SUBJECT lang="eng">peasant class organisations</SUBJECT>
+        <SUBJECT lang="eng">cultural-educational organisations</SUBJECT>
+        <SUBJECT lang="eng">syndicalist organisations</SUBJECT>
+        <SUBJECT lang="eng">physical-educational organisations</SUBJECT>
+        <SUBJECT lang="eng">Catholic action</SUBJECT>
+        <PUBLISHER>Zveza zgodovinskih društev Slovenije, Ljubljana</PUBLISHER>
+        <SOURCE sourceType="Vir - URN Naslov">http://www.sistory.si/SISTORY:ID:4431</SOURCE>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>2004</YEAR>
+        <DATETIME_ADDED>2014-09-11 17:33:55</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-11-22 15:20:25</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <IMAGE>moh.jpg</IMAGE>
+    </publication>
+    <publication>
+        <ID>27145</ID>
+        <URN>11686/27145</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CONTRIBUTOR>Aleš Gabrič (ur.)</CONTRIBUTOR>
+        <CREATOR>
+            <IME>Anka</IME>
+            <PRIIMEK>Vidovič Miklavčič</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date">1999</DATE>
+        <MENU_ID id="668">Slovenski okraji in občine med obema vojnama - mikroštudije</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Povezava">2</TYPE>
+        <TYPE_DC title="Interactive Resource">5</TYPE_DC>
+        <TITLE titleType="Title" lang="slv">Okraj Slovenj Gradec v letih 1929-1941</TITLE>
+        <TITLE titleType="Title" lang="eng">The district Slovenj Gradec in the years 1929-1941</TITLE>
+        <SUBJECT lang="slv">okraj (srez) Slovenj Gradec</SUBJECT>
+        <SUBJECT lang="slv">politične stranke</SUBJECT>
+        <SUBJECT lang="slv">kmečko-stanovsko gibanje</SUBJECT>
+        <SUBJECT lang="slv">prosvetnokulturna društva</SUBJECT>
+        <SUBJECT lang="slv">mladinske in delavske organizacije</SUBJECT>
+        <SUBJECT lang="eng">Slovenj Gradec district</SUBJECT>
+        <SUBJECT lang="eng">political parties</SUBJECT>
+        <PUBLISHER>Zveza zgodovinskih društev Slovenije, Ljubljana</PUBLISHER>
+        <SOURCE sourceType="Vir - URN Naslov">http://www.dlib.si/stream/URN:NBN:SI:DOC-6SAN1JBK/51826b76-c09a-4af4-bde6-94f7aabe25e7/PDF</SOURCE>
+        <LINK>http://www.dlib.si/stream/URN:NBN:SI:DOC-6SAN1JBK/51826b76-c09a-4af4-bde6-94f7aabe25e7/PDF</LINK>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1999</YEAR>
+        <DATETIME_ADDED>2014-09-11 17:19:51</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-11-22 15:22:44</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <IMAGE>moh.jpg</IMAGE>
+    </publication>
+    <publication>
+        <ID>27144</ID>
+        <URN>11686/27144</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CONTRIBUTOR>Aleš Gabrič (odg. ur.)</CONTRIBUTOR>
+        <CREATOR>
+            <IME>Anka</IME>
+            <PRIIMEK>Vidovič Miklavčič</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date">2002</DATE>
+        <MENU_ID id="668">Slovenski okraji in občine med obema vojnama - mikroštudije</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Povezava">2</TYPE>
+        <TYPE_DC title="Interactive Resource">5</TYPE_DC>
+        <TITLE titleType="Title" lang="slv">Novomeški okraj v letih 1929-1941</TITLE>
+        <TITLE titleType="Title" lang="eng">The district of Novo mesto in the years 1929-1941</TITLE>
+        <SUBJECT lang="slv">okraj Novo mesto</SUBJECT>
+        <SUBJECT lang="slv">politične stranke</SUBJECT>
+        <SUBJECT lang="slv">kulturno-prosvetne organizacije</SUBJECT>
+        <SUBJECT lang="slv">kmečko-stanovske organizacije</SUBJECT>
+        <SUBJECT lang="slv">volitve</SUBJECT>
+        <SUBJECT lang="eng">district Novo mesto p</SUBJECT>
+        <SUBJECT lang="eng">olitical parties</SUBJECT>
+        <SUBJECT lang="eng">cultural-educational organisations</SUBJECT>
+        <SUBJECT lang="eng">peasantry organisations</SUBJECT>
+        <SUBJECT lang="eng">elections</SUBJECT>
+        <PUBLISHER>Zveza zgodovinskih društev Slovenije, Ljubljana</PUBLISHER>
+        <SOURCE sourceType="Vir - URN Naslov">http://www.sistory.si/SISTORY:ID:4240</SOURCE>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>2002</YEAR>
+        <DATETIME_ADDED>2014-09-11 17:09:52</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-11-22 15:23:55</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <IMAGE>moh.jpg</IMAGE>
+    </publication>
+    <publication>
+        <ID>27143</ID>
+        <URN>11686/27143</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CONTRIBUTOR>Jasna Fischer (gl. ur.)</CONTRIBUTOR>
+        <CREATOR>
+            <IME>Anka</IME>
+            <PRIIMEK>Vidovič Miklavčič</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date">1997</DATE>
+        <MENU_ID id="668">Slovenski okraji in občine med obema vojnama - mikroštudije</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Povezava">2</TYPE>
+        <TYPE_DC title="Interactive Resource">5</TYPE_DC>
+        <TITLE titleType="Title" lang="slv">Prispevek k zgodovini ljutomerskega okraja v letih 1935-1941</TITLE>
+        <TITLE titleType="Title" lang="eng">Contribution to the History of Ljutomer District (1935-1941)</TITLE>
+        <SUBJECT lang="slv">politične stranke</SUBJECT>
+        <SUBJECT lang="slv">društva</SUBJECT>
+        <SUBJECT lang="slv">JRZ</SUBJECT>
+        <SUBJECT lang="slv">politični tabori</SUBJECT>
+        <SUBJECT lang="slv">medvojno obdobje</SUBJECT>
+        <SUBJECT lang="slv">Ljutomer</SUBJECT>
+        <SUBJECT lang="eng">political parties</SUBJECT>
+        <SUBJECT lang="eng">societies</SUBJECT>
+        <SUBJECT lang="eng">Yugoslav Radical Union</SUBJECT>
+        <SUBJECT lang="eng">political camps</SUBJECT>
+        <SUBJECT lang="eng">interwar period</SUBJECT>
+        <SUBJECT lang="eng">Ljutomer</SUBJECT>
+        <PUBLISHER>Inštitut za novejšo zgodovino, Ljubljana</PUBLISHER>
+        <SOURCE sourceType="Vir - URN Naslov">http://sistory.si/SISTORY:ID:2033</SOURCE>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1997</YEAR>
+        <DATETIME_ADDED>2014-09-11 16:48:24</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-09-11 17:10:31</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <IMAGE>moh.jpg</IMAGE>
+    </publication>
+    <publication>
+        <ID>27142</ID>
+        <URN>11686/27142</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CONTRIBUTOR>Zdenko Čepič (odg. ur.)</CONTRIBUTOR>
+        <CREATOR>
+            <IME>Anka</IME>
+            <PRIIMEK>Vidovič Miklavčič</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date">2006</DATE>
+        <MENU_ID id="668">Slovenski okraji in občine med obema vojnama - mikroštudije</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Povezava">2</TYPE>
+        <TYPE_DC title="Interactive Resource">5</TYPE_DC>
+        <TITLE titleType="Title" lang="slv">Segmenti iz preteklosti okraja Slovenske Konjice v letih 1929-1941</TITLE>
+        <TITLE titleType="Title" lang="eng">Segments from the Past of the Slovenjske Konjice District between 1929 and 1941</TITLE>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">Dravska banovina</SUBJECT>
+        <SUBJECT lang="slv">upravna ureditev</SUBJECT>
+        <SUBJECT lang="slv">okraj Slovenske Konjice</SUBJECT>
+        <SUBJECT lang="slv">politika</SUBJECT>
+        <SUBJECT lang="slv">volitve</SUBJECT>
+        <SUBJECT lang="slv">gospodarstvo</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">Drava banate</SUBJECT>
+        <SUBJECT lang="eng">administrative arrangement</SUBJECT>
+        <SUBJECT lang="eng">Slovenske Konjice district</SUBJECT>
+        <SUBJECT lang="eng">politics</SUBJECT>
+        <SUBJECT lang="eng">elections</SUBJECT>
+        <SUBJECT lang="eng">economy</SUBJECT>
+        <PUBLISHER>Inštitut za novejšo zgodovino, Ljubljana</PUBLISHER>
+        <SOURCE sourceType="Vir - URN Naslov">http://www.sistory.si/SISTORY:ID:1380</SOURCE>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>2006</YEAR>
+        <DATETIME_ADDED>2014-09-11 16:32:33</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-11-22 15:24:51</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <IMAGE>prenos.png</IMAGE>
+    </publication>
+</root>

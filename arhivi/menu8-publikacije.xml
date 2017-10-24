@@ -1,0 +1,104 @@
+<root>
+    <publication>
+        <ID>1123</ID>
+        <URN>11686/1123</URN>
+        <CHILD_ORDER>3</CHILD_ORDER>
+        <CONTRIBUTOR>Anja Doležalek</CONTRIBUTOR>
+        <CONTRIBUTOR>Aleš Udir</CONTRIBUTOR>
+        <CONTRIBUTOR>Rok Hacin</CONTRIBUTOR>
+        <CONTRIBUTOR>Martina Benčan</CONTRIBUTOR>
+        <CONTRIBUTOR>Katarina Mulec</CONTRIBUTOR>
+        <CONTRIBUTOR>Špela Popit Prelogar</CONTRIBUTOR>
+        <CONTRIBUTOR>Tjaša Štajnrajh</CONTRIBUTOR>
+        <CONTRIBUTOR>Niala Zakršnik</CONTRIBUTOR>
+        <CONTRIBUTOR>Ana Brancelj</CONTRIBUTOR>
+        <CONTRIBUTOR>Nejc Prah</CONTRIBUTOR>
+        <CONTRIBUTOR>Katarzyna Banach</CONTRIBUTOR>
+        <CONTRIBUTOR>Giulia Gargalli</CONTRIBUTOR>
+        <CONTRIBUTOR>Maria Clara Macrì</CONTRIBUTOR>
+        <CONTRIBUTOR>Simona Morani</CONTRIBUTOR>
+        <CONTRIBUTOR>Marco Salvarani</CONTRIBUTOR>
+        <CONTRIBUTOR>Margherita Sassi</CONTRIBUTOR>
+        <CONTRIBUTOR>Benedetta Storchi</CONTRIBUTOR>
+        <CONTRIBUTOR>Dario Tarasconi</CONTRIBUTOR>
+        <CONTRIBUTOR>Jenny Dünser</CONTRIBUTOR>
+        <CONTRIBUTOR>Katharina Kickinger</CONTRIBUTOR>
+        <CONTRIBUTOR>Katharina Madersbacher</CONTRIBUTOR>
+        <CONTRIBUTOR>Elena Messner</CONTRIBUTOR>
+        <CONTRIBUTOR>Tobias Neuburger</CONTRIBUTOR>
+        <CONTRIBUTOR>Florian Plocek</CONTRIBUTOR>
+        <CONTRIBUTOR>Eva Reinbacher</CONTRIBUTOR>
+        <CREATOR>
+            <IME>Nevenka</IME>
+            <PRIIMEK>Troha</PRIIMEK>
+        </CREATOR>
+        <CREATOR>
+            <IME>Damijan</IME>
+            <PRIIMEK>Guštin</PRIIMEK>
+        </CREATOR>
+        <CREATOR>
+            <IME>Mojca</IME>
+            <PRIIMEK>Šorn</PRIIMEK>
+        </CREATOR>
+        <CREATOR>
+            <IME>Marta</IME>
+            <PRIIMEK>Rendla</PRIIMEK>
+        </CREATOR>
+        <CREATOR>
+            <IME>Ivan</IME>
+            <PRIIMEK>Srčnik</PRIIMEK>
+        </CREATOR>
+        <CREATOR>
+            <IME>Ciril</IME>
+            <PRIIMEK>Zlobec</PRIIMEK>
+        </CREATOR>
+        <CREATOR>
+            <IME>Alenka</IME>
+            <PRIIMEK>Gerlovič</PRIIMEK>
+        </CREATOR>
+        <CREATOR>
+            <IME>Massimo</IME>
+            <PRIIMEK>Storchi</PRIIMEK>
+        </CREATOR>
+        <CREATOR>
+            <IME>Matthias</IME>
+            <PRIIMEK>Durchfeld</PRIIMEK>
+        </CREATOR>
+        <CREATOR>
+            <IME>Alessandra</IME>
+            <PRIIMEK>Fontanesi</PRIIMEK>
+        </CREATOR>
+        <CREATOR>
+            <IME>Janine</IME>
+            <PRIIMEK>Wulz</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date">2011</DATE>
+        <MENU_ID id="8">Ustni viri</MENU_ID>
+        <LANGUAGE lang="eng">2</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Povezava">2</TYPE>
+        <TYPE_DC title="Collection">1</TYPE_DC>
+        <TITLE titleType="Title" lang="slv">Arhiv odporništva</TITLE>
+        <TITLE titleType="Title" lang="slv">European Resistance Archive</TITLE>
+        <DESCRIPTION descriptionType="Description" lang="slv">
+            ERA-EUROPEAN RESISTANCE ARCHIVE, Arhiv evropskega odporništva je platforma, ki prikazuje odporništvo z različnih nacionalnih perspektiv in hkrati omogoča primerjavo posameznih nacionalnih specifičnosti. Vzpostavlja se ga na podlagi video intervjujev oz. pričevanj z aktivnimi udeleženci odpora iz različnih evropskih geografskih območij. Gre za prenašanje zgodovinskega spomina in izkušenj starejših na mlajše generacije. Osebne zgodbe in različne pojavne oblike odporniških gibanj se izrisujejo skozi video intervjuje, ki jih opravljajo mladi v starosti od 15 do 25 let.Namen in cilj Arhiva evropskega odporništva je ohranjati zgodovinski spomin in narediti evropsko zgodovino in današnjo podobo Evrope razumljivo mlajšim generacijam. Želi se opozoriti, da je odpor proti nacifašizmu odigral relevantno oziroma konstitutivno vlogo pri formiranju današnje združene Evrope. Osebne zgodbe med drugim tudi treh slovenskih pričevalcev najdete tukaj.
+        </DESCRIPTION>
+        <DESCRIPTION descriptionType="Description" lang="eng">
+            ERA - European Resistance Archive is a platform for introducing the resistance from various perspectives, and simultaneously allows comparison of individual national specifics. It was established on the basis of video interviews and testimonies of the active resistance participants from different European geographical regions. ERA is about passing down historical memory and the experience of older generations to the younger population. Various forms of resistance movements emerge through personal stories in video interviews conducted by young people aged 15 to 25 years. The aim and objective of the European Resistance Archive is to preserve historical memory and facilitate the understanding of European history as well as modern Europe by younger generations. They need to know that the resistance against Nazism and Fascism played not only a relevant but an essential role in the formation of today's united Europe. You can find personal stories here, including three Slovenian testimonies.
+        </DESCRIPTION>
+        <PUBLISHER>Youth Antifa Berlin, Germany</PUBLISHER>
+        <PUBLISHER>DGB-Youth, Germany</PUBLISHER>
+        <PUBLISHER>INZ, Slovenia</PUBLISHER>
+        <PUBLISHER>Karta, Poland</PUBLISHER>
+        <PUBLISHER>Istoreco, Italy</PUBLISHER>
+        <PUBLISHER>GAJ, Österreich</PUBLISHER>
+        <LINK>http://www.resistance-archive.org/en/testimonies</LINK>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>2011</YEAR>
+        <DATETIME_ADDED>2011-11-22 10:18:34</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-01-05 13:36:44</DATETIME_MODIFIED>
+        <USER_ID_ADDED>11</USER_ID_ADDED>
+        <IMAGE>Arhiv_odpornistva.jpg</IMAGE>
+    </publication>
+</root>

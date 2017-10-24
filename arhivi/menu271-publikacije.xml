@@ -1,0 +1,1675 @@
+<root>
+    <publication>
+        <ID>36061</ID>
+        <URN>11686/36061</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">2016</DATE>
+        <MENU_ID id="271">Krajevni leksikoni</MENU_ID>
+        <LANGUAGE lang="hun">9</LANGUAGE>
+        <LANGUAGE lang="eng">2</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Dataset">2</TYPE_DC>
+        <TITLE titleType="Title" lang="eng">The 1913 gazetteer of Hungary</TITLE>
+        <TITLE titleType="Alternative Title" lang="slv">Seznam krajev na Ogrskem leta 1913</TITLE>
+        <SUBJECT lang="slv">krajevna imena</SUBJECT>
+        <SUBJECT lang="slv">Ogrska</SUBJECT>
+        <SUBJECT lang="slv">1913</SUBJECT>
+        <SUBJECT lang="eng">place name</SUBJECT>
+        <SUBJECT lang="eng">Hungary</SUBJECT>
+        <SOURCE sourceType="Source" sourceAttr="URI">http://www.radixhub.com/radixhub/gazetteers/1913</SOURCE>
+        <LINK>http://www.radixhub.com/radixhub/gazetteers/1913</LINK>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>2016</YEAR>
+        <DATETIME_ADDED>2016-10-23 18:58:56</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-11-17 13:33:26</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="Ogrska-1913.html">
+            <ATTRIBUTE type="digitalFormat">text/html</ATTRIBUTE>
+        </PUBLICATION>
+        <IMAGE>Ogrska-1913.png</IMAGE>
+    </publication>
+    <publication>
+        <ID>36060</ID>
+        <URN>11686/36060</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CREATOR>
+            <IME>János</IME>
+            <PRIIMEK>Bogárdi</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date" format="W3CDTF">2016-05-25</DATE>
+        <MENU_ID id="271">Krajevni leksikoni</MENU_ID>
+        <LANGUAGE lang="deu">3</LANGUAGE>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <LANGUAGE lang="ita">8</LANGUAGE>
+        <LANGUAGE lang="ces">13</LANGUAGE>
+        <LANGUAGE lang="pol">12</LANGUAGE>
+        <LANGUAGE lang="hrv">17</LANGUAGE>
+        <LANGUAGE lang="ron">36</LANGUAGE>
+        <LANGUAGE lang="ukr">40</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Dataset">2</TYPE_DC>
+        <TITLE titleType="Title" lang="eng">The early 1900s gazetteer of Austria-Hungary</TITLE>
+        <TITLE titleType="Alternative Title" lang="slv">Seznam krajev v Avstro-Ogrski na začetku 20. stoletja</TITLE>
+        <SUBJECT lang="slv">krajevno ime</SUBJECT>
+        <SUBJECT lang="slv">1900</SUBJECT>
+        <SUBJECT lang="eng">place name</SUBJECT>
+        <SOURCE sourceType="Source" sourceAttr="URI">http://www.austriahungary.info/en/gazetteer1900</SOURCE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1910-01-01</COVERAGE>
+        <COVERAGE coverageType="Spatial" attr="">Cisleithania</COVERAGE>
+        <LINK>http://www.austriahungary.info/en/gazetteer1900</LINK>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>2016</YEAR>
+        <DATETIME_ADDED>2016-10-23 15:47:39</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-11-17 13:33:45</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="Avstriji-Salzburg-1900.html">
+            <ATTRIBUTE type="digitalFormat">text/html</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="Ceske_dezele-1900.html">
+            <ATTRIBUTE type="digitalFormat">text/html</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="Ceska-1900.html">
+            <ATTRIBUTE type="digitalFormat">text/html</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="Dalmacija-1900.html">
+            <ATTRIBUTE type="digitalFormat">text/html</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="Galicija-Bukovina-1900.html">
+            <ATTRIBUTE type="digitalFormat">text/html</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="Gornja_Avstrija_1900.html">
+            <ATTRIBUTE type="digitalFormat">text/html</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="Koroska-1900.html">
+            <ATTRIBUTE type="digitalFormat">text/html</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="Kranjska-1900.html">
+            <ATTRIBUTE type="digitalFormat">text/html</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="Kranjska-Koroska-Stajerska-Primorska-1900.html">
+            <ATTRIBUTE type="digitalFormat">text/html</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="Moravska-1900.html">
+            <ATTRIBUTE type="digitalFormat">text/html</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="Primorska-1900.html">
+            <ATTRIBUTE type="digitalFormat">text/html</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="Salzburg-1900.html">
+            <ATTRIBUTE type="digitalFormat">text/html</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="Slezija-1900.html">
+            <ATTRIBUTE type="digitalFormat">text/html</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="Spodnja_Avstrija-1900.html">
+            <ATTRIBUTE type="digitalFormat">text/html</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="Stajerska-1900.html">
+            <ATTRIBUTE type="digitalFormat">text/html</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="Tirolska-Predarlska-1900.html">
+            <ATTRIBUTE type="digitalFormat">text/html</ATTRIBUTE>
+        </PUBLICATION>
+        <IMAGE>austriahungary.png</IMAGE>
+    </publication>
+    <publication>
+        <ID>34885</ID>
+        <URN>11686/34885</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CREATOR2 lang="slv">Statistische Zentralkommission</CREATOR2>
+        <DATE type="Date">1918</DATE>
+        <MENU_ID id="271">Krajevni leksikoni</MENU_ID>
+        <LANGUAGE lang="deu">3</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title"> Spezialortsrepertorium von Kärnten. Bearbeitet auf Grund der Ergebnisse der Volkszählung vom 31. dezember 1910. Herausgegeben von der Statistischen Zentralkommission.</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:34885" rel="dct:creator"><span property="dct:title"> Verlag der Staatsdruckerei, Wien</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+Avtorske pravice so potekle, delo je v javni domeni.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="deu">Spezialortsrepertorium von Kärnten</TITLE>
+        <TITLE titleType="Title" lang="deu">Bearbeitet auf Grund der Ergebnisse der Volkszählung vom 31. dezember 1910</TITLE>
+        <TITLE titleType="Title" lang="deu">Herausgegeben von der Statistischen Zentralkommission</TITLE>
+        <SUBJECT lang="slv">upravna razdelitev</SUBJECT>
+        <SUBJECT lang="slv">Koroška</SUBJECT>
+        <SUBJECT lang="slv">demografska statistika</SUBJECT>
+        <SUBJECT lang="slv">naselja</SUBJECT>
+        <SUBJECT lang="slv">Avstro-Ogrska</SUBJECT>
+        <SUBJECT lang="slv">popis prebivalstva</SUBJECT>
+        <SUBJECT lang="eng">administrative regulation</SUBJECT>
+        <SUBJECT lang="eng">resorts</SUBJECT>
+        <SUBJECT lang="eng">Carinthia</SUBJECT>
+        <SUBJECT lang="eng">Austria-Hungary</SUBJECT>
+        <SUBJECT lang="eng">Habsburg Monarchy</SUBJECT>
+        <SUBJECT lang="eng">population census</SUBJECT>
+        <SUBJECT lang="eng">demographic statistics</SUBJECT>
+        <PUBLISHER>Verlag der Staatsdruckerei, Wien</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1918</YEAR>
+        <DATETIME_ADDED>2015-12-31 12:35:10</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-11-17 13:35:31</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="Strani iz Repertorium_1917_Korotan.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>34884</ID>
+        <URN>11686/34884</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CREATOR2 lang="slv">Statistische Zentralkommission</CREATOR2>
+        <DATE type="Date">1919</DATE>
+        <MENU_ID id="271">Krajevni leksikoni</MENU_ID>
+        <LANGUAGE lang="deu">3</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title"> Spezialortsrepertorium von Krain. Bearbeitet auf Grund der Ergebnisse der Volkszählung vom 31. Dezember 1910. Herausgegeben von der Statistischen Zentralkommission.</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:34884" rel="dct:creator"><span property="dct:title"> Verlag der Deutschösterreichischen Staatsdruckerei, Wien</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+Avtorske pravice so potekle, delo je v javni domeni.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="deu">Spezialortsrepertorium von Krain</TITLE>
+        <TITLE titleType="Title" lang="deu">Bearbeitet auf Grund der Ergebnisse der Volkszählung vom 31. Dezember 1910</TITLE>
+        <TITLE titleType="Title" lang="deu">Herausgegeben von der Statistischen Zentralkommission</TITLE>
+        <SUBJECT lang="slv">upravna razdelitev</SUBJECT>
+        <SUBJECT lang="slv">Krajnska</SUBJECT>
+        <SUBJECT lang="slv">demografska statistika</SUBJECT>
+        <SUBJECT lang="slv">naselja</SUBJECT>
+        <SUBJECT lang="slv">Avstro-Ogrska</SUBJECT>
+        <SUBJECT lang="slv">popis prebivalstva</SUBJECT>
+        <SUBJECT lang="eng">Styria</SUBJECT>
+        <SUBJECT lang="eng">administrative regulation</SUBJECT>
+        <SUBJECT lang="eng">resorts</SUBJECT>
+        <SUBJECT lang="eng">Austria-Hungary</SUBJECT>
+        <SUBJECT lang="eng">Habsburg Monarchy</SUBJECT>
+        <SUBJECT lang="eng">population census</SUBJECT>
+        <SUBJECT lang="eng">demographic statistics</SUBJECT>
+        <PUBLISHER>Verlag der Deutschösterreichischen Staatsdruckerei, Wien</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1919</YEAR>
+        <DATETIME_ADDED>2015-12-31 12:33:33</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-11-17 13:35:15</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="Strani iz Repertorium_1917_Carniola.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>34847</ID>
+        <URN>11686/34847</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CREATOR2 lang="slv">k. k. statistisce Zentralkommission, Wien</CREATOR2>
+        <DATE type="Date">1906</DATE>
+        <MENU_ID id="271">Krajevni leksikoni</MENU_ID>
+        <LANGUAGE lang="deu">3</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title"> Gemeindelexikon der im Reichsrate vertretenen Königreiche und Länder.
+Bearbeitet auf Grund der Ergebnisse der Volkszählung vom 31 Dezember 1900.,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:34847">
+                  <span property="dct:title"> K. K. Statistische Zentralkommission, Wien</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="deu">Gemeindelexikon der im Reichsrate vertretenen Königreiche und Länder. Bearbeitet auf Grund der Ergebnisse der Volkszählung vom 31 Dezember 1900</TITLE>
+        <TITLE titleType="Title" lang="deu">Herausgegeben von der k. k. statistischen Zentralkommission. VII. Österreichish-Illyrisches Küstenland. (Triest, Görz und Gradiska, Istrien.)</TITLE>
+        <SUBJECT lang="slv">upravna razdelitev</SUBJECT>
+        <SUBJECT lang="slv">demografska statistika</SUBJECT>
+        <SUBJECT lang="slv">naselja</SUBJECT>
+        <SUBJECT lang="slv">Trst</SUBJECT>
+        <SUBJECT lang="slv">Goriška in Gradiščanska</SUBJECT>
+        <SUBJECT lang="slv">Istra</SUBJECT>
+        <SUBJECT lang="slv">Avstro-Ogrska</SUBJECT>
+        <SUBJECT lang="slv">Habsburška monarhija</SUBJECT>
+        <SUBJECT lang="slv">popis prebivalstva</SUBJECT>
+        <SUBJECT lang="eng">administrative regulation</SUBJECT>
+        <SUBJECT lang="eng">resorts</SUBJECT>
+        <SUBJECT lang="eng">demographic statistics</SUBJECT>
+        <SUBJECT lang="eng">Trieste</SUBJECT>
+        <SUBJECT lang="eng">Gorizia and Gradisca</SUBJECT>
+        <SUBJECT lang="eng">Istria</SUBJECT>
+        <SUBJECT lang="eng">Austria-Hungary</SUBJECT>
+        <SUBJECT lang="eng">Habsburg Monarchy</SUBJECT>
+        <SUBJECT lang="eng">population census</SUBJECT>
+        <PUBLISHER>K. K. Hof- und Staatsdrückerei, Wien</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1906</YEAR>
+        <DATETIME_ADDED>2015-11-29 08:59:58</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-11-17 13:35:45</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="TN-218291_v07abby.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>34846</ID>
+        <URN>11686/34846</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CREATOR2 lang="slv">K. K. statistische Centralkommission</CREATOR2>
+        <DATE type="Date">1874</DATE>
+        <MENU_ID id="271">Krajevni leksikoni</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <LANGUAGE lang="deu">3</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title"> Orts-Repertorium des Herzogthums Krain. Auf Grundlage der Volkszählung vom 31. Dezember 1869 bearbeitet von der k. k. statistischen Centralcommission/ Imenik krajev vojvodine Kranjske. Sestavljen na podlagi ljudskega številjenja od 31. decembra l. 1869 po c. kr. statistični centralni komisiji,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:34846">
+                  <span property="dct:title"> K. K. Statistische Zentralkommission, Wien</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Imenik krajev vojvodine Kranjske. Sestavljen na podlagi ljudskega številjenja od 31. decembra l. 1869 po c. kr. statistični centralni komisiji</TITLE>
+        <TITLE titleType="Title" lang="deu">Orts-Repertorium des Herzogthums Krain. Auf Grundlage der Volkszählung vom 31. Dezember 1869 bearbeitet von der k. k. statistischen Centralcommission</TITLE>
+        <SUBJECT lang="slv">upravna razdelitev</SUBJECT>
+        <SUBJECT lang="slv">demografska statistika</SUBJECT>
+        <SUBJECT lang="slv">naselja</SUBJECT>
+        <SUBJECT lang="slv">19.st</SUBJECT>
+        <SUBJECT lang="slv">Kranjska</SUBJECT>
+        <SUBJECT lang="slv">Avstro-Ogrska</SUBJECT>
+        <SUBJECT lang="slv">Habsburška monarhija</SUBJECT>
+        <SUBJECT lang="slv">popis prebivalstva</SUBJECT>
+        <SUBJECT lang="eng">administrative regulation</SUBJECT>
+        <SUBJECT lang="eng">demographic statistics</SUBJECT>
+        <SUBJECT lang="eng">resorts</SUBJECT>
+        <SUBJECT lang="eng">19th century</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">Carniola</SUBJECT>
+        <SUBJECT lang="eng">Austria-Hungary</SUBJECT>
+        <SUBJECT lang="eng">Habsburg Monarchy</SUBJECT>
+        <SUBJECT lang="eng">population census</SUBJECT>
+        <PUBLISHER>Ign. v. Kleinmayr und Fed. Bamberg, Ljubljana</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1874</YEAR>
+        <DATETIME_ADDED>2015-11-26 12:25:11</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2015-12-03 18:15:49</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="Orts-Repertorium_des_Herzogtums_Krain_1870.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>34845</ID>
+        <URN>11686/34845</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CREATOR2 lang="slv">K. K. Statistische Zentralkommission, Wien</CREATOR2>
+        <DATE type="Date">1917</DATE>
+        <MENU_ID id="271">Krajevni leksikoni</MENU_ID>
+        <LANGUAGE lang="deu">3</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title"> Spezialortsrepertorium von Steiermark, Bearbeitet auf Grund der Ergebnisse der Volkszählung vom 31. Dezember 1910,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:34845">
+                  <span property="dct:title"> K. K. Statistische Zentralkommission, Wien</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="deu">Spezialortsrepertorium von Steiermark</TITLE>
+        <TITLE titleType="Title" lang="deu">Bearbeitet auf Grund der Ergebnisse der Volkszählung vom 31. Dezember 1910</TITLE>
+        <TITLE titleType="Title" lang="deu">Herausgegeben von der K. K. Statistischen Zentralkomission</TITLE>
+        <SUBJECT lang="slv">upravna razdelitev</SUBJECT>
+        <SUBJECT lang="slv">Štajerska</SUBJECT>
+        <SUBJECT lang="slv">demografska statistika</SUBJECT>
+        <SUBJECT lang="slv">naselja</SUBJECT>
+        <SUBJECT lang="slv">Avstro-Ogrska</SUBJECT>
+        <SUBJECT lang="slv">popis prebivalstva</SUBJECT>
+        <SUBJECT lang="eng">administrative regulation</SUBJECT>
+        <SUBJECT lang="eng">resorts</SUBJECT>
+        <SUBJECT lang="eng">Styria</SUBJECT>
+        <SUBJECT lang="eng">Austria-Hungary</SUBJECT>
+        <SUBJECT lang="eng">Habsburg Monarchy</SUBJECT>
+        <SUBJECT lang="eng">population census</SUBJECT>
+        <SUBJECT lang="eng">demographic statistics</SUBJECT>
+        <PUBLISHER>Verlag der K. K. Hof- und Staatsdruckerei, Wien</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1917</YEAR>
+        <DATETIME_ADDED>2015-11-26 12:23:37</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-11-17 13:35:57</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="Strani iz Repertorium_1917_Styria.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>27174</ID>
+        <URN>11686/27174</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1942</DATE>
+        <MENU_ID id="271">Krajevni leksikoni</MENU_ID>
+        <LANGUAGE lang="deu">3</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <TITLE titleType="Title" lang="deu">Gemeinde- und Ortschaffsverzeichnis der an den Reichsgau Kärnten angegliederten befreiten Gebiete Oberkrains und Unterkärntens</TITLE>
+        <TITLE titleType="Title" lang="deu">Nach der neuen Verwaltungseinteilung vom 25. Juli und der Zusatzverordnung vom 15. September 1941 bearbeitet und herausgegeben von der Publikationsstelle Wien</TITLE>
+        <SUBJECT lang="slv">repertorij</SUBJECT>
+        <SUBJECT lang="slv">Koroška</SUBJECT>
+        <SUBJECT lang="eng">repertory</SUBJECT>
+        <SUBJECT lang="eng">Carinthia</SUBJECT>
+        <PUBLISHER>Verlag der Publikationstelle, Dunaj</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1942</YEAR>
+        <DATETIME_ADDED>2014-09-17 13:03:49</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-11-17 13:37:18</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="Gemeinde- und_ortschaftsverzeichnis_1942.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>27173</ID>
+        <URN>11686/27173</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CREATOR>
+            <IME>Manfred</IME>
+            <PRIIMEK>Straka</PRIIMEK>
+        </CREATOR>
+        <CREATOR>
+            <IME>Wilhelm</IME>
+            <PRIIMEK>Sattler</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date">1940</DATE>
+        <MENU_ID id="271">Krajevni leksikoni</MENU_ID>
+        <LANGUAGE lang="deu">3</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <TITLE titleType="Title" lang="deu">Ortsverzeichnis zur Gemeindegrenzkarte von Unter Steiermark, Mießtal und Übermurgebiet</TITLE>
+        <SUBJECT lang="slv">repertorij</SUBJECT>
+        <SUBJECT lang="slv">Spodnja Štajerska</SUBJECT>
+        <SUBJECT lang="slv">Mežiška dolina</SUBJECT>
+        <SUBJECT lang="slv">Prekmurje</SUBJECT>
+        <SUBJECT lang="eng">repertory</SUBJECT>
+        <SUBJECT lang="eng">Lower Styria</SUBJECT>
+        <SUBJECT lang="eng">Mežica valley</SUBJECT>
+        <SUBJECT lang="eng">Prekmurje</SUBJECT>
+        <PUBLISHER>Südostdeutsches Institut, Graz</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1940</YEAR>
+        <DATETIME_ADDED>2014-09-17 13:02:49</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-11-17 13:37:32</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="Ortsverzeichnis_zur_Gemeindegrenzkarte_1940.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>26801</ID>
+        <URN>11686/26801</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1905</DATE>
+        <MENU_ID id="271">Krajevni leksikoni</MENU_ID>
+        <LANGUAGE lang="deu">3</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Gemeindelexikon von Krain: bearbeitet auf Grund der Ergebnisse der Volkszählung vom 31. Dezember 1900,
+                        by<a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:26801">
+                  <span property="dct:title">Verlag der K. K. Hof- und Staatsdruckerei</span></a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="deu">Gemeindelexikon von Krain: bearbeitet auf Grund der Ergebnisse der Volkszählung vom 31. Dezember 1900</TITLE>
+        <SUBJECT lang="slv">Kranjska</SUBJECT>
+        <SUBJECT lang="slv">upravna razdelitev</SUBJECT>
+        <SUBJECT lang="slv">naselja</SUBJECT>
+        <SUBJECT lang="slv">občine</SUBJECT>
+        <SUBJECT lang="slv">okraji</SUBJECT>
+        <SUBJECT lang="slv">leksikoni</SUBJECT>
+        <SUBJECT lang="slv">popis prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">habsburška monarhija</SUBJECT>
+        <SUBJECT lang="eng">Carniola</SUBJECT>
+        <SUBJECT lang="eng">administrative division</SUBJECT>
+        <SUBJECT lang="eng">village</SUBJECT>
+        <SUBJECT lang="eng">municipalities</SUBJECT>
+        <SUBJECT lang="eng">counties</SUBJECT>
+        <SUBJECT lang="eng">lexicons</SUBJECT>
+        <SUBJECT lang="eng">census</SUBJECT>
+        <SUBJECT lang="eng">Habsburg Monarchy</SUBJECT>
+        <PUBLISHER>Verlag der K. K. Hof- und Staatsdruckerei, Dunaj</PUBLISHER>
+        <COLLECTION>Gemeindelexikon der im Reichsrate vertretenen Königreiche und Länder; 6</COLLECTION>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1905</YEAR>
+        <DATETIME_ADDED>2014-04-25 08:30:06</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-11-17 13:38:02</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="GEMEINDELEXIKON_VON_KRAIN_1900.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>26796</ID>
+        <URN>11686/26796</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CREATOR>
+            <IME>Andrej</IME>
+            <PRIIMEK>Pančur</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date" format="W3CDTF">2014-04-18</DATE>
+        <MENU_ID id="271">Krajevni leksikoni</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <LANGUAGE lang="deu">3</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Dataset">2</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons licenca" style="border-width:0" src="http://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />To delo je ponujeno pod<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Priznanje avtorstva 4.0 International licenco</a>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Seznam slovenskih in nemških krajevnih imen na Štajerskem leta 1900</TITLE>
+        <SUBJECT lang="slv">krajevni leksikoni</SUBJECT>
+        <SUBJECT lang="slv">krajevna imena</SUBJECT>
+        <SUBJECT lang="slv">toponimi</SUBJECT>
+        <SUBJECT lang="slv">Štajerska</SUBJECT>
+        <SUBJECT lang="slv">1900</SUBJECT>
+        <SUBJECT lang="eng">toponyms</SUBJECT>
+        <SUBJECT lang="eng">Styria</SUBJECT>
+        <PUBLISHER>Inštitut za novejšo zgodovino, Ljubljana</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>2014</YEAR>
+        <DATETIME_ADDED>2014-04-18 16:35:09</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-11-17 13:40:01</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="Gemeindelexikon-Steiermark-1900-V5-dataTable.html">
+            <ATTRIBUTE type="digitalFormat">text/html</ATTRIBUTE>
+        </PUBLICATION>
+        <IMAGE>Seznam_krajevnih_imen_Stajerska_1910-thumbnail.jpg</IMAGE>
+    </publication>
+    <publication>
+        <ID>26795</ID>
+        <URN>11686/26795</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CREATOR>
+            <IME>Andrej</IME>
+            <PRIIMEK>Pančur</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date" format="W3CDTF">2014-04-18</DATE>
+        <MENU_ID id="271">Krajevni leksikoni</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <LANGUAGE lang="deu">3</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Dataset">2</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons licenca" style="border-width:0" src="http://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />To delo je ponujeno pod<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Priznanje avtorstva 4.0 International licenco</a>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Seznam slovenskih in nemških krajevnih imen na Koroškem leta 1900</TITLE>
+        <SUBJECT lang="slv">krajevni leksikoni</SUBJECT>
+        <SUBJECT lang="slv">krajevna imena</SUBJECT>
+        <SUBJECT lang="slv">toponimi</SUBJECT>
+        <SUBJECT lang="slv">Koroška</SUBJECT>
+        <SUBJECT lang="slv">1900</SUBJECT>
+        <SUBJECT lang="eng">toponyms</SUBJECT>
+        <SUBJECT lang="eng">Carinthia</SUBJECT>
+        <PUBLISHER>Inštitut za novejšo zgodovino, Ljubljana</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>2014</YEAR>
+        <DATETIME_ADDED>2014-04-18 14:38:15</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-11-17 13:40:28</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="Gemeindelexikon-Kaernten-1900-V5-dataTable.html">
+            <ATTRIBUTE type="digitalFormat">text/html</ATTRIBUTE>
+        </PUBLICATION>
+        <IMAGE>Seznam_krajevnih_imen_Koroska_1910-thumbnail.jpg</IMAGE>
+    </publication>
+    <publication>
+        <ID>26794</ID>
+        <URN>11686/26794</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CREATOR>
+            <IME>Andrej</IME>
+            <PRIIMEK>Pančur</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date" format="W3CDTF">2014-04-17</DATE>
+        <MENU_ID id="271">Krajevni leksikoni</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <LANGUAGE lang="deu">3</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Dataset">2</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons licenca" style="border-width:0" src="http://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />To delo je ponujeno pod<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Priznanje avtorstva 4.0 International licenco</a>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Seznam slovenskih in nemških krajevnih imen na Kranjskem leta 1900</TITLE>
+        <SUBJECT lang="slv">krajevni leksikoni</SUBJECT>
+        <SUBJECT lang="slv">krajevna imena</SUBJECT>
+        <SUBJECT lang="slv">toponimi</SUBJECT>
+        <SUBJECT lang="slv">Kranjska</SUBJECT>
+        <SUBJECT lang="slv">1900</SUBJECT>
+        <SUBJECT lang="eng">toponyms</SUBJECT>
+        <SUBJECT lang="eng">Carniola</SUBJECT>
+        <PUBLISHER>Inštitut za novejšo zgodovino, Ljubljana</PUBLISHER>
+        <COVERAGE coverageType="Spatial" attr="">Kranjska</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1900-01-01</COVERAGE>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>2014</YEAR>
+        <DATETIME_ADDED>2014-04-17 09:27:37</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-11-17 13:41:17</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="Gemeindelexikon-Krain-1900-V5-dataTable.html">
+            <ATTRIBUTE type="digitalFormat">text/html</ATTRIBUTE>
+        </PUBLICATION>
+        <IMAGE>Seznam_krajevnih_imen_Kranjska_1910-thumbnail.jpg</IMAGE>
+    </publication>
+    <publication>
+        <ID>4768</ID>
+        <URN>11686/4768</URN>
+        <CHILD_ORDER>7384</CHILD_ORDER>
+        <CONTRIBUTOR>Državni statistični urad v Zagrebu (priredil)</CONTRIBUTOR>
+        <DATE type="Date">1939</DATE>
+        <MENU_ID id="271">Krajevni leksikoni</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title">Splošni pregled dravske banovine</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:4768" rel="dct:creator"><span property="dct:title">Kraljeva banska uprava dravske banovine, Državni statistični urad</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+Avtorske pravice so potekle, delo je v javni domeni.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Splošni pregled dravske banovine</TITLE>
+        <TITLE titleType="Title" lang="slv">glavni statistični podatki</TITLE>
+        <TITLE titleType="Title" lang="slv">upravna, sodna in cerkvena razdelitev ter imenik krajev po stanju 1. julija 1939 z dvema zemljevidoma</TITLE>
+        <SUBJECT lang="slv">upravna razdelitev</SUBJECT>
+        <SUBJECT lang="slv">demografska statistika</SUBJECT>
+        <SUBJECT lang="slv">naselja</SUBJECT>
+        <SUBJECT lang="slv">20. st.</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">Dravska banovina</SUBJECT>
+        <SUBJECT lang="slv">Kraljevina Jugoslavija</SUBJECT>
+        <SUBJECT lang="slv">popis prebivalstva</SUBJECT>
+        <SUBJECT lang="eng">administrative regulation</SUBJECT>
+        <SUBJECT lang="eng">demographic statistics</SUBJECT>
+        <SUBJECT lang="eng">resorts</SUBJECT>
+        <SUBJECT lang="eng">20th century</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">Drava banate</SUBJECT>
+        <SUBJECT lang="eng">Kingdom of Yugoslavia</SUBJECT>
+        <SUBJECT lang="eng">population census</SUBJECT>
+        <PUBLISHER>Kraljeva banska uprava dravske banovine, Ljubljana</PUBLISHER>
+        <COVERAGE coverageType="Coverage" lang="slv">Slovenija, 1931, 1939</COVERAGE>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1939</YEAR>
+        <DATETIME_ADDED>2012-01-26 20:38:22</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-11-17 13:42:22</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="Splosni_pregled_Dravske_banovine_1939.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>4766</ID>
+        <URN>11686/4766</URN>
+        <CHILD_ORDER>7383</CHILD_ORDER>
+        <CONTRIBUTOR>Viktor Manakin</CONTRIBUTOR>
+        <DATE type="Date">1932</DATE>
+        <MENU_ID id="271">Krajevni leksikoni</MENU_ID>
+        <LANGUAGE lang="srp">16</LANGUAGE>
+        <LANGUAGE lang="srp">5</LANGUAGE>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title">Opšta državna uprava: banovine, srezovi, opštine i gradovi</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:4766" rel="dct:creator"><span property="dct:title">Almanah Kraljevine Jugoslavije</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+Avtorske pravice so potekle, delo je v javni domeni.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="srp">Opšta državna uprava</TITLE>
+        <TITLE titleType="Title" lang="srp">banovine</TITLE>
+        <TITLE titleType="Title" lang="srp">srezovi, opštine i gradovi</TITLE>
+        <TITLE titleType="Title" lang="srp">sastav, statistika i šematizam svih državnih ustanova</TITLE>
+        <SUBJECT lang="slv">almanah</SUBJECT>
+        <SUBJECT lang="slv">uprava</SUBJECT>
+        <SUBJECT lang="slv">banovine</SUBJECT>
+        <SUBJECT lang="slv">Kraljevina Jugoslavija</SUBJECT>
+        <SUBJECT lang="slv">statistika</SUBJECT>
+        <SUBJECT lang="slv">20. st.</SUBJECT>
+        <SUBJECT lang="eng">almanach</SUBJECT>
+        <SUBJECT lang="eng">administration</SUBJECT>
+        <SUBJECT lang="eng">banates</SUBJECT>
+        <SUBJECT lang="eng">Kingdom of Yugoslavia</SUBJECT>
+        <SUBJECT lang="eng">statistics</SUBJECT>
+        <SUBJECT lang="eng">20th century</SUBJECT>
+        <PUBLISHER>Glavo uredništvo Almanaha kraljevine Jugoslavije v Zagrebu, Zagreb</PUBLISHER>
+        <COLLECTION>Almanah Kraljevine Jugoslavije; 4</COLLECTION>
+        <COVERAGE coverageType="Coverage" lang="slv">Jugoslavija, 1932</COVERAGE>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1932</YEAR>
+        <DATETIME_ADDED>2012-01-26 20:39:01</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-11-17 13:44:19</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="Opsta_uprava_Banovine_srezovi_opstine_gradovi_Almanah_Kraljevine_Jugoslavije_1932.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>3833</ID>
+        <URN>11686/3833</URN>
+        <CHILD_ORDER>7382</CHILD_ORDER>
+        <DATE type="Date">1942</DATE>
+        <MENU_ID id="271">Krajevni leksikoni</MENU_ID>
+        <LANGUAGE lang="deu">3</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title">Gemeinde und Ortschaftsverzeichnis der an den Reichsgau Kärnten angegliederten befreiten Gebiete Oberkrains und Unterkärntens</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:3833" rel="dct:creator"><span property="dct:title">Verlag der Publikationsstelle Wien</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+Avtorske pravice so potekle, delo je v javni domeni.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="deu">Gemeinde und Ortschaftsverzeichnis der an den Reichsgau Kärnten angegliederten befreiten Gebiete Oberkrains und Unterkärntens</TITLE>
+        <SUBJECT lang="slv">naselja</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">Gorenjska</SUBJECT>
+        <SUBJECT lang="slv">Koroška</SUBJECT>
+        <SUBJECT lang="slv">krajevna imena</SUBJECT>
+        <SUBJECT lang="slv">nemška krajevna imena</SUBJECT>
+        <SUBJECT lang="slv">upravne enote</SUBJECT>
+        <SUBJECT lang="slv">druga svetovna vojna</SUBJECT>
+        <SUBJECT lang="eng">resorts</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">Upper Carniola</SUBJECT>
+        <SUBJECT lang="eng">Southern Carinthia</SUBJECT>
+        <SUBJECT lang="eng">toponyms</SUBJECT>
+        <SUBJECT lang="eng">German  toponyms</SUBJECT>
+        <SUBJECT lang="eng">administrative units</SUBJECT>
+        <SUBJECT lang="eng">World War II</SUBJECT>
+        <PUBLISHER>Verlag der Publikationsstelle Wien, Wien</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1942</YEAR>
+        <DATETIME_ADDED>2012-01-26 20:39:31</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-11-17 13:44:37</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="Gemeinde- und Ortschaftsverzeichnis.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>3832</ID>
+        <URN>11686/3832</URN>
+        <CHILD_ORDER>7381</CHILD_ORDER>
+        <CREATOR>
+            <IME>Heinrich</IME>
+            <PRIIMEK>Freyer</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date">1846</DATE>
+        <MENU_ID id="271">Krajevni leksikoni</MENU_ID>
+        <LANGUAGE lang="deu">3</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title">Alphabetishes Verzeichniß aller Ortschafts- und Schlösser-Namen des Herzogthums Krain</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:3832" rel="dct:creator"><span property="dct:title">Heinrich Freyer</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+Avtorske pravice so potekle, delo je v javni domeni.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="deu">Alphabetishes Verzeichniß aller Ortschafts- und Schlösser-Namen des Herzogthums Krain in Deutsch und Krainiscer Sprache, nebst der Decanats- und Pfarr-Eintheilung, in welcher die Ortschaft liegt, sammt Angabe der Entferung derselben vom Curat-Orte</TITLE>
+        <TITLE titleType="Title" lang="deu">als Commentar zur Special-Karte des Herzogthums Krains</TITLE>
+        <SUBJECT lang="slv">upravna razdelitev</SUBJECT>
+        <SUBJECT lang="slv">naselja</SUBJECT>
+        <SUBJECT lang="slv">19.st</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">Kranjska</SUBJECT>
+        <SUBJECT lang="slv">Habsburška monarhija</SUBJECT>
+        <SUBJECT lang="eng">administrative regulation</SUBJECT>
+        <SUBJECT lang="eng">resorts</SUBJECT>
+        <SUBJECT lang="eng">19th century</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">Carniola</SUBJECT>
+        <SUBJECT lang="eng">Habsburg Monarchy</SUBJECT>
+        <PUBLISHER>Druck von Josef Blasnik, Ljubljana</PUBLISHER>
+        <COVERAGE coverageType="Coverage" lang="slv">Kranjska, 19. stoletje</COVERAGE>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1846</YEAR>
+        <DATETIME_ADDED>2012-01-24 21:44:18</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-11-17 13:44:58</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="Alphabetishes Verzeichnis 1846.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>1114</ID>
+        <URN>11686/1114</URN>
+        <CHILD_ORDER>7380</CHILD_ORDER>
+        <DATE type="Date">1918</DATE>
+        <MENU_ID id="271">Krajevni leksikoni</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <TITLE titleType="Title" lang="slv">Specialni krajevni repertorij avstrijskih dežel</TITLE>
+        <TITLE titleType="Title" lang="slv">Specialni krajevni repertorij za Štajersko</TITLE>
+        <TITLE titleType="Title" lang="slv">Izdelan na podlagi podatkov ljudskega štetja z dne 31. decembra 1910</TITLE>
+        <TITLE titleType="Title" lang="slv">Izdala C.kr. statistična centralna komisija</TITLE>
+        <SUBJECT lang="slv">upravna razdelitev</SUBJECT>
+        <SUBJECT lang="slv">demografska statistika</SUBJECT>
+        <SUBJECT lang="slv">naselja</SUBJECT>
+        <SUBJECT lang="slv">20. st.</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">Štajerska</SUBJECT>
+        <SUBJECT lang="slv">Avstro-Ogrska</SUBJECT>
+        <SUBJECT lang="slv">Habsburška monarhija,</SUBJECT>
+        <SUBJECT lang="slv">popis prebivalstva</SUBJECT>
+        <SUBJECT lang="eng">administrative regulation</SUBJECT>
+        <SUBJECT lang="eng">demographic statistics</SUBJECT>
+        <SUBJECT lang="eng">resorts</SUBJECT>
+        <SUBJECT lang="eng">20th century</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">Styria</SUBJECT>
+        <SUBJECT lang="eng">Austria-Hungary</SUBJECT>
+        <SUBJECT lang="eng">Habsburg Monarchy</SUBJECT>
+        <SUBJECT lang="eng">population census</SUBJECT>
+        <PUBLISHER>C. kr. dvorna in državna tiskarna, Dunaj</PUBLISHER>
+        <COLLECTION>Specialni krajevni repertorij avstrijskih dežel. Štajersko ; 4</COLLECTION>
+        <COVERAGE coverageType="Coverage" lang="slv">Avstro-Ogrska, 1910</COVERAGE>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1918</YEAR>
+        <DATETIME_ADDED>2011-11-30 17:51:44</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-11-17 13:45:20</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="Styria-1910-slv.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+        <IMAGE>stajerska 1910.jpg</IMAGE>
+    </publication>
+    <publication>
+        <ID>1113</ID>
+        <URN>11686/1113</URN>
+        <CHILD_ORDER>7379</CHILD_ORDER>
+        <DATE type="Date">1904</DATE>
+        <MENU_ID id="271">Krajevni leksikoni</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Povezava">2</TYPE>
+        <TYPE_DC title="Interactive Resource">5</TYPE_DC>
+        <TITLE titleType="Title" lang="slv">Leksikon občin kraljestev in dežel zastopanih v dravnem zboru</TITLE>
+        <TITLE titleType="Title" lang="slv">Leksikon občin za Štajersko</TITLE>
+        <TITLE titleType="Title" lang="slv">Izdelan po rezultatih popisa ljudstva dne 31.grudna 1900</TITLE>
+        <TITLE titleType="Title" lang="slv">Izdala c.kr. centralna statistična komisija</TITLE>
+        <SUBJECT lang="slv">upravna razdelitev</SUBJECT>
+        <SUBJECT lang="slv">demografska statistika</SUBJECT>
+        <SUBJECT lang="slv">naselja</SUBJECT>
+        <SUBJECT lang="slv">20. st.</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">Štajerska</SUBJECT>
+        <SUBJECT lang="slv">Avstro-Ogrska</SUBJECT>
+        <SUBJECT lang="slv">Habsburška monarhija</SUBJECT>
+        <SUBJECT lang="slv">popis prebivalstva</SUBJECT>
+        <SUBJECT lang="eng">administrative regulation</SUBJECT>
+        <SUBJECT lang="eng">demographic statistics</SUBJECT>
+        <SUBJECT lang="eng">resorts</SUBJECT>
+        <SUBJECT lang="eng">20th century</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">Styria</SUBJECT>
+        <SUBJECT lang="eng">Austria-Hungary</SUBJECT>
+        <SUBJECT lang="eng">Habsburg Monarchy</SUBJECT>
+        <SUBJECT lang="eng">population census</SUBJECT>
+        <PUBLISHER>C. Kr. Dvorna In Državna Tiskarna, Dunaj</PUBLISHER>
+        <COVERAGE coverageType="Coverage" lang="slv">Avstro-Ogrska, 1900</COVERAGE>
+        <LINK>http://wff1.ff.uni-lj.si/oddelki/zgodovin/Repertoriji/STAJERSKA%201900.pdf</LINK>
+        <STATUS>0</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1904</YEAR>
+        <DATETIME_ADDED>2011-11-30 17:52:03</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-11-17 13:50:12</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <IMAGE>stajerska 1900.jpg</IMAGE>
+    </publication>
+    <publication>
+        <ID>1112</ID>
+        <URN>11686/1112</URN>
+        <CHILD_ORDER>7378</CHILD_ORDER>
+        <DATE type="Date">1894</DATE>
+        <MENU_ID id="271">Krajevni leksikoni</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <LANGUAGE lang="deu">3</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <TITLE titleType="Title" lang="deu">Special Orts-Repertorien der im Österreichischen Reichsrathe vertretenen Königsreiche und Länder</TITLE>
+        <TITLE titleType="Title" lang="mul">Special Orts-Repertorium von Steiermark = Specijalni repertorij krajev na Štajerskem</TITLE>
+        <TITLE titleType="Title" lang="mul">Neubearbeitung auf Grund der Ergebnisse der Volkszählung vom 31. December 1890 = na novo predelan po rezultatih popisa ljudstva dne 31. decembra 1890</TITLE>
+        <TITLE titleType="Title" lang="mul">Herausgegeben von der K.K. Statistischen central-Commission = na svitlo dala C. Kr. Centralna statistična komisija</TITLE>
+        <SUBJECT lang="slv">upravna razdelitev</SUBJECT>
+        <SUBJECT lang="slv">demografska statistika</SUBJECT>
+        <SUBJECT lang="slv">naselja</SUBJECT>
+        <SUBJECT lang="slv">19.st.</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">Štajerska</SUBJECT>
+        <SUBJECT lang="slv">Avstro-Ogrska</SUBJECT>
+        <SUBJECT lang="slv">Habsburška monarhija</SUBJECT>
+        <SUBJECT lang="slv">popis prebivalstva</SUBJECT>
+        <SUBJECT lang="eng">administrative regulation</SUBJECT>
+        <SUBJECT lang="eng">demographic statistics</SUBJECT>
+        <SUBJECT lang="eng">resorts</SUBJECT>
+        <SUBJECT lang="eng">19th century</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">Styria</SUBJECT>
+        <SUBJECT lang="eng">Austria-Hungary</SUBJECT>
+        <SUBJECT lang="eng">Habsburg Monarchy</SUBJECT>
+        <SUBJECT lang="eng">population census</SUBJECT>
+        <PUBLISHER>Alfred Hölder, Wien</PUBLISHER>
+        <COVERAGE coverageType="Coverage" lang="slv">Avstro-Ogrska, 1890</COVERAGE>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1894</YEAR>
+        <DATETIME_ADDED>2011-11-30 17:52:22</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-11-17 13:48:36</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="Orts-Repertorium_Stajerska_1890.pdf">
+            <ATTRIBUTE type="digitalFormat">directory</ATTRIBUTE>
+        </PUBLICATION>
+        <IMAGE>stajerska 1890.jpg</IMAGE>
+    </publication>
+    <publication>
+        <ID>1111</ID>
+        <URN>11686/1111</URN>
+        <CHILD_ORDER>7377</CHILD_ORDER>
+        <DATE type="Date">1883</DATE>
+        <MENU_ID id="271">Krajevni leksikoni</MENU_ID>
+        <LANGUAGE lang="deu">3</LANGUAGE>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <TITLE titleType="Title" lang="mul">Special Orts-Repertorien der im Österreichischen Reichsrathe vertretenen Königsreiche und Länder</TITLE>
+        <TITLE titleType="Title" lang="mul">Spezial-orts-repertorium von Steiermark = Obširen imenik krajev na Štajerskem</TITLE>
+        <TITLE titleType="Title" lang="mul">Herausgegeben von der K.K. statistischen Central-commission = Na svitlo dan po c.kr. statistični centralni komisiji</TITLE>
+        <SUBJECT lang="slv">upravna razdelitev</SUBJECT>
+        <SUBJECT lang="slv">demografska statistika</SUBJECT>
+        <SUBJECT lang="slv">naselja</SUBJECT>
+        <SUBJECT lang="slv">19.st.</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">Štajerska</SUBJECT>
+        <SUBJECT lang="slv">Avstro-Ogrska</SUBJECT>
+        <SUBJECT lang="slv">Habsburška monarhija</SUBJECT>
+        <SUBJECT lang="slv">popis prebivalstva</SUBJECT>
+        <SUBJECT lang="eng">administrative regulation</SUBJECT>
+        <SUBJECT lang="eng">demographic statistics</SUBJECT>
+        <SUBJECT lang="eng">resorts</SUBJECT>
+        <SUBJECT lang="eng">19th century</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">Styria</SUBJECT>
+        <SUBJECT lang="eng">Austria-Hungary</SUBJECT>
+        <SUBJECT lang="eng">Habsburg Monarchy</SUBJECT>
+        <SUBJECT lang="eng">population census</SUBJECT>
+        <PUBLISHER>Alfred Hölder, Wien</PUBLISHER>
+        <COLLECTION>Spezialortsrepertorium der Österreichischen Länder ; 4</COLLECTION>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1883</YEAR>
+        <DATETIME_ADDED>2012-04-05 10:09:54</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-11-17 13:33:10</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="SPECIALORTS-REPERTORIUM_STEIERMARK_1880.pdf">
+            <ATTRIBUTE type="digitalFormat">directory</ATTRIBUTE>
+        </PUBLICATION>
+        <IMAGE>stajerska 1880.jpg</IMAGE>
+    </publication>
+    <publication>
+        <ID>1110</ID>
+        <URN>11686/1110</URN>
+        <CHILD_ORDER>7376</CHILD_ORDER>
+        <DATE type="Date">1919</DATE>
+        <MENU_ID id="271">Krajevni leksikoni</MENU_ID>
+        <LANGUAGE lang="deu">3</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <TITLE titleType="Title" lang="deu">Spezialortsrepertorium der Österreichischen Länder</TITLE>
+        <TITLE titleType="Title" lang="deu">Spezialortsrepertorium von Krain</TITLE>
+        <TITLE titleType="Title" lang="deu">Bearbeitet auf Grund der Ergebnisse der Volkszählung vom 31. Dezember 1910</TITLE>
+        <TITLE titleType="Title" lang="deu">Herausgegeben von der Statistischen Zentralkommission</TITLE>
+        <SUBJECT lang="slv">upravna razdelitev</SUBJECT>
+        <SUBJECT lang="slv">demografska statistika</SUBJECT>
+        <SUBJECT lang="slv">naselja</SUBJECT>
+        <SUBJECT lang="slv">20. st.</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">Kranjska</SUBJECT>
+        <SUBJECT lang="slv">Avstro-Ogrska</SUBJECT>
+        <SUBJECT lang="slv">Habsburška monarhija</SUBJECT>
+        <SUBJECT lang="slv">popis prebivalstva</SUBJECT>
+        <SUBJECT lang="eng">administrative regulation</SUBJECT>
+        <SUBJECT lang="eng">demographic statistics</SUBJECT>
+        <SUBJECT lang="eng">resorts</SUBJECT>
+        <SUBJECT lang="eng">20th century</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">Carniola</SUBJECT>
+        <SUBJECT lang="eng">Austria-Hungary</SUBJECT>
+        <SUBJECT lang="eng">Habsburg Monarchy</SUBJECT>
+        <SUBJECT lang="eng">population census</SUBJECT>
+        <PUBLISHER>Verlag der Deutschösterreichischen Staatsdruckerei, Wien</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1919</YEAR>
+        <DATETIME_ADDED>2011-11-30 17:50:01</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-11-17 13:48:50</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="SPEZIALORTSREPERTORIUM_KRAIN_1910.pdf">
+            <ATTRIBUTE type="digitalFormat">directory</ATTRIBUTE>
+        </PUBLICATION>
+        <IMAGE>1910.jpg</IMAGE>
+    </publication>
+    <publication>
+        <ID>1109</ID>
+        <URN>11686/1109</URN>
+        <CHILD_ORDER>7375</CHILD_ORDER>
+        <DATE type="Date">1906</DATE>
+        <MENU_ID id="271">Krajevni leksikoni</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Povezava">2</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <TITLE titleType="Title" lang="slv">Leksikon občin kraljestev in dežel zastopanih v državnem zboru</TITLE>
+        <TITLE titleType="Title" lang="slv">Izdelan po rezultatih popisa ljudstva dne 31.grudna 1900</TITLE>
+        <TITLE titleType="Title" lang="slv">VI. Kranjsko</TITLE>
+        <SUBJECT lang="slv">upravna razdelitev</SUBJECT>
+        <SUBJECT lang="slv">demografska statistika</SUBJECT>
+        <SUBJECT lang="slv">naselja</SUBJECT>
+        <SUBJECT lang="slv">20. st.</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">Kranjska</SUBJECT>
+        <SUBJECT lang="slv">Avstro-Ogrska</SUBJECT>
+        <SUBJECT lang="slv">Habsburška monarhija</SUBJECT>
+        <SUBJECT lang="slv">popis prebivalstva</SUBJECT>
+        <SUBJECT lang="eng">administrative regulation</SUBJECT>
+        <SUBJECT lang="eng">demographic statistics</SUBJECT>
+        <SUBJECT lang="eng">resorts</SUBJECT>
+        <SUBJECT lang="eng">20th century</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">Carniola</SUBJECT>
+        <SUBJECT lang="eng">Austria-Hungary</SUBJECT>
+        <SUBJECT lang="eng">Habsburg Monarchy</SUBJECT>
+        <SUBJECT lang="eng">population census</SUBJECT>
+        <PUBLISHER>C. Kr. Centralna statistična komisija</PUBLISHER>
+        <SOURCE sourceType="Vir - URN Naslov">http://wff1.ff.uni-lj.si/oddelki/Zgodovin/Repertoriji/Kranjska%201900.pdf</SOURCE>
+        <STATUS>0</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1906</YEAR>
+        <DATETIME_ADDED>2011-11-30 17:50:29</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-11-17 13:50:20</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <IMAGE>1900.jpg</IMAGE>
+    </publication>
+    <publication>
+        <ID>1108</ID>
+        <URN>11686/1108</URN>
+        <CHILD_ORDER>7374</CHILD_ORDER>
+        <DATE type="Date">1894</DATE>
+        <MENU_ID id="271">Krajevni leksikoni</MENU_ID>
+        <LANGUAGE lang="deu">3</LANGUAGE>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <TITLE titleType="Title" lang="mul">Special Orts-Repertorien der im Österreichischen Reichsrathe vertretenen Königsreiche und Länder</TITLE>
+        <TITLE titleType="Title" lang="mul">Special Orts-Repertorium von Krein = Specijalni repertorij krajev na Kranjskem</TITLE>
+        <TITLE titleType="Title" lang="mul">Neubearbeitung auf Grund der Ergebnisse der Volkszählung vom 31. December 1890 = na novo predelan po rezultatih popisa ljudstva dne 31. decembra 1890</TITLE>
+        <TITLE titleType="Title" lang="mul">Herausgegeben von der K.K. Statistischen central-Commission = na svitlo dala C. Kr. Centralna statistična komisija</TITLE>
+        <SUBJECT lang="slv">Kranjska</SUBJECT>
+        <SUBJECT lang="slv">prebivalstvo</SUBJECT>
+        <SUBJECT lang="slv">popis prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">statistični podatki</SUBJECT>
+        <PUBLISHER>Alfred Hölder, Wien</PUBLISHER>
+        <COVERAGE coverageType="Coverage" lang="slv">Kranjska, 1890</COVERAGE>
+        <LINK>http://oddelki.ff.uni-lj.si/zgodovin/Repertoriji/kranjska%201894.pdf</LINK>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1894</YEAR>
+        <DATETIME_ADDED>2011-11-30 17:50:57</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-05-18 11:12:45</DATETIME_MODIFIED>
+        <USER_ID_ADDED>11</USER_ID_ADDED>
+        <IMAGE>1990.jpg</IMAGE>
+    </publication>
+    <publication>
+        <ID>838</ID>
+        <URN>11686/838</URN>
+        <CHILD_ORDER>7373</CHILD_ORDER>
+        <DATE type="Date">1918</DATE>
+        <MENU_ID id="271">Krajevni leksikoni</MENU_ID>
+        <LANGUAGE lang="deu">3</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title">Spezialortsrepertorium der Österreichischen Länder: Spezialortsrepertorium von Kärnten</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:838" rel="dct:creator"><span property="dct:title">Statistischen Zentralkommission</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+Avtorske pravice so potekle, delo je v javni domeni.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="deu">Spezialortsrepertorium der Österreichischen Länder</TITLE>
+        <TITLE titleType="Title" lang="deu">Spezialortsrepertorium von Kärnten</TITLE>
+        <TITLE titleType="Title" lang="deu">Bearbeitet auf Grund der Ergebnisse der Volkszählung vom 31. Dezember 1910</TITLE>
+        <TITLE titleType="Title" lang="deu">Herausgegeben von der Statistischen Zentralkommission</TITLE>
+        <PUBLISHER>Statistischen Zentralkommission (izdal)</PUBLISHER>
+        <PUBLISHER>Staatsdruckerei, Wien (založil)</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1918</YEAR>
+        <DATETIME_ADDED>2012-01-30 08:01:50</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2013-02-19 17:07:59</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="Spezialortsrepertorium_der_Osterreichischen_Lander_V_1918.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+        <IMAGE>Spezialortsrepertorium_der_Osterreichischen_Lander_V_1918.jpg</IMAGE>
+    </publication>
+    <publication>
+        <ID>837</ID>
+        <URN>11686/837</URN>
+        <CHILD_ORDER>7372</CHILD_ORDER>
+        <DATE type="Date">1894</DATE>
+        <MENU_ID id="271">Krajevni leksikoni</MENU_ID>
+        <LANGUAGE lang="deu">3</LANGUAGE>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title">Special-Orts-Repertorium von Kärnten = Specialni repertoriji krajev na Koroškem</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:837" rel="dct:creator"><span property="dct:title">Alfred Hölder</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+Avtorske pravice so potekle, delo je v javni domeni.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="mul">Special Orts-Repertorien der im Österreichischen Reichsrathe vertretenen Königsreiche und Länder</TITLE>
+        <TITLE titleType="Title" lang="mul">Special-Orts-Repertorium von Kärnten = Specialni repertoriji krajev na Koroškem</TITLE>
+        <TITLE titleType="Title" lang="mul">Neubearbeitung auf Grund der Ergebnisse der Volkszählung vom 31. December 1890 = Na novo predelan po rezuletatih popisa ljudstva dne 31. decembra 1890</TITLE>
+        <TITLE titleType="Title" lang="mul">Herausgegeben von der K.K. Statistischen central-Commission = na svitlo dala C. Kr. Centralna statistična komisija</TITLE>
+        <SUBJECT lang="slv">upravna razdelitev</SUBJECT>
+        <SUBJECT lang="slv">demografska statistika</SUBJECT>
+        <SUBJECT lang="slv">naselja</SUBJECT>
+        <SUBJECT lang="slv">19.st.</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">Koroška</SUBJECT>
+        <SUBJECT lang="slv">Avstro-Ogrska</SUBJECT>
+        <SUBJECT lang="slv">Habsburška monarhija</SUBJECT>
+        <SUBJECT lang="slv">popis prebivalstva</SUBJECT>
+        <SUBJECT lang="eng">administrative regulation</SUBJECT>
+        <SUBJECT lang="eng">demographic statistics</SUBJECT>
+        <SUBJECT lang="eng">resorts,</SUBJECT>
+        <SUBJECT lang="eng">19th century</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">Carinthia</SUBJECT>
+        <SUBJECT lang="eng">Austria-Hungary</SUBJECT>
+        <SUBJECT lang="eng">Habsburg Monarchy</SUBJECT>
+        <SUBJECT lang="eng">population census</SUBJECT>
+        <PUBLISHER>Alfred Hölder, Wien</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1894</YEAR>
+        <DATETIME_ADDED>2012-01-26 20:42:39</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-11-17 13:32:32</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="Specialni_repertorij_krajev_na_Koroskem_1894.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+        <IMAGE>Specialni_repertorij_krajev_na_Koroskem_1894.jpg</IMAGE>
+    </publication>
+    <publication>
+        <ID>836</ID>
+        <URN>11686/836</URN>
+        <CHILD_ORDER>7371</CHILD_ORDER>
+        <DATE type="Date">1918</DATE>
+        <MENU_ID id="271">Krajevni leksikoni</MENU_ID>
+        <LANGUAGE lang="deu">3</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title">Spezialortsrepertorium für das Österreichisch-Illyrische Küstenland</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:836" rel="dct:creator"><span property="dct:title">Verlag der Deutschösterreichischen Staatsdruckerei</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+Avtorske pravice so potekle, delo je v javni domeni.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="deu">Spezialortsrepertorium der Österreichischen Länder</TITLE>
+        <TITLE titleType="Title" lang="deu">Spezialortsrepertorium für das Österreichisch-Illyrische Küstenland</TITLE>
+        <TITLE titleType="Title" lang="deu">Bearbeitet auf Grund der Ergebnisse der Volkszählung vom 31. Dezember 1910</TITLE>
+        <TITLE titleType="Title" lang="deu">Herausgegeben von der Statistischen Zentralkommission</TITLE>
+        <SUBJECT lang="slv">upravna razdelitev</SUBJECT>
+        <SUBJECT lang="slv">demografska statistika</SUBJECT>
+        <SUBJECT lang="slv">naselja</SUBJECT>
+        <SUBJECT lang="slv">20. st.</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">Primorska</SUBJECT>
+        <SUBJECT lang="slv">Istra</SUBJECT>
+        <SUBJECT lang="slv">Gradiščanska</SUBJECT>
+        <SUBJECT lang="slv">Trst</SUBJECT>
+        <SUBJECT lang="slv">Gorica</SUBJECT>
+        <SUBJECT lang="slv">Avstro-Ogrska</SUBJECT>
+        <SUBJECT lang="slv">Habsburška monarhija</SUBJECT>
+        <SUBJECT lang="slv">popis prebivalstva</SUBJECT>
+        <SUBJECT lang="eng">administrative regulation</SUBJECT>
+        <SUBJECT lang="eng">demographic statistics</SUBJECT>
+        <SUBJECT lang="eng">resorts</SUBJECT>
+        <SUBJECT lang="eng">20th century</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">Littoral</SUBJECT>
+        <SUBJECT lang="eng">Istria</SUBJECT>
+        <SUBJECT lang="eng">Gradisca</SUBJECT>
+        <SUBJECT lang="eng">Trieste</SUBJECT>
+        <SUBJECT lang="eng">Gorizia</SUBJECT>
+        <SUBJECT lang="eng">Austria-Hungary</SUBJECT>
+        <SUBJECT lang="eng">Habsburg Monarchy</SUBJECT>
+        <SUBJECT lang="eng">population census</SUBJECT>
+        <PUBLISHER>Verlag der Deutschösterreichischen Staatsdruckerei, Wien</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1918</YEAR>
+        <DATETIME_ADDED>2012-01-26 20:43:14</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-11-17 13:32:16</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="Spezialortsrepertorium_der_Osterreichischen_Lander_VII_1918.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+        <IMAGE>Spezialortsrepertorium_der_Osterreichischen_Lander_VII_1910.jpg</IMAGE>
+    </publication>
+    <publication>
+        <ID>835</ID>
+        <URN>11686/835</URN>
+        <CHILD_ORDER>7370</CHILD_ORDER>
+        <DATE type="Date">1894</DATE>
+        <MENU_ID id="271">Krajevni leksikoni</MENU_ID>
+        <LANGUAGE lang="mul">15</LANGUAGE>
+        <LANGUAGE lang="deu">3</LANGUAGE>
+        <LANGUAGE lang="ita">8</LANGUAGE>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <LANGUAGE lang="hrv">17</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title">Special-Orts-Repertorium des österreichisch-illyrischen Küstenlandes</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:835" rel="dct:creator"><span property="dct:title">Alfred Hölder</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+Avtorske pravice so potekle, delo je v javni domeni.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="mul">Special Orts-Repertorien der im Österreichischen Reichsrathe vertretenen Königsreiche und Länder</TITLE>
+        <TITLE titleType="Title" lang="mul">Special-Orts-Repertorium des österreichisch-illyrischen Küstenlandes = Repertorio speciale dei luoghi nal litorale austro-illirico = Specijalni repertorij  krajev na avstrijsko-ilirskem Primorju = Posebni popis mjesta u avstro-ilirskom Primorju</TITLE>
+        <TITLE titleType="Title" lang="mul">Neubearbeitung auf Grund der Ergebnisse der Volkszählung vom 31. December 1890 = Nuova compilazione pubblicata in base ai risultati dell'anagrafe 31. dicembre 1890 = Na novo predelan po rezultatih popisa ljudstva dne 31. decembra 1890 = Nanovo ga preradil</TITLE>
+        <TITLE titleType="Title" lang="mul">Herausgegeben von der K. K. statistichen Central-Commission = i. r. commissione centrale di statistica = na svitlo dala c. kr. Centralna statistična komisija = na svijet izdala c. k. statistička centralna komisija</TITLE>
+        <SUBJECT lang="slv">upravna razdelitev</SUBJECT>
+        <SUBJECT lang="slv">demografska statistika</SUBJECT>
+        <SUBJECT lang="slv">naselja</SUBJECT>
+        <SUBJECT lang="slv">19.st.</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">Primorska</SUBJECT>
+        <SUBJECT lang="slv">Istra</SUBJECT>
+        <SUBJECT lang="slv">Gradiščanska</SUBJECT>
+        <SUBJECT lang="slv">Gorica</SUBJECT>
+        <SUBJECT lang="slv">Trst</SUBJECT>
+        <SUBJECT lang="slv">Avstro-Ogrska</SUBJECT>
+        <SUBJECT lang="slv">Habsburška monarhija</SUBJECT>
+        <SUBJECT lang="slv">popis prebivalstva</SUBJECT>
+        <SUBJECT lang="eng">administrative regulation</SUBJECT>
+        <SUBJECT lang="eng">demographic statistics</SUBJECT>
+        <SUBJECT lang="eng">resorts</SUBJECT>
+        <SUBJECT lang="eng">19th century</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">Littoral</SUBJECT>
+        <SUBJECT lang="eng">Istria</SUBJECT>
+        <SUBJECT lang="eng">Gradisca</SUBJECT>
+        <SUBJECT lang="eng">Gorizia</SUBJECT>
+        <SUBJECT lang="eng">Trieste</SUBJECT>
+        <SUBJECT lang="eng">Austria-Hungary</SUBJECT>
+        <SUBJECT lang="eng">Habsburg Monarchy</SUBJECT>
+        <SUBJECT lang="eng">population census</SUBJECT>
+        <PUBLISHER>Alfred Hölder, Wien</PUBLISHER>
+        <COLLECTION>Special-Orts-Repertorien der im österreichischen Reichsrathe vertretenen Königreiche und Länder. Österrreichisch-illyrisches Küstenland ; 7</COLLECTION>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1894</YEAR>
+        <DATETIME_ADDED>2012-01-26 20:43:44</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-11-17 13:30:44</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="Specialni_repertorij_krajev_na_Avstrijsko-Ilirskem_primorju_1894.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+        <IMAGE>Specialni_repertorij_krajev_na_Avstrijsko-Ilirskem_primorju_1894.jpg</IMAGE>
+    </publication>
+    <publication>
+        <ID>834</ID>
+        <URN>11686/834</URN>
+        <CHILD_ORDER>7369</CHILD_ORDER>
+        <DATE type="Date">1885</DATE>
+        <MENU_ID id="271">Krajevni leksikoni</MENU_ID>
+        <LANGUAGE lang="mul">15</LANGUAGE>
+        <LANGUAGE lang="deu">3</LANGUAGE>
+        <LANGUAGE lang="ita">8</LANGUAGE>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <LANGUAGE lang="hrv">17</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title">Special-Orts-Repertorium vom Küstenlande</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:834" rel="dct:creator"><span property="dct:title">Alfred Hölder</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+Avtorske pravice so potekle, delo je v javni domeni.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Posebni krajevni imenik za Primorje</TITLE>
+        <TITLE titleType="Title" lang="deu">Special-Orts-Repertorium vom Küstenlande</TITLE>
+        <TITLE titleType="Title" lang="ita">Repertorio speciale dei luoghi nel Litorale</TITLE>
+        <TITLE titleType="Title" lang="hrv">Posebni popis miestah u Primorju</TITLE>
+        <SUBJECT lang="slv">upravna razdelitev</SUBJECT>
+        <SUBJECT lang="slv">demografska statistika</SUBJECT>
+        <SUBJECT lang="slv">naselja</SUBJECT>
+        <SUBJECT lang="slv">19.st.</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">Primorska</SUBJECT>
+        <SUBJECT lang="slv">Istra</SUBJECT>
+        <SUBJECT lang="slv">Gradiščanska</SUBJECT>
+        <SUBJECT lang="slv">Gorica</SUBJECT>
+        <SUBJECT lang="slv">Trst</SUBJECT>
+        <SUBJECT lang="slv">Avstro-Ogrska</SUBJECT>
+        <SUBJECT lang="slv">Habsburška monarhija</SUBJECT>
+        <SUBJECT lang="slv">popis prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">administrative regulation</SUBJECT>
+        <SUBJECT lang="slv">demographic statistics</SUBJECT>
+        <SUBJECT lang="slv">resorts</SUBJECT>
+        <SUBJECT lang="slv">19th century</SUBJECT>
+        <SUBJECT lang="slv">Slovenia</SUBJECT>
+        <SUBJECT lang="slv">Littoral</SUBJECT>
+        <SUBJECT lang="slv">Istria</SUBJECT>
+        <SUBJECT lang="slv">Gradisca</SUBJECT>
+        <SUBJECT lang="slv">Gorizia</SUBJECT>
+        <SUBJECT lang="slv">Trieste</SUBJECT>
+        <SUBJECT lang="slv">Austria-Hungary</SUBJECT>
+        <SUBJECT lang="slv">Habsburg Monarchy</SUBJECT>
+        <SUBJECT lang="slv">population census</SUBJECT>
+        <PUBLISHER>K. K. statistichen Central-Commission = c. kr. Centralna statistična komisija (izdal)</PUBLISHER>
+        <PUBLISHER>Alfred Hölder, Wien (založil)</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1885</YEAR>
+        <DATETIME_ADDED>2012-01-26 20:44:23</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-11-17 13:30:22</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="Poseben_krajevni_imenik_za_Primorje_1885.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+        <IMAGE>primorska 1880.jpg</IMAGE>
+    </publication>
+    <publication>
+        <ID>833</ID>
+        <URN>11686/833</URN>
+        <CHILD_ORDER>7368</CHILD_ORDER>
+        <DATE type="Date">1883</DATE>
+        <MENU_ID id="271">Krajevni leksikoni</MENU_ID>
+        <LANGUAGE lang="deu">3</LANGUAGE>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title">Special-Orts-Repertorium von Kärnten</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:833" rel="dct:creator"><span property="dct:title">Alfred Hölder</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+Avtorske pravice so potekle, delo je v javni domeni.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="deu">Special Orts-Repertorien der im Österreichischen Reichsrathe vertretenen Königsreiche und Länder</TITLE>
+        <TITLE titleType="Title" lang="mul">Special-Orts-Repertorium von Kärnten = Obširen imenik krajev na Koroško</TITLE>
+        <TITLE titleType="Title" lang="mul">Herausgegeben von der K.K. Statistischen central-Commission = na svitlo dan po C. Kr. statistični centralni komisiji</TITLE>
+        <SUBJECT lang="slv">upravna razdelitev</SUBJECT>
+        <SUBJECT lang="slv">demografska statistika</SUBJECT>
+        <SUBJECT lang="slv">naselja</SUBJECT>
+        <SUBJECT lang="slv">19.st</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">Koroška</SUBJECT>
+        <SUBJECT lang="slv">Avstro-Ogrska</SUBJECT>
+        <SUBJECT lang="slv">Habsburška monarhija</SUBJECT>
+        <SUBJECT lang="slv">popis prebivalstva</SUBJECT>
+        <SUBJECT lang="eng">administrative regulation</SUBJECT>
+        <SUBJECT lang="eng">demographic statistics</SUBJECT>
+        <SUBJECT lang="eng">resorts</SUBJECT>
+        <SUBJECT lang="eng">19th century</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">Carinthia</SUBJECT>
+        <SUBJECT lang="eng">Austria-Hungary</SUBJECT>
+        <SUBJECT lang="eng">Habsburg Monarchy</SUBJECT>
+        <SUBJECT lang="eng">population census</SUBJECT>
+        <PUBLISHER>Alfred Hölder, Wien</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1883</YEAR>
+        <DATETIME_ADDED>2012-01-26 20:44:43</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-11-17 13:31:43</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="Orts-Repertorium_des_Herzogthumes_Karnten_1883.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+        <IMAGE>Orts-Repertorium_des_Herzogthumes_Karnten_1883.jpg</IMAGE>
+    </publication>
+    <publication>
+        <ID>832</ID>
+        <URN>11686/832</URN>
+        <CHILD_ORDER>7367</CHILD_ORDER>
+        <DATE type="Date">1872</DATE>
+        <MENU_ID id="271">Krajevni leksikoni</MENU_ID>
+        <LANGUAGE lang="deu">3</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title">Orts-Repertorium des Herzogthumes Kärnten</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:832" rel="dct:creator"><span property="dct:title">C. Gerold's Sohn</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+Avtorske pravice so potekle, delo je v javni domeni.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="deu">Orts-Repertorium des Herzogthumes Kärnten</TITLE>
+        <TITLE titleType="Title" lang="deu">Auf Grundlage der Volkszählung vom 31. Dezember 1869</TITLE>
+        <TITLE titleType="Title" lang="deu">Bearbeitet von der K.K. statistischen Central-Commission</TITLE>
+        <SUBJECT lang="slv">upravna razdelitev</SUBJECT>
+        <SUBJECT lang="slv">demografska statistika</SUBJECT>
+        <SUBJECT lang="slv">naselja</SUBJECT>
+        <SUBJECT lang="slv">19.st.</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">Koroška</SUBJECT>
+        <SUBJECT lang="slv">Avstro-Ogrska</SUBJECT>
+        <SUBJECT lang="slv">Habsburška monarhija</SUBJECT>
+        <SUBJECT lang="slv">popis prebivalstva</SUBJECT>
+        <SUBJECT lang="eng">administrative regulation</SUBJECT>
+        <SUBJECT lang="eng">demographic statistics</SUBJECT>
+        <SUBJECT lang="eng">resorts</SUBJECT>
+        <SUBJECT lang="eng">19th century</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">Carinthia</SUBJECT>
+        <SUBJECT lang="eng">Austria-Hungary</SUBJECT>
+        <SUBJECT lang="eng">Habsburg Monarchy</SUBJECT>
+        <SUBJECT lang="eng">population census</SUBJECT>
+        <PUBLISHER>C. Gerold's Sohn, Wien</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1872</YEAR>
+        <DATETIME_ADDED>2012-01-26 20:45:11</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2013-12-04 13:17:28</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="Orts-Repertorium_des_Herzogthumes_Karnten_1872.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+        <IMAGE>Orts-Repertorium_des_Herzogthumes_Karnten_1872.jpg</IMAGE>
+    </publication>
+    <publication>
+        <ID>831</ID>
+        <URN>11686/831</URN>
+        <CHILD_ORDER>7366</CHILD_ORDER>
+        <DATE type="Date">1872</DATE>
+        <MENU_ID id="271">Krajevni leksikoni</MENU_ID>
+        <LANGUAGE lang="deu">3</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <TITLE titleType="Title" lang="deu">Orts-Repertorium des Herzogthumes Steiermark</TITLE>
+        <TITLE titleType="Title" lang="deu">Auf Grundlage der Volkszählung vom 31. December 1869</TITLE>
+        <TITLE titleType="Title" lang="deu">Bearbeitet von der K. K. statistichen Central-Commission</TITLE>
+        <SUBJECT lang="slv">upravna razdelitev</SUBJECT>
+        <SUBJECT lang="slv">demografska statistika</SUBJECT>
+        <SUBJECT lang="slv">naselja</SUBJECT>
+        <SUBJECT lang="slv">19.st</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">Štajerska</SUBJECT>
+        <SUBJECT lang="slv">Avstro-Ogrska</SUBJECT>
+        <SUBJECT lang="slv">Habsburška monarhija</SUBJECT>
+        <SUBJECT lang="slv">popis prebivalstva</SUBJECT>
+        <SUBJECT lang="eng">administrative regulation</SUBJECT>
+        <SUBJECT lang="eng">demographic statistics</SUBJECT>
+        <SUBJECT lang="eng">resorts</SUBJECT>
+        <SUBJECT lang="eng">19th century</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">Styria</SUBJECT>
+        <SUBJECT lang="eng">Austria-Hungary</SUBJECT>
+        <SUBJECT lang="eng">Habsburg Monarchy</SUBJECT>
+        <SUBJECT lang="eng">population census</SUBJECT>
+        <PUBLISHER>Central-Commission, Graz</PUBLISHER>
+        <COVERAGE coverageType="Coverage" lang="slv">Avstro-Ogrska, 1870</COVERAGE>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1872</YEAR>
+        <DATETIME_ADDED>2011-11-30 17:53:01</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-11-17 13:25:55</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="Orts-Repertorium_Stajerska_1870.pdf">
+            <ATTRIBUTE type="digitalFormat">directory</ATTRIBUTE>
+        </PUBLICATION>
+        <IMAGE>stajerska 1870.jpg</IMAGE>
+    </publication>
+    <publication>
+        <ID>830</ID>
+        <URN>11686/830</URN>
+        <CHILD_ORDER>7365</CHILD_ORDER>
+        <DATE type="Date">1884</DATE>
+        <MENU_ID id="271">Krajevni leksikoni</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <LANGUAGE lang="deu">3</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <TITLE titleType="Title" lang="slv">Obširen imenik krajev na Krajnskem</TITLE>
+        <TITLE titleType="Title" lang="slv">na svitlo dan po C. Kr. statistični centralni komisiji</TITLE>
+        <TITLE titleType="Title" lang="deu">Special-Orts-Repertorium von Krain</TITLE>
+        <TITLE titleType="Title" lang="deu">Herausgegeben von der K. K. statistichen Central-Commission</TITLE>
+        <SUBJECT lang="slv">upravna razdelitev</SUBJECT>
+        <SUBJECT lang="slv">demografska statistika</SUBJECT>
+        <SUBJECT lang="slv">naselja</SUBJECT>
+        <SUBJECT lang="slv">19.st.</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">Kranjska</SUBJECT>
+        <SUBJECT lang="slv">Avstro-Ogrska</SUBJECT>
+        <SUBJECT lang="slv">Habsburška monarhija</SUBJECT>
+        <SUBJECT lang="slv">popis prebivalstva</SUBJECT>
+        <SUBJECT lang="eng">administrative regulation</SUBJECT>
+        <SUBJECT lang="eng">demographic statistics</SUBJECT>
+        <SUBJECT lang="eng">resorts</SUBJECT>
+        <SUBJECT lang="eng">19th century</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">Carniola</SUBJECT>
+        <SUBJECT lang="eng">Austria-Hungary</SUBJECT>
+        <SUBJECT lang="eng">Habsburg Monarchy</SUBJECT>
+        <SUBJECT lang="eng">population census</SUBJECT>
+        <PUBLISHER>A. Hölder, Wien, 1884</PUBLISHER>
+        <COLLECTION>Special-Orts-Repertorien der im österreichischen Reichsrathe vertretenen Königreiche und Länder ; 6</COLLECTION>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1884</YEAR>
+        <DATETIME_ADDED>2011-11-30 17:51:17</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-11-17 13:25:42</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="Krain_1880_cropabby.pdf">
+            <ATTRIBUTE type="digitalFormat">directory</ATTRIBUTE>
+        </PUBLICATION>
+        <IMAGE>1880.jpg</IMAGE>
+    </publication>
+    <publication>
+        <ID>762</ID>
+        <URN>11686/762</URN>
+        <CHILD_ORDER>272</CHILD_ORDER>
+        <DATE type="Date">1937</DATE>
+        <MENU_ID id="271">Krajevni leksikoni</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <TITLE titleType="Title" lang="slv">Krajevni leksikon Dravske banovine</TITLE>
+        <TITLE titleType="Title" lang="slv">Krajevni repertorij z uradnimi, topografskimi, zemljepisnimi, zgodovinskimi, kulturnimi, gospodarskimi in tujskoprometnimi podatki vseh krajev dravske banovine</TITLE>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">Dravska banovina</SUBJECT>
+        <SUBJECT lang="slv">naselja</SUBJECT>
+        <SUBJECT lang="slv">krajepisi</SUBJECT>
+        <SUBJECT lang="slv">seznami</SUBJECT>
+        <SUBJECT lang="slv">leksikoni</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">Drava banate</SUBJECT>
+        <SUBJECT lang="eng">settlements</SUBJECT>
+        <SUBJECT lang="eng">lexicon</SUBJECT>
+        <PUBLISHER>Zveza za tujski promet za Slovenijo, Ljubljana</PUBLISHER>
+        <PUBLISHER>Uprava Krajevnega leksikona dravske banovine, Ljubljana</PUBLISHER>
+        <COVERAGE coverageType="Coverage" lang="slv">Slovenija, 1918-1941</COVERAGE>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1937</YEAR>
+        <DATETIME_ADDED>2011-11-21 20:33:18</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-11-17 13:25:10</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="1937_Krajevni_leksikon_dravske_banovine.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+</root>

@@ -1,0 +1,379 @@
+<root>
+    <publication>
+        <ID>38032</ID>
+        <URN>11686/38032</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CONTRIBUTOR>Tone Ferenc</CONTRIBUTOR>
+        <MENU_ID id="821">Tipkopisi</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <TITLE titleType="Title" lang="slv">Pregled osvobodilnega boja v Slovenskem Primorju</TITLE>
+        <SUBJECT lang="slv">druga svetovna vojna</SUBJECT>
+        <SUBJECT lang="slv">Primorska</SUBJECT>
+        <SUBJECT lang="slv">elaborat</SUBJECT>
+        <SUBJECT lang="eng">WW II</SUBJECT>
+        <SUBJECT lang="eng">Slovene Littoral</SUBJECT>
+        <SUBJECT lang="eng">study</SUBJECT>
+        <PUBLISHER>Muzej narodne osvoboditve Slovenije, Ljubljana</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1958</YEAR>
+        <DATETIME_ADDED>2017-10-17 07:26:28</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-10-18 13:42:46</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="Pregled_OB_v_slovenskem_Primorju.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>38031</ID>
+        <URN>11686/38031</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date" format="W3CDTF">1959-01-01</DATE>
+        <MENU_ID id="821">Tipkopisi</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <TITLE titleType="Title" lang="slv">Gradivo za topografijo NOB</TITLE>
+        <TITLE titleType="Title" lang="slv">Poljanska dolina</TITLE>
+        <TITLE titleType="Title" lang="slv">2. snopič, 2. del</TITLE>
+        <SUBJECT lang="slv">druga svetovna vojna</SUBJECT>
+        <SUBJECT lang="slv">Poljanska dolina</SUBJECT>
+        <SUBJECT lang="eng">WW II</SUBJECT>
+        <PUBLISHER>Inštitut za zgodovino delavskega gibanja, Ljubljana</PUBLISHER>
+        <PUBLISHER>Muzej narodne osvoboditve LRS, Ljubljana</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1959</YEAR>
+        <DATETIME_ADDED>2017-10-17 07:26:01</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-10-18 13:43:50</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="gradivo_za_topografijo_NOB_II_del.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>38030</ID>
+        <URN>11686/38030</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date" format="W3CDTF">1959-01-01</DATE>
+        <MENU_ID id="821">Tipkopisi</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <TITLE titleType="Title" lang="slv">Gradivo za topografijo NOB</TITLE>
+        <TITLE titleType="Title" lang="slv">Poljanska dolina</TITLE>
+        <TITLE titleType="Title" lang="slv">2 snopič, 1. del</TITLE>
+        <SUBJECT lang="slv">druga svetovna vojna</SUBJECT>
+        <SUBJECT lang="slv">Poljanska dolina</SUBJECT>
+        <SUBJECT lang="eng">WW II</SUBJECT>
+        <PUBLISHER>Inštitut za zgodovino delavskega gibanja, Ljubljana</PUBLISHER>
+        <PUBLISHER>Muzej narodne osvoboditve LRS, Ljubljana</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1959</YEAR>
+        <DATETIME_ADDED>2017-10-17 07:25:34</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-10-18 13:49:36</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="gradivo_za_topografijo_NOB.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>38029</ID>
+        <URN>11686/38029</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CONTRIBUTOR>Tone Ferenc</CONTRIBUTOR>
+        <DATE type="Date" format="W3CDTF">1959-01-01</DATE>
+        <MENU_ID id="821">Tipkopisi</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <TITLE titleType="Title" lang="slv">Dokumentacija k pregledu osvobodilnega gibanja v Slovenskem Primorju</TITLE>
+        <SUBJECT lang="slv">druga svetovna vojna</SUBJECT>
+        <SUBJECT lang="slv">Primorska</SUBJECT>
+        <SUBJECT lang="eng">WW II</SUBJECT>
+        <SUBJECT lang="eng">Slovene Littoral</SUBJECT>
+        <PUBLISHER>Muzej narodne osvoboditve Slovenije, Ljubljana</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1959</YEAR>
+        <DATETIME_ADDED>2017-10-17 07:25:06</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-10-18 13:54:45</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="Dokumentacija_k_pregledu_OB.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>35187</ID>
+        <URN>11686/35187</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CONTRIBUTOR>Miha Šorn (fotograf)</CONTRIBUTOR>
+        <CREATOR>
+            <IME>Miha</IME>
+            <PRIIMEK>Šorn</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date" format="W3CDTF">2016-03-18</DATE>
+        <MENU_ID id="821">Tipkopisi</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons licenca" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />To <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">delo</span> avtorja <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.sistory.si/SISTORY:ID:35187" property="cc:attributionName" rel="cc:attributionURL">Miha Šorn</a> je ponujeno pod <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Priznanje avtorstva-Nekomercijalno-Brez predelav 4.0 International licenco</a>.]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Slovenski znanstvenik Anton lll. Codelli in njegova vloga pri razvoju brezžične telegrafije</TITLE>
+        <SUBJECT lang="slv">razvoj znanosti</SUBJECT>
+        <SUBJECT lang="slv">Togo</SUBJECT>
+        <SUBJECT lang="slv">prva svetovna vojna</SUBJECT>
+        <SUBJECT lang="slv">potopis</SUBJECT>
+        <SUBJECT lang="eng">development of science</SUBJECT>
+        <SUBJECT lang="eng">Toga</SUBJECT>
+        <SUBJECT lang="eng">WW I</SUBJECT>
+        <SUBJECT lang="eng">travelogue</SUBJECT>
+        <PUBLISHER>Inštitut za novejšo zgodovino, Ljubljana</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>2016</YEAR>
+        <DATETIME_ADDED>2016-03-17 21:34:40</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-12-28 18:58:52</DATETIME_MODIFIED>
+        <USER_ID_ADDED>11</USER_ID_ADDED>
+        <PUBLICATION file="codelli_miha_sorn.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>26935</ID>
+        <URN>11686/26935</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CONTRIBUTOR>Milan Brezovar</CONTRIBUTOR>
+        <CONTRIBUTOR>Danilo Čuk</CONTRIBUTOR>
+        <CONTRIBUTOR>Jože Krall</CONTRIBUTOR>
+        <CONTRIBUTOR>Lojze Vršnik</CONTRIBUTOR>
+        <CONTRIBUTOR>Matija Žgajnar</CONTRIBUTOR>
+        <CREATOR2 lang="slv">Muzej narodne osvoboditve, Ljubljana</CREATOR2>
+        <DATE type="Date">1958</DATE>
+        <MENU_ID id="821">Tipkopisi</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <TITLE titleType="Title" lang="slv">Gradivo za topografijo NOB</TITLE>
+        <TITLE titleType="Title" lang="slv">I. snopič</TITLE>
+        <TITLE titleType="Title" lang="slv">Bela krajina</TITLE>
+        <SUBJECT lang="slv">topografija</SUBJECT>
+        <SUBJECT lang="slv">narodnoosvobodilni boj</SUBJECT>
+        <SUBJECT lang="slv">druga svetovna vojna</SUBJECT>
+        <SUBJECT lang="eng">topography</SUBJECT>
+        <SUBJECT lang="eng">national liberation struggle</SUBJECT>
+        <SUBJECT lang="eng">World War II</SUBJECT>
+        <PUBLISHER>Muzej narodne osvoboditve Ljudske republike Slovenije, Ljubljana</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1958</YEAR>
+        <DATETIME_ADDED>2014-07-07 07:09:55</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-12-28 18:59:24</DATETIME_MODIFIED>
+        <USER_ID_ADDED>11</USER_ID_ADDED>
+        <PUBLICATION file="Gradivo_za_topografijo_NOB.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>26864</ID>
+        <URN>11686/26864</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CREATOR>
+            <IME>Alfons</IME>
+            <PRIIMEK>Müllner</PRIIMEK>
+        </CREATOR>
+        <MENU_ID id="821">Tipkopisi</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <TITLE titleType="Title" lang="slv">Zgodovina o železu na Kranjskem, Goriškem in v Istri od praveka do začetka 19. stoletja</TITLE>
+        <TITLE titleType="Title" lang="slv">Drugi del</TITLE>
+        <SUBJECT lang="slv">metalurgija</SUBJECT>
+        <SUBJECT lang="slv">železarstvo</SUBJECT>
+        <SUBJECT lang="slv">železo</SUBJECT>
+        <SUBJECT lang="slv">železova ruda</SUBJECT>
+        <SUBJECT lang="slv">zgodovinski pregled</SUBJECT>
+        <SUBJECT lang="slv">Kranjska</SUBJECT>
+        <SUBJECT lang="slv">Istra</SUBJECT>
+        <SUBJECT lang="slv">Goriška</SUBJECT>
+        <SUBJECT lang="slv">pridobivanje rude</SUBJECT>
+        <SUBJECT lang="slv">nahajališča rude</SUBJECT>
+        <SUBJECT lang="slv">predelava rude</SUBJECT>
+        <SUBJECT lang="slv">plavži</SUBJECT>
+        <SUBJECT lang="slv">talilne peči</SUBJECT>
+        <SUBJECT lang="slv">izdelki iz železa</SUBJECT>
+        <SUBJECT lang="eng">metallurgy</SUBJECT>
+        <SUBJECT lang="eng">iron</SUBJECT>
+        <SUBJECT lang="eng">iron ore</SUBJECT>
+        <SUBJECT lang="eng">historical overview</SUBJECT>
+        <SUBJECT lang="eng">Istria</SUBJECT>
+        <SUBJECT lang="eng">Carniola</SUBJECT>
+        <SUBJECT lang="eng">Gorizia</SUBJECT>
+        <SUBJECT lang="eng">extraction of minerals</SUBJECT>
+        <SUBJECT lang="eng">ore deposits</SUBJECT>
+        <SUBJECT lang="eng">ore processing</SUBJECT>
+        <SUBJECT lang="eng">smelting furnaces</SUBJECT>
+        <SUBJECT lang="eng">furnace</SUBJECT>
+        <SOURCE sourceType="Vir - URN Naslov">SISTORY:ID:26864</SOURCE>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <DATETIME_ADDED>2014-06-12 15:05:22</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-11-22 16:52:16</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="Zgodovina_o_zelezu_na_Kranjskem_2_del.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+        <PARENT>26862</PARENT>
+    </publication>
+    <publication>
+        <ID>26863</ID>
+        <URN>11686/26863</URN>
+        <CHILD_ORDER>0</CHILD_ORDER>
+        <CREATOR>
+            <IME>Alfons</IME>
+            <PRIIMEK>Müllner</PRIIMEK>
+        </CREATOR>
+        <MENU_ID id="821">Tipkopisi</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <TITLE titleType="Title" lang="slv">Zgodovina o železu na Kranjskem, Goriškem in v Istri od praveka do začetka 19. stoletja</TITLE>
+        <TITLE titleType="Title" lang="slv">Prvi del</TITLE>
+        <SUBJECT lang="slv">metalurgija</SUBJECT>
+        <SUBJECT lang="slv">železarstvo</SUBJECT>
+        <SUBJECT lang="slv">železo</SUBJECT>
+        <SUBJECT lang="slv">železova ruda</SUBJECT>
+        <SUBJECT lang="slv">zgodovinski pregled</SUBJECT>
+        <SUBJECT lang="slv">Kranjska</SUBJECT>
+        <SUBJECT lang="slv">Istra</SUBJECT>
+        <SUBJECT lang="slv">Gorica</SUBJECT>
+        <SUBJECT lang="slv">pridobivanje rude</SUBJECT>
+        <SUBJECT lang="slv">nahajališča rude</SUBJECT>
+        <SUBJECT lang="slv">predelava rude</SUBJECT>
+        <SUBJECT lang="slv">plavži</SUBJECT>
+        <SUBJECT lang="slv">talilne peči</SUBJECT>
+        <SUBJECT lang="slv">izdelki iz železa</SUBJECT>
+        <SUBJECT lang="eng">metallurgy</SUBJECT>
+        <SUBJECT lang="eng">iron</SUBJECT>
+        <SUBJECT lang="eng">iron ore</SUBJECT>
+        <SUBJECT lang="eng">historical overview</SUBJECT>
+        <SUBJECT lang="eng">Carniola</SUBJECT>
+        <SUBJECT lang="eng">Istria</SUBJECT>
+        <SUBJECT lang="eng">Gorizia</SUBJECT>
+        <SUBJECT lang="eng">extraction of minerals</SUBJECT>
+        <SUBJECT lang="eng">ore deposits</SUBJECT>
+        <SUBJECT lang="eng">ore processing</SUBJECT>
+        <SUBJECT lang="eng">smelting furnaces</SUBJECT>
+        <SUBJECT lang="eng">furnace</SUBJECT>
+        <SOURCE sourceType="Vir - URN Naslov">SISTORY:ID:26863</SOURCE>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <DATETIME_ADDED>2014-06-12 15:03:10</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-11-22 16:51:34</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="zgodovina_o_zelezu_na_kranjskem_ 1_del.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+        <PARENT>26862</PARENT>
+    </publication>
+    <publication>
+        <ID>26862</ID>
+        <URN>11686/26862</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CREATOR>
+            <IME>Alfons</IME>
+            <PRIIMEK>Müllner</PRIIMEK>
+        </CREATOR>
+        <MENU_ID id="821">Tipkopisi</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Povezava">2</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <TITLE titleType="Title" lang="slv">Zgodovina o železu na Kranjskem, Goriškem in v Istri od praveka do začetka 19. stoletja</TITLE>
+        <TITLE titleType="Alternative Title" lang="deu">Geschichte des Eisens in Inner-Österreich von der Urzeit bis zum Anfange des XIX. Jahrhunderts Mit besonderes Berücksichtigung der Ökonomischen, sozialen und handelspolitischen Verhältnisse sowie des Eisenhandels nach sämtlichen europäischen Ländern, der</TITLE>
+        <SUBJECT lang="slv">metalurgija</SUBJECT>
+        <SUBJECT lang="slv">železarstvo</SUBJECT>
+        <SUBJECT lang="slv">železo</SUBJECT>
+        <SUBJECT lang="slv">železova ruda</SUBJECT>
+        <SUBJECT lang="slv">zgodovinski pregled</SUBJECT>
+        <SUBJECT lang="slv">Kranjska</SUBJECT>
+        <SUBJECT lang="slv">Istra</SUBJECT>
+        <SUBJECT lang="slv">Gorica</SUBJECT>
+        <SUBJECT lang="slv">pridobivanje rude</SUBJECT>
+        <SUBJECT lang="slv">nahajališča rude</SUBJECT>
+        <SUBJECT lang="slv">predelava rude</SUBJECT>
+        <SUBJECT lang="slv">plavži</SUBJECT>
+        <SUBJECT lang="slv">talilne peči</SUBJECT>
+        <SUBJECT lang="slv">izdelki iz železa</SUBJECT>
+        <SUBJECT lang="eng">metallurgy, , iron ore, historical overview</SUBJECT>
+        <SUBJECT lang="eng">iron</SUBJECT>
+        <SUBJECT lang="eng">iron ore</SUBJECT>
+        <SUBJECT lang="eng">historical overview</SUBJECT>
+        <SUBJECT lang="eng">Carniola</SUBJECT>
+        <SUBJECT lang="eng">Istria</SUBJECT>
+        <SUBJECT lang="eng">Gorizia</SUBJECT>
+        <SUBJECT lang="eng">extraction of minerals</SUBJECT>
+        <SUBJECT lang="eng">ore deposits</SUBJECT>
+        <SUBJECT lang="eng">ore processing</SUBJECT>
+        <SUBJECT lang="eng">smelting furnaces</SUBJECT>
+        <SUBJECT lang="eng">furnace</SUBJECT>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <DATETIME_ADDED>2014-06-12 15:02:54</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-05-10 13:09:34</DATETIME_MODIFIED>
+        <USER_ID_ADDED>100</USER_ID_ADDED>
+        <IMAGE>zgodovina_zelezarstva-thumbnail.jpg</IMAGE>
+        <CHILDREN>
+            <CHILD>26863</CHILD>
+            <CHILD>26864</CHILD>
+        </CHILDREN>
+    </publication>
+    <publication>
+        <ID>876</ID>
+        <URN>11686/876</URN>
+        <CHILD_ORDER>6443</CHILD_ORDER>
+        <CREATOR>
+            <IME>Aleksander</IME>
+            <PRIIMEK>Lavrenčič</PRIIMEK>
+        </CREATOR>
+        <MENU_ID id="821">Tipkopisi</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/2.5/si/"><img alt="Creative Commons licenca" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-nd/2.5/si/88x31.png" /></a><br />To <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">delo</span> avtorja <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.sistory.si/?urn=SISTORY:ID:876" property="cc:attributionName" rel="cc:attributionURL">Aleksander Lavrenčič</a> je ponujeno pod <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/2.5/si/">Creative Commons Priznanje avtorstva-Nekomercialno-Brez predelav 2.5 Slovenija licenco</a>.]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Drobtinice izpod Mije in Stola</TITLE>
+        <SUBJECT lang="slv">srednji vek</SUBJECT>
+        <SUBJECT lang="slv">ljudsko izročilo</SUBJECT>
+        <SUBJECT lang="slv">pripovedke</SUBJECT>
+        <SUBJECT lang="slv">območje reke Nadiže</SUBJECT>
+        <SUBJECT lang="eng">Middle Ages</SUBJECT>
+        <SUBJECT lang="eng">folk traditions</SUBJECT>
+        <SUBJECT lang="eng">area of the river Adige</SUBJECT>
+        <DESCRIPTION descriptionType="Abstracts" lang="slv">
+            V knjigi poskušam prikazati utrinke iz zgodovine območja, ki leži ob zgornjem toku reke Nadiže, predvsem vasi Kred. Oprl sem se na zgodovinske vire, kot so urbarji, kronike ali listine, poleg tega pa predvsem na ljudsko izročilo. Iz urbarja lahko izvemo, kakšne so bile dajatve, iz njih pa lahko sklepamo, kakšno je bilo gospodarstvo; arheologi na podlagi ostankov lončene posode ugotovijo starost nekega naselja; srednjeveške listine nam lahko povedo, kdo je bil lastnik zemlje, kdo je povzročil vojno, kje in kdaj je treslo ali gorelo itn. Iz zgodbic, ki so ostale “zapisane brez pisave” in se ohranjale iz roda v rod prek ljudskega izročila, pa lahko izvemo, kaj je bilo zapisano v dušah in srcih ljudi. Vsaka nova generacija poslušalcev je, ko je dozorela v pripovedovalce, zgodbe mogoče nekoliko prikrojila sebi, jih za odtenek spremenila, toda njihovo bistvo je ostalo...
+        </DESCRIPTION>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <DATETIME_ADDED>2012-08-29 21:53:57</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-12-28 18:59:05</DATETIME_MODIFIED>
+        <USER_ID_ADDED>11</USER_ID_ADDED>
+        <PUBLICATION file="Aleksander_Lavrencic-Drobtinice_izpod_mije_in_stola.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+</root>

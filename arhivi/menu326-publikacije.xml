@@ -1,0 +1,565 @@
+<root>
+    <publication>
+        <ID>38066</ID>
+        <URN>11686/38066</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CONTRIBUTOR>Josip Roglić</CONTRIBUTOR>
+        <CONTRIBUTOR>Lavo Čermelj</CONTRIBUTOR>
+        <CONTRIBUTOR>Ivan Pucić</CONTRIBUTOR>
+        <CONTRIBUTOR>Robert Maixnere</CONTRIBUTOR>
+        <CONTRIBUTOR>Milan Grzetić</CONTRIBUTOR>
+        <DATE type="Date" format="W3CDTF">1946-01-01</DATE>
+        <MENU_ID id="326">Popisne publikacije</MENU_ID>
+        <LANGUAGE lang="fra">6</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title">Cadastre national de l'Istrie : d'après le recensement du 1er octobre 1945</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:38066" rel="dct:creator"><span property="dct:title">Edition de l'Institut Adriatique, Sušak</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+To delo avtorskopravno ni varovano.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="fra">Cadastre national de l'Istrie : d'après le recensement du 1er octobre 1945</TITLE>
+        <SUBJECT lang="slv">popis prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">Istra</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">Istria</SUBJECT>
+        <PUBLISHER>Edition de l'Institut Adriatique, Sušak</PUBLISHER>
+        <COLLECTION>1946</COLLECTION>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1946</YEAR>
+        <DATETIME_ADDED>2017-10-17 08:17:47</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-10-17 16:55:45</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="Cadastre_national_de_l_istre_1945.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>35116</ID>
+        <URN>11686/35116</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1932</DATE>
+        <MENU_ID id="326">Popisne publikacije</MENU_ID>
+        <LANGUAGE lang="srp">5</LANGUAGE>
+        <LANGUAGE lang="srp">16</LANGUAGE>
+        <LANGUAGE lang="fra">6</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title"> Краљевина Југославија. Општа државна статистика. Дефинитивни резултати пописа становништва од 31 јануара 1921 год./ Kraljevina Jugoslavija. Opšta državna statistika. Definitivni rezultati popisa stanovništva od 31 januara 1921 god./Royaume de Yougoslavie. Statistique générale d état. Résultats définitifs du recensment de la population du 31 janvier 1921.</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:35116" rel="dct:creator"><span property="dct:title">Državna štamparija, Sarajevo</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+Avtorske pravice so potekle, delo je v javni domeni.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="srp">Краљевина Југославија. Општа државна статистика. Дефинитивни резултати пописа становништва од 31 јануара 1921 год.</TITLE>
+        <TITLE titleType="Title" lang="fra">Royaume de Yougoslavie. Statistique générale d'état. Résultats définitifs du recensment de la population du 31 janvier 1921.</TITLE>
+        <TITLE titleType="Title" lang="srp">Kraljevina Jugoslavija. Opšta državna statistika. Definitivni rezultati popisa stanovništva od 31 januara 1921 god.</TITLE>
+        <SUBJECT lang="slv">Kraljevina Jugoslavija</SUBJECT>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="eng">Kingdom of Yugoslavia</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <PUBLISHER>Državna štamparija, Sarajevo</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1932</YEAR>
+        <DATETIME_ADDED>2016-02-23 07:45:23</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-11-17 14:28:07</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="Definitivni_rezultati_popisa_stanovnistva.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>35115</ID>
+        <URN>11686/35115</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CREATOR2 lang="slv">Alto commisariato della Provincia di Lubiana</CREATOR2>
+        <CREATOR2 lang="slv">Visoki komisariat Ljubljanske pokrajine</CREATOR2>
+        <DATE type="Date">1942</DATE>
+        <MENU_ID id="326">Popisne publikacije</MENU_ID>
+        <LANGUAGE lang="ita">8</LANGUAGE>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title"> Istruzioni per l applicazione delle norme anagrafiche/ Navodila za uporabo anagrafičnih določb</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:35115" rel="dct:creator"><span property="dct:title"> Alto commisariato della Provincia di Lubiana/Visoki komisariat za Ljubljansko pokrajino</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+Avtorske pravice so potekle, delo je v javni domeni.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Navodila za uporabo anagrafičnih določb</TITLE>
+        <TITLE titleType="Title" lang="ita">Istruzioni per l'applicazione delle norme anagrafiche</TITLE>
+        <SUBJECT lang="slv">druga svetovna vojna</SUBJECT>
+        <SUBJECT lang="slv">italijanska okupacija</SUBJECT>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="eng">WW II</SUBJECT>
+        <SUBJECT lang="eng">Italian occupation</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <PUBLISHER>Visoki komisariat za Ljubljansko pokrajino, Ljubljana</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1942</YEAR>
+        <DATETIME_ADDED>2016-02-23 07:44:46</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-11-17 14:27:42</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="Instruzioni_anagrafiche.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>34833</ID>
+        <URN>11686/34833</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1955</DATE>
+        <MENU_ID id="326">Popisne publikacije</MENU_ID>
+        <LANGUAGE lang="srp">16</LANGUAGE>
+        <LANGUAGE lang="fra">6</LANGUAGE>
+        <LANGUAGE lang="eng">2</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title"> Stanovništvo po rodnom kraju, Konačni rezultati popisa stanovništva od 15 marta 1948 godine, knjiga VI</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:34832" rel="dct:creator"><span property="dct:title">Savezni statistički zavod, Beograd</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+Avtorske pravice so potekle, delo je v javni domeni.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="eng">Population by birthplace</TITLE>
+        <TITLE titleType="Title" lang="eng">Final results of the population census of March 15th 1948</TITLE>
+        <TITLE titleType="Title" lang="eng">Volume VI</TITLE>
+        <TITLE titleType="Title" lang="srp">Stanovništvo po rodnom kraju</TITLE>
+        <TITLE titleType="Title" lang="srp">Konačni rezultati popisa stanovništva od 15 marta 1948 godine</TITLE>
+        <TITLE titleType="Title" lang="srp">Knjiga VI</TITLE>
+        <TITLE titleType="Alternative Title" lang="slv">Population d’après le lieu de naissance</TITLE>
+        <TITLE titleType="Alternative Title" lang="slv">Résultats définitifs du recensement de la population du 15 mars 1948</TITLE>
+        <TITLE titleType="Alternative Title" lang="slv">Livre VI</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">statistika</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">statistics</SUBJECT>
+        <PUBLISHER>Savezni zavod za statistiku, Beograd</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1955</YEAR>
+        <DATETIME_ADDED>2015-11-26 07:59:10</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-11-17 14:27:27</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="stanovnistvo_po_rodnom_kraju_1955.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>34832</ID>
+        <URN>11686/34832</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1954</DATE>
+        <MENU_ID id="326">Popisne publikacije</MENU_ID>
+        <LANGUAGE lang="srp">16</LANGUAGE>
+        <LANGUAGE lang="fra">6</LANGUAGE>
+        <LANGUAGE lang="eng">2</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title">Stanovništvo po narodnosti, Konačni rezultati popisa stanovništva od 15 marta 1948 godine, knjiga IX</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:34832" rel="dct:creator"><span property="dct:title">Savezni statistički zavod, Beograd</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+Avtorske pravice so potekle, delo je v javni domeni.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="eng">Population by ethnic nationality</TITLE>
+        <TITLE titleType="Title" lang="eng">Final results of the population census of March 15th 1948</TITLE>
+        <TITLE titleType="Title" lang="eng">Volume IX</TITLE>
+        <TITLE titleType="Title" lang="srp">Stanovništvo po narodnosti</TITLE>
+        <TITLE titleType="Title" lang="srp">Konačni rezultati popisa stanovništva od 15 marta 1948 godine</TITLE>
+        <TITLE titleType="Title" lang="srp">Knjiga IX</TITLE>
+        <TITLE titleType="Alternative Title" lang="fra">Population d'apres la nationalite ethnique</TITLE>
+        <TITLE titleType="Alternative Title" lang="fra">Resultats definitifs du recensement de la population du 15 mars 1948</TITLE>
+        <TITLE titleType="Alternative Title" lang="fra">Livre IX</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">statistika</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">statistics</SUBJECT>
+        <PUBLISHER>Savezni zavod za statistiku, Beograd</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1954</YEAR>
+        <DATETIME_ADDED>2015-11-26 07:57:20</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-11-17 14:27:12</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="stanovnistvo_po_narodnosti_1954.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>16517</ID>
+        <URN>11686/16517</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CREATOR2 lang="slv">Visoki komisariat Ljubljanske pokrajine</CREATOR2>
+        <CREATOR2 lang="ita">Alto commisariato della Provincia di Lubiana</CREATOR2>
+        <DATE type="Date">1941</DATE>
+        <MENU_ID id="326">Popisne publikacije</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <LANGUAGE lang="ita">8</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title">Določbe za uvedbo in vodenje registra prebivalstva v občinah Ljubljanske pokrajine</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:16517" rel="dct:creator"><span property="dct:title">Visoki komisariat Ljubljanske pokrajine</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+To delo avtorskopravno ni varovano.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Določbe za uvedbo in vodenje registra prebivalstva v občinah Ljubljanske pokrajine</TITLE>
+        <TITLE titleType="Title" lang="slv">Norme per l’istituzione e la tenuta del registro di popolazione nei comuni della provincia di Lubiana</TITLE>
+        <SUBJECT lang="slv">zakonodaja</SUBJECT>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="eng">legislation</SUBJECT>
+        <SUBJECT lang="eng">population census</SUBJECT>
+        <PUBLISHER>Visoki komisariat Ljubljanske pokrajine, Ljubljana</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1941</YEAR>
+        <DATETIME_ADDED>2013-07-29 16:12:55</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-05-11 11:03:41</DATETIME_MODIFIED>
+        <USER_ID_ADDED>100</USER_ID_ADDED>
+        <PUBLICATION file="Določbe_za_uvedbo_in_vodenje_registra.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+        <IMAGE>Določbe_za_uvedbo_in_vodenje_registra (1)_Stran_02.jpg</IMAGE>
+    </publication>
+    <publication>
+        <ID>4763</ID>
+        <URN>11686/4763</URN>
+        <CHILD_ORDER>7946</CHILD_ORDER>
+        <DATE type="Date">1945</DATE>
+        <MENU_ID id="326">Popisne publikacije</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title">Prebivalstvo Slovenije 1931 in 1941: demografska statistika</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:4763" rel="dct:creator"><span property="dct:title">Statistični urad Slovenije</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+Avtorske pravice so potekle, delo je v javni domeni.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Prebivalstvo Slovenije 1931 in 1941</TITLE>
+        <TITLE titleType="Title" lang="slv">demografska statistika</TITLE>
+        <SUBJECT lang="slv">prebivalstvo</SUBJECT>
+        <SUBJECT lang="slv">statistika</SUBJECT>
+        <SUBJECT lang="slv">demografija</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1931</SUBJECT>
+        <SUBJECT lang="slv">1941</SUBJECT>
+        <SUBJECT lang="eng">population</SUBJECT>
+        <SUBJECT lang="eng">statistics</SUBJECT>
+        <SUBJECT lang="eng">demography</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <PUBLISHER>Statistični urad Slovenije, Ljubljana</PUBLISHER>
+        <COLLECTION>Zbirka II, Zvezek 1</COLLECTION>
+        <COVERAGE coverageType="Coverage" lang="slv">Slovenija, 1931, 1941</COVERAGE>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1945</YEAR>
+        <DATETIME_ADDED>2012-01-26 20:46:54</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-11-17 14:26:08</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="Demografska_statistika_Prebivalstvo_Slovenije_1931_in_1941.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>4762</ID>
+        <URN>11686/4762</URN>
+        <CHILD_ORDER>7945</CHILD_ORDER>
+        <DATE type="Date">1940</DATE>
+        <MENU_ID id="326">Popisne publikacije</MENU_ID>
+        <LANGUAGE lang="srp">16</LANGUAGE>
+        <LANGUAGE lang="fra">6</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title">Definitivni rezultati popisa stanovništva : od 31 marta 1931 godine</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:4762" rel="dct:creator"><span property="dct:title">Državna štamparija</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+Avtorske pravice so potekle, delo je v javni domeni.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="fra">Résultats définitifs du recensement de la population: du 31 mars 1931</TITLE>
+        <TITLE titleType="Title" lang="fra">Livre 4, Population de fait suivant la profession principale</TITLE>
+        <TITLE titleType="Title" lang="srp">Definitivni rezultati popisa stanovništva: od 31 marta 1931 godine</TITLE>
+        <TITLE titleType="Title" lang="srp">Knj. 4, Prisutno stanovništvo po glavnom zanimanju</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">statistika</SUBJECT>
+        <SUBJECT lang="slv">Jugoslavija</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1931</SUBJECT>
+        <SUBJECT lang="slv">poklici</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">statistics</SUBJECT>
+        <SUBJECT lang="eng">Yugoslavia</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">professions</SUBJECT>
+        <PUBLISHER>Državna štamparija, Beograd</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1940</YEAR>
+        <DATETIME_ADDED>2012-01-26 20:47:21</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-11-17 14:23:33</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="Definitivni_rezultati_popisa_stanovnistva_od_31_marta_1931_godine_Knjiga_IV.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>4761</ID>
+        <URN>11686/4761</URN>
+        <CHILD_ORDER>7944</CHILD_ORDER>
+        <DATE type="Date">1938</DATE>
+        <MENU_ID id="326">Popisne publikacije</MENU_ID>
+        <LANGUAGE lang="srp">16</LANGUAGE>
+        <LANGUAGE lang="fra">6</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title">Definitivni rezultati popisa stanovništva : od 31 marta 1931 godine</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:4761" rel="dct:creator"><span property="dct:title">Državna štamparija</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+Avtorske pravice so potekle, delo je v javni domeni.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="fra">Résultats définitifs du recensement de la population: du 31 mars 1931</TITLE>
+        <TITLE titleType="Title" lang="fra">Livr. 3, Population de fait par le degré d'instruction et l'âge</TITLE>
+        <TITLE titleType="Title" lang="srp">Definitivni rezultati popisa stanovništva: od 31 marta 1931 godine</TITLE>
+        <TITLE titleType="Title" lang="srp">Knj. 3, Prisutno stanovništvo po pismenosti i starosti</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">statistika</SUBJECT>
+        <SUBJECT lang="slv">Jugoslavija</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1931</SUBJECT>
+        <SUBJECT lang="slv">pismenost</SUBJECT>
+        <SUBJECT lang="slv">starost</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">statistics</SUBJECT>
+        <SUBJECT lang="eng">Yugoslavia</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">literacy</SUBJECT>
+        <PUBLISHER>Državna štamparija, Beograd</PUBLISHER>
+        <COVERAGE coverageType="Coverage" lang="slv">Jugoslavija, Slovenija, 1931</COVERAGE>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1938</YEAR>
+        <DATETIME_ADDED>2012-01-26 20:47:43</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-11-17 14:25:10</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="Definitivni_rezultati_popisa_stanovnistva_od_31_marta_1931_godine_Knjiga_III.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>4760</ID>
+        <URN>11686/4760</URN>
+        <CHILD_ORDER>7943</CHILD_ORDER>
+        <DATE type="Date">1938</DATE>
+        <MENU_ID id="326">Popisne publikacije</MENU_ID>
+        <LANGUAGE lang="srp">16</LANGUAGE>
+        <LANGUAGE lang="fra">6</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title">Definitivni rezultati popisa stanovništva : od 31 marta 1931 godine</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:4760" rel="dct:creator"><span property="dct:title">Državna štamparija</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+Avtorske pravice so potekle, delo je v javni domeni.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="fra">Résultats définitifs du recensement de la population: du 31 mars 1931</TITLE>
+        <TITLE titleType="Title" lang="fra">Livre 2, Population de fait par confessions</TITLE>
+        <TITLE titleType="Title" lang="srp">Definitivni rezultati popisa stanovništva:od 31 marta 1931 godine</TITLE>
+        <TITLE titleType="Title" lang="srp">Knj. 2, Prisutno stanovništvo po veroispovesti</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">statistika</SUBJECT>
+        <SUBJECT lang="slv">Jugoslavija</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1931</SUBJECT>
+        <SUBJECT lang="slv">religija</SUBJECT>
+        <SUBJECT lang="slv">veroizpoved</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">statistics</SUBJECT>
+        <SUBJECT lang="eng">Yugoslavia</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">religion</SUBJECT>
+        <PUBLISHER>Državna štamparija, Beograd</PUBLISHER>
+        <COVERAGE coverageType="Coverage" lang="slv">Jugoslavija, Slovenija, 1931</COVERAGE>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1938</YEAR>
+        <DATETIME_ADDED>2012-01-26 20:48:11</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-11-17 14:22:20</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="Definitivni_rezultati_popisa_stanovnistva_od_31_marta_1931_godine_Knjiga_II.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>4759</ID>
+        <URN>11686/4759</URN>
+        <CHILD_ORDER>7942</CHILD_ORDER>
+        <DATE type="Date">1937</DATE>
+        <MENU_ID id="326">Popisne publikacije</MENU_ID>
+        <LANGUAGE lang="hbs">4</LANGUAGE>
+        <LANGUAGE lang="fra">6</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title">Definitivni rezultati popisa stanovništva : od 31 marta 1931 godine</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:4759" rel="dct:creator"><span property="dct:title">Državna štamparija</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+Avtorske pravice so potekle, delo je v javni domeni.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Definitivni rezultati popisa stanovništva: od 31 marta 1931 godine</TITLE>
+        <TITLE titleType="Title" lang="slv">Knj. 1, Prisutno stanovništvo, broj kuća i domaćinstava</TITLE>
+        <TITLE titleType="Title" lang="fra">Résultats définitifs du recensement de la population: du 31 mars 1931</TITLE>
+        <TITLE titleType="Title" lang="fra">Livre 1, Population de fait, nombre de maisons et de ménages</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">statistika</SUBJECT>
+        <SUBJECT lang="slv">Jugoslavija</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1931</SUBJECT>
+        <SUBJECT lang="slv">gospodinjstva</SUBJECT>
+        <SUBJECT lang="slv">stavbe</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">statistics</SUBJECT>
+        <SUBJECT lang="eng">Yugoslavia</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <PUBLISHER>Državna štamparija, Beograd</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1937</YEAR>
+        <DATETIME_ADDED>2012-01-26 20:48:35</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-11-17 14:19:36</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="Definitivni_rezultati_popisa_stanovnistva_od_31_marta_1931_godine_Knjiga_I.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>4758</ID>
+        <URN>11686/4758</URN>
+        <CHILD_ORDER>7941</CHILD_ORDER>
+        <DATE type="Date">1932</DATE>
+        <MENU_ID id="326">Popisne publikacije</MENU_ID>
+        <LANGUAGE lang="srp">16</LANGUAGE>
+        <LANGUAGE lang="srp">5</LANGUAGE>
+        <LANGUAGE lang="fra">6</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title">Definitivni rezultati popisa stanovništva od 31 januara 1921 god</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:4758" rel="dct:creator"><span property="dct:title">Opšta državna statistika</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+Avtorske pravice so potekle, delo je v javni domeni.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="srp">Дефинитивни резултати пописа становништва од 31 јануара 1921 год</TITLE>
+        <TITLE titleType="Title" lang="fra">Résultats définitifs du recensement de la population du 31 janvier 1921</TITLE>
+        <TITLE titleType="Title" lang="srp">Definitivni rezultati popisa stanovništva od 31 januara 1921 god</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">statistika</SUBJECT>
+        <SUBJECT lang="slv">Jugoslavija</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">statistics</SUBJECT>
+        <SUBJECT lang="eng">Yugoslavia</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <PUBLISHER>Opšta državna statistika, Sarajevo</PUBLISHER>
+        <COVERAGE coverageType="Coverage" lang="slv">Jugoslavija, Slovenija, 1921</COVERAGE>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1932</YEAR>
+        <DATETIME_ADDED>2012-01-26 20:49:11</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-11-17 14:16:00</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="Definitivni_rezultati_popisa_stanovnistva_od_31_ januara_1921_god.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+</root>

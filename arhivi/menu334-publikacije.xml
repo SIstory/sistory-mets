@@ -1,0 +1,67 @@
+<root>
+    <publication>
+        <ID>37475</ID>
+        <URN>11686/37475</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">2017</DATE>
+        <MENU_ID id="334">Zbirke</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <TITLE titleType="Title" lang="slv">Odlivanje smrti</TITLE>
+        <TITLE titleType="Title" lang="slv">Pregled objav na portalu Zgodovina Slovenije - SIstory</TITLE>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>2017</YEAR>
+        <DATETIME_ADDED>2017-04-08 19:43:32</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-10-19 20:10:07</DATETIME_MODIFIED>
+        <USER_ID_ADDED>11</USER_ID_ADDED>
+        <PUBLICATION file="index.html">
+            <ATTRIBUTE type="">Naslovnica</ATTRIBUTE>
+            <ATTRIBUTE type="digitalFormat">text/html</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="cip.html">
+            <ATTRIBUTE type="">Kolofon</ATTRIBUTE>
+            <ATTRIBUTE type="digitalFormat">text/html</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="lido.html">
+            <ATTRIBUTE type="">Posmrtne maske</ATTRIBUTE>
+            <ATTRIBUTE type="digitalDescription">Izpis osnovnih Dublin Core in LIDO metapodatkov</ATTRIBUTE>
+            <ATTRIBUTE type="digitalFormat">text/html</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="listPerson.html">
+            <ATTRIBUTE type="">Seznam oseb</ATTRIBUTE>
+            <ATTRIBUTE type="digitalDescription">Osebni podatki avtorjev mask in upodobljencev</ATTRIBUTE>
+            <ATTRIBUTE type="digitalFormat">text/html</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="objects.html">
+            <ATTRIBUTE type="">Tabela posmrtnih mask</ATTRIBUTE>
+            <ATTRIBUTE type="digitalDescription">Možnost filtriranja osnovnih podatkov o posmrtnih maskah</ATTRIBUTE>
+            <ATTRIBUTE type="digitalFormat">text/html</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="occupations.html">
+            <ATTRIBUTE type="">Poklici in dejavnosti</ATTRIBUTE>
+            <ATTRIBUTE type="digitalDescription">Poklicna struktura avtorjev mask in upodobljencev</ATTRIBUTE>
+            <ATTRIBUTE type="digitalFormat">text/html</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="persons.html">
+            <ATTRIBUTE type="">Tabela oseb</ATTRIBUTE>
+            <ATTRIBUTE type="digitalDescription">Možnost filtriranja osnovnih podatkov o osebah</ATTRIBUTE>
+            <ATTRIBUTE type="digitalFormat">text/html</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="representation-persons.html">
+            <ATTRIBUTE type="">Tabela upodobljencev posmrtnih mask</ATTRIBUTE>
+            <ATTRIBUTE type="digitalFormat">text/html</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="representation.html">
+            <ATTRIBUTE type="">Tabela posmrtnih mask z znanimi upodobljenci</ATTRIBUTE>
+            <ATTRIBUTE type="digitalFormat">text/html</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="teiHeader.html">
+            <ATTRIBUTE type="">Kolofon TEI</ATTRIBUTE>
+            <ATTRIBUTE type="digitalFormat">text/html</ATTRIBUTE>
+        </PUBLICATION>
+        <IMAGE>Odlivanje_smrti-naslovnica.png</IMAGE>
+    </publication>
+</root>

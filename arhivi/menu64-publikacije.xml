@@ -1,0 +1,2266 @@
+<root>
+    <publication>
+        <ID>38064</ID>
+        <URN>11686/38064</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1934</DATE>
+        <MENU_ID id="64">Priročniki</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <TITLE titleType="Title" lang="slv">Svetoletni koledar 1934</TITLE>
+        <SUBJECT lang="slv">koledar</SUBJECT>
+        <SUBJECT lang="eng">calendar</SUBJECT>
+        <PUBLISHER>Goriška Mohorjeva družba, Gorica</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1934</YEAR>
+        <DATETIME_ADDED>2017-10-17 08:15:00</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-10-23 12:35:59</DATETIME_MODIFIED>
+        <USER_ID_ADDED>123</USER_ID_ADDED>
+        <PUBLICATION file="svetoletni_koledar_1934.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>38063</ID>
+        <URN>11686/38063</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1901</DATE>
+        <MENU_ID id="64">Priročniki</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title"><a href="http://www.sistory.si/?urn=SISTORY:ID:38063" rel="dct:creator">Zapisnik hiš deželnega stolnega mesta ljubljanskega</a></span><a href="http://www.sistory.si/?urn=SISTORY:ID:38063" rel="dct:creator"><span property="dct:title"></span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+To delo avtorskopravno ni varovano.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Zapisnik hiš deželnega stolnega mesta ljubljanskega</TITLE>
+        <SUBJECT lang="slv">hišne številke</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">house numbers</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <PUBLISHER>A. Klein in Comp.</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1901</YEAR>
+        <DATETIME_ADDED>2017-10-17 08:14:42</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-10-23 14:38:04</DATETIME_MODIFIED>
+        <USER_ID_ADDED>123</USER_ID_ADDED>
+        <PUBLICATION file="Laibach_1901.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>38062</ID>
+        <URN>11686/38062</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1877</DATE>
+        <MENU_ID id="64">Priročniki</MENU_ID>
+        <LANGUAGE lang="deu">3</LANGUAGE>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title"><a href="http://www.sistory.si/?urn=SISTORY:ID:38062" rel="dct:creator">Häuser-Verzeichnis der Landeshauptstadt Laibach</a></span><a href="http://www.sistory.si/?urn=SISTORY:ID:38062" rel="dct:creator"><span property="dct:title"></span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+To delo avtorskopravno ni varovano.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Zapisnik hiš deželnega glavnega mesta ljubljanskega</TITLE>
+        <TITLE titleType="Title" lang="deu">Häuser-Verzeichnis der Landeshauptstadt Laibach</TITLE>
+        <SUBJECT lang="slv">hišne številke</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">house numbers</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <PUBLISHER>Ignac Alojz Kleinmayr in Fedor Bamberg</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1877</YEAR>
+        <DATETIME_ADDED>2017-10-17 08:14:17</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-10-23 14:31:38</DATETIME_MODIFIED>
+        <USER_ID_ADDED>123</USER_ID_ADDED>
+        <PUBLICATION file="Laibach_1877.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>38061</ID>
+        <URN>11686/38061</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1869</DATE>
+        <MENU_ID id="64">Priročniki</MENU_ID>
+        <LANGUAGE lang="deu">3</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title"><a href="http://www.sistory.si/?urn=SISTORY:ID:38061" rel="dct:creator">Die Hausinhaber der Stadt Laibach</a></span><a href="http://www.sistory.si/?urn=SISTORY:ID:38061" rel="dct:creator"><span property="dct:title"></span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+To delo avtorskopravno ni varovano.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Die Hausinhaber der Stadt Laibach</TITLE>
+        <SUBJECT lang="slv">hišne številke</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">house numbers</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <PUBLISHER>natisnil in založil Johan Rudolf Millitz</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1869</YEAR>
+        <DATETIME_ADDED>2017-10-17 08:13:57</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-10-23 14:32:26</DATETIME_MODIFIED>
+        <USER_ID_ADDED>123</USER_ID_ADDED>
+        <PUBLICATION file="Laibach_1869.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>38060</ID>
+        <URN>11686/38060</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1860</DATE>
+        <MENU_ID id="64">Priročniki</MENU_ID>
+        <LANGUAGE lang="deu">3</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title"><a href="http://www.sistory.si/?urn=SISTORY:ID:38060" rel="dct:creator">Verzeichniß der Hausinhaber und der Besitzer der Kramläden in der Elefanten-Gasse zu Laibach</a></span><a href="http://www.sistory.si/?urn=SISTORY:ID:38060" rel="dct:creator"><span property="dct:title"></span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+To delo avtorskopravno ni varovano.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="deu">Verzeichniß der Hausinhaber und der Besitzer der Kramläden in der Elefanten-Gasse zu Laibach</TITLE>
+        <SUBJECT lang="slv">hišne številke</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">house numbers</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <PUBLISHER>natisnil in založil Josef Blasnik</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1860</YEAR>
+        <DATETIME_ADDED>2017-10-17 08:13:23</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-10-23 14:39:39</DATETIME_MODIFIED>
+        <USER_ID_ADDED>123</USER_ID_ADDED>
+        <PUBLICATION file="Laibach_1860.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>38059</ID>
+        <URN>11686/38059</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1853</DATE>
+        <MENU_ID id="64">Priročniki</MENU_ID>
+        <LANGUAGE lang="deu">3</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title"><a href="http://www.sistory.si/?urn=SISTORY:ID:38059" rel="dct:creator">Verzeichniß der Hausinhaber in der Provincial Hauptstadt Laibach und den Vorstädten sammt ihrer Pharr-Entheilung</a></span><a href="http://www.sistory.si/?urn=SISTORY:ID:38059" rel="dct:creator"><span property="dct:title"></span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+To delo avtorskopravno ni varovano.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="deu">Verzeichniß der Hausinhaber in der Provincial Hauptstadt Laibach und den Vorstädten sammt ihrer Pharr-Entheilung</TITLE>
+        <SUBJECT lang="slv">hišne številke</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">house numbers</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <PUBLISHER>natisnil in založil Josef Blasnik</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1853</YEAR>
+        <DATETIME_ADDED>2017-10-17 08:13:06</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-10-23 14:32:10</DATETIME_MODIFIED>
+        <USER_ID_ADDED>123</USER_ID_ADDED>
+        <PUBLICATION file="Laibach_1853.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>38058</ID>
+        <URN>11686/38058</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1840</DATE>
+        <MENU_ID id="64">Priročniki</MENU_ID>
+        <LANGUAGE lang="deu">3</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title"><a href="http://www.sistory.si/?urn=SISTORY:ID:38058" rel="dct:creator">Verzeichniß der Hausinhaber in der Provincial Hauptstadt Laibach und den Vorstädten sammt ihrer Pharr-Entheilung </a></span> <a href="http://www.sistory.si/?urn=SISTORY:ID:38058" rel="dct:creator"><span property="dct:title"></span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+To delo avtorskopravno ni varovano.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="deu">Verzeichniß der Hausinhaber in der Provincial Hauptstadt Laibach und den Vorstädten sammt ihrer Pharr-Entheilung</TITLE>
+        <SUBJECT lang="slv">hišne številke</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">house numbers</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1840</YEAR>
+        <DATETIME_ADDED>2017-10-17 08:12:48</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-10-23 14:00:47</DATETIME_MODIFIED>
+        <USER_ID_ADDED>123</USER_ID_ADDED>
+        <PUBLICATION file="Laibach_1840.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>38057</ID>
+        <URN>11686/38057</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1828</DATE>
+        <MENU_ID id="64">Priročniki</MENU_ID>
+        <LANGUAGE lang="deu">3</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title"><a href="http://www.sistory.si/?urn=SISTORY:ID:38057" rel="dct:creator">Verzeichniß der Hausinhaber in der Provincial Hauptstadt Laibach und den Vorstädten sammt ihrer Pharr-Entheilung</a></span><a href="http://www.sistory.si/?urn=SISTORY:ID:38057" rel="dct:creator"><span property="dct:title"></span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+To delo avtorskopravno ni varovano.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="deu">Verzeichniß der Hausinhaber in der Provincial Hauptstadt Laibach und den Vorstädten sammt ihrer Pharr-Entheilung</TITLE>
+        <SUBJECT lang="slv">hišne številke</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">house numbers</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1828</YEAR>
+        <DATETIME_ADDED>2017-10-17 08:12:25</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-10-23 14:33:30</DATETIME_MODIFIED>
+        <USER_ID_ADDED>123</USER_ID_ADDED>
+        <PUBLICATION file="Laibach_1828.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>38056</ID>
+        <URN>11686/38056</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1815</DATE>
+        <MENU_ID id="64">Priročniki</MENU_ID>
+        <LANGUAGE lang="deu">3</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title"><a href="http://www.sistory.si/?urn=SISTORY:ID:38056" rel="dct:creator">Verzeichniß der Hausinhaber in der Hauptstadt Laibach und den Vorstädten nach dem alten und neuen Conscriptions-Nummerus</a></span><a href="http://www.sistory.si/?urn=SISTORY:ID:38056" rel="dct:creator"><span property="dct:title"></span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+To delo avtorskopravno ni varovano.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="deu">Verzeichniß der Hausinhaber in der Hauptstadt Laibach und den Vorstädten nach dem alten und neuen Conscriptions-Nummerus</TITLE>
+        <SUBJECT lang="slv">hišne številke</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="slv">popis</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">house numbers</SUBJECT>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1815</YEAR>
+        <DATETIME_ADDED>2017-10-17 08:12:06</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-10-23 14:33:50</DATETIME_MODIFIED>
+        <USER_ID_ADDED>123</USER_ID_ADDED>
+        <PUBLICATION file="Laibach_1815.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>38055</ID>
+        <URN>11686/38055</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1805</DATE>
+        <MENU_ID id="64">Priročniki</MENU_ID>
+        <LANGUAGE lang="deu">3</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title"><a href="http://www.sistory.si/?urn=SISTORY:ID:38055" rel="dct:creator">Verzeichniß der Hausinhaber in der Hauptstadt Laibach und den Vorstädten nach dem alten und neuen Conscriptions-Nummerus</a></span><a href="http://www.sistory.si/?urn=SISTORY:ID:38055" rel="dct:creator"><span property="dct:title"></span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+To delo avtorskopravno ni varovano.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="deu">Verzeichniß der Hausinhaber in der Hauptstadt Laibach und den Vorstädten nach dem alten und neuen Conscriptions-Nummerus</TITLE>
+        <SUBJECT lang="slv">hišne številke</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">house numbers</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1805</YEAR>
+        <DATETIME_ADDED>2017-10-17 08:11:47</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-10-23 14:34:27</DATETIME_MODIFIED>
+        <USER_ID_ADDED>123</USER_ID_ADDED>
+        <PUBLICATION file="Laibach_1805.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>37931</ID>
+        <URN>11686/37931</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CREATOR2 lang="slv">PNOO za Slovensko Primorje</CREATOR2>
+        <DATE type="Date" format="W3CDTF">1945-01-01</DATE>
+        <MENU_ID id="64">Priročniki</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title">Zbirka volilnih predpisov z dodatkom: Odlok Predsedstva Pokrajinskega narodno osvobodilnega odbora za Slovensko Primorje o krajih, okrajih in okrožjih ter njihovih narodno osvobodilnih odborih z dne 22. septembra 1944</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:37931" rel="dct:creator"><span property="dct:title">Odsek za notranje zadeve pri Poverjeništvu Pokrajinskega narodno osvobodilnega odbora za Slovensko Primorje in Trst, Ajdovščina</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+To delo avtorskopravno ni varovano.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Zbirka volilnih predpisov z dodatkom: Odlok Predsedstva Pokrajinskega narodno osvobodilnega odbora za Slovensko Primorje o krajih, okrajih in okrožjih ter njihovih narodno osvobodilnih odborih z dne 22. septembra 1944</TITLE>
+        <SUBJECT lang="slv">zakonodaja</SUBJECT>
+        <SUBJECT lang="slv">volitve</SUBJECT>
+        <SUBJECT lang="eng">legislation</SUBJECT>
+        <SUBJECT lang="eng">elections</SUBJECT>
+        <PUBLISHER>Odsek za notranje zadeve pri Poverjeništvu Pokrajinskega narodno osvobodilnega odbora za Slovensko Primorje in Trst, Ajdovščina</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1945</YEAR>
+        <DATETIME_ADDED>2017-08-21 06:32:01</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-09-14 15:15:47</DATETIME_MODIFIED>
+        <USER_ID_ADDED>4</USER_ID_ADDED>
+        <PUBLICATION file="zbirka_volilnih_prepisov_z_dodatkov.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>37930</ID>
+        <URN>11686/37930</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date" format="W3CDTF">1945-01-01</DATE>
+        <MENU_ID id="64">Priročniki</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title">Zakon o volilnih imenikih s komentarjem</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:37929" rel="dct:creator"><span property="dct:title">Uradni list FLRJ, Beograd</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+To delo avtorskopravno ni varovano.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Zakon o volilnih imenikih s komentarjem</TITLE>
+        <TITLE titleType="Title" lang="slv">V redakciji Ministrstva za konstituanto</TITLE>
+        <SUBJECT lang="slv">zakonodaja</SUBJECT>
+        <SUBJECT lang="slv">volitve</SUBJECT>
+        <SUBJECT lang="eng">legislation</SUBJECT>
+        <SUBJECT lang="eng">elections</SUBJECT>
+        <PUBLISHER>Uradni list FLRJ, Beograd</PUBLISHER>
+        <COLLECTION>Zbirka zakonov "Uradnega lista Federativne ljudske republike Jugoslavije"; 8</COLLECTION>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1945</YEAR>
+        <DATETIME_ADDED>2017-08-21 06:31:39</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-09-14 15:15:57</DATETIME_MODIFIED>
+        <USER_ID_ADDED>4</USER_ID_ADDED>
+        <PUBLICATION file="zakon_o_volilnih_imenikih.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>37929</ID>
+        <URN>11686/37929</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date" format="W3CDTF">1932-01-01</DATE>
+        <MENU_ID id="64">Priročniki</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title">Zakon o uradnikih z dne 31. marca 1931.</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:37929" rel="dct:creator"><span property="dct:title">Tiskovna zadruga, Ljubljana</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+To delo avtorskopravno ni varovano.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Zakon o uradnikih z dne 31. marca 1931.</TITLE>
+        <TITLE titleType="Title" lang="slv">Drugi natisk, izpopolnjen s poznejšimi zakonskimi določbami in s stvarnim kazalom.</TITLE>
+        <SUBJECT lang="slv">javna uprava</SUBJECT>
+        <SUBJECT lang="slv">pravna ureditev</SUBJECT>
+        <SUBJECT lang="eng">public administration</SUBJECT>
+        <SUBJECT lang="eng">legislation</SUBJECT>
+        <PUBLISHER>Tiskovna zadruga, Ljubljana</PUBLISHER>
+        <COLLECTION>Zbirka zakonov; 48</COLLECTION>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1932</YEAR>
+        <DATETIME_ADDED>2017-08-21 06:31:19</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-09-14 15:16:14</DATETIME_MODIFIED>
+        <USER_ID_ADDED>4</USER_ID_ADDED>
+        <PUBLICATION file="zakon_o_uradnikih_1931.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>37928</ID>
+        <URN>11686/37928</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date" format="W3CDTF">1932-01-01</DATE>
+        <MENU_ID id="64">Priročniki</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title">Zakon o meščanskih šolah</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:37928" rel="dct:creator"><span property="dct:title">Merkur, Ljubljana</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+To delo avtorskopravno ni varovano.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Zakon o meščanskih šolah</TITLE>
+        <TITLE titleType="Title" lang="slv">Ponatis iz »Službenega lista« kraljevske banske uprave Dravske banovine</TITLE>
+        <SUBJECT lang="slv">šolstvo</SUBJECT>
+        <SUBJECT lang="slv">pravna ureditev</SUBJECT>
+        <SUBJECT lang="slv">Kraljevina Jugoslavija</SUBJECT>
+        <SUBJECT lang="eng">school system</SUBJECT>
+        <SUBJECT lang="eng">legislation</SUBJECT>
+        <SUBJECT lang="eng">Kingdom of Yugoslavia</SUBJECT>
+        <PUBLISHER>Merkur, Ljubljana</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1932</YEAR>
+        <DATETIME_ADDED>2017-08-21 06:30:56</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-09-14 15:16:22</DATETIME_MODIFIED>
+        <USER_ID_ADDED>4</USER_ID_ADDED>
+        <PUBLICATION file="zakon_o_mescanskih_solah.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>37927</ID>
+        <URN>11686/37927</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date" format="W3CDTF">1933-01-01</DATE>
+        <MENU_ID id="64">Priročniki</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title">Za občinske volitve .</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:37927" rel="dct:creator"><span property="dct:title">Jugoslovanska tiskarna, Ljubljana</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+To delo avtorskopravno ni varovano.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Za občinske volitve</TITLE>
+        <TITLE titleType="Title" lang="slv">Zakon o volilnih imenikih, Zakon o občinah, Uredba o sestavi kandidatnih list</TITLE>
+        <SUBJECT lang="slv">volilni imeniki</SUBJECT>
+        <SUBJECT lang="slv">občine</SUBJECT>
+        <SUBJECT lang="slv">volitve</SUBJECT>
+        <SUBJECT lang="slv">kandidatne liste</SUBJECT>
+        <SUBJECT lang="slv">zakoni</SUBJECT>
+        <SUBJECT lang="slv">Kraljevina Jugoslavija</SUBJECT>
+        <SUBJECT lang="eng">electoral directories</SUBJECT>
+        <SUBJECT lang="eng">municipalities</SUBJECT>
+        <SUBJECT lang="eng">elections</SUBJECT>
+        <SUBJECT lang="eng">lists of candidates</SUBJECT>
+        <SUBJECT lang="eng">legislation</SUBJECT>
+        <SUBJECT lang="eng">Kingdom of Yugoslavia</SUBJECT>
+        <PUBLISHER>Jugoslovanska tiskarna, Ljubljana</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1933</YEAR>
+        <DATETIME_ADDED>2017-08-21 06:30:28</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-09-14 15:16:32</DATETIME_MODIFIED>
+        <USER_ID_ADDED>4</USER_ID_ADDED>
+        <PUBLICATION file="za_obcinske_volitvea_zakon_o_imenikih.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>37926</ID>
+        <URN>11686/37926</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date" format="W3CDTF">1891-01-01</DATE>
+        <MENU_ID id="64">Priročniki</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title">Pravila „Tržaške posojilnice in hranilnice“ registrovane zadruge z omejenim poroštvom.</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:37926" rel="dct:creator"><span property="dct:title">Tržaška posojilnica in hranilnica, Trst</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+To delo avtorskopravno ni varovano.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Pravila „Tržaške posojilnice in hranilnice“ registrovane zadruge z omejenim poroštvom.</TITLE>
+        <SUBJECT lang="slv">Trst</SUBJECT>
+        <SUBJECT lang="slv">posojilnice</SUBJECT>
+        <SUBJECT lang="slv">hranilnice</SUBJECT>
+        <SUBJECT lang="slv">bančništvo</SUBJECT>
+        <SUBJECT lang="slv">gospodarstvo</SUBJECT>
+        <SUBJECT lang="eng">Trieste</SUBJECT>
+        <SUBJECT lang="eng">loan bank</SUBJECT>
+        <SUBJECT lang="eng">savings banks</SUBJECT>
+        <SUBJECT lang="eng">banking</SUBJECT>
+        <SUBJECT lang="eng">economy</SUBJECT>
+        <PUBLISHER>Tržaška posojilnica in hranilnica, Trst</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1891</YEAR>
+        <DATETIME_ADDED>2017-08-21 06:30:10</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-09-14 15:16:39</DATETIME_MODIFIED>
+        <USER_ID_ADDED>4</USER_ID_ADDED>
+        <PUBLICATION file="trzaska_posojilnica.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>37925</ID>
+        <URN>11686/37925</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CREATOR>
+            <IME>Josip Visarionovič</IME>
+            <PRIIMEK>Stalin</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date" format="W3CDTF">1944-02-23</DATE>
+        <MENU_ID id="64">Priročniki</MENU_ID>
+        <LANGUAGE lang="hrv">17</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title">Zapovijed vrhovnog zapovjednika broj 16, 23. veljače 1944. Moskva.</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:37925" rel="dct:creator"><span property="dct:title">Josip Visarionovič Stalin</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+To delo avtorskopravno ni varovano.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="hrv">Zapovijed vrhovnog zapovjednika broj 16, 23. veljače 1944. Moskva.</TITLE>
+        <SUBJECT lang="slv">vojaški ukaz</SUBJECT>
+        <SUBJECT lang="slv">druga svetovna vojna</SUBJECT>
+        <SUBJECT lang="slv">military command</SUBJECT>
+        <SUBJECT lang="slv">WW II</SUBJECT>
+        <PUBLISHER>Naklada literature na inostranim jezicima, Moskva</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1944</YEAR>
+        <DATETIME_ADDED>2017-08-21 06:29:48</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-09-14 15:16:46</DATETIME_MODIFIED>
+        <USER_ID_ADDED>4</USER_ID_ADDED>
+        <PUBLICATION file="Staljin_zapovjed_vrhovnog_zapovjednika.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>37924</ID>
+        <URN>11686/37924</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date" format="W3CDTF">1929-01-01</DATE>
+        <MENU_ID id="64">Priročniki</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title">Proklamacija Njegovega veličanstva kralja z dne 6. januarja 1929 in njegov nagovor na ministre. Zakon o kraljevski oblasti in o vrhovni državni upravi. Zakon o zaščiti javne varnosti in reda v državi. Zakon o izpremembah in dopolnitvah zakona o tisku z dne 6. avgusta 1925. Zakon o izpremembi zakonov o občinah in oblastnih samoupravah. Zakon o izpremembi in dopolnitvi zakona o državnem svetu in upravnih sodiščih z dne 17. maja 1922. Zakon o izpremembah in dopolnitvah v zakonu o glavni kontroli z dne 30. maja 1922. Zakon o državnem sodišču za zaščito države. Zakon o postavljanju, premeščanju, prevajanju na drugo dolžnost ali stroko, postavljanju na razpoloženje, upokojevanju in odpuščanju državnih uradnikov</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:37924" rel="dct:creator"><span property="dct:title">Tiskovna zadruga, Ljubljana</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+To delo avtorskopravno ni varovano.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Proklamacija Njegovega veličanstva kralja z dne 6. januarja 1929 in njegov nagovor na ministre. Zakon o kraljevski oblasti in o vrhovni državni upravi. Zakon o zaščiti javne varnosti in reda v državi. Zakon o izpremembah in dopolnitvah zakona o tisku z dn</TITLE>
+        <SUBJECT lang="slv">zakonodaja</SUBJECT>
+        <SUBJECT lang="slv">šestojanuarska diktatura</SUBJECT>
+        <SUBJECT lang="eng">legislation</SUBJECT>
+        <SUBJECT lang="eng">6 January dictatorship</SUBJECT>
+        <PUBLISHER>Tiskovna zadruga, Ljubljana</PUBLISHER>
+        <COLLECTION>Zbirka zakonov; 24</COLLECTION>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1929</YEAR>
+        <DATETIME_ADDED>2017-08-21 06:29:26</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-09-14 15:16:54</DATETIME_MODIFIED>
+        <USER_ID_ADDED>4</USER_ID_ADDED>
+        <PUBLICATION file="Proklamacija_1929.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>37923</ID>
+        <URN>11686/37923</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date" format="W3CDTF">1921-01-01</DATE>
+        <MENU_ID id="64">Priročniki</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title">Občinski volilni red za Slovenijo</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:37923" rel="dct:creator"><span property="dct:title">Tiskovna zadruga, Ljubljana</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+To delo avtorskopravno ni varovano.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Občinski volilni red za Slovenijo</TITLE>
+        <SUBJECT lang="slv">volitve</SUBJECT>
+        <SUBJECT lang="slv">lokalne volitve</SUBJECT>
+        <SUBJECT lang="eng">elections</SUBJECT>
+        <SUBJECT lang="eng">local elections</SUBJECT>
+        <PUBLISHER>Tiskovna zadruga, Ljubljana</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1921</YEAR>
+        <DATETIME_ADDED>2017-08-21 06:29:03</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-09-14 15:17:02</DATETIME_MODIFIED>
+        <USER_ID_ADDED>4</USER_ID_ADDED>
+        <PUBLICATION file="obcinski_volilni red_za_Slovenijo.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>37922</ID>
+        <URN>11686/37922</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date" format="W3CDTF">1938-01-01</DATE>
+        <MENU_ID id="64">Priročniki</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title">Obče uzance ljubljanske borze za blago in vrednote za trgovanje z blagom</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:37922" rel="dct:creator"><span property="dct:title">Ljubljanska borza za blago in vrednote, Ljubljana</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+To delo avtorskopravno ni varovano.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Obče uzance ljubljanske borze za blago in vrednote za trgovanje z blagom</TITLE>
+        <SUBJECT lang="slv">blagovne borze</SUBJECT>
+        <SUBJECT lang="slv">trgovanje</SUBJECT>
+        <SUBJECT lang="slv">commodity exchanges</SUBJECT>
+        <SUBJECT lang="slv">trading</SUBJECT>
+        <PUBLISHER>Ljubljanska borza za blago in vrednote, Ljubljana</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1938</YEAR>
+        <DATETIME_ADDED>2017-08-21 06:28:42</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-09-14 15:17:11</DATETIME_MODIFIED>
+        <USER_ID_ADDED>4</USER_ID_ADDED>
+        <PUBLICATION file="Obce_uzance_ljubljanske_borze.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>37921</ID>
+        <URN>11686/37921</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date" format="W3CDTF">1866-01-01</DATE>
+        <MENU_ID id="64">Priročniki</MENU_ID>
+        <LANGUAGE lang="deu">3</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title">Jahrbuch für Industrie und Handel in Oesterreich</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:37921" rel="dct:creator"><span property="dct:title">Verein der oesterreichischen Industriellen</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+To delo avtorskopravno ni varovano.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="deu">Jahrbuch für Industrie und Handel in Oesterreich</TITLE>
+        <TITLE titleType="Title" lang="deu">Herausgegeben vom Vereine der oesterreichischen Industriellen</TITLE>
+        <TITLE titleType="Title" lang="deu">Jahrgang II</TITLE>
+        <SUBJECT lang="slv">statistika</SUBJECT>
+        <SUBJECT lang="slv">finance</SUBJECT>
+        <SUBJECT lang="slv">ekonomija</SUBJECT>
+        <SUBJECT lang="slv">Avstrija</SUBJECT>
+        <SUBJECT lang="eng">statistics</SUBJECT>
+        <SUBJECT lang="eng">finances</SUBJECT>
+        <SUBJECT lang="eng">economy</SUBJECT>
+        <SUBJECT lang="eng">Austria</SUBJECT>
+        <PUBLISHER>Commisions-Verlag der Lit.-Art. Anstalt von C. Ditmarsch, Wien</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1866</YEAR>
+        <DATETIME_ADDED>2017-08-21 06:27:28</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-09-14 15:17:18</DATETIME_MODIFIED>
+        <USER_ID_ADDED>4</USER_ID_ADDED>
+        <PUBLICATION file="Industrie_Handel_1866.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>37920</ID>
+        <URN>11686/37920</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CREATOR2 lang="slv">Ljubljanska borza za blago in vrednote</CREATOR2>
+        <DATE type="Date" format="W3CDTF">1925-01-01</DATE>
+        <MENU_ID id="64">Priročniki</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title">Posebne uzance ljubljanske borze za blago in vrednote.</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:37920" rel="dct:creator"><span property="dct:title">Ljubljanska borza za blago in vrednote, Ljubljana</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+To delo avtorskopravno ni varovano.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Posebne uzance ljubljanske borze za blago in vrednote.</TITLE>
+        <TITLE titleType="Title" lang="slv">Ponatisk iz 31. kosa „Uradnega lista ljubljanske in mariborske oblasti“ z dne 27. marca 1925.</TITLE>
+        <SUBJECT lang="slv">trgovinsko pravo</SUBJECT>
+        <SUBJECT lang="slv">trgovanje z blagom</SUBJECT>
+        <SUBJECT lang="slv">uzance</SUBJECT>
+        <SUBJECT lang="slv">borza</SUBJECT>
+        <SUBJECT lang="eng">commercial law</SUBJECT>
+        <SUBJECT lang="eng">customs</SUBJECT>
+        <SUBJECT lang="eng">trade in goods</SUBJECT>
+        <SUBJECT lang="eng">stock exchange</SUBJECT>
+        <PUBLISHER>Ljubljanska borza za blago in vrednote, Ljubljana</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1925</YEAR>
+        <DATETIME_ADDED>2017-08-21 06:26:58</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-09-14 15:17:27</DATETIME_MODIFIED>
+        <USER_ID_ADDED>4</USER_ID_ADDED>
+        <PUBLICATION file="borza_za_blago_vrednote.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>37898</ID>
+        <URN>11686/37898</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date" format="W3CDTF">1925-01-01</DATE>
+        <MENU_ID id="64">Priročniki</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title">Zakon za volitve narodnih poslancev za narodno skupščino kraljevine Srbov, Hrvatov in Slovencev.</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:37898" rel="dct:creator"><span property="dct:title">Tiskovna zadruga, Ljubljana</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+To delo avtorskopravno ni varovano.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Zakon za volitve narodnih poslancev za narodno skupščino kraljevine Srbov, Hrvatov in Slovencev.</TITLE>
+        <SUBJECT lang="slv">zakonodaja</SUBJECT>
+        <SUBJECT lang="slv">volitve</SUBJECT>
+        <SUBJECT lang="eng">legislation</SUBJECT>
+        <SUBJECT lang="eng">elections</SUBJECT>
+        <PUBLISHER>Tiskovna zadruga, Ljubljana</PUBLISHER>
+        <COLLECTION>Zbirka zakonov; 16</COLLECTION>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1925</YEAR>
+        <DATETIME_ADDED>2017-07-04 14:33:01</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-09-14 15:17:39</DATETIME_MODIFIED>
+        <USER_ID_ADDED>4</USER_ID_ADDED>
+        <PUBLICATION file="zakon_za_volitve_narodnih_poslancev.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>37897</ID>
+        <URN>11686/37897</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date" format="W3CDTF">1925-01-01</DATE>
+        <MENU_ID id="64">Priročniki</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title">Zakon o tisku</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:37897" rel="dct:creator"><span property="dct:title">Tiskovna zadruga, Ljubljana</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+To delo avtorskopravno ni varovano.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Zakon o tisku</TITLE>
+        <SUBJECT lang="slv">zakonodaja</SUBJECT>
+        <SUBJECT lang="slv">cenzura</SUBJECT>
+        <SUBJECT lang="eng">legislation</SUBJECT>
+        <SUBJECT lang="eng">censorship</SUBJECT>
+        <PUBLISHER>Tiskovna zadruga, Ljubljana</PUBLISHER>
+        <COLLECTION>Zbirka zakonov; 18</COLLECTION>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1925</YEAR>
+        <DATETIME_ADDED>2017-07-04 14:32:26</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-09-14 15:17:46</DATETIME_MODIFIED>
+        <USER_ID_ADDED>4</USER_ID_ADDED>
+        <PUBLICATION file="zakon_o_tisku.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>37896</ID>
+        <URN>11686/37896</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CREATOR>
+            <IME>Albin</IME>
+            <PRIIMEK>Ogris</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date" format="W3CDTF">1927-01-01</DATE>
+        <MENU_ID id="64">Priročniki</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title">Splošni register k letnikom od 1919. do 1926. Uradnega lista ljubljanske in mariborske oblasti</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:37896" rel="dct:creator"><span property="dct:title">Albin Ogris</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+To delo avtorskopravno ni varovano.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Splošni register k letnikom od 1919. do 1926. Uradnega lista ljubljanske in mariborske oblasti</TITLE>
+        <SUBJECT lang="slv">uradni list</SUBJECT>
+        <SUBJECT lang="slv">Kraljevina SHS</SUBJECT>
+        <SUBJECT lang="slv">register</SUBJECT>
+        <SUBJECT lang="eng">official gazzete</SUBJECT>
+        <SUBJECT lang="eng">Kingdom of Serbs, Croats and Slovenes</SUBJECT>
+        <SUBJECT lang="eng">registry</SUBJECT>
+        <PUBLISHER>Uprava Uradnega lista ljubljanske in mariborske oblasti, Ljubljana</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1927</YEAR>
+        <DATETIME_ADDED>2017-07-04 14:30:17</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-09-14 15:17:54</DATETIME_MODIFIED>
+        <USER_ID_ADDED>4</USER_ID_ADDED>
+        <PUBLICATION file="splosni_register_UL_LJ_in_MB_oblasti_1919_do_1926.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>37895</ID>
+        <URN>11686/37895</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CREATOR2 lang="slv">Zbornica za trgovino, obrt in industrijo v Ljubljani</CREATOR2>
+        <DATE type="Date" format="W3CDTF">1929-01-01</DATE>
+        <MENU_ID id="64">Priročniki</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title">Pravilnik razsodišča Zbornice za trgovino, obrt in industrijo v Ljubljani</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:37895" rel="dct:creator"><span property="dct:title">Merkur, Ljubljana</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+To delo avtorskopravno ni varovano.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Pravilnik razsodišča Zbornice za trgovino, obrt in industrijo v Ljubljani. [Odobren z razpisom ministrstva trg. in industrije z dne 19. marca 1929, št. 27.696/III-28.]</TITLE>
+        <SUBJECT lang="slv">pravilnik</SUBJECT>
+        <SUBJECT lang="slv">razsodišče</SUBJECT>
+        <SUBJECT lang="eng">regulations</SUBJECT>
+        <SUBJECT lang="eng">tribunal</SUBJECT>
+        <PUBLISHER>Merkur, Ljubljana</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1929</YEAR>
+        <DATETIME_ADDED>2017-07-04 14:29:50</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-09-14 15:18:04</DATETIME_MODIFIED>
+        <USER_ID_ADDED>4</USER_ID_ADDED>
+        <PUBLICATION file="pravilnik_razsodisca_zbornice_za_trgovino.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>37894</ID>
+        <URN>11686/37894</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CONTRIBUTOR>W. Rachle (urednik)</CONTRIBUTOR>
+        <DATE type="Date" format="W3CDTF">1944-01-01</DATE>
+        <MENU_ID id="64">Priročniki</MENU_ID>
+        <LANGUAGE lang="deu">3</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title">Oberkrainer Gemeindegeschäftskalender für das Rechnungsjahr 1944</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:37894" rel="dct:creator"><span property="dct:title">Druckerei A. Blaschei in Assling</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+To delo avtorskopravno ni varovano.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="deu">Oberkrainer Gemeindegeschäftskalender für das Rechnungsjahr 1944</TITLE>
+        <SUBJECT lang="slv">koledar</SUBJECT>
+        <SUBJECT lang="slv">Gorenjska</SUBJECT>
+        <SUBJECT lang="slv">druga svetovna vojna</SUBJECT>
+        <SUBJECT lang="eng">calendary</SUBJECT>
+        <SUBJECT lang="eng">Upper Carniola</SUBJECT>
+        <SUBJECT lang="eng">WW II</SUBJECT>
+        <DESCRIPTION descriptionType="Description" lang="slv">
+            Vsebuje mdr. krajevni seznam za okupirano Gorenjsko/Oberkrain...
+        </DESCRIPTION>
+        <PUBLISHER>Druckerei A. Blaschei in Assling, Jesenice</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1944</YEAR>
+        <DATETIME_ADDED>2017-07-04 14:29:17</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-09-14 15:18:12</DATETIME_MODIFIED>
+        <USER_ID_ADDED>4</USER_ID_ADDED>
+        <PUBLICATION file="Oberkrainer_Gemeindegeschlaftskalender_1944.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>36133</ID>
+        <URN>11686/36133</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CONTRIBUTOR>Aleksandar J. Janković (ur.)</CONTRIBUTOR>
+        <CONTRIBUTOR>Milutin B. Mićović (ur.)</CONTRIBUTOR>
+        <DATE type="Date" format="W3CDTF">1935-01-01</DATE>
+        <MENU_ID id="64">Priročniki</MENU_ID>
+        <LANGUAGE lang="srp">5</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title">Zakon o ustrojstvu vojske i mornarice : uredba o vojnoj disciplini : vojni krivični zakonik sa opštim pojmovima iz krivičnog prava</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:36133" rel="dct:creator"><span property="dct:title">Štamparija Drag. Gregorića</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+Avtorske pravice so potekle, delo je v javni domeni.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="srp">Уредба о војној дисциплини</TITLE>
+        <TITLE titleType="Title" lang="srp">Војни кривични законик са општим појмовима из кривичног права</TITLE>
+        <TITLE titleType="Title" lang="srp">Закон о устројству војске и морнарице</TITLE>
+        <TITLE titleType="Title" lang="srp">удесили за потребе ђака школа за резервне официре свију родова војске и струка према прописаном програму</TITLE>
+        <TITLE titleType="Title" lang="srp">судски капетан I кл. Александар Ј. Јанковић и судски капетан II кл. Милутин Б. Мићовић</TITLE>
+        <TITLE titleType="Title" lang="srp">хонорарни наставници школа за резервне пешадијске, артилериске и интендантске официре и курса за рез. војне чиновнике</TITLE>
+        <TITLE titleType="Title" lang="srp">IV издање, исправљено и допуњено</TITLE>
+        <TITLE titleType="Title" lang="srp">Uredba o vojnoj disciplini</TITLE>
+        <TITLE titleType="Title" lang="srp">Vojni krivični zakonik sa opštim pojmovima iz krivičnog prava</TITLE>
+        <TITLE titleType="Title" lang="srp">Zakon o ustrojstvu vojske i mornarice</TITLE>
+        <TITLE titleType="Title" lang="srp">udesili za potrebe đaka škola za rezervne oficire sviju rodova vojske i struka prema propisanom programu</TITLE>
+        <TITLE titleType="Title" lang="srp">sudski kapetan I kl. Aleksandar J. Janković i sudski kapetan II kl. Milutin B. Mićović</TITLE>
+        <TITLE titleType="Title" lang="srp">honorarni nastavnici škola za rezervne pešadijske, artileriske i intendantske oficire i kursa za rez. vojne činovnike</TITLE>
+        <TITLE titleType="Title" lang="srp">IV izdanje, ispravljeno i dopunjeno</TITLE>
+        <PUBLISHER>Štamparija Drag. Gregorića, Beograd</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1935</YEAR>
+        <DATETIME_ADDED>2016-12-15 13:15:35</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-09-14 15:18:20</DATETIME_MODIFIED>
+        <USER_ID_ADDED>4</USER_ID_ADDED>
+        <PUBLICATION file="zakon_o_vojski_mornarica_.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>36132</ID>
+        <URN>11686/36132</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CONTRIBUTOR>Anton Kralj (ur.)</CONTRIBUTOR>
+        <CREATOR2 lang="slv">Kraljevina Jugoslavija</CREATOR2>
+        <DATE type="Date" format="W3CDTF">1937-01-01</DATE>
+        <MENU_ID id="64">Priročniki</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title">Zakon o gospodarskih zadrugah</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:36132" rel="dct:creator"><span property="dct:title">Merkur, Ljubljana</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+Avtorske pravice so potekle, delo je v javni domeni.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Zakon o gospodarskih zadrugah</TITLE>
+        <SUBJECT lang="slv">zadruge</SUBJECT>
+        <SUBJECT lang="slv">pravna ureditev</SUBJECT>
+        <SUBJECT lang="slv">cooperatives</SUBJECT>
+        <SUBJECT lang="eng">legal regulation</SUBJECT>
+        <PUBLISHER>Merkur, Ljubljana</PUBLISHER>
+        <COLLECTION>Zakoni in uredbe; 53</COLLECTION>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1937</YEAR>
+        <DATETIME_ADDED>2016-12-15 13:14:50</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-09-14 15:18:28</DATETIME_MODIFIED>
+        <USER_ID_ADDED>4</USER_ID_ADDED>
+        <PUBLICATION file="zakon_o_gospodarskih_zadrugah.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>36131</ID>
+        <URN>11686/36131</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CREATOR2 lang="slv">Kraljevina Jugoslavija</CREATOR2>
+        <DATE type="Date" format="W3CDTF">1936-01-01</DATE>
+        <MENU_ID id="64">Priročniki</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title">Uredba o likvidaciji kmetskih dolgov</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:36131" rel="dct:creator"><span property="dct:title">Službeni list kraljevske banske uprave Dravske banovine</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+Avtorske pravice so potekle, delo je v javni domeni.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Uredba o likvidaciji kmetskih dolgov</TITLE>
+        <TITLE titleType="Title" lang="slv">Ponatis iz "Službenega lista kraljevske banske uprave Dravske banovine"</TITLE>
+        <SUBJECT lang="slv">dolgovi</SUBJECT>
+        <SUBJECT lang="slv">kmetje</SUBJECT>
+        <SUBJECT lang="slv">zadolženost</SUBJECT>
+        <SUBJECT lang="slv">zakonodaja</SUBJECT>
+        <SUBJECT lang="eng">debts</SUBJECT>
+        <SUBJECT lang="eng">farmers</SUBJECT>
+        <SUBJECT lang="eng">indebtedness</SUBJECT>
+        <SUBJECT lang="eng">legislation</SUBJECT>
+        <PUBLISHER>Merkur, Ljubljana</PUBLISHER>
+        <COLLECTION>Zakoni in uredbe; 51</COLLECTION>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1936</YEAR>
+        <DATETIME_ADDED>2016-12-15 13:14:31</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-09-14 15:18:38</DATETIME_MODIFIED>
+        <USER_ID_ADDED>4</USER_ID_ADDED>
+        <PUBLICATION file="uredba_kmetskih_dolgov.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>36130</ID>
+        <URN>11686/36130</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CREATOR2 lang="slv">Sekretariat Vlade Ljudske republike Slovenije za personalno službo</CREATOR2>
+        <DATE type="Date" format="W3CDTF">1950-01-01</DATE>
+        <MENU_ID id="64">Priročniki</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title">Politična ekonomija : gradivo za strokovne izpite</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:36130" rel="dct:creator"><span property="dct:title">Sekretariat Vlade Ljudske republike Slovenije za personalno službo</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+Avtorske pravice so potekle, delo je v javni domeni.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Politična ekonomija: gradivo za strokovne izpite</TITLE>
+        <SUBJECT lang="slv">politična ekonomija</SUBJECT>
+        <SUBJECT lang="slv">učbeniki</SUBJECT>
+        <SUBJECT lang="eng">political economy</SUBJECT>
+        <SUBJECT lang="eng">textbooks</SUBJECT>
+        <PUBLISHER>Uradni list LRS, Ljubljana</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1950</YEAR>
+        <DATETIME_ADDED>2016-12-15 13:13:57</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-09-14 15:18:49</DATETIME_MODIFIED>
+        <USER_ID_ADDED>4</USER_ID_ADDED>
+        <PUBLICATION file="politicna_ekonomija.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>36129</ID>
+        <URN>11686/36129</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CREATOR>
+            <IME>Anton Bonaventura</IME>
+            <PRIIMEK>Jeglič</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date" format="W3CDTF">1915-01-01</DATE>
+        <MENU_ID id="64">Priročniki</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title">Kratko navodilo staršem o verskem pouku majhnih otrok</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:36129" rel="dct:creator"><span property="dct:title">Anton Bonaventura Jeglič</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+Avtorske pravice so potekle, delo je v javni domeni.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Kratko navodilo staršem o verskem pouku majhnih otrok</TITLE>
+        <SUBJECT lang="slv">krščanska vzgoja</SUBJECT>
+        <SUBJECT lang="slv">krščansko življenje</SUBJECT>
+        <SUBJECT lang="slv">otroci</SUBJECT>
+        <SUBJECT lang="eng">christian education</SUBJECT>
+        <SUBJECT lang="eng">christian life</SUBJECT>
+        <SUBJECT lang="eng">children</SUBJECT>
+        <PUBLISHER>Katoliška tiskarna, Ljubljana</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1915</YEAR>
+        <DATETIME_ADDED>2016-12-15 13:13:14</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-09-14 15:19:02</DATETIME_MODIFIED>
+        <USER_ID_ADDED>4</USER_ID_ADDED>
+        <PUBLICATION file="kratko_navodilo_starsem_o_verskem_pouku.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>36062</ID>
+        <URN>11686/36062</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CONTRIBUTOR>Božidar Bežek</CONTRIBUTOR>
+        <CONTRIBUTOR>Fran Regally</CONTRIBUTOR>
+        <DATE type="Date" format="W3CDTF">1928-01-01</DATE>
+        <MENU_ID id="64">Priročniki</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title">
+Občni državljanski zakonik</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:36062" rel="dct:creator"><span property="dct:title">Božidar Bežek,  Fran Regally</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+Avtorske pravice so potekle, delo je v javni domeni.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Občni državljanski zakonik z dne 1. junija 1811 štev. 946 zb. p. z. v besedilu treh delovnih novel</TITLE>
+        <PUBLISHER>Tiskovna zadruga,Ljubljana</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1928</YEAR>
+        <DATETIME_ADDED>2016-10-26 08:50:29</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-09-14 15:19:08</DATETIME_MODIFIED>
+        <USER_ID_ADDED>4</USER_ID_ADDED>
+        <PUBLICATION file="Obcni_drzavljanski_zakonik_novo.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>35114</ID>
+        <URN>11686/35114</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1937</DATE>
+        <MENU_ID id="64">Priročniki</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title">Občine dravske banovine v letih 1933 - 1937</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:35114" rel="dct:creator"><span property="dct:title">Županska zveza, Ljubljana</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+Avtorske pravice so potekle, delo je v javni domeni.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Občine dravske banovine v letih 1933 - 1937</TITLE>
+        <TITLE titleType="Title" lang="slv">Pregled izprememb, izvršenih s Komasacijo občin v letih 1933 - 1937</TITLE>
+        <SUBJECT lang="slv">Kraljevina Jugoslavija</SUBJECT>
+        <SUBJECT lang="slv">Dravska banovina</SUBJECT>
+        <SUBJECT lang="slv">občine</SUBJECT>
+        <SUBJECT lang="eng">Kingdom of Yugoslavia</SUBJECT>
+        <SUBJECT lang="eng">Drava banate</SUBJECT>
+        <SUBJECT lang="eng">municipalities</SUBJECT>
+        <PUBLISHER>Županska zveza, Ljubljana</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1937</YEAR>
+        <DATETIME_ADDED>2016-02-23 07:42:36</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-09-14 15:19:15</DATETIME_MODIFIED>
+        <USER_ID_ADDED>4</USER_ID_ADDED>
+        <PUBLICATION file="Obcine_dravske_banovine.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>35113</ID>
+        <URN>11686/35113</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1943</DATE>
+        <MENU_ID id="64">Priročniki</MENU_ID>
+        <LANGUAGE lang="ita">8</LANGUAGE>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title">Tariffe e Discipline sulle imposte comunali che l Ufficio Dazio consumo comunale riscuote nell anno preventivo 1943-XXI/XXII (Approvato con la decisione dell Alto Commissario per la provincia di Lubiana N. 233/Cab, 18 gennaio 1943-XXI, pubbl. nel Bollettino Ufficiale N. 8-A del 27 gennaio 1943 -XXI.)/ Tarife in uredbe za mestne davščine, ki jih pobira trošarinski oddelek mestnega poglavarstva v Ljubljani v proračunskem letu 1943-XXI/XXII (Odobreno z odločbo Visokega komisarja za Ljubljansko pokrajino Št. 233/Gab. z dne 18. januarja 1943 -XXI in objavljene v Službenem listu z dne 27. januarja 1943-XXI kos 8. A.)</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:35113" rel="dct:creator"><span property="dct:title">Mestno poglavarstvo, Ljubljana</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+Avtorske pravice so potekle, delo je v javni domeni.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Tarife in uredbe za mestne davščine, ki jih pobira trošarinski oddelek mestnega poglavarstva v Ljubljani v proračunskem letu 1943-XXI/XXII</TITLE>
+        <TITLE titleType="Title" lang="slv">Odobreno z odločbo Visokega komisarja za Ljubljansko pokrajino Št. 233/Gab. z dne 18. januarja 1943 -XXI in objavljene v Službenem listu z dne 27 januarja 1943 -XXI kos 8. A.</TITLE>
+        <TITLE titleType="Title" lang="ita">Tariffe e Discipline sulle imposte comunali che l’Ufficio Dazio consumo comunale riscuote nell’anno preventivo 1943-XXI/XXII</TITLE>
+        <TITLE titleType="Title" lang="ita">Approvato con la decisione dell'Alto Commissario per la provincia di Lubiana N. 233/Cab, 18 gennaio 1943-XXI, pubbl. nel Bollettino N. 8-A del 27 gennaio 1943 -XXI.</TITLE>
+        <SUBJECT lang="slv">druga svetovna vojna</SUBJECT>
+        <SUBJECT lang="slv">italijanska okupacija</SUBJECT>
+        <SUBJECT lang="slv">davčni predpisi</SUBJECT>
+        <SUBJECT lang="eng">WW II</SUBJECT>
+        <SUBJECT lang="eng">Italian occupation</SUBJECT>
+        <SUBJECT lang="eng">tax regulation</SUBJECT>
+        <DESCRIPTION descriptionType="TableOfContents" lang="slv">
+            Tarifa za mestno trošarino--Tarifa za mestno uvoznino--Pripombe k tarifi za mestno trošarino-uvoznino--Uredba o mestni trošarini--Uredba o mestni uvoznini--Tarifa za mestno tržnino, s pripombami--Uredba o pobiranju tržnine--Uredba o občinski davščini na potrošnjo--Občinska tehtnina--Občinska sejmarina--Oglednina--Klavnična kavcija
+        </DESCRIPTION>
+        <PUBLISHER>Mestno poglavarstvo, Ljubljana</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1943</YEAR>
+        <DATETIME_ADDED>2016-02-23 07:41:46</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-09-14 15:19:25</DATETIME_MODIFIED>
+        <USER_ID_ADDED>4</USER_ID_ADDED>
+        <PUBLICATION file="Tariffe_e_discipline.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>34880</ID>
+        <URN>11686/34880</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1925</DATE>
+        <MENU_ID id="64">Priročniki</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title"> Seznam industrijskih in večjih obrtnih podjetij v okraju Zbornice za trgovino, obrt in industrijo v Ljubljani</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:34880" rel="dct:creator"><span property="dct:title"> Zbornica za trgovino, obrt in industrijo v Ljubljani</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+Avtorske pravice so potekle, delo je v javni domeni.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Seznam industrijskih in večjih obrtnih podjetij v okraju Zbornice za trgovino, obrt in industrijo v Ljubljani</TITLE>
+        <SUBJECT lang="slv">gospodarstvo</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">economy</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <PUBLISHER>Zbornica za trgovino, obrt in industrijo v Ljubljani, Ljubljana</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1925</YEAR>
+        <DATETIME_ADDED>2015-12-30 08:27:16</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-09-14 15:19:42</DATETIME_MODIFIED>
+        <USER_ID_ADDED>4</USER_ID_ADDED>
+        <PUBLICATION file="seznam_industrijskih_in_vecjih_obrtnih_podjetje.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>34879</ID>
+        <URN>11686/34879</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1936</DATE>
+        <MENU_ID id="64">Priročniki</MENU_ID>
+        <LANGUAGE lang="srp">16</LANGUAGE>
+        <LANGUAGE lang="fra">6</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[</a>
+<br />
+This work (<span property="dct:title"> Grbovi , zastave, drugi državni amblemi i zvanični znaci Kraljevine Jugoslavije</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:34879" rel="dct:creator"><span property="dct:title"> Ministarstvo trgovine i industrije — Uprava za zaštitu industrijske svojine, Beograd</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+Avtorske pravice so potekle, delo je v javni domeni.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="fra">Les armoiries, drapeaux et autres emblèmes d’etat, poinçons officiels de contrôle et de garantie du Royaume de Yougoslavie</TITLE>
+        <TITLE titleType="Title" lang="srp">Grbovi, zastave, drugi državni amblemi i zvanični znaci Kraljevine Jugoslavije</TITLE>
+        <SUBJECT lang="slv">grbi</SUBJECT>
+        <SUBJECT lang="slv">emblemi</SUBJECT>
+        <SUBJECT lang="slv">zastave</SUBJECT>
+        <SUBJECT lang="slv">Kraljevina Jugoslavija</SUBJECT>
+        <SUBJECT lang="eng">coats of arms</SUBJECT>
+        <SUBJECT lang="eng">flags</SUBJECT>
+        <SUBJECT lang="eng">emblems</SUBJECT>
+        <SUBJECT lang="eng">Kingdom of Yugoslavia</SUBJECT>
+        <PUBLISHER>Ministarstvo trgovine i industrije — Uprava za zaštitu industrijske svojine, Beograd</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1936</YEAR>
+        <DATETIME_ADDED>2015-12-30 08:25:41</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-09-14 15:19:55</DATETIME_MODIFIED>
+        <USER_ID_ADDED>4</USER_ID_ADDED>
+        <PUBLICATION file="grbovi_zastave_kraljevine_jugoslavije.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>31097</ID>
+        <URN>11686/31097</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1919</DATE>
+        <MENU_ID id="64">Priročniki</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title">Seznam osobja v področju sodne uprave za Slovenijo za leto 1919</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:31097" rel="dct:creator"><span property="dct:title">Poverjeništvo za pravosodje v Ljubljani </span></a>), identified by <a href="http://www.sistory.si/rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+To delo avtorskopravno ni varovano.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Seznam osobja v področju sodne uprave za Slovenijo za leto 1919</TITLE>
+        <SUBJECT lang="slv">seznam</SUBJECT>
+        <SUBJECT lang="slv">pravosodje</SUBJECT>
+        <SUBJECT lang="slv">Kraljevina SHS</SUBJECT>
+        <SUBJECT lang="eng">list</SUBJECT>
+        <SUBJECT lang="eng">court administration</SUBJECT>
+        <SUBJECT lang="eng">Kingdom of Serbs, Croats and Slovenes</SUBJECT>
+        <PUBLISHER>Poverjeništvo za pravosodje v Ljubljani, Ljubljana</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1919</YEAR>
+        <DATETIME_ADDED>2015-06-18 08:58:43</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-09-14 15:20:09</DATETIME_MODIFIED>
+        <USER_ID_ADDED>4</USER_ID_ADDED>
+        <PUBLICATION file="seznam_osobja_1919.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>31096</ID>
+        <URN>11686/31096</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1920</DATE>
+        <MENU_ID id="64">Priročniki</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title">Seznam osobja v področju sodne uprave za Slovenijo za leto 1920</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:31096" rel="dct:creator"><span property="dct:title">Predsedništvo višjega deželnega sodišča  v Ljubljani </span></a>), identified by <a href="http://www.sistory.si/rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+To delo avtorskopravno ni varovano.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Seznam osobja v področju sodne uprave za Slovenijo za leto 1920</TITLE>
+        <SUBJECT lang="slv">seznam</SUBJECT>
+        <SUBJECT lang="slv">sodno osebje</SUBJECT>
+        <SUBJECT lang="slv">Kraljevina Srbov, Hrvatov in Slovencev</SUBJECT>
+        <SUBJECT lang="eng">list</SUBJECT>
+        <SUBJECT lang="eng">court administration</SUBJECT>
+        <SUBJECT lang="eng">Kingdom of Serbs, Croats and Slovenes</SUBJECT>
+        <PUBLISHER>Predsedništvo višjega deželnega sodišča v Ljubljani, Ljubljana</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1920</YEAR>
+        <DATETIME_ADDED>2015-06-18 08:57:36</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-09-14 15:20:16</DATETIME_MODIFIED>
+        <USER_ID_ADDED>4</USER_ID_ADDED>
+        <PUBLICATION file="seznam_osobja_1920.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>31095</ID>
+        <URN>11686/31095</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1922</DATE>
+        <MENU_ID id="64">Priročniki</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title">Seznam osobja v področju sodne uprave za Slovenijo za leto 1922</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:31095" rel="dct:creator"><span property="dct:title">Predsedništvo višjega deželnega sodišča  v Ljubljani </span></a>), identified by <a href="http://www.sistory.si/rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+To delo avtorskopravno ni varovano.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Seznam osobja v področju sodne uprave za Slovenijo za leto 1922</TITLE>
+        <SUBJECT lang="slv">seznam</SUBJECT>
+        <SUBJECT lang="slv">sodno osebje</SUBJECT>
+        <SUBJECT lang="slv">Kraljevina Srbov, Hrvatov in Slovencev</SUBJECT>
+        <SUBJECT lang="eng">list</SUBJECT>
+        <SUBJECT lang="eng">court personnel</SUBJECT>
+        <SUBJECT lang="eng">Kingdom of Serbs, Croats and Slovenes</SUBJECT>
+        <PUBLISHER>Predsedništvo višjega deželnega sodišča v Ljubljani, Ljubljana</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1922</YEAR>
+        <DATETIME_ADDED>2015-06-18 08:56:52</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-09-14 15:21:38</DATETIME_MODIFIED>
+        <USER_ID_ADDED>4</USER_ID_ADDED>
+        <PUBLICATION file="seznam_osobja_1922.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>31094</ID>
+        <URN>11686/31094</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1927</DATE>
+        <MENU_ID id="64">Priročniki</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title"> Seznam osobja pravosodne uprave za Slovenijo vključno Stola sedmorice, odd. B in vrhovnega državnega pravdništva v Zagrebu za leto 1926 po stanju 1. junija 1927.</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:31094" rel="dct:creator"><span property="dct:title">Predsedništvo višjega deželnega sodišča  v Ljubljani </span></a>), identified by <a href="http://www.sistory.si/rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+To delo avtorskopravno ni varovano.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Seznam osobja pravosodne uprave za Slovenijo vključno Stola sedmorice, odd. B in vrhovnega državnega pravdništva v Zagrebu za leto 1926 po stanju 1. junija 1927.</TITLE>
+        <SUBJECT lang="slv">seznam</SUBJECT>
+        <SUBJECT lang="slv">sodno osebje</SUBJECT>
+        <SUBJECT lang="slv">Kraljevina SHS</SUBJECT>
+        <SUBJECT lang="eng">list</SUBJECT>
+        <SUBJECT lang="eng">court personnel</SUBJECT>
+        <SUBJECT lang="eng">Kingdom of Serbs, Croats and Slovenes</SUBJECT>
+        <PUBLISHER>Predsedništvo višjega deželnega sodišča v Ljubljani, Ljubljana</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1927</YEAR>
+        <DATETIME_ADDED>2015-06-18 08:56:03</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-09-14 15:21:52</DATETIME_MODIFIED>
+        <USER_ID_ADDED>4</USER_ID_ADDED>
+        <PUBLICATION file="seznam_osobja_1927.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>31093</ID>
+        <URN>11686/31093</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CREATOR2 lang="slv">Visoki komisarijat za Ljubljansko pokrajino</CREATOR2>
+        <CREATOR2 lang="ita">Alto commissariato per la provincia di Lubiana</CREATOR2>
+        <DATE type="Date">1942</DATE>
+        <MENU_ID id="64">Priročniki</MENU_ID>
+        <LANGUAGE lang="ita">8</LANGUAGE>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title"> Elenco ufficiale degli abbonati al telefono della rete di Lubiana e delle reti della provincia /Službeni telefonski imenik za omrežje mesta Ljubljana in omrežij v pokrajini</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:31093" rel="dct:creator"><span property="dct:title">Edizioni SEAT</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+To delo avtorskopravno ni varovano.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Službeni telefonski imenik za omrežje mesta Ljubljana in omrežij v pokrajini</TITLE>
+        <TITLE titleType="Title" lang="slv">po stanju 15. maja 1942/XX</TITLE>
+        <TITLE titleType="Title" lang="ita">Elenco ufficiale degli abbonati al telefono della rete di Lubiana e delle reti della provincia</TITLE>
+        <TITLE titleType="Title" lang="ita">Aggiornato al 5 Maggio 1942/XX - E. F.</TITLE>
+        <SUBJECT lang="slv">telefonski imenik</SUBJECT>
+        <SUBJECT lang="slv">Ljubljanska pokrajina</SUBJECT>
+        <SUBJECT lang="slv">italijanska okupacija</SUBJECT>
+        <SUBJECT lang="slv">druga svetovna vojna</SUBJECT>
+        <SUBJECT lang="eng">telephone directory</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana province</SUBJECT>
+        <SUBJECT lang="eng">Italian occupation</SUBJECT>
+        <SUBJECT lang="eng">WW II</SUBJECT>
+        <PUBLISHER>Edizioni SEAT, Torino</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1942</YEAR>
+        <DATETIME_ADDED>2015-06-18 08:54:37</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-09-14 15:22:01</DATETIME_MODIFIED>
+        <USER_ID_ADDED>4</USER_ID_ADDED>
+        <PUBLICATION file="Lubiana_1942.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>31092</ID>
+        <URN>11686/31092</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1925</DATE>
+        <MENU_ID id="64">Priročniki</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title"> Seznam industrijskih podjetij v okraju trgovske in obrtniške zbornice v Ljubljani</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:31092" rel="dct:creator"><span property="dct:title"> Trgovska in obrtniška zbornica v Ljubljani</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+To delo avtorskopravno ni varovano.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Seznam industrijskih podjetij v okraju trgovske in obrtniške zbornice v Ljubljani</TITLE>
+        <SUBJECT lang="slv">industrija</SUBJECT>
+        <SUBJECT lang="slv">obrt</SUBJECT>
+        <SUBJECT lang="slv">seznam</SUBJECT>
+        <SUBJECT lang="eng">industry</SUBJECT>
+        <SUBJECT lang="eng">craftwork</SUBJECT>
+        <SUBJECT lang="eng">list</SUBJECT>
+        <PUBLISHER>Trgovska in obrtniška zbornica v Ljubljani, Ljubljana</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1925</YEAR>
+        <DATETIME_ADDED>2015-06-18 08:53:18</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-09-14 15:22:11</DATETIME_MODIFIED>
+        <USER_ID_ADDED>4</USER_ID_ADDED>
+        <PUBLICATION file="seznam_industrijskih_podjetij.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>30947</ID>
+        <URN>11686/30947</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1913</DATE>
+        <MENU_ID id="64">Priročniki</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title"> Deželni zbor in deželni odbor kranjski po stanju dne 1. maja 1913</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:30947" rel="dct:creator"><span property="dct:title"> Samozaložba deželnega odbora kranjskega </span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+To delo avtorskopravno ni varovano.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Deželni zbor in deželni odbor kranjski po stanju dne 1. maja 1913</TITLE>
+        <SUBJECT lang="slv">Kranjska</SUBJECT>
+        <SUBJECT lang="slv">imeniki</SUBJECT>
+        <SUBJECT lang="eng">Carniola</SUBJECT>
+        <SUBJECT lang="eng">index</SUBJECT>
+        <PUBLISHER>Samozaložba deželnega odbora kranjskega, Ljubljana</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1913</YEAR>
+        <DATETIME_ADDED>2015-05-08 12:14:59</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-09-14 15:22:21</DATETIME_MODIFIED>
+        <USER_ID_ADDED>4</USER_ID_ADDED>
+        <PUBLICATION file="dezelni_zbor_1913.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>29971</ID>
+        <URN>11686/29971</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1938</DATE>
+        <MENU_ID id="64">Priročniki</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title">Koledar 1938</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:19971" rel="dct:creator"><span property="dct:title">G. Piccoli</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+To delo avtorskopravno ni varovano.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Koledar 1938</TITLE>
+        <TITLE titleType="Title" lang="slv">Lekarna "Pri Angelu", dr. G. Piccoli, nasproti nebotičnika</TITLE>
+        <SUBJECT lang="slv">koledar</SUBJECT>
+        <SUBJECT lang="slv">telefonski imenik</SUBJECT>
+        <SUBJECT lang="slv">zdravstvo</SUBJECT>
+        <SUBJECT lang="slv">seznam zdravstvenih ustanov</SUBJECT>
+        <SUBJECT lang="slv">zdravniki</SUBJECT>
+        <SUBJECT lang="slv">urniki</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">calendar</SUBJECT>
+        <SUBJECT lang="eng">telephone book</SUBJECT>
+        <SUBJECT lang="eng">health care</SUBJECT>
+        <SUBJECT lang="eng">health care institutions list</SUBJECT>
+        <SUBJECT lang="eng">physicians</SUBJECT>
+        <SUBJECT lang="eng">practitioners</SUBJECT>
+        <SUBJECT lang="eng">schedules</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <PUBLISHER>Lekarna "Pri Angelu", dr. G. Piccoli, Ljubljana</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1938</YEAR>
+        <DATETIME_ADDED>2014-11-12 07:25:28</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-09-14 15:22:28</DATETIME_MODIFIED>
+        <USER_ID_ADDED>4</USER_ID_ADDED>
+        <PUBLICATION file="Lekarna_pri_Angelu.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>27179</ID>
+        <URN>11686/27179</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CREATOR>
+            <IME>Štefan</IME>
+            <PRIIMEK>Lapajne</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date">1912</DATE>
+        <MENU_ID id="64">Priročniki</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <LANGUAGE lang="deu">3</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title">Naslovna knjiga in zaznamek trgovin in obrtov za deželno stolno mesto Ljubljano.-Wohnungs- und Geschäfts- Anzeiger für die Landeshauptstadt Laibach</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:27179" rel="dct:creator"><span property="dct:title">Štefan Lapajne</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+Avtorske pravice so potekle, delo je v javni domeni.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Naslovna knjiga in zaznamek trgovin in obrtov za deželno stolno mesto Ljubljano</TITLE>
+        <TITLE titleType="Title" lang="deu">Wohnungs- und Geschäfts- Anzeiger für die Landeshauptstadt Laibach</TITLE>
+        <SUBJECT lang="slv">imenik</SUBJECT>
+        <SUBJECT lang="eng">registry</SUBJECT>
+        <PUBLISHER>lg. pl. Kleinmayr & Fed. Bamberg, Ljubljana</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1912</YEAR>
+        <DATETIME_ADDED>2014-09-17 13:12:41</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-09-14 15:22:34</DATETIME_MODIFIED>
+        <USER_ID_ADDED>4</USER_ID_ADDED>
+        <PUBLICATION file="Zaznamek_trgovin_in_podjetij.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>26803</ID>
+        <URN>11686/26803</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CREATOR>
+            <IME>Krunoslav</IME>
+            <PRIIMEK>Draganović</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date">1939</DATE>
+        <MENU_ID id="64">Priročniki</MENU_ID>
+        <LANGUAGE lang="hrv">17</LANGUAGE>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <LANGUAGE lang="lat">10</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Opći šematizam Katoličke crkve u Jugoslaviji ,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:26803">
+                  <span property="dct:title">Krunoslav Draganović</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="hrv">Opći šematizam Katoličke crkve u Jugoslaviji</TITLE>
+        <TITLE titleType="Title" lang="hrv">Prema mandatu preč. Episkopata Jugoslavije izradio Dr. Krunoslav Draganović</TITLE>
+        <SUBJECT lang="slv">katoliška cerkev</SUBJECT>
+        <SUBJECT lang="slv">šematizem</SUBJECT>
+        <SUBJECT lang="eng">Catholic church</SUBJECT>
+        <SUBJECT lang="eng">schematism</SUBJECT>
+        <PUBLISHER>Akademija Regina Apostolorum, Sarajevo</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1939</YEAR>
+        <DATETIME_ADDED>2014-04-25 08:33:37</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-09-14 15:22:41</DATETIME_MODIFIED>
+        <USER_ID_ADDED>4</USER_ID_ADDED>
+        <PUBLICATION file="OPCI_SEMANTIZAM_KATOLICKE_CRKVE.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>26802</ID>
+        <URN>11686/26802</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1924</DATE>
+        <MENU_ID id="64">Priročniki</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Predpisi za delavstvo,
+                        by<a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:26802">
+                  <span property="dct:title">Tiskovna zadruga</span></a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Predpisi za zaščito delavstva</TITLE>
+        <SUBJECT lang="slv">varstvo pri delu</SUBJECT>
+        <SUBJECT lang="slv">zakonodaja</SUBJECT>
+        <SUBJECT lang="eng">safety at work</SUBJECT>
+        <SUBJECT lang="eng">legislation</SUBJECT>
+        <DESCRIPTION descriptionType="TableOfContents" lang="slv">
+            Zakon o inšpekciji dela--Uredba o razdelitvi kraljevine Srbov, Hrvatov in Slovencev na 10 oblasti inšpekcije dela in o njih sedežih--Pravilnik o higienskih in tehničnih varnostnih odredbah v podjetjih--Obča določila--Higiena dela.--Delovni prostori in način njih gradnje--Čistota delovnih prostorov--Zračenje, razsvetljava, kurjava--Sredstva za zaščito oči, pljuč, rok, nosa in telesa vobče--Varnost ob delu--Prehodi--Predpisi glede požara--Uporabljanje pare pod pritiskom--Uporabljanje motorjev, transmisij in delovnih strojev--Verige, kljuke, obroči, naprave za dviganje, zabijanje in dvigala (lifti)--Delavska stanovanja--Specialna določila--Stavbinstvo--Industrija in uporabljanje svinca--Uporabljanje svinčevega belila za barvanje--Pihanje stekla v steklarski industriji--Zaščita delavcev v podjetjih, ki delajo z elektriko--Delo v stisnjenem zraku--Železnice za poljska in gradbena dela--Mehanične pralnice perila--Tiskarska podjetja--Proizvajanje in uporabljanje kalcijevega karbida in acetilena--Kamenolomi, kopanje ilovice, peska in gramoza--Proizvajanje sladkorja--Proizvajanje papirja--Brodarstvo--Nad palubo--Pod palubo--Varnostne odredbe ob delu--Kotli in parni stroji--Priloge--Delovni red za obrate, ki delajo samo podnevi--Delovni red za obrate z neprestanim delom--Register o boleznih delavcev v podjetjih, ki delajo s svincem, in v podjetjih, kjer se piha steklo--Zdravstveno stanje delavstva, zaposlenega pri podjetju, ki dela s svinčevimi spojinami po periodičnih zdravniških pregledih--Stanje delavcev (delavk), preko 18 let starih, zaposlenih pri podjetju--Stanje mladostnih delavcev pod 14. letom starosti,zaposlenih pri podjetju--Stanje mladostnih delavcev od dovršenega 13. do dovršenega 17. leta, zaposlenih pri podjetju--Pravilnik o zaposlovanju inozemskih delavcev--Odločba, da je smatrati ruske begunce glede zaposlovanja na ozemlju kraljevine Srbov, Hrvatov in Slovencev za enake domačim delavcem--Uredba o delovnem času v obrtnih podjetjih--Uredba o delovnem času v trgovinskih podjetjih--Uredba o odpiranju in zapiranju obratov--Pravilnik o podaljševanju delovnega časa v industrijskih in rudarskih podjetjih na podstavi sporazuma med lastniki podjetij in njih pomožnim osebjem--
+        </DESCRIPTION>
+        <PUBLISHER>Tiskovna zadruga, Ljubljana</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1924</YEAR>
+        <DATETIME_ADDED>2014-04-25 08:32:06</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-09-14 15:22:48</DATETIME_MODIFIED>
+        <USER_ID_ADDED>4</USER_ID_ADDED>
+        <PUBLICATION file="Predpisi_za_zascito_delavstva.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>24797</ID>
+        <URN>11686/24797</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CREATOR>
+            <IME>Avgust</IME>
+            <PRIIMEK>Guzelj</PRIIMEK>
+        </CREATOR>
+        <CREATOR2 lang="slv">Gozdarsko društvo za Kranjsko in Primorsko v Ljubljani</CREATOR2>
+        <CREATOR2 lang="slv">Kranjska hranilnica</CREATOR2>
+        <CREATOR2 lang="slv">c. kr. poljedelsko ministerstvo</CREATOR2>
+        <CREATOR2 lang="slv">dežela Kranjske</CREATOR2>
+        <DATE type="Date">1903</DATE>
+        <MENU_ID id="64">Priročniki</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Navod za oskrbovanje malih gozdnih posestev na Kranjskem in Primorskem,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:24797">
+                  <span property="dct:title">Avgust Guzelj</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Navod za oskrbovanje malih gozdnih posestev na Kranjskem in Primorskem</TITLE>
+        <SUBJECT lang="slv">gozdarstvo</SUBJECT>
+        <SUBJECT lang="slv">priročnik</SUBJECT>
+        <SUBJECT lang="eng">forestry</SUBJECT>
+        <SUBJECT lang="eng">handbook</SUBJECT>
+        <PUBLISHER>Gozdarsko društvo za Kranjsko in Primorsko, Ljubljana</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1903</YEAR>
+        <DATETIME_ADDED>2014-03-20 10:55:39</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-09-14 15:22:58</DATETIME_MODIFIED>
+        <USER_ID_ADDED>4</USER_ID_ADDED>
+        <PUBLICATION file="Navod_za_oskrbovanje_malih_gozdnih_posestev.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>24792</ID>
+        <URN>11686/24792</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1922</DATE>
+        <MENU_ID id="64">Priročniki</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Krajevni repertorij za Slovenijo,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:24792">
+                  <span property="dct:title">Naslovni oddelek Anončnega in informačnega zavoda  Drago Beseljak & Drug, Ljubljana</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Krajevni repertorij za Slovenijo</TITLE>
+        <SUBJECT lang="slv">repertorij</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="eng">repertory</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <PUBLISHER>Naslovni oddelek Anončnega in informačnega zavoda  Drago Beseljak & Drug, Ljubljana</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1922</YEAR>
+        <DATETIME_ADDED>2014-03-20 10:38:13</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-09-14 15:23:06</DATETIME_MODIFIED>
+        <USER_ID_ADDED>4</USER_ID_ADDED>
+        <PUBLICATION file="krajevni_repertorij_za_Slovenijo.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>24791</ID>
+        <URN>11686/24791</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1938</DATE>
+        <MENU_ID id="64">Priročniki</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Splošni strokovni adresar Velike Ljubljane,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:24791">
+                  <span property="dct:title">Reklama "Saturn", Ljubljana</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Splošni strokovni adresar Velike Ljubljane</TITLE>
+        <SUBJECT lang="slv">imenik</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">directory</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <PUBLISHER>Reklama "Saturn", Ljubljana</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1938</YEAR>
+        <DATETIME_ADDED>2014-03-20 10:31:40</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-09-14 15:23:14</DATETIME_MODIFIED>
+        <USER_ID_ADDED>4</USER_ID_ADDED>
+        <PUBLICATION file="splosni_strokovni_adresar.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>20734</ID>
+        <URN>11686/20734</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CONTRIBUTOR>Aleksander K. Petrović (gl. ur.)</CONTRIBUTOR>
+        <CONTRIBUTOR>Vladimir Kante (področni ur.)</CONTRIBUTOR>
+        <DATE type="Date">1940</DATE>
+        <MENU_ID id="64">Priročniki</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title"> Policijski žepni priročnik,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:20734">
+                  <span property="dct:title">Orip, Beograd</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Policijski žepni priročnik</TITLE>
+        <TITLE titleType="Title" lang="slv">Izdaja za dravsko banovino</TITLE>
+        <TITLE titleType="Title" lang="slv">I. izdaja</TITLE>
+        <SUBJECT lang="slv">priročniki</SUBJECT>
+        <SUBJECT lang="slv">policija</SUBJECT>
+        <SUBJECT lang="slv">notranje zadeve</SUBJECT>
+        <SUBJECT lang="eng">manuals</SUBJECT>
+        <SUBJECT lang="eng">police</SUBJECT>
+        <SUBJECT lang="eng">internal affairs</SUBJECT>
+        <PUBLISHER>Orip, Beograd</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1940</YEAR>
+        <DATETIME_ADDED>2014-01-28 10:54:05</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-09-14 15:23:21</DATETIME_MODIFIED>
+        <USER_ID_ADDED>4</USER_ID_ADDED>
+        <PUBLICATION file="Policijski_zepni_prirocnik.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>20406</ID>
+        <URN>11686/20406</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CREATOR>
+            <IME>Franc</IME>
+            <PRIIMEK>Pirc</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date">1938</DATE>
+        <MENU_ID id="64">Priročniki</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <TITLE titleType="Title" lang="slv">Poštni krajevni leksikon za Dravsko banovino</TITLE>
+        <TITLE titleType="Title" lang="slv">II. izdaja</TITLE>
+        <SUBJECT lang="slv">krajevna imena</SUBJECT>
+        <SUBJECT lang="slv">Dravska banovina</SUBJECT>
+        <SUBJECT lang="eng">toponyms</SUBJECT>
+        <SUBJECT lang="eng">Drava banate</SUBJECT>
+        <PUBLISHER>Uprava Poštnega krajevnega leksikona za Dravsko banovino, Ljubljana</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1938</YEAR>
+        <DATETIME_ADDED>2013-12-04 18:04:18</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-09-14 15:24:24</DATETIME_MODIFIED>
+        <USER_ID_ADDED>4</USER_ID_ADDED>
+        <PUBLICATION file="postni_krajevni_leksikon.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>1129</ID>
+        <URN>11686/1129</URN>
+        <CHILD_ORDER>6476</CHILD_ORDER>
+        <CONTRIBUTOR>Alojzij Matelič</CONTRIBUTOR>
+        <DATE type="Date">1933</DATE>
+        <MENU_ID id="64">Priročniki</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title">Adresar mesta Ljubljane in okolice</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:1129" rel="dct:creator"><span property="dct:title">Tiskarna grafika, Ljubljana</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+Avtorske pravice so potekle, delo je v javni domeni.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Adresar mesta Ljubljane in okolice</TITLE>
+        <SUBJECT lang="slv">imenik</SUBJECT>
+        <SUBJECT lang="slv">adress book</SUBJECT>
+        <PUBLISHER>Tiskarna grafika, Ljubljana</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1933</YEAR>
+        <DATETIME_ADDED>2012-01-25 14:09:31</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-09-14 15:25:27</DATETIME_MODIFIED>
+        <USER_ID_ADDED>4</USER_ID_ADDED>
+        <PUBLICATION file="Adresar_Mesta_Ljubljane_in_okolice_1933.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>935</ID>
+        <URN>11686/935</URN>
+        <CHILD_ORDER>6475</CHILD_ORDER>
+        <DATE type="Date">1912</DATE>
+        <MENU_ID id="64">Priročniki</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title">Adresar: Splošna naslovna knjiga za Kranjsko</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:935" rel="dct:creator"><span property="dct:title">Mulley & Kamenšek</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+Avtorske pravice so potekle, delo je v javni domeni.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Adresar</TITLE>
+        <TITLE titleType="Title" lang="slv">Splošna naslovna knjiga za Kranjsko</TITLE>
+        <SUBJECT lang="slv">adresar</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="eng">adress book</SUBJECT>
+        <SUBJECT lang="slv">Slovenia</SUBJECT>
+        <PUBLISHER>Mulley & Kamenšek, Ljubljana</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1912</YEAR>
+        <DATETIME_ADDED>2012-01-25 14:10:36</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-09-14 15:25:16</DATETIME_MODIFIED>
+        <USER_ID_ADDED>4</USER_ID_ADDED>
+        <PUBLICATION file="Adresar_1912.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+</root>

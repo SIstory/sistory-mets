@@ -1,0 +1,316 @@
+<root>
+    <publication>
+        <ID>38028</ID>
+        <URN>11686/38028</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <MENU_ID id="89">Magistrske naloge</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <TITLE titleType="Title" lang="slv">Tomaz-Mesaric-magistrsko-delo</TITLE>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <DATETIME_ADDED>2017-10-17 07:23:03</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-10-17 07:23:03</DATETIME_MODIFIED>
+        <USER_ID_ADDED>4</USER_ID_ADDED>
+        <PUBLICATION file="Tomaz-Mesaric-magistrsko-delo .pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>38027</ID>
+        <URN>11686/38027</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <MENU_ID id="89">Magistrske naloge</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <TITLE titleType="Title" lang="slv">Bernot-politizacija_mnozic_na_Gorenjskem</TITLE>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <DATETIME_ADDED>2017-10-17 07:22:36</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-10-17 07:22:36</DATETIME_MODIFIED>
+        <USER_ID_ADDED>4</USER_ID_ADDED>
+        <PUBLICATION file="Bernot-politizacija_mnozic_na_Gorenjskem.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>36137</ID>
+        <URN>11686/36137</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CONTRIBUTOR>Irena Selišnik (mentor)</CONTRIBUTOR>
+        <CREATOR>
+            <IME>Damjan</IME>
+            <PRIIMEK>Oven</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date" format="W3CDTF">2016-01-01</DATE>
+        <MENU_ID id="89">Magistrske naloge</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons licenca" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />To <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">delo</span> avtorja <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.sistory.si/SISTORY:ID:36137" property="cc:attributionName" rel="cc:attributionURL">Damjan Oven</a> je ponujeno pod <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Priznanje avtorstva-Nekomercijalno-Brez predelav 4.0 International licenco</a>.]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Javnost in meščanstvo na Slovenskem v 19. stoletju</TITLE>
+        <SUBJECT lang="slv">slovensko meščanstvo</SUBJECT>
+        <SUBJECT lang="slv">19.st.</SUBJECT>
+        <SUBJECT lang="slv">časopisna poročanja</SUBJECT>
+        <SUBJECT lang="slv">liberalci</SUBJECT>
+        <SUBJECT lang="slv">Habermas, Jurgen</SUBJECT>
+        <SUBJECT lang="slv">magistrska dela</SUBJECT>
+        <SUBJECT lang="eng">Slovenian bourgeoisie</SUBJECT>
+        <SUBJECT lang="eng">19th century</SUBJECT>
+        <SUBJECT lang="eng">newspaper accounts</SUBJECT>
+        <SUBJECT lang="eng">liberals</SUBJECT>
+        <SUBJECT lang="eng">Habermas, Jurgen</SUBJECT>
+        <SUBJECT lang="slv">master's theses</SUBJECT>
+        <DESCRIPTION descriptionType="Abstracts" lang="slv">
+            Prispevek zadeva vprašanje slovenskega meščanstva v devetnajstem stoletju. Problematiko definiranja meščanstva, kot posebne družbene skupine, poskuša razrešiti z vpeljavo Habermasovega koncepta, tako imenovane »meščanske javnosti«. Tu ne gre za preprosto aplikacijo že obstoječe teorije, saj specifika avstrijskega prostora tega ne dopušča. Praktična analiza je postavljena v analizo slovenskega liberalnega periodičnega tiska. Pri čemer je kritično ovrednoten že sam koncept liberalen. Analiza je podrejena specifiki prostora. Pri tem se delo opredeljuje o izvoru slovenskega meščanstva, posledicam izvora ter o narodnem vprašanju. Delo analizira razmerje med družbeno skupino, katere osnovna lastnost je provincialnost in vršitev javne kritike
+        </DESCRIPTION>
+        <DESCRIPTION descriptionType="Abstracts" lang="eng">
+            This text analyzes Slovenian bourgeois society in 19. century. Theory is based on Jürgen Habermas concept of »public sphere«. It is based on analyzing Slovenian liberal periodical literature and on analyzing personal lives of specific Slovenians liberals. The text provides insides into censorships with public notoriety.
+        </DESCRIPTION>
+        <PUBLISHER>Univerza v Ljubljani; Filozofska fakulteta, Ljubljana</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>2016</YEAR>
+        <DATETIME_ADDED>2016-12-15 13:20:57</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-12-15 16:04:36</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="Damjan_Oven_Mescanska_javnost.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>31479</ID>
+        <URN>11686/31479</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CONTRIBUTOR>Bojan Balkovec (mentor)</CONTRIBUTOR>
+        <CREATOR>
+            <IME>Tadej</IME>
+            <PRIIMEK>Čopar</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date">2015</DATE>
+        <MENU_ID id="89">Magistrske naloge</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons licenca" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />To <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">delo</span> avtorja <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.sistory.si/SISTORY:ID:31479" property="cc:attributionName" rel="cc:attributionURL">Tadej Čopar</a> je ponujeno pod <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Priznanje avtorstva-Nekomercijalno-Brez predelav 4.0 International licenco</a>.]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Območje občine Šmartno pri Litiji med obema svetovnima vojnama</TITLE>
+        <TITLE titleType="Title" lang="eng">The area of municipality Šmartno pri Litiji during the interwar period</TITLE>
+        <SUBJECT lang="slv">Šmartno pri Litiji</SUBJECT>
+        <SUBJECT lang="slv">1918–1941</SUBJECT>
+        <SUBJECT lang="slv">občina</SUBJECT>
+        <SUBJECT lang="slv">gospodarstvo</SUBJECT>
+        <SUBJECT lang="slv">župnija</SUBJECT>
+        <SUBJECT lang="slv">šolstvo</SUBJECT>
+        <SUBJECT lang="slv">društva</SUBJECT>
+        <SUBJECT lang="eng">Šmartno pri Litiji</SUBJECT>
+        <SUBJECT lang="eng">1918–1941</SUBJECT>
+        <SUBJECT lang="eng">municipality</SUBJECT>
+        <SUBJECT lang="eng">economy</SUBJECT>
+        <SUBJECT lang="eng">parish</SUBJECT>
+        <SUBJECT lang="eng">schools</SUBJECT>
+        <SUBJECT lang="eng">societies</SUBJECT>
+        <DESCRIPTION descriptionType="Abstracts" lang="eng">
+            The undergraduate thesis treats the area of municipality Šmartno pri Litiji during the interwar period. Its starting part presents Šmartno pri Litiji before the described age and Slovenian population during the interwar period in general. In further parts it introduces different thematic chapters of the area of municipality Šmartno during the interwar period such as informations about extent, territorial changes and statistical data of municipality, political image, activities and development of municipality (elections at the state level, local elections, general political situation in municipality Šmartno, activities of municipality, municipal projects), economic and social image of Šmartno pri Litiji (lifestyle, ethos, effect of global events on Šmartno pri Litiji, natural disasters, economic situation, pubs, shops, small craft workshops, the tannery of Knaflič, Izgoršek`s factory for furniture and building material), the parish of Šmartno pri Litiji in this age (general informations about the parish in this age, works on church buildings, spiritual life in the parish of Šmartno, »Marijina druţba« – Mary company, constitution of parish Litija in 1936), schools (primary school in Šmartno pri Litiji, primary school in Velika Kostrevnica, craft continuation school in Šmartno pri Litiji, primary school in Javorje, civil school in Litija), »Prosvetno društvo« (Educational Society), »Sokoli« (Falcons), fire brigade in Šmartno pri Litiji and choral society »Zvon« (Bell).
+        </DESCRIPTION>
+        <DESCRIPTION descriptionType="Abstracts" lang="slv">
+            Magistrsko delo obravnava območje občine Šmartno pri Litiji med obema svetovnima vojnama (1918–1941). V začetnem delu predstavi Šmartno pri Litiji pred obravnavanim obdobjem in Slovence med obema vojnama na splošno. V nadaljevanju predstavi različne tematske sklope o območju občine Šmartno med obema vojnama: podatki o obsegu, ozemeljskih spremembah občine ter statistični podatki o občini, politična podoba ter delovanje in razvoj občine (volitve na državni ravni, lokalne volitve, splošno politično stanje v šmarski občini, delovanje občine, občinski projekti), gospodarska in socialna podoba Šmartna pri Litiji (način življenja, običaji, Šmartno v luči širših dogodkov, naravne nesreče, gospodarsko stanje, gostilne, trgovine, manjše obrtne delavnice, usnjarna Knaflič, Tovarna pohištva in stavbnega materiala Izgoršek), župnija Šmartno pri Litiji v tem obdobju (splošni podatki o župniji v tem obdobju, dela na cerkvenih zgradbah, duhovno življenje v šmarski župniji, Marijina družba, ustanovitev župnije Litija leta 1936), šolstvo (osnovna šola v Šmartnem pri Litiji, osnovna šola v Veliki Kostrevnici, obrtna nadaljevalna šola v Šmartnem pri Litiji, osnovna šola v Javorju, meščanska šola v Litiji), Prosvetno društvo, Sokoli, gasilsko društvo v Šmartnem pri Litiji in pevsko društvo Zvon.
+        </DESCRIPTION>
+        <PUBLISHER>Univerza v Ljubljani; Filozofska fakulteta, Ljubljana</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>2015</YEAR>
+        <DATETIME_ADDED>2015-10-16 07:29:03</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-11-22 16:48:59</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="ZG-magistrska-Tadej-Copar_x.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>30171</ID>
+        <URN>11686/30171</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CONTRIBUTOR>Miroslav Stiplovšek (mentor)</CONTRIBUTOR>
+        <CONTRIBUTOR>France Kresal (mentor)</CONTRIBUTOR>
+        <CREATOR>
+            <IME>Estera</IME>
+            <PRIIMEK>Cerar</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date">2003</DATE>
+        <MENU_ID id="89">Magistrske naloge</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons licenca" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />To <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">delo</span> avtorja <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.sistory.si/SISTORY:ID:30171" property="cc:attributionName" rel="cc:attributionURL">Estera Cerar</a> je ponujeno pod <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Priznanje avtorstva-Nekomercijalno-Brez predelav 4.0 International licenco</a>.]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Tekstilna obrt na Slovenskem med obema vojnama</TITLE>
+        <SUBJECT lang="slv">zgodovina</SUBJECT>
+        <SUBJECT lang="slv">gospodarska zgodovina</SUBJECT>
+        <SUBJECT lang="slv">tekstilna obrt</SUBJECT>
+        <SUBJECT lang="slv">1918-1941</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="eng">economic history</SUBJECT>
+        <SUBJECT lang="eng">textile crafts</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1918-1941</SUBJECT>
+        <DESCRIPTION descriptionType="Abstracts" lang="slv">
+            Slovenske dežele so bile v avstro-ogrski monarhiji med gospodarsko manj razvitimi pokrajinami. Industrije je bilo malo, prevladovala je drobna obrtna in manufakturna proizvodnja ter založništvo. Med tekstilnimi so prevladovale oblačilne obrti (krojaštvo, šiviljstvo, pletilstvo, klobučarstvo). Razvoj industrializacije je obrtništvu prepustil storitve, obrtna proizvodnja pa se je umaknila industrijski. Po prevratu se je položaj spremenil, kajti Slovenija je postala gospodarsko in tehnološko najrazvitejši del pretežno agrarne Kraljevine SHS.Tekstilna industrija v Sloveniji je v obdobju med obema vojnama  doživela velik razcvet in postala najpomembnejša industrijska panoga. Važno vlogo v gospodarstvu pa so predstavljali tudi obrtniki, med katerimi so krojači, šivilje in pletilci imeli pomemben delež.
+        </DESCRIPTION>
+        <PUBLISHER>Univerza v Ljubljani,  Filozofska fakulteta; Ljubljana</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>2003</YEAR>
+        <DATETIME_ADDED>2014-12-24 12:23:21</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-11-22 16:47:42</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="Cerar-magisterij.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>10483</ID>
+        <URN>11686/10483</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CONTRIBUTOR>Janez Marolt (mentor)</CONTRIBUTOR>
+        <CREATOR>
+            <IME>Robin</IME>
+            <PRIIMEK>Dewa</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date">2011</DATE>
+        <MENU_ID id="89">Magistrske naloge</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/2.5/si/"><img alt="Creative Commons licenca" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-nd/2.5/si/88x31.png" /></a><br />To <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">delo</span> avtorja <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.sistory.si/?urn=SISTORY:ID:10483" property="cc:attributionName" rel="cc:attributionURL">Robin Dewa</a> je ponujeno pod <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/2.5/si/">Creative Commons Priznanje avtorstva-Nekomercialno-Brez predelav 2.5 Slovenija licenco</a>.]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Zgodovina Indonezije - starejša obdobja</TITLE>
+        <TITLE titleType="Title" lang="eng">History of Indonesia – Ancient Periods</TITLE>
+        <SUBJECT lang="slv">poselitev</SUBJECT>
+        <SUBJECT lang="slv">Nusantao</SUBJECT>
+        <SUBJECT lang="slv">Lapita</SUBJECT>
+        <SUBJECT lang="slv">Avstronezijci</SUBJECT>
+        <SUBJECT lang="slv">nastanek hinduističnih in budističnih držav</SUBJECT>
+        <SUBJECT lang="slv">islamizacija</SUBJECT>
+        <SUBJECT lang="slv">kitajski vpliv</SUBJECT>
+        <SUBJECT lang="slv">portugalska kolonizacija</SUBJECT>
+        <DESCRIPTION descriptionType="Abstracts" lang="eng">
+            Indonesia is the Republic in Southeast Asia and is the largest archipelago in the world. It is very rich in history and some of the important world events took place there. It was one of the first places to be colonized by ancient hominin migration out of Africa ca. 2 million years ago (Javanese Homo erectus specimen, Homo floresiensis or Hobbit ...) as well as the area of ancient natural catastrophes such as volcano eruptions, tsunamis and floodings which affected the history of humankind (Toba volcano eruption 74000 BCE, Sundaland or Indonesian Atlantis drowning around 12000 BCE and Krakatau volcano eruption around 535 AD). Littleknown ancient migrations started from this area as Indonesia is the homeland of Austronesians with Austronesian languages widely dispersed throughout the islands of Southeast Asia and the Pacific, with a few members spoken on continental Asia and Madagascar. Ancient transcontinental migrations are described with a focus on Austronesian traces in Americas, Pacific, Mainland Asia, Middle East and even Europe. As a rich source of spices, resins, plants and minerals, the present-day area of Indonesia attracted numerous traders from all over the Old World, and as the source of myths of Paradise, Garden of Eden and other religious themes, Indonesia attracted various travellers and pilgrims of various religions too. Indonesia was greatly influenced by Hinduism and Buddhism but later on Islam took over and has become the main religion in Indonesia now. Indonesia had two great empires in the Middle Ages, Srivijaya and Majapahit, which included areas of neighbouring states. Java’s magnificent Borobudur is the biggest Buddhist temple in the world. Musliminfluences came from various sources, mostly Arabian, Indian and Chinese. Zheng He’s voyages both to Indonesia and elsewhere are described as well as his legacy. First Christian communities in Indonesia did not arise from European missionaries but from the missionary activities of the Assyrian Church of the East (commonly known as Nestorian Christianity) based in the present-day Iraq. European contacts with Indonesia are described up to the Portuguese conquests in the 16th century, including first Slovene contacts with Indonesia via travels of Odoric of Pordenone...
+        </DESCRIPTION>
+        <DESCRIPTION descriptionType="Abstracts" lang="slv">
+            Indonezijsko področje je odigralo pomembno vlogo v zgodovini. Ena izmed prvih sledi selitve homininov (vrste Homo erectus ali morda še kakšne prej) iz Afrike vodi prav v Indonezijo, kjer najdemo t. i. javanskega človeka že pred 1,8 milijona let. V Indoneziji se je vrsta Homo erectus razvila v t. i. velikane megantrope, ista ali pa še starejša vrsta homininov pa v pritlikavce iz Floresa, z vzdevkom hobit. Zadnje raziskave so pokazale, da so bili hominini, še posebej Homo erectus, veliko bolj razviti, kot se je do sedaj domnevalo...
+        </DESCRIPTION>
+        <PUBLISHER>Univerza v Ljubljani; Filozofska fakulteta, Ljubljana</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>2011</YEAR>
+        <DATETIME_ADDED>2012-08-01 11:23:04</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-11-22 16:47:02</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="ZGODOVINA INDONEZIJE.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>3037</ID>
+        <URN>11686/3037</URN>
+        <CHILD_ORDER>6442</CHILD_ORDER>
+        <CONTRIBUTOR>Marko Štuhec (mentor)</CONTRIBUTOR>
+        <CREATOR>
+            <IME>Bogdan</IME>
+            <PRIIMEK>Šteh</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date">2010</DATE>
+        <MENU_ID id="89">Magistrske naloge</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/2.5/si/"><img alt="Creative Commons licenca" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-nd/2.5/si/88x31.png" /></a><br />To <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">delo</span> avtorja <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.sistory.si/?urn=SISTORY:ID:3037" property="cc:attributionName" rel="cc:attributionURL">Bogdan Šteh</a> je ponujeno pod <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/2.5/si/">Creative Commons Priznanje avtorstva-Nekomercialno-Brez predelav 2.5 Slovenija licenco</a>.]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Zapuščinski inventarji kranjskega plemstva s konca 18. stoletja kot zgodovinski vir</TITLE>
+        <SUBJECT lang="slv">magistrske naloge</SUBJECT>
+        <SUBJECT lang="slv">zapuščinski inventarji</SUBJECT>
+        <SUBJECT lang="slv">inventarji</SUBJECT>
+        <SUBJECT lang="slv">zapuščine</SUBJECT>
+        <SUBJECT lang="slv">kranjsko plemstvo</SUBJECT>
+        <SUBJECT lang="slv">18. stoletje</SUBJECT>
+        <SUBJECT lang="slv">zgodovinski viri</SUBJECT>
+        <SUBJECT lang="slv">vsakdanje življenje</SUBJECT>
+        <SUBJECT lang="eng">legacy</SUBJECT>
+        <SUBJECT lang="eng">inventory</SUBJECT>
+        <SUBJECT lang="eng">18th century</SUBJECT>
+        <DESCRIPTION descriptionType="Abstracts" lang="slv">
+            Namen magistrskega dela je bil pokazati, kako se informacije iz zapuščinskih inventarjev lahko uporabijo za predstavitev materialne kulture kranjskega plemstva ob koncu 18. stoletja oziroma v izbranem obdobju med leti 1790 in 1800. Najprej smo želeli pokazati na značilnosti inventarjev iz izbranega obdobja in opozoriti na pomanjkljivosti vira, s katerimi se bomo srečali pri poskusu njegove uporabe za opis materialne kulture kranjskega plemstva vizbranem obdobju. Z ozirom na raziskave opravljene na istih virih za prejšnja obdobja lah ugotovimo, da natančnost popisa stvari, ki jih je zapustil pokojnik, pada. Inventar nam še vedno dokaj natančno daje podatke za dele premoženja, ki so k skupni vsoti prispevali največ: posestva in druge nepremičnine, zadolžnice, vrednostne papirje, dajatve, dragocenosti, veliko (tudi če sama vrednost ne prispeva toliko k skupnem premoženju) izvemo tudi o stanovanjski opremi in oblačilih plemstva.
+        </DESCRIPTION>
+        <PUBLISHER>Univerza v Ljubljani; Filozofska fakulteta, Ljubljana</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>2010</YEAR>
+        <DATETIME_ADDED>2012-07-31 09:26:24</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-11-22 16:45:36</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="ZAPUscINSKI INVENTARJI KRANJSKEGA PLEMSTVA.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>925</ID>
+        <URN>11686/925</URN>
+        <CHILD_ORDER>6441</CHILD_ORDER>
+        <CONTRIBUTOR>Janez Cvirn (mentor)</CONTRIBUTOR>
+        <CONTRIBUTOR>Jasna Fischer (mentor)</CONTRIBUTOR>
+        <CREATOR>
+            <IME>Andrej</IME>
+            <PRIIMEK>Pančur</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date">1999</DATE>
+        <MENU_ID id="89">Magistrske naloge</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/2.5/si/"><img alt="Creative Commons licenca" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-nd/2.5/si/88x31.png" /></a><br />To <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">delo</span> avtorja <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.sistory.si/?urn=SISTORY:ID:925" property="cc:attributionName" rel="cc:attributionURL">Andrej Pančur</a> je ponujeno pod <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/2.5/si/">Creative Commons Priznanje avtorstva-Nekomercialno-Brez predelav 2.5 Slovenija licenco</a>.]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Gospodarski in socialni nazori v 80. in 90. letih 19. stoletja na Slovenskem</TITLE>
+        <SUBJECT lang="slv">gospodarstvo</SUBJECT>
+        <SUBJECT lang="slv">socialna zgodovina</SUBJECT>
+        <SUBJECT lang="slv">19. stoletje</SUBJECT>
+        <SUBJECT lang="slv">obrtništvo</SUBJECT>
+        <SUBJECT lang="slv">denar</SUBJECT>
+        <SUBJECT lang="eng">economy</SUBJECT>
+        <SUBJECT lang="eng">social history</SUBJECT>
+        <SUBJECT lang="eng">19th century</SUBJECT>
+        <SUBJECT lang="eng">tradespeople</SUBJECT>
+        <SUBJECT lang="eng">crafts</SUBJECT>
+        <DESCRIPTION descriptionType="Abstracts" lang="slv">
+            Pričujoča magistrska naloga nosi naslov Gospodarski in socialni nazori v osemdesetih in devetdesetih letih 19. stoletja na Slovenskem. Ko sem začel zbirati gradivo za to temo, sem kmalu ugotovil, da obstaja veliko zelo bogatih virov. Zaradi obilice vseh teh virov v magisteriju nisem mogel zajeti prav vseh vidikov takratne socialne in gospodarske miselnosti. Za svojo nalogo sem še največ našel v slovenskih časopisih kot so Slovenec, Slovenski narod, Slovenski gospodar, Novice in Edinost. Od nemskih časopisov se je za najbolj bogat vir izkazal Marburger Zeitung in delno tudi Laibacher Tagblatt/Wochenblatt. Tudi v ostalih pregledanih časopisih (glej literaturo) sem našel mnogo člankov, ki opisujejo obravnavano problematiko. V slednjih nisem našel le člankov, iz katerih lahko razberemo gospodarske in socialne nazore tedanjega časa, temveč tudi. serije člankov, ki so v stilu daljših razprav izhajale v nadaljevanjih. Več razprav sem našel tudi v različnih tedanjih revijah, zlasti v Čitalnici, Domu in svetu, Katoliškemu obzorniku, Zvonu, v nemško pisanem Zeitschrift für Volkswirtschaft Sozialpolitik und Verwaltung In v Verhandlungen und Mittheilungen der juristischen Gesellschaft in Laibach...
+        </DESCRIPTION>
+        <PUBLISHER>Univerza v Ljubljani; Filozofska fakulteta, Ljubljana</PUBLISHER>
+        <COVERAGE coverageType="Coverage" lang="slv">Slovenija, 19. stoletje</COVERAGE>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1999</YEAR>
+        <DATETIME_ADDED>2012-07-31 09:26:34</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-11-22 16:44:58</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="Andrej_Pancur-Gospodarski_in_socialni_nazori-magistrska naloga.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+</root>

@@ -1,0 +1,89 @@
+<root>
+    <publication>
+        <ID>31014</ID>
+        <URN>11686/31014</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CONTRIBUTOR>Jože Dežman (gl. in odg. ur.)</CONTRIBUTOR>
+        <DATE type="Date">1996</DATE>
+        <MENU_ID id="80">Borec</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <TITLE titleType="Title" lang="slv">Borec, 1996, št. 553-554</TITLE>
+        <TITLE titleType="Alternative Title" lang="eng">Borec, 1996, no. 553-554</TITLE>
+        <PUBLISHER>Kulturni center Ivana Napotnika, Velenje</PUBLISHER>
+        <PUBLISHER>Društvo za preučevanje zgodovine, literature in antropologije, Ljubljana</PUBLISHER>
+        <LINK>http://www.sistory.si/SISTORY:ID:20251</LINK>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1996</YEAR>
+        <DATETIME_ADDED>2015-06-01 14:39:59</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-12-16 17:58:08</DATETIME_MODIFIED>
+        <USER_ID_ADDED>11</USER_ID_ADDED>
+        <IMAGE>ob-zibeli.png</IMAGE>
+    </publication>
+    <publication>
+        <ID>20228</ID>
+        <URN>11686/20228</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CONTRIBUTOR>Milena Štrajnar (gl. in odg. ur.)</CONTRIBUTOR>
+        <CONTRIBUTOR>Sonja Likar (lekt.)</CONTRIBUTOR>
+        <DATE type="Date">1991</DATE>
+        <MENU_ID id="80">Borec</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/2.5/si/"><img alt="Creative Commons licenca" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-nd/2.5/si/88x31.png" /></a><br />To <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">delo</span> avtorja <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.sistory.si/?urn=SISTORY:ID:20227" property="cc:attributionName" rel="cc:attributionURL">Aleš Gabrič</a> je ponujeno pod <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/2.5/si/">Creative Commons Priznanje avtorstva-Nekomercialno-Brez predelav 2.5 Slovenija licenco</a>.]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Borec, 1991, št. 7-8-9</TITLE>
+        <TITLE titleType="Alternative Title" lang="eng">Borec, 1991, no. 7-8-9</TITLE>
+        <PUBLISHER>Mladika, Ljubljana</PUBLISHER>
+        <LINK>http://www.sistory.si/SISTORY:ID:20227</LINK>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1991</YEAR>
+        <DATETIME_ADDED>2013-09-20 12:52:24</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-12-16 17:56:52</DATETIME_MODIFIED>
+        <USER_ID_ADDED>11</USER_ID_ADDED>
+        <IMAGE>neimenovano.png</IMAGE>
+    </publication>
+    <publication>
+        <ID>785</ID>
+        <URN>11686/785</URN>
+        <CHILD_ORDER>3376</CHILD_ORDER>
+        <CONTRIBUTOR>Milena Štrajnar (gl. in odg. ur.)</CONTRIBUTOR>
+        <CONTRIBUTOR>Sonja Likar (lekt.)</CONTRIBUTOR>
+        <DATE type="Date">1992</DATE>
+        <MENU_ID id="80">Borec</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/2.5/si/"><img alt="Creative Commons licenca" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-nd/2.5/si/88x31.png" /></a><br />To <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">delo</span> avtorja <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.sistory.si/?urn=SISTORY:ID:785" property="cc:attributionName" rel="cc:attributionURL">Božo Repe</a> je ponujeno pod <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/2.5/si/">Creative Commons Priznanje avtorstva-Nekomercialno-Brez predelav 2.5 Slovenija licenco</a>.]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Borec, 1992, št. 9-10</TITLE>
+        <TITLE titleType="Title" lang="slv">Revija za zgodovino, literaturo in antropologijo</TITLE>
+        <TITLE titleType="Alternative Title" lang="eng">Borec, 1992, no. 9-10</TITLE>
+        <TITLE titleType="Alternative Title" lang="eng">Revija za zgodovino, literaturo in antropologijo</TITLE>
+        <DESCRIPTION descriptionType="Description" lang="slv">
+            <p>Z »liberalizmom« v povojni slovenski in jugoslovanski zgodovini označujemo obdobje _ med sredino šestdesetih in sredino sedemdesetih let, ko je znotraj edine in vladajoče stranke Zveze komunistov Jugoslavije (ZKJ) prišlo do pomembnih demokratičnih sprememb, ki so odsevale tudi v družbi. Ti procesi so bili nasilno pretrgani v prvi polovici sedemdesetih let. Najmočnejša demokratična gibanja so bila v Sloveniji, na Hrvaškem in v Srbiji, do izraza pa so prišla tudi v Makedoniji. Ponekod so se izražala tudi v poudarjenih poskusih nacionalne afirmacije (Slovenija, Makedonija), pri čemer je prihajalo tudi do nacionalizma (Hrvaška). Partijski »liberalizem« s klasičnim (meščanskim) nima razen nekaterih najbolj splošnih demokratičnih postavk nobene zveze.</p>
+        </DESCRIPTION>
+        <DESCRIPTION descriptionType="Description" lang="eng">
+            <p>In post-war Slovene and Yugoslav history, the term "liberalism" is used to denote the period between the mid-sixties and mid-seventies. It was the time when important democratic changes occurred within the only and leading party, the Communist Party of Yugoslavia (CPY), which was also reflected in society. Democratic processes were forcibly interrupted in the first half of the seventies. Democratic movements were the strongest in Slovenia, Croatia and Serbia, and they also gained ground in Macedonia. In places they were expressed as attempts at national affirmation (Slovenia, Macedonia), which sometimes led to nationalism (Croatia). Party "liberalism" is in no way related to classic liberalism, except in a few fundamental democratic principles. The democratic movements in the sixties had their precedents. The transition from a multi-party to a one-party system in the first post-war years in Yugoslavia was fast and forcible, but traces of pluralism remained. The same was true of Slovenia, where the process was completed during the war with the so-called "Dolomite Declaration" (adopted on 1st March, 1943); with the Declaration, the Liberation Front lost, its coalitional character, while two of the founding groups (the Christian Socialist and the Sokoli) renounced their independent (Party) political activities.</p>
+        </DESCRIPTION>
+        <PUBLISHER>RO ZZB NOV Slovenije, Ljubljana</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1992</YEAR>
+        <DATETIME_ADDED>2011-11-03 11:13:32</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-03-06 08:54:04</DATETIME_MODIFIED>
+        <USER_ID_ADDED>100</USER_ID_ADDED>
+        <PUBLICATION file="BOREC_1992_09-10.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+</root>

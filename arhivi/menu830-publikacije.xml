@@ -1,0 +1,54 @@
+<root>
+    <publication>
+        <ID>37877</ID>
+        <URN>11686/37877</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CREATOR2 lang="slv">Kranjski deželni zbor</CREATOR2>
+        <MENU_ID id="830">3. perioda (1870-1871)</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <LANGUAGE lang="deu">3</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title">Obravnave deželnega zbora Kranjskega v Ljubljani v prvi sesiji tretje volitvene dobe od 15. do 30. avgusta 1870.
+Obravnave deželnega zbora Kranjskega v Ljubljani v drugi sesiji tretje volitvene dobe od 14. septembra do 14. oktobra 1871.</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:37877" rel="dct:creator"><span property="dct:title">Verlag des krainischen Landesausschusses</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+To delo avtorskopravno ni varovano.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Obravnave_deželnega_zbora_20.8.1870-30.8.1870, 14.9.1871-14.10.1871</TITLE>
+        <TITLE titleType="Title" lang="eng">Provincial_Assembly_Debates_20.8.1870-30.8.1870, 14.9.1871-14.10.1871</TITLE>
+        <TITLE titleType="Alternative Title" lang="deu">Bericht_des krainischen_Landtages_20.8.1870-30.8.1870, 14.9.1871-14.10.1871</TITLE>
+        <SUBJECT lang="slv">deželna avtonomija</SUBJECT>
+        <SUBJECT lang="slv">Kranjska</SUBJECT>
+        <SUBJECT lang="eng">provincial autonomy</SUBJECT>
+        <SUBJECT lang="eng">Carniola</SUBJECT>
+        <DESCRIPTION descriptionType="Description" lang="slv">
+            Originalni naslov:
+Obravnave deželnega zbora Kranjskega v Ljubljani v prvi sesiji tretje volitvene dobe od 15. do 30. avgusta 1870.
+Obravnave deželnega zbora Kranjskega v Ljubljani v drugi sesiji tretje volitvene dobe od 14. septembra do 14. oktobra 1871.
+        </DESCRIPTION>
+        <DESCRIPTION descriptionType="Description" lang="eng">
+            Original title:
+Obravnave deželnega zbora Kranjskega v Ljubljani v prvi sesiji tretje volitvene dobe od 15. do 30. avgusta 1870.
+Obravnave deželnega zbora Kranjskega v Ljubljani v drugi sesiji tretje volitvene dobe od 14. septembra do 14. oktobra 1871.
+        </DESCRIPTION>
+        <PUBLISHER>Kranjski deželni zbor, Ljubljana</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1870</YEAR>
+        <DATETIME_ADDED>2017-06-30 13:37:37</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-06-30 16:03:13</DATETIME_MODIFIED>
+        <USER_ID_ADDED>78</USER_ID_ADDED>
+        <PUBLICATION file="Obravnave_deželnega_zbora_20.8.1870-30.8.1870.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+</root>

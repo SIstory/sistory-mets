@@ -1,0 +1,43 @@
+<root>
+    <publication>
+        <ID>1564</ID>
+        <URN>11686/1564</URN>
+        <CHILD_ORDER>6843</CHILD_ORDER>
+        <CONTRIBUTOR>Borut Praper (prev. ang.)</CONTRIBUTOR>
+        <CONTRIBUTOR>Aleš Gabrič (ur.)</CONTRIBUTOR>
+        <CREATOR>
+            <IME>Jurij</IME>
+            <PRIIMEK>Perovšek</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date">2009</DATE>
+        <MENU_ID id="372">Monografije</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons licenca" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />To <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">delo</span> avtorja <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.sistory.si/SISTORY:ID:1564" property="cc:attributionName" rel="cc:attributionURL">Jurij Perovšek</a> je ponujeno pod <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Priznanje avtorstva-Nekomercijalno-Brez predelav 4.0 International licenco</a>.]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">"V zaželjeni deželi"</TITLE>
+        <TITLE titleType="Title" lang="slv">Slovenska izkušnja s Kraljevino SHS/Jugoslavijo 1918 - 1941</TITLE>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">Jugoslavija</SUBJECT>
+        <SUBJECT lang="slv">1918-1941</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">Yugoslavia</SUBJECT>
+        <SUBJECT lang="eng">1918-1941</SUBJECT>
+        <PUBLISHER>Inštitut za novejšo zgodovino, Ljubljana</PUBLISHER>
+        <COLLECTION>Zbirka Razpoznavanja = Recognitiones; 9</COLLECTION>
+        <COVERAGE coverageType="Coverage" lang="slv">Jugoslavija, 1918-1941</COVERAGE>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>2009</YEAR>
+        <DATETIME_ADDED>2011-11-02 09:23:57</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-09-20 12:04:28</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="V zazeljeni dezeli.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+        <IMAGE>V zazeljeni dezeli.jpg</IMAGE>
+    </publication>
+</root>

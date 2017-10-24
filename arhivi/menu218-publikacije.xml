@@ -1,0 +1,440 @@
+<root>
+    <publication>
+        <ID>38054</ID>
+        <URN>11686/38054</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date" format="Period">
+            <START>1933</START>
+            <END>1940</END>
+            <NAME></NAME>
+            <SCHEME></SCHEME>
+        </DATE>
+        <MENU_ID id="218">Knjižice in brošure</MENU_ID>
+        <LANGUAGE lang="srp">5</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Slika">3</TYPE>
+        <TYPE_DC title="Image">4</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title">Ознаке војних и цивилних авиона и хидроавиона појединих држава</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:38054" rel="dct:creator"><span property="dct:title">unknown</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+To delo avtorskopravno ni varovano.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="srp">Ознаке војних и цивилних авиона и хидроавиона појединих држава</TITLE>
+        <TITLE titleType="Title" lang="srp">Oznake vojnih i civilnih aviona i hidroaviona pojedinih država</TITLE>
+        <SUBJECT lang="slv">plakat</SUBJECT>
+        <SUBJECT lang="slv">letalske oznake</SUBJECT>
+        <SUBJECT lang="slv">medvojno obdobje</SUBJECT>
+        <SUBJECT lang="eng">poster</SUBJECT>
+        <SUBJECT lang="eng">airplane marks</SUBJECT>
+        <SUBJECT lang="eng">interwar period</SUBJECT>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <DATETIME_ADDED>2017-10-17 08:04:16</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-10-17 17:25:25</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="vojne_oznake.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>38053</ID>
+        <URN>11686/38053</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date" format="W3CDTF">1933-01-01</DATE>
+        <MENU_ID id="218">Knjižice in brošure</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title">Slovenske gorice - vzhodni del, Ptuj in Haloze</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:38053" rel="dct:creator"><span property="dct:title">Drogerija Gregorič, Ljubljana</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+To delo avtorskopravno ni varovano.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Slovenske gorice - vzhodni del, Ptuj in Haloze</TITLE>
+        <SUBJECT lang="slv">Slovenske Gorice</SUBJECT>
+        <SUBJECT lang="slv">turistični vodnik</SUBJECT>
+        <SUBJECT lang="slv">Ptuj</SUBJECT>
+        <SUBJECT lang="slv">Velika Nedelja</SUBJECT>
+        <SUBJECT lang="slv">Ormož</SUBJECT>
+        <SUBJECT lang="slv">Središče ob Dravi</SUBJECT>
+        <SUBJECT lang="slv">Ljutomer</SUBJECT>
+        <SUBJECT lang="slv">Radenci</SUBJECT>
+        <SUBJECT lang="slv">Kapela</SUBJECT>
+        <SUBJECT lang="slv">Gornja Radgona</SUBJECT>
+        <SUBJECT lang="slv">Haloze</SUBJECT>
+        <SUBJECT lang="eng">tourist guide</SUBJECT>
+        <DESCRIPTION descriptionType="Description" lang="slv">
+            Priloga Fotoamaterja, 1933, št. 20
+        </DESCRIPTION>
+        <PUBLISHER>Drogerija Gregorič, Ljubljana</PUBLISHER>
+        <PUBLISHER>Tujsko prometna zveza, Maribor</PUBLISHER>
+        <PUBLISHER>Društvo prijateljev Slovenskih goric, Ljubljana</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1933</YEAR>
+        <DATETIME_ADDED>2017-10-17 08:03:45</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-10-17 17:44:56</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="slovenske_gorice.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>37893</ID>
+        <URN>11686/37893</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CREATOR>
+            <IME>Sh.</IME>
+            <PRIIMEK>Leave</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date" format="W3CDTF">1945-01-01</DATE>
+        <MENU_ID id="218">Knjižice in brošure</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title">Vojna ekonomija Združenih držav ameriških</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:37893" rel="dct:creator"><span property="dct:title">Sh. Leave</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+To delo avtorskopravno ni varovano.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Vojno gospodarstvo Združenih držav ameriških</TITLE>
+        <SUBJECT lang="slv">zgodovina</SUBJECT>
+        <SUBJECT lang="slv">druga svetovna vojna</SUBJECT>
+        <SUBJECT lang="slv">ekonomija</SUBJECT>
+        <SUBJECT lang="eng">history</SUBJECT>
+        <SUBJECT lang="eng">WW II</SUBJECT>
+        <SUBJECT lang="eng">economy</SUBJECT>
+        <PUBLISHER>Propagandna komisija pri IOOF, Ljubljana</PUBLISHER>
+        <COLLECTION>Knjižnica svetovnih političnih vprašanj; 1</COLLECTION>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1945</YEAR>
+        <DATETIME_ADDED>2017-07-04 14:27:10</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-07-04 16:54:56</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="vojno_gospodarstvo_ZDA.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>37892</ID>
+        <URN>11686/37892</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CREATOR>
+            <IME>Hans</IME>
+            <PRIIMEK>Spitzy</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date" format="W3CDTF">1917-01-01</DATE>
+        <MENU_ID id="218">Knjižice in brošure</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title">Naši vojni pohabljenci</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:37892" rel="dct:creator"><span property="dct:title">Hans Spitzy</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+To delo avtorskopravno ni varovano.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Naši vojni pohabljenci: zdravilne in oskrbovalne naprave: z 89 podobami</TITLE>
+        <TITLE titleType="Title" lang="slv">po izdaji H. Spitzyja priredil ***</TITLE>
+        <SUBJECT lang="slv">prva svetovna vojna</SUBJECT>
+        <SUBJECT lang="slv">medicina</SUBJECT>
+        <SUBJECT lang="eng">WW I</SUBJECT>
+        <SUBJECT lang="eng">medicine</SUBJECT>
+        <PUBLISHER>Društvo Dobrodelnost, Ljubljana</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1917</YEAR>
+        <DATETIME_ADDED>2017-07-04 14:26:46</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-07-04 16:41:14</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="nasi_vojni_pohabljenci.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>37891</ID>
+        <URN>11686/37891</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CREATOR>
+            <IME>Metod</IME>
+            <PRIIMEK>Mikuž</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date" format="W3CDTF">1944-01-01</DATE>
+        <MENU_ID id="218">Knjižice in brošure</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons licenca" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />To <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">delo</span> avtorja <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.sistory.si/SISTORY:ID:37891" property="cc:attributionName" rel="cc:attributionURL">Metod Mikuž</a> je ponujeno pod <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Priznanje avtorstva-Nekomercijalno-Brez predelav 4.0 International licenco</a>.]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Mama, zbudi se vendar...</TITLE>
+        <TITLE titleType="Alternative Title" lang="slv">Mamica, zbudi se vendar</TITLE>
+        <SUBJECT lang="slv">leposlovje</SUBJECT>
+        <SUBJECT lang="slv">NOB</SUBJECT>
+        <SUBJECT lang="slv">druga svetovna vojna</SUBJECT>
+        <SUBJECT lang="eng">literature</SUBJECT>
+        <SUBJECT lang="eng">national liberation struggle</SUBJECT>
+        <SUBJECT lang="eng">WW II</SUBJECT>
+        <PUBLISHER>Agitprop NOOF, Maribor</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1944</YEAR>
+        <DATETIME_ADDED>2017-07-04 14:26:24</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-07-04 16:28:30</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="mamica_zbudi_se.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>37890</ID>
+        <URN>11686/37890</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CREATOR>
+            <IME>C.</IME>
+            <PRIIMEK>Stojanovich</PRIIMEK>
+        </CREATOR>
+        <CREATOR>
+            <IME>Kosta</IME>
+            <PRIIMEK>Stojanović</PRIIMEK>
+        </CREATOR>
+        <CREATOR2 lang="ita">C. Stojanovich, Ex-Ministro del Commercio nel Regno di Serbia</CREATOR2>
+        <DATE type="Date" format="W3CDTF">1918-01-01</DATE>
+        <MENU_ID id="218">Knjižice in brošure</MENU_ID>
+        <LANGUAGE lang="ita">8</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title">Il movimento commerciale della Serbia</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:37890" rel="dct:creator"><span property="dct:title">Kosta Stojanović</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+To delo avtorskopravno ni varovano.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="ita">Il movimento commerciale della Serbia</TITLE>
+        <TITLE titleType="Title" lang="ita">Estratto dal Corriere Economico, anno III, numeri 30-31</TITLE>
+        <SUBJECT lang="slv">ekonomija</SUBJECT>
+        <SUBJECT lang="slv">Kraljevina Srbija</SUBJECT>
+        <SUBJECT lang="eng">economy</SUBJECT>
+        <SUBJECT lang="eng">Kingdom of Serbia</SUBJECT>
+        <PUBLISHER>Casa editrice Italiana, Roma</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1918</YEAR>
+        <DATETIME_ADDED>2017-07-04 14:26:01</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-07-04 16:21:38</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="Il_movimento_commerciale_della_Serbia.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>37889</ID>
+        <URN>11686/37889</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CREATOR>
+            <IME>Paolo</IME>
+            <PRIIMEK>Sema</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date" format="W3CDTF">1969-01-30</DATE>
+        <MENU_ID id="218">Knjižice in brošure</MENU_ID>
+        <LANGUAGE lang="ita">8</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title">Il Governo si impegni ad affrontare ed a risolvere il problema degli Sloveni e del Friuli-Venezia Giulia</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:37889" rel="dct:creator"><span property="dct:title">Paolo Sema</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+To delo avtorskopravno ni varovano.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="ita">Il Governo si impegni ad affrontare ed a risolvere il problema degli Sloveni e del Friuli-Venezia Giulia</TITLE>
+        <TITLE titleType="Title" lang="ita">Intervento alla 1a Commissione Interni del Senato sul bilancio dello Stato il 30 gennaio 1969</TITLE>
+        <SUBJECT lang="slv">Slovenci v Italiji</SUBJECT>
+        <SUBJECT lang="slv">parlamentarna razprava</SUBJECT>
+        <SUBJECT lang="eng">Slovenes in Italy</SUBJECT>
+        <SUBJECT lang="eng">parlamentary debate</SUBJECT>
+        <PUBLISHER>Aziende tipografiche eredi dott. G. Bardi, Roma</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1969</YEAR>
+        <DATETIME_ADDED>2017-07-04 14:25:39</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-07-04 16:21:51</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="Il_Governo_si_impegni_ad_affrontare.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>37888</ID>
+        <URN>11686/37888</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CONTRIBUTOR>Jožef Rozman (ur.)</CONTRIBUTOR>
+        <CREATOR>
+            <IME>Friderik Irenej</IME>
+            <PRIIMEK>Baraga</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date" format="W3CDTF">1905-01-01</DATE>
+        <MENU_ID id="218">Knjižice in brošure</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title"> Dušna paša: za kristjane, ki želé v duhu in v resnici moliti Boga</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:37888" rel="dct:creator"><span property="dct:title">Friderik Irinej Baraga</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+To delo avtorskopravno ni varovano.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Dušna paša: za kristjane, ki želé v duhu in v resnici moliti Boga</TITLE>
+        <SUBJECT lang="slv">molitvenik</SUBJECT>
+        <SUBJECT lang="eng">prayer</SUBJECT>
+        <DESCRIPTION descriptionType="Description" lang="slv">
+            Odbor dražbe sv. Mohorja je vsled večstranskih želj sklenil, da na novo izda znameniti molitvenik „Dušna paša za kristjane, kateri žele v duhu in v resnici moliti Boga“, kateri molitvenik je svojim rojakom spisal poznejši slavni amerikanski škof, takrat še kaplan v Metliki na Dolenjskem, Friderik Baraga. Kakor je dražba svojim udom zelo ustregla, ko jim je l. 1893 in 1894 podala v novi obliki molitvenika „Življenja srečen pot“ in „Krščansko devištvo“, ki jih je spisal škof Anton Martin Slomšek, tako se nadejamo, da dragim Slovencem vstrežemo tudi z novo izdajo priljubljenega molitvenika drugega slovenskega škofa, Friderika Barage. Prvikrat je »Dušna paša« izšla leta 1830 z dostavkom: „V natis teh bukev so milostljivi knez, gospod, gospod Anton Alojzij, ljubljanski škof, 20. grudna 1828 dovolili.“ — O vrednosti in pomenu našega molitvenika piše znani slovstvenik Josip Marn: „Kakor se je bila prikupila vernim Slovencem J. Golmajrova »Sveta maša in krščansko premišljevanje na vsak dan meseca iz sv. pisma«, ki se je bila od l. 1783 do 1826 natisnila šestnajstkrat, tako se je priljubila nam tudi »Dušna paša«, katera je bila l. 1854 razširjena že v več kakor 27.000 iztisih, in je prikazala se l. 1858 na svetlo sedmikrat, v sedanjem pravopisu, v večji in manjši obliki. — V kratkem predgovoru opominja kristjana, da naj Boga moli v duhu in v resnici; v bukvah pa, ki so res, kar kaže njih ime, prava dušna paša, mu k temu tudi pomaga. Vse je v njih prav prisrčno in pobožno. Česar e polno srce, rado izgre — v besedo in pismo. To je izpolnil Baraga. — Veliko dobrih in lepih molitvenih bukvic smo dobili Slovenci pozneje, vendar segajo posebno stareji radi še sedaj po »Dušni paši«, katera jim zadostuje v vseh dušnih potrebah. To je vernim Slovencem prava duhovna čebelica, s katero si pasejo svojo dušo ter nabirajo sladke strdi za večno življenje.“ Pri prirejanju nove izdaje smo pazili na to, da podamo Baragov molitvenik kolikor mogoče popolen po prvih izdajah. Vrsto molitev pa smo po nekod premenili radi večje preglednosti.
+        </DESCRIPTION>
+        <PUBLISHER>Družba sv. Mohorja, Celovec</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1905</YEAR>
+        <DATETIME_ADDED>2017-07-04 14:25:11</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-07-04 15:49:37</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="Dusna_Pasa_1905.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>35188</ID>
+        <URN>11686/35188</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <DATE type="Date">1849</DATE>
+        <MENU_ID id="218">Knjižice in brošure</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title"> Oktroirana ustava 1849 </span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:35188" rel="dct:creator"><span property="dct:title"> Jožef Blasnik, Ljubljana</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+Avtorske pravice so potekle, delo je v javni domeni.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Oktoirana ustava 1849</TITLE>
+        <SUBJECT lang="slv">ustava</SUBJECT>
+        <SUBJECT lang="slv">Avstrija</SUBJECT>
+        <SUBJECT lang="slv">Franc Jožef I.</SUBJECT>
+        <SUBJECT lang="slv">19. stoletje</SUBJECT>
+        <SUBJECT lang="eng">constitution</SUBJECT>
+        <SUBJECT lang="eng">Austria</SUBJECT>
+        <SUBJECT lang="eng">Franz Joseph I.</SUBJECT>
+        <SUBJECT lang="eng">19th century</SUBJECT>
+        <PUBLISHER>Jožef Blasnik, Ljubljana</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1849</YEAR>
+        <DATETIME_ADDED>2016-04-25 15:17:29</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-12-22 16:30:38</DATETIME_MODIFIED>
+        <USER_ID_ADDED>11</USER_ID_ADDED>
+        <PUBLICATION file="noviceabby.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>34881</ID>
+        <URN>11686/34881</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CREATOR>
+            <IME>Matija</IME>
+            <PRIIMEK>Majar</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date">1848</DATE>
+        <MENU_ID id="218">Knjižice in brošure</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title">Kaj Slovenci terjamo?</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:34881" rel="dct:creator"><span property="dct:title">Matija Majar</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+Avtorske pravice so potekle, delo je v javni domeni.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Kaj Slovenci terjamo?</TITLE>
+        <SUBJECT lang="slv">nacionalni program</SUBJECT>
+        <SUBJECT lang="slv">19. stoletje</SUBJECT>
+        <SUBJECT lang="eng">national programme</SUBJECT>
+        <SUBJECT lang="eng">19th century</SUBJECT>
+        <PUBLISHER>Jožef Blasnik, Ljubljana</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1848</YEAR>
+        <DATETIME_ADDED>2015-12-30 08:29:55</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-12-22 16:30:09</DATETIME_MODIFIED>
+        <USER_ID_ADDED>11</USER_ID_ADDED>
+        <PUBLICATION file="MatijaMajer.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+</root>

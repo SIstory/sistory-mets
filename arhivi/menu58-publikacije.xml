@@ -1,0 +1,383 @@
+<root>
+    <publication>
+        <ID>9790</ID>
+        <URN>11686/9790</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CONTRIBUTOR>Dušan Kermavner (ur.)</CONTRIBUTOR>
+        <CREATOR>
+            <IME>Anton</IME>
+            <PRIIMEK>Štebi</PRIIMEK>
+        </CREATOR>
+        <CREATOR>
+            <IME>Dragotin</IME>
+            <PRIIMEK>Gustinčič</PRIIMEK>
+        </CREATOR>
+        <CREATOR>
+            <IME>Vladimir</IME>
+            <PRIIMEK>Premru</PRIIMEK>
+        </CREATOR>
+        <CREATOR>
+            <IME>Fran</IME>
+            <PRIIMEK>Onič</PRIIMEK>
+        </CREATOR>
+        <CREATOR>
+            <IME>Vladimir</IME>
+            <PRIIMEK>Martelanc</PRIIMEK>
+        </CREATOR>
+        <CREATOR>
+            <IME>I.</IME>
+            <PRIIMEK>Livko</PRIIMEK>
+        </CREATOR>
+        <CREATOR>
+            <IME>Mile</IME>
+            <PRIIMEK>Klopčič</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date">1925</DATE>
+        <MENU_ID id="58">Periodični tiskani viri</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <TITLE titleType="Title" lang="slv">Zbornik  Delavsko - Kmetske matice</TITLE>
+        <SUBJECT lang="slv">Komunistična partija Jugoslavije</SUBJECT>
+        <SUBJECT lang="slv">razredni boj</SUBJECT>
+        <SUBJECT lang="slv">narodno vprašanje</SUBJECT>
+        <SUBJECT lang="eng">Communist Party of Yugoslavia</SUBJECT>
+        <SUBJECT lang="eng">class struggle</SUBJECT>
+        <SUBJECT lang="eng">national question</SUBJECT>
+        <PUBLISHER>Delavsko-kmetska matica, Ljubljana</PUBLISHER>
+        <COVERAGE coverageType="Coverage" lang="slv">Ljubljana, Slovenija, Kraljevina SHS, vidovdanska ustava, Obznana, Komunistična partija Jugoslavije v ilegali</COVERAGE>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1925</YEAR>
+        <DATETIME_ADDED>2012-10-17 06:13:35</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-12-23 21:56:20</DATETIME_MODIFIED>
+        <USER_ID_ADDED>11</USER_ID_ADDED>
+        <PUBLICATION file="Zbornik_Delavsko-Kmetske_matice_1925.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>9789</ID>
+        <URN>11686/9789</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CONTRIBUTOR>Dušan Kermavner (ur.)</CONTRIBUTOR>
+        <CREATOR>
+            <IME>Mile</IME>
+            <PRIIMEK>Klopčič</PRIIMEK>
+        </CREATOR>
+        <CREATOR>
+            <IME>Dragotin</IME>
+            <PRIIMEK>Gustinčič</PRIIMEK>
+        </CREATOR>
+        <CREATOR>
+            <IME>David</IME>
+            <PRIIMEK>Rjazanov</PRIIMEK>
+        </CREATOR>
+        <CREATOR>
+            <IME>Edo</IME>
+            <PRIIMEK>Fimmen</PRIIMEK>
+        </CREATOR>
+        <CREATOR>
+            <IME>France</IME>
+            <PRIIMEK>Klopčič</PRIIMEK>
+        </CREATOR>
+        <CREATOR>
+            <IME>Anton</IME>
+            <PRIIMEK>Štebi</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date" format="W3CDTF">1925-05-01</DATE>
+        <MENU_ID id="58">Periodični tiskani viri</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <TITLE titleType="Title" lang="slv">Zapiski Delavsko - Kmetske matice št. 4</TITLE>
+        <SUBJECT lang="slv">Komunistična partija Jugoslavije</SUBJECT>
+        <SUBJECT lang="slv">razredni boj</SUBJECT>
+        <SUBJECT lang="slv">narodno vprašanje</SUBJECT>
+        <SUBJECT lang="eng">Communist Party of Yugoslavia</SUBJECT>
+        <SUBJECT lang="eng">class struggle</SUBJECT>
+        <SUBJECT lang="eng">national question</SUBJECT>
+        <PUBLISHER>Delavsko-kmetska matica, Ljubljana</PUBLISHER>
+        <COVERAGE coverageType="Coverage" lang="slv">Ljubljana, Slovenija, Kraljevina SHS, vidovdanska ustava, Obznana, Komunistična partija Jugoslavije v ilegali</COVERAGE>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1925</YEAR>
+        <DATETIME_ADDED>2012-10-17 06:19:51</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-12-23 21:55:32</DATETIME_MODIFIED>
+        <USER_ID_ADDED>11</USER_ID_ADDED>
+        <PUBLICATION file="Zapiski_Delavsko-Kmetske_matice_1925-st4.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>9788</ID>
+        <URN>11686/9788</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CONTRIBUTOR>Dušan Kermavner (ur.)</CONTRIBUTOR>
+        <CREATOR>
+            <IME>Anton</IME>
+            <PRIIMEK>Štebi</PRIIMEK>
+        </CREATOR>
+        <CREATOR>
+            <IME>Dragotin</IME>
+            <PRIIMEK>Gustinčič</PRIIMEK>
+        </CREATOR>
+        <CREATOR>
+            <IME>France</IME>
+            <PRIIMEK>Klopčič</PRIIMEK>
+        </CREATOR>
+        <CREATOR>
+            <IME>Vladimir</IME>
+            <PRIIMEK>Martelanc</PRIIMEK>
+        </CREATOR>
+        <CREATOR>
+            <IME>Fran</IME>
+            <PRIIMEK>Onič</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date">1925</DATE>
+        <MENU_ID id="58">Periodični tiskani viri</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <TITLE titleType="Title" lang="slv">Zapiski Delavsko - Kmetske matice št. 3</TITLE>
+        <SUBJECT lang="slv">Komunistična partija Jugoslavije</SUBJECT>
+        <SUBJECT lang="slv">razredni boj</SUBJECT>
+        <SUBJECT lang="slv">narodno vprašanje</SUBJECT>
+        <SUBJECT lang="eng">Communist Party of Yugoslavia</SUBJECT>
+        <SUBJECT lang="eng">class struggle</SUBJECT>
+        <SUBJECT lang="eng">national question</SUBJECT>
+        <PUBLISHER>Delavsko-kmetska matica, Ljubljana</PUBLISHER>
+        <COVERAGE coverageType="Coverage" lang="slv">Ljubljana, Slovenija, Kraljevina SHS, vidovdanska ustava, Obznana, Komunistična partija Jugoslavije v ilegali</COVERAGE>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1925</YEAR>
+        <DATETIME_ADDED>2012-10-25 13:40:52</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-12-23 21:55:41</DATETIME_MODIFIED>
+        <USER_ID_ADDED>11</USER_ID_ADDED>
+        <PUBLICATION file="Zapiski_Delavsko-Kmetske_matice_1925-st3.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>9787</ID>
+        <URN>11686/9787</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CONTRIBUTOR>Ivan Vuk (ur.)</CONTRIBUTOR>
+        <CREATOR>
+            <IME>Vladimir</IME>
+            <PRIIMEK>Martelanc</PRIIMEK>
+        </CREATOR>
+        <CREATOR>
+            <IME>France</IME>
+            <PRIIMEK>Klopčič</PRIIMEK>
+        </CREATOR>
+        <CREATOR>
+            <IME>Avgust</IME>
+            <PRIIMEK>Cesarec</PRIIMEK>
+        </CREATOR>
+        <CREATOR>
+            <IME>Dragotin</IME>
+            <PRIIMEK>Gustinčič</PRIIMEK>
+        </CREATOR>
+        <CREATOR>
+            <IME>Vladimir</IME>
+            <PRIIMEK>Premru</PRIIMEK>
+        </CREATOR>
+        <CREATOR>
+            <IME>Franjo</IME>
+            <PRIIMEK>Onič</PRIIMEK>
+        </CREATOR>
+        <CREATOR>
+            <IME>Theobald</IME>
+            <PRIIMEK>Tiger</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date">1925</DATE>
+        <MENU_ID id="58">Periodični tiskani viri</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <TITLE titleType="Title" lang="slv">Zapiski  Delavsko - Kmetske matice št. 2</TITLE>
+        <SUBJECT lang="slv">Komunistična partija Jugoslavije</SUBJECT>
+        <SUBJECT lang="slv">razredni boj</SUBJECT>
+        <SUBJECT lang="slv">narodno vprašanje</SUBJECT>
+        <SUBJECT lang="eng">Communist Party of Yugoslavia</SUBJECT>
+        <SUBJECT lang="eng">class struggle</SUBJECT>
+        <SUBJECT lang="eng">national question</SUBJECT>
+        <PUBLISHER>Delavsko-kmetska matica, Ljubljana</PUBLISHER>
+        <COVERAGE coverageType="Coverage" lang="slv">Ljubljana, Slovenija, Kraljevina SHS, vidovdanska ustava, Obznana, Komunistična partija Jugoslavije v ilegali</COVERAGE>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1925</YEAR>
+        <DATETIME_ADDED>2012-10-17 06:14:46</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-12-23 21:55:50</DATETIME_MODIFIED>
+        <USER_ID_ADDED>11</USER_ID_ADDED>
+        <PUBLICATION file="Zapiski_Delavsko-Kmetske_matice_1925-st2.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>9786</ID>
+        <URN>11686/9786</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CONTRIBUTOR>Dušan Kermavner (ur.)</CONTRIBUTOR>
+        <CREATOR>
+            <IME>Ciril</IME>
+            <PRIIMEK>Štukelj</PRIIMEK>
+        </CREATOR>
+        <CREATOR>
+            <IME>Roza</IME>
+            <PRIIMEK>Luxemburg</PRIIMEK>
+        </CREATOR>
+        <CREATOR>
+            <IME>Dragotin</IME>
+            <PRIIMEK>Gustinčič</PRIIMEK>
+        </CREATOR>
+        <CREATOR>
+            <IME>Avgust</IME>
+            <PRIIMEK>Cesarec</PRIIMEK>
+        </CREATOR>
+        <CREATOR>
+            <IME>Ivan</IME>
+            <PRIIMEK>Regent</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date">1925</DATE>
+        <MENU_ID id="58">Periodični tiskani viri</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <TITLE titleType="Title" lang="slv">Zapiski Delavsko - Kmetske matice št. 1</TITLE>
+        <PUBLISHER>Delavsko-kmetska matica, Ljubljana</PUBLISHER>
+        <COVERAGE coverageType="Coverage" lang="slv">Ljubljana, Slovenija, Kraljevina SHS, vidovdanska ustava, Obznana, Komunistična partija Jugoslavije v ilegali</COVERAGE>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1925</YEAR>
+        <DATETIME_ADDED>2012-10-17 06:16:40</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-12-23 21:55:59</DATETIME_MODIFIED>
+        <USER_ID_ADDED>11</USER_ID_ADDED>
+        <PUBLICATION file="Zapiski_Delavsko-Kmetske_matice-st1.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>987</ID>
+        <URN>11686/987</URN>
+        <CHILD_ORDER>276</CHILD_ORDER>
+        <CONTRIBUTOR>August Dimiz (ur.)</CONTRIBUTOR>
+        <DATE type="Date">1860</DATE>
+        <MENU_ID id="58">Periodični tiskani viri</MENU_ID>
+        <LANGUAGE lang="deu">3</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <TITLE titleType="Title" lang="deu">Mittheilungen des historischen Vereins für Krain</TITLE>
+        <SUBJECT lang="slv">zgodovina</SUBJECT>
+        <SUBJECT lang="slv">poročila</SUBJECT>
+        <SUBJECT lang="slv">časopis</SUBJECT>
+        <SUBJECT lang="eng">history</SUBJECT>
+        <SUBJECT lang="eng">reports</SUBJECT>
+        <SUBJECT lang="eng">magazine</SUBJECT>
+        <PUBLISHER>Historischen Verein, Laibach</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1860</YEAR>
+        <DATETIME_ADDED>2012-12-12 07:01:33</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-12-23 21:54:18</DATETIME_MODIFIED>
+        <USER_ID_ADDED>11</USER_ID_ADDED>
+        <PUBLICATION file="Mittheilungen_1860.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>986</ID>
+        <URN>11686/986</URN>
+        <CHILD_ORDER>275</CHILD_ORDER>
+        <CONTRIBUTOR>August Dimiz (ur.)</CONTRIBUTOR>
+        <DATE type="Date">1859</DATE>
+        <MENU_ID id="58">Periodični tiskani viri</MENU_ID>
+        <LANGUAGE lang="deu">3</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <TITLE titleType="Title" lang="deu">Mittheilungen des historischen Vereins für Krain</TITLE>
+        <SUBJECT lang="slv">zgodovina</SUBJECT>
+        <SUBJECT lang="slv">poročila</SUBJECT>
+        <SUBJECT lang="slv">časopis</SUBJECT>
+        <SUBJECT lang="eng">history</SUBJECT>
+        <SUBJECT lang="eng">reports</SUBJECT>
+        <SUBJECT lang="eng">magazine</SUBJECT>
+        <PUBLISHER>Historischen Verein, Laibach</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1859</YEAR>
+        <DATETIME_ADDED>2012-12-12 07:02:01</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-12-23 21:54:28</DATETIME_MODIFIED>
+        <USER_ID_ADDED>11</USER_ID_ADDED>
+        <PUBLICATION file="Mittheilungen_1859.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>985</ID>
+        <URN>11686/985</URN>
+        <CHILD_ORDER>274</CHILD_ORDER>
+        <CONTRIBUTOR>Ethbin Heinrich Costa (ur.)</CONTRIBUTOR>
+        <DATE type="Date">1857</DATE>
+        <MENU_ID id="58">Periodični tiskani viri</MENU_ID>
+        <LANGUAGE lang="deu">3</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <TITLE titleType="Title" lang="deu">Mittheilungen des historischen Vereins für Krain</TITLE>
+        <SUBJECT lang="slv">zgodovina</SUBJECT>
+        <SUBJECT lang="slv">poročila</SUBJECT>
+        <SUBJECT lang="slv">časopis</SUBJECT>
+        <SUBJECT lang="eng">history</SUBJECT>
+        <SUBJECT lang="eng">reports</SUBJECT>
+        <SUBJECT lang="eng">nagazine</SUBJECT>
+        <PUBLISHER>Historischen Verein, Laibach</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1857</YEAR>
+        <DATETIME_ADDED>2012-12-12 07:02:24</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-12-23 21:54:38</DATETIME_MODIFIED>
+        <USER_ID_ADDED>11</USER_ID_ADDED>
+        <PUBLICATION file="Mittheilungen_1857.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>984</ID>
+        <URN>11686/984</URN>
+        <CHILD_ORDER>273</CHILD_ORDER>
+        <CONTRIBUTOR>Vinko Fereri Klun (ur.)</CONTRIBUTOR>
+        <CONTRIBUTOR>Ethbin Heinrich Costa (ur.)</CONTRIBUTOR>
+        <DATE type="Date">1856</DATE>
+        <MENU_ID id="58">Periodični tiskani viri</MENU_ID>
+        <LANGUAGE lang="deu">3</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <TITLE titleType="Title" lang="deu">Mittheilungen des historischen Vereins für Krain</TITLE>
+        <SUBJECT lang="slv">zgodovina</SUBJECT>
+        <SUBJECT lang="slv">poročila</SUBJECT>
+        <SUBJECT lang="slv">časopis</SUBJECT>
+        <SUBJECT lang="slv">history</SUBJECT>
+        <SUBJECT lang="slv">reports</SUBJECT>
+        <SUBJECT lang="slv">magazine</SUBJECT>
+        <PUBLISHER>Historischen Verein, Laibach</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1856</YEAR>
+        <DATETIME_ADDED>2012-12-12 07:02:41</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-12-23 21:54:49</DATETIME_MODIFIED>
+        <USER_ID_ADDED>11</USER_ID_ADDED>
+        <PUBLICATION file="Mittheilungen_1856.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+</root>

@@ -1,0 +1,283 @@
+<root>
+    <publication>
+        <ID>37827</ID>
+        <URN>11686/37827</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CONTRIBUTOR>Slobodan Nešovič (ur.)</CONTRIBUTOR>
+        <DATE type="Date" format="W3CDTF">1977-01-01</DATE>
+        <MENU_ID id="824">Ustavodajna skupščina (1945-1946)</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="isVersionOf" relationAttr="URI" lang="slv">http://www.sistory.si/11686/992</RELATION>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title"> Zasedanje ustavodajne skupščine (29. novembra 1945 - 1. februarja 1946) </span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:37827" rel="dct:creator"><span property="dct:title">Komunist, Ljubljana</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+To delo avtorskopravno ni varovano.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Zasedanje ustavodajne skupščine</TITLE>
+        <TITLE titleType="Title" lang="slv">(29. novembra 1945 - 1. februarja 1946)</TITLE>
+        <SUBJECT lang="slv">ustavodajna skupština</SUBJECT>
+        <SUBJECT lang="slv">zasedanje</SUBJECT>
+        <SUBJECT lang="slv">stenografske beležke</SUBJECT>
+        <SUBJECT lang="eng">assembly,</SUBJECT>
+        <SUBJECT lang="eng">Yugoslavia</SUBJECT>
+        <SUBJECT lang="eng">stenographical minutes</SUBJECT>
+        <PUBLISHER>Komunist, Ljubljana</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1977</YEAR>
+        <DATETIME_ADDED>2017-06-19 12:31:58</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-06-19 14:18:43</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="ZASEDANJE_USTAVOTVORNE_SKUPSTINE_1945-1946.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>15322</ID>
+        <URN>11686/15322</URN>
+        <CHILD_ORDER>2</CHILD_ORDER>
+        <CONTRIBUTOR>Slobodan Nešović (ur.)</CONTRIBUTOR>
+        <DATE type="Date">1946</DATE>
+        <MENU_ID id="824">Ustavodajna skupščina (1945-1946)</MENU_ID>
+        <LANGUAGE lang="srp">5</LANGUAGE>
+        <LANGUAGE lang="srp">16</LANGUAGE>
+        <LANGUAGE lang="hrv">17</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title">Ustavotvorni odbori Savezne skupštine i Skupštine naroda</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:15322" rel="dct:creator"><span property="dct:title">Narodna skupština FNRJ</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+To delo avtorskopravno ni varovano.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="srp">Ustavotvorni odbori Savezne skupštine i Skupštine naroda</TITLE>
+        <TITLE titleType="Title" lang="srp">10 decembar 1945 - 4 januar 1946</TITLE>
+        <TITLE titleType="Title" lang="srp">3</TITLE>
+        <SUBJECT lang="slv">zvezna skupščina</SUBJECT>
+        <SUBJECT lang="slv">stenografske beležke</SUBJECT>
+        <SUBJECT lang="eng">federal assembly</SUBJECT>
+        <SUBJECT lang="eng">stenographical minutes</SUBJECT>
+        <PUBLISHER>Narodna skupština FNRJ, Beograd</PUBLISHER>
+        <SOURCE sourceType="Vir - URN Naslov">SISTORY:ID:15322</SOURCE>
+        <COVERAGE coverageType="Coverage" lang="slv">Jugoslavija, 1945-1946</COVERAGE>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1946</YEAR>
+        <DATETIME_ADDED>2013-02-27 12:07:25</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-11-17 15:39:19</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="Ustavotvorni_odbori_3.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+        <PARENT>989</PARENT>
+    </publication>
+    <publication>
+        <ID>15321</ID>
+        <URN>11686/15321</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CONTRIBUTOR>Slobodan Nešović (ur.)</CONTRIBUTOR>
+        <DATE type="Date">1946</DATE>
+        <MENU_ID id="824">Ustavodajna skupščina (1945-1946)</MENU_ID>
+        <LANGUAGE lang="srp">5</LANGUAGE>
+        <LANGUAGE lang="srp">16</LANGUAGE>
+        <LANGUAGE lang="hrv">17</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title">Ustavotvorni odbori Savezne skupštine i Skupštine naroda</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:15321" rel="dct:creator"><span property="dct:title">Narodna skupština FNRJ</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+To delo avtorskopravno ni varovano.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="srp">Ustavotvorni odbori Savezne skupštine i Skupštine naroda</TITLE>
+        <TITLE titleType="Title" lang="srp">10 decembar 1945 - 4 januar 1946</TITLE>
+        <TITLE titleType="Title" lang="srp">2</TITLE>
+        <SUBJECT lang="slv">zvezna skupščina</SUBJECT>
+        <SUBJECT lang="slv">stenografske beležke</SUBJECT>
+        <SUBJECT lang="eng">federal assembly</SUBJECT>
+        <SUBJECT lang="eng">stenographical minutes</SUBJECT>
+        <PUBLISHER>Narodna skupština FNRJ, Beograd</PUBLISHER>
+        <SOURCE sourceType="Vir - URN Naslov">SISTORY:ID:15321</SOURCE>
+        <COVERAGE coverageType="Coverage" lang="slv">Jugoslavija, 1945-1946</COVERAGE>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1946</YEAR>
+        <DATETIME_ADDED>2013-02-27 12:06:19</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-11-17 15:38:58</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="Ustavotvorni_odbori_2.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+        <PARENT>989</PARENT>
+    </publication>
+    <publication>
+        <ID>15320</ID>
+        <URN>11686/15320</URN>
+        <CHILD_ORDER>0</CHILD_ORDER>
+        <CONTRIBUTOR>Slobodan Nešović (ur.)</CONTRIBUTOR>
+        <DATE type="Date">1946</DATE>
+        <MENU_ID id="824">Ustavodajna skupščina (1945-1946)</MENU_ID>
+        <LANGUAGE lang="srp">5</LANGUAGE>
+        <LANGUAGE lang="srp">16</LANGUAGE>
+        <LANGUAGE lang="hrv">17</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title">Ustavotvorni odbori Savezne skupštine i Skupštine naroda</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:15320" rel="dct:creator"><span property="dct:title">Narodna skupština FNRJ</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+To delo avtorskopravno ni varovano.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="srp">Ustavotvorni odbori Savezne skupštine i Skupštine naroda</TITLE>
+        <TITLE titleType="Title" lang="srp">10 decembar 1945 - 4 januar 1946</TITLE>
+        <TITLE titleType="Title" lang="srp">1</TITLE>
+        <SUBJECT lang="slv">zvezna skupščina</SUBJECT>
+        <SUBJECT lang="slv">stenografske beležke</SUBJECT>
+        <SUBJECT lang="eng">federal assembly</SUBJECT>
+        <SUBJECT lang="eng">stenographical minutes</SUBJECT>
+        <PUBLISHER>Narodna skupština FNRJ, Beograd</PUBLISHER>
+        <SOURCE sourceType="Vir - URN Naslov">SISTORY:ID:15320</SOURCE>
+        <COVERAGE coverageType="Coverage" lang="slv">Jugoslavija, 1945-1946</COVERAGE>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1946</YEAR>
+        <DATETIME_ADDED>2013-02-27 12:03:12</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-11-17 15:38:34</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="Ustavotvorni_odbori_1.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+        <PARENT>989</PARENT>
+    </publication>
+    <publication>
+        <ID>992</ID>
+        <URN>11686/992</URN>
+        <CHILD_ORDER>271</CHILD_ORDER>
+        <DATE type="Date">1946</DATE>
+        <MENU_ID id="824">Ustavodajna skupščina (1945-1946)</MENU_ID>
+        <LANGUAGE lang="srp">16</LANGUAGE>
+        <LANGUAGE lang="srp">5</LANGUAGE>
+        <LANGUAGE lang="hrv">17</LANGUAGE>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title">Zasedanje Ustavotvorne skupštine</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:992" rel="dct:creator"><span property="dct:title">Prezidijum Narodne skupštine</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+To delo avtorskopravno ni varovano.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="srp">Заседање Уставотворне скупштине</TITLE>
+        <TITLE titleType="Title" lang="srp">29 новембар 1945 - 1 фебруар 1946 године</TITLE>
+        <TITLE titleType="Title" lang="srp">стенографске белешке</TITLE>
+        <TITLE titleType="Title" lang="srp">Zasedanje Ustavotvorne skupštine</TITLE>
+        <TITLE titleType="Title" lang="srp">29 novembar 1945 - 1 februar 1946 godine</TITLE>
+        <TITLE titleType="Title" lang="srp">stenografske beleške</TITLE>
+        <SUBJECT lang="slv">Ustavotvorna skupština</SUBJECT>
+        <SUBJECT lang="slv">zasedanje</SUBJECT>
+        <SUBJECT lang="slv">stenografske beležke</SUBJECT>
+        <SUBJECT lang="eng">assembly</SUBJECT>
+        <SUBJECT lang="eng">Yugoslavia</SUBJECT>
+        <SUBJECT lang="eng">stenographical minutes</SUBJECT>
+        <PUBLISHER>Izdanje Prezidijuma Narodne skupštine, Beograd</PUBLISHER>
+        <COVERAGE coverageType="Coverage" lang="slv">Beograd, 1945-1946</COVERAGE>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1946</YEAR>
+        <DATETIME_ADDED>2012-01-26 22:47:50</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-12-29 15:44:04</DATETIME_MODIFIED>
+        <USER_ID_ADDED>11</USER_ID_ADDED>
+        <PUBLICATION file="Zasedanje_ustavotvorne_skupstine_29.11.1945-1.2.1946.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+        <IMAGE>Ustavotvorni_odbori_1.jpg</IMAGE>
+    </publication>
+    <publication>
+        <ID>989</ID>
+        <URN>11686/989</URN>
+        <CHILD_ORDER>268</CHILD_ORDER>
+        <CONTRIBUTOR>Slobodan Nešović (ur.)</CONTRIBUTOR>
+        <DATE type="Date">1946</DATE>
+        <MENU_ID id="824">Ustavodajna skupščina (1945-1946)</MENU_ID>
+        <LANGUAGE lang="srp">5</LANGUAGE>
+        <LANGUAGE lang="srp">16</LANGUAGE>
+        <LANGUAGE lang="hrv">17</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title">Ustavotvorni odbori Savezne skupštine i Skupštine naroda</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:989" rel="dct:creator"><span property="dct:title">Narodna skupština FNRJ</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+To delo avtorskopravno ni varovano.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="srp">Уставотворни одбори Савезне скупштине и Скупштине народа</TITLE>
+        <TITLE titleType="Title" lang="srp">10. децембар 1945 - 4. јануар 1946</TITLE>
+        <TITLE titleType="Title" lang="srp">стенографске белешке</TITLE>
+        <TITLE titleType="Title" lang="srp">Ustavotvorni odbori Savezne skupštine i Skupštine naroda</TITLE>
+        <TITLE titleType="Title" lang="srp">10. decembar 1945 - 4. januar 1946</TITLE>
+        <TITLE titleType="Title" lang="srp">stenografske beleške</TITLE>
+        <SUBJECT lang="slv">zvezna skupščina</SUBJECT>
+        <SUBJECT lang="slv">stenografske beležke</SUBJECT>
+        <SUBJECT lang="eng">federal assembly</SUBJECT>
+        <SUBJECT lang="eng">stenographical minutes</SUBJECT>
+        <PUBLISHER>Narodna skupštine FNRJ, Beograd</PUBLISHER>
+        <COVERAGE coverageType="Coverage" lang="slv">Jugoslavija, 1945-1946</COVERAGE>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1946</YEAR>
+        <DATETIME_ADDED>2012-01-26 22:50:47</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-12-29 15:43:53</DATETIME_MODIFIED>
+        <USER_ID_ADDED>11</USER_ID_ADDED>
+        <IMAGE>Ustavotvorni_odbori_1.jpg</IMAGE>
+        <CHILDREN>
+            <CHILD>15320</CHILD>
+            <CHILD>15321</CHILD>
+            <CHILD>15322</CHILD>
+        </CHILDREN>
+    </publication>
+</root>

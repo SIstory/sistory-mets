@@ -1,0 +1,298 @@
+<root>
+    <publication>
+        <ID>20273</ID>
+        <URN>11686/20273</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <MENU_ID id="375">Založbe</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Sistem">7</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/20421</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/20424</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/20749</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/20750</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/2562</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/26810</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/20217</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/20250</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/26858</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/26857</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/26853</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/30974</RELATION>
+        <TITLE titleType="Title" lang="slv">Oddelek za zgodovino Filozofske fakultete</TITLE>
+        <DESCRIPTION descriptionType="Description" lang="slv">
+            <p>Znanstvena založba Filozofske fakultete Univerze v Ljubljani izdaja najnovejše raziskovalne dosežke humanističnih in družboslovnih ved, ki jih združuje ljubljanska Filozofska fakulteta. S približno 70 novimi naslovi na leto se naša založba uvršča med največje znanstvene založbe s področja humanistike in družboslovja pri nas in tako pomembno prispeva k prepoznavnosti Filozofske fakultete Univerze v Ljubljani kot osrednje humanistično-družboslovne institucije pri nas.</p>
+        </DESCRIPTION>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <DATETIME_ADDED>2013-10-21 12:29:46</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-10-12 12:05:26</DATETIME_MODIFIED>
+        <USER_ID_ADDED>100</USER_ID_ADDED>
+        <IMAGE>header-FF-OddelekZaZgodovino.jpg</IMAGE>
+    </publication>
+    <publication>
+        <ID>20234</ID>
+        <URN>11686/20234</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <MENU_ID id="375">Založbe</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Sistem">7</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/15588</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/15589</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/15245</RELATION>
+        <TITLE titleType="Title" lang="slv">Društvo piscev zgodovine NOB Slovenije</TITLE>
+        <SUBJECT lang="slv">Zgodovina</SUBJECT>
+        <SUBJECT lang="eng">History</SUBJECT>
+        <SUBJECT lang="slv">Narodnoosvobodilni boj</SUBJECT>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <DATETIME_ADDED>2013-09-25 16:29:54</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-10-12 09:16:58</DATETIME_MODIFIED>
+        <USER_ID_ADDED>100</USER_ID_ADDED>
+        <IMAGE>logo-Pisci_NOB.jpg</IMAGE>
+    </publication>
+    <publication>
+        <ID>20232</ID>
+        <URN>11686/20232</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <MENU_ID id="375">Založbe</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Sistem">7</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/9165</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/12960</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/12962</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/12961</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/12287</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/14382</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/12286</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/12288</RELATION>
+        <TITLE titleType="Title" lang="slv">Cankarjeva založba</TITLE>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <DATETIME_ADDED>2013-09-25 15:27:41</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-10-11 12:10:10</DATETIME_MODIFIED>
+        <USER_ID_ADDED>100</USER_ID_ADDED>
+        <IMAGE>cankarjeva-zalozba.jpg</IMAGE>
+    </publication>
+    <publication>
+        <ID>9067</ID>
+        <URN>11686/9067</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <MENU_ID id="375">Založbe</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Sistem">7</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/911</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/912</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/913</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/914</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/8925</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/971</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/968</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/983</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/9071</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/8926</RELATION>
+        <TITLE titleType="Title" lang="slv">Pedagoški inštitut</TITLE>
+        <SUBJECT lang="slv">Izobraževanje</SUBJECT>
+        <SUBJECT lang="eng">Education</SUBJECT>
+        <DESCRIPTION descriptionType="Description" lang="slv">
+            <p>Založba Pedagoškega inštituta objavlja pomembnejše znanstvene in strokovne dosežke s področja edukacijskih ved, ki so rezultat empiričnih in teoretskih raziskav, ki jih izvajajo sodelavci in sodelavke Pedagoškega inštituta. Monografije vsebujejo aktualne rezultate raziskovalne dejavnosti s področja vzgoje in izobraževanja ter sorodnih disciplin. Teoretični prispevki pa izhajajo iz disciplin, kot so sociologija izobraževanja, lingvistika, psihologija, filozofija vzgoje, pedagogika ter se tako hkrati vpisujejo v sodobne tokove na posameznih področjih.</p>
+        </DESCRIPTION>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <DATETIME_ADDED>2012-04-17 20:11:41</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-10-13 09:15:03</DATETIME_MODIFIED>
+        <USER_ID_ADDED>100</USER_ID_ADDED>
+        <IMAGE>banner_si.png</IMAGE>
+    </publication>
+    <publication>
+        <ID>4896</ID>
+        <URN>11686/4896</URN>
+        <CHILD_ORDER>7252</CHILD_ORDER>
+        <MENU_ID id="375">Založbe</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Sistem">7</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/3039</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/873</RELATION>
+        <TITLE titleType="Title" lang="slv">Arhiv Republike Slovenije</TITLE>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <DATETIME_ADDED>2012-04-14 19:44:05</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-10-11 11:35:11</DATETIME_MODIFIED>
+        <USER_ID_ADDED>100</USER_ID_ADDED>
+        <IMAGE>MK_Arhiv RS__100dpi.JPG</IMAGE>
+    </publication>
+    <publication>
+        <ID>4893</ID>
+        <URN>11686/4893</URN>
+        <CHILD_ORDER>7251</CHILD_ORDER>
+        <MENU_ID id="375">Založbe</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Sistem">7</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/31099</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/955</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/794</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/15752</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/1556</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/1557</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/1558</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/1559</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/1560</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/1555</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/1561</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/780</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/2250</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/902</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/1563</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/34875</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/1564</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/1562</RELATION>
+        <TITLE titleType="Title" lang="slv">Inštitut za novejšo zgodovino</TITLE>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <DATETIME_ADDED>2012-04-14 19:44:21</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-10-23 11:38:01</DATETIME_MODIFIED>
+        <USER_ID_ADDED>123</USER_ID_ADDED>
+        <IMAGE>Institut_za_novejso_zgodovino-logo.jpg</IMAGE>
+    </publication>
+    <publication>
+        <ID>4885</ID>
+        <URN>11686/4885</URN>
+        <CHILD_ORDER>7250</CHILD_ORDER>
+        <MENU_ID id="375">Založbe</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Sistem">7</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/998</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/3040</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/20731</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/996</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/982</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/34872</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/20730</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/3038</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/26855</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/26856</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/34873</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/34874</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/993</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/2561</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/20745</RELATION>
+        <TITLE titleType="Title" lang="slv">Založba Obzorja</TITLE>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1864</YEAR>
+        <DATETIME_ADDED>2012-04-14 19:44:39</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-10-14 08:39:04</DATETIME_MODIFIED>
+        <USER_ID_ADDED>100</USER_ID_ADDED>
+        <IMAGE>znak-zalozba-Obzorja-col2.jpg</IMAGE>
+    </publication>
+    <publication>
+        <ID>4878</ID>
+        <URN>11686/4878</URN>
+        <CHILD_ORDER>7249</CHILD_ORDER>
+        <MENU_ID id="375">Založbe</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Sistem">7</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/11660</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/9599</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/20239</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/31137</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/9600</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/31138</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/9163</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/9166</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/3850</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/35973</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/20226</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/31139</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/9601</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/3851</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/20241</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/20242</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/6086</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/2024</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/8936</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/30411</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/8935</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/2813</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/37167</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/37166</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/37170</RELATION>
+        <TITLE titleType="Title" lang="slv">Zgodovinski arhiv Ljubljana</TITLE>
+        <DESCRIPTION descriptionType="Description" lang="slv">
+            <p>Ena pomembnejših dejavnosti Zgodovinskega arhiva Ljubljana je tudi izdajanje strokovnih publikacij. Sem spadajo objave zgodovinskih virov, publikacije iz zgodovinopisja in arhivistike ter razstavni katalogi.</p>
+        </DESCRIPTION>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1864</YEAR>
+        <DATETIME_ADDED>2012-07-16 09:29:33</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-09-20 14:37:51</DATETIME_MODIFIED>
+        <USER_ID_ADDED>81</USER_ID_ADDED>
+        <IMAGE>Zgodovinski arhiv Ljubljana.jpg</IMAGE>
+    </publication>
+    <publication>
+        <ID>4871</ID>
+        <URN>11686/4871</URN>
+        <CHILD_ORDER>7248</CHILD_ORDER>
+        <MENU_ID id="375">Založbe</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Sistem">7</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/2</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/1</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/871</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/903</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/783</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/904</RELATION>
+        <TITLE titleType="Title" lang="slv">Slovenska matica</TITLE>
+        <DESCRIPTION descriptionType="Description" lang="slv">
+            <p>Slovenska matica je znanstvena in kulturna ustanova, ki prireja znanstvene sestanke o najrazličnejši problemih slovenske kulture in družbe ter njene prihodnosti. Hkrati je založba, ki skrbi za izdajanje kvalitetnih in izvirnih del ter prevodov humanistike, naravoslovja in tehnike.</p>
+        </DESCRIPTION>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1864</YEAR>
+        <DATETIME_ADDED>2012-04-14 19:45:13</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-10-13 10:13:10</DATETIME_MODIFIED>
+        <USER_ID_ADDED>100</USER_ID_ADDED>
+        <IMAGE>logo-slovenska_matica.jpg</IMAGE>
+    </publication>
+    <publication>
+        <ID>4870</ID>
+        <URN>11686/4870</URN>
+        <CHILD_ORDER>7247</CHILD_ORDER>
+        <MENU_ID id="375">Založbe</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Sistem">7</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/994</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/999</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/1000</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/956</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/15108</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/15109</RELATION>
+        <RELATION relationType="hasPart" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/30936</RELATION>
+        <TITLE titleType="Title" lang="slv">Modrijan založba</TITLE>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <DATETIME_ADDED>2012-04-14 19:45:28</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-10-12 11:28:35</DATETIME_MODIFIED>
+        <USER_ID_ADDED>100</USER_ID_ADDED>
+        <IMAGE>modrijan.jpg</IMAGE>
+    </publication>
+</root>

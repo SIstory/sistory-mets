@@ -1,0 +1,2950 @@
+<root>
+    <publication>
+        <ID>22952</ID>
+        <URN>11686/22952</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <MENU_ID id="623">SI_ZAL_NME/0003 Popis prebivalstva 1869, Kandija (Novo mesto)</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <LANGUAGE lang="deu">3</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:11/enota:44</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 12. 1869, Šmihel-Stopiče, Kandija 9,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:22952">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Enota za Dolenjsko in Belo krajino, Novo mesto</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 12. 1869</TITLE>
+        <TITLE titleType="Title" lang="slv">Občina Šmihel-Stopiče</TITLE>
+        <TITLE titleType="Title" lang="slv">Kandija 9</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 December 1869</TITLE>
+        <TITLE titleType="Title" lang="eng">Municipality Šmihel-Stopiče</TITLE>
+        <TITLE titleType="Title" lang="eng">Kandija 9</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">občina Šmihel-Stopiče</SUBJECT>
+        <SUBJECT lang="slv">Kandija</SUBJECT>
+        <SUBJECT lang="slv">Novo mesto</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1869</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">municipality Šmihel-Stopiče</SUBJECT>
+        <SUBJECT lang="eng">Kandija</SUBJECT>
+        <SUBJECT lang="eng">Novo mesto</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1869</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Enota za Dolenjsko in Belo krajino, Novo mesto</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_NME/0003/Smihel_Stopice_1869/Kandija 9</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Kandija</COVERAGE>
+        <COVERAGE coverageType="Spatial" attr="">Novo mesto</COVERAGE>
+        <COVERAGE coverageType="Spatial" attr="Point">north=45.801132; east=15.162542; name=Kandija</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1869-12-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <DATETIME_ADDED>2014-03-19 22:04:57</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-03-19 22:04:57</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="NME_Smihel_Stopice_1869_Kandija_9.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>22951</ID>
+        <URN>11686/22951</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <MENU_ID id="623">SI_ZAL_NME/0003 Popis prebivalstva 1869, Kandija (Novo mesto)</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <LANGUAGE lang="deu">3</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:11/enota:43</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 12. 1869, Šmihel-Stopiče, Kandija 8,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:22951">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Enota za Dolenjsko in Belo krajino, Novo mesto</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 12. 1869</TITLE>
+        <TITLE titleType="Title" lang="slv">Občina Šmihel-Stopiče</TITLE>
+        <TITLE titleType="Title" lang="slv">Kandija 8</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 December 1869</TITLE>
+        <TITLE titleType="Title" lang="eng">Municipality Šmihel-Stopiče</TITLE>
+        <TITLE titleType="Title" lang="eng">Kandija 8</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">občina Šmihel-Stopiče</SUBJECT>
+        <SUBJECT lang="slv">Kandija</SUBJECT>
+        <SUBJECT lang="slv">Novo mesto</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1869</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">municipality Šmihel-Stopiče</SUBJECT>
+        <SUBJECT lang="eng">Kandija</SUBJECT>
+        <SUBJECT lang="eng">Novo mesto</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1869</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Enota za Dolenjsko in Belo krajino, Novo mesto</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_NME/0003/Smihel_Stopice_1869/Kandija 8</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Kandija</COVERAGE>
+        <COVERAGE coverageType="Spatial" attr="">Novo mesto</COVERAGE>
+        <COVERAGE coverageType="Spatial" attr="Point">north=45.801132; east=15.162542; name=Kandija</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1869-12-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <DATETIME_ADDED>2014-03-19 22:04:57</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-03-19 22:04:57</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="NME_Smihel_Stopice_1869_Kandija_8.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>22950</ID>
+        <URN>11686/22950</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <MENU_ID id="623">SI_ZAL_NME/0003 Popis prebivalstva 1869, Kandija (Novo mesto)</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <LANGUAGE lang="deu">3</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:11/enota:42</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 12. 1869, Šmihel-Stopiče, Kandija 7,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:22950">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Enota za Dolenjsko in Belo krajino, Novo mesto</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 12. 1869</TITLE>
+        <TITLE titleType="Title" lang="slv">Občina Šmihel-Stopiče</TITLE>
+        <TITLE titleType="Title" lang="slv">Kandija 7</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 December 1869</TITLE>
+        <TITLE titleType="Title" lang="eng">Municipality Šmihel-Stopiče</TITLE>
+        <TITLE titleType="Title" lang="eng">Kandija 7</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">občina Šmihel-Stopiče</SUBJECT>
+        <SUBJECT lang="slv">Kandija</SUBJECT>
+        <SUBJECT lang="slv">Novo mesto</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1869</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">municipality Šmihel-Stopiče</SUBJECT>
+        <SUBJECT lang="eng">Kandija</SUBJECT>
+        <SUBJECT lang="eng">Novo mesto</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1869</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Enota za Dolenjsko in Belo krajino, Novo mesto</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_NME/0003/Smihel_Stopice_1869/Kandija 7</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Kandija</COVERAGE>
+        <COVERAGE coverageType="Spatial" attr="">Novo mesto</COVERAGE>
+        <COVERAGE coverageType="Spatial" attr="Point">north=45.801132; east=15.162542; name=Kandija</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1869-12-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <DATETIME_ADDED>2014-03-19 22:04:57</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-03-19 22:04:57</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="NME_Smihel_Stopice_1869_Kandija_7.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>22949</ID>
+        <URN>11686/22949</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <MENU_ID id="623">SI_ZAL_NME/0003 Popis prebivalstva 1869, Kandija (Novo mesto)</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <LANGUAGE lang="deu">3</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:11/enota:41</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 12. 1869, Šmihel-Stopiče, Kandija 6,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:22949">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Enota za Dolenjsko in Belo krajino, Novo mesto</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 12. 1869</TITLE>
+        <TITLE titleType="Title" lang="slv">Občina Šmihel-Stopiče</TITLE>
+        <TITLE titleType="Title" lang="slv">Kandija 6</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 December 1869</TITLE>
+        <TITLE titleType="Title" lang="eng">Municipality Šmihel-Stopiče</TITLE>
+        <TITLE titleType="Title" lang="eng">Kandija 6</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">občina Šmihel-Stopiče</SUBJECT>
+        <SUBJECT lang="slv">Kandija</SUBJECT>
+        <SUBJECT lang="slv">Novo mesto</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1869</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">municipality Šmihel-Stopiče</SUBJECT>
+        <SUBJECT lang="eng">Kandija</SUBJECT>
+        <SUBJECT lang="eng">Novo mesto</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1869</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Enota za Dolenjsko in Belo krajino, Novo mesto</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_NME/0003/Smihel_Stopice_1869/Kandija 6</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Kandija</COVERAGE>
+        <COVERAGE coverageType="Spatial" attr="">Novo mesto</COVERAGE>
+        <COVERAGE coverageType="Spatial" attr="Point">north=45.801132; east=15.162542; name=Kandija</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1869-12-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <DATETIME_ADDED>2014-03-19 22:04:57</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-03-19 22:04:57</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="NME_Smihel_Stopice_1869_Kandija_6.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>22948</ID>
+        <URN>11686/22948</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <MENU_ID id="623">SI_ZAL_NME/0003 Popis prebivalstva 1869, Kandija (Novo mesto)</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <LANGUAGE lang="deu">3</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:11/enota:40</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 12. 1869, Šmihel-Stopiče, Kandija 5,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:22948">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Enota za Dolenjsko in Belo krajino, Novo mesto</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 12. 1869</TITLE>
+        <TITLE titleType="Title" lang="slv">Občina Šmihel-Stopiče</TITLE>
+        <TITLE titleType="Title" lang="slv">Kandija 5</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 December 1869</TITLE>
+        <TITLE titleType="Title" lang="eng">Municipality Šmihel-Stopiče</TITLE>
+        <TITLE titleType="Title" lang="eng">Kandija 5</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">občina Šmihel-Stopiče</SUBJECT>
+        <SUBJECT lang="slv">Kandija</SUBJECT>
+        <SUBJECT lang="slv">Novo mesto</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1869</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">municipality Šmihel-Stopiče</SUBJECT>
+        <SUBJECT lang="eng">Kandija</SUBJECT>
+        <SUBJECT lang="eng">Novo mesto</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1869</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Enota za Dolenjsko in Belo krajino, Novo mesto</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_NME/0003/Smihel_Stopice_1869/Kandija 5</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Kandija</COVERAGE>
+        <COVERAGE coverageType="Spatial" attr="">Novo mesto</COVERAGE>
+        <COVERAGE coverageType="Spatial" attr="Point">north=45.801132; east=15.162542; name=Kandija</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1869-12-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <DATETIME_ADDED>2014-03-19 22:04:57</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-03-19 22:04:57</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="NME_Smihel_Stopice_1869_Kandija_5.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>22947</ID>
+        <URN>11686/22947</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <MENU_ID id="623">SI_ZAL_NME/0003 Popis prebivalstva 1869, Kandija (Novo mesto)</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <LANGUAGE lang="deu">3</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:11/enota:39</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 12. 1869, Šmihel-Stopiče, Kandija 44,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:22947">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Enota za Dolenjsko in Belo krajino, Novo mesto</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 12. 1869</TITLE>
+        <TITLE titleType="Title" lang="slv">Občina Šmihel-Stopiče</TITLE>
+        <TITLE titleType="Title" lang="slv">Kandija 44</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 December 1869</TITLE>
+        <TITLE titleType="Title" lang="eng">Municipality Šmihel-Stopiče</TITLE>
+        <TITLE titleType="Title" lang="eng">Kandija 44</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">občina Šmihel-Stopiče</SUBJECT>
+        <SUBJECT lang="slv">Kandija</SUBJECT>
+        <SUBJECT lang="slv">Novo mesto</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1869</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">municipality Šmihel-Stopiče</SUBJECT>
+        <SUBJECT lang="eng">Kandija</SUBJECT>
+        <SUBJECT lang="eng">Novo mesto</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1869</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Enota za Dolenjsko in Belo krajino, Novo mesto</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_NME/0003/Smihel_Stopice_1869/Kandija 44</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Kandija</COVERAGE>
+        <COVERAGE coverageType="Spatial" attr="">Novo mesto</COVERAGE>
+        <COVERAGE coverageType="Spatial" attr="Point">north=45.801132; east=15.162542; name=Kandija</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1869-12-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <DATETIME_ADDED>2014-03-19 22:04:57</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-03-19 22:04:57</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="NME_Smihel_Stopice_1869_Kandija_44.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>22946</ID>
+        <URN>11686/22946</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <MENU_ID id="623">SI_ZAL_NME/0003 Popis prebivalstva 1869, Kandija (Novo mesto)</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <LANGUAGE lang="deu">3</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:11/enota:38</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 12. 1869, Šmihel-Stopiče, Kandija 43,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:22946">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Enota za Dolenjsko in Belo krajino, Novo mesto</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 12. 1869</TITLE>
+        <TITLE titleType="Title" lang="slv">Občina Šmihel-Stopiče</TITLE>
+        <TITLE titleType="Title" lang="slv">Kandija 43</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 December 1869</TITLE>
+        <TITLE titleType="Title" lang="eng">Municipality Šmihel-Stopiče</TITLE>
+        <TITLE titleType="Title" lang="eng">Kandija 43</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">občina Šmihel-Stopiče</SUBJECT>
+        <SUBJECT lang="slv">Kandija</SUBJECT>
+        <SUBJECT lang="slv">Novo mesto</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1869</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">municipality Šmihel-Stopiče</SUBJECT>
+        <SUBJECT lang="eng">Kandija</SUBJECT>
+        <SUBJECT lang="eng">Novo mesto</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1869</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Enota za Dolenjsko in Belo krajino, Novo mesto</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_NME/0003/Smihel_Stopice_1869/Kandija 43</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Kandija</COVERAGE>
+        <COVERAGE coverageType="Spatial" attr="">Novo mesto</COVERAGE>
+        <COVERAGE coverageType="Spatial" attr="Point">north=45.801132; east=15.162542; name=Kandija</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1869-12-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <DATETIME_ADDED>2014-03-19 22:04:57</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-03-19 22:04:57</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="NME_Smihel_Stopice_1869_Kandija_43.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>22945</ID>
+        <URN>11686/22945</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <MENU_ID id="623">SI_ZAL_NME/0003 Popis prebivalstva 1869, Kandija (Novo mesto)</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <LANGUAGE lang="deu">3</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:11/enota:37</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 12. 1869, Šmihel-Stopiče, Kandija 42,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:22945">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Enota za Dolenjsko in Belo krajino, Novo mesto</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 12. 1869</TITLE>
+        <TITLE titleType="Title" lang="slv">Občina Šmihel-Stopiče</TITLE>
+        <TITLE titleType="Title" lang="slv">Kandija 42</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 December 1869</TITLE>
+        <TITLE titleType="Title" lang="eng">Municipality Šmihel-Stopiče</TITLE>
+        <TITLE titleType="Title" lang="eng">Kandija 42</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">občina Šmihel-Stopiče</SUBJECT>
+        <SUBJECT lang="slv">Kandija</SUBJECT>
+        <SUBJECT lang="slv">Novo mesto</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1869</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">municipality Šmihel-Stopiče</SUBJECT>
+        <SUBJECT lang="eng">Kandija</SUBJECT>
+        <SUBJECT lang="eng">Novo mesto</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1869</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Enota za Dolenjsko in Belo krajino, Novo mesto</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_NME/0003/Smihel_Stopice_1869/Kandija 42</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Kandija</COVERAGE>
+        <COVERAGE coverageType="Spatial" attr="">Novo mesto</COVERAGE>
+        <COVERAGE coverageType="Spatial" attr="Point">north=45.801132; east=15.162542; name=Kandija</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1869-12-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <DATETIME_ADDED>2014-03-19 22:04:57</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-03-19 22:04:57</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="NME_Smihel_Stopice_1869_Kandija_42.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>22944</ID>
+        <URN>11686/22944</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <MENU_ID id="623">SI_ZAL_NME/0003 Popis prebivalstva 1869, Kandija (Novo mesto)</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <LANGUAGE lang="deu">3</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:11/enota:36</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 12. 1869, Šmihel-Stopiče, Kandija 41,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:22944">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Enota za Dolenjsko in Belo krajino, Novo mesto</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 12. 1869</TITLE>
+        <TITLE titleType="Title" lang="slv">Občina Šmihel-Stopiče</TITLE>
+        <TITLE titleType="Title" lang="slv">Kandija 41</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 December 1869</TITLE>
+        <TITLE titleType="Title" lang="eng">Municipality Šmihel-Stopiče</TITLE>
+        <TITLE titleType="Title" lang="eng">Kandija 41</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">občina Šmihel-Stopiče</SUBJECT>
+        <SUBJECT lang="slv">Kandija</SUBJECT>
+        <SUBJECT lang="slv">Novo mesto</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1869</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">municipality Šmihel-Stopiče</SUBJECT>
+        <SUBJECT lang="eng">Kandija</SUBJECT>
+        <SUBJECT lang="eng">Novo mesto</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1869</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Enota za Dolenjsko in Belo krajino, Novo mesto</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_NME/0003/Smihel_Stopice_1869/Kandija 41</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Kandija</COVERAGE>
+        <COVERAGE coverageType="Spatial" attr="">Novo mesto</COVERAGE>
+        <COVERAGE coverageType="Spatial" attr="Point">north=45.801132; east=15.162542; name=Kandija</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1869-12-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <DATETIME_ADDED>2014-03-19 22:04:57</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-03-19 22:04:57</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="NME_Smihel_Stopice_1869_Kandija_41.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>22943</ID>
+        <URN>11686/22943</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <MENU_ID id="623">SI_ZAL_NME/0003 Popis prebivalstva 1869, Kandija (Novo mesto)</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <LANGUAGE lang="deu">3</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:11/enota:35</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 12. 1869, Šmihel-Stopiče, Kandija 40,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:22943">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Enota za Dolenjsko in Belo krajino, Novo mesto</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 12. 1869</TITLE>
+        <TITLE titleType="Title" lang="slv">Občina Šmihel-Stopiče</TITLE>
+        <TITLE titleType="Title" lang="slv">Kandija 40</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 December 1869</TITLE>
+        <TITLE titleType="Title" lang="eng">Municipality Šmihel-Stopiče</TITLE>
+        <TITLE titleType="Title" lang="eng">Kandija 40</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">občina Šmihel-Stopiče</SUBJECT>
+        <SUBJECT lang="slv">Kandija</SUBJECT>
+        <SUBJECT lang="slv">Novo mesto</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1869</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">municipality Šmihel-Stopiče</SUBJECT>
+        <SUBJECT lang="eng">Kandija</SUBJECT>
+        <SUBJECT lang="eng">Novo mesto</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1869</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Enota za Dolenjsko in Belo krajino, Novo mesto</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_NME/0003/Smihel_Stopice_1869/Kandija 40</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Kandija</COVERAGE>
+        <COVERAGE coverageType="Spatial" attr="">Novo mesto</COVERAGE>
+        <COVERAGE coverageType="Spatial" attr="Point">north=45.801132; east=15.162542; name=Kandija</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1869-12-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <DATETIME_ADDED>2014-03-19 22:04:57</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-03-19 22:04:57</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="NME_Smihel_Stopice_1869_Kandija_40.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>22942</ID>
+        <URN>11686/22942</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <MENU_ID id="623">SI_ZAL_NME/0003 Popis prebivalstva 1869, Kandija (Novo mesto)</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <LANGUAGE lang="deu">3</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:11/enota:34</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 12. 1869, Šmihel-Stopiče, Kandija 4,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:22942">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Enota za Dolenjsko in Belo krajino, Novo mesto</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 12. 1869</TITLE>
+        <TITLE titleType="Title" lang="slv">Občina Šmihel-Stopiče</TITLE>
+        <TITLE titleType="Title" lang="slv">Kandija 4</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 December 1869</TITLE>
+        <TITLE titleType="Title" lang="eng">Municipality Šmihel-Stopiče</TITLE>
+        <TITLE titleType="Title" lang="eng">Kandija 4</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">občina Šmihel-Stopiče</SUBJECT>
+        <SUBJECT lang="slv">Kandija</SUBJECT>
+        <SUBJECT lang="slv">Novo mesto</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1869</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">municipality Šmihel-Stopiče</SUBJECT>
+        <SUBJECT lang="eng">Kandija</SUBJECT>
+        <SUBJECT lang="eng">Novo mesto</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1869</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Enota za Dolenjsko in Belo krajino, Novo mesto</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_NME/0003/Smihel_Stopice_1869/Kandija 4</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Kandija</COVERAGE>
+        <COVERAGE coverageType="Spatial" attr="">Novo mesto</COVERAGE>
+        <COVERAGE coverageType="Spatial" attr="Point">north=45.801132; east=15.162542; name=Kandija</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1869-12-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <DATETIME_ADDED>2014-03-19 22:04:57</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-03-19 22:04:57</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="NME_Smihel_Stopice_1869_Kandija_4.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>22941</ID>
+        <URN>11686/22941</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <MENU_ID id="623">SI_ZAL_NME/0003 Popis prebivalstva 1869, Kandija (Novo mesto)</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <LANGUAGE lang="deu">3</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:11/enota:33</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 12. 1869, Šmihel-Stopiče, Kandija 39,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:22941">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Enota za Dolenjsko in Belo krajino, Novo mesto</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 12. 1869</TITLE>
+        <TITLE titleType="Title" lang="slv">Občina Šmihel-Stopiče</TITLE>
+        <TITLE titleType="Title" lang="slv">Kandija 39</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 December 1869</TITLE>
+        <TITLE titleType="Title" lang="eng">Municipality Šmihel-Stopiče</TITLE>
+        <TITLE titleType="Title" lang="eng">Kandija 39</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">občina Šmihel-Stopiče</SUBJECT>
+        <SUBJECT lang="slv">Kandija</SUBJECT>
+        <SUBJECT lang="slv">Novo mesto</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1869</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">municipality Šmihel-Stopiče</SUBJECT>
+        <SUBJECT lang="eng">Kandija</SUBJECT>
+        <SUBJECT lang="eng">Novo mesto</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1869</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Enota za Dolenjsko in Belo krajino, Novo mesto</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_NME/0003/Smihel_Stopice_1869/Kandija 39</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Kandija</COVERAGE>
+        <COVERAGE coverageType="Spatial" attr="">Novo mesto</COVERAGE>
+        <COVERAGE coverageType="Spatial" attr="Point">north=45.801132; east=15.162542; name=Kandija</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1869-12-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <DATETIME_ADDED>2014-03-19 22:04:57</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-03-19 22:04:57</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="NME_Smihel_Stopice_1869_Kandija_39.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>22940</ID>
+        <URN>11686/22940</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <MENU_ID id="623">SI_ZAL_NME/0003 Popis prebivalstva 1869, Kandija (Novo mesto)</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <LANGUAGE lang="deu">3</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:11/enota:32</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 12. 1869, Šmihel-Stopiče, Kandija 38,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:22940">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Enota za Dolenjsko in Belo krajino, Novo mesto</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 12. 1869</TITLE>
+        <TITLE titleType="Title" lang="slv">Občina Šmihel-Stopiče</TITLE>
+        <TITLE titleType="Title" lang="slv">Kandija 38</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 December 1869</TITLE>
+        <TITLE titleType="Title" lang="eng">Municipality Šmihel-Stopiče</TITLE>
+        <TITLE titleType="Title" lang="eng">Kandija 38</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">občina Šmihel-Stopiče</SUBJECT>
+        <SUBJECT lang="slv">Kandija</SUBJECT>
+        <SUBJECT lang="slv">Novo mesto</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1869</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">municipality Šmihel-Stopiče</SUBJECT>
+        <SUBJECT lang="eng">Kandija</SUBJECT>
+        <SUBJECT lang="eng">Novo mesto</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1869</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Enota za Dolenjsko in Belo krajino, Novo mesto</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_NME/0003/Smihel_Stopice_1869/Kandija 38</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Kandija</COVERAGE>
+        <COVERAGE coverageType="Spatial" attr="">Novo mesto</COVERAGE>
+        <COVERAGE coverageType="Spatial" attr="Point">north=45.801132; east=15.162542; name=Kandija</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1869-12-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <DATETIME_ADDED>2014-03-19 22:04:56</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-03-19 22:04:56</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="NME_Smihel_Stopice_1869_Kandija_38b.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>22939</ID>
+        <URN>11686/22939</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <MENU_ID id="623">SI_ZAL_NME/0003 Popis prebivalstva 1869, Kandija (Novo mesto)</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <LANGUAGE lang="deu">3</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:11/enota:31</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 12. 1869, Šmihel-Stopiče, Kandija 38,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:22939">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Enota za Dolenjsko in Belo krajino, Novo mesto</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 12. 1869</TITLE>
+        <TITLE titleType="Title" lang="slv">Občina Šmihel-Stopiče</TITLE>
+        <TITLE titleType="Title" lang="slv">Kandija 38</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 December 1869</TITLE>
+        <TITLE titleType="Title" lang="eng">Municipality Šmihel-Stopiče</TITLE>
+        <TITLE titleType="Title" lang="eng">Kandija 38</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">občina Šmihel-Stopiče</SUBJECT>
+        <SUBJECT lang="slv">Kandija</SUBJECT>
+        <SUBJECT lang="slv">Novo mesto</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1869</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">municipality Šmihel-Stopiče</SUBJECT>
+        <SUBJECT lang="eng">Kandija</SUBJECT>
+        <SUBJECT lang="eng">Novo mesto</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1869</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Enota za Dolenjsko in Belo krajino, Novo mesto</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_NME/0003/Smihel_Stopice_1869/Kandija 38</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Kandija</COVERAGE>
+        <COVERAGE coverageType="Spatial" attr="">Novo mesto</COVERAGE>
+        <COVERAGE coverageType="Spatial" attr="Point">north=45.801132; east=15.162542; name=Kandija</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1869-12-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <DATETIME_ADDED>2014-03-19 22:04:56</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-03-19 22:04:56</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="NME_Smihel_Stopice_1869_Kandija_38a.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>22938</ID>
+        <URN>11686/22938</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <MENU_ID id="623">SI_ZAL_NME/0003 Popis prebivalstva 1869, Kandija (Novo mesto)</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <LANGUAGE lang="deu">3</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:11/enota:30</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 12. 1869, Šmihel-Stopiče, Kandija 37,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:22938">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Enota za Dolenjsko in Belo krajino, Novo mesto</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 12. 1869</TITLE>
+        <TITLE titleType="Title" lang="slv">Občina Šmihel-Stopiče</TITLE>
+        <TITLE titleType="Title" lang="slv">Kandija 37</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 December 1869</TITLE>
+        <TITLE titleType="Title" lang="eng">Municipality Šmihel-Stopiče</TITLE>
+        <TITLE titleType="Title" lang="eng">Kandija 37</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">občina Šmihel-Stopiče</SUBJECT>
+        <SUBJECT lang="slv">Kandija</SUBJECT>
+        <SUBJECT lang="slv">Novo mesto</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1869</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">municipality Šmihel-Stopiče</SUBJECT>
+        <SUBJECT lang="eng">Kandija</SUBJECT>
+        <SUBJECT lang="eng">Novo mesto</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1869</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Enota za Dolenjsko in Belo krajino, Novo mesto</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_NME/0003/Smihel_Stopice_1869/Kandija 37</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Kandija</COVERAGE>
+        <COVERAGE coverageType="Spatial" attr="">Novo mesto</COVERAGE>
+        <COVERAGE coverageType="Spatial" attr="Point">north=45.801132; east=15.162542; name=Kandija</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1869-12-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <DATETIME_ADDED>2014-03-19 22:04:56</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-03-19 22:04:56</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="NME_Smihel_Stopice_1869_Kandija_37.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>22937</ID>
+        <URN>11686/22937</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <MENU_ID id="623">SI_ZAL_NME/0003 Popis prebivalstva 1869, Kandija (Novo mesto)</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <LANGUAGE lang="deu">3</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:11/enota:29</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 12. 1869, Šmihel-Stopiče, Kandija 36,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:22937">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Enota za Dolenjsko in Belo krajino, Novo mesto</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 12. 1869</TITLE>
+        <TITLE titleType="Title" lang="slv">Občina Šmihel-Stopiče</TITLE>
+        <TITLE titleType="Title" lang="slv">Kandija 36</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 December 1869</TITLE>
+        <TITLE titleType="Title" lang="eng">Municipality Šmihel-Stopiče</TITLE>
+        <TITLE titleType="Title" lang="eng">Kandija 36</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">občina Šmihel-Stopiče</SUBJECT>
+        <SUBJECT lang="slv">Kandija</SUBJECT>
+        <SUBJECT lang="slv">Novo mesto</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1869</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">municipality Šmihel-Stopiče</SUBJECT>
+        <SUBJECT lang="eng">Kandija</SUBJECT>
+        <SUBJECT lang="eng">Novo mesto</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1869</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Enota za Dolenjsko in Belo krajino, Novo mesto</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_NME/0003/Smihel_Stopice_1869/Kandija 36</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Kandija</COVERAGE>
+        <COVERAGE coverageType="Spatial" attr="">Novo mesto</COVERAGE>
+        <COVERAGE coverageType="Spatial" attr="Point">north=45.801132; east=15.162542; name=Kandija</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1869-12-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <DATETIME_ADDED>2014-03-19 22:04:56</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-03-19 22:04:56</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="NME_Smihel_Stopice_1869_Kandija_36.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>22936</ID>
+        <URN>11686/22936</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <MENU_ID id="623">SI_ZAL_NME/0003 Popis prebivalstva 1869, Kandija (Novo mesto)</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <LANGUAGE lang="deu">3</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:11/enota:28</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 12. 1869, Šmihel-Stopiče, Kandija 35,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:22936">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Enota za Dolenjsko in Belo krajino, Novo mesto</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 12. 1869</TITLE>
+        <TITLE titleType="Title" lang="slv">Občina Šmihel-Stopiče</TITLE>
+        <TITLE titleType="Title" lang="slv">Kandija 35</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 December 1869</TITLE>
+        <TITLE titleType="Title" lang="eng">Municipality Šmihel-Stopiče</TITLE>
+        <TITLE titleType="Title" lang="eng">Kandija 35</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">občina Šmihel-Stopiče</SUBJECT>
+        <SUBJECT lang="slv">Kandija</SUBJECT>
+        <SUBJECT lang="slv">Novo mesto</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1869</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">municipality Šmihel-Stopiče</SUBJECT>
+        <SUBJECT lang="eng">Kandija</SUBJECT>
+        <SUBJECT lang="eng">Novo mesto</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1869</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Enota za Dolenjsko in Belo krajino, Novo mesto</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_NME/0003/Smihel_Stopice_1869/Kandija 35</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Kandija</COVERAGE>
+        <COVERAGE coverageType="Spatial" attr="">Novo mesto</COVERAGE>
+        <COVERAGE coverageType="Spatial" attr="Point">north=45.801132; east=15.162542; name=Kandija</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1869-12-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <DATETIME_ADDED>2014-03-19 22:04:56</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-03-19 22:04:56</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="NME_Smihel_Stopice_1869_Kandija_35.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>22935</ID>
+        <URN>11686/22935</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <MENU_ID id="623">SI_ZAL_NME/0003 Popis prebivalstva 1869, Kandija (Novo mesto)</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <LANGUAGE lang="deu">3</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:11/enota:27</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 12. 1869, Šmihel-Stopiče, Kandija 34,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:22935">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Enota za Dolenjsko in Belo krajino, Novo mesto</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 12. 1869</TITLE>
+        <TITLE titleType="Title" lang="slv">Občina Šmihel-Stopiče</TITLE>
+        <TITLE titleType="Title" lang="slv">Kandija 34</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 December 1869</TITLE>
+        <TITLE titleType="Title" lang="eng">Municipality Šmihel-Stopiče</TITLE>
+        <TITLE titleType="Title" lang="eng">Kandija 34</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">občina Šmihel-Stopiče</SUBJECT>
+        <SUBJECT lang="slv">Kandija</SUBJECT>
+        <SUBJECT lang="slv">Novo mesto</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1869</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">municipality Šmihel-Stopiče</SUBJECT>
+        <SUBJECT lang="eng">Kandija</SUBJECT>
+        <SUBJECT lang="eng">Novo mesto</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1869</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Enota za Dolenjsko in Belo krajino, Novo mesto</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_NME/0003/Smihel_Stopice_1869/Kandija 34</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Kandija</COVERAGE>
+        <COVERAGE coverageType="Spatial" attr="">Novo mesto</COVERAGE>
+        <COVERAGE coverageType="Spatial" attr="Point">north=45.801132; east=15.162542; name=Kandija</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1869-12-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <DATETIME_ADDED>2014-03-19 22:04:56</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-03-19 22:04:56</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="NME_Smihel_Stopice_1869_Kandija_34.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>22934</ID>
+        <URN>11686/22934</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <MENU_ID id="623">SI_ZAL_NME/0003 Popis prebivalstva 1869, Kandija (Novo mesto)</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <LANGUAGE lang="deu">3</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:11/enota:26</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 12. 1869, Šmihel-Stopiče, Kandija 33,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:22934">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Enota za Dolenjsko in Belo krajino, Novo mesto</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 12. 1869</TITLE>
+        <TITLE titleType="Title" lang="slv">Občina Šmihel-Stopiče</TITLE>
+        <TITLE titleType="Title" lang="slv">Kandija 33</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 December 1869</TITLE>
+        <TITLE titleType="Title" lang="eng">Municipality Šmihel-Stopiče</TITLE>
+        <TITLE titleType="Title" lang="eng">Kandija 33</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">občina Šmihel-Stopiče</SUBJECT>
+        <SUBJECT lang="slv">Kandija</SUBJECT>
+        <SUBJECT lang="slv">Novo mesto</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1869</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">municipality Šmihel-Stopiče</SUBJECT>
+        <SUBJECT lang="eng">Kandija</SUBJECT>
+        <SUBJECT lang="eng">Novo mesto</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1869</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Enota za Dolenjsko in Belo krajino, Novo mesto</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_NME/0003/Smihel_Stopice_1869/Kandija 33</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Kandija</COVERAGE>
+        <COVERAGE coverageType="Spatial" attr="">Novo mesto</COVERAGE>
+        <COVERAGE coverageType="Spatial" attr="Point">north=45.801132; east=15.162542; name=Kandija</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1869-12-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <DATETIME_ADDED>2014-03-19 22:04:56</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-03-19 22:04:56</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="NME_Smihel_Stopice_1869_Kandija_33.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>22933</ID>
+        <URN>11686/22933</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <MENU_ID id="623">SI_ZAL_NME/0003 Popis prebivalstva 1869, Kandija (Novo mesto)</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <LANGUAGE lang="deu">3</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:11/enota:25</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 12. 1869, Šmihel-Stopiče, Kandija 32,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:22933">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Enota za Dolenjsko in Belo krajino, Novo mesto</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 12. 1869</TITLE>
+        <TITLE titleType="Title" lang="slv">Občina Šmihel-Stopiče</TITLE>
+        <TITLE titleType="Title" lang="slv">Kandija 32</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 December 1869</TITLE>
+        <TITLE titleType="Title" lang="eng">Municipality Šmihel-Stopiče</TITLE>
+        <TITLE titleType="Title" lang="eng">Kandija 32</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">občina Šmihel-Stopiče</SUBJECT>
+        <SUBJECT lang="slv">Kandija</SUBJECT>
+        <SUBJECT lang="slv">Novo mesto</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1869</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">municipality Šmihel-Stopiče</SUBJECT>
+        <SUBJECT lang="eng">Kandija</SUBJECT>
+        <SUBJECT lang="eng">Novo mesto</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1869</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Enota za Dolenjsko in Belo krajino, Novo mesto</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_NME/0003/Smihel_Stopice_1869/Kandija 32</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Kandija</COVERAGE>
+        <COVERAGE coverageType="Spatial" attr="">Novo mesto</COVERAGE>
+        <COVERAGE coverageType="Spatial" attr="Point">north=45.801132; east=15.162542; name=Kandija</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1869-12-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <DATETIME_ADDED>2014-03-19 22:04:56</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-03-19 22:04:56</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="NME_Smihel_Stopice_1869_Kandija_32.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>22932</ID>
+        <URN>11686/22932</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <MENU_ID id="623">SI_ZAL_NME/0003 Popis prebivalstva 1869, Kandija (Novo mesto)</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <LANGUAGE lang="deu">3</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:11/enota:24</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 12. 1869, Šmihel-Stopiče, Kandija 31,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:22932">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Enota za Dolenjsko in Belo krajino, Novo mesto</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 12. 1869</TITLE>
+        <TITLE titleType="Title" lang="slv">Občina Šmihel-Stopiče</TITLE>
+        <TITLE titleType="Title" lang="slv">Kandija 31</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 December 1869</TITLE>
+        <TITLE titleType="Title" lang="eng">Municipality Šmihel-Stopiče</TITLE>
+        <TITLE titleType="Title" lang="eng">Kandija 31</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">občina Šmihel-Stopiče</SUBJECT>
+        <SUBJECT lang="slv">Kandija</SUBJECT>
+        <SUBJECT lang="slv">Novo mesto</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1869</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">municipality Šmihel-Stopiče</SUBJECT>
+        <SUBJECT lang="eng">Kandija</SUBJECT>
+        <SUBJECT lang="eng">Novo mesto</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1869</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Enota za Dolenjsko in Belo krajino, Novo mesto</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_NME/0003/Smihel_Stopice_1869/Kandija 31</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Kandija</COVERAGE>
+        <COVERAGE coverageType="Spatial" attr="">Novo mesto</COVERAGE>
+        <COVERAGE coverageType="Spatial" attr="Point">north=45.801132; east=15.162542; name=Kandija</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1869-12-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <DATETIME_ADDED>2014-03-19 22:04:55</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-03-19 22:04:55</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="NME_Smihel_Stopice_1869_Kandija_31.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>22931</ID>
+        <URN>11686/22931</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <MENU_ID id="623">SI_ZAL_NME/0003 Popis prebivalstva 1869, Kandija (Novo mesto)</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <LANGUAGE lang="deu">3</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:11/enota:23</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 12. 1869, Šmihel-Stopiče, Kandija 30,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:22931">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Enota za Dolenjsko in Belo krajino, Novo mesto</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 12. 1869</TITLE>
+        <TITLE titleType="Title" lang="slv">Občina Šmihel-Stopiče</TITLE>
+        <TITLE titleType="Title" lang="slv">Kandija 30</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 December 1869</TITLE>
+        <TITLE titleType="Title" lang="eng">Municipality Šmihel-Stopiče</TITLE>
+        <TITLE titleType="Title" lang="eng">Kandija 30</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">občina Šmihel-Stopiče</SUBJECT>
+        <SUBJECT lang="slv">Kandija</SUBJECT>
+        <SUBJECT lang="slv">Novo mesto</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1869</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">municipality Šmihel-Stopiče</SUBJECT>
+        <SUBJECT lang="eng">Kandija</SUBJECT>
+        <SUBJECT lang="eng">Novo mesto</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1869</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Enota za Dolenjsko in Belo krajino, Novo mesto</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_NME/0003/Smihel_Stopice_1869/Kandija 30</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Kandija</COVERAGE>
+        <COVERAGE coverageType="Spatial" attr="">Novo mesto</COVERAGE>
+        <COVERAGE coverageType="Spatial" attr="Point">north=45.801132; east=15.162542; name=Kandija</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1869-12-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <DATETIME_ADDED>2014-03-19 22:04:55</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-03-19 22:04:55</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="NME_Smihel_Stopice_1869_Kandija_30.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>22930</ID>
+        <URN>11686/22930</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <MENU_ID id="623">SI_ZAL_NME/0003 Popis prebivalstva 1869, Kandija (Novo mesto)</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <LANGUAGE lang="deu">3</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:11/enota:22</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 12. 1869, Šmihel-Stopiče, Kandija 3,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:22930">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Enota za Dolenjsko in Belo krajino, Novo mesto</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 12. 1869</TITLE>
+        <TITLE titleType="Title" lang="slv">Občina Šmihel-Stopiče</TITLE>
+        <TITLE titleType="Title" lang="slv">Kandija 3</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 December 1869</TITLE>
+        <TITLE titleType="Title" lang="eng">Municipality Šmihel-Stopiče</TITLE>
+        <TITLE titleType="Title" lang="eng">Kandija 3</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">občina Šmihel-Stopiče</SUBJECT>
+        <SUBJECT lang="slv">Kandija</SUBJECT>
+        <SUBJECT lang="slv">Novo mesto</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1869</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">municipality Šmihel-Stopiče</SUBJECT>
+        <SUBJECT lang="eng">Kandija</SUBJECT>
+        <SUBJECT lang="eng">Novo mesto</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1869</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Enota za Dolenjsko in Belo krajino, Novo mesto</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_NME/0003/Smihel_Stopice_1869/Kandija 3</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Kandija</COVERAGE>
+        <COVERAGE coverageType="Spatial" attr="">Novo mesto</COVERAGE>
+        <COVERAGE coverageType="Spatial" attr="Point">north=45.801132; east=15.162542; name=Kandija</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1869-12-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <DATETIME_ADDED>2014-03-19 22:04:55</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-03-19 22:04:55</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="NME_Smihel_Stopice_1869_Kandija_3.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>22929</ID>
+        <URN>11686/22929</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <MENU_ID id="623">SI_ZAL_NME/0003 Popis prebivalstva 1869, Kandija (Novo mesto)</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <LANGUAGE lang="deu">3</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:11/enota:21</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 12. 1869, Šmihel-Stopiče, Kandija 29,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:22929">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Enota za Dolenjsko in Belo krajino, Novo mesto</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 12. 1869</TITLE>
+        <TITLE titleType="Title" lang="slv">Občina Šmihel-Stopiče</TITLE>
+        <TITLE titleType="Title" lang="slv">Kandija 29</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 December 1869</TITLE>
+        <TITLE titleType="Title" lang="eng">Municipality Šmihel-Stopiče</TITLE>
+        <TITLE titleType="Title" lang="eng">Kandija 29</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">občina Šmihel-Stopiče</SUBJECT>
+        <SUBJECT lang="slv">Kandija</SUBJECT>
+        <SUBJECT lang="slv">Novo mesto</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1869</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">municipality Šmihel-Stopiče</SUBJECT>
+        <SUBJECT lang="eng">Kandija</SUBJECT>
+        <SUBJECT lang="eng">Novo mesto</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1869</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Enota za Dolenjsko in Belo krajino, Novo mesto</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_NME/0003/Smihel_Stopice_1869/Kandija 29</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Kandija</COVERAGE>
+        <COVERAGE coverageType="Spatial" attr="">Novo mesto</COVERAGE>
+        <COVERAGE coverageType="Spatial" attr="Point">north=45.801132; east=15.162542; name=Kandija</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1869-12-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <DATETIME_ADDED>2014-03-19 22:04:55</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-03-19 22:04:55</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="NME_Smihel_Stopice_1869_Kandija_29.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>22928</ID>
+        <URN>11686/22928</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <MENU_ID id="623">SI_ZAL_NME/0003 Popis prebivalstva 1869, Kandija (Novo mesto)</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <LANGUAGE lang="deu">3</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:11/enota:20</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 12. 1869, Šmihel-Stopiče, Kandija 28,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:22928">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Enota za Dolenjsko in Belo krajino, Novo mesto</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 12. 1869</TITLE>
+        <TITLE titleType="Title" lang="slv">Občina Šmihel-Stopiče</TITLE>
+        <TITLE titleType="Title" lang="slv">Kandija 28</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 December 1869</TITLE>
+        <TITLE titleType="Title" lang="eng">Municipality Šmihel-Stopiče</TITLE>
+        <TITLE titleType="Title" lang="eng">Kandija 28</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">občina Šmihel-Stopiče</SUBJECT>
+        <SUBJECT lang="slv">Kandija</SUBJECT>
+        <SUBJECT lang="slv">Novo mesto</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1869</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">municipality Šmihel-Stopiče</SUBJECT>
+        <SUBJECT lang="eng">Kandija</SUBJECT>
+        <SUBJECT lang="eng">Novo mesto</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1869</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Enota za Dolenjsko in Belo krajino, Novo mesto</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_NME/0003/Smihel_Stopice_1869/Kandija 28</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Kandija</COVERAGE>
+        <COVERAGE coverageType="Spatial" attr="">Novo mesto</COVERAGE>
+        <COVERAGE coverageType="Spatial" attr="Point">north=45.801132; east=15.162542; name=Kandija</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1869-12-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <DATETIME_ADDED>2014-03-19 22:04:55</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-03-19 22:04:55</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="NME_Smihel_Stopice_1869_Kandija_28.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>22927</ID>
+        <URN>11686/22927</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <MENU_ID id="623">SI_ZAL_NME/0003 Popis prebivalstva 1869, Kandija (Novo mesto)</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <LANGUAGE lang="deu">3</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:11/enota:19</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 12. 1869, Šmihel-Stopiče, Kandija 27,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:22927">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Enota za Dolenjsko in Belo krajino, Novo mesto</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 12. 1869</TITLE>
+        <TITLE titleType="Title" lang="slv">Občina Šmihel-Stopiče</TITLE>
+        <TITLE titleType="Title" lang="slv">Kandija 27</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 December 1869</TITLE>
+        <TITLE titleType="Title" lang="eng">Municipality Šmihel-Stopiče</TITLE>
+        <TITLE titleType="Title" lang="eng">Kandija 27</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">občina Šmihel-Stopiče</SUBJECT>
+        <SUBJECT lang="slv">Kandija</SUBJECT>
+        <SUBJECT lang="slv">Novo mesto</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1869</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">municipality Šmihel-Stopiče</SUBJECT>
+        <SUBJECT lang="eng">Kandija</SUBJECT>
+        <SUBJECT lang="eng">Novo mesto</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1869</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Enota za Dolenjsko in Belo krajino, Novo mesto</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_NME/0003/Smihel_Stopice_1869/Kandija 27</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Kandija</COVERAGE>
+        <COVERAGE coverageType="Spatial" attr="">Novo mesto</COVERAGE>
+        <COVERAGE coverageType="Spatial" attr="Point">north=45.801132; east=15.162542; name=Kandija</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1869-12-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <DATETIME_ADDED>2014-03-19 22:04:55</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-03-19 22:04:55</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="NME_Smihel_Stopice_1869_Kandija_27.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>22926</ID>
+        <URN>11686/22926</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <MENU_ID id="623">SI_ZAL_NME/0003 Popis prebivalstva 1869, Kandija (Novo mesto)</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <LANGUAGE lang="deu">3</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:11/enota:18</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 12. 1869, Šmihel-Stopiče, Kandija 26,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:22926">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Enota za Dolenjsko in Belo krajino, Novo mesto</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 12. 1869</TITLE>
+        <TITLE titleType="Title" lang="slv">Občina Šmihel-Stopiče</TITLE>
+        <TITLE titleType="Title" lang="slv">Kandija 26</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 December 1869</TITLE>
+        <TITLE titleType="Title" lang="eng">Municipality Šmihel-Stopiče</TITLE>
+        <TITLE titleType="Title" lang="eng">Kandija 26</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">občina Šmihel-Stopiče</SUBJECT>
+        <SUBJECT lang="slv">Kandija</SUBJECT>
+        <SUBJECT lang="slv">Novo mesto</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1869</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">municipality Šmihel-Stopiče</SUBJECT>
+        <SUBJECT lang="eng">Kandija</SUBJECT>
+        <SUBJECT lang="eng">Novo mesto</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1869</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Enota za Dolenjsko in Belo krajino, Novo mesto</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_NME/0003/Smihel_Stopice_1869/Kandija 26</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Kandija</COVERAGE>
+        <COVERAGE coverageType="Spatial" attr="">Novo mesto</COVERAGE>
+        <COVERAGE coverageType="Spatial" attr="Point">north=45.801132; east=15.162542; name=Kandija</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1869-12-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <DATETIME_ADDED>2014-03-19 22:04:55</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-03-19 22:04:55</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="NME_Smihel_Stopice_1869_Kandija_26.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>22925</ID>
+        <URN>11686/22925</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <MENU_ID id="623">SI_ZAL_NME/0003 Popis prebivalstva 1869, Kandija (Novo mesto)</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <LANGUAGE lang="deu">3</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:11/enota:17</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 12. 1869, Šmihel-Stopiče, Kandija 25,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:22925">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Enota za Dolenjsko in Belo krajino, Novo mesto</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 12. 1869</TITLE>
+        <TITLE titleType="Title" lang="slv">Občina Šmihel-Stopiče</TITLE>
+        <TITLE titleType="Title" lang="slv">Kandija 25</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 December 1869</TITLE>
+        <TITLE titleType="Title" lang="eng">Municipality Šmihel-Stopiče</TITLE>
+        <TITLE titleType="Title" lang="eng">Kandija 25</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">občina Šmihel-Stopiče</SUBJECT>
+        <SUBJECT lang="slv">Kandija</SUBJECT>
+        <SUBJECT lang="slv">Novo mesto</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1869</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">municipality Šmihel-Stopiče</SUBJECT>
+        <SUBJECT lang="eng">Kandija</SUBJECT>
+        <SUBJECT lang="eng">Novo mesto</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1869</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Enota za Dolenjsko in Belo krajino, Novo mesto</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_NME/0003/Smihel_Stopice_1869/Kandija 25</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Kandija</COVERAGE>
+        <COVERAGE coverageType="Spatial" attr="">Novo mesto</COVERAGE>
+        <COVERAGE coverageType="Spatial" attr="Point">north=45.801132; east=15.162542; name=Kandija</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1869-12-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <DATETIME_ADDED>2014-03-19 22:04:55</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-03-19 22:04:55</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="NME_Smihel_Stopice_1869_Kandija_25.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>22924</ID>
+        <URN>11686/22924</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <MENU_ID id="623">SI_ZAL_NME/0003 Popis prebivalstva 1869, Kandija (Novo mesto)</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <LANGUAGE lang="deu">3</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:11/enota:16</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 12. 1869, Šmihel-Stopiče, Kandija 24,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:22924">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Enota za Dolenjsko in Belo krajino, Novo mesto</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 12. 1869</TITLE>
+        <TITLE titleType="Title" lang="slv">Občina Šmihel-Stopiče</TITLE>
+        <TITLE titleType="Title" lang="slv">Kandija 24</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 December 1869</TITLE>
+        <TITLE titleType="Title" lang="eng">Municipality Šmihel-Stopiče</TITLE>
+        <TITLE titleType="Title" lang="eng">Kandija 24</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">občina Šmihel-Stopiče</SUBJECT>
+        <SUBJECT lang="slv">Kandija</SUBJECT>
+        <SUBJECT lang="slv">Novo mesto</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1869</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">municipality Šmihel-Stopiče</SUBJECT>
+        <SUBJECT lang="eng">Kandija</SUBJECT>
+        <SUBJECT lang="eng">Novo mesto</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1869</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Enota za Dolenjsko in Belo krajino, Novo mesto</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_NME/0003/Smihel_Stopice_1869/Kandija 24</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Kandija</COVERAGE>
+        <COVERAGE coverageType="Spatial" attr="">Novo mesto</COVERAGE>
+        <COVERAGE coverageType="Spatial" attr="Point">north=45.801132; east=15.162542; name=Kandija</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1869-12-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <DATETIME_ADDED>2014-03-19 22:04:55</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-03-19 22:04:55</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="NME_Smihel_Stopice_1869_Kandija_24.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>22923</ID>
+        <URN>11686/22923</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <MENU_ID id="623">SI_ZAL_NME/0003 Popis prebivalstva 1869, Kandija (Novo mesto)</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <LANGUAGE lang="deu">3</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:11/enota:15</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 12. 1869, Šmihel-Stopiče, Kandija 23,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:22923">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Enota za Dolenjsko in Belo krajino, Novo mesto</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 12. 1869</TITLE>
+        <TITLE titleType="Title" lang="slv">Občina Šmihel-Stopiče</TITLE>
+        <TITLE titleType="Title" lang="slv">Kandija 23</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 December 1869</TITLE>
+        <TITLE titleType="Title" lang="eng">Municipality Šmihel-Stopiče</TITLE>
+        <TITLE titleType="Title" lang="eng">Kandija 23</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">občina Šmihel-Stopiče</SUBJECT>
+        <SUBJECT lang="slv">Kandija</SUBJECT>
+        <SUBJECT lang="slv">Novo mesto</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1869</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">municipality Šmihel-Stopiče</SUBJECT>
+        <SUBJECT lang="eng">Kandija</SUBJECT>
+        <SUBJECT lang="eng">Novo mesto</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1869</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Enota za Dolenjsko in Belo krajino, Novo mesto</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_NME/0003/Smihel_Stopice_1869/Kandija 23</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Kandija</COVERAGE>
+        <COVERAGE coverageType="Spatial" attr="">Novo mesto</COVERAGE>
+        <COVERAGE coverageType="Spatial" attr="Point">north=45.801132; east=15.162542; name=Kandija</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1869-12-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <DATETIME_ADDED>2014-03-19 22:04:55</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-03-19 22:04:55</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="NME_Smihel_Stopice_1869_Kandija_23.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>22922</ID>
+        <URN>11686/22922</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <MENU_ID id="623">SI_ZAL_NME/0003 Popis prebivalstva 1869, Kandija (Novo mesto)</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <LANGUAGE lang="deu">3</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:11/enota:14</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 12. 1869, Šmihel-Stopiče, Kandija 22,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:22922">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Enota za Dolenjsko in Belo krajino, Novo mesto</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 12. 1869</TITLE>
+        <TITLE titleType="Title" lang="slv">Občina Šmihel-Stopiče</TITLE>
+        <TITLE titleType="Title" lang="slv">Kandija 22</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 December 1869</TITLE>
+        <TITLE titleType="Title" lang="eng">Municipality Šmihel-Stopiče</TITLE>
+        <TITLE titleType="Title" lang="eng">Kandija 22</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">občina Šmihel-Stopiče</SUBJECT>
+        <SUBJECT lang="slv">Kandija</SUBJECT>
+        <SUBJECT lang="slv">Novo mesto</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1869</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">municipality Šmihel-Stopiče</SUBJECT>
+        <SUBJECT lang="eng">Kandija</SUBJECT>
+        <SUBJECT lang="eng">Novo mesto</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1869</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Enota za Dolenjsko in Belo krajino, Novo mesto</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_NME/0003/Smihel_Stopice_1869/Kandija 22</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Kandija</COVERAGE>
+        <COVERAGE coverageType="Spatial" attr="">Novo mesto</COVERAGE>
+        <COVERAGE coverageType="Spatial" attr="Point">north=45.801132; east=15.162542; name=Kandija</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1869-12-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <DATETIME_ADDED>2014-03-19 22:04:55</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-03-19 22:04:55</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="NME_Smihel_Stopice_1869_Kandija_22.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>22921</ID>
+        <URN>11686/22921</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <MENU_ID id="623">SI_ZAL_NME/0003 Popis prebivalstva 1869, Kandija (Novo mesto)</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <LANGUAGE lang="deu">3</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:11/enota:13</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 12. 1869, Šmihel-Stopiče, Kandija 21,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:22921">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Enota za Dolenjsko in Belo krajino, Novo mesto</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 12. 1869</TITLE>
+        <TITLE titleType="Title" lang="slv">Občina Šmihel-Stopiče</TITLE>
+        <TITLE titleType="Title" lang="slv">Kandija 21</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 December 1869</TITLE>
+        <TITLE titleType="Title" lang="eng">Municipality Šmihel-Stopiče</TITLE>
+        <TITLE titleType="Title" lang="eng">Kandija 21</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">občina Šmihel-Stopiče</SUBJECT>
+        <SUBJECT lang="slv">Kandija</SUBJECT>
+        <SUBJECT lang="slv">Novo mesto</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1869</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">municipality Šmihel-Stopiče</SUBJECT>
+        <SUBJECT lang="eng">Kandija</SUBJECT>
+        <SUBJECT lang="eng">Novo mesto</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1869</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Enota za Dolenjsko in Belo krajino, Novo mesto</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_NME/0003/Smihel_Stopice_1869/Kandija 21</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Kandija</COVERAGE>
+        <COVERAGE coverageType="Spatial" attr="">Novo mesto</COVERAGE>
+        <COVERAGE coverageType="Spatial" attr="Point">north=45.801132; east=15.162542; name=Kandija</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1869-12-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <DATETIME_ADDED>2014-03-19 22:04:55</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-03-19 22:04:55</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="NME_Smihel_Stopice_1869_Kandija_21.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>22920</ID>
+        <URN>11686/22920</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <MENU_ID id="623">SI_ZAL_NME/0003 Popis prebivalstva 1869, Kandija (Novo mesto)</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <LANGUAGE lang="deu">3</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:11/enota:12</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 12. 1869, Šmihel-Stopiče, Kandija 20,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:22920">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Enota za Dolenjsko in Belo krajino, Novo mesto</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 12. 1869</TITLE>
+        <TITLE titleType="Title" lang="slv">Občina Šmihel-Stopiče</TITLE>
+        <TITLE titleType="Title" lang="slv">Kandija 20</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 December 1869</TITLE>
+        <TITLE titleType="Title" lang="eng">Municipality Šmihel-Stopiče</TITLE>
+        <TITLE titleType="Title" lang="eng">Kandija 20</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">občina Šmihel-Stopiče</SUBJECT>
+        <SUBJECT lang="slv">Kandija</SUBJECT>
+        <SUBJECT lang="slv">Novo mesto</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1869</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">municipality Šmihel-Stopiče</SUBJECT>
+        <SUBJECT lang="eng">Kandija</SUBJECT>
+        <SUBJECT lang="eng">Novo mesto</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1869</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Enota za Dolenjsko in Belo krajino, Novo mesto</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_NME/0003/Smihel_Stopice_1869/Kandija 20</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Kandija</COVERAGE>
+        <COVERAGE coverageType="Spatial" attr="">Novo mesto</COVERAGE>
+        <COVERAGE coverageType="Spatial" attr="Point">north=45.801132; east=15.162542; name=Kandija</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1869-12-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <DATETIME_ADDED>2014-03-19 22:04:55</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-03-19 22:04:55</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="NME_Smihel_Stopice_1869_Kandija_20.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>22919</ID>
+        <URN>11686/22919</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <MENU_ID id="623">SI_ZAL_NME/0003 Popis prebivalstva 1869, Kandija (Novo mesto)</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <LANGUAGE lang="deu">3</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:11/enota:11</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 12. 1869, Šmihel-Stopiče, Kandija 2,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:22919">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Enota za Dolenjsko in Belo krajino, Novo mesto</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 12. 1869</TITLE>
+        <TITLE titleType="Title" lang="slv">Občina Šmihel-Stopiče</TITLE>
+        <TITLE titleType="Title" lang="slv">Kandija 2</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 December 1869</TITLE>
+        <TITLE titleType="Title" lang="eng">Municipality Šmihel-Stopiče</TITLE>
+        <TITLE titleType="Title" lang="eng">Kandija 2</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">občina Šmihel-Stopiče</SUBJECT>
+        <SUBJECT lang="slv">Kandija</SUBJECT>
+        <SUBJECT lang="slv">Novo mesto</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1869</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">municipality Šmihel-Stopiče</SUBJECT>
+        <SUBJECT lang="eng">Kandija</SUBJECT>
+        <SUBJECT lang="eng">Novo mesto</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1869</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Enota za Dolenjsko in Belo krajino, Novo mesto</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_NME/0003/Smihel_Stopice_1869/Kandija 2</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Kandija</COVERAGE>
+        <COVERAGE coverageType="Spatial" attr="">Novo mesto</COVERAGE>
+        <COVERAGE coverageType="Spatial" attr="Point">north=45.801132; east=15.162542; name=Kandija</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1869-12-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <DATETIME_ADDED>2014-03-19 22:04:55</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-03-19 22:04:55</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="NME_Smihel_Stopice_1869_Kandija_2.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>22918</ID>
+        <URN>11686/22918</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <MENU_ID id="623">SI_ZAL_NME/0003 Popis prebivalstva 1869, Kandija (Novo mesto)</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <LANGUAGE lang="deu">3</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:11/enota:10</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 12. 1869, Šmihel-Stopiče, Kandija 19,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:22918">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Enota za Dolenjsko in Belo krajino, Novo mesto</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 12. 1869</TITLE>
+        <TITLE titleType="Title" lang="slv">Občina Šmihel-Stopiče</TITLE>
+        <TITLE titleType="Title" lang="slv">Kandija 19</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 December 1869</TITLE>
+        <TITLE titleType="Title" lang="eng">Municipality Šmihel-Stopiče</TITLE>
+        <TITLE titleType="Title" lang="eng">Kandija 19</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">občina Šmihel-Stopiče</SUBJECT>
+        <SUBJECT lang="slv">Kandija</SUBJECT>
+        <SUBJECT lang="slv">Novo mesto</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1869</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">municipality Šmihel-Stopiče</SUBJECT>
+        <SUBJECT lang="eng">Kandija</SUBJECT>
+        <SUBJECT lang="eng">Novo mesto</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1869</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Enota za Dolenjsko in Belo krajino, Novo mesto</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_NME/0003/Smihel_Stopice_1869/Kandija 19</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Kandija</COVERAGE>
+        <COVERAGE coverageType="Spatial" attr="">Novo mesto</COVERAGE>
+        <COVERAGE coverageType="Spatial" attr="Point">north=45.801132; east=15.162542; name=Kandija</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1869-12-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <DATETIME_ADDED>2014-03-19 22:04:55</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-03-19 22:04:55</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="NME_Smihel_Stopice_1869_Kandija_19.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>22917</ID>
+        <URN>11686/22917</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <MENU_ID id="623">SI_ZAL_NME/0003 Popis prebivalstva 1869, Kandija (Novo mesto)</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <LANGUAGE lang="deu">3</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:11/enota:9</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 12. 1869, Šmihel-Stopiče, Kandija 18,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:22917">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Enota za Dolenjsko in Belo krajino, Novo mesto</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 12. 1869</TITLE>
+        <TITLE titleType="Title" lang="slv">Občina Šmihel-Stopiče</TITLE>
+        <TITLE titleType="Title" lang="slv">Kandija 18</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 December 1869</TITLE>
+        <TITLE titleType="Title" lang="eng">Municipality Šmihel-Stopiče</TITLE>
+        <TITLE titleType="Title" lang="eng">Kandija 18</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">občina Šmihel-Stopiče</SUBJECT>
+        <SUBJECT lang="slv">Kandija</SUBJECT>
+        <SUBJECT lang="slv">Novo mesto</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1869</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">municipality Šmihel-Stopiče</SUBJECT>
+        <SUBJECT lang="eng">Kandija</SUBJECT>
+        <SUBJECT lang="eng">Novo mesto</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1869</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Enota za Dolenjsko in Belo krajino, Novo mesto</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_NME/0003/Smihel_Stopice_1869/Kandija 18</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Kandija</COVERAGE>
+        <COVERAGE coverageType="Spatial" attr="">Novo mesto</COVERAGE>
+        <COVERAGE coverageType="Spatial" attr="Point">north=45.801132; east=15.162542; name=Kandija</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1869-12-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <DATETIME_ADDED>2014-03-19 22:04:55</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-03-19 22:04:55</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="NME_Smihel_Stopice_1869_Kandija_18.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>22916</ID>
+        <URN>11686/22916</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <MENU_ID id="623">SI_ZAL_NME/0003 Popis prebivalstva 1869, Kandija (Novo mesto)</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <LANGUAGE lang="deu">3</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:11/enota:8</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 12. 1869, Šmihel-Stopiče, Kandija 17,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:22916">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Enota za Dolenjsko in Belo krajino, Novo mesto</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 12. 1869</TITLE>
+        <TITLE titleType="Title" lang="slv">Občina Šmihel-Stopiče</TITLE>
+        <TITLE titleType="Title" lang="slv">Kandija 17</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 December 1869</TITLE>
+        <TITLE titleType="Title" lang="eng">Municipality Šmihel-Stopiče</TITLE>
+        <TITLE titleType="Title" lang="eng">Kandija 17</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">občina Šmihel-Stopiče</SUBJECT>
+        <SUBJECT lang="slv">Kandija</SUBJECT>
+        <SUBJECT lang="slv">Novo mesto</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1869</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">municipality Šmihel-Stopiče</SUBJECT>
+        <SUBJECT lang="eng">Kandija</SUBJECT>
+        <SUBJECT lang="eng">Novo mesto</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1869</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Enota za Dolenjsko in Belo krajino, Novo mesto</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_NME/0003/Smihel_Stopice_1869/Kandija 17</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Kandija</COVERAGE>
+        <COVERAGE coverageType="Spatial" attr="">Novo mesto</COVERAGE>
+        <COVERAGE coverageType="Spatial" attr="Point">north=45.801132; east=15.162542; name=Kandija</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1869-12-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <DATETIME_ADDED>2014-03-19 22:04:55</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-03-19 22:04:55</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="NME_Smihel_Stopice_1869_Kandija_17.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>22915</ID>
+        <URN>11686/22915</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <MENU_ID id="623">SI_ZAL_NME/0003 Popis prebivalstva 1869, Kandija (Novo mesto)</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <LANGUAGE lang="deu">3</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:11/enota:7</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 12. 1869, Šmihel-Stopiče, Kandija 16,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:22915">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Enota za Dolenjsko in Belo krajino, Novo mesto</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 12. 1869</TITLE>
+        <TITLE titleType="Title" lang="slv">Občina Šmihel-Stopiče</TITLE>
+        <TITLE titleType="Title" lang="slv">Kandija 16</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 December 1869</TITLE>
+        <TITLE titleType="Title" lang="eng">Municipality Šmihel-Stopiče</TITLE>
+        <TITLE titleType="Title" lang="eng">Kandija 16</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">občina Šmihel-Stopiče</SUBJECT>
+        <SUBJECT lang="slv">Kandija</SUBJECT>
+        <SUBJECT lang="slv">Novo mesto</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1869</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">municipality Šmihel-Stopiče</SUBJECT>
+        <SUBJECT lang="eng">Kandija</SUBJECT>
+        <SUBJECT lang="eng">Novo mesto</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1869</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Enota za Dolenjsko in Belo krajino, Novo mesto</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_NME/0003/Smihel_Stopice_1869/Kandija 16</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Kandija</COVERAGE>
+        <COVERAGE coverageType="Spatial" attr="">Novo mesto</COVERAGE>
+        <COVERAGE coverageType="Spatial" attr="Point">north=45.801132; east=15.162542; name=Kandija</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1869-12-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <DATETIME_ADDED>2014-03-19 22:04:55</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-03-19 22:04:55</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="NME_Smihel_Stopice_1869_Kandija_16.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>22914</ID>
+        <URN>11686/22914</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <MENU_ID id="623">SI_ZAL_NME/0003 Popis prebivalstva 1869, Kandija (Novo mesto)</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <LANGUAGE lang="deu">3</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:11/enota:6</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 12. 1869, Šmihel-Stopiče, Kandija 15,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:22914">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Enota za Dolenjsko in Belo krajino, Novo mesto</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 12. 1869</TITLE>
+        <TITLE titleType="Title" lang="slv">Občina Šmihel-Stopiče</TITLE>
+        <TITLE titleType="Title" lang="slv">Kandija 15</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 December 1869</TITLE>
+        <TITLE titleType="Title" lang="eng">Municipality Šmihel-Stopiče</TITLE>
+        <TITLE titleType="Title" lang="eng">Kandija 15</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">občina Šmihel-Stopiče</SUBJECT>
+        <SUBJECT lang="slv">Kandija</SUBJECT>
+        <SUBJECT lang="slv">Novo mesto</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1869</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">municipality Šmihel-Stopiče</SUBJECT>
+        <SUBJECT lang="eng">Kandija</SUBJECT>
+        <SUBJECT lang="eng">Novo mesto</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1869</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Enota za Dolenjsko in Belo krajino, Novo mesto</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_NME/0003/Smihel_Stopice_1869/Kandija 15</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Kandija</COVERAGE>
+        <COVERAGE coverageType="Spatial" attr="">Novo mesto</COVERAGE>
+        <COVERAGE coverageType="Spatial" attr="Point">north=45.801132; east=15.162542; name=Kandija</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1869-12-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <DATETIME_ADDED>2014-03-19 22:04:54</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-03-19 22:04:54</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="NME_Smihel_Stopice_1869_Kandija_15.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>22913</ID>
+        <URN>11686/22913</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <MENU_ID id="623">SI_ZAL_NME/0003 Popis prebivalstva 1869, Kandija (Novo mesto)</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <LANGUAGE lang="deu">3</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:11/enota:5</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 12. 1869, Šmihel-Stopiče, Kandija 14,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:22913">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Enota za Dolenjsko in Belo krajino, Novo mesto</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 12. 1869</TITLE>
+        <TITLE titleType="Title" lang="slv">Občina Šmihel-Stopiče</TITLE>
+        <TITLE titleType="Title" lang="slv">Kandija 14</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 December 1869</TITLE>
+        <TITLE titleType="Title" lang="eng">Municipality Šmihel-Stopiče</TITLE>
+        <TITLE titleType="Title" lang="eng">Kandija 14</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">občina Šmihel-Stopiče</SUBJECT>
+        <SUBJECT lang="slv">Kandija</SUBJECT>
+        <SUBJECT lang="slv">Novo mesto</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1869</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">municipality Šmihel-Stopiče</SUBJECT>
+        <SUBJECT lang="eng">Kandija</SUBJECT>
+        <SUBJECT lang="eng">Novo mesto</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1869</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Enota za Dolenjsko in Belo krajino, Novo mesto</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_NME/0003/Smihel_Stopice_1869/Kandija 14</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Kandija</COVERAGE>
+        <COVERAGE coverageType="Spatial" attr="">Novo mesto</COVERAGE>
+        <COVERAGE coverageType="Spatial" attr="Point">north=45.801132; east=15.162542; name=Kandija</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1869-12-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <DATETIME_ADDED>2014-03-19 22:04:54</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-03-19 22:04:54</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="NME_Smihel_Stopice_1869_Kandija_14.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>22912</ID>
+        <URN>11686/22912</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <MENU_ID id="623">SI_ZAL_NME/0003 Popis prebivalstva 1869, Kandija (Novo mesto)</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <LANGUAGE lang="deu">3</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:11/enota:4</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 12. 1869, Šmihel-Stopiče, Kandija 13,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:22912">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Enota za Dolenjsko in Belo krajino, Novo mesto</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 12. 1869</TITLE>
+        <TITLE titleType="Title" lang="slv">Občina Šmihel-Stopiče</TITLE>
+        <TITLE titleType="Title" lang="slv">Kandija 13</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 December 1869</TITLE>
+        <TITLE titleType="Title" lang="eng">Municipality Šmihel-Stopiče</TITLE>
+        <TITLE titleType="Title" lang="eng">Kandija 13</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">občina Šmihel-Stopiče</SUBJECT>
+        <SUBJECT lang="slv">Kandija</SUBJECT>
+        <SUBJECT lang="slv">Novo mesto</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1869</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">municipality Šmihel-Stopiče</SUBJECT>
+        <SUBJECT lang="eng">Kandija</SUBJECT>
+        <SUBJECT lang="eng">Novo mesto</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1869</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Enota za Dolenjsko in Belo krajino, Novo mesto</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_NME/0003/Smihel_Stopice_1869/Kandija 13</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Kandija</COVERAGE>
+        <COVERAGE coverageType="Spatial" attr="">Novo mesto</COVERAGE>
+        <COVERAGE coverageType="Spatial" attr="Point">north=45.801132; east=15.162542; name=Kandija</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1869-12-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <DATETIME_ADDED>2014-03-19 22:04:54</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-03-19 22:04:54</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="NME_Smihel_Stopice_1869_Kandija_13.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>22911</ID>
+        <URN>11686/22911</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <MENU_ID id="623">SI_ZAL_NME/0003 Popis prebivalstva 1869, Kandija (Novo mesto)</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <LANGUAGE lang="deu">3</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:11/enota:3</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 12. 1869, Šmihel-Stopiče, Kandija 12,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:22911">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Enota za Dolenjsko in Belo krajino, Novo mesto</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 12. 1869</TITLE>
+        <TITLE titleType="Title" lang="slv">Občina Šmihel-Stopiče</TITLE>
+        <TITLE titleType="Title" lang="slv">Kandija 12</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 December 1869</TITLE>
+        <TITLE titleType="Title" lang="eng">Municipality Šmihel-Stopiče</TITLE>
+        <TITLE titleType="Title" lang="eng">Kandija 12</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">občina Šmihel-Stopiče</SUBJECT>
+        <SUBJECT lang="slv">Kandija</SUBJECT>
+        <SUBJECT lang="slv">Novo mesto</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1869</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">municipality Šmihel-Stopiče</SUBJECT>
+        <SUBJECT lang="eng">Kandija</SUBJECT>
+        <SUBJECT lang="eng">Novo mesto</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1869</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Enota za Dolenjsko in Belo krajino, Novo mesto</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_NME/0003/Smihel_Stopice_1869/Kandija 12</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Kandija</COVERAGE>
+        <COVERAGE coverageType="Spatial" attr="">Novo mesto</COVERAGE>
+        <COVERAGE coverageType="Spatial" attr="Point">north=45.801132; east=15.162542; name=Kandija</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1869-12-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <DATETIME_ADDED>2014-03-19 22:04:54</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-03-19 22:04:54</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="NME_Smihel_Stopice_1869_Kandija_12.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>22910</ID>
+        <URN>11686/22910</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <MENU_ID id="623">SI_ZAL_NME/0003 Popis prebivalstva 1869, Kandija (Novo mesto)</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <LANGUAGE lang="deu">3</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:11/enota:2</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 12. 1869, Šmihel-Stopiče, Kandija 11,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:22910">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Enota za Dolenjsko in Belo krajino, Novo mesto</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 12. 1869</TITLE>
+        <TITLE titleType="Title" lang="slv">Občina Šmihel-Stopiče</TITLE>
+        <TITLE titleType="Title" lang="slv">Kandija 11</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 December 1869</TITLE>
+        <TITLE titleType="Title" lang="eng">Municipality Šmihel-Stopiče</TITLE>
+        <TITLE titleType="Title" lang="eng">Kandija 11</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">občina Šmihel-Stopiče</SUBJECT>
+        <SUBJECT lang="slv">Kandija</SUBJECT>
+        <SUBJECT lang="slv">Novo mesto</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1869</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">municipality Šmihel-Stopiče</SUBJECT>
+        <SUBJECT lang="eng">Kandija</SUBJECT>
+        <SUBJECT lang="eng">Novo mesto</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1869</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Enota za Dolenjsko in Belo krajino, Novo mesto</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_NME/0003/Smihel_Stopice_1869/Kandija 11</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Kandija</COVERAGE>
+        <COVERAGE coverageType="Spatial" attr="">Novo mesto</COVERAGE>
+        <COVERAGE coverageType="Spatial" attr="Point">north=45.801132; east=15.162542; name=Kandija</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1869-12-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <DATETIME_ADDED>2014-03-19 22:04:54</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-03-19 22:04:54</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="NME_Smihel_Stopice_1869_Kandija_11.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>22909</ID>
+        <URN>11686/22909</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <MENU_ID id="623">SI_ZAL_NME/0003 Popis prebivalstva 1869, Kandija (Novo mesto)</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <LANGUAGE lang="deu">3</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:11/enota:1</RELATION>
+        <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
+        <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+            <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+               <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+                    style="border-style: none;"
+                    alt="Public Domain Mark"/>
+            </a>
+            <br/>
+                    This work (<span property="dct:title">Popis prebivalstva 31. 12. 1869, Šmihel-Stopiče, Kandija 10,
+                        by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:22909">
+                  <span property="dct:title">Zgodovinski arhiv Ljubljana, Enota za Dolenjsko in Belo krajino, Novo mesto</span>
+               </a>)</span>,
+                    identified by <a href="http://www.sistory.si/" rel="dct:publisher">
+               <span property="dct:title">Zgodovina Slovenije - SIstory</span>
+            </a>, is free of known copyright restrictions.
+                    <br/>
+                    To delo avtorskopravno ni varovano.
+                </p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis prebivalstva 31. 12. 1869</TITLE>
+        <TITLE titleType="Title" lang="slv">Občina Šmihel-Stopiče</TITLE>
+        <TITLE titleType="Title" lang="slv">Kandija 10</TITLE>
+        <TITLE titleType="Title" lang="eng">Population census 31 December 1869</TITLE>
+        <TITLE titleType="Title" lang="eng">Municipality Šmihel-Stopiče</TITLE>
+        <TITLE titleType="Title" lang="eng">Kandija 10</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">občina Šmihel-Stopiče</SUBJECT>
+        <SUBJECT lang="slv">Kandija</SUBJECT>
+        <SUBJECT lang="slv">Novo mesto</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1869</SUBJECT>
+        <SUBJECT lang="eng">population censuses</SUBJECT>
+        <SUBJECT lang="eng">municipality Šmihel-Stopiče</SUBJECT>
+        <SUBJECT lang="eng">Kandija</SUBJECT>
+        <SUBJECT lang="eng">Novo mesto</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1869</SUBJECT>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Enota za Dolenjsko in Belo krajino, Novo mesto</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_NME/0003/Smihel_Stopice_1869/Kandija 10</IDENTIFIER>
+        <COVERAGE coverageType="Spatial" attr="">Kandija</COVERAGE>
+        <COVERAGE coverageType="Spatial" attr="">Novo mesto</COVERAGE>
+        <COVERAGE coverageType="Spatial" attr="Point">north=45.801132; east=15.162542; name=Kandija</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1869-12-31</COVERAGE>
+        <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <DATETIME_ADDED>2014-03-19 22:04:54</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2014-03-19 22:04:54</DATETIME_MODIFIED>
+        <USER_ID_ADDED>14</USER_ID_ADDED>
+        <PUBLICATION file="NME_Smihel_Stopice_1869_Kandija_10.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+</root>
