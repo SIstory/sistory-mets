@@ -1,0 +1,275 @@
+<root>
+    <publication>
+        <ID>37480</ID>
+        <URN>11686/37480</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CREATOR>
+            <IME>Andrej</IME>
+            <PRIIMEK>Pančur</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date">2013</DATE>
+        <MENU_ID id="608">Orodja</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <LANGUAGE lang="eng">2</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Software">9</TYPE_DC>
+        <RELATION relationType="requires" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/37478</RELATION>
+        <RELATION relationType="requires" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/37479</RELATION>
+        <TITLE titleType="Title" lang="eng">SIstory Basic to SIstory Dublin Core XML Schema conversion</TITLE>
+        <PUBLISHER>Inštitut za novejšo zgodovino</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>2013</YEAR>
+        <DATETIME_ADDED>2017-04-12 10:27:22</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-04-12 11:20:57</DATETIME_MODIFIED>
+        <USER_ID_ADDED>11</USER_ID_ADDED>
+        <PUBLICATION file="sistory-basic2sistory-dc_V2.xsl">
+            <ATTRIBUTE type="digitalFormat">application/xml</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>36156</ID>
+        <URN>11686/36156</URN>
+        <CHILD_ORDER>2</CHILD_ORDER>
+        <CREATOR>
+            <IME>Andrej</IME>
+            <PRIIMEK>Pančur</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date" format="W3CDTF">2013-10-10</DATE>
+        <MENU_ID id="608">Orodja</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Software">9</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.sl"><img alt="Creative Commons licenca" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br />To delo je ponujeno pod<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.sl">Creative Commons Priznanje avtorstva-Deljenje pod enakimi pogoji 3.0 Nedoločena licenco</a>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">SIstory augmented reality stil za konverzijo SIstory augmented reality XML v ARML XML (Wikitude)</TITLE>
+        <TITLE titleType="Title" lang="eng">SIstory augmented reality stylesheet for converting SIstory augmented reality XML to ARML XML (Wikitude)</TITLE>
+        <SUBJECT lang="slv">nadgrajena resničnost</SUBJECT>
+        <SUBJECT lang="eng">augmented reality</SUBJECT>
+        <SUBJECT lang="eng">XSLT</SUBJECT>
+        <SUBJECT lang="eng">Wikitude</SUBJECT>
+        <SUBJECT lang="eng">SIstory augmented reality XML</SUBJECT>
+        <PUBLISHER>Inštitut za novejšo zgodovino</PUBLISHER>
+        <SOURCE sourceType="Vir - URN Naslov">SISTORY:ID:36156</SOURCE>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>2013</YEAR>
+        <DATETIME_ADDED>2016-12-18 14:29:14</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-02-07 07:56:47</DATETIME_MODIFIED>
+        <USER_ID_ADDED>11</USER_ID_ADDED>
+        <PUBLICATION file="sistory-ar2wikitude.xsl">
+            <ATTRIBUTE type="digitalFormat">application/xml</ATTRIBUTE>
+        </PUBLICATION>
+        <PARENT>20389</PARENT>
+    </publication>
+    <publication>
+        <ID>36155</ID>
+        <URN>11686/36155</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CREATOR>
+            <IME>Andrej</IME>
+            <PRIIMEK>Pančur</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date" format="W3CDTF">2013-10-10</DATE>
+        <MENU_ID id="608">Orodja</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Software">9</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.sl"><img alt="Creative Commons licenca" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br />To delo je ponujeno pod<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.sl">Creative Commons Priznanje avtorstva-Deljenje pod enakimi pogoji 3.0 Nedoločena licenco</a>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">SIstory augmented reality stil za konverzijo SIstory augmented reality XML v Layar SQL</TITLE>
+        <TITLE titleType="Title" lang="eng">SIstory augmented reality stylesheet for converting SIstory augmented reality XML to Layar SQL</TITLE>
+        <SUBJECT lang="slv">nadgrajena resničnost, XSLT</SUBJECT>
+        <SUBJECT lang="slv">SIstory augmented reality XML</SUBJECT>
+        <SUBJECT lang="eng">augmented reality</SUBJECT>
+        <SUBJECT lang="eng">XSLT</SUBJECT>
+        <SUBJECT lang="eng">Layar</SUBJECT>
+        <SUBJECT lang="eng">SIstory augmented reality XML</SUBJECT>
+        <PUBLISHER>Inštitut za novejšo zgodovino</PUBLISHER>
+        <SOURCE sourceType="Vir - URN Naslov">SISTORY:ID:36155</SOURCE>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>2013</YEAR>
+        <DATETIME_ADDED>2016-12-18 14:19:32</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-02-07 07:56:32</DATETIME_MODIFIED>
+        <USER_ID_ADDED>11</USER_ID_ADDED>
+        <PUBLICATION file="sistory-ar2layar.xsl">
+            <ATTRIBUTE type="digitalFormat">application/xml</ATTRIBUTE>
+        </PUBLICATION>
+        <PARENT>20389</PARENT>
+    </publication>
+    <publication>
+        <ID>36154</ID>
+        <URN>11686/36154</URN>
+        <CHILD_ORDER>0</CHILD_ORDER>
+        <CREATOR>
+            <IME>Andrej</IME>
+            <PRIIMEK>Pančur</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date" format="W3CDTF">2013-10-10</DATE>
+        <MENU_ID id="608">Orodja</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Software">9</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.sl"><img alt="Creative Commons licenca" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br />To delo je ponujeno pod<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.sl">Creative Commons Priznanje avtorstva-Deljenje pod enakimi pogoji 3.0 Nedoločena licenco</a>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">SIstory augmented reality stil za konverzijo SIstory augmented reality XML v AREL XML (Junaio)</TITLE>
+        <TITLE titleType="Title" lang="eng">SIstory augmented reality stylesheet for converting SIstory augmented reality XML to AREL XML (Junaio)</TITLE>
+        <SUBJECT lang="slv">nadgrajena resničnost</SUBJECT>
+        <SUBJECT lang="eng">XSLT</SUBJECT>
+        <SUBJECT lang="eng">Junaio</SUBJECT>
+        <SUBJECT lang="slv">SIstory augmented reality XML</SUBJECT>
+        <SUBJECT lang="eng">augmented reality</SUBJECT>
+        <SUBJECT lang="eng">SIstory augmented reality XML</SUBJECT>
+        <PUBLISHER>Inštitut za novejšo zgodovino</PUBLISHER>
+        <SOURCE sourceType="Vir - URN Naslov">SISTORY:ID:36154</SOURCE>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>2013</YEAR>
+        <DATETIME_ADDED>2016-12-18 14:05:03</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-02-07 07:56:17</DATETIME_MODIFIED>
+        <USER_ID_ADDED>11</USER_ID_ADDED>
+        <PUBLICATION file="sistory-ar2junaio.xsl">
+            <ATTRIBUTE type="digitalFormat">application/xml</ATTRIBUTE>
+        </PUBLICATION>
+        <PARENT>20389</PARENT>
+    </publication>
+    <publication>
+        <ID>36124</ID>
+        <URN>11686/36124</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CREATOR>
+            <IME>Andrej</IME>
+            <PRIIMEK>Pančur</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date" format="W3CDTF">2016-12-10</DATE>
+        <MENU_ID id="608">Orodja</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <TITLE titleType="Title" lang="slv">fedora-html5foundation6chs XSLT</TITLE>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>2016</YEAR>
+        <DATETIME_ADDED>2016-12-10 22:03:42</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-12-18 13:59:01</DATETIME_MODIFIED>
+        <USER_ID_ADDED>11</USER_ID_ADDED>
+        <PUBLICATION file="bibliography.xsl">
+            <ATTRIBUTE type="digitalFormat">application/xml</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="divGen.xsl">
+            <ATTRIBUTE type="digitalFormat">application/xml</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="header.xsl">
+            <ATTRIBUTE type="digitalFormat">application/xml</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="my-html_core.xsl">
+            <ATTRIBUTE type="digitalFormat">application/xml</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="my-html_param.xsl">
+            <ATTRIBUTE type="digitalFormat">application/xml</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="myi18n.xml" type="Tei">
+            <ATTRIBUTE type="digitalFormat">application/xml</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="new-html_core.xsl">
+            <ATTRIBUTE type="digitalFormat">application/xml</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="new-html_corpus.xsl">
+            <ATTRIBUTE type="digitalFormat">application/xml</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="new-html_figures.xsl">
+            <ATTRIBUTE type="digitalFormat">application/xml</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="to.xsl">
+            <ATTRIBUTE type="digitalFormat">application/xml</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>31013</ID>
+        <URN>11686/31013</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CREATOR>
+            <IME>Tomaž</IME>
+            <PRIIMEK>Erjavec</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date">2015</DATE>
+        <MENU_ID id="608">Orodja</MENU_ID>
+        <LANGUAGE lang="eng">2</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Software">9</TYPE_DC>
+        <RELATION relationType="requires" relationAttr="xml:lang" lang="slv">http://www.tei-c.org/Tools/Stylesheets/</RELATION>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/licenses/by-sa/3.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://www.opensource.org/licenses/BSD-2-Clause</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<p>This software is dual-licensed:</p>
+<ol>
+<li>Distributed under a Creative Commons Attribution-ShareAlike 3.0
+Unported License <a href="http://creativecommons.org/licenses/by-sa/3.0/" target="_blank">http://creativecommons.org/licenses/by-sa/3.0/</a></li>
+<li><a href "http://www.opensource.org/licenses/BSD-2-Clause" target="_blank">http://www.opensource.org/licenses/BSD-2-Clause</a></li>
+</ol>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="eng">DOCX to TEI to HTML Conversion</TITLE>
+        <SUBJECT lang="slv">konverter</SUBJECT>
+        <SUBJECT lang="slv">DOCX</SUBJECT>
+        <SUBJECT lang="slv">TEI</SUBJECT>
+        <SUBJECT lang="eng">Converter</SUBJECT>
+        <SUBJECT lang="eng">DOCX</SUBJECT>
+        <SUBJECT lang="eng">TEI</SUBJECT>
+        <PUBLISHER>Institut Jožef Stefan</PUBLISHER>
+        <LINK>http://nl.ijs.si/tei/convert/</LINK>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>2015</YEAR>
+        <DATETIME_ADDED>2015-05-28 11:55:16</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-09-16 17:39:06</DATETIME_MODIFIED>
+        <USER_ID_ADDED>11</USER_ID_ADDED>
+    </publication>
+    <publication>
+        <ID>20389</ID>
+        <URN>11686/20389</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CREATOR>
+            <IME>Andrej</IME>
+            <PRIIMEK>Pančur</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date" format="W3CDTF">2013-10-10</DATE>
+        <MENU_ID id="608">Orodja</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Software">9</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.sl"><img alt="Creative Commons licenca" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br />To delo je ponujeno pod<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.sl">Creative Commons Priznanje avtorstva-Deljenje pod enakimi pogoji 3.0 Nedoločena licenco</a>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">SIstory augmented reality stili</TITLE>
+        <TITLE titleType="Title" lang="eng">SIstory Augmented Reality Stylesheets</TITLE>
+        <SUBJECT lang="slv">nadgrajena resničnost</SUBJECT>
+        <SUBJECT lang="eng">XSLT</SUBJECT>
+        <SUBJECT lang="slv">SIstory augmented reality XML</SUBJECT>
+        <SUBJECT lang="eng">augmented reality</SUBJECT>
+        <SUBJECT lang="eng">SIstory augmented reality XML</SUBJECT>
+        <PUBLISHER>Inštitut za novejšo zgodovino</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>2013</YEAR>
+        <DATETIME_ADDED>2013-11-14 09:55:16</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-12-18 17:06:52</DATETIME_MODIFIED>
+        <USER_ID_ADDED>11</USER_ID_ADDED>
+        <IMAGE>sistory-slika-publikacije-brez-datoteke.png</IMAGE>
+        <CHILDREN>
+            <CHILD>36154</CHILD>
+            <CHILD>36155</CHILD>
+            <CHILD>36156</CHILD>
+        </CHILDREN>
+    </publication>
+</root>

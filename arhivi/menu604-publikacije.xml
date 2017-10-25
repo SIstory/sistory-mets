@@ -1,0 +1,839 @@
+<root>
+    <publication>
+        <ID>37479</ID>
+        <URN>11686/37479</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CREATOR>
+            <IME>Andrej</IME>
+            <PRIIMEK>Pančur</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date">2013</DATE>
+        <MENU_ID id="604">Dokumentacija</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <LANGUAGE lang="eng">2</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Software">9</TYPE_DC>
+        <RELATION relationType="isRequiredBy" relationAttr="URI" lang="slv">http://sistory.si/</RELATION>
+        <TITLE titleType="Title" lang="eng">SIstory Dublin Core XML Schema 1.0</TITLE>
+        <PUBLISHER>Inštitut za novejšo zgodovino</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>2013</YEAR>
+        <DATETIME_ADDED>2017-04-12 10:24:10</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-04-12 11:17:52</DATETIME_MODIFIED>
+        <USER_ID_ADDED>11</USER_ID_ADDED>
+        <PUBLICATION file="SIstory-DC.xsd">
+            <ATTRIBUTE type="digitalDescription">Izhodiščna shema</ATTRIBUTE>
+            <ATTRIBUTE type="digitalFormat">application/xml</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="sistorytype.xsd">
+            <ATTRIBUTE type="digitalFormat">application/xml</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>37478</ID>
+        <URN>11686/37478</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CREATOR>
+            <IME>Andrej</IME>
+            <PRIIMEK>Pančur</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date">2013</DATE>
+        <MENU_ID id="604">Dokumentacija</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <LANGUAGE lang="eng">2</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Software">9</TYPE_DC>
+        <RELATION relationType="isRequiredBy" relationAttr="URI" lang="slv">http://sistory.si/</RELATION>
+        <TITLE titleType="Title" lang="slv">SIstory Basic XML Schema 2.0</TITLE>
+        <PUBLISHER>Inštitut za novejšo zgodovino</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>2013</YEAR>
+        <DATETIME_ADDED>2017-04-12 10:19:02</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-04-12 11:19:01</DATETIME_MODIFIED>
+        <USER_ID_ADDED>11</USER_ID_ADDED>
+        <PUBLICATION file="SIstory-Basic-V2.0.xsd">
+            <ATTRIBUTE type="digitalFormat">application/xml</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>36164</ID>
+        <URN>11686/36164</URN>
+        <CHILD_ORDER>7</CHILD_ORDER>
+        <CREATOR>
+            <IME>Andrej</IME>
+            <PRIIMEK>Pančur</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date" format="W3CDTF">2013-10-10</DATE>
+        <MENU_ID id="604">Dokumentacija</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <LANGUAGE lang="eng">2</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Software">9</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.sl"><img alt="Creative Commons licenca" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br />To delo je ponujeno pod<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.sl">Creative Commons Priznanje avtorstva-Deljenje pod enakimi pogoji 3.0 Nedoločena licenco</a>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Wikitude administracija XML shema</TITLE>
+        <TITLE titleType="Title" lang="eng">Wikitude administration XML Schema</TITLE>
+        <SUBJECT lang="slv">nadgrajena resničnost</SUBJECT>
+        <SUBJECT lang="slv">XML shema</SUBJECT>
+        <SUBJECT lang="eng">augmented reality</SUBJECT>
+        <SUBJECT lang="eng">XML Schema</SUBJECT>
+        <SUBJECT lang="eng">Wikitude</SUBJECT>
+        <PUBLISHER>Inštitut za novejšo zgodovino</PUBLISHER>
+        <SOURCE sourceType="Vir - URN Naslov">SISTORY:ID:36164</SOURCE>
+        <LINK>http://sistory.si/cdn/publikacije/20001-21000/20369/wikitude.xsd</LINK>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>2013</YEAR>
+        <DATETIME_ADDED>2016-12-18 20:43:06</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-12-18 20:47:41</DATETIME_MODIFIED>
+        <USER_ID_ADDED>11</USER_ID_ADDED>
+        <PARENT>20369</PARENT>
+    </publication>
+    <publication>
+        <ID>36163</ID>
+        <URN>11686/36163</URN>
+        <CHILD_ORDER>6</CHILD_ORDER>
+        <DATE type="Date" format="W3CDTF">2013-10-10</DATE>
+        <MENU_ID id="604">Dokumentacija</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <LANGUAGE lang="eng">2</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Software">9</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.sl"><img alt="Creative Commons licenca" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br />To delo je ponujeno pod<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.sl">Creative Commons Priznanje avtorstva-Deljenje pod enakimi pogoji 3.0 Nedoločena licenco</a>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">AREL XML shema za validacijo Junaio AREL XML dokumentov</TITLE>
+        <SUBJECT lang="slv">nadgrajena resničnost</SUBJECT>
+        <SUBJECT lang="slv">XML shema</SUBJECT>
+        <SUBJECT lang="eng">augmented reality</SUBJECT>
+        <SUBJECT lang="eng">XML Shema</SUBJECT>
+        <SUBJECT lang="eng">Junaio</SUBJECT>
+        <PUBLISHER>Inštitut za novejšo zgodovino</PUBLISHER>
+        <SOURCE sourceType="Vir - URN Naslov">SISTORY:ID:36163</SOURCE>
+        <LINK>http://sistory.si/cdn/publikacije/20001-21000/20369/returnArel.xsd</LINK>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>2013</YEAR>
+        <DATETIME_ADDED>2016-12-18 20:34:50</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-12-18 20:39:30</DATETIME_MODIFIED>
+        <USER_ID_ADDED>11</USER_ID_ADDED>
+        <PARENT>20369</PARENT>
+    </publication>
+    <publication>
+        <ID>36162</ID>
+        <URN>11686/36162</URN>
+        <CHILD_ORDER>5</CHILD_ORDER>
+        <CREATOR>
+            <IME>Andrej</IME>
+            <PRIIMEK>Pančur</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date" format="W3CDTF">2013-10-10</DATE>
+        <MENU_ID id="604">Dokumentacija</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <LANGUAGE lang="eng">2</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Software">9</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.sl"><img alt="Creative Commons licenca" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br />To delo je ponujeno pod<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.sl">Creative Commons Priznanje avtorstva-Deljenje pod enakimi pogoji 3.0 Nedoločena licenco</a>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Layar nadgrajena resničnost XML shema</TITLE>
+        <TITLE titleType="Title" lang="eng">Layar augmented reality XML Schema</TITLE>
+        <SUBJECT lang="slv">nadgrajena resničnost</SUBJECT>
+        <SUBJECT lang="slv">XML shema</SUBJECT>
+        <SUBJECT lang="eng">augmented reality</SUBJECT>
+        <SUBJECT lang="eng">XMLSchema</SUBJECT>
+        <SUBJECT lang="eng">Layar</SUBJECT>
+        <PUBLISHER>Inštitut za novejšo zgodovino</PUBLISHER>
+        <SOURCE sourceType="Vir - URN Naslov">SISTORY:ID:36162</SOURCE>
+        <LINK>http://sistory.si/cdn/publikacije/20001-21000/20369/layar.xsd</LINK>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>2013</YEAR>
+        <DATETIME_ADDED>2016-12-18 20:27:35</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-12-18 20:31:34</DATETIME_MODIFIED>
+        <USER_ID_ADDED>11</USER_ID_ADDED>
+        <PARENT>20369</PARENT>
+    </publication>
+    <publication>
+        <ID>36161</ID>
+        <URN>11686/36161</URN>
+        <CHILD_ORDER>4</CHILD_ORDER>
+        <CREATOR>
+            <IME>Andrej</IME>
+            <PRIIMEK>Pančur</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date" format="W3CDTF">2013-10-10</DATE>
+        <MENU_ID id="604">Dokumentacija</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <LANGUAGE lang="eng">2</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Software">9</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.sl"><img alt="Creative Commons licenca" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br />To delo je ponujeno pod<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.sl">Creative Commons Priznanje avtorstva-Deljenje pod enakimi pogoji 3.0 Nedoločena licenco</a>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Junaio administracija XML shema</TITLE>
+        <TITLE titleType="Title" lang="eng">Junaio administration XML Schema</TITLE>
+        <SUBJECT lang="slv">nadgrajena resničnost</SUBJECT>
+        <SUBJECT lang="slv">XML shema</SUBJECT>
+        <SUBJECT lang="eng">augmented reality</SUBJECT>
+        <SUBJECT lang="eng">XML Schema</SUBJECT>
+        <SUBJECT lang="eng">Junaio</SUBJECT>
+        <PUBLISHER>Inštitut za novejšo zgodovino</PUBLISHER>
+        <SOURCE sourceType="Vir - URN Naslov">SISTORY:ID:36161</SOURCE>
+        <LINK>http://sistory.si/cdn/publikacije/20001-21000/20369/junaio.xsd</LINK>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>2013</YEAR>
+        <DATETIME_ADDED>2016-12-18 20:17:43</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-12-18 20:25:24</DATETIME_MODIFIED>
+        <USER_ID_ADDED>11</USER_ID_ADDED>
+        <PARENT>20369</PARENT>
+    </publication>
+    <publication>
+        <ID>36160</ID>
+        <URN>11686/36160</URN>
+        <CHILD_ORDER>3</CHILD_ORDER>
+        <DATE type="Date" format="W3CDTF">2013-10-10</DATE>
+        <MENU_ID id="604">Dokumentacija</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <LANGUAGE lang="eng">2</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Software">9</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.sl"><img alt="Creative Commons licenca" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br />To delo je ponujeno pod<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.sl">Creative Commons Priznanje avtorstva-Deljenje pod enakimi pogoji 3.0 Nedoločena licenco</a>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="eng">Atom-author-link XML Schema</TITLE>
+        <SUBJECT lang="slv">nadgrajena resničnost</SUBJECT>
+        <SUBJECT lang="slv">XML shema</SUBJECT>
+        <SUBJECT lang="eng">augmented reality</SUBJECT>
+        <SUBJECT lang="eng">XML Schema</SUBJECT>
+        <SUBJECT lang="eng">Atom</SUBJECT>
+        <PUBLISHER>Inštitut za novejšo zgodovino</PUBLISHER>
+        <SOURCE sourceType="Vir - URN Naslov">SISTORY:ID:36160</SOURCE>
+        <LINK>http://sistory.si/cdn/publikacije/20001-21000/20369/atom-author-link.xsd</LINK>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>2013</YEAR>
+        <DATETIME_ADDED>2016-12-18 18:49:15</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-12-18 18:55:02</DATETIME_MODIFIED>
+        <USER_ID_ADDED>11</USER_ID_ADDED>
+        <PARENT>20369</PARENT>
+    </publication>
+    <publication>
+        <ID>36159</ID>
+        <URN>11686/36159</URN>
+        <CHILD_ORDER>2</CHILD_ORDER>
+        <CREATOR>
+            <IME>Andrej</IME>
+            <PRIIMEK>Pančur</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date" format="W3CDTF">2013-10-10</DATE>
+        <MENU_ID id="604">Dokumentacija</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <LANGUAGE lang="eng">2</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Software">9</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.sl"><img alt="Creative Commons licenca" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br />To delo je ponujeno pod<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.sl">Creative Commons Priznanje avtorstva-Deljenje pod enakimi pogoji 3.0 Nedoločena licenco</a>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">ARML XML Schema</TITLE>
+        <SUBJECT lang="slv">nadgrajena resničnost</SUBJECT>
+        <SUBJECT lang="slv">XML shema</SUBJECT>
+        <SUBJECT lang="eng">augmented reality</SUBJECT>
+        <SUBJECT lang="eng">XML Schema</SUBJECT>
+        <SUBJECT lang="eng">Wikitude</SUBJECT>
+        <PUBLISHER>Inštitut za novejšo zgodovino</PUBLISHER>
+        <SOURCE sourceType="Vir - URN Naslov">SISTORY:ID:36159</SOURCE>
+        <LINK>http://sistory.si/cdn/publikacije/20001-21000/20369/arml.xsd</LINK>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>2013</YEAR>
+        <DATETIME_ADDED>2016-12-18 18:41:46</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-12-18 18:47:33</DATETIME_MODIFIED>
+        <USER_ID_ADDED>11</USER_ID_ADDED>
+        <PARENT>20369</PARENT>
+    </publication>
+    <publication>
+        <ID>36158</ID>
+        <URN>11686/36158</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CREATOR>
+            <IME>Andrej</IME>
+            <PRIIMEK>Pančur</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date" format="W3CDTF">2013-10-10</DATE>
+        <MENU_ID id="604">Dokumentacija</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <LANGUAGE lang="eng">2</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Software">9</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.sl"><img alt="Creative Commons licenca" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br />To delo je ponujeno pod<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.sl">Creative Commons Priznanje avtorstva-Deljenje pod enakimi pogoji 3.0 Nedoločena licenco</a>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">SIstory Junaio XML Schema</TITLE>
+        <SUBJECT lang="slv">nadgrajena resničnost</SUBJECT>
+        <SUBJECT lang="slv">XML shema</SUBJECT>
+        <SUBJECT lang="eng">augmented reality</SUBJECT>
+        <SUBJECT lang="eng">XML Schema</SUBJECT>
+        <SUBJECT lang="eng">Junaio</SUBJECT>
+        <PUBLISHER>Inštitut za novejšo zgodovino</PUBLISHER>
+        <SOURCE sourceType="Vir - URN Naslov">SISTORY:ID:36158</SOURCE>
+        <LINK>http://sistory.si/cdn/publikacije/20001-21000/20369/arel.xsd</LINK>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>2013</YEAR>
+        <DATETIME_ADDED>2016-12-18 17:46:33</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-12-18 17:52:26</DATETIME_MODIFIED>
+        <USER_ID_ADDED>11</USER_ID_ADDED>
+        <PARENT>20369</PARENT>
+    </publication>
+    <publication>
+        <ID>36157</ID>
+        <URN>11686/36157</URN>
+        <CHILD_ORDER>0</CHILD_ORDER>
+        <CREATOR>
+            <IME>Andrej</IME>
+            <PRIIMEK>Pančur</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date" format="W3CDTF">2013-10-10</DATE>
+        <MENU_ID id="604">Dokumentacija</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <LANGUAGE lang="eng">2</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Software">9</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.sl"><img alt="Creative Commons licenca" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br />To delo je ponujeno pod<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.sl">Creative Commons Priznanje avtorstva-Deljenje pod enakimi pogoji 3.0 Nedoločena licenco</a>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">SIstory nadgrajena resničnost tip XML shema</TITLE>
+        <TITLE titleType="Title" lang="eng">SIstory augmented reality type XML Schema</TITLE>
+        <SUBJECT lang="slv">nadgrajena resničnost</SUBJECT>
+        <SUBJECT lang="slv">XML shema</SUBJECT>
+        <SUBJECT lang="eng">augmented reality</SUBJECT>
+        <SUBJECT lang="eng">XML Schema</SUBJECT>
+        <PUBLISHER>Inštitut za novejšo zgodovino</PUBLISHER>
+        <SOURCE sourceType="Vir - URN Naslov">SISTORY:ID:36157</SOURCE>
+        <LINK>http://sistory.si/cdn/publikacije/20001-21000/20369/sistory-artype.xsd</LINK>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>2013</YEAR>
+        <DATETIME_ADDED>2016-12-18 17:36:01</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-12-18 17:46:08</DATETIME_MODIFIED>
+        <USER_ID_ADDED>11</USER_ID_ADDED>
+        <PARENT>20369</PARENT>
+    </publication>
+    <publication>
+        <ID>36153</ID>
+        <URN>11686/36153</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CREATOR>
+            <IME>Andrej</IME>
+            <PRIIMEK>Pančur</PRIIMEK>
+        </CREATOR>
+        <CREATOR>
+            <IME>Mojca</IME>
+            <PRIIMEK>Šorn</PRIIMEK>
+        </CREATOR>
+        <CREATOR>
+            <IME>Jurij</IME>
+            <PRIIMEK>Hadalin</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date" format="W3CDTF">2014-09-16</DATE>
+        <MENU_ID id="604">Dokumentacija</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <TITLE titleType="Title" lang="slv">Slovenski indeks citiranosti (SICI)</TITLE>
+        <TITLE titleType="Title" lang="slv">Načrt izgradnje in delovanja</TITLE>
+        <SUBJECT lang="slv">indeks citiranosti</SUBJECT>
+        <PUBLISHER>Inštitut za novejšo zgodovino</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>2014</YEAR>
+        <DATETIME_ADDED>2016-12-18 13:32:30</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-12-18 13:32:30</DATETIME_MODIFIED>
+        <USER_ID_ADDED>11</USER_ID_ADDED>
+        <PUBLICATION file="ZIC2-nacrt-V5.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>36151</ID>
+        <URN>11686/36151</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CREATOR>
+            <IME>Andrej</IME>
+            <PRIIMEK>Pančur</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date" format="W3CDTF">2013-11-22</DATE>
+        <MENU_ID id="604">Dokumentacija</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <LANGUAGE lang="eng">2</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/licenses/by-nc-nd/4.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons licenca" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />To <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">delo</span> avtorja <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.sistory.si/SISTORY:ID:36151" property="cc:attributionName" rel="cc:attributionURL">Andrej Pančur</a> je ponujeno pod <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Priznanje avtorstva-Nekomercijalno-Brez predelav 4.0 International licenco</a>.]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Metapodatki portala Zgodovina Slovenije - SIstory</TITLE>
+        <TITLE titleType="Title" lang="slv">Navodila za uporabo orodja za vnos metapodatkov</TITLE>
+        <SUBJECT lang="slv">metapodatki</SUBJECT>
+        <SUBJECT lang="slv">SIstory</SUBJECT>
+        <SUBJECT lang="slv">administracija</SUBJECT>
+        <SUBJECT lang="slv">standard</SUBJECT>
+        <SUBJECT lang="eng">metadata</SUBJECT>
+        <SUBJECT lang="eng">admin</SUBJECT>
+        <PUBLISHER>Inštitut za novejšo zgodovino</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>2013</YEAR>
+        <DATETIME_ADDED>2016-12-15 18:48:59</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-01-23 18:37:39</DATETIME_MODIFIED>
+        <USER_ID_ADDED>11</USER_ID_ADDED>
+        <PUBLICATION file="arch-part.html">
+            <ATTRIBUTE type="digitalFormat">text/html</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="arch.png">
+            <ATTRIBUTE type="digitalFormat">image/png</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="audience-part.html">
+            <ATTRIBUTE type="digitalFormat">text/html</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="audience.png">
+            <ATTRIBUTE type="digitalFormat">image/png</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="av-part.html">
+            <ATTRIBUTE type="digitalFormat">text/html</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="av.png">
+            <ATTRIBUTE type="digitalFormat">image/png</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="avtor.html">
+            <ATTRIBUTE type="digitalFormat">text/html</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="avtor.png">
+            <ATTRIBUTE type="digitalFormat">image/png</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="bibliogr.html">
+            <ATTRIBUTE type="digitalFormat">text/html</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="cip.html">
+            <ATTRIBUTE type="digitalFormat">text/html</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="collection.html">
+            <ATTRIBUTE type="digitalFormat">text/html</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="collection.png">
+            <ATTRIBUTE type="digitalFormat">image/png</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="contributor.html">
+            <ATTRIBUTE type="digitalFormat">text/html</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="contributor.png">
+            <ATTRIBUTE type="digitalFormat">image/png</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="coverage-jeziki.png">
+            <ATTRIBUTE type="digitalFormat">image/png</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="coverage-part.html">
+            <ATTRIBUTE type="digitalFormat">text/html</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="coverage-spatial-atributi.png">
+            <ATTRIBUTE type="digitalFormat">image/png</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="coverage-temporal-atributi.png">
+            <ATTRIBUTE type="digitalFormat">image/png</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="coverage.png">
+            <ATTRIBUTE type="digitalFormat">image/png</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="creator-language.png">
+            <ATTRIBUTE type="digitalFormat">image/png</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="creator.html">
+            <ATTRIBUTE type="digitalFormat">text/html</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="creator.png">
+            <ATTRIBUTE type="digitalFormat">image/png</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="date-atributi.png">
+            <ATTRIBUTE type="digitalFormat">image/png</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="date-part.html">
+            <ATTRIBUTE type="digitalFormat">text/html</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="date.png">
+            <ATTRIBUTE type="digitalFormat">image/png</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="description-language.png">
+            <ATTRIBUTE type="digitalFormat">image/png</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="description-part.html">
+            <ATTRIBUTE type="digitalFormat">text/html</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="description.png">
+            <ATTRIBUTE type="digitalFormat">image/png</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="format-atributi.png">
+            <ATTRIBUTE type="digitalFormat">image/png</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="format-part.html">
+            <ATTRIBUTE type="digitalFormat">text/html</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="format.png">
+            <ATTRIBUTE type="digitalFormat">image/png</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="identifier-part.html">
+            <ATTRIBUTE type="digitalFormat">text/html</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="identifier.png">
+            <ATTRIBUTE type="digitalFormat">image/png</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="images.html">
+            <ATTRIBUTE type="digitalFormat">text/html</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="index.html">
+            <ATTRIBUTE type="digitalFormat">text/html</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="language.html">
+            <ATTRIBUTE type="digitalFormat">text/html</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="language.png">
+            <ATTRIBUTE type="digitalFormat">image/png</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="lib-part.html">
+            <ATTRIBUTE type="digitalFormat">text/html</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="lib.png">
+            <ATTRIBUTE type="digitalFormat">image/png</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="menu.html">
+            <ATTRIBUTE type="digitalFormat">text/html</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="menu.png">
+            <ATTRIBUTE type="digitalFormat">image/png</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="opis.html">
+            <ATTRIBUTE type="digitalFormat">text/html</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="opis.png">
+            <ATTRIBUTE type="digitalFormat">image/png</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="other-part.html">
+            <ATTRIBUTE type="digitalFormat">text/html</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="other.png">
+            <ATTRIBUTE type="digitalFormat">image/png</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="predmet.html">
+            <ATTRIBUTE type="digitalFormat">text/html</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="predmet.png">
+            <ATTRIBUTE type="digitalFormat">image/png</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="publisher.html">
+            <ATTRIBUTE type="digitalFormat">text/html</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="publisher.png">
+            <ATTRIBUTE type="digitalFormat">image/png</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="relation-atributa.png">
+            <ATTRIBUTE type="digitalFormat">image/png</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="relation-part.html">
+            <ATTRIBUTE type="digitalFormat">text/html</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="relation.png">
+            <ATTRIBUTE type="digitalFormat">image/png</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="rights-atributa.png">
+            <ATTRIBUTE type="digitalFormat">image/png</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="rights-part.html">
+            <ATTRIBUTE type="digitalFormat">text/html</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="rights.png">
+            <ATTRIBUTE type="digitalFormat">image/png</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="sistoryChildren.html">
+            <ATTRIBUTE type="digitalFormat">text/html</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="sistoryImage.html">
+            <ATTRIBUTE type="digitalFormat">text/html</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="sistoryImage.png">
+            <ATTRIBUTE type="digitalFormat">image/png</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="sistoryPovezava.html">
+            <ATTRIBUTE type="digitalFormat">text/html</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="sistoryPovezava.png">
+            <ATTRIBUTE type="digitalFormat">image/png</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="sistoryPublikacija-atributi.png">
+            <ATTRIBUTE type="digitalFormat">image/png</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="sistoryPublikacija-part.html">
+            <ATTRIBUTE type="digitalFormat">text/html</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="sistoryPublikacija.png">
+            <ATTRIBUTE type="digitalFormat">image/png</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="sistoryRights.html">
+            <ATTRIBUTE type="digitalFormat">text/html</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="sistoryType.png">
+            <ATTRIBUTE type="digitalFormat">image/png</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="sistoryVideoKoda.html">
+            <ATTRIBUTE type="digitalFormat">text/html</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="source-atributa.png">
+            <ATTRIBUTE type="digitalFormat">image/png</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="source-part.html">
+            <ATTRIBUTE type="digitalFormat">text/html</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="source.png">
+            <ATTRIBUTE type="digitalFormat">image/png</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="subject-atribut-UDK.png">
+            <ATTRIBUTE type="digitalFormat">image/png</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="subject.html">
+            <ATTRIBUTE type="digitalFormat">text/html</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="subject.png">
+            <ATTRIBUTE type="digitalFormat">image/png</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="teiHeader.html">
+            <ATTRIBUTE type="digitalFormat">text/html</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="tipuesearch_content.js">
+            <ATTRIBUTE type="digitalFormat">text/plain</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="title-part.html">
+            <ATTRIBUTE type="digitalFormat">application/javascript</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="title.png">
+            <ATTRIBUTE type="digitalFormat">image/png</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="toc.html">
+            <ATTRIBUTE type="digitalFormat">text/html</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="type-part.html">
+            <ATTRIBUTE type="digitalFormat">text/html</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="type-part.png">
+            <ATTRIBUTE type="digitalFormat">image/png</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="type.png">
+            <ATTRIBUTE type="digitalFormat">image/png</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="vis-part.html">
+            <ATTRIBUTE type="digitalFormat">text/html</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="vis.png">
+            <ATTRIBUTE type="digitalFormat">image/png</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="search.html">
+            <ATTRIBUTE type="digitalFormat">text/html</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="sistoryPage.html">
+            <ATTRIBUTE type="digitalFormat">text/html</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="sistoryPage.png">
+            <ATTRIBUTE type="digitalFormat">image/png</ATTRIBUTE>
+        </PUBLICATION>
+        <IMAGE>naslovnica.png</IMAGE>
+    </publication>
+    <publication>
+        <ID>36054</ID>
+        <URN>11686/36054</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CREATOR>
+            <IME>Andrej</IME>
+            <PRIIMEK>Pančur</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date" format="W3CDTF">2016-04-19</DATE>
+        <MENU_ID id="604">Dokumentacija</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Software">9</TYPE_DC>
+        <RIGHTS rightsType="license" rightsAttr="URI">https://creativecommons.org/licenses/by-sa/4.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons licenca" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />To delo je ponujeno pod<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Priznanje avtorstva-Deljenje pod enakimi pogoji 4.0 Mednarodna licenco</a>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Avstrijski krajevni repertoriji 1.0 XML shema, delovni dokumenti</TITLE>
+        <TITLE titleType="Title" lang="eng">Gazetteer (Ortsrepertorium) of Austria 1.0 XML Schema, working documents</TITLE>
+        <DESCRIPTION descriptionType="Description" lang="slv">
+            XML shema za validacijo delovnih XML dokumentov, primernih za transkribiranje krajevnih repertorijev avstrijskih dežel habsburške monarhije.
+        </DESCRIPTION>
+        <PUBLISHER>Inštitut za novejšo zgodovino</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>2016</YEAR>
+        <DATETIME_ADDED>2016-10-03 13:54:17</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-06-25 12:17:39</DATETIME_MODIFIED>
+        <USER_ID_ADDED>11</USER_ID_ADDED>
+        <PUBLICATION file="OrtsRprt-wrkg_1-deu.xsd">
+            <ATTRIBUTE type="digitalFormat">application/xml</ATTRIBUTE>
+            <ATTRIBUTE type="digitalDescription">Osnovna XML shema za prepisovanje krajevnih repertorijev v nemščini</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="OrtsRprt-wrkg_1-slv.xsd">
+            <ATTRIBUTE type="digitalFormat">application/xml</ATTRIBUTE>
+            <ATTRIBUTE type="digitalDescription">Osnovna XML shema za prepisovanje krajevnih repertorijev v slovenščini</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="OrtsRprt-wrkg_2-deu.xsd">
+            <ATTRIBUTE type="digitalFormat">application/xml</ATTRIBUTE>
+            <ATTRIBUTE type="digitalDescription">Razširjena XML shema za prepisovanje krajevnih repertorijev v nemščini (zahteva uvoz sheme za validacijo atributa xml:id)</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="xml.xsd">
+            <ATTRIBUTE type="digitalFormat">application/xml</ATTRIBUTE>
+            <ATTRIBUTE type="digitalDescription">XML shema za validacijo atributa xml:id, ki se jo vključi v OrtsRprt-wrkg_2-deu.xsd</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>20385</ID>
+        <URN>11686/20385</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CREATOR>
+            <IME>Andrej</IME>
+            <PRIIMEK>Pančur</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date" format="W3CDTF">2013-11-07</DATE>
+        <MENU_ID id="604">Dokumentacija</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <LANGUAGE lang="eng">2</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <RELATION relationType="requires" relationAttr="URI" lang="slv">http://www.sistory.si/SISTORY:ID:20392</RELATION>
+        <RELATION relationType="references" relationAttr="URI" lang="slv">http://www.sistory.si/SISTORY:ID:20369</RELATION>
+        <TITLE titleType="Title" lang="slv">Sistory augmented reality 1.0 XML Schema</TITLE>
+        <TITLE titleType="Title" lang="eng">Dokumentacija</TITLE>
+        <TITLE titleType="Title" lang="eng">Sistory Augmented Reality 1.0 XML Schema</TITLE>
+        <TITLE titleType="Title" lang="eng">Documentation</TITLE>
+        <SUBJECT lang="slv">nadgrajena resničnost</SUBJECT>
+        <SUBJECT lang="slv">HTML publikacija</SUBJECT>
+        <SUBJECT lang="slv">SIstory nadgrajena resničnost XML shema</SUBJECT>
+        <SUBJECT lang="eng">augmented reality</SUBJECT>
+        <SUBJECT lang="eng">HTML publikacija</SUBJECT>
+        <SUBJECT lang="eng">SIstory augmented reality XML Schema</SUBJECT>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>2013</YEAR>
+        <DATETIME_ADDED>2013-11-07 14:23:10</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-12-18 20:54:29</DATETIME_MODIFIED>
+        <USER_ID_ADDED>11</USER_ID_ADDED>
+        <PUBLICATION file="sistory-ar.html">
+            <ATTRIBUTE type="digitalMeasurement">HTML spletna stran generirana z oXygen. Omejeno le na prikaz Annotations, Attributes, Facets, Instances, Properties, Used by. Zaradi teh omejitev je pri prikazu potrebno zelo malo slik (dostopne na http://www.sistory.si/SISTORY:ID:20392). V HTML, ki je pridobljen z oXygen, je potrebno naknadno popraviti poti do teh slik (pred tem jih še iz jpg pretvoriti v gif). Orogonalni CSS je naknadno vključen v glavo HTML.</ATTRIBUTE>
+            <ATTRIBUTE type="digitalFormat">text/html</ATTRIBUTE>
+        </PUBLICATION>
+        <IMAGE>naslovnica-sistory-ar-dokumentacija.png</IMAGE>
+    </publication>
+    <publication>
+        <ID>20369</ID>
+        <URN>11686/20369</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CREATOR>
+            <IME>Andrej</IME>
+            <PRIIMEK>Pančur</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date" format="W3CDTF">2013-10-10</DATE>
+        <MENU_ID id="604">Dokumentacija</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <LANGUAGE lang="eng">2</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Software">9</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.sl"><img alt="Creative Commons licenca" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br />To delo je ponujeno pod<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.sl">Creative Commons Priznanje avtorstva-Deljenje pod enakimi pogoji 3.0 Nedoločena licenco</a>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">SIstory nadgrajena resničnost 1.0 XML shema</TITLE>
+        <TITLE titleType="Title" lang="eng">SIstory Augmented Reality 1.0 XML Schema</TITLE>
+        <SUBJECT lang="slv">nadgrajena resničnost</SUBJECT>
+        <SUBJECT lang="slv">XML shema</SUBJECT>
+        <SUBJECT lang="eng">augmented reality</SUBJECT>
+        <SUBJECT lang="eng">XML Schema</SUBJECT>
+        <PUBLISHER>Inštitut za novejšo zgodovino</PUBLISHER>
+        <LINK>http://sistory.si/cdn/publikacije/20001-21000/20369/sistory-ar.xsd</LINK>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>2013</YEAR>
+        <DATETIME_ADDED>2013-11-05 12:09:47</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-12-18 20:53:58</DATETIME_MODIFIED>
+        <USER_ID_ADDED>11</USER_ID_ADDED>
+        <PUBLICATION file="sistory-ar.xsd">
+            <ATTRIBUTE type="digitalFormat">application/xml</ATTRIBUTE>
+            <ATTRIBUTE type="digitalDescription">SIstory augmented reality V1.0 XML Schema</ATTRIBUTE>
+            <ATTRIBUTE type="digitalDate" format="W3CDTF">2013-10-10</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="sistory-artype.xsd">
+            <ATTRIBUTE type="digitalFormat">application/xml</ATTRIBUTE>
+            <ATTRIBUTE type="digitalDescription">SIstory augmented reality type XML Schema</ATTRIBUTE>
+            <ATTRIBUTE type="digitalDate" format="W3CDTF">2013-10-10</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="arel.xsd">
+            <ATTRIBUTE type="digitalFormat">application/xml</ATTRIBUTE>
+            <ATTRIBUTE type="digitalDescription">SIstory Junaio XML Schema</ATTRIBUTE>
+            <ATTRIBUTE type="digitalDate" format="W3CDTF">2013-10-10</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="arml.xsd">
+            <ATTRIBUTE type="digitalFormat">application/xml</ATTRIBUTE>
+            <ATTRIBUTE type="digitalDescription">ARML XML Schema</ATTRIBUTE>
+            <ATTRIBUTE type="digitalDate" format="W3CDTF">2013-10-10</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="atom-author-link.xsd">
+            <ATTRIBUTE type="digitalDescription">Atom-author-link XML Schema</ATTRIBUTE>
+            <ATTRIBUTE type="digitalDate" format="W3CDTF">2013-10-10</ATTRIBUTE>
+            <ATTRIBUTE type="digitalFormat">application/xml</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="junaio.xsd">
+            <ATTRIBUTE type="digitalFormat">application/xml</ATTRIBUTE>
+            <ATTRIBUTE type="digitalDescription">Junaio administration XML Schema</ATTRIBUTE>
+            <ATTRIBUTE type="digitalDate" format="W3CDTF">2013-10-10</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="layar.xsd">
+            <ATTRIBUTE type="digitalFormat">application/xml</ATTRIBUTE>
+            <ATTRIBUTE type="digitalDescription">Layar augmented reality XML Schema</ATTRIBUTE>
+            <ATTRIBUTE type="digitalDate" format="W3CDTF">2013-10-10</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="returnArel.xsd">
+            <ATTRIBUTE type="digitalFormat">application/xml</ATTRIBUTE>
+            <ATTRIBUTE type="digitalDescription">AREL XML shema za validacijo Junaio AREL XML dokumentov</ATTRIBUTE>
+            <ATTRIBUTE type="digitalDate" format="W3CDTF">2013-10-10</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="wikitude.xsd">
+            <ATTRIBUTE type="digitalFormat">application/xml</ATTRIBUTE>
+            <ATTRIBUTE type="digitalDescription">Wikitude administration XML Schema</ATTRIBUTE>
+            <ATTRIBUTE type="digitalDate" format="W3CDTF">2013-10-10</ATTRIBUTE>
+        </PUBLICATION>
+        <IMAGE>sistory-slika-publikacije-brez-datoteke.png</IMAGE>
+        <CHILDREN>
+            <CHILD>36157</CHILD>
+            <CHILD>36158</CHILD>
+            <CHILD>36159</CHILD>
+            <CHILD>36160</CHILD>
+            <CHILD>36161</CHILD>
+            <CHILD>36162</CHILD>
+            <CHILD>36163</CHILD>
+            <CHILD>36164</CHILD>
+        </CHILDREN>
+    </publication>
+</root>

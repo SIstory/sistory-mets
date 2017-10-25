@@ -1,0 +1,445 @@
+<root>
+    <publication>
+        <ID>37723</ID>
+        <URN>11686/37723</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CONTRIBUTOR>Andrej Pančur</CONTRIBUTOR>
+        <CONTRIBUTOR>Mojca Šorn</CONTRIBUTOR>
+        <CONTRIBUTOR>Neja Blaj Hribar</CONTRIBUTOR>
+        <DATE type="Date">2017</DATE>
+        <MENU_ID id="809">Raziskovalni podatki</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <LANGUAGE lang="deu">3</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Dataset">2</TYPE_DC>
+        <TITLE titleType="Title" lang="slv">Smrtne žrtve 47. štajerskega pešpolka med prvo svetovno vojno</TITLE>
+        <PUBLISHER>Inštitut za novejšo zgodovino</PUBLISHER>
+        <SOURCE sourceType="Source" sourceAttr="URI">https://github.com/SIstory/publications/tree/a8267f22fedf4a4954478c090aab1c65cb9e84e3/Infreg47</SOURCE>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>2017</YEAR>
+        <DATETIME_ADDED>2017-06-12 09:31:37</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-09-12 11:00:44</DATETIME_MODIFIED>
+        <USER_ID_ADDED>11</USER_ID_ADDED>
+        <PUBLICATION file="index.html">
+            <ATTRIBUTE type="digitalFormat">text/html</ATTRIBUTE>
+            <ATTRIBUTE type="">Naslovnica</ATTRIBUTE>
+            <ATTRIBUTE type="digitalDescription">Vstopna stran</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="ch01.html">
+            <ATTRIBUTE type="digitalFormat">text/html</ATTRIBUTE>
+            <ATTRIBUTE type="">Aus den Akten des Feldregiments</ATTRIBUTE>
+            <ATTRIBUTE type="digitalDescription">Seznam smrtnih žrtev</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="ch02.html">
+            <ATTRIBUTE type="digitalFormat">text/html</ATTRIBUTE>
+            <ATTRIBUTE type="">Aus dem Archiv des Bundeskanzleramtes</ATTRIBUTE>
+            <ATTRIBUTE type="digitalDescription">Seznam smrtnih žrtev</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="cip.html">
+            <ATTRIBUTE type="digitalFormat">text/html</ATTRIBUTE>
+            <ATTRIBUTE type="">Kolofon</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="persons.html">
+            <ATTRIBUTE type="digitalFormat">text/html</ATTRIBUTE>
+            <ATTRIBUTE type="">Smrtne žrtve</ATTRIBUTE>
+            <ATTRIBUTE type="digitalDescription">Tabelarni prikaz smrtnih žrtev</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="search.html">
+            <ATTRIBUTE type="digitalFormat">text/html</ATTRIBUTE>
+            <ATTRIBUTE type="">Iskanje</ATTRIBUTE>
+            <ATTRIBUTE type="digitalDescription">Stran z rezultati iskanja</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="teiHeader.html">
+            <ATTRIBUTE type="digitalFormat">text/html</ATTRIBUTE>
+            <ATTRIBUTE type="">Kolofon TEI</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="tipuesearch_content.js">
+            <ATTRIBUTE type="digitalFormat">text/plain</ATTRIBUTE>
+            <ATTRIBUTE type="digitalDescription">Vsebina publikacije v JSON formatu, primenem za iskalnik</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="toc.html">
+            <ATTRIBUTE type="digitalFormat">text/html</ATTRIBUTE>
+            <ATTRIBUTE type="">Kazelo vsebine</ATTRIBUTE>
+        </PUBLICATION>
+        <IMAGE>Infreg47-naslovnica.jpg</IMAGE>
+    </publication>
+    <publication>
+        <ID>36058</ID>
+        <URN>11686/36058</URN>
+        <CHILD_ORDER>4</CHILD_ORDER>
+        <CONTRIBUTOR>Andrej Pančur (ur.)</CONTRIBUTOR>
+        <CREATOR>
+            <IME>Andrej</IME>
+            <PRIIMEK>Pančur</PRIIMEK>
+        </CREATOR>
+        <CREATOR>
+            <IME>Barbara</IME>
+            <PRIIMEK>Györfi</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date" format="W3CDTF">2017-06-06</DATE>
+        <MENU_ID id="809">Raziskovalni podatki</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <LANGUAGE lang="deu">3</LANGUAGE>
+        <LANGUAGE lang="ita">8</LANGUAGE>
+        <LANGUAGE lang="hrv">17</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Dataset">2</TYPE_DC>
+        <RELATION relationType="requires" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/36054</RELATION>
+        <RELATION relationType="isVersionOf" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/836</RELATION>
+        <RIGHTS rightsType="license" rightsAttr="URI">https://creativecommons.org/licenses/by-sa/4.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons licenca" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />To delo je ponujeno pod<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Priznanje avtorstva-Deljenje pod enakimi pogoji 4.0 Mednarodna licenco</a>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Seznam krajevnih imen v slovenski Istri leta 1910</TITLE>
+        <PUBLISHER>Inštitut za novejšo zgodovino</PUBLISHER>
+        <SOURCE sourceType="Vir - URN Naslov">SISTORY:ID:36058</SOURCE>
+        <COVERAGE coverageType="Coverage" lang="slv">Istra</COVERAGE>
+        <COVERAGE coverageType="Coverage" lang="eng">Istria</COVERAGE>
+        <COVERAGE coverageType="Coverage" lang="deu">Istrien</COVERAGE>
+        <COVERAGE coverageType="Coverage" lang="ita">Istria</COVERAGE>
+        <COVERAGE coverageType="Spatial" attr="">Istra</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1910-12-31</COVERAGE>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>2017</YEAR>
+        <DATETIME_ADDED>2016-10-03 17:43:41</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-06-22 11:37:28</DATETIME_MODIFIED>
+        <USER_ID_ADDED>11</USER_ID_ADDED>
+        <PUBLICATION file="Istra-1910.html">
+            <ATTRIBUTE type="digitalFormat">text/html</ATTRIBUTE>
+            <ATTRIBUTE type="">Seznam krajevnih imen v slovenski Istri leta 1910</ATTRIBUTE>
+            <ATTRIBUTE type="digitalDescription">Iskalnik po krajevnih imenih</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="Istria-1910-deu.xml" type="Tei">
+            <ATTRIBUTE type="digitalFormat">application/xml</ATTRIBUTE>
+            <ATTRIBUTE type="digitalDescription">Izvorni digitalni podatki označeni z XML</ATTRIBUTE>
+        </PUBLICATION>
+        <IMAGE>seznam_krajev-Istra-1910.png</IMAGE>
+        <PARENT>36052</PARENT>
+    </publication>
+    <publication>
+        <ID>36057</ID>
+        <URN>11686/36057</URN>
+        <CHILD_ORDER>3</CHILD_ORDER>
+        <CONTRIBUTOR>Andrej Pančur (ur.)</CONTRIBUTOR>
+        <CREATOR>
+            <IME>Andrej</IME>
+            <PRIIMEK>Pančur</PRIIMEK>
+        </CREATOR>
+        <CREATOR>
+            <IME>Neja</IME>
+            <PRIIMEK>Blaj Hribar</PRIIMEK>
+        </CREATOR>
+        <CREATOR>
+            <IME>Barbara</IME>
+            <PRIIMEK>Györfi</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date" format="W3CDTF">2017-06-06</DATE>
+        <MENU_ID id="809">Raziskovalni podatki</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <LANGUAGE lang="deu">3</LANGUAGE>
+        <LANGUAGE lang="ita">8</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Dataset">2</TYPE_DC>
+        <RELATION relationType="requires" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/36054</RELATION>
+        <RELATION relationType="isVersionOf" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/836</RELATION>
+        <RIGHTS rightsType="license" rightsAttr="URI">https://creativecommons.org/licenses/by-sa/4.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons licenca" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />To delo je ponujeno pod<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Priznanje avtorstva-Deljenje pod enakimi pogoji 4.0 Mednarodna licenco</a>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Seznam krajevnih imen na slovenskem Goriškem leta 1910</TITLE>
+        <PUBLISHER>Inštitut za novejšo zgodovino</PUBLISHER>
+        <SOURCE sourceType="Vir - URN Naslov">SISTORY:ID:36057</SOURCE>
+        <COVERAGE coverageType="Coverage" lang="slv">Goriška in Gradiščanska</COVERAGE>
+        <COVERAGE coverageType="Coverage" lang="eng">Gorizia and Gradisca</COVERAGE>
+        <COVERAGE coverageType="Coverage" lang="ita">Contea Principesca di Gorizia e Gradisca</COVERAGE>
+        <COVERAGE coverageType="Coverage" lang="deu">Grafschaft Görz</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1910-12-31</COVERAGE>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>2017</YEAR>
+        <DATETIME_ADDED>2016-10-03 17:34:59</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-06-22 11:35:50</DATETIME_MODIFIED>
+        <USER_ID_ADDED>11</USER_ID_ADDED>
+        <PUBLICATION file="Goriska-1910.html">
+            <ATTRIBUTE type="digitalFormat">text/html</ATTRIBUTE>
+            <ATTRIBUTE type="">Seznam krajevnih imen na slovenskem Goriškem leta 1910</ATTRIBUTE>
+            <ATTRIBUTE type="digitalDescription">Iskalnik po krajevnih imenih</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="Gorz-1910-deu.xml" type="Normal">
+            <ATTRIBUTE type="digitalFormat">application/xml</ATTRIBUTE>
+            <ATTRIBUTE type="digitalDescription">Izvorni digitalni podatki označeni z XML</ATTRIBUTE>
+        </PUBLICATION>
+        <IMAGE>seznam_krajev-Goriska-1910.png</IMAGE>
+        <PARENT>36052</PARENT>
+    </publication>
+    <publication>
+        <ID>36056</ID>
+        <URN>11686/36056</URN>
+        <CHILD_ORDER>2</CHILD_ORDER>
+        <CONTRIBUTOR>Andrej Pančur (ur.)</CONTRIBUTOR>
+        <CREATOR>
+            <IME>Andrej</IME>
+            <PRIIMEK>Pančur</PRIIMEK>
+        </CREATOR>
+        <CREATOR>
+            <IME>Barbara</IME>
+            <PRIIMEK>Györfi</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date" format="W3CDTF">2017-06-06</DATE>
+        <MENU_ID id="809">Raziskovalni podatki</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <LANGUAGE lang="deu">3</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Dataset">2</TYPE_DC>
+        <RELATION relationType="requires" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/36054</RELATION>
+        <RELATION relationType="isVersionOf" relationAttr="URI" lang="slv">ttp://hdl.handle.net/11686/1114</RELATION>
+        <RIGHTS rightsType="license" rightsAttr="URI">https://creativecommons.org/licenses/by-sa/4.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons licenca" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />To delo je ponujeno pod<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Priznanje avtorstva-Deljenje pod enakimi pogoji 4.0 Mednarodna licenco</a>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Seznam krajevnih imen na Spodnjem Štajerskem leta 1910</TITLE>
+        <PUBLISHER>Inštitut za novejšo zgodovino</PUBLISHER>
+        <SOURCE sourceType="Vir - URN Naslov">SISTORY:ID:36056</SOURCE>
+        <COVERAGE coverageType="Coverage" lang="slv">Štajerska</COVERAGE>
+        <COVERAGE coverageType="Coverage" lang="eng">Styria</COVERAGE>
+        <COVERAGE coverageType="Coverage" lang="deu">Steiermark</COVERAGE>
+        <COVERAGE coverageType="Spatial" attr="">Štajerska</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1910-12-31</COVERAGE>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>2017</YEAR>
+        <DATETIME_ADDED>2016-10-03 17:13:22</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-06-22 11:33:58</DATETIME_MODIFIED>
+        <USER_ID_ADDED>11</USER_ID_ADDED>
+        <PUBLICATION file="Stajerska-1910.html">
+            <ATTRIBUTE type="digitalFormat">text/html</ATTRIBUTE>
+            <ATTRIBUTE type="">Seznam krajevnih imen na Spodnjem Štajerskem leta 1910</ATTRIBUTE>
+            <ATTRIBUTE type="digitalDescription">Iskalnik po krajevnih imenih</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="Styria-1910-slv.xml" type="Normal">
+            <ATTRIBUTE type="digitalFormat">application/xml</ATTRIBUTE>
+            <ATTRIBUTE type="digitalDescription">Izvorni digitalni podatki označeni z XML</ATTRIBUTE>
+        </PUBLICATION>
+        <IMAGE>seznam_krajev-Stajerska-1910.png</IMAGE>
+        <PARENT>36052</PARENT>
+    </publication>
+    <publication>
+        <ID>36055</ID>
+        <URN>11686/36055</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CONTRIBUTOR>Andrej Pančur (ur.)</CONTRIBUTOR>
+        <CREATOR>
+            <IME>Andrej</IME>
+            <PRIIMEK>Pančur</PRIIMEK>
+        </CREATOR>
+        <CREATOR>
+            <IME>Barbara</IME>
+            <PRIIMEK>Györfi</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date" format="W3CDTF">2017-06-06</DATE>
+        <MENU_ID id="809">Raziskovalni podatki</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <LANGUAGE lang="deu">3</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Dataset">2</TYPE_DC>
+        <RELATION relationType="requires" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/36054</RELATION>
+        <RELATION relationType="isVersionOf" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/34885</RELATION>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/licenses/by-sa/4.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons licenca" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />To delo je ponujeno pod<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Priznanje avtorstva-Deljenje pod enakimi pogoji 4.0 Mednarodna licenco</a>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Seznam krajevnih imen na Koroškem (sedanja Slovenija) leta 1910</TITLE>
+        <PUBLISHER>Inštitut za novejšo zgodovino</PUBLISHER>
+        <SOURCE sourceType="Vir - URN Naslov">SISTORY:ID:36055</SOURCE>
+        <COVERAGE coverageType="Coverage" lang="slv">Koroška</COVERAGE>
+        <COVERAGE coverageType="Coverage" lang="eng">Carinthia</COVERAGE>
+        <COVERAGE coverageType="Coverage" lang="deu">Kärnten</COVERAGE>
+        <COVERAGE coverageType="Spatial" attr="">Koroška</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1910-12-31</COVERAGE>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>2017</YEAR>
+        <DATETIME_ADDED>2016-10-03 17:00:28</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-06-22 11:30:47</DATETIME_MODIFIED>
+        <USER_ID_ADDED>11</USER_ID_ADDED>
+        <PUBLICATION file="Koroska-1910.html">
+            <ATTRIBUTE type="digitalFormat">text/html</ATTRIBUTE>
+            <ATTRIBUTE type="">Seznam krajevnih imen na Koroškem (sedanja Slovenija) leta 1910</ATTRIBUTE>
+            <ATTRIBUTE type="digitalDescription">Iskalnik po krajevnih imenih</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="Carinthia-1910-deu.xml" type="Normal">
+            <ATTRIBUTE type="digitalFormat">application/xml</ATTRIBUTE>
+            <ATTRIBUTE type="digitalDescription">Izvorni digitalni podatki označeni z XML</ATTRIBUTE>
+        </PUBLICATION>
+        <IMAGE>seznam_krajev-Koroska-1910.png</IMAGE>
+        <PARENT>36052</PARENT>
+    </publication>
+    <publication>
+        <ID>36053</ID>
+        <URN>11686/36053</URN>
+        <CHILD_ORDER>0</CHILD_ORDER>
+        <CONTRIBUTOR>Andrej Pančur (ur.)</CONTRIBUTOR>
+        <CREATOR>
+            <IME>Andrej</IME>
+            <PRIIMEK>Pančur</PRIIMEK>
+        </CREATOR>
+        <CREATOR>
+            <IME>Neja</IME>
+            <PRIIMEK>Blaj Hribar</PRIIMEK>
+        </CREATOR>
+        <CREATOR>
+            <IME>Barbara</IME>
+            <PRIIMEK>Györfi</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date" format="W3CDTF">2017-06-06</DATE>
+        <MENU_ID id="809">Raziskovalni podatki</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <LANGUAGE lang="deu">3</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Dataset">2</TYPE_DC>
+        <RELATION relationType="requires" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/36054</RELATION>
+        <RELATION relationType="isVersionOf" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/34884</RELATION>
+        <RIGHTS rightsType="license" rightsAttr="URI">https://creativecommons.org/licenses/by-sa/4.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons licenca" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />To delo je ponujeno pod<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Priznanje avtorstva-Deljenje pod enakimi pogoji 4.0 Mednarodna licenco</a>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Seznam krajevnih imen na Kranjskem leta 1910</TITLE>
+        <PUBLISHER>Inštitut za novejšo zgodovino</PUBLISHER>
+        <SOURCE sourceType="Vir - URN Naslov">SISTORY:ID:36053</SOURCE>
+        <COVERAGE coverageType="Spatial" attr="">Kranjska</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1910-12-31</COVERAGE>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>2017</YEAR>
+        <DATETIME_ADDED>2016-10-01 15:14:31</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-06-22 11:26:19</DATETIME_MODIFIED>
+        <USER_ID_ADDED>11</USER_ID_ADDED>
+        <PUBLICATION file="Kranjska-1910.html">
+            <ATTRIBUTE type="digitalFormat">text/html</ATTRIBUTE>
+            <ATTRIBUTE type="">Seznam krajevnih imen na Kranjskem 1910</ATTRIBUTE>
+            <ATTRIBUTE type="digitalDescription">Iskalnik po krajevnih imenih</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="Carniola-1910-deu.xml" type="Normal">
+            <ATTRIBUTE type="digitalFormat">application/xml</ATTRIBUTE>
+            <ATTRIBUTE type="digitalDescription">Izvorni digitalni podatki označeni z XML</ATTRIBUTE>
+        </PUBLICATION>
+        <IMAGE>seznam_krajev-Kranjska-1910.png</IMAGE>
+        <PARENT>36052</PARENT>
+    </publication>
+    <publication>
+        <ID>36052</ID>
+        <URN>11686/36052</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CONTRIBUTOR>Andrej Pančur (ur.)</CONTRIBUTOR>
+        <DATE type="Date" format="W3CDTF">2017-06-06</DATE>
+        <MENU_ID id="809">Raziskovalni podatki</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <LANGUAGE lang="deu">3</LANGUAGE>
+        <LANGUAGE lang="ita">8</LANGUAGE>
+        <LANGUAGE lang="hrv">17</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Dataset">2</TYPE_DC>
+        <RELATION relationType="isVersionOf" relationAttr="URI" lang="slv">https://github.com/SIstory/Ortsrepertorium/tree/79a88b16f7bd086f187336d13243d829ca906dd0</RELATION>
+        <RELATION relationType="requires" relationAttr="URI" lang="slv">http://hdl.handle.net/11686/36054</RELATION>
+        <RIGHTS rightsType="license" rightsAttr="xml:lang" lang="eng">Creative Commons Attribution 4.0 International (CC BY 4.0)</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/licenses/by/4.0/</RIGHTS>
+        <COPYRIGHT>
+            <![CDATA[<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons licenca" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />To delo je ponujeno pod<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Priznanje avtorstva 4.0 Mednarodna licenco</a>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Krajevna imena na Slovenskem 1.0</TITLE>
+        <TITLE titleType="Title" lang="eng">Place names in Slovenia 1.0</TITLE>
+        <SUBJECT lang="slv">krajevna imena</SUBJECT>
+        <SUBJECT lang="slv">1910</SUBJECT>
+        <SUBJECT lang="eng">place name</SUBJECT>
+        <PUBLISHER>Inštitut za novejšo zgodovino</PUBLISHER>
+        <SOURCE sourceType="Source" sourceAttr="URI">https://github.com/SIstory/Ortsrepertorium/tree/79a88b16f7bd086f187336d13243d829ca906dd0</SOURCE>
+        <COVERAGE coverageType="Spatial" attr="">Slovenija</COVERAGE>
+        <COVERAGE coverageType="Temporal" format="W3CDTF">1910-12-31</COVERAGE>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>2017</YEAR>
+        <DATETIME_ADDED>2016-10-01 09:09:54</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-06-22 11:15:32</DATETIME_MODIFIED>
+        <USER_ID_ADDED>11</USER_ID_ADDED>
+        <IMAGE>seznam_krajev-1910.png</IMAGE>
+        <CHILDREN>
+            <CHILD>36053</CHILD>
+            <CHILD>36055</CHILD>
+            <CHILD>36056</CHILD>
+            <CHILD>36057</CHILD>
+            <CHILD>36058</CHILD>
+        </CHILDREN>
+    </publication>
+    <publication>
+        <ID>11136</ID>
+        <URN>11686/11136</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CREATOR>
+            <IME>Andrej</IME>
+            <PRIIMEK>Pančur</PRIIMEK>
+        </CREATOR>
+        <CREATOR>
+            <IME>Barbara</IME>
+            <PRIIMEK>Győrfi</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date">2012</DATE>
+        <MENU_ID id="809">Raziskovalni podatki</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Dataset">2</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<a rel="license" href="http://creativecommons.org/licenses/by-sa/2.5/si/"><img alt="Creative Commons licenca" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/2.5/si/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Dataset" property="dct:title" rel="dct:type">Popis judovskega prebivalstva Dravske banovine iz leta 1937</span> avtorja <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.sistory.si/?urn=SISTORY:ID:11136" property="cc:attributionName" rel="cc:attributionURL">Andrej Pančur, Barbara Győrfi</a> je ponujeno pod <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.5/si/">Creative Commons Priznanje avtorstva-Deljenje pod enakimi pogoji 2.5 Slovenija licenco</a>.
+<br />
+<br />
+<a href="http://opendefinition.org/"><img alt="This material is Open Data" border="0" src="http://assets.okfn.org/images/ok_buttons/od_80x15_red_green.png" /></a>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Popis judovskega prebivalstva Dravske banovine iz leta 1937</TITLE>
+        <TITLE titleType="Title" lang="eng">List of Jews in Slovenia (Dravska banovina), 1937</TITLE>
+        <SUBJECT lang="slv">popisi prebivalstva</SUBJECT>
+        <SUBJECT lang="slv">Judje</SUBJECT>
+        <SUBJECT lang="slv">Slovenije</SUBJECT>
+        <SUBJECT lang="slv">Dravska banovina</SUBJECT>
+        <SUBJECT lang="eng">census</SUBJECT>
+        <SUBJECT lang="eng">Jews</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">Yugoslavia</SUBJECT>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>2012</YEAR>
+        <DATETIME_ADDED>2012-08-20 14:23:01</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2016-09-27 14:05:03</DATETIME_MODIFIED>
+        <USER_ID_ADDED>11</USER_ID_ADDED>
+        <PUBLICATION file="MS-Excel2000-Judje1937.xls">
+            <ATTRIBUTE type="digitalFormat">text/html</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="Judje37.xml" type="Normal">
+            <ATTRIBUTE type="digitalFormat">application/xml</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="ajax-Judje37.txt">
+            <ATTRIBUTE type="digitalFormat">text/plain</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="Judje37.sql">
+            <ATTRIBUTE type="digitalFormat">text/plain</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="Judje1937.csv">
+            <ATTRIBUTE type="digitalFormat">text/plain</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="Judje1937.tex">
+            <ATTRIBUTE type="digitalFormat">text/plain</ATTRIBUTE>
+        </PUBLICATION>
+        <PUBLICATION file="MS-Excel-Judje1937.csv">
+            <ATTRIBUTE type="digitalFormat">text/plain</ATTRIBUTE>
+        </PUBLICATION>
+        <IMAGE>PopisJudovDravskeBanovine.jpg</IMAGE>
+    </publication>
+</root>

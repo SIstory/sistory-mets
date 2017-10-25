@@ -1,0 +1,367 @@
+<root>
+    <publication>
+        <ID>37914</ID>
+        <URN>11686/37914</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CONTRIBUTOR>Borko Radešček</CONTRIBUTOR>
+        <CONTRIBUTOR>Marjetka Balkovec Debevec</CONTRIBUTOR>
+        <CONTRIBUTOR>Tatjana Rodošek</CONTRIBUTOR>
+        <CONTRIBUTOR>Darija Plevel</CONTRIBUTOR>
+        <CONTRIBUTOR>Borut Jurca</CONTRIBUTOR>
+        <CONTRIBUTOR>Mitja Bravhar</CONTRIBUTOR>
+        <CONTRIBUTOR>Tjaša Mrgole Jukič</CONTRIBUTOR>
+        <CREATOR>
+            <IME>Nataša</IME>
+            <PRIIMEK>Budna Kodrič</PRIIMEK>
+        </CREATOR>
+        <CREATOR>
+            <IME>Tatjana</IME>
+            <PRIIMEK>Hojan</PRIIMEK>
+        </CREATOR>
+        <CREATOR>
+            <IME>Aleksandra</IME>
+            <PRIIMEK>Serše</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date" format="W3CDTF">2003-01-01</DATE>
+        <MENU_ID id="125">Razstave</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Video">4</TYPE>
+        <TYPE_DC title="Moving Image">6</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons licenca" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />To <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/MovingImage" rel="dct:type">delo</span> avtorja <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.sistory.si/SISTORY:ID:37914, " property="cc:attributionName" rel="cc:attributionURL">Nataša Budna Kodrič, Tatjana Hojan, Aleksandra Serše, Borko Radešček, Marjetka Balkovec Debevec, Tatjana Rodošek, Darija Plevel, Borut Jurca, Mitja Bravhar, Tjaša Mrgole Jukič</a> je ponujeno pod <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International licenco</a>.]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Šole naših babic [Videoposnetek]: izobraževanje deklet v Ljubljani</TITLE>
+        <SUBJECT lang="slv">dekleta</SUBJECT>
+        <SUBJECT lang="slv">izobraževanje</SUBJECT>
+        <SUBJECT lang="slv">zgodovina</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="slv">dokumentarni filmi</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="eng">girls</SUBJECT>
+        <SUBJECT lang="eng">education</SUBJECT>
+        <SUBJECT lang="eng">history</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">documentary film</SUBJECT>
+        <PUBLISHER>Arhiv republike Slovenije, Ljubljana</PUBLISHER>
+        <PUBLISHER>Slovenski šolski muzej, Ljubljana</PUBLISHER>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
+        <IDENTIFIER identifierType="Sistory signatura">SI AS 1086, 6664</IDENTIFIER>
+        <OTHER otherType="provenance" lang="slv">Slovenski filmski arhiv pri Arhivu Republike Slovenije, Zbirka filmov AS 1086</OTHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>2003</YEAR>
+        <DATETIME_ADDED>2017-07-13 15:14:48</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-07-24 15:33:11</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="SoleNasihBabic.mp4">
+            <ATTRIBUTE type="digitalFormat">video/mp4</ATTRIBUTE>
+        </PUBLICATION>
+        <IMAGE>SoleNasihBabic.png</IMAGE>
+    </publication>
+    <publication>
+        <ID>31104</ID>
+        <URN>11686/31104</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CONTRIBUTOR>Neja Blaj Hribar (ur.)</CONTRIBUTOR>
+        <CONTRIBUTOR>Mija Mravlja (lekt.)</CONTRIBUTOR>
+        <CONTRIBUTOR>Judita Šega (koordinatorka razstave)</CONTRIBUTOR>
+        <CONTRIBUTOR>Tina Arh (skeniranje in obdelava fotografij)</CONTRIBUTOR>
+        <CONTRIBUTOR>Marko Grego (skeniranje in obdelava fotografij)</CONTRIBUTOR>
+        <CONTRIBUTOR>Erik Pregelj (skeniranje in obdelava fotografij)</CONTRIBUTOR>
+        <CONTRIBUTOR>Uroš Zagradnik (skeniranje in obdelava fotografij)</CONTRIBUTOR>
+        <CONTRIBUTOR>Grega Žorž (izdelava zemljevida)</CONTRIBUTOR>
+        <CREATOR>
+            <IME>Elizabeta</IME>
+            <PRIIMEK>Eržen Podlipnik</PRIIMEK>
+        </CREATOR>
+        <CREATOR>
+            <IME>Mira</IME>
+            <PRIIMEK>Hodnik</PRIIMEK>
+        </CREATOR>
+        <CREATOR>
+            <IME>Marija</IME>
+            <PRIIMEK>Kos</PRIIMEK>
+        </CREATOR>
+        <CREATOR>
+            <IME>Teja</IME>
+            <PRIIMEK>Krašovec</PRIIMEK>
+        </CREATOR>
+        <CREATOR>
+            <IME>Marko</IME>
+            <PRIIMEK>Mugerli</PRIIMEK>
+        </CREATOR>
+        <CREATOR>
+            <IME>Barbara</IME>
+            <PRIIMEK>Pešak Mikec</PRIIMEK>
+        </CREATOR>
+        <CREATOR>
+            <IME>Judita</IME>
+            <PRIIMEK>Šega</PRIIMEK>
+        </CREATOR>
+        <CREATOR>
+            <IME>Lilijana</IME>
+            <PRIIMEK>Vidrih Lavrenčič</PRIIMEK>
+        </CREATOR>
+        <CREATOR>
+            <IME>Barbara</IME>
+            <PRIIMEK>Žabota</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date">2015</DATE>
+        <MENU_ID id="125">Razstave</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <TYPE_DC title="Still Image">11</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[© Zgodovinski arhiv Ljubljana
+© Pokrajinski arhiv Koper
+© Pokrajinski arhiv v Novi Gorici
+© Gornjesavski muzej Jesenice
+© Tolminski muzej]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">V zaledju soške fronte</TITLE>
+        <TITLE titleType="Title" lang="slv">Virtualna razstava Zgodovinskega arhiva Ljubljana, Pokrajinskega arhiva Koper, Pokrajinskega arhiva v Novi Gorici, Gornjesavskega muzeja Jesenice in Tolminskega muzeja</TITLE>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
+        <PUBLISHER>Pokrajinski arhiv Koper, Koper</PUBLISHER>
+        <PUBLISHER>Pokrajinski arhiv v Novi Gorici, Nova Gorica</PUBLISHER>
+        <PUBLISHER>Gornjesavski muzej, Jesenice</PUBLISHER>
+        <PUBLISHER>Tolminski muzej, Tolmin</PUBLISHER>
+        <PUBLISHER>Inštitut za novejšo zgodovino, Ljub ljana</PUBLISHER>
+        <LINK>http://www2.sistory.si/publikacije/razstave/V_zaledju_soske_fronte/index.html</LINK>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>2015</YEAR>
+        <DATETIME_ADDED>2015-07-13 12:50:54</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-01-05 17:45:21</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <IMAGE>Screen Shot 2015-07-20 at 09.31.00.png</IMAGE>
+    </publication>
+    <publication>
+        <ID>31001</ID>
+        <URN>11686/31001</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CONTRIBUTOR>Marija Javor Briški (prev. nem.)</CONTRIBUTOR>
+        <CREATOR>
+            <IME>Alojz</IME>
+            <PRIIMEK>Cindrič</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date">2000</DATE>
+        <MENU_ID id="125">Razstave</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <LANGUAGE lang="deu">3</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons licenca" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />To <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">delo</span> avtorja <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.sistory.si/SISTORY:ID:31001" property="cc:attributionName" rel="cc:attributionURL">Alojz Cindrič</a> je ponujeno pod <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Priznanje avtorstva-Nekomercijalno-Brez predelav 4.0 International licenco</a>.]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Študenti s Kranjske na avstrijskih in nemških univerzah 1365 – 1917</TITLE>
+        <TITLE titleType="Title" lang="slv">Viri za zgodovino slovenskega izobraženstva</TITLE>
+        <TITLE titleType="Alternative Title" lang="deu">Studenten aus dem slowenischen ethnischen Gebiet an österreichischen und deutschen Universitäten</TITLE>
+        <SUBJECT lang="slv">študenti</SUBJECT>
+        <SUBJECT lang="slv">Kranjska</SUBJECT>
+        <SUBJECT lang="slv">univerze</SUBJECT>
+        <SUBJECT lang="eng">students</SUBJECT>
+        <SUBJECT lang="eng">Carniola</SUBJECT>
+        <SUBJECT lang="eng">foreign universities</SUBJECT>
+        <DESCRIPTION descriptionType="Description" lang="slv">
+            Pričujoča razstava je zasnovana v okviru mednarodnega simpozija na temo "Čeprav so meje še vedno v vsaki besedi" Preseganje meja in globalizacija v germanistiki ("Und gehen auch Grenzen noch durch jedes Wort" Grenzgänge und Globalisierung in der Germanistik), ki ga prirejata Oddelek za germanistiko Filozofske fakultete Univerze v Ljubljani in Avstrijsko društvo za germanistiko Univerze v Gradcu. (1. - 4. Junij 2000) V preteklih stoletjih so evropske dežele sodelovale na številnih področjih, saj so bile gospodarsko, kulturno in politično povezane, razstavljeno študijsko gradivo pa osvetljuje le eno plast medsebojnih odnosov, to je slovensko-nemških stikov in sodelovanja v preteklosti na področju univerzitetnega izobraževanja v obdobju od 14. do začetka 20. stoletja. Do 19. stoletja oz. v obdobju srednjega veka ne moremo govorili o narodnostni opredeljenosti študentov v sodobnem pomenu, kajti pomembna je bila le pripadnost deželi - nad nacionalno prevladuje pokrajinska zavest. Zato bi težko govorili o slovensko-nemških odnosih v dobesednem pomenu. Slovensko ozemlje je že s pokristjanjevanjem in fevdalizacijo prešlo v zahodno kulturno področje, vloga Salzburga kot cerkvenega središča pa je omogočila zgodnje vplive nemške kulture. S prehodom slovenskih dežel pod oblast Habsburžanov kot tudi z ustanovitvijo dunajske univerze leta 1365 se je ta proces nadaljeval in poglabljal. Zaton humanistične tradicije, protireformacija in s tem prevlada nemškega jezika v šolstvu ter študiji na avstrijskih in nemških univerzah so slovensko izobraženstvo neposredno vključili v nemško govoreče kulturno-znanstveno območje. Zgodovinske danosti so oblikovale homogeni mednarodni kulturni prostor, katerega deli so se med seboj prežemali, oplajali in dopolnjevali. Zaradi tega moramo njihovo tamkajšnje delovanje in dosežke obravnavati kot celoto in dediščino obeh narodov. Študenti s slovenskega ozemlja, ki so študirali na avstrjskih in nemških univerzah, so se aktivno vključevali v univerzitetno življenje, postali profesorji, dekani in rektorji ter hkrati posegali v širši nacionalni in mednacionalni prostor. Študij na teh univerzah za študente s slovenskega prostora ni pomenil samo poti do akademske izobrazbe, temveč tudi stik s tokovi višje kulturne stopnje oz. socialnih slojev evropske kulture. S svojim delovanjem so prispevali k afirmaciji narodov, živečih v monarhiji, predvsem slovenskega, nemajhen pa je tudi njihov prispevek k razvoju evropske kulture in civilizacije. Ti pomembni ljudje so s svojim delom vplivali na znanstvene usmeritve svojih študentov, med njimi celo vrsto slovenskih, ki so hlepeli po znanju in ustvarjalnem znanstvenem delu in ki so bili deležni njihove pomoči, nasvetov in zavzetosti. Med možmi, ki so zasedali pomebna mesta na univerzah in so s svojim delom zapustili neizbrisen pečat, bom omenil le nekatere. Na dunajski univerzi so rektorski položaj po večkrat,  skoraj štiridesetkrat zasedali profesorji s slovenskega etničnega prostora, nekateri tudi, kot npr. Brikcij Preprost (Briccius de Cillia), ki je bil tudi petkrat dekan teološke in trikrat filozofske fakultete. Bernard Perger, doma iz Ščavnice, je bil humanist, matematik, astronom, profesor, superintedent, dekan in rektor. Njegova moderna latinska slovnica je doživela tridest izdaj v šestih državah. Sledijo znana imena, kot so Tomaž Prelokar - profesor, diplomat, stolni prošt in kancler dunajske univerze ter vzgojitelj Maksimiljana I., filozof Matija Hvale, metličan Klemen Kukec - astronom, Andrej Perlah, Jurij Bohinc, Marko Anton Plenčič, Janez Sigismund Popovič, ki je po naročilu avstrijske vlade leta 1754 napisal nemško slovnico, Jurij Vega. V 19. stoletju izstopajo Jernej Kopitar, Tomaž Dolinar, Anton Fister, Franc Miklošič, Jožef Stefan (slednja imata tudi spominsko obeležje v avli dunajske univerze). Tudi na graški univerzi je bilo nekaj odličnih mož iz naših dežel, kot npr. teolog in dekan teološke fakultete Matija Bastiančič; zgodovinar in rektor Martin Bavčer; geograf in rektor Avguštin Hingerle; filozof in profesor Marko Hanzič; rektor kolegija in univerze Franc Staindl; profesor in predstojnik Astronomsko-matematičnega observatorija in inštituta Karl Tirnbergar; matematik in profesor Karel Tosch in še bi lahko naštevali. Na drugih nemških univerzah je najti na primer Franca Jelenca iz Selške doline, ki je bil profesor rimskega, civilnega in kriminalnega prava in rektor univerze v Freiburgu ter direktor pravne fakultete v Innsbrucku. Benedikt Pettschacher je bil teolog, pravnik, profesor in rektor univerze v Salzburgu. V Baslu je kot glasbeni teoretik, pisec in profesor deloval Baltazar Praspergius, doma iz Braslovč. V Leipzigu je kot medicinec, teolog, dekan in rektor univerze služboval Ljubljančan Staidler. Protestanski teolog in profesor teologije na univerzi v Strasbourgu je bil Ljubljančan Janez Taufrer; teolog in profesor protestantske teologije na univerzi v Tübingenu Mihael Tiffernus iz Laškega; pravnik in profesor na pravni fakulteti v Innsbrucku pa Janez Ulrich iz Novega mesta. Ker na slovenskem etničnem prostoru do ustanovitve univerze v Ljubljani leta 1919 ni bilo univerze, so študenti hodili študirat na tuje univerze. Pred ustanovitvijo univerze na Dunaju so študenti s slovenskega etničnega prostora več stoletij odhajali študirat na bližnje italijanske univerze (Bologna, Salerno, Padova, etc.) ter bolj oddaljene francoske, španske in angleške, včasih pa so odhajali tudi na praško ali krakovsko. Že od ustanovitve univerze na Dunaju je na osnovi matrik (vpisnih knjig) zaslediti številne študente s slovenskega etničnega prostora. V dobi reformacije in protireformacije so se univerze razdelile na katoliške in protestantske, posledica le-tega pa je, kot priča arhivsko gradivo, povečan vpis na nemške protestantske univerze. Po obiskanosti izstopa dunajska univerza, kasneje pa ji sledi graška univerza (ust. 1586), kar je razumljivo, saj je Dunaj kot glavno mesto nekdaj skupne države predstavljal več kot pol tisočletja politično, duhovno in kulturno središče slovenskih dežel, vključenih v habsburško monarhijo. Koliko študentov je študij zaključilo in se vrnilo domovino, kjer so svoje znanje uspešno uporabljali in kasneje postali znana imena našega kulturnega in javnega življenja, ni natačno ugotovljeno. Potrebno pa bo raziskati še gradivo, ki ga hranijo druge univerze, visoke šole in akademije, na katerih so študirali naši študenti, ter vključiti še ostale slovenske dežele, saj razstavljeni podatki vključujejo in zajemajo le osrednjo deželo Kranjsko. Tako je znatno število slovenskega izobraženstva ostalo še neugotovljeno. Razstavno gradivo je rezultat preučevanja rokopisnega gradiva (dunajske univerze), znanstvenih edicij (že transkribiranih virov - matrik drugih univerz) in literature. Poleg avstrijsko-nemških univerz sem vključil v zemljevid tudi vpis študentov s Kranjske na tri italijanske univerze (Padova, Siena in Peruggia), saj so se ti študenti na omenjenih univerzah vključili v nemško "nacijo" - kar je pomenilo mednarodno študentsko skupnost slušateljev in magistrov, na čelu katere je bil prokurator. Gradivo obsega zemljevide evropskih univerz, ustanovljenih do 15. stoletja, nemških univerz v 17. in 18. stol. ter pregled univerz, na katere so se vpisovali študenti s Kranjske, in za katere ima avtor razstave zanesljive podatke. Sledijo grafikoni vpisov na univerze v Tübingenu, Salzburgu, Ingolstadtu in Gradcu (za posamezna obdobja) ter grafikoni vpisa študentov na dunajsko univerzo za celotno obdobje od ustanovitve leta 1365 do leta 1917. Kjer je bilo na voljo dovolj podatkov, je podana tudi socialna struktura vpisanih študentov ter izbor študijskih smeri oz. fakultet. Razgibanost in postopno rast vpisa si lahko razlagamo s socialnim in gospodarskim stanjem v deželi ter z rastjo prebivalstva. V preteklih stoletjih so naše dežele doživljale številna nemirna obdobja (reformacija, protireformacija, turška nevarnost, vojne, spremenjene gospodarske in trgovske poti, lakota, epidemije, kuga, kolera …), zato veliko število slovenskih študentov vzbuja nemalo občudovanja. V mislih pa moramo imeti tudi odnos celotne družbe do izobraževanja v posameznih zgodovinskih obdobjih (humanizem, razsvetljenstvo … fin de siecle), kar ponuja številne teme v razmislek in nadaljnja preučevanja.
+        </DESCRIPTION>
+        <DESCRIPTION descriptionType="Description" lang="deu">
+            Diese Ausstellung wurde konzipiert im Rahmen des internationalen Symposiums "Und gehen auch Grenzen noch durch jedes Wort", das die Österreichische Gesellschaft für Germanistik der Universität Graz in Zusammenarbeit mit der Abteilung für Germanistik der Philosophischen Fakultät der Universität Ljubljana, die Gastgeberin dieses Symposiums ist, veranstaltet. In den vergangenen Jahrhunderten haben die europäischen Länder in verschiedenen Bereichen zusammengearbeitet, weil sie wirtschaftlich, kulturell und politisch engverbunden waren. Die ausgestellten Studienmaterialien geben nur über einen Aspekt der gegenseitigen Beziehungen Aufschluß, und zwar über die slowenisch-deutschen Kontakte und die Zusammenarbeit in der Vergangenheit im Bereich der universitären Ausbildung und Tätigkeit in der Zeit vom 14. bis zu Beginn des 20. Jahrhunderts. In der Frühzeit oder genauer bis zum 19. Jahrhundert kann man nur mit Vorbehalt von einer nationalen Zugehörigkeit der Studenten im modernen politischen Sinn sprechen, denn von Bedeutung war nur die Landeszugehörigkeit - über dem nationalen Bewußtsein stand das regionale. Deswegen kann man kaum von slowenisch-deutschen Beziehungen im eigentlichen Sinne des Wortes sprechen. Das slowenische Gebiet kam schon im Zuge der Christianisierung und der Feudalisierung zum westlichen Kulturraum. Die Rolle Salzburgs als kirchliches Zentrum ermöglichte schon frühe Einflüsse der deutschen Kultur. Mit dem Übergang der slowenischen Länder unter die Herrschaft der Habsburger und mit der Gründung der Wiener Universität im Jahre 1365 stetzte sich dieser Prozeß fort und vertiefte sich. Der Untergang der humanistischen Tradition, die Gegenreformation und damit die Oberherrschaft der deutschen Sprache im Schulwesen und während des Studiums an österreichischen und deutschen Universitäten bewirkten eine unmittelbare Eingliederung der slowenischen Bildungsschicht in den deutschen kulturellen und wissenschaftlichen Bereich. Die historischen Gegebenheiten schufen einen gemeinsamen, homogenen internationalen Kulturraum, dessen Teile einander befruchteten und ergänzten. Deshalb muß man ihr dortiges Wirken und die Errungenschaften als Ganzheit und Eigentum beider Nationen betrachten. Die Studenten aus dem slowenischen Gebiet, die an österreichischen und deutschen Universitäten studierten, nahmen aktiv am Universitätsleben teil, wurden Professoren, Dekane und Rektoren und griffen in den breiteren nationalen und internationalen Raum ein. Das Studium an diesen Universitäten war für die Studenten aus dem slowenischen Gebiet nicht nur ein Weg zur akademischen Ausbildung, sondern bot auch Möglichkeiten zu Kontakten mit den Strömungen einer höheren Kulturstufe oder höherer sozialer Schichten der europäischen Kultur. Durch ihr Wirken leisteten sie einen Beitrag zur Affirmation der in der Monarchie lebenden Völker, besonders des slowensichen, nicht gering ist auch ihr Beitrag zur Entwicklung der europäischen Kultur und Zivilisation. Diese bedeutenden Persönlichkeiten hatten mit ihrem Schaffen Einfluß auf die wissenschaftlichen Ausrichtungen ihrer Studenten, unter ihnen waren eine Reihe Slowenen, die es nach Wissen und wissenschaftlicher Tätigkeit dürstete und denen ihre Hilfe, ihre Ratschläge und ihr Engagement zuteil wurde. Von den Persönlichkeiten, die bedeutende Positionen an den Universitäten innehatten und mit ihrer Arbeit tiefe Spuren hinterlassen haben, seien nur einige erwähnt. An der Universität Wien besetzten die Rektorenstelle nahezu vierzigmal Professoren aus dem slowenischen ethnischen Gebiet, einige auch mehrere Male, wie Briccius de Cillia, der auch fünfmal Dekan der theologischen und dreimal der philosophischen Fakultät war. Bernard Perger aus Ščavnica war Humanist, Mathematiker, Astronom, Professor, Superintendent, Dekan und Rektor. Seine moderne lateinische Grammatik erlebte 30 Auflagen in sechs Ländern. Es folgen bekannte Namen, wie Tomaž Prelokar, Professor, Diplomat, Dompropst, Kanzler der Universität Wien und Erzieher Maximilians I., der Philosoph Matija Hvale, Klemen Kukec aus Metlika - Astronom, Andrej Perlah, Jurij Bohinc, Marko Anton Plenčič, Janez Sigismund Popovič, der im Auftrag der österreichischen Regierung im Jahre 1754 eine deutsche Grammatik verfaßte, und Jurij Vega. Im 19. Jahrhundert ragen hervor: Jernej Kopitar, Tomaž Dolinar, Anton Fister, Franc Miklošič, Jožef Stefan (die beiden letzteren haben auch eine Gedenktafel in derAula der Universität Wien). Auch an der Universität Graz waren einige hervorragende Persönlichkeiten aus den slowenischen Ländern tätig, wie Matija Bastiančič, Theologe und Dekan der theologischen Fakultät, Martin Bavčer, Historiker und Rektor, Avguštin Hingerle, Geograph und Rektor, Marko Hanzič, Philosoph und Professor, Franc Staindl, Rektor des Kollegs und der Universität, Karl Tirnbergar, Professor und Vorstand des Astronomisch-mathematischen Observatoriums und Instituts, Karel Tosch, Mathematiker und Professor, und andere mehr. An anderen deutschen Universitäten war beispielsweise Franc Jelenc aus dem Tal Selška dolina tätig, er war Professor für römisches, Zivil- und Strafrecht und Rektor der Universität Freiburg sowie Direktor der juristischen Fakultät in Innsbruck. Benedikt Pettschacher war Theologe, Jurist, Professor und Rektor der Universität Salzburg. In Basel wirkte als Musikologe, Autor und Professor Baltazar Praspergius aus Braslovče. In Leipzig war als Mediziner, Theologe, Dekan und Rektor der Universität Staidler, der aus Ljubljana stammt, tätig. Protestantischer Theologe und Professor für Theologie an der Universität Straßburg war Janez Tauffrer aus Ljubljana; Mihael Tiffernus aus Laško war Theologe und Professor für protestantische Theologie an der Universität Tübingen und Janez Ulrich aus Novo mesto war Jurist und Professor an der juristischen Fakultät in Innsbruck. Da es im slowenischen ethnischen Gebiet bis zur Gründung der Universität Ljubljana im Jahre 1919 keine Universität gab, mußten die Slowenen an ausländischen Universitäten studieren. Vor der Gründung der Universität Wien gingen die Studenten aus dem slowenischen ethnischen Gebiet an die nahegelegenen italienischen Universitäten (Bologna, Salerno, Padua usw.) und an die weiter entfernten französischen, spanischen und englischen, manchmal auch nach Prag oder Krakau. Schon seit der Gründung der Universität Wien besuchten sie, wie man den Matrikeln entnehmen kann, zahlreiche Studenten aus dem slowenischen ethnischen Gebiet. In der Zeit der Reformation und der Gegenreformation teilten sich die Universitäten in katholische und protestantische, die Folge davon war, wovon das Archivmaterial zeugt, eine zunehmende Immatrikulation an deutsche protestantische Universitäten. Den ersten Platz nach der Zahl der Studenten aus dem slowenischen Gebiet nimmt freilich die Universität Wien ein, ihr folgt später die Universität Graz (gegründet 1586), was verständlich ist, denn Wien stellt als Hauptstadt des ehemals gemeinsamen Staates länger als ein halbes Jahrtausend den politischen, geistigen und kulturellen Mittelpunkt der slowenischen Länder dar, die zur Habsburger Monarchie gehörten. Wie viele Studenten das Studium abgeschlossen und in ihre Heimat, wo sie ihr Wissen erfolgreich anwandten und später bekannte Namen des slowenischen kulturellen und öffentlichen Lebens wurden, zurückgekehrt sind, ist nicht präzise festgestellt worden. Man wird noch die Materialien, die an anderen Universitäten, Hochschulen und Akademien aufbewahrt werden, die von slowenischen Studenten besucht wurden, erforschen und noch die übrigen Länder Sloweniens einbeziehen müssen, denn die vorgestellten Daten umfassen nur das zentrale Land Krain, so daß ein erheblicher Anteil der slowenischen Bildungsschicht noch nicht ermittelt wurde. Die Ausstellungsmaterialien sind das Resultat der Untersuchung von handschriftlichen Quellen (der Universität Wien), wissenschaftlicher Editionen (schon transkribierter Quellen - Matrikeln anderer Universitäten) und der einschlägigen Literatur. Immatrikulationen der Studenten aus Krain, die die drei italienischen Universitäten Padua, Siena und Perugia besuchten, eingezeichnet, denn diese Studenten wurden an den besagten Universitäten zu der deutschen "Nation" gezählt - was eine internationale Studentenschaft von Hörern und Magistern darstellte, an deren Spitze der Prokurator stand. Das Material umfaßt die Karten der europäischen, bis zum 15. Jahrhundert gegründeten Universitäten und der deutschen Universitäten im 17. und 18. Jahrhundert, wo sich die Studenten aus Krain immatrikulierten und deren Angaben dem Autor der Ausstellung zur Verfügung gestanden haben. Es folgen Graphikone der Immatrikulationen an den Universitäten Tübingen, Salzburg, Ingolstadt und Graz (für einzelne Zeiträume) und Graphikone der Immatrikulationen der Studenten an der Universität Wien für die gesamte Zeit von der Gründung im Jahr 1365 bis zum Jahr 1917. Wo genügend Daten zur Verfügung gestanden haben, wird auch die soziale Struktur der eingeschriebenen Studenten und die Auswahl der Studienrichtungen (Fakultäten) vermittelt. Die Schwankungen und der allmähliche Anstieg der Immatrikulationen lassen sich anhand der sozialen und wirtschaftlichen Lage im Land und anhand des Bevölkerungswachstums erklären. In den vergangenen Jahrhunderten erlebten die slowenischen Länder zahlreiche unruhige Epochen (Reformation, Gegenreformation, Türkengefahr, Kriege, veränderte Handelswege, Hungersnöte, Epidemien, wie Pest, Cholera...), deswegen ruft die große Zahl der Studenten nicht wenig Bewunderung hervor. Man muß natürlich auch die Einstellung der gesamten Gesellschaft zur Ausbildung in den einzelnen Epochen der Geschichte (Humanismus, Aufklärung ... Fin de siecle) vor Augen haben, was zu zahlreichen Themen und weiteren Untersuchungen anregt. QUELLEN Handschriftschriftliche Quellen Hauptmatrikeln: Matrikel Album IIIV. (1689/90-1714/15); Matrikel Album IX. (1714-1746); Matrikel Album X. (1747-1778); Matrikel Album XI. (1779-1833); Matrikel Album XII. (1833-1842); Matrikel Album XIII. (1842-1849/50); Matrikel Album XIV. (1851-1860); Matrikel Album XV. (1860-1865); Matrikel Album XVI. (1865-1870); Matrikel Album XVII. (1870-1875); Matrikel Album XVIII. (1875-1880); Matrikel Album XIX. (1880-1885); Matrikel Album XX. (1886-1890); Matrikel Album XXI. (1890-1895); Matrikel Album XXII. (1895-1900); Matrikel Album XXIII. (1900-1905); Matrikel Album XXIV. (1905-1907); Matrikel Album XXV. (1908-1910); Matrikel Album XXVI. (1910-1912); Matrikel Album XXVII. ( 1912-1914); Matrikel Album XXVIII. (1914-1917). Gedruckte Quellen (wissenschaftliche Editionen) Die Matrikel der Universität Wien, Band I. - V. (1377 – 1689), Wien : Graz : Köln 1956, 1959, 1961, 1975 (bearb. von. F. Gall) in Band VI. (1689/90 – 1714/15), Wien : Köln : Weimar 1993 ( bearb. von. K. Mühlberger, W. Schuster); Die Matrikel der Universität Graz, Band I. (1585-1630), Graz 1977, Band II. (1630 – 1662), Graz 1980 in Band III. (1663 – 1710), Graz 1987 (bearb. von J. Andritsch); Die Matrikel der deutschen nation in Siena, Band I. (1573 – 1738), Tübingen 1962 (bearb. von F. Weigle); Die Matrikel der Universität Basel, Band III. (1601/02 – 1665/66), Basel 1962 ( bearb. von H. G. Wackernagel); Die Matrikel der Universität Giessen, Teil. 1. (1607 – 1707), Giessen 1900 (bearb. von E. Klewitz, K. Ebel); Die Matrikel der Universität Freiburg im Breigau (1656-1806), Freiburg 1955 (bearb. von F. Schaub); Matrikel der Martin Luther Universität, Halle - Wittenberg, Teil 1. (1690 – 1730), Halle 1960 (bearb. von F. Juntke, F. Zimmerman); Die Matrikel derUniversität Jena, Band I. (1548-1652), Jena 1944 (bearb. von G. Mentz in R. Jauernig) in Band II. (1652 – 1723), Weimar 1977 (bearb. von R. Jauernig, M. Steiger); Die Matrikel der deutschen nation (ultramontanen) in Perugia (1579 – 1727), Tübingen 1956 (berb. von F. Weigle); Die Matrikeln der Universität Tübingen, Band I. (1477-1600), Stuttgart 1906 (bearb. von H. Hermelink) in Band II., III. (1600-1710), (1710-1817), Tübingen 1953 (bearb. von A. Bürk, W. Wille). Literatur T. Elze, Die Universität Tübingen und die Studenten aus Krain, Tübingen 1877 (Reprint dr.dr. R. Trofenik, München 1977); P. pl. Radics, Kranjski dijaki na nemških vseučiliščih v XVI. in XVII. veku, Izvestja Muzejskega društva za Kranjsko, letnik IX, 1899; V. Murko, Slovenski predavatelji na tujih univerzah do leta 1800, Slovenski almanah, Ljubljana 1977; P. Simoniti, Humanizem na Slovenskem in slovenski humanisti do srede 16. stoletja, Ljubljana 1979; R. A. Müller, Geschichte der Universität, München 1990; Die Anfänge der Universität Wien, Wien 1990 (katalog ob razstavi); K. Mühlberger, T. Maisel, Rundgang durch die Geschichte der Universität Wien, Wien 1999; H. Heppner, Študenti iz slovenskih dežel na univerzi Gradec (1884 - 1914), Zgodovinski časopis 46, 1992, Nr. 3, 4 in ZČ 47, 1993, Nr. 1; Alojz Cindrič, Študenti s Kranjske na dunajski univerzi v predmarčni dobi 1815 - 1848, Ljubljana 1997 (Magisterarbeit); ders., Študenti s slovenskega narodnostnega ozemlja na dunajski univerzi 1365 - 1917, In: Slovenija in Dunaj. Ljubljana, 1995; Matrike kot vir za preučevanje slovenskega izobraženstva med leti 1585 in 1715 (Gradec - Dunaj - Siena), In: Gestrinov zbornik, Ljubljana 1999; Oris ljubljanskih študentov na dunajski univerzi 1896 - 1910, In: Homo sum … Ivan Hribar in njegova Ljubljana, Ljubljana 1997; Kočevski študenti na dunajski univerzi 1365 - 1917, Kronika 1995, Nr. 3; Radovljiški študenti na dunajski univerzi 1365 - 1917, In: Radovljiški zbornik, Radovljica 1995.
+        </DESCRIPTION>
+        <PUBLISHER>Inštitut za novejšo zgodovino, Ljubljana</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>2000</YEAR>
+        <DATETIME_ADDED>2015-05-14 12:21:26</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-02-10 10:44:59</DATETIME_MODIFIED>
+        <USER_ID_ADDED>100</USER_ID_ADDED>
+        <PUBLICATION file="RazstavaStudentiKranjske.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+            <ATTRIBUTE type="digitalDate" format="W3CDTF">2015-01-01</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>26933</ID>
+        <URN>11686/26933</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CONTRIBUTOR>Andrej Pančur (ur.)</CONTRIBUTOR>
+        <CREATOR>
+            <IME>Elizabeta</IME>
+            <PRIIMEK>Eržen Podlipnik</PRIIMEK>
+        </CREATOR>
+        <CREATOR>
+            <IME>Hana</IME>
+            <PRIIMEK>Habjan</PRIIMEK>
+        </CREATOR>
+        <CREATOR>
+            <IME>Mira</IME>
+            <PRIIMEK>Hodnik</PRIIMEK>
+        </CREATOR>
+        <CREATOR>
+            <IME>Marija</IME>
+            <PRIIMEK>Kos</PRIIMEK>
+        </CREATOR>
+        <CREATOR>
+            <IME>Marjana</IME>
+            <PRIIMEK>Kos</PRIIMEK>
+        </CREATOR>
+        <CREATOR>
+            <IME>Dragan</IME>
+            <PRIIMEK>Matić</PRIIMEK>
+        </CREATOR>
+        <CREATOR>
+            <IME>Barbara</IME>
+            <PRIIMEK>Pešak Mikec</PRIIMEK>
+        </CREATOR>
+        <CREATOR>
+            <IME>Judita</IME>
+            <PRIIMEK>Šega</PRIIMEK>
+        </CREATOR>
+        <CREATOR>
+            <IME>Barbara</IME>
+            <PRIIMEK>Žabota</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date">2014</DATE>
+        <MENU_ID id="125">Razstave</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <TYPE_DC title="Still Image">11</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[© Zgodovinski arhiv Ljubljana]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Kuge, lakote in vojske - reši nas, o Gospod!</TITLE>
+        <TITLE titleType="Title" lang="slv">Kranjska v prvem letu vélike vojne</TITLE>
+        <TITLE titleType="Title" lang="slv">Virtualna razstava Zgodovinskega arhiva Ljubljana</TITLE>
+        <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
+        <PUBLISHER>Inštitut za novejšo zgodovino, Ljubljana</PUBLISHER>
+        <LINK>http://www2.sistory.si/publikacije/razstave/Kranjska_v_prvem_letu_velike_vojne/index.html</LINK>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>2014</YEAR>
+        <DATETIME_ADDED>2014-06-26 12:07:31</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-01-05 17:48:56</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <IMAGE>razstava-ZAL-prva-vojna-V3.jpg</IMAGE>
+    </publication>
+    <publication>
+        <ID>1160</ID>
+        <URN>11686/1160</URN>
+        <CHILD_ORDER>6535</CHILD_ORDER>
+        <CONTRIBUTOR>Pavlina Bobič</CONTRIBUTOR>
+        <CONTRIBUTOR>Tomaž Budkovič</CONTRIBUTOR>
+        <CONTRIBUTOR>Željko Cimprič</CONTRIBUTOR>
+        <CONTRIBUTOR>Vanja Martinčič</CONTRIBUTOR>
+        <CONTRIBUTOR>Drago Sedmak</CONTRIBUTOR>
+        <CONTRIBUTOR>Marko Simić</CONTRIBUTOR>
+        <CONTRIBUTOR>Petra Svoljšak</CONTRIBUTOR>
+        <CONTRIBUTOR>Miha Šimac</CONTRIBUTOR>
+        <CONTRIBUTOR>Gregor Marolt</CONTRIBUTOR>
+        <CREATOR>
+            <IME>Marko</IME>
+            <PRIIMEK>Štepec</PRIIMEK>
+        </CREATOR>
+        <CREATOR>
+            <IME>Mojca</IME>
+            <PRIIMEK>Turk</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date">2011</DATE>
+        <MENU_ID id="125">Razstave</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <TITLE titleType="Title" lang="slv">Slovenci in prva svetovna vojna 1914-1918</TITLE>
+        <TITLE titleType="Alternative Title" lang="eng">Slovenians and the First World War 1914-1918</TITLE>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">prva svetovna vojna</SUBJECT>
+        <SUBJECT lang="slv">1914-1918</SUBJECT>
+        <DESCRIPTION descriptionType="Abstracts" lang="eng">
+            Ninety years ago, the cannons on the battlefields fell silent and the First World War ended. The exhibition, The Slovenes and The First World War 1914–1918, was prepared by the <a href="http://www.muzej-nz.si/en/" target="_blank">National Museum of Contemporary History</a> in collaboration with the Gorica Museum, Kobarid Museum and Military Museum of the Slovene Army who co-financed the project. The exhibited selection of museum items and photos tells a story of life in the hinterland and in trenches, having divided European states between 1914 and 1918. </p><p>The exhibition is divided into four thematic chapters: Slovenian Regiments and Soldiers, the Front, the Hinterlands and Memory. Most of the attention is focused on Slovenian regiments in the Austro-Hungarian Army and the battlefields they fought on. Many were not listened to while they were still alive trying to tell their war stories. Special attention is also paid to the Isonzo (Soča) Front, where soldiers of different nationalities bled, and of whom we are reminded today by a mass of cemeteries and cultural heritage remains. ‘The Great War’ as it is called by European historians, is a continuation of the processes initiated in the era of industrialization and is a breaking point between the 19th century and modernity, the ‘modern times’. A characteristic thought of a war veteran, later essayist, who experienced life in the trenches, is that the War was a great 'total mobilization', throwing all human and material resources into the War and fatally impacting the 20th century. The First World War changed the political map of Europe, causing traditional empires to crumble. Slovenians were especially influenced by the important and fatal dissolution of the Austro-Hungarian Monarch and the creation of new states, the State of Slovenians, Croats and Serbs among them. With the First World War we start talking about global world history in its present sense. Generations of mobilized soldiers in the trenches designed their own views of the world. The new models of thought deeply influenced the post-war era. Political life in Europe was fatally defined by authoritarian social systems, trying to implement the acquired military patterns of community into civil life. The War thus left an indelible seal and unpredictably influenced the later European development.</p><p>After a long period of peace, the First World War was the first larger military conflict in Slovenian territory, causing huge casualties and material damages. Many of the survived Slovene soldiers were not listened to when they tried to tell about their war experiences while they were still alive. Consequently, special attention at the exhibition was put to forming memory of the warand to our relationship to the cultural and historical heritage.The exhibition was opening the rooms for temporary exhibitions of the National Museum of Contemporary History between June 12 and October 20, 2009. Between July 27 and August 17, 1008, the selected chapters of the exhibition were presented in Kranjska Gora. Between October 25, 2008 and October 12, 2009, the exhibition was on view at the Kobarid Museum. Individual exhibited objects and selected chapters have been included in the permanent exhibition of the National Museum of Contemporary History, in the room devoted to WW1. At the invitation of the Institute of Contemporary History, a short journey through the exhibition has been prepared for the Sistory portal on the internet, based on the photographs of the museum instalation at the rooms of the National Museum of Contemporary History. It is, of course, not possible to present all the formerly exhibited objects from the collections of the three museums, galleries and private collectors who kindly gave us the objects on loan for the exhibition. Part of the material from the exhibition is on view at the permanent exhibition of the National Museum of Contemporary History. The exhibition was given a sub-title, Will I see you then, or never again? from the song, Balade 1917, by Vida Jeraj. The wish of many that the war in the period 1914–1918 were the last one did not come true. The exhibition on the First World War would like to help spread the culture of peace and tolerance. The preserved tangible and intangible heritage and many cemeteries bind us to that. Let weapons remain silent for good. Marko Stepec</p>
+        </DESCRIPTION>
+        <DESCRIPTION descriptionType="Abstracts" lang="slv">
+            <p>Minilo je devetdeset let, odkar so na bojiščih utihnili topovi in se je končala prva svetovna vojna. V <a href="http://www.muzej-nz.si/sl/" target="_blank">Muzeju novejše zgodovine Slovenije</a> smo skupaj z Goriškim, Kobariškim in Vojaškim muzejem Slovenske vojske, ki je projekt sofinanciral, pripravili razstavo z naslovom Slovenci in prva svetovna vojna 1914−1918. Razstavljeni izbor muzejskih predmetov in fotografij pripoveduje o življenju v zaledju bojišč in o strelskih jarkih, ki so v obdobju medletoma 1914 in 1918 ločevali evropske države. Razstavo smo razdelili na štiri vsebinska poglavja: Slovenski polki in vojaki, Fronta, Zaledje in Spomin.</p><p>Osrednja pozornost je namenjena slovenskim polkom v avstro-ogrski armadi in bojiščem, na katerih so se bojevali. Med njimi smo posebno pozornost namenili vojni v Posočju, kjer so krvaveli vojaki različnih narodov in na katere nas danes spominja množica pokopališč in ostankov kulturne dediščine. »Velika vojna«, kot jo označuje evropsko zgodovinopisje, pomeni nadaljevanje procesov,  začetih v dobi industrializacije, in obenem prelom med 19. stoletjem in sodobnostjo, »modernimi časi«. Značilna je misel vojnega veterana, kasnejšega esejista, ki je izkusil življenje v strelskih rovih in je o vojni razmišljal kot o veliki »totalni mobilizaciji«, ki je v vojno vpregla vse človeške in materialne zmogljivosti in usodno vplivala na dvajseto stoletje. Prva svetovna vojna je spremenila politični zemljevid Evrope, saj je povzročila razpad tradicionalnih cesarstev. Za Slovence sta posebej pomembna in usodna razpad avstro-ogrske monarhije in nastanek novih držav, med njimi tudi Države Slovencev, Hrvatov in Srbov. S prvo svetovno vojno začenjamo govoriti o globalni svetovni zgodovini v današnjem pomenu besede. Generacije mobiliziranih vojakov so v strelskih rovih oblikovale svoj pogled na svet. Pridobljeni modeli mišljenja so močno vplivali na povojno obdobje. Politično življenje v Evropi so usodno določili avtoritarni družbeni sistemi, ki so želeli v vojni pridobljene vojaške vzorce skupnosti uveljaviti v civilnem življenju. Vojna je tako vtisnila neizbrisen pečat in nesluteno vplivala na nadaljnji evropski razvoj.</p><p> Prva svetovna vojna je bila podaljšem obdobju miru prvi obsežnejši vojaški spopad, ki je potekal tudi na slovenskem ozemlju in povzročil velikansko človeško in gmotno škodo. Mnogim preživelim slovenskim vojakom za časa življenja nihče ni prisluhnil, ko so skušali pripovedovati o svojih vojnih izkušnjah. Zato smo na razstavi posebno pozornost namenili oblikovanju spomina navojno in odnosu do kulturno-zgodovinske dediščine. Razstava je bila odprta od 12. junija do 20. oktobra 2008 v prostorih za občasne razstave Muzeja novejše zgodovine Slovenije v Ljubljani. Od 27. julija do 17. avgusta 2008 smo izbrana poglavja razstave predstavili v Kranjski gori. Od 25. oktobra 2008 do 12. oktobra 2009 je bila razstava odprta v Kobariškem muzeju. Posamezne razstavljene predmete in izbrana poglavja smo vključili vstalno zbirko Muzeja novejše zgodovine Slovenije. Na spletnem portalu Sistory smo na povabilo Inštituta za novejšo zgodovino pripravili kratek sprehod po razstavi, na podlagi fotografij muzejske postavitve v prostorih Muzeja novejše zgodovine Slovenije. Pri tem seveda ni možno predstaviti vseh razstavljenih predmetov iz zbirk treh muzejev, galerij in zasebnih zbiralcev, ki so nam za razstavo prijazno posodili gradivo. Del razstavljenega gradiva je razstavljen v stalni zbirki Muzeja novejše zgodovine Slovenijev razstavnem prostoru namenjenem prvi svetovni vojni. Razstavo smo podnaslovili z verzi Se vrneš kdaj, te več ne bo? iz pesmi Vide Jeraj, Balada 1917. Z razstavo smo želeli opozoriti na življenjske usode, drobce umetnosti in bogato kulturnozgodovinsko dediščino»velike vojne«, ki se je ohranila na Slovenskem. Želja mnogih, da bi bila vojna v obdobju 1914–1918 zadnja, se ni izpolnila. Z razstavo o prvi svetovni vojni želimo prispevati k širjenju kulture miru in strpnosti. K temu nas zavezujejo ohranjena predmetna in nepredmetna dediščina in mnoga pokopališča. Naj orožje za vekomaj molči! mag. Marko Štepec</p>
+        </DESCRIPTION>
+        <PUBLISHER>Muzej novejše zgodovine Slovenije, Ljubljana</PUBLISHER>
+        <PUBLISHER>Goriški muzej, Nova Gorica</PUBLISHER>
+        <PUBLISHER>Kobariški muzej, Kobarid</PUBLISHER>
+        <PUBLISHER>Vojaški muzej Slovenske vojske, Maribor</PUBLISHER>
+        <COVERAGE coverageType="Coverage" lang="slv">Slovenija, 1914-1918</COVERAGE>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>2011</YEAR>
+        <DATETIME_ADDED>2011-11-22 11:27:15</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-02-10 09:23:44</DATETIME_MODIFIED>
+        <USER_ID_ADDED>100</USER_ID_ADDED>
+        <IMAGE>Prva_svetovna_vojna.jpg</IMAGE>
+    </publication>
+    <publication>
+        <ID>1159</ID>
+        <URN>11686/1159</URN>
+        <CHILD_ORDER>6534</CHILD_ORDER>
+        <CONTRIBUTOR>Boris Brovinsky</CONTRIBUTOR>
+        <CONTRIBUTOR>Iztok Durjava</CONTRIBUTOR>
+        <CONTRIBUTOR>Sonja Ifko</CONTRIBUTOR>
+        <CONTRIBUTOR>Jelko Gros</CONTRIBUTOR>
+        <CONTRIBUTOR>Tomaž Verdnik</CONTRIBUTOR>
+        <CONTRIBUTOR>Irena Marušič (vodja projekta)</CONTRIBUTOR>
+        <CONTRIBUTOR>Gregor Marolt</CONTRIBUTOR>
+        <CREATOR>
+            <IME>Sandi</IME>
+            <PRIIMEK>Sitar</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date">2011</DATE>
+        <MENU_ID id="125">Razstave</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <TITLE titleType="Title" lang="slv">LETEČI ČLOVEK, Stanko Bloudek (1890 – 1959)</TITLE>
+        <TITLE titleType="Alternative Title" lang="eng">THE FLYING MAN, Stanko Bloudek (1890 – 1959)</TITLE>
+        <SUBJECT lang="slv">Stanko Bloudek</SUBJECT>
+        <SUBJECT lang="slv">izumitelj</SUBJECT>
+        <SUBJECT lang="slv">letalski pionir</SUBJECT>
+        <PUBLISHER>Tehniški muzej Slovenije, Bistra pri Vrhniki</PUBLISHER>
+        <COVERAGE coverageType="Coverage" lang="slv">Slovenija, 1890-1959</COVERAGE>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>2011</YEAR>
+        <DATETIME_ADDED>2011-11-22 11:27:33</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-02-10 08:58:31</DATETIME_MODIFIED>
+        <USER_ID_ADDED>100</USER_ID_ADDED>
+        <IMAGE>Leteci_clovek.jpg</IMAGE>
+    </publication>
+    <publication>
+        <ID>922</ID>
+        <URN>11686/922</URN>
+        <CHILD_ORDER>2</CHILD_ORDER>
+        <CREATOR>
+            <IME>Zmago</IME>
+            <PRIIMEK>Tančič</PRIIMEK>
+        </CREATOR>
+        <MENU_ID id="125">Razstave</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <TITLE titleType="Title" lang="slv">Sprehod skozi zgodovino razglednic</TITLE>
+        <TITLE titleType="Title" lang="slv">Ljubljana in njeni prebivalci</TITLE>
+        <SUBJECT lang="slv">razglednice</SUBJECT>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">postcards</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <DATETIME_ADDED>2011-11-22 10:19:38</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-01-05 17:50:41</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="ljubljana.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+</root>
