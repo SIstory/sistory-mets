@@ -1,4 +1,5 @@
-<root>
+<?xml version="1.0" encoding="UTF-8"?>
+<root xmlns="http://www.sistory.si/schemas/sistory/">
     <publication>
         <ID>38052</ID>
         <URN>11686/38052</URN>
@@ -300,7 +301,7 @@ To delo avtorskopravno ni varovano.
         <SUBJECT lang="eng">Germany</SUBJECT>
         <SUBJECT lang="slv">Austria</SUBJECT>
         <SUBJECT lang="slv">genealogy</SUBJECT>
-        <PUBLISHER>Tendler & Comp, Wien</PUBLISHER>
+        <PUBLISHER>Tendler &amp; Comp, Wien</PUBLISHER>
         <STATUS>1</STATUS>
         <LOCK>0</LOCK>
         <YEAR>1857</YEAR>
@@ -4173,7 +4174,7 @@ Avtorske pravice so potekle, delo je v javni domeni.
      style="border-style: none;" alt="Public Domain Mark" />
 </a>
 <br />
-This work (<span property="dct:title"> Stenografski zapisnik hrvatskih i slovenskih govora na istarskom saboru u zasjedanju godine 1907. Kopar 19/IX – 15/X 1907. i 14/III – 26/III 1908.</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:27180" rel="dct:creator"><span property="dct:title"> Stab. tip. Unione & Meneghelli & c.</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+This work (<span property="dct:title"> Stenografski zapisnik hrvatskih i slovenskih govora na istarskom saboru u zasjedanju godine 1907. Kopar 19/IX – 15/X 1907. i 14/III – 26/III 1908.</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:27180" rel="dct:creator"><span property="dct:title"> Stab. tip. Unione &amp; Meneghelli &amp; c.</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
 <br />
 Avtorske pravice so potekle, delo je v javni domeni.
 </p>]]>
@@ -4183,7 +4184,7 @@ Avtorske pravice so potekle, delo je v javni domeni.
         <SUBJECT lang="slv">Istra</SUBJECT>
         <SUBJECT lang="eng">stenographical minutes</SUBJECT>
         <SUBJECT lang="eng">Istria</SUBJECT>
-        <PUBLISHER>Stab. tip. Unione & Meneghelli & c., Trst</PUBLISHER>
+        <PUBLISHER>Stab. tip. Unione &amp; Meneghelli &amp; c., Trst</PUBLISHER>
         <STATUS>1</STATUS>
         <LOCK>0</LOCK>
         <YEAR>1908</YEAR>

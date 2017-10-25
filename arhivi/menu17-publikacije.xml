@@ -1,4 +1,5 @@
-<root>
+<?xml version="1.0" encoding="UTF-8"?>
+<root xmlns="http://www.sistory.si/schemas/sistory/">
     <publication>
         <ID>38026</ID>
         <URN>11686/38026</URN>
@@ -5930,7 +5931,7 @@ Croatia these factors have to be taken into account. Yet the creators o f such s
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Matjaž Klemenčič<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Matjaž Klemenčič<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Ustanovitev slovenske države - davna želja vseh Slovencev!?</TITLE>
         <TITLE titleType="Title" lang="eng">Establishment of Slovene State - An Ancient Wish of Slovenes!?</TITLE>
@@ -6626,7 +6627,7 @@ historical generalizations and concepts. Borrowing the définition of historic m
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Andrej Hozjan<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Andrej Hozjan<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Slovenske aktualizacije mitskega in stereotipnega v zgodovinopisju na svetovnem spletu</TITLE>
         <TITLE titleType="Title" lang="slv">Primeri nepolitičnih društev v RS</TITLE>
@@ -8147,7 +8148,7 @@ Rogaška Slatina Thermal Spa and Its History
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; France Filipič<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; France Filipič<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Okoliščine in potek nastajanja "Speransa"</TITLE>
         <SUBJECT lang="slv">Slovenija</SUBJECT>
@@ -8188,7 +8189,7 @@ Rogaška Slatina Thermal Spa and Its History
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Metod Mikuž<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Metod Mikuž<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Časovni okvir nastanka Speransove knjige</TITLE>
         <SUBJECT lang="slv">Slovenija</SUBJECT>
@@ -8947,7 +8948,7 @@ Rogaška Slatina Thermal Spa and Its History
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Marija Wakounig<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Marija Wakounig<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Žandarji ali roparji. Integracija Uskokov kot regionalni problem</TITLE>
         <SUBJECT lang="slv">Jugovzhodna Evropa - Balkan</SUBJECT>
@@ -9212,7 +9213,7 @@ Priznanje avtorstva-Nekomercijalno-Brez predelav 4.0 International licenco</a>.]
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Darko Friš<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Darko Friš<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Pozdravni govor predsednika Zgodovinskega društva dr. Fran Kovačič, Maribor.</TITLE>
         <SUBJECT lang="slv">Slovenci</SUBJECT>
@@ -9776,7 +9777,7 @@ Avtorske pravice so potekle, delo je v javni domeni.
         <COPYRIGHT>
             <![CDATA[<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons licenca" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />To <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">delo</span> avtorja <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.sistory.si/SISTORY:ID:35096" property="cc:attributionName" rel="cc:attributionURL">Marija Počivavšek</a> je ponujeno pod <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Priznanje avtorstva-Nekomercijalno-Brez predelav 4.0 International licenco</a>.]]>
         </COPYRIGHT>
-        <TITLE titleType="Title" lang="slv">En gros & en detail</TITLE>
+        <TITLE titleType="Title" lang="slv">En gros  	&amp;amp; en detail</TITLE>
         <TITLE titleType="Title" lang="slv">Trgovina v Sloveniji do druge svetovne vojne : trendi, strukture, prakse</TITLE>
         <TITLE titleType="Alternative Title" lang="deu">Der Handel in Slowenien bis zum 2. Weltkrieg: Trends, Strukturen, Praktiken</TITLE>
         <SUBJECT lang="slv">trgovina</SUBJECT>
@@ -10829,7 +10830,7 @@ Avtorske pravice so potekle, delo je v javni domeni.
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Dragan Potočnik<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Dragan Potočnik<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Gospodarske razmere v Mariboru med svetovnima vojnama</TITLE>
         <SUBJECT lang="slv">Maribor</SUBJECT>
@@ -11141,7 +11142,7 @@ Avtorske pravice so potekle, delo je v javni domeni.
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Darko Friš<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Darko Friš<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Naši izseljenci na obisku v stari "domovini" (1836-1941)</TITLE>
         <SUBJECT lang="slv">Slovenija</SUBJECT>
@@ -12490,7 +12491,7 @@ pojasnjevali s pomenom “gorohodec” ali “hribohodec” kot posebna vrsta po
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Deborah Rogoznica<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Deborah Rogoznica<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Otroštvo v razmerah vojaške uprave</TITLE>
         <TITLE titleType="Title" lang="slv">Skrb za otroke v coni B Svobodnega tržaškega ozemlja s posebnim poudarkom na koprski okraj</TITLE>
@@ -12918,7 +12919,7 @@ pojasnjevali s pomenom “gorohodec” ali “hribohodec” kot posebna vrsta po
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Riccardo Damiani<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Riccardo Damiani<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="eng">Italian Lictor Youth of Ljubljana: the Foundation and the Organisation</TITLE>
         <TITLE titleType="Title" lang="ita">La GILL di Lubiana: nascita ed organizzazione</TITLE>
@@ -13429,7 +13430,7 @@ in different socio-cultural mirrors.
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Stanislav Južnič<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Stanislav Južnič<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Geniji v kratkih hlačah za zgodovino znanosti in tehnike</TITLE>
         <TITLE titleType="Alternative Title" lang="eng">Child Prodigies in History of Science and Technology</TITLE>
@@ -16763,7 +16764,7 @@ in different socio-cultural mirrors.
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Tomaž Weber<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Tomaž Weber<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Problemi vizualizacije in zgodovinskega pouka in njihove rešitve</TITLE>
         <TITLE titleType="Alternative Title" lang="eng">Problems of visualizing History lessons and their solutions</TITLE>
@@ -26817,7 +26818,7 @@ in different socio-cultural mirrors.
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Alojz Cindrič<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Alojz Cindrič<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Vpliv dunajske univerze na oblikovanje slovenskega izobraženstva: statistična slika študentov s Kranjske na dunajski univerzi med leti 1804 in 1917 : študijske smeri, krajevni in socialni izvor</TITLE>
         <PUBLISHER>Oddelek za zgodovino Filozofske fakultete Univerze v Ljubljani, Ljubljana</PUBLISHER>
@@ -27005,7 +27006,7 @@ in different socio-cultural mirrors.
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Janez Debeljak<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Janez Debeljak<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Maršiči in Žukovo - Mikužev drugi dom</TITLE>
         <PUBLISHER>Oddelek za zgodovino Filozofske fakultete Univerze v Ljubljani, Ljubljana</PUBLISHER>
@@ -27077,7 +27078,7 @@ in different socio-cultural mirrors.
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Viktorija Centa<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Viktorija Centa<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Začetki Ribniškega muzeja</TITLE>
         <PUBLISHER>Oddelek za zgodovino Filozofske fakultete Univerze v Ljubljani, Ljubljana</PUBLISHER>
@@ -27229,7 +27230,7 @@ in different socio-cultural mirrors.
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Dean Ceglar<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Dean Ceglar<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Sodstvo v Ribnica</TITLE>
         <PUBLISHER>Oddelek za zgodovino Filozofske fakultete Univerze v Ljubljani, Ljubljana</PUBLISHER>
@@ -28029,7 +28030,7 @@ in different socio-cultural mirrors.
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Matjaž Klemenčič<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Matjaž Klemenčič<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Leadville (Kolorado) in tamkajšnji Slovenci v času prve in druge svetovne vojne</TITLE>
         <PUBLISHER>Oddelek za zgodovino Filozofske fakultete Univerze v Ljubljani, Ljubljana</PUBLISHER>
@@ -29093,7 +29094,7 @@ in different socio-cultural mirrors.
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Feliks J. Bister<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Feliks J. Bister<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Biti Slovenec v Avstriji</TITLE>
         <PUBLISHER>Oddelek za zgodovino Filozofske fakultete Univerze v Ljubljani, Ljubljana</PUBLISHER>
@@ -29460,7 +29461,7 @@ in different socio-cultural mirrors.
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Frane Jerman<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Frane Jerman<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Slovenska narodna identiteta in slovenska filozofija</TITLE>
         <PUBLISHER>Oddelek za zgodovino Filozofske fakultete Univerze v Ljubljani, Ljubljana</PUBLISHER>
@@ -29560,7 +29561,7 @@ in different socio-cultural mirrors.
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Igor Grdina<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Igor Grdina<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Konstituiranje slovenske narodne identitete in slovenska književnost (v trikotniku Avstrija - Jugoslavija - Slovenija)</TITLE>
         <PUBLISHER>Oddelek za zgodovino Filozofske fakultete Univerze v Ljubljani, Ljubljana</PUBLISHER>
@@ -29700,7 +29701,7 @@ in different socio-cultural mirrors.
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Janko Prunk<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Janko Prunk<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Razvoj slovenske narodne identitete v prvi Jugoslaviji</TITLE>
         <PUBLISHER>Oddelek za zgodovino Filozofske fakultete Univerze v Ljubljani, Ljubljana</PUBLISHER>
@@ -29766,7 +29767,7 @@ in different socio-cultural mirrors.
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Andreas Moritsch<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Andreas Moritsch<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Narodna identiteta - nujnost ali anahronizem?</TITLE>
         <PUBLISHER>Oddelek za zgodovino Filozofske fakultete Univerze v Ljubljani, Ljubljana</PUBLISHER>
@@ -29796,7 +29797,7 @@ in different socio-cultural mirrors.
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Arnold Suppan<br />Uredništvo portala SIstory nima soglasja prevajalca za objavo dela.]]>
+            <![CDATA[&amp;#169; Arnold Suppan<br />Uredništvo portala SIstory nima soglasja prevajalca za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Najnovejša avstrijska dela o slovenski identiteti</TITLE>
         <PUBLISHER>Oddelek za zgodovino Filozofske fakultete Univerze v Ljubljani, Ljubljana</PUBLISHER>
@@ -29896,7 +29897,7 @@ in different socio-cultural mirrors.
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Gerhard Wagner<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Gerhard Wagner<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Otvoritveni govor</TITLE>
         <PUBLISHER>Oddelek za zgodovino Filozofske fakultete Univerze v Ljubljani, Ljubljana</PUBLISHER>
@@ -34207,7 +34208,7 @@ und Kultur.
         <SUBJECT lang="eng">political transition</SUBJECT>
         <PUBLISHER>Inštitut za novejšo zgodovino, Ljubljana</PUBLISHER>
         <IDENTIFIER identifierType="Identifier">COBISS.SI-ID 263996672</IDENTIFIER>
-        <LINK>http://www.dz-rs.si/wps/PA_DZ-LN-Publikacije/PublikacijeRes?unid=8C47D17F1963B096C1257AD1004BEA91&fn=Drzavni%20zbor%201992-2012%20-%20koncno%20porocilo.pdf&server=s+1zJY7Z+hsVN6lhtc0Tv+RCCpmK+zzxtdhQk9FGWGE=</LINK>
+        <LINK>http://www.dz-rs.si/wps/PA_DZ-LN-Publikacije/PublikacijeRes?unid=8C47D17F1963B096C1257AD1004BEA91&amp;fn=Drzavni%20zbor%201992-2012%20-%20koncno%20porocilo.pdf&amp;server=s+1zJY7Z+hsVN6lhtc0Tv+RCCpmK+zzxtdhQk9FGWGE=</LINK>
         <STATUS>1</STATUS>
         <LOCK>0</LOCK>
         <YEAR>2012</YEAR>
@@ -34373,7 +34374,7 @@ Avtorske pravice so potekle, delo je v javni domeni.
         <SUBJECT lang="slv">Kranjska</SUBJECT>
         <SUBJECT lang="eng">history</SUBJECT>
         <SUBJECT lang="eng">Carniola</SUBJECT>
-        <PUBLISHER>Ig. v. Kleinmayr & Fed. Bamberg</PUBLISHER>
+        <PUBLISHER>Ig. v. Kleinmayr &amp; Fed. Bamberg</PUBLISHER>
         <IDENTIFIER identifierType="Identifier">COBISS.SI-ID 2486536</IDENTIFIER>
         <STATUS>1</STATUS>
         <LOCK>0</LOCK>
@@ -34418,7 +34419,7 @@ Avtorske pravice so potekle, delo je v javni domeni.
         <SUBJECT lang="slv">Kranjska</SUBJECT>
         <SUBJECT lang="eng">history</SUBJECT>
         <SUBJECT lang="eng">Carniola</SUBJECT>
-        <PUBLISHER>Ig. v. Kleinmayr & Fed. Bamberg</PUBLISHER>
+        <PUBLISHER>Ig. v. Kleinmayr &amp; Fed. Bamberg</PUBLISHER>
         <IDENTIFIER identifierType="Identifier">COBISS.SI-ID 2486536</IDENTIFIER>
         <STATUS>1</STATUS>
         <LOCK>0</LOCK>
@@ -34463,7 +34464,7 @@ Avtorske pravice so potekle, delo je v javni domeni.
         <SUBJECT lang="slv">Kranjska</SUBJECT>
         <SUBJECT lang="eng">history</SUBJECT>
         <SUBJECT lang="eng">Carniola</SUBJECT>
-        <PUBLISHER>Ig. v. Kleinmayr & Fed. Bamberg.</PUBLISHER>
+        <PUBLISHER>Ig. v. Kleinmayr &amp; Fed. Bamberg.</PUBLISHER>
         <IDENTIFIER identifierType="Identifier">COBISS.SI-ID 2486536</IDENTIFIER>
         <STATUS>1</STATUS>
         <LOCK>0</LOCK>
@@ -34508,7 +34509,7 @@ Avtorske pravice so potekle, delo je v javni domeni.
         <SUBJECT lang="slv">Kranjska</SUBJECT>
         <SUBJECT lang="eng">history</SUBJECT>
         <SUBJECT lang="eng">Carniola</SUBJECT>
-        <PUBLISHER>Ign. v. Kleinmayr & Fed. Bamberg</PUBLISHER>
+        <PUBLISHER>Ign. v. Kleinmayr &amp; Fed. Bamberg</PUBLISHER>
         <IDENTIFIER identifierType="Identifier">COBISS.SI-ID 2486536</IDENTIFIER>
         <STATUS>1</STATUS>
         <LOCK>0</LOCK>
@@ -34537,7 +34538,7 @@ Avtorske pravice so potekle, delo je v javni domeni.
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Miran Puconja<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Miran Puconja<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Vprašanje ilirizma</TITLE>
         <PUBLISHER>Zgodovinsko društvo Celje, Celje</PUBLISHER>
@@ -34568,7 +34569,7 @@ Avtorske pravice so potekle, delo je v javni domeni.
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Franc Krnjak<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Franc Krnjak<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Kočevarjev rod</TITLE>
         <PUBLISHER>Zgodovinsko društvo Celje, Celje</PUBLISHER>
@@ -34598,7 +34599,7 @@ Avtorske pravice so potekle, delo je v javni domeni.
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Jožica Vodeb<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Jožica Vodeb<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Celjska Narodna čitalnica 1862-1873</TITLE>
         <PUBLISHER>Muzej novejše zgodovine, Celje</PUBLISHER>
@@ -37316,7 +37317,7 @@ of the transition into a new and different paradigm of development, social relat
         <COLLECTION>Knjižna zbirka Državnega zbora Republike Slovenije</COLLECTION>
         <SOURCE sourceType="Vir - URN Naslov">SISTORY:ID:1315</SOURCE>
         <COVERAGE coverageType="Coverage" lang="slv">Slovenija, 1990-2010</COVERAGE>
-        <LINK>http://www.dz-rs.si/wps/PA_DZ-LN-Publikacije/PublikacijeRes?unid=9A2C9C1EC553CAB1C12577FF003A9EF5&fn=Zbornik_prihodnost_parlamentarne_demokracije.pdf&server=s+1zJY7Z+hsVN6lhtc0Tv+RCCpmK+zzxtdhQk9FGWGE=</LINK>
+        <LINK>http://www.dz-rs.si/wps/PA_DZ-LN-Publikacije/PublikacijeRes?unid=9A2C9C1EC553CAB1C12577FF003A9EF5&amp;fn=Zbornik_prihodnost_parlamentarne_demokracije.pdf&amp;server=s+1zJY7Z+hsVN6lhtc0Tv+RCCpmK+zzxtdhQk9FGWGE=</LINK>
         <STATUS>1</STATUS>
         <LOCK>0</LOCK>
         <YEAR>2010</YEAR>
@@ -37358,7 +37359,7 @@ of the transition into a new and different paradigm of development, social relat
         <COLLECTION>Knjižna zbirka Državnega zbora Republike Slovenije</COLLECTION>
         <SOURCE sourceType="Vir - URN Naslov">SISTORY:ID:1314</SOURCE>
         <COVERAGE coverageType="Coverage" lang="slv">Slovenija, 1990-2010</COVERAGE>
-        <LINK>http://www.dz-rs.si/wps/PA_DZ-LN-Publikacije/PublikacijeRes?unid=9A2C9C1EC553CAB1C12577FF003A9EF5&fn=Zbornik_prihodnost_parlamentarne_demokracije.pdf&server=s+1zJY7Z+hsVN6lhtc0Tv+RCCpmK+zzxtdhQk9FGWGE=</LINK>
+        <LINK>http://www.dz-rs.si/wps/PA_DZ-LN-Publikacije/PublikacijeRes?unid=9A2C9C1EC553CAB1C12577FF003A9EF5&amp;fn=Zbornik_prihodnost_parlamentarne_demokracije.pdf&amp;server=s+1zJY7Z+hsVN6lhtc0Tv+RCCpmK+zzxtdhQk9FGWGE=</LINK>
         <STATUS>1</STATUS>
         <LOCK>0</LOCK>
         <YEAR>2010</YEAR>
@@ -37399,7 +37400,7 @@ of the transition into a new and different paradigm of development, social relat
         <COLLECTION>Knjižna zbirka Državnega zbora Republike Slovenije</COLLECTION>
         <SOURCE sourceType="Vir - URN Naslov">SISTORY:ID:1313</SOURCE>
         <COVERAGE coverageType="Coverage" lang="slv">Slovenija, 1990-2010</COVERAGE>
-        <LINK>http://www.dz-rs.si/wps/PA_DZ-LN-Publikacije/PublikacijeRes?unid=9A2C9C1EC553CAB1C12577FF003A9EF5&fn=Zbornik_prihodnost_parlamentarne_demokracije.pdf&server=s+1zJY7Z+hsVN6lhtc0Tv+RCCpmK+zzxtdhQk9FGWGE=</LINK>
+        <LINK>http://www.dz-rs.si/wps/PA_DZ-LN-Publikacije/PublikacijeRes?unid=9A2C9C1EC553CAB1C12577FF003A9EF5&amp;fn=Zbornik_prihodnost_parlamentarne_demokracije.pdf&amp;server=s+1zJY7Z+hsVN6lhtc0Tv+RCCpmK+zzxtdhQk9FGWGE=</LINK>
         <STATUS>1</STATUS>
         <LOCK>0</LOCK>
         <YEAR>2010</YEAR>
@@ -37438,7 +37439,7 @@ of the transition into a new and different paradigm of development, social relat
         <COLLECTION>Knjižna zbirka Državnega zbora Republike Slovenije</COLLECTION>
         <SOURCE sourceType="Vir - URN Naslov">SISTORY:ID:1312</SOURCE>
         <COVERAGE coverageType="Coverage" lang="slv">Slovenija, 1990-2010</COVERAGE>
-        <LINK>http://www.dz-rs.si/wps/PA_DZ-LN-Publikacije/PublikacijeRes?unid=9A2C9C1EC553CAB1C12577FF003A9EF5&fn=Zbornik_prihodnost_parlamentarne_demokracije.pdf&server=s+1zJY7Z+hsVN6lhtc0Tv+RCCpmK+zzxtdhQk9FGWGE=</LINK>
+        <LINK>http://www.dz-rs.si/wps/PA_DZ-LN-Publikacije/PublikacijeRes?unid=9A2C9C1EC553CAB1C12577FF003A9EF5&amp;fn=Zbornik_prihodnost_parlamentarne_demokracije.pdf&amp;server=s+1zJY7Z+hsVN6lhtc0Tv+RCCpmK+zzxtdhQk9FGWGE=</LINK>
         <STATUS>1</STATUS>
         <LOCK>0</LOCK>
         <YEAR>2010</YEAR>
@@ -37475,7 +37476,7 @@ of the transition into a new and different paradigm of development, social relat
         <COLLECTION>Knjižna zbirka Državnega zbora Republike Slovenije</COLLECTION>
         <SOURCE sourceType="Vir - URN Naslov">SISTORY:ID:1311</SOURCE>
         <COVERAGE coverageType="Coverage" lang="slv">Slovenija, 1990-2010</COVERAGE>
-        <LINK>http://www.dz-rs.si/wps/PA_DZ-LN-Publikacije/PublikacijeRes?unid=9A2C9C1EC553CAB1C12577FF003A9EF5&fn=Zbornik_prihodnost_parlamentarne_demokracije.pdf&server=s+1zJY7Z+hsVN6lhtc0Tv+RCCpmK+zzxtdhQk9FGWGE=</LINK>
+        <LINK>http://www.dz-rs.si/wps/PA_DZ-LN-Publikacije/PublikacijeRes?unid=9A2C9C1EC553CAB1C12577FF003A9EF5&amp;fn=Zbornik_prihodnost_parlamentarne_demokracije.pdf&amp;server=s+1zJY7Z+hsVN6lhtc0Tv+RCCpmK+zzxtdhQk9FGWGE=</LINK>
         <STATUS>1</STATUS>
         <LOCK>0</LOCK>
         <YEAR>2010</YEAR>
@@ -37512,7 +37513,7 @@ of the transition into a new and different paradigm of development, social relat
         <COLLECTION>Knjižna zbirka Državnega zbora Republike Slovenije</COLLECTION>
         <SOURCE sourceType="Vir - URN Naslov">SISTORY:ID:1310</SOURCE>
         <COVERAGE coverageType="Coverage" lang="slv">Slovenija, 1990-2010</COVERAGE>
-        <LINK>http://www.dz-rs.si/wps/PA_DZ-LN-Publikacije/PublikacijeRes?unid=9A2C9C1EC553CAB1C12577FF003A9EF5&fn=Zbornik_prihodnost_parlamentarne_demokracije.pdf&server=s+1zJY7Z+hsVN6lhtc0Tv+RCCpmK+zzxtdhQk9FGWGE=</LINK>
+        <LINK>http://www.dz-rs.si/wps/PA_DZ-LN-Publikacije/PublikacijeRes?unid=9A2C9C1EC553CAB1C12577FF003A9EF5&amp;fn=Zbornik_prihodnost_parlamentarne_demokracije.pdf&amp;server=s+1zJY7Z+hsVN6lhtc0Tv+RCCpmK+zzxtdhQk9FGWGE=</LINK>
         <STATUS>1</STATUS>
         <LOCK>0</LOCK>
         <YEAR>2010</YEAR>
@@ -37553,7 +37554,7 @@ of the transition into a new and different paradigm of development, social relat
         <COLLECTION>Knjižna zbirka Državnega zbora Republike Slovenije</COLLECTION>
         <SOURCE sourceType="Vir - URN Naslov">SISTORY:ID:1309</SOURCE>
         <COVERAGE coverageType="Coverage" lang="slv">Slovenija, 1990-2010</COVERAGE>
-        <LINK>http://www.dz-rs.si/wps/PA_DZ-LN-Publikacije/PublikacijeRes?unid=9A2C9C1EC553CAB1C12577FF003A9EF5&fn=Zbornik_prihodnost_parlamentarne_demokracije.pdf&server=s+1zJY7Z+hsVN6lhtc0Tv+RCCpmK+zzxtdhQk9FGWGE=</LINK>
+        <LINK>http://www.dz-rs.si/wps/PA_DZ-LN-Publikacije/PublikacijeRes?unid=9A2C9C1EC553CAB1C12577FF003A9EF5&amp;fn=Zbornik_prihodnost_parlamentarne_demokracije.pdf&amp;server=s+1zJY7Z+hsVN6lhtc0Tv+RCCpmK+zzxtdhQk9FGWGE=</LINK>
         <STATUS>1</STATUS>
         <LOCK>0</LOCK>
         <YEAR>2010</YEAR>
@@ -37593,7 +37594,7 @@ of the transition into a new and different paradigm of development, social relat
         <COLLECTION>Knjižna zbirka Državnega zbora Republike Slovenije</COLLECTION>
         <SOURCE sourceType="Vir - URN Naslov">SISTORY:ID:1308</SOURCE>
         <COVERAGE coverageType="Coverage" lang="slv">Slovenija, 1990-2010</COVERAGE>
-        <LINK>http://www.dz-rs.si/wps/PA_DZ-LN-Publikacije/PublikacijeRes?unid=9A2C9C1EC553CAB1C12577FF003A9EF5&fn=Zbornik_prihodnost_parlamentarne_demokracije.pdf&server=s+1zJY7Z+hsVN6lhtc0Tv+RCCpmK+zzxtdhQk9FGWGE=</LINK>
+        <LINK>http://www.dz-rs.si/wps/PA_DZ-LN-Publikacije/PublikacijeRes?unid=9A2C9C1EC553CAB1C12577FF003A9EF5&amp;fn=Zbornik_prihodnost_parlamentarne_demokracije.pdf&amp;server=s+1zJY7Z+hsVN6lhtc0Tv+RCCpmK+zzxtdhQk9FGWGE=</LINK>
         <STATUS>1</STATUS>
         <LOCK>0</LOCK>
         <YEAR>2010</YEAR>
@@ -37639,7 +37640,7 @@ of the transition into a new and different paradigm of development, social relat
         <COLLECTION>Knjižna zbirka Državnega zbora Republike Slovenije</COLLECTION>
         <SOURCE sourceType="Vir - URN Naslov">SISTORY:ID:1307</SOURCE>
         <COVERAGE coverageType="Coverage" lang="slv">Slovenija, 1990-2010</COVERAGE>
-        <LINK>http://www.dz-rs.si/wps/PA_DZ-LN-Publikacije/PublikacijeRes?unid=9A2C9C1EC553CAB1C12577FF003A9EF5&fn=Zbornik_prihodnost_parlamentarne_demokracije.pdf&server=s+1zJY7Z+hsVN6lhtc0Tv+RCCpmK+zzxtdhQk9FGWGE=</LINK>
+        <LINK>http://www.dz-rs.si/wps/PA_DZ-LN-Publikacije/PublikacijeRes?unid=9A2C9C1EC553CAB1C12577FF003A9EF5&amp;fn=Zbornik_prihodnost_parlamentarne_demokracije.pdf&amp;server=s+1zJY7Z+hsVN6lhtc0Tv+RCCpmK+zzxtdhQk9FGWGE=</LINK>
         <STATUS>1</STATUS>
         <LOCK>0</LOCK>
         <YEAR>2010</YEAR>
@@ -37680,7 +37681,7 @@ of the transition into a new and different paradigm of development, social relat
         <COLLECTION>Knjižna zbirka Državnega zbora Republike Slovenije</COLLECTION>
         <SOURCE sourceType="Vir - URN Naslov">SISTORY:ID:1306</SOURCE>
         <COVERAGE coverageType="Coverage" lang="slv">Slovenija, 1990-2010</COVERAGE>
-        <LINK>http://www.dz-rs.si/wps/PA_DZ-LN-Publikacije/PublikacijeRes?unid=9A2C9C1EC553CAB1C12577FF003A9EF5&fn=Zbornik_prihodnost_parlamentarne_demokracije.pdf&server=s+1zJY7Z+hsVN6lhtc0Tv+RCCpmK+zzxtdhQk9FGWGE=</LINK>
+        <LINK>http://www.dz-rs.si/wps/PA_DZ-LN-Publikacije/PublikacijeRes?unid=9A2C9C1EC553CAB1C12577FF003A9EF5&amp;fn=Zbornik_prihodnost_parlamentarne_demokracije.pdf&amp;server=s+1zJY7Z+hsVN6lhtc0Tv+RCCpmK+zzxtdhQk9FGWGE=</LINK>
         <STATUS>1</STATUS>
         <LOCK>0</LOCK>
         <YEAR>2010</YEAR>
@@ -37721,7 +37722,7 @@ of the transition into a new and different paradigm of development, social relat
         <COLLECTION>Knjižna zbirka Državnega zbora Republike Slovenije</COLLECTION>
         <SOURCE sourceType="Vir - URN Naslov">SISTORY:ID:1305</SOURCE>
         <COVERAGE coverageType="Coverage" lang="slv">Slovenija, 1990-2010</COVERAGE>
-        <LINK>http://www.dz-rs.si/wps/PA_DZ-LN-Publikacije/PublikacijeRes?unid=9A2C9C1EC553CAB1C12577FF003A9EF5&fn=Zbornik_prihodnost_parlamentarne_demokracije.pdf&server=s+1zJY7Z+hsVN6lhtc0Tv+RCCpmK+zzxtdhQk9FGWGE=</LINK>
+        <LINK>http://www.dz-rs.si/wps/PA_DZ-LN-Publikacije/PublikacijeRes?unid=9A2C9C1EC553CAB1C12577FF003A9EF5&amp;fn=Zbornik_prihodnost_parlamentarne_demokracije.pdf&amp;server=s+1zJY7Z+hsVN6lhtc0Tv+RCCpmK+zzxtdhQk9FGWGE=</LINK>
         <STATUS>1</STATUS>
         <LOCK>0</LOCK>
         <YEAR>2010</YEAR>
@@ -37761,7 +37762,7 @@ of the transition into a new and different paradigm of development, social relat
         <COLLECTION>Knjižna zbirka Državnega zbora Republike Slovenije</COLLECTION>
         <SOURCE sourceType="Vir - URN Naslov">SISTORY:ID:1304</SOURCE>
         <COVERAGE coverageType="Coverage" lang="slv">Slovenija, 1990-2010</COVERAGE>
-        <LINK>http://www.dz-rs.si/wps/PA_DZ-LN-Publikacije/PublikacijeRes?unid=9A2C9C1EC553CAB1C12577FF003A9EF5&fn=Zbornik_prihodnost_parlamentarne_demokracije.pdf&server=s+1zJY7Z+hsVN6lhtc0Tv+RCCpmK+zzxtdhQk9FGWGE=</LINK>
+        <LINK>http://www.dz-rs.si/wps/PA_DZ-LN-Publikacije/PublikacijeRes?unid=9A2C9C1EC553CAB1C12577FF003A9EF5&amp;fn=Zbornik_prihodnost_parlamentarne_demokracije.pdf&amp;server=s+1zJY7Z+hsVN6lhtc0Tv+RCCpmK+zzxtdhQk9FGWGE=</LINK>
         <STATUS>1</STATUS>
         <LOCK>0</LOCK>
         <YEAR>2010</YEAR>
@@ -37801,7 +37802,7 @@ of the transition into a new and different paradigm of development, social relat
         <COLLECTION>Knjižna zbirka Državnega zbora Republike Slovenije</COLLECTION>
         <SOURCE sourceType="Vir - URN Naslov">SISTORY:ID:1303</SOURCE>
         <COVERAGE coverageType="Coverage" lang="slv">Slovenija, 1990-2010</COVERAGE>
-        <LINK>http://www.dz-rs.si/wps/PA_DZ-LN-Publikacije/PublikacijeRes?unid=9A2C9C1EC553CAB1C12577FF003A9EF5&fn=Zbornik_prihodnost_parlamentarne_demokracije.pdf&server=s+1zJY7Z+hsVN6lhtc0Tv+RCCpmK+zzxtdhQk9FGWGE=</LINK>
+        <LINK>http://www.dz-rs.si/wps/PA_DZ-LN-Publikacije/PublikacijeRes?unid=9A2C9C1EC553CAB1C12577FF003A9EF5&amp;fn=Zbornik_prihodnost_parlamentarne_demokracije.pdf&amp;server=s+1zJY7Z+hsVN6lhtc0Tv+RCCpmK+zzxtdhQk9FGWGE=</LINK>
         <STATUS>1</STATUS>
         <LOCK>0</LOCK>
         <YEAR>2010</YEAR>
@@ -37842,7 +37843,7 @@ of the transition into a new and different paradigm of development, social relat
         <COLLECTION>Knjižna zbirka Državnega zbora Republike Slovenije</COLLECTION>
         <SOURCE sourceType="Vir - URN Naslov">SISTORY:ID:1302</SOURCE>
         <COVERAGE coverageType="Coverage" lang="slv">Slovenija, 1990-2010</COVERAGE>
-        <LINK>http://www.dz-rs.si/wps/PA_DZ-LN-Publikacije/PublikacijeRes?unid=9A2C9C1EC553CAB1C12577FF003A9EF5&fn=Zbornik_prihodnost_parlamentarne_demokracije.pdf&server=s+1zJY7Z+hsVN6lhtc0Tv+RCCpmK+zzxtdhQk9FGWGE=</LINK>
+        <LINK>http://www.dz-rs.si/wps/PA_DZ-LN-Publikacije/PublikacijeRes?unid=9A2C9C1EC553CAB1C12577FF003A9EF5&amp;fn=Zbornik_prihodnost_parlamentarne_demokracije.pdf&amp;server=s+1zJY7Z+hsVN6lhtc0Tv+RCCpmK+zzxtdhQk9FGWGE=</LINK>
         <STATUS>1</STATUS>
         <LOCK>0</LOCK>
         <YEAR>2010</YEAR>
@@ -37886,7 +37887,7 @@ of the transition into a new and different paradigm of development, social relat
         <COLLECTION>Knjižna zbirka Državnega zbora Republike Slovenije</COLLECTION>
         <SOURCE sourceType="Vir - URN Naslov">SISTORY:ID:1301</SOURCE>
         <COVERAGE coverageType="Coverage" lang="slv">Slovenija, 1990-2010</COVERAGE>
-        <LINK>http://www.dz-rs.si/wps/PA_DZ-LN-Publikacije/PublikacijeRes?unid=9A2C9C1EC553CAB1C12577FF003A9EF5&fn=Zbornik_prihodnost_parlamentarne_demokracije.pdf&server=s+1zJY7Z+hsVN6lhtc0Tv+RCCpmK+zzxtdhQk9FGWGE=</LINK>
+        <LINK>http://www.dz-rs.si/wps/PA_DZ-LN-Publikacije/PublikacijeRes?unid=9A2C9C1EC553CAB1C12577FF003A9EF5&amp;fn=Zbornik_prihodnost_parlamentarne_demokracije.pdf&amp;server=s+1zJY7Z+hsVN6lhtc0Tv+RCCpmK+zzxtdhQk9FGWGE=</LINK>
         <STATUS>1</STATUS>
         <LOCK>0</LOCK>
         <YEAR>2010</YEAR>
@@ -37923,7 +37924,7 @@ of the transition into a new and different paradigm of development, social relat
         <COLLECTION>Knjižna zbirka Državnega zbora Republike Slovenije</COLLECTION>
         <SOURCE sourceType="Vir - URN Naslov">SISTORY:ID:1300</SOURCE>
         <COVERAGE coverageType="Coverage" lang="slv">Slovenija, 1990-2010</COVERAGE>
-        <LINK>http://www.dz-rs.si/wps/PA_DZ-LN-Publikacije/PublikacijeRes?unid=9A2C9C1EC553CAB1C12577FF003A9EF5&fn=Zbornik_prihodnost_parlamentarne_demokracije.pdf&server=s+1zJY7Z+hsVN6lhtc0Tv+RCCpmK+zzxtdhQk9FGWGE=</LINK>
+        <LINK>http://www.dz-rs.si/wps/PA_DZ-LN-Publikacije/PublikacijeRes?unid=9A2C9C1EC553CAB1C12577FF003A9EF5&amp;fn=Zbornik_prihodnost_parlamentarne_demokracije.pdf&amp;server=s+1zJY7Z+hsVN6lhtc0Tv+RCCpmK+zzxtdhQk9FGWGE=</LINK>
         <STATUS>1</STATUS>
         <LOCK>0</LOCK>
         <YEAR>2010</YEAR>
@@ -38010,7 +38011,7 @@ of the transition into a new and different paradigm of development, social relat
         <COLLECTION>Knjižna zbirka Državnega zbora Republike Slovenije</COLLECTION>
         <SOURCE sourceType="Vir - URN Naslov">SISTORY:ID:1298</SOURCE>
         <COVERAGE coverageType="Coverage" lang="slv">Slovenija, 1990-2010</COVERAGE>
-        <LINK>http://www.dz-rs.si/wps/PA_DZ-LN-Publikacije/PublikacijeRes?unid=9A2C9C1EC553CAB1C12577FF003A9EF5&fn=Zbornik_prihodnost_parlamentarne_demokracije.pdf&server=s+1zJY7Z+hsVN6lhtc0Tv+RCCpmK+zzxtdhQk9FGWGE=</LINK>
+        <LINK>http://www.dz-rs.si/wps/PA_DZ-LN-Publikacije/PublikacijeRes?unid=9A2C9C1EC553CAB1C12577FF003A9EF5&amp;fn=Zbornik_prihodnost_parlamentarne_demokracije.pdf&amp;server=s+1zJY7Z+hsVN6lhtc0Tv+RCCpmK+zzxtdhQk9FGWGE=</LINK>
         <STATUS>1</STATUS>
         <LOCK>0</LOCK>
         <YEAR>2010</YEAR>
@@ -38054,7 +38055,7 @@ of the transition into a new and different paradigm of development, social relat
         <COLLECTION>Knjižna zbirka Državnega zbora Republike Slovenije</COLLECTION>
         <SOURCE sourceType="Vir - URN Naslov">SISTORY:ID:1297</SOURCE>
         <COVERAGE coverageType="Coverage" lang="slv">Slovenija, 1990-2010</COVERAGE>
-        <LINK>http://www.dz-rs.si/wps/PA_DZ-LN-Publikacije/PublikacijeRes?unid=9A2C9C1EC553CAB1C12577FF003A9EF5&fn=Zbornik_prihodnost_parlamentarne_demokracije.pdf&server=s+1zJY7Z+hsVN6lhtc0Tv+RCCpmK+zzxtdhQk9FGWGE=</LINK>
+        <LINK>http://www.dz-rs.si/wps/PA_DZ-LN-Publikacije/PublikacijeRes?unid=9A2C9C1EC553CAB1C12577FF003A9EF5&amp;fn=Zbornik_prihodnost_parlamentarne_demokracije.pdf&amp;server=s+1zJY7Z+hsVN6lhtc0Tv+RCCpmK+zzxtdhQk9FGWGE=</LINK>
         <STATUS>1</STATUS>
         <LOCK>0</LOCK>
         <YEAR>2010</YEAR>
@@ -38098,7 +38099,7 @@ of the transition into a new and different paradigm of development, social relat
         <COLLECTION>Knjižna zbirka Državnega zbora Republike Slovenije</COLLECTION>
         <SOURCE sourceType="Vir - URN Naslov">SISTORY:ID:1296</SOURCE>
         <COVERAGE coverageType="Coverage" lang="slv">Slovenija, 1990-2010</COVERAGE>
-        <LINK>http://www.dz-rs.si/wps/PA_DZ-LN-Publikacije/PublikacijeRes?unid=9A2C9C1EC553CAB1C12577FF003A9EF5&fn=Zbornik_prihodnost_parlamentarne_demokracije.pdf&server=s+1zJY7Z+hsVN6lhtc0Tv+RCCpmK+zzxtdhQk9FGWGE=</LINK>
+        <LINK>http://www.dz-rs.si/wps/PA_DZ-LN-Publikacije/PublikacijeRes?unid=9A2C9C1EC553CAB1C12577FF003A9EF5&amp;fn=Zbornik_prihodnost_parlamentarne_demokracije.pdf&amp;server=s+1zJY7Z+hsVN6lhtc0Tv+RCCpmK+zzxtdhQk9FGWGE=</LINK>
         <STATUS>1</STATUS>
         <LOCK>0</LOCK>
         <YEAR>2010</YEAR>
@@ -38143,7 +38144,7 @@ of the transition into a new and different paradigm of development, social relat
         <COLLECTION>Knjižna zbirka Državnega zbora Republike Slovenije</COLLECTION>
         <SOURCE sourceType="Vir - URN Naslov">SISTORY:ID:1295</SOURCE>
         <COVERAGE coverageType="Coverage" lang="slv">Slovenija, 1990-2010</COVERAGE>
-        <LINK>http://www.dz-rs.si/wps/PA_DZ-LN-Publikacije/PublikacijeRes?unid=9A2C9C1EC553CAB1C12577FF003A9EF5&fn=Zbornik_prihodnost_parlamentarne_demokracije.pdf&server=s+1zJY7Z+hsVN6lhtc0Tv+RCCpmK+zzxtdhQk9FGWGE=</LINK>
+        <LINK>http://www.dz-rs.si/wps/PA_DZ-LN-Publikacije/PublikacijeRes?unid=9A2C9C1EC553CAB1C12577FF003A9EF5&amp;fn=Zbornik_prihodnost_parlamentarne_demokracije.pdf&amp;server=s+1zJY7Z+hsVN6lhtc0Tv+RCCpmK+zzxtdhQk9FGWGE=</LINK>
         <STATUS>1</STATUS>
         <LOCK>0</LOCK>
         <YEAR>2010</YEAR>
@@ -38191,7 +38192,7 @@ of the transition into a new and different paradigm of development, social relat
         <COLLECTION>Knjižna zbirka Državnega zbora Republike Slovenije</COLLECTION>
         <SOURCE sourceType="Vir - URN Naslov">SISTORY:ID:1294</SOURCE>
         <COVERAGE coverageType="Coverage" lang="slv">Slovenija, 1990-2010</COVERAGE>
-        <LINK>http://www.dz-rs.si/wps/PA_DZ-LN-Publikacije/PublikacijeRes?unid=9A2C9C1EC553CAB1C12577FF003A9EF5&fn=Zbornik_prihodnost_parlamentarne_demokracije.pdf&server=s+1zJY7Z+hsVN6lhtc0Tv+RCCpmK+zzxtdhQk9FGWGE=</LINK>
+        <LINK>http://www.dz-rs.si/wps/PA_DZ-LN-Publikacije/PublikacijeRes?unid=9A2C9C1EC553CAB1C12577FF003A9EF5&amp;fn=Zbornik_prihodnost_parlamentarne_demokracije.pdf&amp;server=s+1zJY7Z+hsVN6lhtc0Tv+RCCpmK+zzxtdhQk9FGWGE=</LINK>
         <STATUS>1</STATUS>
         <LOCK>0</LOCK>
         <YEAR>2010</YEAR>
@@ -38231,7 +38232,7 @@ of the transition into a new and different paradigm of development, social relat
         <COLLECTION>Knjižna zbirka Državnega zbora Republike Slovenije</COLLECTION>
         <SOURCE sourceType="Vir - URN Naslov">SISTORY:ID:1293</SOURCE>
         <COVERAGE coverageType="Coverage" lang="slv">Slovenija, 1990-2010</COVERAGE>
-        <LINK>http://www.dz-rs.si/wps/PA_DZ-LN-Publikacije/PublikacijeRes?unid=9A2C9C1EC553CAB1C12577FF003A9EF5&fn=Zbornik_prihodnost_parlamentarne_demokracije.pdf&server=s+1zJY7Z+hsVN6lhtc0Tv+RCCpmK+zzxtdhQk9FGWGE=</LINK>
+        <LINK>http://www.dz-rs.si/wps/PA_DZ-LN-Publikacije/PublikacijeRes?unid=9A2C9C1EC553CAB1C12577FF003A9EF5&amp;fn=Zbornik_prihodnost_parlamentarne_demokracije.pdf&amp;server=s+1zJY7Z+hsVN6lhtc0Tv+RCCpmK+zzxtdhQk9FGWGE=</LINK>
         <STATUS>1</STATUS>
         <LOCK>0</LOCK>
         <YEAR>2010</YEAR>
@@ -38274,7 +38275,7 @@ of the transition into a new and different paradigm of development, social relat
         <COLLECTION>Knjižna zbirka Državnega zbora Republike Slovenije</COLLECTION>
         <SOURCE sourceType="Vir - URN Naslov">SISTORY:ID:1292</SOURCE>
         <COVERAGE coverageType="Coverage" lang="slv">Slovenija, 1990-2010</COVERAGE>
-        <LINK>http://www.dz-rs.si/wps/PA_DZ-LN-Publikacije/PublikacijeRes?unid=9A2C9C1EC553CAB1C12577FF003A9EF5&fn=Zbornik_prihodnost_parlamentarne_demokracije.pdf&server=s+1zJY7Z+hsVN6lhtc0Tv+RCCpmK+zzxtdhQk9FGWGE=</LINK>
+        <LINK>http://www.dz-rs.si/wps/PA_DZ-LN-Publikacije/PublikacijeRes?unid=9A2C9C1EC553CAB1C12577FF003A9EF5&amp;fn=Zbornik_prihodnost_parlamentarne_demokracije.pdf&amp;server=s+1zJY7Z+hsVN6lhtc0Tv+RCCpmK+zzxtdhQk9FGWGE=</LINK>
         <STATUS>1</STATUS>
         <LOCK>0</LOCK>
         <YEAR>2010</YEAR>
@@ -38316,7 +38317,7 @@ of the transition into a new and different paradigm of development, social relat
         <COLLECTION>Knjižna zbirka Državnega zbora Republike Slovenije</COLLECTION>
         <SOURCE sourceType="Vir - URN Naslov">SISTORY:ID:1291</SOURCE>
         <COVERAGE coverageType="Coverage" lang="slv">Slovenija, 1990-2010</COVERAGE>
-        <LINK>http://www.dz-rs.si/wps/PA_DZ-LN-Publikacije/PublikacijeRes?unid=9A2C9C1EC553CAB1C12577FF003A9EF5&fn=Zbornik_prihodnost_parlamentarne_demokracije.pdf&server=s+1zJY7Z+hsVN6lhtc0Tv+RCCpmK+zzxtdhQk9FGWGE=</LINK>
+        <LINK>http://www.dz-rs.si/wps/PA_DZ-LN-Publikacije/PublikacijeRes?unid=9A2C9C1EC553CAB1C12577FF003A9EF5&amp;fn=Zbornik_prihodnost_parlamentarne_demokracije.pdf&amp;server=s+1zJY7Z+hsVN6lhtc0Tv+RCCpmK+zzxtdhQk9FGWGE=</LINK>
         <STATUS>1</STATUS>
         <LOCK>0</LOCK>
         <YEAR>2010</YEAR>
@@ -38357,7 +38358,7 @@ of the transition into a new and different paradigm of development, social relat
         <COLLECTION>Knjižna zbirka Državnega zbora Republike Slovenije</COLLECTION>
         <SOURCE sourceType="Vir - URN Naslov">SISTORY:ID:1290</SOURCE>
         <COVERAGE coverageType="Coverage" lang="slv">Slovenija, 1990-2010</COVERAGE>
-        <LINK>http://www.dz-rs.si/wps/PA_DZ-LN-Publikacije/PublikacijeRes?unid=9A2C9C1EC553CAB1C12577FF003A9EF5&fn=Zbornik_prihodnost_parlamentarne_demokracije.pdf&server=s+1zJY7Z+hsVN6lhtc0Tv+RCCpmK+zzxtdhQk9FGWGE=</LINK>
+        <LINK>http://www.dz-rs.si/wps/PA_DZ-LN-Publikacije/PublikacijeRes?unid=9A2C9C1EC553CAB1C12577FF003A9EF5&amp;fn=Zbornik_prihodnost_parlamentarne_demokracije.pdf&amp;server=s+1zJY7Z+hsVN6lhtc0Tv+RCCpmK+zzxtdhQk9FGWGE=</LINK>
         <STATUS>1</STATUS>
         <LOCK>0</LOCK>
         <YEAR>2010</YEAR>
@@ -38396,7 +38397,7 @@ of the transition into a new and different paradigm of development, social relat
         <COLLECTION>Knjižna zbirka Državnega zbora Republike Slovenije</COLLECTION>
         <SOURCE sourceType="Vir - URN Naslov">SISTORY:ID:1289</SOURCE>
         <COVERAGE coverageType="Coverage" lang="slv">Slovenija, 1990-2010</COVERAGE>
-        <LINK>http://www.dz-rs.si/wps/PA_DZ-LN-Publikacije/PublikacijeRes?unid=9A2C9C1EC553CAB1C12577FF003A9EF5&fn=Zbornik_prihodnost_parlamentarne_demokracije.pdf&server=s+1zJY7Z+hsVN6lhtc0Tv+RCCpmK+zzxtdhQk9FGWGE=</LINK>
+        <LINK>http://www.dz-rs.si/wps/PA_DZ-LN-Publikacije/PublikacijeRes?unid=9A2C9C1EC553CAB1C12577FF003A9EF5&amp;fn=Zbornik_prihodnost_parlamentarne_demokracije.pdf&amp;server=s+1zJY7Z+hsVN6lhtc0Tv+RCCpmK+zzxtdhQk9FGWGE=</LINK>
         <STATUS>1</STATUS>
         <LOCK>0</LOCK>
         <YEAR>2010</YEAR>
@@ -43087,7 +43088,7 @@ of the transition into a new and different paradigm of development, social relat
         <COLLECTION>Knjižna zbirka Državnega zbora Republike Slovenije</COLLECTION>
         <IDENTIFIER identifierType="Identifier">COBISS.SI-ID 253376768</IDENTIFIER>
         <COVERAGE coverageType="Coverage" lang="slv">Slovenija, 1990-2010</COVERAGE>
-        <LINK>http://www.dz-rs.si/wps/PA_DZ-LN-Publikacije/PublikacijeRes?unid=9A2C9C1EC553CAB1C12577FF003A9EF5&fn=Zbornik_prihodnost_parlamentarne_demokracije.pdf&server=s+1zJY7Z+hsVN6lhtc0Tv+RCCpmK+zzxtdhQk9FGWGE=</LINK>
+        <LINK>http://www.dz-rs.si/wps/PA_DZ-LN-Publikacije/PublikacijeRes?unid=9A2C9C1EC553CAB1C12577FF003A9EF5&amp;fn=Zbornik_prihodnost_parlamentarne_demokracije.pdf&amp;server=s+1zJY7Z+hsVN6lhtc0Tv+RCCpmK+zzxtdhQk9FGWGE=</LINK>
         <STATUS>1</STATUS>
         <LOCK>0</LOCK>
         <YEAR>2010</YEAR>
@@ -43773,7 +43774,7 @@ of the transition into a new and different paradigm of development, social relat
         <COLLECTION>Knjižna zbirka Državnega zbora Republike Slovenije</COLLECTION>
         <IDENTIFIER identifierType="Identifier">COBISS.SI-ID 117917952</IDENTIFIER>
         <COVERAGE coverageType="Coverage" lang="slv">Slovenija, 1991</COVERAGE>
-        <LINK>http://www.dz-rs.si/wps/PA_DZ-LN-Publikacije/PublikacijeRes?unid=9A2F0BF40E32EA76C125706D004C9501&fn=osamosvojitev1991.pdf&server=s+1zJY7Z+hsVN6lhtc0Tv+RCCpmK+zzxtdhQk9FGWGE=</LINK>
+        <LINK>http://www.dz-rs.si/wps/PA_DZ-LN-Publikacije/PublikacijeRes?unid=9A2F0BF40E32EA76C125706D004C9501&amp;fn=osamosvojitev1991.pdf&amp;server=s+1zJY7Z+hsVN6lhtc0Tv+RCCpmK+zzxtdhQk9FGWGE=</LINK>
         <STATUS>1</STATUS>
         <LOCK>0</LOCK>
         <YEAR>2002</YEAR>

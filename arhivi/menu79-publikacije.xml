@@ -1,4 +1,5 @@
-<root>
+<?xml version="1.0" encoding="UTF-8"?>
+<root xmlns="http://www.sistory.si/schemas/sistory/">
     <publication>
         <ID>37913</ID>
         <URN>11686/37913#page=185</URN>
@@ -3363,7 +3364,7 @@
         <COPYRIGHT>
             <![CDATA[<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons licenca" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />To <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">delo</span> avtorja <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.sistory.si/SISTORY:ID:36201" property="cc:attributionName" rel="cc:attributionURL">Meta Turk</a> je ponujeno pod <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Priznanje avtorstva-Nekomercijalno-Brez predelav 4.0 International licenco</a>.]]>
         </COPYRIGHT>
-        <TITLE titleType="Title" lang="slv">Trevor Shaw, Alenka Čuk: Slovene Caves & Karst pictured 1545–1914. Ljubljana: Založba ZRC, 2012, 230 strani.</TITLE>
+        <TITLE titleType="Title" lang="slv">Trevor Shaw, Alenka Čuk: Slovene Caves &amp; Karst pictured 1545–1914. Ljubljana: Založba ZRC, 2012, 230 strani.</TITLE>
         <SUBJECT lang="slv">recenzija</SUBJECT>
         <SUBJECT lang="eng">book review</SUBJECT>
         <PUBLISHER>Zveza zgodovinskih društev Slovenije, Ljubljana</PUBLISHER>
@@ -6365,7 +6366,7 @@ Conrad I.
         <COPYRIGHT>
             <![CDATA[<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons licenca" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />To <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">delo</span> avtorja <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.sistory.si/SISTORY:ID:34987" property="cc:attributionName" rel="cc:attributionURL">Mojca Šorn</a> je ponujeno pod <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Priznanje avtorstva-Nekomercijalno-Brez predelav 4.0 International licenco</a>.]]>
         </COPYRIGHT>
-        <TITLE titleType="Title" lang="slv">Marija Počivavšek: En gros & en detail. Trgovina v Sloveniji do druge svetovne vojne: trendi, strukture, prakse. Celje: Zgodovinsko društvo Celje, 2012, zbirka Zgodovini. ce, 426 strani</TITLE>
+        <TITLE titleType="Title" lang="slv">Marija Počivavšek: En gros &amp; en detail. Trgovina v Sloveniji do druge svetovne vojne: trendi, strukture, prakse. Celje: Zgodovinsko društvo Celje, 2012, zbirka Zgodovini. ce, 426 strani</TITLE>
         <SUBJECT lang="slv">ocene in poročila</SUBJECT>
         <PUBLISHER>Zveza zgodovinskih društev Slovenije, Ljubljana</PUBLISHER>
         <SOURCE sourceType="Vir - URN Naslov">SISTORY:ID:34987</SOURCE>
@@ -8270,7 +8271,7 @@ Loški razgledi 58/2011 (ur. Judita Šega)
 (Judita Šega) ............................................................ 333
 Matjaž Brojan: Slamnata sled Domžal: 300 let
 slamnikarstva (Miroslav Stiplovšek) ......................... 335
-Marija Počivavšek: En gros & en detail. Trgovina
+Marija Počivavšek: En gros &amp; en detail. Trgovina
 v Sloveniji do druge svetovne vojne: trendi,
 strukture, prakse (Mojca Šorn) ................................. 338
 Neva Makuc: Historiografija in mentaliteta
@@ -8425,7 +8426,7 @@ Navodila avtorjem ................................................... 184
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Mitja Potočnik<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Mitja Potočnik<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Projekt "Grajski muzej" na gradu Brdo pri Lukovici</TITLE>
         <PUBLISHER>Zveza zgodovinskih društev Slovenije, Ljubljana</PUBLISHER>
@@ -8459,7 +8460,7 @@ Navodila avtorjem ................................................... 184
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Gojko Zupan<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Gojko Zupan<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Gradovi kot duhovna dediščina Slovenije v 20. stoletju</TITLE>
         <TITLE titleType="Title" lang="slv">Med dokumenti in zidovi</TITLE>
@@ -13666,7 +13667,7 @@ and experiences.
         <DESCRIPTION descriptionType="Abstracts" lang="slv">
             V slovenski tekstilni industriji je litijska predilnica pomenila enega največjih predilskih obratov. Število
 zaposlenih delavcev je nihalo od 300 do 450 v prvem obdobju obratovanja pod firmo komanditne družbe Schwarz,
-Zublin & Go. pred prvo svetovno vojno. Ko je bila predilnica v okviru Mautnerjevega tekstilnega koncerna, je bilo
+Zublin &amp; Go. pred prvo svetovno vojno. Ko je bila predilnica v okviru Mautnerjevega tekstilnega koncerna, je bilo
 v tovarni zaposlenih okrog 650 delavcev do druge svetovne vojne, med vojno se je število zmanjšalo, oktobra 1944
 je prenehala obratovati. Ko je bila litijska predilnica v državni lasti, je od 1946 do 1950 v tovarni delalo od 900
 do 1200 delavcev, ko je bila tovarna v družbeni lasti, je število zaposlenih znašalo 700 do 800 delavcev, ko pa je
@@ -13674,7 +13675,7 @@ bila v osemdesetih letih zgrajena nova tovarna, se je število zaposlenih zviša
         </DESCRIPTION>
         <DESCRIPTION descriptionType="Abstracts" lang="eng">
             The Litija Spinning Mill was one of the largest spinning factories in Slovenian textile industry. During the
-first period of its operations under the limited partnership Schwarz, Zublin & Co. before World War I, the number
+first period of its operations under the limited partnership Schwarz, Zublin &amp; Co. before World War I, the number
 of workers ranged between 300 and 450. Within the framework of Mautners Textile Works Incorporation, the
 spinning mill employed about 650 workers until World War II; their number declined during the war and in
 October 1944 the factory was put out of operation. During the period 1946-1950, when brought under state
@@ -15081,7 +15082,7 @@ knowledge of archaeological and broader cultural heritage of the area around Lit
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Dejan Zadravec<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Dejan Zadravec<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Grad Sevnica (ur. Oskar Zoran Zelič). Sevnica : Društvo Trg, 2011, 367 strani</TITLE>
         <PUBLISHER>Zveza zgodovinskih društev Slovenije, Ljubljana</PUBLISHER>
@@ -15708,7 +15709,7 @@ knowledge of archaeological and broader cultural heritage of the area around Lit
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Marjana Žibert<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Marjana Žibert<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Vasi v objemu žitnih polj: Primskovo, Klanec in Gorenje (gl. ur. Drago Papler). Primskovo : Krajevna skupnost, 2010, 432 strani</TITLE>
         <PUBLISHER>Zveza zgodovinskih društev Slovenije, Ljubljana</PUBLISHER>
@@ -17090,7 +17091,7 @@ focus on presenting the results of research into the remains of a Roman settleme
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Marjana Žibert<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Marjana Žibert<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Pozdrav z Gorenjske: zbirka starih razglednic. Kranj: Gorenjski muzej, 2010, (Gorenjski kraji in ljudje - Zbirke; 4)</TITLE>
         <PUBLISHER>Zveza zgodovinskih društev Slovenije, Ljubljana</PUBLISHER>
@@ -18174,7 +18175,7 @@ Carniola from the early 1860s to World War I.
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169;Sabina Žndaršič Žagar<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169;Sabina Žndaršič Žagar<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Bela krajina - kranjska demografska posebnost</TITLE>
         <TITLE titleType="Title" lang="slv">Primerjalna analiza gibanja prebivalstva političnega okraja Črnomelj v obdobju avstrijskih državnih popisov prebivalstva, 1880-1910; ženska perspektiva</TITLE>
@@ -19197,7 +19198,7 @@ province on a symbolical level.
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Sebastijan M. Jarh<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Sebastijan M. Jarh<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Gospod z rožo : zbornik Simpozija Rihard Ursini Blagaj v slovenski kulturi (ur. Ljudmila Bokal). Polhov Gradec : Turistično društvo, Ljubljana : Založba ZRC, ZRC SAZU, 2009, 514 str.</TITLE>
         <SUBJECT lang="slv">ocene in poročila</SUBJECT>
@@ -19453,7 +19454,7 @@ province on a symbolical level.
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Matjaž Klemenčič<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Matjaž Klemenčič<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Andrej Rahten, Ernest Petrič (ur.): Izidor Cankar : diplomat dveh Jugoslavij (= Zbirka Studia diplomatica Slovenica, Personae, 2). [Mengeš]: Center za evropsko prihodnost; [Ljubljana]: Znanstvenoraziskovalni center Slovenske akademije znanosti in umetnost</TITLE>
         <SUBJECT lang="slv">ocene in poročila</SUBJECT>
@@ -21708,7 +21709,7 @@ native village.
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Vinko Sterle<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Vinko Sterle<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Fant, to pa so čekani in pol</TITLE>
         <PUBLISHER>Zveza zgodovinskih društev Slovenije, Ljubljana</PUBLISHER>
@@ -21737,7 +21738,7 @@ native village.
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Nuša Berce<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Nuša Berce<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Grad Snežnik - "pravljica"</TITLE>
         <PUBLISHER>Zveza zgodovinskih društev Slovenije, Ljubljana</PUBLISHER>
@@ -21766,7 +21767,7 @@ native village.
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Marko Dobrilovič<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Marko Dobrilovič<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Park Snežnik</TITLE>
         <PUBLISHER>Zveza zgodovinskih društev Slovenije, Ljubljana</PUBLISHER>
@@ -21795,7 +21796,7 @@ native village.
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Nataša Cigoj Krstulović<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Nataša Cigoj Krstulović<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Glasba druge polovice 19. stoletja na Slovenskem: k funkciji in pomenu zborovskega petja v slovenski kulturni zgodovini</TITLE>
         <PUBLISHER>Zveza zgodovinskih društev Slovenije, Ljubljana</PUBLISHER>
@@ -21823,7 +21824,7 @@ native village.
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Janez Šumrada<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Janez Šumrada<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Žiga Zois in Déodat de Dolomieu</TITLE>
         <PUBLISHER>Zveza zgodovinskih društev Slovenije, Ljubljana</PUBLISHER>
@@ -21852,7 +21853,7 @@ native village.
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Tatjana Dekleva<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Tatjana Dekleva<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Ana Benedetič, Deželni dvorec v Ljubljani : 1902-2002. Ljubljana : Univerza, 2002, 96 strani</TITLE>
         <PUBLISHER>Zveza zgodovinskih društev Slovenije, Ljubljana</PUBLISHER>
@@ -21881,7 +21882,7 @@ native village.
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Irena Žmuc<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Irena Žmuc<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Zapuščina grofa Janeza Andreja Auersperga</TITLE>
         <PUBLISHER>Zveza zgodovinskih društev Slovenije, Ljubljana</PUBLISHER>
@@ -21910,7 +21911,7 @@ native village.
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Jernej Vidmar<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Jernej Vidmar<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Alberto Luchitta, La Camera di Commercio di Gorizia 1850-2000 : uomini e lavoro in 150 anni di storia. Gorizia : Libreria Editrice Goriziana, 2001, 223 strani</TITLE>
         <PUBLISHER>Zveza zgodovinskih društev Slovenije, Ljubljana</PUBLISHER>
@@ -21942,7 +21943,7 @@ native village.
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Bogdana Marinac in Ivan Konte<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Bogdana Marinac in Ivan Konte<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">V iskanju nikljeve rude za avstro-ogrsko vojno mornarico</TITLE>
         <PUBLISHER>Zveza zgodovinskih društev Slovenije, Ljubljana</PUBLISHER>
@@ -22024,7 +22025,7 @@ light o f events that created it, and recollections that parted it.
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Neža Stres<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Neža Stres<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Slovenski Primorec - katoliški tednik in njegov odnos do določitve zahodne meje</TITLE>
         <PUBLISHER>Zveza zgodovinskih društev Slovenije, Ljubljana</PUBLISHER>
@@ -22052,7 +22053,7 @@ light o f events that created it, and recollections that parted it.
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Gojko Zupan<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Gojko Zupan<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Osem desetletij dr. Vesne Bučić</TITLE>
         <PUBLISHER>Zveza zgodovinskih društev Slovenije, Ljubljana</PUBLISHER>
@@ -22080,7 +22081,7 @@ light o f events that created it, and recollections that parted it.
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Zdenka Kresnik<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Zdenka Kresnik<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Ormož kot turistično mesto med obema svetovnima vojnama</TITLE>
         <PUBLISHER>Zveza zgodovinskih društev Slovenije, Ljubljana</PUBLISHER>
@@ -22108,7 +22109,7 @@ light o f events that created it, and recollections that parted it.
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Branka Grošelj<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Branka Grošelj<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Prostitucija v Ljubljani v prvih treh desetletjih 20. stoletja</TITLE>
         <PUBLISHER>Zveza zgodovinskih društev Slovenije, Ljubljana</PUBLISHER>
@@ -22189,7 +22190,7 @@ and on the practice o f settling the civilians issue in militarized areas.
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Gojko Zupan<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Gojko Zupan<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Iz srednjeveškega gradu v meščansko bivališče</TITLE>
         <PUBLISHER>Zveza zgodovinskih društev Slovenije, Ljubljana</PUBLISHER>
@@ -22217,7 +22218,7 @@ and on the practice o f settling the civilians issue in militarized areas.
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Marija Cvetek<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Marija Cvetek<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Spomini na Strmol. Vilma Mlakar, roj. Urh - nekdanja strmolska sobarica</TITLE>
         <PUBLISHER>Zveza zgodovinskih društev Slovenije, Ljubljana</PUBLISHER>
@@ -22245,7 +22246,7 @@ and on the practice o f settling the civilians issue in militarized areas.
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Daša Pahor<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Daša Pahor<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Gotska tradicija v arhitekturi na območju Polhograjskega hribovja</TITLE>
         <PUBLISHER>Zveza zgodovinskih društev Slovenije, Ljubljana</PUBLISHER>
@@ -22304,7 +22305,7 @@ and on the practice o f settling the civilians issue in militarized areas.
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Jože Suhadolnik<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Jože Suhadolnik<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Marija Oblak Čarni: Vrhniški razgledi, leto 5 (2004), Muzejsko društvo Vrhnika, Vrhnika 2004</TITLE>
         <PUBLISHER>Zveza zgodovinskih društev Slovenije, Ljubljana</PUBLISHER>
@@ -22333,7 +22334,7 @@ and on the practice o f settling the civilians issue in militarized areas.
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Roman Nahtigal<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Roman Nahtigal<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Hotel Kokra</TITLE>
         <TITLE titleType="Title" lang="eng">The Kokra Hotel</TITLE>
@@ -22363,7 +22364,7 @@ and on the practice o f settling the civilians issue in militarized areas.
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Iztok Geister<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Iztok Geister<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Popis rastlin in živali na Brdu pri Kranju</TITLE>
         <TITLE titleType="Title" lang="eng">An inventory of Plants and animals of Brdo near Kranj</TITLE>
@@ -22393,7 +22394,7 @@ and on the practice o f settling the civilians issue in militarized areas.
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Alenka Kolšek<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Alenka Kolšek<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Razsvetljenska krajina Žige Zoisa na Brdu</TITLE>
         <TITLE titleType="Title" lang="eng">The Enlightenment Landscape of Žiga Zois at Brdo</TITLE>
@@ -22585,7 +22586,7 @@ and on the practice o f settling the civilians issue in militarized areas.
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Igor Grdina<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Igor Grdina<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Ob šestdesetletnici Staneta Grande</TITLE>
         <PUBLISHER>Zveza zgodovinskih društev Slovenije, Ljubljana</PUBLISHER>
@@ -22614,7 +22615,7 @@ and on the practice o f settling the civilians issue in militarized areas.
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Nataša Cigoj Krstulović<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Nataša Cigoj Krstulović<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Posvetila na skladbah kot izhodišče za razpoznavanje kulturne zgodovine 19. stoletja na Slovenskem</TITLE>
         <PUBLISHER>Zveza zgodovinskih društev Slovenije, Ljubljana</PUBLISHER>
@@ -22643,7 +22644,7 @@ and on the practice o f settling the civilians issue in militarized areas.
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Janez Dular<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Janez Dular<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Pogled na družbeno strukturo železnodobne Dolenjske</TITLE>
         <PUBLISHER>Zveza zgodovinskih društev Slovenije, Ljubljana</PUBLISHER>
@@ -22672,7 +22673,7 @@ and on the practice o f settling the civilians issue in militarized areas.
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Daša Pahor<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Daša Pahor<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Cerkvi sv. Ane in sv. Volbenka na Lešah pri Prevaljah</TITLE>
         <PUBLISHER>Zveza zgodovinskih društev Slovenije, Ljubljana</PUBLISHER>
@@ -22701,7 +22702,7 @@ and on the practice o f settling the civilians issue in militarized areas.
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Simona Javornik<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Simona Javornik<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Srednjeveško slikarstvo v koroških cerkvah</TITLE>
         <PUBLISHER>Zveza zgodovinskih društev Slovenije, Ljubljana</PUBLISHER>
@@ -22730,7 +22731,7 @@ and on the practice o f settling the civilians issue in militarized areas.
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Matjaž Bizjak<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Matjaž Bizjak<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Teritorialno-posestni razvoj gospostva Pliberk (Bleiburg) in njegov gospodarski ustroj v poznem srednjem veku</TITLE>
         <PUBLISHER>Zveza zgodovinskih društev Slovenije, Ljubljana</PUBLISHER>
@@ -22759,7 +22760,7 @@ and on the practice o f settling the civilians issue in militarized areas.
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Janez Kos<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Janez Kos<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Dr. Ema Umek - osemdesetletnica</TITLE>
         <PUBLISHER>Zveza zgodovinskih društev Slovenije, Ljubljana</PUBLISHER>
@@ -22788,7 +22789,7 @@ and on the practice o f settling the civilians issue in militarized areas.
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Peter Pirnat<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Peter Pirnat<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Rodbina Pirnat na gradu Tuštanj</TITLE>
         <PUBLISHER>Zveza zgodovinskih društev Slovenije, Ljubljana</PUBLISHER>
@@ -38967,7 +38968,7 @@ skupaj z oficirjem OZNE pa je v prostore na Čopovi ulici vstopila nova oblast.
             <p>In a survey on teaching physics at the Jesuit college in Ljubljana we deal with fourfields:<ol><li>the life and work of professors of physics</li><li>books on physics</li><li> contents of lectureson physics</li><li>experimenting devices for teaching physics.</li></ol>We give a survey of preserved sourcesfor the history of the teaching of physics in the Jesuit college inLjubljana. We use dataabout professors of ohysics, their published works, books in their library and dataabouttheir instruments for demonstrations of physical phenomena.</p>
         </DESCRIPTION>
         <DESCRIPTION descriptionType="Abstracts" lang="slv">
-            <p>V pregledu pouka fizike na jezuitskem kolegiju v Ljubljani obravnavamo štiri področja:<ol><li>življenje in delovanje profesorjev fizike</li><li>fizikalne knjige</li><li>vsebino fizikalnih predavanj</li><li> eksperimentalne naprave za pouk fizike.</li></p>
+            <p>V pregledu pouka fizike na jezuitskem kolegiju v Ljubljani obravnavamo štiri področja:<ol><li>življenje in delovanje profesorjev fizike</li><li>fizikalne knjige</li><li>vsebino fizikalnih predavanj</li><li> eksperimentalne naprave za pouk fizike.</li></ol></p>
         </DESCRIPTION>
         <PUBLISHER>Zveza zgodovinskih društev Slovenije, Ljubljana</PUBLISHER>
         <SOURCE sourceType="Vir - URN Naslov">SISTORY:ID:942</SOURCE>

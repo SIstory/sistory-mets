@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root xmlns="http://sistory.si/schema/sistory/v3/entity">
+   <frontend>
+      <id>35097</id>
+      <files><div id="okvircek">
+                            <aside>
+                                <div class="pub_file pub_link">  <a href="http://zgs.zrc-sazu.si/sl-si/publikacije/geografskivestnik.aspx" class="ico">    <img width="64" height="64" src="/images/iskanje/ico-http.png" class="ico ico_file_link" />  </a>  <div class="pub_file_text">    <div><div class="pub_file_key">Povezava:</div><div class="pub_file_value"><a href="http://zgs.zrc-sazu.si/sl-si/publikacije/geografskivestnik.aspx">http://zgs.zrc-sazu.si/sl-si/publikacije/geografskivestnik.aspx</a></div></div>  </div></div>                            </aside></div></files>
+      <description_sl/>
+      <description_en/>
+   </frontend>
+   <frontend>
+      <id>1121</id>
+      <files><div id="okvircek">
+                            <aside>
+                                <div class="pub_file pub_link">  <a href="http://www.teof.uni-lj.si/zaloznistvo/acta-ecclesiastica-sloveniae" class="ico">    <img width="64" height="64" src="/images/iskanje/ico-http.png" class="ico ico_file_link" />  </a>  <div class="pub_file_text">    <div><div class="pub_file_key">Povezava:</div><div class="pub_file_value"><a href="http://www.teof.uni-lj.si/zaloznistvo/acta-ecclesiastica-sloveniae">http://www.teof.uni-lj.si/zaloznistvo/acta-ecclesiastica-sloveniae</a></div></div>  </div></div>                            </aside></div></files>
+      <description_sl><section id="opis">
+                <br/>
+                <div class="opis">
+                    <ul class="accordion noborder" data-accordion="" style="margin-left: 0!important">
+                        <li class="accordion-navigation active">
+                            <a href="#panelPodrobenOpis">Podroben opis</a>
+                            <div id="panelPodrobenOpis" class="content active">
+                                <div style="max-width:75rem;overflow:auto">
+                                    Publikacijo Acta Ecclesiastica Sloveniae (AES) izdaja Inštitut za zgodovino Cerkve pri Teološki fakulteti Univerze v Ljubljani. V publikaciji člani IZC in zunanji sodelavci objavljajo doslej neobjavljene dokumente, ki se kakorkoli nanašajo na zgodovino Cerkve na Slovenskem. Dokumenti, redno objavljeni v izvirnem jeziku, so opremljeni s komentarjem v slovenščini in povzetki v tujih jezikih. Publikacija Acta Ecclesiastica Sloveniae izhaja od leta 1979.                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </section></description_sl>
+      <description_en/>
+   </frontend>
+</root>

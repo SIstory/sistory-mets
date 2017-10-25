@@ -1,4 +1,5 @@
-<root>
+<?xml version="1.0" encoding="UTF-8"?>
+<root xmlns="http://www.sistory.si/schemas/sistory/">
     <publication>
         <ID>38064</ID>
         <URN>11686/38064</URN>
@@ -1853,7 +1854,7 @@ Avtorske pravice so potekle, delo je v javni domeni.
         <TITLE titleType="Title" lang="deu">Wohnungs- und Geschäfts- Anzeiger für die Landeshauptstadt Laibach</TITLE>
         <SUBJECT lang="slv">imenik</SUBJECT>
         <SUBJECT lang="eng">registry</SUBJECT>
-        <PUBLISHER>lg. pl. Kleinmayr & Fed. Bamberg, Ljubljana</PUBLISHER>
+        <PUBLISHER>lg. pl. Kleinmayr &amp; Fed. Bamberg, Ljubljana</PUBLISHER>
         <STATUS>1</STATUS>
         <LOCK>0</LOCK>
         <YEAR>1912</YEAR>
@@ -2035,7 +2036,7 @@ Avtorske pravice so potekle, delo je v javni domeni.
             <br/>
                     This work (<span property="dct:title">Krajevni repertorij za Slovenijo,
                         by <a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:24792">
-                  <span property="dct:title">Naslovni oddelek Anončnega in informačnega zavoda  Drago Beseljak & Drug, Ljubljana</span>
+                  <span property="dct:title">Naslovni oddelek Anončnega in informačnega zavoda  Drago Beseljak &amp; Drug, Ljubljana</span>
                </a>)</span>,
                     identified by <a href="http://www.sistory.si/" rel="dct:publisher">
                <span property="dct:title">Zgodovina Slovenije - SIstory</span>
@@ -2049,7 +2050,7 @@ Avtorske pravice so potekle, delo je v javni domeni.
         <SUBJECT lang="slv">Slovenija</SUBJECT>
         <SUBJECT lang="eng">repertory</SUBJECT>
         <SUBJECT lang="eng">Slovenia</SUBJECT>
-        <PUBLISHER>Naslovni oddelek Anončnega in informačnega zavoda  Drago Beseljak & Drug, Ljubljana</PUBLISHER>
+        <PUBLISHER>Naslovni oddelek Anončnega in informačnega zavoda  Drago Beseljak &amp; Drug, Ljubljana</PUBLISHER>
         <STATUS>1</STATUS>
         <LOCK>0</LOCK>
         <YEAR>1922</YEAR>
@@ -2241,7 +2242,7 @@ Avtorske pravice so potekle, delo je v javni domeni.
      style="border-style: none;" alt="Public Domain Mark" />
 </a>
 <br />
-This work (<span property="dct:title">Adresar: Splošna naslovna knjiga za Kranjsko</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:935" rel="dct:creator"><span property="dct:title">Mulley & Kamenšek</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+This work (<span property="dct:title">Adresar: Splošna naslovna knjiga za Kranjsko</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:935" rel="dct:creator"><span property="dct:title">Mulley &amp; Kamenšek</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
 <br />
 Avtorske pravice so potekle, delo je v javni domeni.
 </p>]]>
@@ -2252,7 +2253,7 @@ Avtorske pravice so potekle, delo je v javni domeni.
         <SUBJECT lang="slv">Slovenija</SUBJECT>
         <SUBJECT lang="eng">adress book</SUBJECT>
         <SUBJECT lang="slv">Slovenia</SUBJECT>
-        <PUBLISHER>Mulley & Kamenšek, Ljubljana</PUBLISHER>
+        <PUBLISHER>Mulley &amp; Kamenšek, Ljubljana</PUBLISHER>
         <STATUS>1</STATUS>
         <LOCK>0</LOCK>
         <YEAR>1912</YEAR>

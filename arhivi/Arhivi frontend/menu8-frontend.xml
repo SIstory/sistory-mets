@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root xmlns="http://sistory.si/schema/sistory/v3/entity">
+   <frontend>
+      <id>1123</id>
+      <files><div id="okvircek">
+                            <aside>
+                                <div class="pub_file pub_link">  <a href="http://www.resistance-archive.org/en/testimonies" class="ico">    <img width="64" height="64" src="/images/iskanje/ico-http.png" class="ico ico_file_link" />  </a>  <div class="pub_file_text">    <div><div class="pub_file_key">Povezava:</div><div class="pub_file_value"><a href="http://www.resistance-archive.org/en/testimonies">http://www.resistance-archive.org/en/testimonies</a></div></div>  </div></div>                            </aside></div></files>
+      <description_sl><section id="opis">
+                <br/>
+                <div class="opis">
+                    <ul class="accordion noborder" data-accordion="" style="margin-left: 0!important">
+                        <li class="accordion-navigation active">
+                            <a href="#panelPodrobenOpis">Podroben opis</a>
+                            <div id="panelPodrobenOpis" class="content active">
+                                <div style="max-width:75rem;overflow:auto">
+                                    ERA-EUROPEAN RESISTANCE ARCHIVE, Arhiv evropskega odporništva je platforma, ki prikazuje odporništvo z različnih nacionalnih perspektiv in hkrati omogoča primerjavo posameznih nacionalnih specifičnosti. Vzpostavlja se ga na podlagi video intervjujev oz. pričevanj z aktivnimi udeleženci odpora iz različnih evropskih geografskih območij. Gre za prenašanje zgodovinskega spomina in izkušenj starejših na mlajše generacije. Osebne zgodbe in različne pojavne oblike odporniških gibanj se izrisujejo skozi video intervjuje, ki jih opravljajo mladi v starosti od 15 do 25 let. Namen in cilj Arhiva evropskega odporništva je ohranjati zgodovinski spomin in narediti evropsko zgodovino in današnjo podobo Evrope razumljivo mlajšim generacijam. Želi se opozoriti, da je odpor proti nacifašizmu odigral relevantno oziroma konstitutivno vlogo pri formiranju današnje združene Evrope.                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </section></description_sl>
+      <description_en><section id="opis">
+                <br/>
+                <div class="opis">
+                    <ul class="accordion noborder" data-accordion="" style="margin-left: 0!important">
+                        <li class="accordion-navigation active">
+                            <a href="#panelPodrobenOpis">Detailed description </a>
+                            <div id="panelPodrobenOpis" class="content active">
+                                <div style="max-width:75rem;overflow:auto">
+                                    ERA - European Resistance Archive is a platform for introducing the resistance from various perspectives, and simultaneously allows comparison of individual national specifics. It was established on the basis of video interviews and testimonies of the active resistance participants from different European geographical regions. ERA is about passing down historical memory and the experience of older generations to the younger population. Various forms of resistance movements emerge through personal stories in video interviews conducted by young people aged 15 to 25 years. The aim and objective of the European Resistance Archive is to preserve historical memory and facilitate the understanding of European history as well as modern Europe by younger generations. They need to know that the resistance against Nazism and Fascism played not only a relevant but an essential role in the formation of today's united Europe. You can find personal stories here, including three Slovenian testimonies.                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </section></description_en>
+   </frontend>
+</root>
