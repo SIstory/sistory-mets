@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root xmlns="http://sistory.si/schema/sistory/v3/entity">
+   <frontend>
+      <id>31014</id>
+      <files><div id="okvircek">
+                            <aside>
+                                <div class="pub_file pub_link">  <a href="http://www.sistory.si/SISTORY:ID:20251" class="ico">    <img width="64" height="64" src="/images/iskanje/ico-http.png" class="ico ico_file_link" />  </a>  <div class="pub_file_text">    <div><div class="pub_file_key">Povezava:</div><div class="pub_file_value"><a href="http://www.sistory.si/SISTORY:ID:20251">http://www.sistory.si/SISTORY:ID:20251</a></div></div>  </div></div>                            </aside></div></files>
+      <description_sl/>
+      <description_en/>
+   </frontend>
+   <frontend>
+      <id>20228</id>
+      <files><div id="okvircek">
+                            <aside>
+                                <div class="pub_file pub_link">  <a href="http://www.sistory.si/SISTORY:ID:20227" class="ico">    <img width="64" height="64" src="/images/iskanje/ico-http.png" class="ico ico_file_link" />  </a>  <div class="pub_file_text">    <div><div class="pub_file_key">Povezava:</div><div class="pub_file_value"><a href="http://www.sistory.si/SISTORY:ID:20227">http://www.sistory.si/SISTORY:ID:20227</a></div></div>  </div></div>                            </aside></div></files>
+      <description_sl/>
+      <description_en/>
+   </frontend>
+   <frontend>
+      <id>785</id>
+      <files><div id="okvircek">
+                            <aside>
+                                <div class="pub_file">  <a href="/11686/file376" class="ico">    <img width="64" height="64" src="/images/iskanje/ico-pdf.png" class="ico ico_file_785" />  </a>  <div class="pub_file_text">    <div><div class="pub_file_key">Ime:</div><div class="pub_file_value">BOREC_1992_09-10.pdf</div></div>    <div><div class="pub_file_key">Velikost:</div><div class="pub_file_value">24.09 MB</div></div>    <div><div class="pub_file_key">Format:</div><div class="pub_file_value">application/pdf</div></div>    <div><div class="pub_file_key">Stalna povezava:</div><div class="pub_file_value"><a href="https://hdl.handle.net/11686/file376">https://hdl.handle.net/11686/file376</a></div></div>  </div>  <div class="cta">    <a class="pf_download" href="/publikacije/prenos/file/?fileId=376&download=1"><span><img src="/images/admin/down.png" width="14" class="dlIco" />Prenesi</span></a>    <a class="pf_preview" href="/cdn/publikacije/1-1000/785/BOREC_1992_09-10.pdf"><span><img src="/images/iskanje/ico-search_silver.png" width="14" class="dlIco" />Odpri</span></a>  </div></div>                            </aside></div></files>
+      <description_sl><section id="opis">
+                <br/>
+                <div class="opis">
+                    <ul class="accordion noborder" data-accordion="" style="margin-left: 0!important">
+                        <li class="accordion-navigation active">
+                            <a href="#panelPodrobenOpis">Podroben opis</a>
+                            <div id="panelPodrobenOpis" class="content active">
+                                <div style="max-width:75rem;overflow:auto">
+                                    <p>Z »liberalizmom« v povojni slovenski in jugoslovanski zgodovini označujemo obdobje _ med sredino šestdesetih in sredino sedemdesetih let, ko je znotraj edine in vladajoče stranke Zveze komunistov Jugoslavije (ZKJ) prišlo do pomembnih demokratičnih sprememb, ki so odsevale tudi v družbi. Ti procesi so bili nasilno pretrgani v prvi polovici sedemdesetih let. Najmočnejša demokratična gibanja so bila v Sloveniji, na Hrvaškem in v Srbiji, do izraza pa so prišla tudi v Makedoniji. Ponekod so se izražala tudi v poudarjenih poskusih nacionalne afirmacije (Slovenija, Makedonija), pri čemer je prihajalo tudi do nacionalizma (Hrvaška). Partijski »liberalizem« s klasičnim (meščanskim) nima razen nekaterih najbolj splošnih demokratičnih postavk nobene zveze.</p>                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </section></description_sl>
+      <description_en><section id="opis">
+                <br/>
+                <div class="opis">
+                    <ul class="accordion noborder" data-accordion="" style="margin-left: 0!important">
+                        <li class="accordion-navigation active">
+                            <a href="#panelPodrobenOpis">Detailed description </a>
+                            <div id="panelPodrobenOpis" class="content active">
+                                <div style="max-width:75rem;overflow:auto">
+                                    <p>In post-war Slovene and Yugoslav history, the term "liberalism" is used to denote the period between the mid-sixties and mid-seventies. It was the time when important democratic changes occurred within the only and leading party, the Communist Party of Yugoslavia (CPY), which was also reflected in society. Democratic processes were forcibly interrupted in the first half of the seventies. Democratic movements were the strongest in Slovenia, Croatia and Serbia, and they also gained ground in Macedonia. In places they were expressed as attempts at national affirmation (Slovenia, Macedonia), which sometimes led to nationalism (Croatia). Party "liberalism" is in no way related to classic liberalism, except in a few fundamental democratic principles. The democratic movements in the sixties had their precedents. The transition from a multi-party to a one-party system in the first post-war years in Yugoslavia was fast and forcible, but traces of pluralism remained. The same was true of Slovenia, where the process was completed during the war with the so-called "Dolomite Declaration" (adopted on 1st March, 1943); with the Declaration, the Liberation Front lost, its coalitional character, while two of the founding groups (the Christian Socialist and the Sokoli) renounced their independent (Party) political activities.</p>                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </section></description_en>
+   </frontend>
+</root>

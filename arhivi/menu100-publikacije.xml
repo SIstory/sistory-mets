@@ -1,4 +1,5 @@
-<root>
+<?xml version="1.0" encoding="UTF-8"?>
+<root xmlns="http://www.sistory.si/schemas/sistory/">
     <publication>
         <ID>38067</ID>
         <URN>11686/38067</URN>
@@ -900,7 +901,7 @@ Avtorske pravice so potekle, delo je v javni domeni.
         <SUBJECT lang="eng">teachers</SUBJECT>
         <SUBJECT lang="eng">19th century</SUBJECT>
         <SUBJECT lang="eng">schematisms</SUBJECT>
-        <PUBLISHER>Ig. v. Kleinmayr & Fed. Bamberg, Laibach</PUBLISHER>
+        <PUBLISHER>Ig. v. Kleinmayr  &amp; Fed. Bamberg, Laibach</PUBLISHER>
         <STATUS>1</STATUS>
         <LOCK>0</LOCK>
         <YEAR>1876</YEAR>
@@ -1258,7 +1259,7 @@ Avtorske pravice so potekle, delo je v javni domeni.
      style="border-style: none;" alt="Public Domain Mark" />
 </a>
 <br />
-This work (<span property="dct:title">Personalstatus der mit 1. October 1898 an den öffentlichen allgemeinen Volksschulen in Krain definitive angestellten Lehrpersonen</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:1133" rel="dct:creator"><span property="dct:title">Klein & Comp.</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+This work (<span property="dct:title">Personalstatus der mit 1. October 1898 an den öffentlichen allgemeinen Volksschulen in Krain definitive angestellten Lehrpersonen</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:1133" rel="dct:creator"><span property="dct:title">Klein  &amp; Comp.</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
 <br />
 Avtorske pravice so potekle, delo je v javni domeni.
 </p>]]>
@@ -1268,7 +1269,7 @@ Avtorske pravice so potekle, delo je v javni domeni.
         <SUBJECT lang="slv">ljudske šole</SUBJECT>
         <SUBJECT lang="eng">Carniola</SUBJECT>
         <SUBJECT lang="eng">primary schools</SUBJECT>
-        <PUBLISHER>Druck von A. Klein & Comp., Laibach</PUBLISHER>
+        <PUBLISHER>Druck von A. Klein  &amp; Comp., Laibach</PUBLISHER>
         <STATUS>1</STATUS>
         <LOCK>0</LOCK>
         <YEAR>1898</YEAR>

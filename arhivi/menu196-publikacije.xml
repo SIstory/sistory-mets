@@ -1,4 +1,5 @@
-<root>
+<?xml version="1.0" encoding="UTF-8"?>
+<root xmlns="http://www.sistory.si/schemas/sistory/">
     <publication>
         <ID>38070</ID>
         <URN>11686/38070</URN>
@@ -644,7 +645,7 @@
         <TYPE title="Slika">3</TYPE>
         <TYPE_DC title="Physical Object">7</TYPE_DC>
         <RELATION relationType="isReferencedBy" relationAttr="xml:lang" lang="slv">http://www.druzina.si/ICD/spletnastran.nsf/all/BAB9C5DC97B4AF25C125766C00319286</RELATION>
-        <RELATION relationType="isReferencedBy" relationAttr="xml:lang" lang="slv">http://mladival.si/ICD/spletnastran.nsf/clanek/58-18-CerkevDoma-7?OpenDocument&Click=</RELATION>
+        <RELATION relationType="isReferencedBy" relationAttr="xml:lang" lang="slv">http://mladival.si/ICD/spletnastran.nsf/clanek/58-18-CerkevDoma-7?OpenDocument&amp;Click=</RELATION>
         <RELATION relationType="isReferencedBy" relationAttr="xml:lang" lang="slv">http://4d.rtvslo.si/arhiv/dnevnik/6667373</RELATION>
         <RIGHTS rightsType="accessRights" rightsAttr="xml:lang" lang="slv">Depo Studia slovenica</RIGHTS>
         <TITLE titleType="Title" lang="slv">Gregorij Rožman (Studia slovenica)</TITLE>
@@ -1956,7 +1957,7 @@
         <PAGE>0</PAGE>
         <TYPE title="Slika">3</TYPE>
         <TYPE_DC title="Physical Object">7</TYPE_DC>
-        <RELATION relationType="isReferencedBy" relationAttr="xml:lang" lang="slv">http://www.vrhnika.si/?m=news&id=8897</RELATION>
+        <RELATION relationType="isReferencedBy" relationAttr="xml:lang" lang="slv">http://www.vrhnika.si/?m=news&amp;id=8897</RELATION>
         <RIGHTS rightsType="accessRights" rightsAttr="xml:lang" lang="slv">Spominska hiša Ivana Cankarja na Vrhniki</RIGHTS>
         <TITLE titleType="Title" lang="slv">Ivan Cankar (Vrhnika)</TITLE>
         <SUBJECT lang="slv">Ivan Cankar</SUBJECT>
@@ -2187,7 +2188,7 @@
         <PAGE>0</PAGE>
         <TYPE title="Slika">3</TYPE>
         <TYPE_DC title="Physical Object">7</TYPE_DC>
-        <RELATION relationType="isReferencedBy" relationAttr="xml:lang" lang="slv">https://www.google.si/url?sa=t&rct=j&q=&esrc=s&source=web&cd=21&cad=rja&uact=8&ved=0ahUKEwi1gN3c0ILRAhVFXCwKHRAWA8o4ChAWCDowCg&url=http%3A%2F%2Farhiv.gorenjskiglas.si%2Fdigitar%2F15908610_1972_22_L.pdf&usg=AFQjCNE0Eyyv3_-hfdNnfk2Ooq6NB0jrKw&sig2=Q4ecA7aD_</RELATION>
+        <RELATION relationType="isReferencedBy" relationAttr="xml:lang" lang="slv">https://www.google.si/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=21&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwi1gN3c0ILRAhVFXCwKHRAWA8o4ChAWCDowCg&amp;url=http%3A%2F%2Farhiv.gorenjskiglas.si%2Fdigitar%2F15908610_1972_22_L.pdf&amp;usg=AFQjCNE0Eyyv3_-hfdNnfk2Ooq6NB0jrKw&amp;sig2=Q4ecA7aD_</RELATION>
         <RELATION relationType="isReferencedBy" relationAttr="xml:lang" lang="slv">http://www.podbrezje.si/blekova-ivana-spet-v-podbrezjah/</RELATION>
         <RIGHTS rightsType="accessRights" rightsAttr="xml:lang" lang="slv">Depo, II-52</RIGHTS>
         <TITLE titleType="Title" lang="slv">Ivana Kobilca (NG)</TITLE>
