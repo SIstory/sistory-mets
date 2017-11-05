@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root xmlns="http://sistory.si/schema/sistory/v3/entity">
+   <frontend>
+      <id>26731</id>
+      <files><div id="okvircek">
+                            <aside>
+                                <div class="pub_file">  <a href="/11686/file15788" class="ico">    <img width="64" height="64" src="/images/iskanje/ico-html.png" class="ico ico_file_26731" />  </a>  <div class="pub_file_text">    <div><div class="pub_file_key">Ime:</div><div class="pub_file_value">popis1830-indeks.html</div></div>    <div><div class="pub_file_key">Velikost:</div><div class="pub_file_value">2.96 MB</div></div>    <div><div class="pub_file_key">Format:</div><div class="pub_file_value">text/html</div></div>    <div><div class="pub_file_key">Stalna povezava:</div><div class="pub_file_value"><a href="https://hdl.handle.net/11686/file15788">https://hdl.handle.net/11686/file15788</a></div></div>  </div>  <div class="cta">    <a class="pf_download" href="/publikacije/prenos/file/?fileId=15788&download=1"><span><img src="/images/admin/down.png" width="14" class="dlIco" />Prenesi</span></a>    <a class="pf_preview" href="/cdn/publikacije/26001-27000/26731/popis1830-indeks.html"><span><img src="/images/iskanje/ico-search_silver.png" width="14" class="dlIco" />Odpri</span></a>  </div></div>                            </aside></div></files>
+      <description_sl/>
+      <description_en/>
+   </frontend>
+   <frontend>
+      <id>26730</id>
+      <files><div id="okvircek">
+                            <aside>
+                                <div class="pub_file">  <a href="/11686/file15787" class="ico">    <img width="64" height="64" src="/images/iskanje/ico-pdf.png" class="ico ico_file_26730" />  </a>  <div class="pub_file_text">    <div><div class="pub_file_key">Ime:</div><div class="pub_file_value">Indeksna_Knjiga.pdf</div></div>    <div><div class="pub_file_key">Velikost:</div><div class="pub_file_value">190.48 MB</div></div>    <div><div class="pub_file_key">Format:</div><div class="pub_file_value">directory</div></div>    <div><div class="pub_file_key">Stalna povezava:</div><div class="pub_file_value"><a href="https://hdl.handle.net/11686/file15787">https://hdl.handle.net/11686/file15787</a></div></div>  </div>  <div class="cta">    <a class="pf_download" href="/publikacije/prenos/file/?fileId=15787&download=1"><span><img src="/images/admin/down.png" width="14" class="dlIco" />Prenesi</span></a>    <a class="pf_preview" href="/cdn/publikacije/26001-27000/26730/Indeksna_Knjiga.pdf"><span><img src="/images/iskanje/ico-search_silver.png" width="14" class="dlIco" />Odpri</span></a>  </div></div>                            </aside></div></files>
+      <description_sl><section id="opis">
+                <br/>
+                <div class="opis">
+                    <ul class="accordion noborder" data-accordion="" style="margin-left: 0!important">
+                        <li class="accordion-navigation active">
+                            <a href="#panelPodrobenOpis">Podroben opis</a>
+                            <div id="panelPodrobenOpis" class="content active">
+                                <div style="max-width:75rem;overflow:auto">
+                                    Tabelarni prikaz podatkov tega indeksa, skupaj z iskalnikom in povezavami na digitalizirano arhivsko gradivo je dostopen na <a href="http://sistory.si/SISTORY:ID:26731" target="_blank">http://sistory.si/SISTORY:ID:26731</a>.                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </section></description_sl>
+      <description_en/>
+   </frontend>
+   <frontend>
+      <id>24788</id>
+      <files><div id="okvircek">
+                            <aside>
+                                <div class="pub_file">  <a href="/11686/file13851" class="ico">    <img width="64" height="64" src="/images/iskanje/ico-html.png" class="ico ico_file_24788" />  </a>  <div class="pub_file_text">    <div><div class="pub_file_key">Ime:</div><div class="pub_file_value">Novo_mesto-zemljevid-skupni_dokument.html</div></div>    <div><div class="pub_file_key">Velikost:</div><div class="pub_file_value">391.36 KB</div></div>    <div><div class="pub_file_key">Format:</div><div class="pub_file_value">text/html</div></div>    <div><div class="pub_file_key">Stalna povezava:</div><div class="pub_file_value"><a href="https://hdl.handle.net/11686/file13851">https://hdl.handle.net/11686/file13851</a></div></div>  </div>  <div class="cta">    <a class="pf_download" href="/publikacije/prenos/file/?fileId=13851&download=1"><span><img src="/images/admin/down.png" width="14" class="dlIco" />Prenesi</span></a>    <a class="pf_preview" href="/cdn/publikacije/24001-25000/24788/Novo_mesto-zemljevid-skupni_dokument.html"><span><img src="/images/iskanje/ico-search_silver.png" width="14" class="dlIco" />Odpri</span></a>  </div></div>                            </aside></div></files>
+      <description_sl/>
+      <description_en/>
+   </frontend>
+</root>

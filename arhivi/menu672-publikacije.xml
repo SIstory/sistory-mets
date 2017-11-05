@@ -1,4 +1,5 @@
-<root>
+<?xml version="1.0" encoding="UTF-8"?>
+<root xmlns="http://www.sistory.si/schemas/sistory/">
     <publication>
         <ID>28755</ID>
         <URN>11686/28755#page=497</URN>
@@ -3554,7 +3555,7 @@
                         zbora (#page=80) ---- 2. Uresničevanje ter varstvo ustavnosti
                         in zakonitosti v Socialistični republiki Sloveniji (#page=80) ---- 3. Predlog resolucije o ekonomskih stikih Socialistične republike
                         Slovenije s tujino (#page=87) ---- 4. Poročilo o obisku
-                        delegacije izvršnega sveta skupščine SR Slovenije v Romuniji od 2&. do
+                        delegacije izvršnega sveta skupščine SR Slovenije v Romuniji od 2&amp;. do
                         29. septembra 1973 (#page=90) ---- 5. Predlog zakona o
                         spremembah zakona o proračunu SR Slovenije za leto 1973 (#page=93) ---- 6. Predlog odloka o spremembah in dopolnitvah odloka o finančnem
                         načrtu računa sredstev Socialistične republike Slovenije za izravnavanje v

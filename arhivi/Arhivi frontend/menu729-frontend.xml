@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root xmlns="http://sistory.si/schema/sistory/v3/entity">
+   <frontend>
+      <id>30916</id>
+      <files><div id="okvircek">
+                            <aside>
+                                <div class="pub_file pub_link">  <a href="https://github.com/SIstory/SlovParl" class="ico">    <img width="64" height="64" src="/images/iskanje/ico-http.png" class="ico ico_file_link" />  </a>  <div class="pub_file_text">    <div><div class="pub_file_key">Povezava:</div><div class="pub_file_value"><a href="https://github.com/SIstory/SlovParl">https://github.com/SIstory/SlovParl</a></div></div>  </div></div>                            </aside></div></files>
+      <description_sl/>
+      <description_en/>
+   </frontend>
+   <frontend>
+      <id>30915</id>
+      <files><div id="okvircek">
+                            <aside>
+                                <div class="pub_file pub_link">  <a href="https://github.com/SIstory/SlovParl" class="ico">    <img width="64" height="64" src="/images/iskanje/ico-http.png" class="ico ico_file_link" />  </a>  <div class="pub_file_text">    <div><div class="pub_file_key">Povezava:</div><div class="pub_file_value"><a href="https://github.com/SIstory/SlovParl">https://github.com/SIstory/SlovParl</a></div></div>  </div></div>                            </aside></div></files>
+      <description_sl/>
+      <description_en/>
+   </frontend>
+   <frontend>
+      <id>30914</id>
+      <files><div id="okvircek">
+                            <aside>
+                                <div class="pub_file pub_link">  <a href="https://github.com/SIstory/Seje_DZ" class="ico">    <img width="64" height="64" src="/images/iskanje/ico-http.png" class="ico ico_file_link" />  </a>  <div class="pub_file_text">    <div><div class="pub_file_key">Povezava:</div><div class="pub_file_value"><a href="https://github.com/SIstory/Seje_DZ">https://github.com/SIstory/Seje_DZ</a></div></div>  </div></div>                            </aside></div></files>
+      <description_sl/>
+      <description_en/>
+   </frontend>
+   <frontend>
+      <id>30913</id>
+      <files><div id="okvircek">
+                            <aside>
+                                <div class="pub_file pub_link">  <a href="https://github.com/SIstory/Sejni_zapiski" class="ico">    <img width="64" height="64" src="/images/iskanje/ico-http.png" class="ico ico_file_link" />  </a>  <div class="pub_file_text">    <div><div class="pub_file_key">Povezava:</div><div class="pub_file_value"><a href="https://github.com/SIstory/Sejni_zapiski">https://github.com/SIstory/Sejni_zapiski</a></div></div>  </div></div>                            </aside></div></files>
+      <description_sl><section id="opis">
+                <br/>
+                <div class="opis">
+                    <ul class="accordion noborder" data-accordion="" style="margin-left: 0!important">
+                        <li class="accordion-navigation active">
+                            <a href="#panelPodrobenOpis">Podroben opis</a>
+                            <div id="panelPodrobenOpis" class="content active">
+                                <div style="max-width:75rem;overflow:auto">
+                                    <p>Besedilni korpus sejnih zapisnikov Skupščine Socialistične republike Slovenije (1963-1990). <br/>Besedilni korpus nastaja postopoma v okviru dejavnosti Raziskovalne infrastrukture Slovenskega zgodovinopisja (SIstory in DARIAH-SI) in je dosegljiv tudi na <a href="https://github.com/SIstory/Sejni_zapiski"> GitHub.</a></p> <p>Originalni vir so PDF dateteke, ki se nahajajo na SIstory. Najprej se opravi preverjanje in validacija OCR, ki mu sledi pretvorba v XML po priporočilih za zapis besedil <a href="http://www.tei-c.org/index.xml">TEI P5</a> (Text Encoding Initiative) in dodatno kodiranje strukture besedila. Govori poslancev so kodirani v skladu s <a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/DR.html">TEI modulom za dramska besedila</a>. Deli XML dokumentov, ki so v glavne XML dokumente vključeni s pomočjo mehanizma XInclude, so dosegljivi samo na GitHub.</p>                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </section></description_sl>
+      <description_en/>
+   </frontend>
+</root>

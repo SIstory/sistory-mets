@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root xmlns="http://sistory.si/schema/sistory/v3/entity">
+   <frontend>
+      <id>20868</id>
+      <files><div id="okvircek">
+                            <aside>
+                                <div class="pub_file">  <a href="/11686/file9932" class="ico">    <img width="64" height="64" src="/images/iskanje/ico-html.png" class="ico ico_file_20868" />  </a>  <div class="pub_file_text">    <div><div class="pub_file_key">Ime:</div><div class="pub_file_value">solski_listi-skupen_dokument.html</div></div>    <div><div class="pub_file_key">Velikost:</div><div class="pub_file_value">296.74 KB</div></div>    <div><div class="pub_file_key">Format:</div><div class="pub_file_value">text/html</div></div>    <div><div class="pub_file_key">Stalna povezava:</div><div class="pub_file_value"><a href="https://hdl.handle.net/11686/file9932">https://hdl.handle.net/11686/file9932</a></div></div>  </div>  <div class="cta">    <a class="pf_download" href="/publikacije/prenos/file/?fileId=9932&download=1"><span><img src="/images/admin/down.png" width="14" class="dlIco" />Prenesi</span></a>    <a class="pf_preview" href="/cdn/publikacije/20001-21000/20868/solski_listi-skupen_dokument.html"><span><img src="/images/iskanje/ico-search_silver.png" width="14" class="dlIco" />Odpri</span></a>  </div></div>                            </aside></div></files>
+      <description_sl><section id="opis">
+                <br/>
+                <div class="opis">
+                    <ul class="accordion noborder" data-accordion="" style="margin-left: 0!important">
+                        <li class="accordion-navigation active">
+                            <a href="#panelPodrobenOpis">Podroben opis</a>
+                            <div id="panelPodrobenOpis" class="content active">
+                                <div style="max-width:75rem;overflow:auto">
+                                    <p>Zemljevid omogoča lažjo navigacijo po <a href="http://www.sistory.si/publikacije/?menu=647" target="_blank">Zbirki šolskih listov</a> Slovenskega šolskega muzeja. S klikom na posamezno oznako geografske lokacije se odpre seznam šol, ki so se nahajale v tem kraju. Imena šol iz seznama so povezane s publikacijami v mapi <a href="http://www.sistory.si/publikacije/?menu=648" target="_blank">Šolski listi</a>.</p>                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </section></description_sl>
+      <description_en/>
+   </frontend>
+</root>

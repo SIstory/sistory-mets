@@ -1,4 +1,5 @@
-<root>
+<?xml version="1.0" encoding="UTF-8"?>
+<root xmlns="http://www.sistory.si/schemas/sistory/">
     <publication>
         <ID>27070</ID>
         <URN>11686/27070#page=203</URN>
@@ -3901,7 +3902,7 @@ Iz te kulturno-geografske perspektive je burek materialni prežitek Orienta, ki 
         <COPYRIGHT>
             <![CDATA[<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/2.5/si/"><img alt="Creative Commons licenca" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-nd/2.5/si/88x31.png" /></a><br />To <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">delo</span> avtorja <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.sistory.si/?urn=SISTORY:ID:26978" property="cc:attributionName" rel="cc:attributionURL">Mirjam Hladnik Milharčič</a> je ponujeno pod <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/2.5/si/">Creative Commons Priznanje avtorstva-Nekomercialno-Brez predelav 2.5 Slovenija licenco</a>.]]>
         </COPYRIGHT>
-        <TITLE titleType="Title" lang="slv">Paul Hockenos, Homeland Calling, Exile Patriotism & the Balkan Wars,Cornell University Press, Ithaca & London, 2003.</TITLE>
+        <TITLE titleType="Title" lang="slv">Paul Hockenos, Homeland Calling, Exile Patriotism &amp; the Balkan Wars,Cornell University Press, Ithaca &amp; London, 2003.</TITLE>
         <SUBJECT lang="slv">knjižne ocene</SUBJECT>
         <SUBJECT lang="slv">book reviews</SUBJECT>
         <PUBLISHER>Inštitut za slovensko izseljenstvo in migracije ZRC SAZU, Ljubljana</PUBLISHER>
@@ -5636,7 +5637,7 @@ Iz te kulturno-geografske perspektive je burek materialni prežitek Orienta, ki 
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Irena Gantar Godina <br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Irena Gantar Godina <br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Slovenski izobraženci iz Prage na Hrvaško</TITLE>
         <TITLE titleType="Title" lang="eng">Slovenian intellectuals from Prague to Croatia</TITLE>
@@ -5724,7 +5725,7 @@ Iz te kulturno-geografske perspektive je burek materialni prežitek Orienta, ki 
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Maša Mikola <br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Maša Mikola <br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Meje multikulturne komunikacije: etnično-simbolne reprezentacije v avstralskem prostoru</TITLE>
         <TITLE titleType="Alternative Title" lang="eng">The borders of multicultural communication: ethnic-symbolic representations in Australian space</TITLE>
@@ -6018,7 +6019,7 @@ Iz te kulturno-geografske perspektive je burek materialni prežitek Orienta, ki 
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Irena Lesar <br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Irena Lesar <br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="eng">The response of Slovenian teachers to the migrant children from former Yugoslavia</TITLE>
         <TITLE titleType="Alternative Title" lang="slv">Odziv slovenskih učiteljev na otroke priseljencev iz bivše Jugoslavije</TITLE>
@@ -6233,7 +6234,7 @@ Iz te kulturno-geografske perspektive je burek materialni prežitek Orienta, ki 
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Joseph Valencic <br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Joseph Valencic <br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="eng">The Slovene National Benefit Society in Cleveland: a century of service to the community</TITLE>
         <SUBJECT lang="slv">Cleveland</SUBJECT>
@@ -6312,7 +6313,7 @@ Iz te kulturno-geografske perspektive je burek materialni prežitek Orienta, ki 
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Marinka Skrt <br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Marinka Skrt <br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Slovenke v Grčiji</TITLE>
         <TITLE titleType="Alternative Title" lang="eng">Slovenian Women in Greece</TITLE>
@@ -6767,7 +6768,7 @@ Iz te kulturno-geografske perspektive je burek materialni prežitek Orienta, ki 
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Sebastian Sticher<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Sebastian Sticher<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="deu">Wenig Exponate, aber die sind anschaulich: Darmstädter Studenten besuchen Schau im Historischen Museum: "Guter Überblick zur Migrationsgeschichte"</TITLE>
         <SUBJECT lang="slv">Poročila in razmišljanja</SUBJECT>
@@ -6802,7 +6803,7 @@ Iz te kulturno-geografske perspektive je burek materialni prežitek Orienta, ki 
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Rana Cakirerk<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Rana Cakirerk<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="eng">Workshop on common European Migration Policy, Katholieke Universiteit Leuven, 20-21 November 2003</TITLE>
         <SUBJECT lang="slv">Poročila in razmišljanja</SUBJECT>
@@ -6880,7 +6881,7 @@ Iz te kulturno-geografske perspektive je burek materialni prežitek Orienta, ki 
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Ksenija Vesenjak<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Ksenija Vesenjak<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Slovenci na avstralski Tasmaniji</TITLE>
         <TITLE titleType="Alternative Title" lang="eng">Slovenes in Australian Tasmania</TITLE>
@@ -6922,7 +6923,7 @@ Iz te kulturno-geografske perspektive je burek materialni prežitek Orienta, ki 
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Maša Mikola<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Maša Mikola<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Transformacija etničnosti: premik k javnemu izražanju simbolne etnične identitete</TITLE>
         <TITLE titleType="Alternative Title" lang="eng">Transformation of Ethnicity: Move to Public Expressing Symbolic Ethnic Identity</TITLE>
@@ -7287,7 +7288,7 @@ Iz te kulturno-geografske perspektive je burek materialni prežitek Orienta, ki 
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Irena Gantar Godina<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Irena Gantar Godina<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Slovenski izobraženci na Hrvaškem od 1850 do 1860</TITLE>
         <TITLE titleType="Alternative Title" lang="eng">Slovene Intellectuals in Croatia from 1850 to 1860</TITLE>
@@ -7689,7 +7690,7 @@ Iz te kulturno-geografske perspektive je burek materialni prežitek Orienta, ki 
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Venčeslav Šprager<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Venčeslav Šprager<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="deu">Fremde zwischen Integration und Assimilation</TITLE>
         <SUBJECT lang="slv">migracije</SUBJECT>
@@ -7770,7 +7771,7 @@ Iz te kulturno-geografske perspektive je burek materialni prežitek Orienta, ki 
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Irena Gantar Godina<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Irena Gantar Godina<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Slovenski intelektualci - izseljenci na Hrvaškem: Jernej Francelj (1821-1889)</TITLE>
         <TITLE titleType="Alternative Title" lang="eng">Slovene Intellectuals - Emigrants in Croatia: The Case of Jernej Francelj (1821-1889)</TITLE>
@@ -7984,7 +7985,7 @@ Iz te kulturno-geografske perspektive je burek materialni prežitek Orienta, ki 
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Ada Aharoni <br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Ada Aharoni <br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="eng">The Necessity of a New Multicultural Peace Culture</TITLE>
         <TITLE titleType="Alternative Title" lang="slv">Potreba po novi multikulturni mirovni kulturi</TITLE>
@@ -8021,7 +8022,7 @@ Iz te kulturno-geografske perspektive je burek materialni prežitek Orienta, ki 
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Susan C. Ziehl <br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Susan C. Ziehl <br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="eng">Globalization, Migration and Family Diversity</TITLE>
         <TITLE titleType="Alternative Title" lang="slv">Globalizacija, migracije in raznolikost družinskih vzorcev</TITLE>
@@ -8141,7 +8142,7 @@ Iz te kulturno-geografske perspektive je burek materialni prežitek Orienta, ki 
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Peter Graf<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Peter Graf<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Migration as a Change of Cultural Relations by a New Language Map</TITLE>
         <TITLE titleType="Alternative Title" lang="slv">Migracija kot sprememba kulturnih odnosov, ki jo prinaša novi jezikovni zemljevid</TITLE>
@@ -8289,7 +8290,7 @@ Iz te kulturno-geografske perspektive je burek materialni prežitek Orienta, ki 
         <COPYRIGHT>
             <![CDATA[<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/2.5/si/"><img alt="Creative Commons licenca" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-nd/2.5/si/88x31.png" /></a><br />To <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">delo</span> avtorja <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.sistory.si/?urn=SISTORY:ID:15173 " property="cc:attributionName" rel="cc:attributionURL">Marjan Drnovšek</a> je ponujeno pod <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/2.5/si/">Creative Commons Priznanje avtorstva-Nekomercialno-Brez predelav 2.5 Slovenija licenco</a>.]]>
         </COPYRIGHT>
-        <TITLE titleType="Title" lang="slv">"Reading the emigrant letter: innovative approaches & interpretations"</TITLE>
+        <TITLE titleType="Title" lang="slv">"Reading the emigrant letter: innovative approaches &amp; interpretations"</TITLE>
         <SUBJECT lang="slv">poročila</SUBJECT>
         <SUBJECT lang="slv">izseljenci</SUBJECT>
         <SUBJECT lang="slv">korespondenca</SUBJECT>
@@ -8439,7 +8440,7 @@ Iz te kulturno-geografske perspektive je burek materialni prežitek Orienta, ki 
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Rozina Švent<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Rozina Švent<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Stoletnica rojstva dr. Tineta Debeljaka: (1903-1989)</TITLE>
         <SUBJECT lang="slv">portreti</SUBJECT>
@@ -8519,7 +8520,7 @@ Iz te kulturno-geografske perspektive je burek materialni prežitek Orienta, ki 
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Jurij Zalokar<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Jurij Zalokar<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">O multikulturi in pomenu različnosti narodov, jezikov in kultur</TITLE>
         <TITLE titleType="Alternative Title" lang="eng">On Multiculture and on Significance of Heterogeneity of Nations, Languages and Cultures</TITLE>
@@ -8607,7 +8608,7 @@ Iz te kulturno-geografske perspektive je burek materialni prežitek Orienta, ki 
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Catalina Banko, Pablo Mouzakis<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Catalina Banko, Pablo Mouzakis<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="eng">Slovene Immigration to Argentina in the Inter-war Period</TITLE>
         <TITLE titleType="Alternative Title" lang="slv">Slovenska emigracija v Argentini med obema svetovnima vojnama</TITLE>
@@ -8685,7 +8686,7 @@ Iz te kulturno-geografske perspektive je burek materialni prežitek Orienta, ki 
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Irena Gantar Godina<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Irena Gantar Godina<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Izseljevanje slovenskih intelektualcev na Hrvaško do leta 1848</TITLE>
         <TITLE titleType="Alternative Title" lang="eng">Emigration of Slovene Intellectuals to Croatia up to 1848</TITLE>
@@ -8908,7 +8909,7 @@ Iz te kulturno-geografske perspektive je burek materialni prežitek Orienta, ki 
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Majda Kodrič<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Majda Kodrič<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Franc Pirc in nastanek prvih slovenskih naselbin v Združenih državah Amerike</TITLE>
         <TITLE titleType="Alternative Title" lang="eng">Franc Pirc and the Establishing of the First Slovene Settlements in U.S.A.</TITLE>
@@ -9176,7 +9177,7 @@ Iz te kulturno-geografske perspektive je burek materialni prežitek Orienta, ki 
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Joe Valenčič<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Joe Valenčič<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Seznam najlepših mladenk SNPJ v ZDA</TITLE>
         <SUBJECT lang="slv">podporna društva</SUBJECT>
@@ -9256,7 +9257,7 @@ Iz te kulturno-geografske perspektive je burek materialni prežitek Orienta, ki 
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Rozalija Knez<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Rozalija Knez<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Šavrinka na Švedskem</TITLE>
         <TITLE titleType="Title" lang="slv">Predavanje 17. 10. 2002</TITLE>
@@ -9292,7 +9293,7 @@ Iz te kulturno-geografske perspektive je burek materialni prežitek Orienta, ki 
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Tamara Burmicki<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Tamara Burmicki<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Vpliv okolja na likovno govorico umetnikov</TITLE>
         <TITLE titleType="Title" lang="slv">Predavanje 18. 10. 2002</TITLE>
@@ -9328,7 +9329,7 @@ Iz te kulturno-geografske perspektive je burek materialni prežitek Orienta, ki 
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Nataša Škof<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Nataša Škof<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Kdo in kaj sem?</TITLE>
         <TITLE titleType="Title" lang="slv">Predavanje 15. 10. 2002</TITLE>
@@ -9602,7 +9603,7 @@ Iz te kulturno-geografske perspektive je burek materialni prežitek Orienta, ki 
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Michael M. Pomedli<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Michael M. Pomedli<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="eng">The Ojibwa and Bishop Frederick Baraga: Mutual Influences through the Confessional</TITLE>
         <TITLE titleType="Alternative Title" lang="slv">Očipvejci in škof Friderik Baraga: vzajemni vplivi skozi spovednico</TITLE>
@@ -9638,7 +9639,7 @@ Iz te kulturno-geografske perspektive je burek materialni prežitek Orienta, ki 
         <COPYRIGHT>
             <![CDATA[<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/2.5/si/"><img alt="Creative Commons licenca" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-nd/2.5/si/88x31.png" /></a><br />To <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">delo</span> avtorja <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.sistory.si/?urn=SISTORY:ID:15083 " property="cc:attributionName" rel="cc:attributionURL">Marjan Drnovšek</a> je ponujeno pod <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/2.5/si/">Creative Commons Priznanje avtorstva-Nekomercialno-Brez predelav 2.5 Slovenija licenco</a>.]]>
         </COPYRIGHT>
-        <TITLE titleType="Title" lang="slv">Bad adn: Jean Vodaine, Tolminski muzej & Pilonova galerija v Ajdovščini (ur. Irene Mislej), 2002, 75 str.</TITLE>
+        <TITLE titleType="Title" lang="slv">Bad adn: Jean Vodaine, Tolminski muzej &amp; Pilonova galerija v Ajdovščini (ur. Irene Mislej), 2002, 75 str.</TITLE>
         <SUBJECT lang="slv">ocene in poročila</SUBJECT>
         <SUBJECT lang="eng">reviews and reports</SUBJECT>
         <PUBLISHER>Inštitut za slovensko izseljenstvo in migracije ZRC SAZU, Ljubljana</PUBLISHER>
@@ -9729,7 +9730,7 @@ Iz te kulturno-geografske perspektive je burek materialni prežitek Orienta, ki 
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Dean Ceglar<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Dean Ceglar<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Slovensko izseljenstvo ( zbornik ob 50-letnici Slovenske izseljenske matice), več avtorjev; mag, Milica Trebše Štolfa (glavna urednica), red. prof. dr. Matjaž Klemenčič (odgovorni urednik), Združenje Slovenska izseljenska matica, Ljubljana 2001, 375 str.</TITLE>
         <SUBJECT lang="slv">ocene in poročila</SUBJECT>
@@ -9760,7 +9761,7 @@ Iz te kulturno-geografske perspektive je burek materialni prežitek Orienta, ki 
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Venceslav Šprager<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Venceslav Šprager<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Priseljenski pisatelji v Nemčiji: Ustvarjalna motivacija</TITLE>
         <SUBJECT lang="slv">poročila</SUBJECT>
@@ -9794,7 +9795,7 @@ Iz te kulturno-geografske perspektive je burek materialni prežitek Orienta, ki 
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Tine Kurent<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Tine Kurent<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Sonetni venec in slavilna pesem v spomin na Louisa Adamiča</TITLE>
         <SUBJECT lang="slv">viri in gradivo</SUBJECT>
@@ -9825,7 +9826,7 @@ Iz te kulturno-geografske perspektive je burek materialni prežitek Orienta, ki 
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Tine Kurent<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Tine Kurent<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Zastave društev »Lunder Adamič« SSPZ v ZDA</TITLE>
         <SUBJECT lang="slv">viri in gradivo</SUBJECT>
@@ -9905,7 +9906,7 @@ Iz te kulturno-geografske perspektive je burek materialni prežitek Orienta, ki 
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Tine Kurent<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Tine Kurent<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Titovo pismo in pismo slovenskih partizanov z Visa Louisu Adamiču</TITLE>
         <SUBJECT lang="slv">viri in gradivo</SUBJECT>
@@ -10231,7 +10232,7 @@ Iz te kulturno-geografske perspektive je burek materialni prežitek Orienta, ki 
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Irena Gantar Godina<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Irena Gantar Godina<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Josip Vuga, slovenski znanstvenik v Čeških Budejovicah</TITLE>
         <TITLE titleType="Alternative Title" lang="eng">Josip Vuga - A Slovene Learned Man in Češke Budejovice</TITLE>

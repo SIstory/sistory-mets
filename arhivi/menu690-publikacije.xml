@@ -1,18 +1,22 @@
-<root>
+<?xml version="1.0" encoding="UTF-8"?>
+<root xmlns="http://www.sistory.si/schemas/sistory/">
     <publication>
         <ID>29483</ID>
         <URN>11686/29483</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:689</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:689</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -47,7 +51,8 @@
         <SUBJECT lang="eng">Slovenia</SUBJECT>
         <SUBJECT lang="eng">1921</SUBJECT>
         <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
-        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Japljeva ulica 5</IDENTIFIER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Japljeva ulica
+            5</IDENTIFIER>
         <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
         <COVERAGE coverageType="Temporal" format="W3CDTF">1921-12-20</COVERAGE>
         <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
@@ -66,15 +71,18 @@
         <URN>11686/29482</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:691</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:691</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -109,7 +117,8 @@
         <SUBJECT lang="eng">Slovenia</SUBJECT>
         <SUBJECT lang="eng">1921</SUBJECT>
         <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
-        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Japljeva ulica 4</IDENTIFIER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Japljeva ulica
+            4</IDENTIFIER>
         <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
         <COVERAGE coverageType="Temporal" format="W3CDTF">1921-12-20</COVERAGE>
         <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
@@ -128,15 +137,18 @@
         <URN>11686/29481</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:690</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:690</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -171,7 +183,8 @@
         <SUBJECT lang="eng">Slovenia</SUBJECT>
         <SUBJECT lang="eng">1921</SUBJECT>
         <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
-        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Japljeva ulica 3</IDENTIFIER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Japljeva ulica
+            3</IDENTIFIER>
         <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
         <COVERAGE coverageType="Temporal" format="W3CDTF">1921-12-20</COVERAGE>
         <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
@@ -190,15 +203,18 @@
         <URN>11686/29480</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:688</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:688</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -233,7 +249,8 @@
         <SUBJECT lang="eng">Slovenia</SUBJECT>
         <SUBJECT lang="eng">1921</SUBJECT>
         <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
-        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Japljeva ulica 2</IDENTIFIER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Japljeva ulica
+            2</IDENTIFIER>
         <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
         <COVERAGE coverageType="Temporal" format="W3CDTF">1921-12-20</COVERAGE>
         <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
@@ -252,15 +269,18 @@
         <URN>11686/29479</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:666</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:666</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -295,7 +315,8 @@
         <SUBJECT lang="eng">Slovenia</SUBJECT>
         <SUBJECT lang="eng">1921</SUBJECT>
         <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
-        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta 9</IDENTIFIER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta
+            9</IDENTIFIER>
         <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
         <COVERAGE coverageType="Temporal" format="W3CDTF">1921-12-20</COVERAGE>
         <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
@@ -314,15 +335,18 @@
         <URN>11686/29478</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:641</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:641</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -357,7 +381,8 @@
         <SUBJECT lang="eng">Slovenia</SUBJECT>
         <SUBJECT lang="eng">1921</SUBJECT>
         <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
-        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta 8</IDENTIFIER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta
+            8</IDENTIFIER>
         <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
         <COVERAGE coverageType="Temporal" format="W3CDTF">1921-12-20</COVERAGE>
         <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
@@ -376,15 +401,18 @@
         <URN>11686/29477</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:667</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:667</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -419,7 +447,8 @@
         <SUBJECT lang="eng">Slovenia</SUBJECT>
         <SUBJECT lang="eng">1921</SUBJECT>
         <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
-        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta 7</IDENTIFIER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta
+            7</IDENTIFIER>
         <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
         <COVERAGE coverageType="Temporal" format="W3CDTF">1921-12-20</COVERAGE>
         <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
@@ -438,15 +467,18 @@
         <URN>11686/29476</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:677</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:677</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -481,7 +513,8 @@
         <SUBJECT lang="eng">Slovenia</SUBJECT>
         <SUBJECT lang="eng">1921</SUBJECT>
         <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
-        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta 6</IDENTIFIER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta
+            6</IDENTIFIER>
         <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
         <COVERAGE coverageType="Temporal" format="W3CDTF">1921-12-20</COVERAGE>
         <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
@@ -500,15 +533,18 @@
         <URN>11686/29475</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:645</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:645</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -543,7 +579,8 @@
         <SUBJECT lang="eng">Slovenia</SUBJECT>
         <SUBJECT lang="eng">1921</SUBJECT>
         <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
-        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta 55</IDENTIFIER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta
+            55</IDENTIFIER>
         <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
         <COVERAGE coverageType="Temporal" format="W3CDTF">1921-12-20</COVERAGE>
         <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
@@ -562,15 +599,18 @@
         <URN>11686/29474</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:684</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:684</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -605,7 +645,8 @@
         <SUBJECT lang="eng">Slovenia</SUBJECT>
         <SUBJECT lang="eng">1921</SUBJECT>
         <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
-        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta 54</IDENTIFIER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta
+            54</IDENTIFIER>
         <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
         <COVERAGE coverageType="Temporal" format="W3CDTF">1921-12-20</COVERAGE>
         <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
@@ -624,15 +665,18 @@
         <URN>11686/29473</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:658</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:658</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -667,7 +711,8 @@
         <SUBJECT lang="eng">Slovenia</SUBJECT>
         <SUBJECT lang="eng">1921</SUBJECT>
         <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
-        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta 53</IDENTIFIER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta
+            53</IDENTIFIER>
         <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
         <COVERAGE coverageType="Temporal" format="W3CDTF">1921-12-20</COVERAGE>
         <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
@@ -686,15 +731,18 @@
         <URN>11686/29472</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:686</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:686</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -729,7 +777,8 @@
         <SUBJECT lang="eng">Slovenia</SUBJECT>
         <SUBJECT lang="eng">1921</SUBJECT>
         <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
-        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta 52</IDENTIFIER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta
+            52</IDENTIFIER>
         <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
         <COVERAGE coverageType="Temporal" format="W3CDTF">1921-12-20</COVERAGE>
         <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
@@ -748,15 +797,18 @@
         <URN>11686/29471</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:652</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:652</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -791,7 +843,8 @@
         <SUBJECT lang="eng">Slovenia</SUBJECT>
         <SUBJECT lang="eng">1921</SUBJECT>
         <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
-        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta 51</IDENTIFIER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta
+            51</IDENTIFIER>
         <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
         <COVERAGE coverageType="Temporal" format="W3CDTF">1921-12-20</COVERAGE>
         <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
@@ -810,15 +863,18 @@
         <URN>11686/29470</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:640</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:640</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -853,7 +909,8 @@
         <SUBJECT lang="eng">Slovenia</SUBJECT>
         <SUBJECT lang="eng">1921</SUBJECT>
         <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
-        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta 50</IDENTIFIER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta
+            50</IDENTIFIER>
         <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
         <COVERAGE coverageType="Temporal" format="W3CDTF">1921-12-20</COVERAGE>
         <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
@@ -872,15 +929,18 @@
         <URN>11686/29469</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:670</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:670</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -915,7 +975,8 @@
         <SUBJECT lang="eng">Slovenia</SUBJECT>
         <SUBJECT lang="eng">1921</SUBJECT>
         <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
-        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta 5</IDENTIFIER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta
+            5</IDENTIFIER>
         <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
         <COVERAGE coverageType="Temporal" format="W3CDTF">1921-12-20</COVERAGE>
         <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
@@ -934,15 +995,18 @@
         <URN>11686/29468</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:638</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:638</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -977,7 +1041,8 @@
         <SUBJECT lang="eng">Slovenia</SUBJECT>
         <SUBJECT lang="eng">1921</SUBJECT>
         <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
-        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta 49</IDENTIFIER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta
+            49</IDENTIFIER>
         <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
         <COVERAGE coverageType="Temporal" format="W3CDTF">1921-12-20</COVERAGE>
         <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
@@ -996,15 +1061,18 @@
         <URN>11686/29467</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:675</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:675</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -1039,7 +1107,8 @@
         <SUBJECT lang="eng">Slovenia</SUBJECT>
         <SUBJECT lang="eng">1921</SUBJECT>
         <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
-        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta 48</IDENTIFIER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta
+            48</IDENTIFIER>
         <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
         <COVERAGE coverageType="Temporal" format="W3CDTF">1921-12-20</COVERAGE>
         <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
@@ -1058,15 +1127,18 @@
         <URN>11686/29466</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:679</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:679</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -1101,7 +1173,8 @@
         <SUBJECT lang="eng">Slovenia</SUBJECT>
         <SUBJECT lang="eng">1921</SUBJECT>
         <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
-        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta 47</IDENTIFIER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta
+            47</IDENTIFIER>
         <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
         <COVERAGE coverageType="Temporal" format="W3CDTF">1921-12-20</COVERAGE>
         <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
@@ -1120,15 +1193,18 @@
         <URN>11686/29465</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:651</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:651</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -1163,7 +1239,8 @@
         <SUBJECT lang="eng">Slovenia</SUBJECT>
         <SUBJECT lang="eng">1921</SUBJECT>
         <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
-        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta 46</IDENTIFIER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta
+            46</IDENTIFIER>
         <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
         <COVERAGE coverageType="Temporal" format="W3CDTF">1921-12-20</COVERAGE>
         <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
@@ -1182,15 +1259,18 @@
         <URN>11686/29464</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:647</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:647</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -1225,7 +1305,8 @@
         <SUBJECT lang="eng">Slovenia</SUBJECT>
         <SUBJECT lang="eng">1921</SUBJECT>
         <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
-        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta 44</IDENTIFIER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta
+            44</IDENTIFIER>
         <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
         <COVERAGE coverageType="Temporal" format="W3CDTF">1921-12-20</COVERAGE>
         <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
@@ -1244,15 +1325,18 @@
         <URN>11686/29463</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:642</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:642</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -1287,7 +1371,8 @@
         <SUBJECT lang="eng">Slovenia</SUBJECT>
         <SUBJECT lang="eng">1921</SUBJECT>
         <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
-        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta 42</IDENTIFIER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta
+            42</IDENTIFIER>
         <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
         <COVERAGE coverageType="Temporal" format="W3CDTF">1921-12-20</COVERAGE>
         <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
@@ -1306,15 +1391,18 @@
         <URN>11686/29462</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:678</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:678</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -1349,7 +1437,8 @@
         <SUBJECT lang="eng">Slovenia</SUBJECT>
         <SUBJECT lang="eng">1921</SUBJECT>
         <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
-        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta 40</IDENTIFIER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta
+            40</IDENTIFIER>
         <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
         <COVERAGE coverageType="Temporal" format="W3CDTF">1921-12-20</COVERAGE>
         <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
@@ -1368,15 +1457,18 @@
         <URN>11686/29461</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:659</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:659</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -1411,7 +1503,8 @@
         <SUBJECT lang="eng">Slovenia</SUBJECT>
         <SUBJECT lang="eng">1921</SUBJECT>
         <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
-        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta 4</IDENTIFIER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta
+            4</IDENTIFIER>
         <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
         <COVERAGE coverageType="Temporal" format="W3CDTF">1921-12-20</COVERAGE>
         <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
@@ -1430,15 +1523,18 @@
         <URN>11686/29460</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:680</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:680</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -1473,7 +1569,8 @@
         <SUBJECT lang="eng">Slovenia</SUBJECT>
         <SUBJECT lang="eng">1921</SUBJECT>
         <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
-        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta 39</IDENTIFIER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta
+            39</IDENTIFIER>
         <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
         <COVERAGE coverageType="Temporal" format="W3CDTF">1921-12-20</COVERAGE>
         <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
@@ -1492,15 +1589,18 @@
         <URN>11686/29459</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:664</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:664</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -1535,7 +1635,8 @@
         <SUBJECT lang="eng">Slovenia</SUBJECT>
         <SUBJECT lang="eng">1921</SUBJECT>
         <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
-        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta 38</IDENTIFIER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta
+            38</IDENTIFIER>
         <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
         <COVERAGE coverageType="Temporal" format="W3CDTF">1921-12-20</COVERAGE>
         <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
@@ -1554,15 +1655,18 @@
         <URN>11686/29458</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:669</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:669</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -1597,7 +1701,8 @@
         <SUBJECT lang="eng">Slovenia</SUBJECT>
         <SUBJECT lang="eng">1921</SUBJECT>
         <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
-        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta 37b</IDENTIFIER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta
+            37b</IDENTIFIER>
         <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
         <COVERAGE coverageType="Temporal" format="W3CDTF">1921-12-20</COVERAGE>
         <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
@@ -1616,15 +1721,18 @@
         <URN>11686/29457</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:687</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:687</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -1659,7 +1767,8 @@
         <SUBJECT lang="eng">Slovenia</SUBJECT>
         <SUBJECT lang="eng">1921</SUBJECT>
         <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
-        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta 37a</IDENTIFIER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta
+            37a</IDENTIFIER>
         <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
         <COVERAGE coverageType="Temporal" format="W3CDTF">1921-12-20</COVERAGE>
         <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
@@ -1678,15 +1787,18 @@
         <URN>11686/29456</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:662</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:662</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -1721,7 +1833,8 @@
         <SUBJECT lang="eng">Slovenia</SUBJECT>
         <SUBJECT lang="eng">1921</SUBJECT>
         <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
-        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta 37</IDENTIFIER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta
+            37</IDENTIFIER>
         <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
         <COVERAGE coverageType="Temporal" format="W3CDTF">1921-12-20</COVERAGE>
         <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
@@ -1740,15 +1853,18 @@
         <URN>11686/29455</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:653</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:653</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -1783,7 +1899,8 @@
         <SUBJECT lang="eng">Slovenia</SUBJECT>
         <SUBJECT lang="eng">1921</SUBJECT>
         <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
-        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta 36</IDENTIFIER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta
+            36</IDENTIFIER>
         <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
         <COVERAGE coverageType="Temporal" format="W3CDTF">1921-12-20</COVERAGE>
         <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
@@ -1802,15 +1919,18 @@
         <URN>11686/29454</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:639</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:639</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -1845,7 +1965,8 @@
         <SUBJECT lang="eng">Slovenia</SUBJECT>
         <SUBJECT lang="eng">1921</SUBJECT>
         <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
-        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta 35</IDENTIFIER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta
+            35</IDENTIFIER>
         <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
         <COVERAGE coverageType="Temporal" format="W3CDTF">1921-12-20</COVERAGE>
         <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
@@ -1864,15 +1985,18 @@
         <URN>11686/29453</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:648</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:648</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -1907,7 +2031,8 @@
         <SUBJECT lang="eng">Slovenia</SUBJECT>
         <SUBJECT lang="eng">1921</SUBJECT>
         <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
-        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta 34</IDENTIFIER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta
+            34</IDENTIFIER>
         <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
         <COVERAGE coverageType="Temporal" format="W3CDTF">1921-12-20</COVERAGE>
         <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
@@ -1926,15 +2051,18 @@
         <URN>11686/29452</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:685</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:685</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -1969,7 +2097,8 @@
         <SUBJECT lang="eng">Slovenia</SUBJECT>
         <SUBJECT lang="eng">1921</SUBJECT>
         <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
-        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta 31</IDENTIFIER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta
+            31</IDENTIFIER>
         <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
         <COVERAGE coverageType="Temporal" format="W3CDTF">1921-12-20</COVERAGE>
         <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
@@ -1988,15 +2117,18 @@
         <URN>11686/29451</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:643</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:643</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -2031,7 +2163,8 @@
         <SUBJECT lang="eng">Slovenia</SUBJECT>
         <SUBJECT lang="eng">1921</SUBJECT>
         <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
-        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta 30</IDENTIFIER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta
+            30</IDENTIFIER>
         <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
         <COVERAGE coverageType="Temporal" format="W3CDTF">1921-12-20</COVERAGE>
         <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
@@ -2050,15 +2183,18 @@
         <URN>11686/29450</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:646</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:646</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -2093,7 +2229,8 @@
         <SUBJECT lang="eng">Slovenia</SUBJECT>
         <SUBJECT lang="eng">1921</SUBJECT>
         <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
-        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta 3</IDENTIFIER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta
+            3</IDENTIFIER>
         <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
         <COVERAGE coverageType="Temporal" format="W3CDTF">1921-12-20</COVERAGE>
         <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
@@ -2112,15 +2249,18 @@
         <URN>11686/29449</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:682</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:682</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -2155,7 +2295,8 @@
         <SUBJECT lang="eng">Slovenia</SUBJECT>
         <SUBJECT lang="eng">1921</SUBJECT>
         <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
-        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta 28</IDENTIFIER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta
+            28</IDENTIFIER>
         <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
         <COVERAGE coverageType="Temporal" format="W3CDTF">1921-12-20</COVERAGE>
         <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
@@ -2174,15 +2315,18 @@
         <URN>11686/29448</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:644</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:644</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -2217,7 +2361,8 @@
         <SUBJECT lang="eng">Slovenia</SUBJECT>
         <SUBJECT lang="eng">1921</SUBJECT>
         <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
-        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta 26</IDENTIFIER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta
+            26</IDENTIFIER>
         <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
         <COVERAGE coverageType="Temporal" format="W3CDTF">1921-12-20</COVERAGE>
         <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
@@ -2236,15 +2381,18 @@
         <URN>11686/29447</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:671</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:671</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -2279,7 +2427,8 @@
         <SUBJECT lang="eng">Slovenia</SUBJECT>
         <SUBJECT lang="eng">1921</SUBJECT>
         <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
-        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta 25</IDENTIFIER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta
+            25</IDENTIFIER>
         <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
         <COVERAGE coverageType="Temporal" format="W3CDTF">1921-12-20</COVERAGE>
         <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
@@ -2298,15 +2447,18 @@
         <URN>11686/29446</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:672</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:672</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -2341,7 +2493,8 @@
         <SUBJECT lang="eng">Slovenia</SUBJECT>
         <SUBJECT lang="eng">1921</SUBJECT>
         <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
-        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta 24</IDENTIFIER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta
+            24</IDENTIFIER>
         <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
         <COVERAGE coverageType="Temporal" format="W3CDTF">1921-12-20</COVERAGE>
         <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
@@ -2360,15 +2513,18 @@
         <URN>11686/29445</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:661</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:661</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -2403,7 +2559,8 @@
         <SUBJECT lang="eng">Slovenia</SUBJECT>
         <SUBJECT lang="eng">1921</SUBJECT>
         <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
-        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta 23</IDENTIFIER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta
+            23</IDENTIFIER>
         <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
         <COVERAGE coverageType="Temporal" format="W3CDTF">1921-12-20</COVERAGE>
         <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
@@ -2422,15 +2579,18 @@
         <URN>11686/29444</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:656</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:656</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -2465,7 +2625,8 @@
         <SUBJECT lang="eng">Slovenia</SUBJECT>
         <SUBJECT lang="eng">1921</SUBJECT>
         <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
-        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta 22</IDENTIFIER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta
+            22</IDENTIFIER>
         <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
         <COVERAGE coverageType="Temporal" format="W3CDTF">1921-12-20</COVERAGE>
         <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
@@ -2484,15 +2645,18 @@
         <URN>11686/29443</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:649</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:649</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -2527,7 +2691,8 @@
         <SUBJECT lang="eng">Slovenia</SUBJECT>
         <SUBJECT lang="eng">1921</SUBJECT>
         <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
-        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta 21</IDENTIFIER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta
+            21</IDENTIFIER>
         <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
         <COVERAGE coverageType="Temporal" format="W3CDTF">1921-12-20</COVERAGE>
         <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
@@ -2546,15 +2711,18 @@
         <URN>11686/29442</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:663</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:663</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -2589,7 +2757,8 @@
         <SUBJECT lang="eng">Slovenia</SUBJECT>
         <SUBJECT lang="eng">1921</SUBJECT>
         <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
-        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta 20</IDENTIFIER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta
+            20</IDENTIFIER>
         <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
         <COVERAGE coverageType="Temporal" format="W3CDTF">1921-12-20</COVERAGE>
         <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
@@ -2608,15 +2777,18 @@
         <URN>11686/29441</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:654</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:654</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -2651,7 +2823,8 @@
         <SUBJECT lang="eng">Slovenia</SUBJECT>
         <SUBJECT lang="eng">1921</SUBJECT>
         <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
-        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta 2</IDENTIFIER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta
+            2</IDENTIFIER>
         <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
         <COVERAGE coverageType="Temporal" format="W3CDTF">1921-12-20</COVERAGE>
         <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
@@ -2670,15 +2843,18 @@
         <URN>11686/29440</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:655</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:655</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -2713,7 +2889,8 @@
         <SUBJECT lang="eng">Slovenia</SUBJECT>
         <SUBJECT lang="eng">1921</SUBJECT>
         <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
-        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta 19</IDENTIFIER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta
+            19</IDENTIFIER>
         <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
         <COVERAGE coverageType="Temporal" format="W3CDTF">1921-12-20</COVERAGE>
         <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
@@ -2732,15 +2909,18 @@
         <URN>11686/29439</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:673</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:673</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -2775,7 +2955,8 @@
         <SUBJECT lang="eng">Slovenia</SUBJECT>
         <SUBJECT lang="eng">1921</SUBJECT>
         <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
-        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta 18</IDENTIFIER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta
+            18</IDENTIFIER>
         <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
         <COVERAGE coverageType="Temporal" format="W3CDTF">1921-12-20</COVERAGE>
         <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
@@ -2794,15 +2975,18 @@
         <URN>11686/29438</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:668</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:668</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -2837,7 +3021,8 @@
         <SUBJECT lang="eng">Slovenia</SUBJECT>
         <SUBJECT lang="eng">1921</SUBJECT>
         <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
-        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta 17</IDENTIFIER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta
+            17</IDENTIFIER>
         <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
         <COVERAGE coverageType="Temporal" format="W3CDTF">1921-12-20</COVERAGE>
         <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
@@ -2856,15 +3041,18 @@
         <URN>11686/29437</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:674</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:674</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -2899,7 +3087,8 @@
         <SUBJECT lang="eng">Slovenia</SUBJECT>
         <SUBJECT lang="eng">1921</SUBJECT>
         <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
-        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta 16</IDENTIFIER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta
+            16</IDENTIFIER>
         <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
         <COVERAGE coverageType="Temporal" format="W3CDTF">1921-12-20</COVERAGE>
         <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
@@ -2918,15 +3107,18 @@
         <URN>11686/29436</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:665</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:665</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -2961,7 +3153,8 @@
         <SUBJECT lang="eng">Slovenia</SUBJECT>
         <SUBJECT lang="eng">1921</SUBJECT>
         <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
-        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta 15</IDENTIFIER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta
+            15</IDENTIFIER>
         <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
         <COVERAGE coverageType="Temporal" format="W3CDTF">1921-12-20</COVERAGE>
         <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
@@ -2980,15 +3173,18 @@
         <URN>11686/29435</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:683</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:683</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -3023,7 +3219,8 @@
         <SUBJECT lang="eng">Slovenia</SUBJECT>
         <SUBJECT lang="eng">1921</SUBJECT>
         <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
-        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta 14</IDENTIFIER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta
+            14</IDENTIFIER>
         <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
         <COVERAGE coverageType="Temporal" format="W3CDTF">1921-12-20</COVERAGE>
         <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
@@ -3042,15 +3239,18 @@
         <URN>11686/29434</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:676</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:676</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -3085,7 +3285,8 @@
         <SUBJECT lang="eng">Slovenia</SUBJECT>
         <SUBJECT lang="eng">1921</SUBJECT>
         <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
-        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta 13</IDENTIFIER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta
+            13</IDENTIFIER>
         <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
         <COVERAGE coverageType="Temporal" format="W3CDTF">1921-12-20</COVERAGE>
         <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
@@ -3104,15 +3305,18 @@
         <URN>11686/29433</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:650</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:650</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -3147,7 +3351,8 @@
         <SUBJECT lang="eng">Slovenia</SUBJECT>
         <SUBJECT lang="eng">1921</SUBJECT>
         <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
-        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta 12</IDENTIFIER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta
+            12</IDENTIFIER>
         <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
         <COVERAGE coverageType="Temporal" format="W3CDTF">1921-12-20</COVERAGE>
         <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
@@ -3166,15 +3371,18 @@
         <URN>11686/29432</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:681</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:681</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -3209,7 +3417,8 @@
         <SUBJECT lang="eng">Slovenia</SUBJECT>
         <SUBJECT lang="eng">1921</SUBJECT>
         <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
-        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta 11</IDENTIFIER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta
+            11</IDENTIFIER>
         <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
         <COVERAGE coverageType="Temporal" format="W3CDTF">1921-12-20</COVERAGE>
         <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
@@ -3228,15 +3437,18 @@
         <URN>11686/29431</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:660</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:660</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -3271,7 +3483,8 @@
         <SUBJECT lang="eng">Slovenia</SUBJECT>
         <SUBJECT lang="eng">1921</SUBJECT>
         <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
-        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta 10</IDENTIFIER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta
+            10</IDENTIFIER>
         <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
         <COVERAGE coverageType="Temporal" format="W3CDTF">1921-12-20</COVERAGE>
         <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
@@ -3290,15 +3503,18 @@
         <URN>11686/29430</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:657</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:657</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -3333,7 +3549,8 @@
         <SUBJECT lang="eng">Slovenia</SUBJECT>
         <SUBJECT lang="eng">1921</SUBJECT>
         <PUBLISHER>Zgodovinski arhiv Ljubljana, Ljubljana</PUBLISHER>
-        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta 1</IDENTIFIER>
+        <IDENTIFIER identifierType="Sistory signatura">SI_ZAL_LJU/504/231/Ižanska cesta
+            1</IDENTIFIER>
         <COVERAGE coverageType="Spatial" attr="">Ljubljana</COVERAGE>
         <COVERAGE coverageType="Temporal" format="W3CDTF">1921-12-20</COVERAGE>
         <ARHIVSKI arhivskiElType="archLevel">dokument</ARHIVSKI>
@@ -3352,15 +3569,18 @@
         <URN>11686/29429</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:637</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:637</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -3414,15 +3634,18 @@
         <URN>11686/29428</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:603</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:603</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -3476,15 +3699,18 @@
         <URN>11686/29427</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:608</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:608</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -3538,15 +3764,18 @@
         <URN>11686/29426</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:604</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:604</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -3600,15 +3829,18 @@
         <URN>11686/29425</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:612</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:612</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -3662,15 +3894,18 @@
         <URN>11686/29424</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:595</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:595</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -3724,15 +3959,18 @@
         <URN>11686/29423</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:617</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:617</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -3786,15 +4024,18 @@
         <URN>11686/29422</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:634</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:634</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -3848,15 +4089,18 @@
         <URN>11686/29421</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:588</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:588</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -3910,15 +4154,18 @@
         <URN>11686/29420</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:618</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:618</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -3972,15 +4219,18 @@
         <URN>11686/29419</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:592</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:592</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -4034,15 +4284,18 @@
         <URN>11686/29418</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:582</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:582</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -4096,15 +4349,18 @@
         <URN>11686/29417</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:633</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:633</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -4158,15 +4414,18 @@
         <URN>11686/29416</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:628</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:628</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -4220,15 +4479,18 @@
         <URN>11686/29415</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:601</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:601</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -4282,15 +4544,18 @@
         <URN>11686/29414</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:596</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:596</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -4344,15 +4609,18 @@
         <URN>11686/29413</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:636</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:636</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -4406,15 +4674,18 @@
         <URN>11686/29412</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:598</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:598</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -4468,15 +4739,18 @@
         <URN>11686/29411</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:625</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:625</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -4530,15 +4804,18 @@
         <URN>11686/29410</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:629</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:629</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -4592,15 +4869,18 @@
         <URN>11686/29409</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:602</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:602</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -4654,15 +4934,18 @@
         <URN>11686/29408</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:623</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:623</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -4716,15 +4999,18 @@
         <URN>11686/29407</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:587</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:587</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -4778,15 +5064,18 @@
         <URN>11686/29406</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:594</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:594</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -4840,15 +5129,18 @@
         <URN>11686/29405</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:635</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:635</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -4902,15 +5194,18 @@
         <URN>11686/29404</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:622</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:622</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -4964,15 +5259,18 @@
         <URN>11686/29403</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:589</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:589</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -5026,15 +5324,18 @@
         <URN>11686/29402</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:621</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:621</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -5088,15 +5389,18 @@
         <URN>11686/29401</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:597</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:597</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -5150,15 +5454,18 @@
         <URN>11686/29400</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:615</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:615</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -5212,15 +5519,18 @@
         <URN>11686/29399</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:600</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:600</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -5274,15 +5584,18 @@
         <URN>11686/29398</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:580</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:580</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -5336,15 +5649,18 @@
         <URN>11686/29397</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:624</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:624</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -5398,15 +5714,18 @@
         <URN>11686/29396</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:632</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:632</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -5460,15 +5779,18 @@
         <URN>11686/29395</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:606</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:606</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -5522,15 +5844,18 @@
         <URN>11686/29394</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:605</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:605</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -5584,15 +5909,18 @@
         <URN>11686/29393</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:611</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:611</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -5646,15 +5974,18 @@
         <URN>11686/29392</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:599</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:599</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -5708,15 +6039,18 @@
         <URN>11686/29391</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:619</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:619</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -5770,15 +6104,18 @@
         <URN>11686/29390</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:590</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:590</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -5832,15 +6169,18 @@
         <URN>11686/29389</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:614</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:614</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -5894,15 +6234,18 @@
         <URN>11686/29388</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:586</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:586</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -5956,15 +6299,18 @@
         <URN>11686/29387</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:584</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:584</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -6018,15 +6364,18 @@
         <URN>11686/29386</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:585</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:585</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -6080,15 +6429,18 @@
         <URN>11686/29385</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:616</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:616</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -6142,15 +6494,18 @@
         <URN>11686/29384</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:593</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:593</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -6204,15 +6559,18 @@
         <URN>11686/29383</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:631</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:631</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -6266,15 +6624,18 @@
         <URN>11686/29382</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:610</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:610</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -6328,15 +6689,18 @@
         <URN>11686/29381</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:607</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:607</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -6390,15 +6754,18 @@
         <URN>11686/29380</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:630</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:630</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -6452,15 +6819,18 @@
         <URN>11686/29379</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:583</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:583</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -6514,15 +6884,18 @@
         <URN>11686/29378</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:609</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:609</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -6576,15 +6949,18 @@
         <URN>11686/29377</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:627</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:627</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -6638,15 +7014,18 @@
         <URN>11686/29376</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:613</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:613</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -6700,15 +7079,18 @@
         <URN>11686/29375</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:626</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:626</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -6762,15 +7144,18 @@
         <URN>11686/29374</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:591</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:591</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -6824,15 +7209,18 @@
         <URN>11686/29373</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:620</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:620</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -6886,15 +7274,18 @@
         <URN>11686/29372</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
         <DATE type="Date" format="W3CDTF">1921-12-20</DATE>
-        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca - Japljeva ul.</MENU_ID>
+        <MENU_ID id="690">SI_ZAL_LJU/0504, t.e. 231, Popis prebivalstva 20. 12. 1921, Ilovca -
+            Japljeva ul.</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
-        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv">sistory/popisi/popis:15/enota:581</RELATION>
+        <RELATION relationType="relation" relationAttr="xml:lang" lang="slv"
+            >sistory/popisi/popis:15/enota:581</RELATION>
         <RIGHTS rightsType="license" lang="eng">Public Domain Mark 1.0</RIGHTS>
         <RIGHTS rightsType="license" lang="slv">Javna domena</RIGHTS>
-        <RIGHTS rightsType="license" rightsAttr="URI">http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
+        <RIGHTS rightsType="license" rightsAttr="URI"
+            >http://creativecommons.org/publicdomain/mark/1.0/</RIGHTS>
         <COPYRIGHT>
             <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
             <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">

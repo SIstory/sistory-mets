@@ -1,4 +1,5 @@
-<root>
+<?xml version="1.0" encoding="UTF-8"?>
+<root xmlns="http://www.sistory.si/schemas/sistory/">
     <publication>
         <ID>36042</ID>
         <URN>11686/36042</URN>
@@ -427,7 +428,7 @@ Avtorske pravice so potekle, delo je v javni domeni.
             <br/>
                     This work (<span property="dct:title"> Trialistični zemljevid habsburške monarhije
                         by<a rel="dct:creator" href="http://www.sistory.si/SISTORY:ID:20803">
-                  <span property="dct:title"> C. in kr. dvorni zemljevidni zavod G. FREYTAG & BERNDT, Dunaj</span>
+                  <span property="dct:title"> C. in kr. dvorni zemljevidni zavod G. FREYTAG &amp; BERNDT, Dunaj</span>
                </a>)</span>,
                     identified by <a href="http://www.sistory.si/" rel="dct:publisher">
                <span property="dct:title">Zgodovina Slovenije - SIstory</span>
@@ -444,7 +445,7 @@ Avtorske pravice so potekle, delo je v javni domeni.
         <SUBJECT lang="eng">map</SUBJECT>
         <SUBJECT lang="eng">Habsburg Monarcy</SUBJECT>
         <SUBJECT lang="eng">trialism</SUBJECT>
-        <PUBLISHER>C. in kr. dvorni zemljevidni zavod G. FREYTAG & BERNDT, Dunaj</PUBLISHER>
+        <PUBLISHER>C. in kr. dvorni zemljevidni zavod G. FREYTAG &amp; BERNDT, Dunaj</PUBLISHER>
         <STATUS>1</STATUS>
         <LOCK>0</LOCK>
         <YEAR>1905</YEAR>
