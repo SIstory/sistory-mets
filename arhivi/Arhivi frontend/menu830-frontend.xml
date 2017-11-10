@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root xmlns="http://sistory.si/schema/sistory/v3/entity">
+   <frontend>
+      <id>37877</id>
+      <files><div id="okvircek">
+                            <aside>
+                                <div class="pub_file">  <a href="/11686/file22774" class="ico">    <img width="64" height="64" src="/images/iskanje/ico-pdf.png" class="ico ico_file_37877" />  </a>  <div class="pub_file_text">    <div><div class="pub_file_key">Ime:</div><div class="pub_file_value">Obravnave_deželnega_zbora_20.8.1870-30.8.1870.pdf</div></div>    <div><div class="pub_file_key">Velikost:</div><div class="pub_file_value">770.92 MB</div></div>    <div><div class="pub_file_key">Format:</div><div class="pub_file_value">application/pdf</div></div>    <div><div class="pub_file_key">Stalna povezava:</div><div class="pub_file_value"><a href="https://hdl.handle.net/11686/file22774">https://hdl.handle.net/11686/file22774</a></div></div>  </div>  <div class="cta">    <a class="pf_download" href="/publikacije/prenos/file/?fileId=22774&download=1"><span><img src="/images/admin/down.png" width="14" class="dlIco" />Prenesi</span></a>    <a class="pf_preview" href="/cdn/publikacije/37001-38000/37877/Obravnave_de%C5%BEelnega_zbora_20.8.1870-30.8.1870.pdf"><span><img src="/images/iskanje/ico-search_silver.png" width="14" class="dlIco" />Odpri</span></a>  </div></div>                            </aside></div></files>
+      <description_sl><section id="opis">
+                <br/>
+                <div class="opis">
+                    <ul class="accordion noborder" data-accordion="" style="margin-left: 0!important">
+                        <li class="accordion-navigation active">
+                            <a href="#panelPodrobenOpis">Podroben opis</a>
+                            <div id="panelPodrobenOpis" class="content active">
+                                <div style="max-width:75rem;overflow:auto">
+                                    <pre>Originalni naslov:
+Obravnave deželnega zbora Kranjskega v Ljubljani v prvi sesiji tretje volitvene dobe od 15. do 30. avgusta 1870.
+Obravnave deželnega zbora Kranjskega v Ljubljani v drugi sesiji tretje volitvene dobe od 14. septembra do 14. oktobra 1871.</pre>                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </section></description_sl>
+      <description_en><section id="opis">
+                <br/>
+                <div class="opis">
+                    <ul class="accordion noborder" data-accordion="" style="margin-left: 0!important">
+                        <li class="accordion-navigation active">
+                            <a href="#panelPodrobenOpis">Detailed description </a>
+                            <div id="panelPodrobenOpis" class="content active">
+                                <div style="max-width:75rem;overflow:auto">
+                                    <pre>Original title:
+Obravnave deželnega zbora Kranjskega v Ljubljani v prvi sesiji tretje volitvene dobe od 15. do 30. avgusta 1870.
+Obravnave deželnega zbora Kranjskega v Ljubljani v drugi sesiji tretje volitvene dobe od 14. septembra do 14. oktobra 1871.</pre>                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </section></description_en>
+   </frontend>
+</root>
