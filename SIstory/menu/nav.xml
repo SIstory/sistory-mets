@@ -15,7 +15,103 @@
       
       <collection id="211" active="false">
          <title lang="slv">Neobjavljeno</title>
+         
+         <collection id="212">
+            <title lang="slv">Teden odprtega dostopa</title>
+            <title lang="eng">Week of open access</title>
+            <menu>
+               <collection:searchResultsShow>One per line</collection:searchResultsShow>
+               <collection:searchResultsSort>Title ascending</collection:searchResultsSort> 
+            </menu>
+            <dublincore>
+               <dcterms:title xml:lang="slv">Teden odprtega dostopa</dcterms:title>
+               <dcterms:title xml:lang="ang">Week of open access</dcterms:title>
+            </dublincore>
+         </collection>
+         
+         <collection id="214">
+            <title lang="slv">Zgodboved</title>
+            <title lang="eng">Zgodboved</title>
+            <menu>
+               <collection:searchResultsShow>One per line</collection:searchResultsShow>
+               <collection:searchResultsSort>Title ascending</collection:searchResultsSort> 
+            </menu>
+            <dublincore>
+               <dcterms:title xml:lang="slv">Zgodboved</dcterms:title>
+               <dcterms:title xml:lang="ang">Zgodboved</dcterms:title>
+            </dublincore>
+         </collection>
+         
+         <collection id="215">
+            <title lang="slv">Poročila</title>
+            <title lang="eng">Reports</title>
+            <menu>
+               <collection:searchResultsShow>One per line</collection:searchResultsShow>
+               <collection:searchResultsSort>Title ascending</collection:searchResultsSort> 
+            </menu>
+            <dublincore>
+               <dcterms:title xml:lang="slv">Poročila</dcterms:title>
+               <dcterms:title xml:lang="ang">Reports</dcterms:title>
+            </dublincore>
+         </collection>
+         
+         <collection id="216">
+            <title lang="slv">Sistem</title>
+            <title lang="eng">System</title>
+            <menu>
+               <collection:searchResultsShow>One per line</collection:searchResultsShow>
+               <collection:searchResultsSort>Title ascending</collection:searchResultsSort> 
+            </menu>
+            <dublincore>
+               <dcterms:title xml:lang="slv">Sistem</dcterms:title>
+               <dcterms:title xml:lang="ang">System</dcterms:title>
+            </dublincore>
+         </collection>
+         
+         <collection id="262">
+            <title lang="slv">Nadgrajena realnost</title>
+            <title lang="eng">Augmented reality</title>
+            <menu>
+               <collection:searchResultsShow>One per line</collection:searchResultsShow>
+               <collection:searchResultsSort>Title ascending</collection:searchResultsSort> 
+            </menu>
+            <dublincore>
+               <dcterms:title xml:lang="slv">Nadgrajena realnost</dcterms:title>
+               <dcterms:title xml:lang="ang">Augmented reality</dcterms:title>
+            </dublincore>
+         </collection>
+         
+         <collection id="330">
+            <title lang="slv">Koledarji</title>
+            <title lang="eng">Calendars</title>
+            <menu>
+               <collection:searchResultsShow>One per line</collection:searchResultsShow>
+               <collection:searchResultsSort>Title ascending</collection:searchResultsSort> 
+            </menu>
+            <dublincore>
+               <dcterms:title xml:lang="slv">Koledarji</dcterms:title>
+               <dcterms:title xml:lang="ang">Calendars</dcterms:title>
+            </dublincore>
+         </collection>
+         
+         <collection id="434">
+            <title lang="slv">Umaknjene publikacije</title>
+            <title lang="eng">Moved publications</title>
+            <menu>
+               <collection:searchResultsShow>One per line</collection:searchResultsShow>
+               <collection:searchResultsSort>Title ascending</collection:searchResultsSort> 
+            </menu>
+            <dublincore>
+               <dcterms:title xml:lang="slv">Umaknjene publikacije</dcterms:title>
+               <dcterms:title xml:lang="ang">Moved publications</dcterms:title>
+            </dublincore>
+         </collection>     
       </collection>
+<!--Izvoz publikacij "Neobjavljeno" v XML zapisu-->
+      
+      
+      
+      
       
       <collection id="1">
          <title lang="slv">Viri</title>
@@ -33,6 +129,8 @@
             <dcterms:description>Uporabite tiskane, arhivske in ustne vire, ki jih za vas  zbiramo na enem mestu. Prebrskajte bogate zbirke podatkov in si oglejte slikovno gradivo.</dcterms:description>
             <dcterms:description xml:lang="eng">Use printed, archive and oral sources gathered for you in one place. Browse through extensive databases and visual materials.</dcterms:description>
          </dublincore>
+         
+         
          
          <collection id="13">
             <title lang="slv">Arhivski viri</title>
