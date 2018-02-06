@@ -109,6 +109,20 @@
     </xs:simpleType>
   </xs:element>
   
+  <xs:element name="tag">
+    <xs:annotation>
+      <xs:documentation xml:lang="sl">SIstory številčni identifikator taga. 
+        Opcijski atribut label (vedno v angleščini) samo zaradi morebitnega prenosa podatkov v druge repozitorije.</xs:documentation>
+    </xs:annotation>
+    <xs:complexType>
+      <xs:simpleContent>
+        <xs:extension base="xs:positiveInteger">
+          <xs:attribute name="label" type="xs:string"/>
+        </xs:extension>
+      </xs:simpleContent>
+    </xs:complexType>
+  </xs:element>
+  
   <xs:group name="elementsGroup">
     <xs:sequence>
       <xs:choice>
@@ -116,10 +130,9 @@
         <xs:element ref="description" minOccurs="0" maxOccurs="unbounded"/>
         <xs:element ref="wholeContent" minOccurs="0"/>
         <xs:element ref="externalCollection" minOccurs="0"/>
-        <!-- JE ŠE POTREBNO Povezava na publikacijo????????????? -->
-        
         <xs:element ref="searchResultsSort"/>
         <xs:element ref="searchResultsShow"/>
+        <xs:element ref="tag" minOccurs="0" maxOccurs="unbounded"/>
       </xs:choice>
     </xs:sequence>
   </xs:group>

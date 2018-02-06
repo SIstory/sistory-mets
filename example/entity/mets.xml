@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- se v METS:mets/@ID generira za oznako "entity." unikatni številčni ID repozitorija si4 -->
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+    xmlns:xlink="http://www.w3.org/TR/xlink"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+    xmlns:premis="http://www.loc.gov/premis/v3"
+    xmlns:mods="http://www.loc.gov/mods/v3"
+    ID="entity."
+    TYPE="entity"
+    OBJID="http://hdl.handle.net/11686/36113"
+    xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd
+                        http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd
+                        http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd
+                        http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
+    <METS:metsHdr CREATEDATE="2016-12-07T11:25:58" LASTMODDATE="2016-12-08T07:21:21" RECORDSTATUS="Active">
+        <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+            <METS:name>SIstory</METS:name>
+            <METS:note>http://sistory.si/</METS:note>
+        </METS:agent>
+        <METS:agent ROLE="CREATOR" ID="user.11" TYPE="INDIVIDUAL">
+            <METS:name>Pančur, Andrej</METS:name>
+        </METS:agent>
+    </METS:metsHdr>
+    <METS:dmdSec ID="default.dc">
+        <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+            <METS:xmlData>
+                <!-- ime in priimek avtorja se po novem zapisuje ločeno z vejico v dc:creator Pančur, Andrej -->
+                <!-- razen dc:title so vsi ostali metapodatki opcijski -->
+                <dcterms:title xml:lang="slv">Prispevki za novejšo zgodovino, 2015, No. 3</dcterms:title>
+                <dcterms:title xml:lang="eng">Complex Parliaments in Transition</dcterms:title>
+                <dcterms:title xml:lang="eng">Central European Federations Facing Regime Change</dcterms:title>
+                <dcterms:publisher>Inštitut za novejšo zgodovino, Ljubljana</dcterms:publisher>
+                <dcterms:indentifier xsi:type="dcterms:URI">http://ojs.inz.si/pnz/issue/view/8</dcterms:indentifier>
+                <dcterms:date>2015</dcterms:date>
+                <!-- Za izpis tega podatka na SIstory se naredi prevodna tabela. V tem primeru bi tabelo dopolnili, da bi lahko dodajali tudi dvoznakovne kode. -->
+                <dcterms:language>eng</dcterms:language>
+                <!-- Sistory Type ukinemo: Ga mapiramo v dcterms:type (in jih hkrati prevedemo). -->
+                <dcterms:type xsi:type="dcterms:DCMIType">Text</dcterms:type>
+                <!-- Ukinemo Avtorske pravice kot HTML kodo.
+                     V veliki večini namreč uporabljamo samo Creative Commons licence,
+                     zato bo HTML za te licence raje prikazalo programsko s pretvorbo iz licence URI oznake.
+                -->
+                <dcterms:license xsi:type="dcterms:URI">http://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+                <!-- sistory collection se mapira v isPartOf, hkrati se lahko zapiše v spodnji /METS:mets/METS:dmdSec[@ID='mods'] kot mods:mods/mods:relatedItem[@type='series'] -->
+                <dcterms:isPartOf>Zbirka monografije; 4</dcterms:isPartOf>
+            </METS:xmlData>
+        </METS:mdWrap>
+    </METS:dmdSec>
+    <METS:amdSec ID="default.amd">
+        <METS:techMD ID="default.premis">
+            <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+                <METS:xmlData>
+                    <premis:objectIdentifier>
+                        <premis:objectIdentifierType>si4</premis:objectIdentifierType>
+                        <!-- se generira številčni ID ob uvozu v si4 -->
+                        <premis:objectIdentifierValue></premis:objectIdentifierValue>
+                    </premis:objectIdentifier>
+                    <premis:objectIdentifier>
+                        <premis:objectIdentifierType>Local name</premis:objectIdentifierType>
+                        <premis:objectIdentifierValue>36113</premis:objectIdentifierValue>
+                    </premis:objectIdentifier>
+                    <premis:objectIdentifier>
+                        <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                        <premis:objectIdentifierValue>http://hdl.handle.net/11686/36113</premis:objectIdentifierValue>
+                    </premis:objectIdentifier>
+                    <premis:objectCategory>Entity</premis:objectCategory>
+                </METS:xmlData>
+            </METS:mdWrap>
+        </METS:techMD>
+        <!-- Za si4 aplikacijo potrebni dodatni administrativni tehnični metapodki (use characteristics): 
+        XML shemo, ki jo sedaj dostopam lokalno, obvezno shrani na primernem mestu na SIstory!!!!! -->
+        <METS:techMD ID="default.si4">
+            <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+                <METS:xmlData xmlns:entity="http://sistory.si/schema/sistory/v3/entity" xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+                    <!-- Nujno dodamo leto??? Jaz bi to odstranil!! -->
+                    <entity:description xml:lang="slv">Opisni podatki za slovensko stran, skupaj z morebitnimi <strong>html</strong>.</entity:description>
+                    <!-- sem se vstavi polje Stran publikacije  -->
+                    <entity:page>1</entity:page>
+                    <!-- Sem se vstavi polje URL umaknjene publikacije.
+                         Debata: Naredili bi dve možnosti:
+                           - isto kot sedaj za umaknjeno publikacijo, ki te potem, ko ti pove,
+                             da je digitalni objekt umaknjen, preusmeri na nov naslov;
+                           - če se v repositorij naloži novo verzijo digitalnega objekta,
+                             se pojavi popup, ki te seznani s tem in ti da na izbiro:
+                                - da pogledaš nov digitalni objekt (nato preusmeritev na njega);
+                                - da vseeno pogledaš to verzijo.
+                    -->
+                    <entity:removedTo></entity:removedTo>
+                    <!-- podatke za tage bi odstranili -->
+                </METS:xmlData>
+            </METS:mdWrap>
+        </METS:techMD>
+    </METS:amdSec>
+    <METS:fileSec ID="default.file" xmlns:xlink="http://www.w3.org/1999/xlink">
+        <!-- dodan thumbnail -->
+        <METS:fileGrp USE="THUMB">
+            <METS:file ID="thumbnail" OWNERID="PNZ-2015-3-naslovnica.png">
+                <METS:FLocat LOCTYPE="URL" xlink:href="http://www.sistory.si/cdn/publikacije/36001-37000/36113/PNZ-2015-3-naslovnica.png"/>
+            </METS:file>
+        </METS:fileGrp>
+        <METS:fileGrp USE="DEFAULT">
+            <!-- Primer povezave na datoteko s svojim mets.xml -->
+            <METS:file ID="file.1" OWNERID="PNZ-2015-3.pdf">
+                <METS:FLocat LOCTYPE="HANDLE" xlink:href="https://hdl.handle.net/11686/file22731"/>
+            </METS:file>
+            <!-- Primer za HTTP link -->
+            <METS:file ID="external.1" USE="EXTERNAL">
+                <METS:FLocat USE="HTTP" LOCTYPE="URL" xlink:href="http://ojs.inz.si/pnz/issue/view/8"/>
+            </METS:file>
+            <!-- Primer za YouTube video kodo  -->
+            <!-- V primeru video predstavitev bo potrebno napisati posebno kodo, ki bo povezavo iz href atributa umestil v generično kodo za video prikaz -->
+            <METS:file ID="external.2" USE="EXTERNAL">
+                <METS:FLocat USE="YOUTUBE" LOCTYPE="URL" xlink:href="http://www.youtube.com/embed/6HvZKFT90zw"/>
+            </METS:file>
+        </METS:fileGrp>
+        <!-- Primer posebne HTML skupine dokumentov -->
+        <METS:fileGrp USE="HTML">
+            <METS:file ID="file.2" OWNERID="index.html">
+                <METS:FLocat LOCTYPE="HANDLE" xlink:href="https://hdl.handle.net/11686/file18649"/>
+            </METS:file>
+            <METS:file ID="file.3" OWNERID="impressum.html">
+                <METS:FLocat LOCTYPE="HANDLE" xlink:href="https://hdl.handle.net/11686/file18650"/>
+            </METS:file>
+            <METS:file ID="file.4" OWNERID="teiHeader.html">
+                <METS:FLocat LOCTYPE="HANDLE" xlink:href="https://hdl.handle.net/11686/file18651"/>
+            </METS:file>
+            <METS:file ID="file.5" OWNERID="tocJournal.html">
+                <METS:FLocat LOCTYPE="HANDLE" xlink:href="https://hdl.handle.net/11686/file18652"/>
+            </METS:file>
+            <METS:file ID="file.6" OWNERID="tipuesearch_content.js">
+                <METS:FLocat LOCTYPE="HANDLE" xlink:href="https://hdl.handle.net/11686/file18733"/>
+            </METS:file>
+        </METS:fileGrp>
+    </METS:fileSec>
+    <METS:structMap ID="default.structure" TYPE="primary" xmlns:xlink="http://www.w3.org/1999/xlink">
+        <METS:div TYPE="collection">
+            <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/menu76"/>
+            <METS:div TYPE="entity" DMDID="default.dc" ADMID="default.amd">
+                <METS:fptr FILEID="thumbnail"/>
+                <METS:fptr FILEID="external.1"/>
+                <METS:fptr FILEID="external.2"/>
+                <METS:fptr FILEID="file.1"/>
+                <METS:fptr FILEID="file.2"/>
+                <METS:fptr FILEID="file.3"/>
+                <METS:fptr FILEID="file.4"/>
+                <METS:fptr FILEID="file.5"/>
+                <!-- Child entitete.  -->
+                <!-- Problem vrstnega reda prikazovanja -->
+                <METS:div TYPE="entity">
+                    <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/36114"/>
+                </METS:div>
+                <METS:div TYPE="entity">
+                    <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/36115"/>
+                </METS:div>
+                <METS:div TYPE="entity">
+                    <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/36116"/>
+                </METS:div>
+                <METS:div TYPE="entity">
+                    <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/36117"/>
+                </METS:div>
+                <METS:div TYPE="entity">
+                    <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/36118"/>
+                </METS:div>
+                <METS:div TYPE="entity">
+                    <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/36119"/>
+                </METS:div>
+                <METS:div TYPE="entity">
+                    <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/36120"/>
+                </METS:div>
+                <METS:div TYPE="entity">
+                    <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/36121"/>
+                </METS:div>
+                <METS:div TYPE="entity">
+                    <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/36122"/>
+                </METS:div>
+                <METS:div TYPE="entity">
+                    <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/36123"/>
+                </METS:div>
+            </METS:div>
+        </METS:div>
+    </METS:structMap>
+    
+</METS:mets>

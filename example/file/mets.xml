@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- se v METS:mets/@ID generira za oznako "file." unikatni številčni ID repozitorija si4 -->
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+    xmlns:xlink="http://www.w3.org/TR/xlink"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+    xmlns:premis="http://www.loc.gov/premis/v3"
+    xmlns:mods="http://www.loc.gov/mods/v3"
+    ID="file."
+    TYPE="file"
+    OBJID="http://hdl.handle.net/11686/file22731"
+    xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd
+                        http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd
+                        http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd
+                        http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
+    <METS:metsHdr CREATEDATE="2016-12-07T11:25:58" LASTMODDATE="2016-12-08T07:21:21" RECORDSTATUS="Active">
+        <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+            <METS:name>SIstory</METS:name>
+            <METS:note>http://sistory.si/</METS:note>
+        </METS:agent>
+        <METS:agent ROLE="CREATOR" ID="user.11" TYPE="INDIVIDUAL">
+            <METS:name>Pančur, Andrej</METS:name>
+        </METS:agent>
+    </METS:metsHdr>
+    <!-- Opcijski Dublin Core opisni metapodatki za datoteko -->
+    <METS:dmdSec ID="default.dc">
+        <METS:mdWrap MDTYPE="DC">
+            <METS:xmlData>
+                <!-- Prikaže na frontednu kot Naslov -->
+                <dcterms:title>Prispevki za novejšo zgodovino, 2015, No. 3, Complex Parliaments in Transition: Central European Federations Facing Regime Change</dcterms:title>
+                <!-- Prikaže kot Opis -->
+                <dcterms:description>Master PDF file</dcterms:description>
+            </METS:xmlData>
+        </METS:mdWrap>
+    </METS:dmdSec>
+    <METS:amdSec ID="default.amd">
+        <METS:techMD ID="default.premis">
+            <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+                <METS:xmlData>
+                    <premis:objectIdentifier>
+                        <premis:objectIdentifierType>si4</premis:objectIdentifierType>
+                        <!-- se generira številčni ID ob uvozu v si4 -->
+                        <premis:objectIdentifierValue></premis:objectIdentifierValue>
+                    </premis:objectIdentifier>
+                    <premis:objectIdentifier>
+                        <premis:objectIdentifierType>Local name</premis:objectIdentifierType>
+                        <premis:objectIdentifierValue>file18649</premis:objectIdentifierValue>
+                    </premis:objectIdentifier>
+                    <premis:objectIdentifier>
+                        <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                        <premis:objectIdentifierValue>http://hdl.handle.net/11686/file18649</premis:objectIdentifierValue>
+                    </premis:objectIdentifier>
+                    <premis:objectCategory>File</premis:objectCategory>
+                </METS:xmlData>
+            </METS:mdWrap>
+        </METS:techMD>
+    </METS:amdSec>
+    <METS:fileSec ID="default.file" xmlns:xlink="http://www.w3.org/1999/xlink">
+        <METS:fileGrp>
+            <!-- privzeta vrednost atributa @ID je file -->
+            <METS:file ID="file" OWNERID="PNZ-2015-3.pdf" MIMETYPE="application/pdf" CREATED="2016-12-07T11:25:58" SIZE="2338324" DMDID="default.dc">
+                <!-- lahko pa spodnjo href povezavo zapišemo tudi s pomočjo prefiksa, npr. file:PNZ-2015-3.pdf,
+                     ki bi predstavljal pot http://www.sistory.si/cdn/publikacije/36001-37000/36113/ -->
+                <METS:FLocat LOCTYPE="URL" xlink:href="PNZ-2015-3.pdf"/>
+            </METS:file>
+        </METS:fileGrp>
+    </METS:fileSec>
+    <!-- V structMap prikažemo, kateri datoteki entiteta pripada. Na ta način posledično tudi vemo za cdn URL od datoteke. -->
+    <METS:structMap ID="default.structure" xmlns:xlink="http://www.w3.org/1999/xlink">
+        <METS:div TYPE="entity">
+            <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/36113"/>
+            <METS:div TYPE="file">
+                <METS:fptr FILEID="file"/>
+            </METS:div>
+        </METS:div>
+    </METS:structMap>
+    
+</METS:mets>
+

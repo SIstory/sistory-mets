@@ -1,36 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Zbirka/collection označena z atributom TYPE.
-     To ime je v repozitoriju rezervirano samo za ta namen in se ga za razliko od TYPE entity ne sme spreminjati.
-     Posledično je rezervirana tudi oznaka LABEL za to, da označimo, 
-     ali zbirka pripada zgornjemu (nav) ali spodnjemu (footer) menuju repozitorija.
--->
-<!-- 
-    PROBLEM: Ker sedaj na novo potrebujemo tudi izhodiščni nav in footer zbirko, 
-             jima moramo dati nove identifikacijske številke za relacijsko bazo.
-             Številki 1 in 2 pa sta že zasedeni!
-             Zato morata dobiti trenutno najvišji novi številki!
-             Jaz pa ne vem, kateri številki sta to. Lahko tudi vzamem številki trenutno praznih map 
-             (npr. nekdanji številki menija Zgodovina in šola (4) za nav)!
--->
+<!-- se v METS:mets/@ID generira za oznako "collection." unikatni številčni ID repozitorija si4 -->
 <METS:mets xmlns:METS="http://www.loc.gov/METS/"
     xmlns:xlink="http://www.w3.org/TR/xlink"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:dc="http://purl.org/dc/elements/1.1/"
     xmlns:dcterms="http://purl.org/dc/terms/" 
     xmlns:dcmitype="http://purl.org/dc/dcmitype/"
-    xmlns:premis="http://www.loc.gov/standards/premis/v1"
+    xmlns:premis="http://www.loc.gov/premis/v3"
     xmlns:mods="http://www.loc.gov/mods/v3"
+    ID="collection."
     TYPE="collection" 
-    LABEL="nav"
-    OBJID="http://hdl.handle.net/11686/36113"
+    OBJID="http://hdl.handle.net/11686/menu76"
     xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd
-    http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd
-    http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd
-    http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
-    <!-- Aktiven = @RECORDSTATUS='Active'
-         @CREATEDATE = kdaj smo prvič shanili podatke o zbirki
-         @LASTMODDATE = kdaj smo nazadnje shranili podatke o zbirki
-    -->
+    http://purl.org/dc/terms/ http://www.dublincore.org/schemas/xmls/qdc/dcterms.xsd
+    http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd
+    http://www.loc.gov/standards/premis/v1 https://www.loc.gov/standards/premis/premis.xsd">
     <METS:metsHdr CREATEDATE="2016-12-07T11:25:58" LASTMODDATE="2016-12-08T07:21:21" RECORDSTATUS="Active">
         <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
             <METS:name>SIstory</METS:name>
@@ -40,7 +24,7 @@
             <METS:name>Pančur, Andrej</METS:name>
         </METS:agent>
     </METS:metsHdr>
-    <METS:dmdSec ID="dc.menu76" GROUPID="menu76">
+    <METS:dmdSec ID="default.dc">
         <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
             <METS:xmlData>
                 <dcterms:title xml:lang="slv">Prispevki za novejšo zgodovino</dcterms:title>
@@ -55,28 +39,29 @@
             </METS:xmlData>
         </METS:mdWrap>
     </METS:dmdSec>
-    <!-- Tukaj so shranjeni glavni administrativni metapodatki te zbirke, predvsem njegov identifikator -->
-    <!-- V id dodamo pri entitetah vedno vrednost entity, pri zbirkah pa collection -->
-    <METS:amdSec ID="collection">
+    <METS:amdSec ID="default.amd">
         <!-- v premis:object je najprej zapisan identifikator te entitete tako v relacijski bazi kot handle različica -->
-        <METS:techMD ID="premis.menu76">
+        <METS:techMD ID="default.premis">
             <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
                 <METS:xmlData>
-                    <premis:object>
-                        <premis:objectIdentifier>
-                            <premis:objectIdentifierType>Repository Collection ID</premis:objectIdentifierType>
-                            <premis:objectIdentifierValue>76</premis:objectIdentifierValue>
-                        </premis:objectIdentifier>
-                        <premis:objectIdentifier>
-                            <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
-                            <premis:objectIdentifierValue>11686/menu76</premis:objectIdentifierValue>
-                        </premis:objectIdentifier>
-                        <premis:objectCategory>Collection</premis:objectCategory>
-                    </premis:object>
+                    <premis:objectIdentifier>
+                        <premis:objectIdentifierType>si4</premis:objectIdentifierType>
+                        <!-- se generira številčni ID ob uvozu v si4 -->
+                        <premis:objectIdentifierValue></premis:objectIdentifierValue>
+                    </premis:objectIdentifier>
+                    <premis:objectIdentifier>
+                        <premis:objectIdentifierType>Local name</premis:objectIdentifierType>
+                        <premis:objectIdentifierValue>menu76</premis:objectIdentifierValue>
+                    </premis:objectIdentifier>
+                    <premis:objectIdentifier>
+                        <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                        <premis:objectIdentifierValue>http://hdl.handle.net/11686/menu76</premis:objectIdentifierValue>
+                    </premis:objectIdentifier>
+                    <premis:objectCategory>Collection</premis:objectCategory>
                 </METS:xmlData>
             </METS:mdWrap>
         </METS:techMD>
-        <METS:techMD ID="collection.menu76">
+        <METS:techMD ID="default.si4">
             <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="COLLECTION" MIMETYPE="text/xml">
                 <METS:xmlData xmlns:collection="http://sistory.si/schema/sistory/v3/collection" xsi:schemaLocation="http://sistory.si/schema/sistory/v3/collection ../../v3/collection.1.0.xsd">
                     <collection:title xml:lang="slv">Prispevki za novejšo zgodovino</collection:title>
@@ -93,23 +78,24 @@
             </METS:mdWrap>
         </METS:techMD>
     </METS:amdSec>
-    <!-- Označeno, da je ta zbirka dependent. 
-         Razen root zbirk za zgornji in spodnji menu, ki nista prikazani na portali, so vse ostale zbirke dependent -->
-    <!-- Z LABEL označimo ime repozitorija. tudi ostala pravila enaka kot pri entitetah. -->
-    <METS:structMap TYPE="dependent" LABEL="SIstory" xmlns:xlink="http://www.w3.org/1999/xlink">
-        <!-- če je dependent collection, je vedno najprej njegova neposredna parent zbirka -->
+    <METS:structMap ID="default.structure" TYPE="dependent" xmlns:xlink="http://www.w3.org/1999/xlink">
         <METS:div TYPE="collection">
-            <!-- handle povezava na parent zbirko -->
             <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/menu16"/>
-            <!-- Potem takoj sledi zbirke tega mets.xml -->
-            <!-- Z DMID in ADMID označeno, da je to ta zbirka -->
-            <!-- v ORDER atribut se zapiše Vrstni red iz trenutnega admina.
-                 Bi bilo verjetno bolj smiselno ta podatek zapisati samo v mets.xml parenta te zbirke?!
-            -->
-            <METS:div TYPE="collection" DMDID="dc.menu76" ADMID="collection" ORDER="60">
-                <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/menu76"/>
+            <METS:div TYPE="collection" DMDID="default.dc" ADMID="default.amd">
                 <!-- nato sledijo morebitne child zbirke -->
+                <METS:div TYPE="collection">
+                    <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/childcollection"/>
+                </METS:div>
             </METS:div>
         </METS:div>
     </METS:structMap>
+    <METS:behaviorSec ID="default.behavior" xmlns:xlink="http://www.w3.org/1999/xlink">
+        <!-- Prevzeta vrednost atributa @BTYPE je collection.
+             Če pa je dodatni metapodatkovni model, potem je druga vrednost, npr. journal, data ipd.
+        -->
+        <METS:behavior BTYPE="collection">
+            <!-- URL prelje do XML sheme, s katero se parsa mets dokumente za ElasticSearch -->
+            <METS:mechanism LOCTYPE="URL" xlink:href="http://sistory.si/resources/assets/xsd/default/mets.xsd"/>
+        </METS:behavior>
+    </METS:behaviorSec>
 </METS:mets>
