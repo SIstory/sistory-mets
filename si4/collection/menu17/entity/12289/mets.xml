@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           ID="entity."
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/12289">
+   <METS:metsHdr CREATEDATE="2012-10-03T11:05:27"
+                 LASTMODDATE="2017-02-14T08:51:44"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name>Meden, Katja</METS:name>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="default.dc">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="slv">"Pfuj! To je gerdo!"</dcterms:title>
+            <dcterms:title xml:lang="slv">K zgodovini morale na Slovenskem v dobi meščanstva</dcterms:title>
+            <dcterms:alternative xml:lang="eng">Fie! That’s ugly!</dcterms:alternative>
+            <dcterms:alternative xml:lang="eng">Towards a History of Morality in Slovenia in the 19th Century</dcterms:alternative>
+            <dcterms:creator>Polajnar, Janez</dcterms:creator>
+            <dcterms:description xml:lang="slv">Nravstvena zgodovina (Sittengeschichte) predstavlja v slovenskem zgodovinopisju nekakšno belo liso in izpuščeno poglavje. Izpostaviti je potrebno, da so se mnogi slovenski zgodovinarji že ukvarjali s temami, ki so sestavni del nravstvene zgodovine po Hobsbawmu dolgega stoletja meščanstva (npr. prostitucije, homoseksualnosti, vloge žensk, zgodovine telesa, mode, seksualni delikti, ipd.), a celovitega poskusa opredelitve nravstvenih razmer v dobi meščanstva na Slovenskem v slovenski historiografiji ni najti. Pričujoče delo poskuša predstaviti nravnost, njen razvoj, pomen in veljavo v družbi v drugi polovici 19. in na začetku 20. stoletja. Knjiga poskuša prikazati velik razkorak med pričakovanji in nauki moralistov na eni strani in vsakdanjim življenjem (prakso) ljudi na drugi strani. Poskuša predstaviti razkorak med priporočljivim in dejanskim, ki se najbolj kaže oz. odraža v neprestanem ponavljanju spisov z vselej enako ali vsaj močno podobno vzgojno-moralno vsebino.</dcterms:description>
+            <dcterms:description xml:lang="eng">This work will attempt to present morals and their development, implications, and weight in society during the second half of the nineteenth century and first half of the twentieth century. It will attempt to illustrate the discrepancy between the expectations and teachings of the moralists on the one hand and people’s everyday lives (practices) on the other. This gap between the desired and actual state of things can be most easily recognized in the unceasing repetitiveness of writings marked by uniform pedagogic-moral content. In Slovenia, this phenomenon had several unique characteristics. Unlike, for example, the German (Protestant) states, the lessons on a moral life being taught in Slovenia were marked by the fear of damnation highly typical of Catholicism. Catholic pedagogues and other writers placed significantly greater emphasis on the value of virginity and modesty on the one hand and the gravity and filthiness of impurity on the other. Furthermore, moral lessons were to remain the province of priest-pedagogues (the inclusion of physicians was a rarer occurrence, although certain notable example from the nineteenth century can be found). It was precisely the fear of damnation which prevented Catholic moralists from discussing at length pathological masturbation and similar subjects. In order to meet with maximum success in presenting the dangers of impure sin, they quickly resorted to rather graphic descriptions of the bog of filth into which impure souls are in danger of sinking. Until the eighteenth century, the rules and norms for behaviour had been set down in the framework of structurally delineated morals, and were thus far from universal. The lowest classes were so distant and isolated in the social hierarchy that the rules and norms pertaining to them were completely different. For example, certain acts deemed morally unacceptable in the company of persons equal in terms of class (changing clothes, for example) did not elicit the same negative response when done in the company of social inferiors (servants, etc.). As Norbert Elias has noted, the feeling of shame has a highly social function, and was developed to suit the social structure. In short, there exist individuals, in the presence of whom one does not feel shame as a result of certain actions. Such blatantly “structurally organized” public morality began to change with the new epoch – in particular, with the rise of the bourgeois in the eighteenth century: “It was relatively late – when, compared with earlier times, the bourgeois classes as mass classes with a large number of social equals became the upper, ruling classes – that the family became the only or, specifically, primary and decisive ground for establising control over urges; it was only then that the earliest social dependence, the dependence of children upon their parents, became especially important and an intensive source of the regulation and modeling of affections that society demanded.” Through the civilizing process, bourgeois society defined standards and norms for behaviour which, they were becoming more universal, were primarily part of the bourgeois milieu. Because norms were more and more becoming demands, and required an ever greater degree of confidentiality, the enforcement of these values through pedagogy and supervision was transformed into a personal quality – into internalized compulsion or self-control over urges – in the case of individuals where this self-control was particularly well-developed, it could also lead to serious problems later in life. The “first” or wedding night and the problem of keeping young people in complete ignorance was addressed by Henrik Tuma in one edition of his extensive discussion Problem seksualnosti [The Problem of Sexuality], which was published in the journal Naši Zapiski [Our Notes]: “Nowhere does pedagogy show itself to be more senseless than with weddings. This is a moment when all the hypocrisy of pedagogy and marriage is concentrated. The symbols of purity, sanctity, the holiness of the ceremonies, and the sentimentality of the family on the one hand; and then, without a transition, the animalistic onslaught of the husband in the wedding bed...The history of marriages shows that the cause of unhappy marriages is most often an ignorance of sexual functions and motherhood. Before her wedding, a girl is familiar with nothing but the abstract, pure love for an ideal man who only exists in fantasies and not in reality, and is unaware of sexual intercourse and of an excessively shy nature. The affect of the first brutal night – and antipathy takes the place of sympathy – disappointment.” Due to the ever greater influence of new, “modern”, bourgeois values, the threshold of feelings of shame and discomfort had begun to move. Sex and the pleasure derived from it were ever more linked to disgust and moral decline. With their prayer books, educational booklets, and writings, the pedagogues and moralists of the nineteenth century attempted to at least partially set this threshold in other classes as well. Edith Saurer wrote about the widespread phenomenon of women’s prayer booklets in the Austrian German lands at the end of the eighteenth century. “At the end of the eighteenth century and the beginning of the nineteenth century, a number of large shifts occurred in the book market. The triumphant march of the novel, which was read mostly by women, upset the state and the Church, which viewed female fantasies as harmful. Church and state functionaries even came up with a number of warnings and presented them to the people. There was also an opposite strategy. Priests, in particular friars and catechists viewed the novel as a challenge and increased the production and changed the content of pious books. This new content also led to the development of a new kind of prayer book – women’s prayer books.” A similar phenomenon can also be noted in Slovenia, although somewhat later. Prayer books were especially popular as moral-pedagogic tools throughout the entire nineteenth century. Nearly all prayer books enjoyed several reprintings, and those written by Anton Martin Slomšek particularly stand out. As the nineteenth century came to a close, the sex life of the individual was becoming a more or less well-formed construct of public interest under the auspices of society and the state. None the less, the ever greater changes would serve to make it the subject of ever more obvious interest. The moral teachings which, together with medicine, had synthesized a science from sex and dealt with the impact of sex on behaviour and the health of the individual in the existing social order and consequently on public morals, faced new challenges, such as the ever greater circulation of pulp novels and cinema.</dcterms:description>
+            <dcterms:subject xml:lang="slv">morala</dcterms:subject>
+            <dcterms:subject xml:lang="slv">zgodovina</dcterms:subject>
+            <dcterms:subject xml:lang="slv">19./20. stoletje</dcterms:subject>
+            <dcterms:subject xml:lang="slv">Slovenija</dcterms:subject>
+            <dcterms:subject xml:lang="eng">morality</dcterms:subject>
+            <dcterms:subject xml:lang="eng">history</dcterms:subject>
+            <dcterms:subject xml:lang="eng">19./20. century</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Slovenia</dcterms:subject>
+            <dcterms:publisher>Zgodovinsko društvo Celje, Celje</dcterms:publisher>
+            <dcterms:contributor>Marija Počivavšek (ur.)</dcterms:contributor>
+            <dcterms:contributor>Tone Kregar (odg. ur.)</dcterms:contributor>
+            <dcterms:contributor>Michael C. Jumič (prev. ang.)</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2008</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">Text</dcterms:type>
+            <dcterms:identifier>COBISS.SI-ID 242286080</dcterms:identifier>
+            <dcterms:language xsi:type="dcterms:ISO639-3">slv</dcterms:language>
+            <dcterms:isPartOf>Zgodovini.ce ; 8</dcterms:isPartOf>
+            <dcterms:isPartOf xsi:type="dcterms:URI">http://hdl.handle.net/11686/4821</dcterms:isPartOf>
+            <dcterms:license xsi:type="dcterms:URI">http://creativecommons.org/licenses/by-nc-nd/2.5/si/</dcterms:license>
+            <dcterms:license xml:lang="slv">Priznanje avtorstva-Nekomercialo-Brez predelav 2.5 Slovenija (CC BY-NC-ND 2.5 SI)</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:dmdSec ID="default.mods">
+      <METS:mdWrap MDTYPE="MODS" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <mods:mods>
+               <mods:relatedItem type="series">
+                  <mods:relatedItem type="series">
+                     <mods:titleInfo>
+                        <mods:title>Zgodovini.ce</mods:title>
+                     </mods:titleInfo>
+                     <mods:part>
+                        <mods:detail type="volumens">
+                           <mods:number>8</mods:number>
+                        </mods:detail>
+                     </mods:part>
+                  </mods:relatedItem>
+               </mods:relatedItem>
+            </mods:mods>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="default.amd">
+      <METS:techMD ID="default.premis">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>si4</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue/>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>Local name</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>12289</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>http://hdl.handle.net/11686/12289</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectCategory>Entity</premis:objectCategory>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="default.si4">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity"/>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink" ID="default.file">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="file4758" OWNERID="ZgodoviniCE-8-Polajnar.pdf">
+            <METS:FLocat LOCTYPE="HANDLE" xlink:href="https://hdl.handle.net/11686/file4758"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   ID="default.structure"
+                   TYPE="primary">
+      <METS:div TYPE="collection">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/menu17"/>
+         <METS:div TYPE="entity" DMDID="default.dc default.mods" ADMID="default.amd">
+            <METS:fptr FILEID="file4758"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

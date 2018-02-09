@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           ID="entity."
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/995">
+   <METS:metsHdr CREATEDATE="2011-11-02T20:31:45"
+                 LASTMODDATE="2017-02-14T09:28:14"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name>Meden, Katja</METS:name>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="default.dc">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="slv">Prispevki za zgodovino sindikalnega gibanja na Slovenskem</dcterms:title>
+            <dcterms:title xml:lang="slv">Od začetkov strokovnega gibanja do Enotnih sindikatov Slovenije</dcterms:title>
+            <dcterms:title xml:lang="slv">(1868-1945)</dcterms:title>
+            <dcterms:creator>Stiplovšek, Miroslav</dcterms:creator>
+            <dcterms:description xml:lang="slv">Prikaz značilnosti razvoja in delovanja strokovnih - sindikalnih - organizacij na Slovenskem od začetkov do NOB ter oris problematike virov in literature je glede vsebine in opozoril na stanje proučen osti izhodišče za nadaljnje kolektivno delo za sintetični oris sindikalnega gibanja na Slovenskem, ki ga bo treba, vsaj v pregledni obliki, napisati tudi za čas po ustanovitvi Enotnih sindikatov leta 1945. Vsebuje tudi poskus periodizacije od leta 1868 do 1941, napisana pa je zaradi neobdelanosti nekaterih smeri sindikalnega gibanja oziroma posameznih procesov v njegovem razvoju v precejšnji meri na proučevanju zlasti glasil strokovnih organizacij in arhivskih virov. Nadaljnje razprave so razporejene po kronološkem zaporedju in vsebujejo podrobnejše osvetlitve posameznih razvojnih in akcijskih značilnosti strokovnih organizacij v vseh časovnih obdobjih od začetkov do NOB, največ iz razrednega in krščanskosocialističnega sindikalnega gibanja, ki sta bila tudi po pomembnosti njegovo jedro. Sklepni prispevek naj bi bil predvsem spodbuda za načrtnejše proučevanje strokovnega gibanja v posameznih delovnih organizacijah.</dcterms:description>
+            <dcterms:subject xml:lang="slv">Slovenija</dcterms:subject>
+            <dcterms:subject xml:lang="slv">sindikalna gibanja</dcterms:subject>
+            <dcterms:subject xml:lang="slv">1868-1945</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Slovenia</dcterms:subject>
+            <dcterms:subject xml:lang="eng">unionist movement</dcterms:subject>
+            <dcterms:subject xml:lang="eng">1868-1945</dcterms:subject>
+            <dcterms:publisher>Obzorja, Maribor</dcterms:publisher>
+            <dcterms:publisher>Znanstveni inštitut Filozofske fakultete, Ljubljana</dcterms:publisher>
+            <dcterms:date xsi:type="dcterms:W3CDTF">1989</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">Text</dcterms:type>
+            <dcterms:identifier>COBISS.SI-ID 24052993</dcterms:identifier>
+            <dcterms:language xsi:type="dcterms:ISO639-3">slv</dcterms:language>
+            <dcterms:isPartOf>Documenta et studia historiae recentioris ; 7</dcterms:isPartOf>
+            <dcterms:isPartOf xsi:type="dcterms:URI">http://hdl.handle.net/11686/4823</dcterms:isPartOf>
+            <dcterms:isPartOf xsi:type="dcterms:URI">http://hdl.handle.net/11686/4885</dcterms:isPartOf>
+            <dcterms:coverage xml:lang="slv">Slovenija, 1868-1945</dcterms:coverage>
+            <dcterms:license xsi:type="dcterms:URI">http://creativecommons.org/licenses/by-nc-nd/2.5/si/</dcterms:license>
+            <dcterms:license xml:lang="slv">Priznanje avtorstva-Nekomercialo-Brez predelav 2.5 Slovenija (CC BY-NC-ND 2.5 SI)</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:dmdSec ID="default.mods">
+      <METS:mdWrap MDTYPE="MODS" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <mods:mods>
+               <mods:relatedItem type="series">
+                  <mods:relatedItem type="series">
+                     <mods:titleInfo>
+                        <mods:title>Documenta et studia historiae recentioris</mods:title>
+                     </mods:titleInfo>
+                     <mods:part>
+                        <mods:detail type="volumens">
+                           <mods:number>7</mods:number>
+                        </mods:detail>
+                     </mods:part>
+                  </mods:relatedItem>
+               </mods:relatedItem>
+            </mods:mods>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="default.amd">
+      <METS:techMD ID="default.premis">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>si4</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue/>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>Local name</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>995</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>http://hdl.handle.net/11686/995</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectCategory>Entity</premis:objectCategory>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="default.si4">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity"/>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink" ID="default.file">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="file533" OWNERID="Prispevki_za_zgodovino_sindikalnega_gibanja.pdf">
+            <METS:FLocat LOCTYPE="HANDLE" xlink:href="https://hdl.handle.net/11686/file533"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   ID="default.structure"
+                   TYPE="primary">
+      <METS:div TYPE="collection">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/menu17"/>
+         <METS:div TYPE="entity" DMDID="default.dc default.mods" ADMID="default.amd">
+            <METS:fptr FILEID="file533"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

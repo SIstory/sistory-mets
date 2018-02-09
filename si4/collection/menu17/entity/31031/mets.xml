@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           ID="entity."
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/31031">
+   <METS:metsHdr CREATEDATE="2015-06-02T11:20:41"
+                 LASTMODDATE="2017-02-15T12:24:23"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name>Meden, Katja</METS:name>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="default.dc">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="slv">Skrb za najdenčke in sirote v Kopru od 16. stoletja do konca prve svetovne vojne</dcterms:title>
+            <dcterms:alternative xml:lang="eng">Care for Foundlings and Orphans in Koper from the 16th Century till the End of the World War I</dcterms:alternative>
+            <dcterms:creator>Bonin, Zdenka</dcterms:creator>
+            <dcterms:abstract xml:lang="slv">V času beneške oblasti so za koprske najdenčke krajši čas poskrbeli v špitalu sv. Nazarija, nato pa so jih v spremstvu varuške poslali v beneško sirotišnico. S prehodom Istre pod francosko oblast leta 1806 so v mestu ustanovili Dobrodelno kongregacijo, ki je morala poskrbeti za najdenčke. Koprski špital, ki je po letu 1814 za njihovo vzdrževanje porabil 17.056 goldinarjev, se je omenjenega finančnega bremena rešil konec leta 1826, ko so najdenčke začeli pošiljati v tržaško sirotišnico. Za revne otroke od 3 do 6 leta starosti je bil po prizadevanjih Antonia de Madonizze, Francesca del Tacca in Francesca ter Marianne Grisoni v Kopru leta 1839 ustanovljen dobrodelni vrtec, leta 1859 pa še dobrodelna ustanova Grisoni, ki je skrbela za vzgojo in izobraževanje otrok med 6 in 20 letom starosti.</dcterms:abstract>
+            <dcterms:abstract xml:lang="eng">In the time of the Venetian governance Koper’s foundlings were taken care of in the »Spittal« of Saint Nazarius, where they remained for a brief period before being sent accompanied by a childminder to a Venetian orphanage. When the French took over the government in Istria in 1806 a beneficent congregation was founded in the town to take care of the foundlings. After 1814 the »Spittal« in Koper spent 17.056. goldinars for the care of foundlings and it was relieved of its financial burden in 1826 when the problem was solved by sending children to the orphanage in Trieste. In 1839 a beneficent kindergarten for poor kids aged from three to six years was established in Koper by the effort of Antonio de Madonizze, Francesco del Tacca and Francesco and Marianne Grisoni and followed later in 1859 by a beneficent institution Grisoni being in charge of the bringing up and the education of children from six to twenty years of age.</dcterms:abstract>
+            <dcterms:subject xml:lang="slv">Koper</dcterms:subject>
+            <dcterms:subject xml:lang="slv">najdenčki</dcterms:subject>
+            <dcterms:subject xml:lang="slv">sirote</dcterms:subject>
+            <dcterms:subject xml:lang="slv">dobrodelni vrtec</dcterms:subject>
+            <dcterms:subject xml:lang="slv">dobrodelna ustanova Grisoni</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Koper</dcterms:subject>
+            <dcterms:subject xml:lang="eng">foundlings</dcterms:subject>
+            <dcterms:subject xml:lang="eng">orphans</dcterms:subject>
+            <dcterms:subject xml:lang="eng">beneficent kindergarten</dcterms:subject>
+            <dcterms:subject xml:lang="eng">beneficent institution Grisoni</dcterms:subject>
+            <dcterms:publisher>Zveza zgodovinskih društev Slovenije</dcterms:publisher>
+            <dcterms:contributor>Peter Štih (gl. in od. ur.)</dcterms:contributor>
+            <dcterms:contributor>Aida Škoro Babić (ur. in prev.)</dcterms:contributor>
+            <dcterms:contributor>Mateja Jeraj (ur.)</dcterms:contributor>
+            <dcterms:contributor>Matevž Košir (ur.)</dcterms:contributor>
+            <dcterms:contributor>Bojan Balkovec (ur.)</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2012</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">Text</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">slv</dcterms:language>
+            <dcterms:isPartOf>Zbirka zgodovinskega časopisa, 45</dcterms:isPartOf>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:dmdSec ID="default.mods">
+      <METS:mdWrap MDTYPE="MODS" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <mods:mods>
+               <mods:relatedItem type="series">
+                  <mods:titleInfo>
+                     <mods:title>Zbirka zgodovinskega časopisa, 45</mods:title>
+                  </mods:titleInfo>
+               </mods:relatedItem>
+            </mods:mods>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="default.amd">
+      <METS:techMD ID="default.premis">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>si4</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue/>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>Local name</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>31031</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>http://hdl.handle.net/11686/31031#page=204</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectCategory>Entity</premis:objectCategory>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="default.si4">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity">
+               <entity:page>204</entity:page>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   ID="default.structure"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/31016"/>
+         <METS:div TYPE="entity" DMDID="default.dc default.mods" ADMID="default.amd"/>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

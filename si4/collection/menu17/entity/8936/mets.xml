@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           ID="entity."
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/8936">
+   <METS:metsHdr CREATEDATE="2012-08-30T07:25:44"
+                 LASTMODDATE="2017-02-14T13:01:43"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name>Meden, Katja</METS:name>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="default.dc">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="slv">Stari trg, Gornji trg in Levstikov trg</dcterms:title>
+            <dcterms:title xml:lang="slv">Arhitekturni in zgodovinski oris mestnih predelov in objektov, lastniki hiš ter arhivsko gradivo Zgodovinskega arhiva Ljubljana</dcterms:title>
+            <dcterms:title xml:lang="slv">Razstava Zgodovinskega arhiva Ljubljana : atrij Mestne občine Ljubljana in avla Zgodovinskega arhiva Ljubljana</dcterms:title>
+            <dcterms:creator>Suhadolnik, Jože</dcterms:creator>
+            <dcterms:creator>Anžič, Sonja</dcterms:creator>
+            <dcterms:description xml:lang="slv">Zgodovinski arhiv Ljubljana s pričujočim projektom nadaljuje svoj triletni ciklus razstav s katalogi. Temeljijo na strokovnem delu, raziskavah arhivskega gradiva, ki ga hranimo, to je gradbenih načrtih, urbanističnih in regulacijskih pianih, fotografijah in razglednicah, grafikah in vedutah, knjigi hiš, listinah, rokopisnih in računskih knjigah in seznamih ter na dognanj ih humanističnih ved. Vsebina in kontekst razstave in kataloga s poudarkom na reprodukcijah arhivskega gradiva in znanstvenim aparatom odsevata, združujeta in zaokrožujeta urbanistični, umetnostnozgodovinski, zgodovinski pregled in oris dogajanja na določenem prostoru v preteklosti. Razstavljeni in v katalogu reproducirani so starejši in mlajši arhivski dokumenti, ki jih hrani naš arhiv. Širši javnosti jih še nismo imeli priložnosti predstaviti in to je tudi naš temeljni cilj. Razstava in katalog predstavljata nadaljevanje umetnostno - zgodovinskih in zgodovinskih orisov določenih urbanih karejev, treh posebno pomembnih mestnih trgov pod Ljubljanskim gradom, ki medsebojno povezani zaokrožujejo prostor od Tranče s Čevljarskim mostom, Gallusovega nabrežja z Ljubljanico do Šentjakobskega mostu in se s spodnjim delom Karlovške ceste, ki je razbila Rožno ulico, zaključuje pri predoru pod Gradom.</dcterms:description>
+            <dcterms:subject xml:lang="slv">mestna jedra</dcterms:subject>
+            <dcterms:subject xml:lang="slv">trgi</dcterms:subject>
+            <dcterms:subject xml:lang="slv">razstavni katalogi</dcterms:subject>
+            <dcterms:subject xml:lang="slv">urbanizem</dcterms:subject>
+            <dcterms:subject xml:lang="eng">cities centers</dcterms:subject>
+            <dcterms:subject xml:lang="eng">quataloges</dcterms:subject>
+            <dcterms:publisher>Zgodovinski arhiv Ljubljana, Ljubljana</dcterms:publisher>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2003</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">Text</dcterms:type>
+            <dcterms:identifier>COBISS.SI-ID 123739136</dcterms:identifier>
+            <dcterms:language xsi:type="dcterms:ISO639-3">slv</dcterms:language>
+            <dcterms:isPartOf xsi:type="dcterms:URI">http://hdl.handle.net/11686/4878</dcterms:isPartOf>
+            <dcterms:license xsi:type="dcterms:URI">http://creativecommons.org/licenses/by-nc-nd/2.5/si/</dcterms:license>
+            <dcterms:license xml:lang="slv">Priznanje avtorstva-Nekomercialo-Brez predelav 2.5 Slovenija (CC BY-NC-ND 2.5 SI)</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="default.amd">
+      <METS:techMD ID="default.premis">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>si4</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue/>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>Local name</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>8936</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>http://hdl.handle.net/11686/8936</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectCategory>Entity</premis:objectCategory>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="default.si4">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity"/>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink" ID="default.file">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="file2674" OWNERID="STARI_TRG_GORNJI_TRG_IN_LEVSTIKOV_TRG.pdf">
+            <METS:FLocat LOCTYPE="HANDLE" xlink:href="https://hdl.handle.net/11686/file2674"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   ID="default.structure"
+                   TYPE="primary">
+      <METS:div TYPE="collection">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/menu17"/>
+         <METS:div TYPE="entity" DMDID="default.dc" ADMID="default.amd">
+            <METS:fptr FILEID="file2674"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

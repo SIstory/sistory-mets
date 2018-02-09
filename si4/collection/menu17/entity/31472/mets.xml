@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           ID="entity."
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/31472">
+   <METS:metsHdr CREATEDATE="2015-10-05T16:02:00"
+                 LASTMODDATE="2016-11-24T13:50:25"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.6" TYPE="INDIVIDUAL">
+         <METS:name>JurijHadalin</METS:name>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="default.dc">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="slv">Način preživljanja prostega časa meščanov Dunaja in Ljubljane od druge polovice 19. stoletja do 30-ih let 20. stoletja</dcterms:title>
+            <dcterms:creator>Šorn, Mojca</dcterms:creator>
+            <dcterms:subject xml:lang="slv">socialna zgodovina</dcterms:subject>
+            <dcterms:subject xml:lang="slv">kulturna zgodovina</dcterms:subject>
+            <dcterms:subject xml:lang="slv">krajevna zgodovina</dcterms:subject>
+            <dcterms:subject xml:lang="slv">Dunaj</dcterms:subject>
+            <dcterms:subject xml:lang="slv">Ljubljana</dcterms:subject>
+            <dcterms:subject xml:lang="slv">kultura</dcterms:subject>
+            <dcterms:subject xml:lang="slv">meščanstvo</dcterms:subject>
+            <dcterms:subject xml:lang="slv">turizem</dcterms:subject>
+            <dcterms:subject xml:lang="slv">prosti čas</dcterms:subject>
+            <dcterms:subject xml:lang="eng">social history</dcterms:subject>
+            <dcterms:subject xml:lang="eng">tourism</dcterms:subject>
+            <dcterms:subject xml:lang="eng">cultural history</dcterms:subject>
+            <dcterms:subject xml:lang="eng">local history</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Vienna</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Ljubljana</dcterms:subject>
+            <dcterms:subject xml:lang="eng">culture</dcterms:subject>
+            <dcterms:subject xml:lang="eng">bourgeoisie</dcterms:subject>
+            <dcterms:subject xml:lang="eng">leisure time</dcterms:subject>
+            <dcterms:publisher>Zveza zgodovinskih društev Slovenije, Ljubljana</dcterms:publisher>
+            <dcterms:contributor>Franc Rozman (ur.)</dcterms:contributor>
+            <dcterms:contributor>Žarko Lazarević (ur.)</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:W3CDTF">1996</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">Text</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">slv</dcterms:language>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="default.amd">
+      <METS:techMD ID="default.premis">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>si4</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue/>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>Local name</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>31472</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>http://hdl.handle.net/11686/31472#page=109</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectCategory>Entity</premis:objectCategory>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="default.si4">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity">
+               <entity:page>109</entity:page>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   ID="default.structure"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/31450"/>
+         <METS:div TYPE="entity" DMDID="default.dc" ADMID="default.amd"/>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

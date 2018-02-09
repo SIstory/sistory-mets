@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           ID="entity."
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/26950">
+   <METS:metsHdr CREATEDATE="2014-07-07T09:02:38"
+                 LASTMODDATE="2017-02-14T12:48:46"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name>Meden, Katja</METS:name>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="default.dc">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="slv">Slovenski parlament</dcterms:title>
+            <dcterms:title xml:lang="slv">Politično-zgodovinski pregled od začetka prvega do konca šestega mandata (1992 - 2014)</dcterms:title>
+            <dcterms:title xml:lang="slv">[elektronski vir]</dcterms:title>
+            <dcterms:alternative xml:lang="eng">History of the National Assembly of the Republic of Slovenia 1992-2014</dcterms:alternative>
+            <dcterms:creator>Gašparič, Jure</dcterms:creator>
+            <dcterms:description xml:lang="slv">Knjiga je svojevrstna odslikava politične tranzicije v Sloveniji. V berljivem slogu, velikokrat s podrobnimi opisi in pikrimi navedki, pojasnjuje, kaj se je dogajalo v slovenskem parlamentu od njegove prve seje po nastanku slovenske države do zadnjih parlamentarnih volitev leta 2014. Parlament ne nastopa le kot osrednje predstavniško in zakonodajno telo v državi, marveč zlasti kot stičišče političnih konceptov, strinjanj in nestrinjanj, zrcalo vsega, kar ljudje pojmujejo pod (vse bolj osovraženim) pojmom politika. Parlament v knjigi je politični teater.</dcterms:description>
+            <dcterms:publisher>Inštitut za novejšo zgodovino</dcterms:publisher>
+            <dcterms:contributor>Mojca Šorn (ur.)</dcterms:contributor>
+            <dcterms:contributor>Andrej Pančur (ur.)</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2014</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">Text</dcterms:type>
+            <dcterms:identifier>COBISS.SI-ID 274588160</dcterms:identifier>
+            <dcterms:language xsi:type="dcterms:ISO639-3">slv</dcterms:language>
+            <dcterms:language xsi:type="dcterms:ISO639-3">eng</dcterms:language>
+            <dcterms:isPartOf>Parlamentaria; 1</dcterms:isPartOf>
+            <dcterms:license xsi:type="dcterms:URI">http://creativecommons.org/licenses/by-nc-nd/2.5/si/</dcterms:license>
+            <dcterms:license xml:lang="slv">Priznanje avtorstva-Nekomercialo-Brez predelav 2.5 Slovenija (CC BY-NC-ND 2.5 SI)</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:dmdSec ID="default.mods">
+      <METS:mdWrap MDTYPE="MODS" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <mods:mods>
+               <mods:relatedItem type="series">
+                  <mods:relatedItem type="series">
+                     <mods:titleInfo>
+                        <mods:title>Parlamentaria</mods:title>
+                     </mods:titleInfo>
+                     <mods:part>
+                        <mods:detail type="volumens">
+                           <mods:number>1</mods:number>
+                        </mods:detail>
+                     </mods:part>
+                  </mods:relatedItem>
+               </mods:relatedItem>
+            </mods:mods>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="default.amd">
+      <METS:techMD ID="default.premis">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>si4</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue/>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>Local name</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>26950</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>http://hdl.handle.net/11686/26950</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectCategory>Entity</premis:objectCategory>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="default.si4">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity"/>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink" ID="default.file">
+      <METS:fileGrp USE="THUMB">
+         <METS:file ID="thumbnail">
+            <METS:FLocat LOCTYPE="URL" xlink:href="parlamentaria_1-page-001.jpg"/>
+         </METS:file>
+      </METS:fileGrp>
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="external.1" USE="EXTERNAL">
+            <METS:FLocat USE="HTTP"
+                         LOCTYPE="URL"
+                         xlink:href="http://www2.sistory.si/publikacije/monografije/Gasparic_Parlamentaria1/index.html"/>
+         </METS:file>
+         <METS:file ID="file15841" OWNERID="Parlamentaria1-V6.xml">
+            <METS:FLocat LOCTYPE="HANDLE" xlink:href="https://hdl.handle.net/11686/file15841"/>
+         </METS:file>
+         <METS:file ID="file15842" OWNERID="Parlamentaria1.epub">
+            <METS:FLocat LOCTYPE="HANDLE" xlink:href="https://hdl.handle.net/11686/file15842"/>
+         </METS:file>
+         <METS:file ID="file15843" OWNERID="Parlamentaria1_2014-07-30_12-08-37.mobi">
+            <METS:FLocat LOCTYPE="HANDLE" xlink:href="https://hdl.handle.net/11686/file15843"/>
+         </METS:file>
+         <METS:file ID="file15844" OWNERID="Parlamentaria1.pdf">
+            <METS:FLocat LOCTYPE="HANDLE" xlink:href="https://hdl.handle.net/11686/file15844"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   ID="default.structure"
+                   TYPE="primary">
+      <METS:div TYPE="collection">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/menu17"/>
+         <METS:div TYPE="entity" DMDID="default.dc default.mods" ADMID="default.amd">
+            <METS:fptr FILEID="thumbnail"/>
+            <METS:fptr FILEID="external1"/>
+            <METS:fptr FILEID="file15841"/>
+            <METS:fptr FILEID="file15842"/>
+            <METS:fptr FILEID="file15843"/>
+            <METS:fptr FILEID="file15844"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

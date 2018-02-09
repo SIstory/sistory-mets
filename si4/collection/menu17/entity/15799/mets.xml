@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           ID="entity."
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/15799">
+   <METS:metsHdr CREATEDATE="2013-05-30T15:35:58"
+                 LASTMODDATE="2016-11-24T19:21:26"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.6" TYPE="INDIVIDUAL">
+         <METS:name>JurijHadalin</METS:name>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="default.dc">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="slv">Slovenci in jugoslovanska skupnost med svetovnima vojnama</dcterms:title>
+            <dcterms:creator>Perovšek, Jurij</dcterms:creator>
+            <dcterms:subject xml:lang="slv">1918-1941</dcterms:subject>
+            <dcterms:subject xml:lang="slv">politična zgodovina</dcterms:subject>
+            <dcterms:subject xml:lang="slv">Slovenija</dcterms:subject>
+            <dcterms:subject xml:lang="slv">jugoslovansko vprašanje</dcterms:subject>
+            <dcterms:subject xml:lang="slv">kraljevina Jugoslavija</dcterms:subject>
+            <dcterms:subject xml:lang="slv">kraljevina SHS</dcterms:subject>
+            <dcterms:subject xml:lang="slv">nacionalno vprašanje</dcterms:subject>
+            <dcterms:subject xml:lang="slv">politične stranke</dcterms:subject>
+            <dcterms:subject xml:lang="eng">1918-1941</dcterms:subject>
+            <dcterms:subject xml:lang="eng">political history</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Slovenia</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Yugoslav question</dcterms:subject>
+            <dcterms:subject xml:lang="eng">kingdom of Yugoslavia</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Kingdom of Serbs, Croats and Slovenes</dcterms:subject>
+            <dcterms:subject xml:lang="eng">national issue</dcterms:subject>
+            <dcterms:subject xml:lang="eng">political parties</dcterms:subject>
+            <dcterms:publisher>Aristoteles Žlahtič k.d, Pijava Gorica in Inštitut za novejšo zgodovino, Ljubljana</dcterms:publisher>
+            <dcterms:contributor>Zdenko Čepič (ur.)</dcterms:contributor>
+            <dcterms:contributor>Marjetka Kastelic (lekt.)</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:W3CDTF">1999</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">Text</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">slv</dcterms:language>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="default.amd">
+      <METS:techMD ID="default.premis">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>si4</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue/>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>Local name</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>15799</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>http://hdl.handle.net/11686/15799#page=64</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectCategory>Entity</premis:objectCategory>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="default.si4">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity">
+               <entity:page>64</entity:page>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   ID="default.structure"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/15752"/>
+         <METS:div TYPE="entity" DMDID="default.dc" ADMID="default.amd"/>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

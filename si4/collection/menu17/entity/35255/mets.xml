@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           ID="entity."
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/35255">
+   <METS:metsHdr CREATEDATE="2016-06-14T13:13:15"
+                 LASTMODDATE="2017-02-13T08:27:54"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name>Meden, Katja</METS:name>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="default.dc">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="slv">Israel Bern Petachia Isserlein (1390-1460), mariborski rabin in judovski učenjak evropskega formata</dcterms:title>
+            <dcterms:alternative xml:lang="eng">Israel Ben Petachia Isserlein (1390-1460), Maribor rabbi and Jewish scholar of European range</dcterms:alternative>
+            <dcterms:creator>Toš, Marjan</dcterms:creator>
+            <dcterms:abstract xml:lang="eng">Once very influenzai Medieval Jewish community in Maribor played an important role in the history of Slovenian Judaism. With its diverse economic and cultural activity it assured firm connections of Maribor with several significant European centres, such as Prague, Vienna, Venice, German towns in Rhineland and Trieste. These connections in the Medieval Europe contributed greatly that a large part of today’s Slovenian area was placed in extended context of economical, politicai and cultural-social happening. In Synagogue Maribor, which was the centre of Jewish community, worked Rabbi Israel Isserlein, the greatest personality in that time. He was European and world recognized philosopher, scholar, spiritual leader, teacher and author of numerous theoretical works, which are in rabbinical law still in use.</dcterms:abstract>
+            <dcterms:abstract xml:lang="slv">V zgodovini slovenskega judovstva je še posebej pomembna vloga nekdanje močne in vplivne srednjeveške judovske skupnosti v Mariboru. S svojo razvejano dejavnostjo na gospodarskem, kulturnem in drugih področjih je zagotavljala trdne povezave takratnega Maribora z nekaterimi važnejšimi evropskimi središči, kot so Praga, Dunaj, Benetke, nemška mesta v Porenju in Trst. S temi povezavami v srednjeveški Evropi je bil dobršen del zdajšnjega slovenskega prostora umeščen v širši kontekst gospodarskega, političnega in družbeno-kulturega dogajanja. V mariborski sinagogi, ki je bila središče judovske skupnosti, je deloval rabin Israel Isserlein, naj večja rabinska osebnost svojega časa. Bilje priznani evropski in svetovni mislec, učenjak in duhovni vodja, učitelj in avtor številnih teoretskih del, ki v rabinskem pravu veljajo še danes.</dcterms:abstract>
+            <dcterms:subject xml:lang="slv">Judje</dcterms:subject>
+            <dcterms:subject xml:lang="slv">judovstvo</dcterms:subject>
+            <dcterms:subject xml:lang="slv">sinagoga</dcterms:subject>
+            <dcterms:subject xml:lang="slv">rabin</dcterms:subject>
+            <dcterms:subject xml:lang="slv">Israel</dcterms:subject>
+            <dcterms:subject xml:lang="slv">Isserlein</dcterms:subject>
+            <dcterms:subject xml:lang="slv">Dunajsko Novo mesto</dcterms:subject>
+            <dcterms:subject xml:lang="slv">jeshiva</dcterms:subject>
+            <dcterms:subject xml:lang="slv">judovska skupnost</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Jews</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Judaism</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Synagogue</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Rabbi</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Israel</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Isserlein</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Wiener Neustadt</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Yeshiva</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Jewish community</dcterms:subject>
+            <dcterms:publisher>Zveza zgodovinskih društev Slovenije, Ljubljana</dcterms:publisher>
+            <dcterms:contributor>Nevenka Troha (ur.)</dcterms:contributor>
+            <dcterms:contributor>Mojca Šorn (ur.)</dcterms:contributor>
+            <dcterms:contributor>Bojan Balkovec (ur.)</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2008</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">Text</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">slv</dcterms:language>
+            <dcterms:isPartOf>Zbirka zgodovinskega časopisa ; 35</dcterms:isPartOf>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:dmdSec ID="default.mods">
+      <METS:mdWrap MDTYPE="MODS" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <mods:mods>
+               <mods:relatedItem type="series">
+                  <mods:relatedItem type="series">
+                     <mods:titleInfo>
+                        <mods:title>Zbirka zgodovinskega časopisa</mods:title>
+                     </mods:titleInfo>
+                     <mods:part>
+                        <mods:detail type="volumens">
+                           <mods:number>35</mods:number>
+                        </mods:detail>
+                     </mods:part>
+                  </mods:relatedItem>
+               </mods:relatedItem>
+            </mods:mods>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="default.amd">
+      <METS:techMD ID="default.premis">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>si4</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue/>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>Local name</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>35255</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>http://hdl.handle.net/11686/35255#page=61</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectCategory>Entity</premis:objectCategory>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="default.si4">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity">
+               <entity:page>61</entity:page>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   ID="default.structure"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/35237"/>
+         <METS:div TYPE="entity" DMDID="default.dc default.mods" ADMID="default.amd"/>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

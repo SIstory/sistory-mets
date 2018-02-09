@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           ID="entity."
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/35293">
+   <METS:metsHdr CREATEDATE="2016-06-15T16:20:26"
+                 LASTMODDATE="2016-11-23T17:39:53"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.6" TYPE="INDIVIDUAL">
+         <METS:name>JurijHadalin</METS:name>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="default.dc">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="slv">Sistem ohranjanja in razvijanja revolucionarnih izročil</dcterms:title>
+            <dcterms:title xml:lang="slv">Religijski temelj in režimski zgodovinski falzifikat titoizma</dcterms:title>
+            <dcterms:title xml:lang="eng">The System of Maintaining and Developing Revolutionary Traditions of the Past</dcterms:title>
+            <dcterms:title xml:lang="eng">A Religious Basis and Historie Falsification of Titoism</dcterms:title>
+            <dcterms:creator>Dežman, Jože</dcterms:creator>
+            <dcterms:abstract xml:lang="slv">Sistem ohranjanja in razvijanja revolucionarnih izročil je bil ideološki mehanizem, ki je s kultnimi obrazci prikrival zločine in neuspehe Komunistične partije/Zveze komunistov Slovenije/Jugoslavije. Konec 2. svetovne vojne ne pomeni osvoboditve, ampak nadaljevanje boljševistične agresije (razredno, etnično, versko, kulturno »čiščenje«). V maju in juniju 1945 so pomorili več kot en odstotek prebivalstva Slovenije. Pod geslom bratstva in enotnosti pride do rasistične delitve živih in mrtvih, enopartijske diktature in kršenja temeljnih človekovih pravic. Brez pravice do groba in spomina je ostala skoraj polovica od okoli 90.000 smrtnih žrtev vojne in revolucije. Vlogo boga prevzame diktator Josip Broz Tito. Zgrajena je bila nova simbolna krajina. Neodvisna Republika Slovenija je po letu 1991 sprejela številne ukrepe za preseganje bremen preteklosti, zakonski in drugi ukrepi pa so predmet intenzivnih javnih, političnih in strokovnih razprav.</dcterms:abstract>
+            <dcterms:abstract xml:lang="eng">The system of maintaining and developing revolutionary traditions was an ideological mechanism that, with the help of cult forms, concealed the crimes and failures of the Yugoslav Communist Party and the League of Communists of Slovenia/Yugoslavia. Rather than liberation, the end of the Second World War denoted the continuation of the Bolshevik aggression, manifested in class, ethnic, religious and cultural »cleansing«. More than one percent of the entire Slovene population was murdered in May and June 1945. Under the slogan of »brotherhood and unity« stood for racist division of the living and the dead, one-party dictatorship, and violation of human rights were perpetrated. Almost one half of approximately 90,000 Slovene victims of war and revolution were denied their own grave and the right to be remembered. The role of god was taken over by dictator Josip Broz Tito. New political symbolism was constructed in this period. After 1991, the newly-independent Republic of Slovenia took measures for overcoming the heavy burden of the past, with legal measures and other provisions being the subject of heated public, politicai, and expert debates.</dcterms:abstract>
+            <dcterms:subject xml:lang="slv">Slovenija</dcterms:subject>
+            <dcterms:subject xml:lang="slv">boljševizem</dcterms:subject>
+            <dcterms:subject xml:lang="slv">titoizem</dcterms:subject>
+            <dcterms:subject xml:lang="slv">sistem ohranjanja in razvijanja revolucionarnih izročil</dcterms:subject>
+            <dcterms:subject xml:lang="slv">državljanska vojna</dcterms:subject>
+            <dcterms:subject xml:lang="slv">razredno in etnično čiščenje</dcterms:subject>
+            <dcterms:subject xml:lang="slv">rasizem</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Slovenia</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Bolshevism</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Titoism</dcterms:subject>
+            <dcterms:subject xml:lang="eng">system of maintaining and developing revolutionary traditions</dcterms:subject>
+            <dcterms:subject xml:lang="eng">civil war</dcterms:subject>
+            <dcterms:subject xml:lang="eng">class and ethnie cleansing</dcterms:subject>
+            <dcterms:subject xml:lang="eng">racism</dcterms:subject>
+            <dcterms:publisher>Zveza Zgodovinskih društev Slovenije, Ljubljana</dcterms:publisher>
+            <dcterms:contributor>Mitja Ferenc (ur.)</dcterms:contributor>
+            <dcterms:contributor>Branka Petkovšek (ur.)</dcterms:contributor>
+            <dcterms:contributor>Nives Sulič Dular (prev. ang.)</dcterms:contributor>
+            <dcterms:contributor>Matjaž Klemenčič (prev. ang.)</dcterms:contributor>
+            <dcterms:contributor>Stanislav Južnič (prev. ang.)</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2006</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">Text</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">slv</dcterms:language>
+            <dcterms:isPartOf>Zbirka Zgodovinskega časopisa ; 32</dcterms:isPartOf>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:dmdSec ID="default.mods">
+      <METS:mdWrap MDTYPE="MODS" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <mods:mods>
+               <mods:relatedItem type="series">
+                  <mods:relatedItem type="series">
+                     <mods:titleInfo>
+                        <mods:title>Zbirka Zgodovinskega časopisa</mods:title>
+                     </mods:titleInfo>
+                     <mods:part>
+                        <mods:detail type="volumens">
+                           <mods:number>32</mods:number>
+                        </mods:detail>
+                     </mods:part>
+                  </mods:relatedItem>
+               </mods:relatedItem>
+            </mods:mods>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="default.amd">
+      <METS:techMD ID="default.premis">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>si4</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue/>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>Local name</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>35293</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>http://hdl.handle.net/11686/35293#page=349</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectCategory>Entity</premis:objectCategory>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="default.si4">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity">
+               <entity:page>349</entity:page>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   ID="default.structure"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/35240"/>
+         <METS:div TYPE="entity" DMDID="default.dc default.mods" ADMID="default.amd"/>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

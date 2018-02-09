@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           ID="entity."
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/35311">
+   <METS:metsHdr CREATEDATE="2016-06-17T09:22:59"
+                 LASTMODDATE="2017-02-10T12:41:24"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name>Meden, Katja</METS:name>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="default.dc">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="slv">Rogaška Slatina in zgodovina</dcterms:title>
+            <dcterms:alternative xml:lang="eng">Rogaška Slatina Thermal Spa and Its History</dcterms:alternative>
+            <dcterms:creator>Mlacović, Dušan</dcterms:creator>
+            <dcterms:abstract xml:lang="slv">Avtor v prispevku podaja najpomembnejše in najbolj reprezentativne poudarke iz zgodovine Rogaške Slatine, edinega velikega zdravilišča na Slovenskem, nastalega v začetku 19. stoletja. Strukturo zdravilišča in vlogo zdravilišča za zgodovino meščanstva ter političnih idej v regiji analizira s pomočjo uradne zdraviliške brošure iz leta 1922 izpod peresa slovenskega pisatelja Iva Šorlija in s pomočjo slik iz leta 1912, ki v Zdraviliški dvorani v Rogaški Slatini prikazujejo štiri dogodke iz zgodovine Rogaške Slatine.</dcterms:abstract>
+            <dcterms:abstract xml:lang="eng">Examined are key events in the history of the Rogaška Slatina Thermal Spa. Originating from the beginning of the 19th Century, the spa in Rogaška Slatina is the only large thermal spa in Slovenia. The paper explores its structure and the role it had played in the history of urban middle classes and in the development of politicai ideas in this region. The analysis is based on an official spa brochure, written by Slovene writer Ivo Šorli in 1922, and photographs pictures situated in the Rogaška Slatina Spa Hall. These depict four important events from the history of the Rogaška Slatina Thermal Spa.</dcterms:abstract>
+            <dcterms:subject xml:lang="slv">Rogaška Slatina</dcterms:subject>
+            <dcterms:subject xml:lang="slv">meščanstvo</dcterms:subject>
+            <dcterms:subject xml:lang="slv">Anin ples</dcterms:subject>
+            <dcterms:subject xml:lang="slv">Ferdinand Attems</dcterms:subject>
+            <dcterms:subject xml:lang="slv">nadvojvoda Janez</dcterms:subject>
+            <dcterms:subject xml:lang="slv">Gabriel Seidl</dcterms:subject>
+            <dcterms:subject xml:lang="slv">Juraj Strossmayer</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Rogaška Slatina</dcterms:subject>
+            <dcterms:subject xml:lang="eng">urban middle class</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Anna’s Dance</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Ferdinand Attems</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Archduke Johann</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Gabriel Seidl</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Juraj Strossmayer</dcterms:subject>
+            <dcterms:publisher>Zveza zgodovinskih društev Slovenije, Ljubljana</dcterms:publisher>
+            <dcterms:contributor>Nevenka Troha (ur.)</dcterms:contributor>
+            <dcterms:contributor>Mojca Šorn (ur.)</dcterms:contributor>
+            <dcterms:contributor>Bojan Balkovec (ur.)</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2008</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">Text</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">slv</dcterms:language>
+            <dcterms:isPartOf>Zbirka zgodovinskega časopisa ; 35</dcterms:isPartOf>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:dmdSec ID="default.mods">
+      <METS:mdWrap MDTYPE="MODS" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <mods:mods>
+               <mods:relatedItem type="series">
+                  <mods:relatedItem type="series">
+                     <mods:titleInfo>
+                        <mods:title>Zbirka zgodovinskega časopisa</mods:title>
+                     </mods:titleInfo>
+                     <mods:part>
+                        <mods:detail type="volumens">
+                           <mods:number>35</mods:number>
+                        </mods:detail>
+                     </mods:part>
+                  </mods:relatedItem>
+               </mods:relatedItem>
+            </mods:mods>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="default.amd">
+      <METS:techMD ID="default.premis">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>si4</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue/>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>Local name</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>35311</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>http://hdl.handle.net/11686/35311#page=485</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectCategory>Entity</premis:objectCategory>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="default.si4">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity">
+               <entity:page>485</entity:page>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   ID="default.structure"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/35237"/>
+         <METS:div TYPE="entity" DMDID="default.dc default.mods" ADMID="default.amd"/>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

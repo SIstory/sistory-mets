@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           ID="entity."
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/30413">
+   <METS:metsHdr CREATEDATE="2015-01-30T13:22:04"
+                 LASTMODDATE="2017-02-13T11:41:04"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name>Meden, Katja</METS:name>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="default.dc">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="slv">Mitska stvarnost koroških knežjih kamnov</dcterms:title>
+            <dcterms:alternative xml:lang="eng">Mythical Reality of the Carinthian Dukes’ Stones</dcterms:alternative>
+            <dcterms:creator>Pleterski, Andrej</dcterms:creator>
+            <dcterms:subject xml:lang="slv">Slovani</dcterms:subject>
+            <dcterms:subject xml:lang="slv">arheologija</dcterms:subject>
+            <dcterms:subject xml:lang="slv">zgodovinopisje</dcterms:subject>
+            <dcterms:subject xml:lang="slv">mitologija</dcterms:subject>
+            <dcterms:subject xml:lang="slv">knežji kamen</dcterms:subject>
+            <dcterms:subject xml:lang="slv">ustoličevanje</dcterms:subject>
+            <dcterms:subject xml:lang="slv">Karantanija</dcterms:subject>
+            <dcterms:subject xml:lang="slv">Koroška (Avstrija)</dcterms:subject>
+            <dcterms:subject xml:lang="slv">zgodnji srednji vek</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Slavs</dcterms:subject>
+            <dcterms:subject xml:lang="eng">archaeology</dcterms:subject>
+            <dcterms:subject xml:lang="eng">historiography</dcterms:subject>
+            <dcterms:subject xml:lang="eng">mythology</dcterms:subject>
+            <dcterms:subject xml:lang="eng">coronation stone</dcterms:subject>
+            <dcterms:subject xml:lang="eng">inauguration</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Carantania</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Kärnten</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Carinthia</dcterms:subject>
+            <dcterms:subject xml:lang="eng">early Middle Ages</dcterms:subject>
+            <dcterms:publisher>Zveza zgodovinskih društev Slovenije, Ljubljana</dcterms:publisher>
+            <dcterms:publisher>Znanstvenoraziskovalni center Slovenske akademije znanosti in umetnosti, Ljubljana</dcterms:publisher>
+            <dcterms:contributor>Irena Mirnik Prezelj</dcterms:contributor>
+            <dcterms:contributor>Nives Sulič Dular (prev. ang.)</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:W3CDTF">1997</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">Text</dcterms:type>
+            <dcterms:identifier>COBISS.SI-ID 66607104</dcterms:identifier>
+            <dcterms:language xsi:type="dcterms:ISO639-3">slv</dcterms:language>
+            <dcterms:language xsi:type="dcterms:ISO639-3">eng</dcterms:language>
+            <dcterms:isPartOf>Zbirka Zgodovinskega časopisa; 17</dcterms:isPartOf>
+            <dcterms:isVersionOf xsi:type="dcterms:URI">http://sistory.si/SISTORY:ID:14776</dcterms:isVersionOf>
+            <dcterms:hasVersion xsi:type="dcterms:URI">https://itunes.apple.com/us/book/mitska-stvarnost-koroskih/id739767527?mt=11</dcterms:hasVersion>
+            <dcterms:isPartOf xsi:type="dcterms:URI">http://hdl.handle.net/11686/26738</dcterms:isPartOf>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:dmdSec ID="default.mods">
+      <METS:mdWrap MDTYPE="MODS" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <mods:mods>
+               <mods:relatedItem type="series">
+                  <mods:relatedItem type="series">
+                     <mods:titleInfo>
+                        <mods:title>Zbirka Zgodovinskega časopisa</mods:title>
+                     </mods:titleInfo>
+                     <mods:part>
+                        <mods:detail type="volumens">
+                           <mods:number>17</mods:number>
+                        </mods:detail>
+                     </mods:part>
+                  </mods:relatedItem>
+               </mods:relatedItem>
+            </mods:mods>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="default.amd">
+      <METS:techMD ID="default.premis">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>si4</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue/>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>Local name</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>30413</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>http://hdl.handle.net/11686/30413</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectCategory>Entity</premis:objectCategory>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink" ID="default.file">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="file17386" OWNERID="Mitska_stvarnost_koroskih_knezjih_kamnov.pdf">
+            <METS:FLocat LOCTYPE="HANDLE" xlink:href="https://hdl.handle.net/11686/file17386"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   ID="default.structure"
+                   TYPE="primary">
+      <METS:div TYPE="collection">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/menu17"/>
+         <METS:div TYPE="entity" DMDID="default.dc default.mods" ADMID="default.amd">
+            <METS:fptr FILEID="file17386"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

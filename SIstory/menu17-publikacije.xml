@@ -1,6 +1,1408 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root xmlns="http://www.sistory.si/schemas/sistory/">
     <publication>
+        <ID>38026</ID>
+        <URN>11686/38026</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CREATOR>
+            <IME>Ivan</IME>
+            <PRIIMEK>Steklasa</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date">1913</DATE>
+        <MENU_ID id="17">Monografije</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title">Zgodovina župnije Šent Rupert na Dolenjskem</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:38026" rel="dct:creator"><span property="dct:title">Ivan Steklasa</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+To delo avtorskopravno ni varovano.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Zgodovina župnije Šent Rupert na Dolenjskem</TITLE>
+        <SUBJECT lang="slv">Šentrupert</SUBJECT>
+        <SUBJECT lang="slv">župnija</SUBJECT>
+        <SUBJECT lang="slv">zgodovina</SUBJECT>
+        <SUBJECT lang="eng">Šentrupert</SUBJECT>
+        <SUBJECT lang="eng">parish</SUBJECT>
+        <SUBJECT lang="eng">history</SUBJECT>
+        <PUBLISHER>Samozaložba, Katoliška tiskarna v Ljubljani</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1913</YEAR>
+        <DATETIME_ADDED>2017-10-16 08:22:57</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-10-23 16:16:51</DATETIME_MODIFIED>
+        <USER_ID_ADDED>123</USER_ID_ADDED>
+        <PUBLICATION file="Zgodovina_zupnije_Sent_Rupert.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>38025</ID>
+        <URN>11686/38025</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CONTRIBUTOR>za natis pripravil Josip Lesar</CONTRIBUTOR>
+        <CREATOR>
+            <IME>Anton</IME>
+            <PRIIMEK>Skubic</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date">1976</DATE>
+        <MENU_ID id="17">Monografije</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons licenca" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />To <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">delo</span> avtorja <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.sistory.si/SISTORY:ID:38025" property="cc:attributionName" rel="cc:attributionURL">Anton Skubic</a> je ponujeno pod <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Priznanje avtorstva-Nekomercijalno-Brez predelav 4.0 International licenco</a>.]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Zgodovina Ribnice in ribniške pokrajine</TITLE>
+        <SUBJECT lang="slv">Ribnica</SUBJECT>
+        <SUBJECT lang="slv">ribniška pokrajina</SUBJECT>
+        <SUBJECT lang="slv">slovenski duhovniki</SUBJECT>
+        <SUBJECT lang="slv">župnije</SUBJECT>
+        <SUBJECT lang="slv">zgodovina</SUBJECT>
+        <SUBJECT lang="eng">Ribnica</SUBJECT>
+        <SUBJECT lang="eng">Ribnica region</SUBJECT>
+        <SUBJECT lang="eng">slovenian priests</SUBJECT>
+        <SUBJECT lang="eng">parishes</SUBJECT>
+        <SUBJECT lang="eng">history</SUBJECT>
+        <PUBLISHER>Editorial Baraga; Buenos Aires</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1976</YEAR>
+        <DATETIME_ADDED>2017-10-16 08:22:31</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-10-23 15:55:51</DATETIME_MODIFIED>
+        <USER_ID_ADDED>123</USER_ID_ADDED>
+        <PUBLICATION file="ZGODOVINA_RIBNICE_RIBNISKE_POKRAJINE.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>38024</ID>
+        <URN>11686/38024</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CONTRIBUTOR>Andrej Studen (ur.)</CONTRIBUTOR>
+        <DATE type="Date">2012</DATE>
+        <MENU_ID id="17">Monografije</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <TITLE titleType="Title" lang="slv">Pomisli na jutri: o zgodovini (samo)odgovornosti</TITLE>
+        <PUBLISHER>Ljubljana : Inštitut za novejšo zgodovino, 2012</PUBLISHER>
+        <COLLECTION>Zbirka Vpogledi ; 6</COLLECTION>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>2012</YEAR>
+        <DATETIME_ADDED>2017-10-16 08:22:00</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-10-23 15:36:37</DATETIME_MODIFIED>
+        <USER_ID_ADDED>123</USER_ID_ADDED>
+        <PUBLICATION file="Pomisli_na_jutri_o_zgodovini_odgovornosti.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>38023</ID>
+        <URN>11686/38023</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CONTRIBUTOR>Aleš Gabrič (ur.)</CONTRIBUTOR>
+        <CREATOR>
+            <IME>Aleksander</IME>
+            <PRIIMEK>Lorenčič</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date">2012</DATE>
+        <MENU_ID id="17">Monografije</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons licenca" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />To <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">delo</span> avtorja <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.sistory.si/SISTORY:ID:38023" property="cc:attributionName" rel="cc:attributionURL">Aleksander Lorenčič</a> je ponujeno pod <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Priznanje avtorstva-Nekomercijalno-Brez predelav 4.0 International licenco</a>.]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Prelom s starim in začetek novega: tranzicija slovenskega gospodarstva iz socializma v kapitalizem (1990-2004)</TITLE>
+        <TITLE titleType="Alternative Title" lang="eng">A break with the old and the beginning of something new: Slovenian economic transiton form socialism to capitalism (1990-2004)</TITLE>
+        <SUBJECT lang="slv">gospodarska zgodovina</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1990-2004</SUBJECT>
+        <SUBJECT lang="slv">tranzicija</SUBJECT>
+        <SUBJECT lang="slv">ekonomski sistemi</SUBJECT>
+        <SUBJECT lang="eng">economic history</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1990-2004</SUBJECT>
+        <SUBJECT lang="eng">transition</SUBJECT>
+        <SUBJECT lang="eng">economic systems</SUBJECT>
+        <PUBLISHER>Inštitut za novejšo zgodovino, Ljubljana</PUBLISHER>
+        <COLLECTION>Zbirka Razpoznavanja = Recognitiones ; 15</COLLECTION>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>2012</YEAR>
+        <DATETIME_ADDED>2017-10-16 08:21:38</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-10-23 12:08:57</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="Lorenic_Aleksander_Prelom_s_starim.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>38022</ID>
+        <URN>11686/38022</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CREATOR>
+            <IME>Janez</IME>
+            <PRIIMEK>Höfler</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date">2017</DATE>
+        <MENU_ID id="17">Monografije</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons licenca" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />To <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">delo</span> avtorja <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.sistory.si/SISTORY:ID:38022" property="cc:attributionName" rel="cc:attributionURL">Janez Höfler</a> je ponujeno pod <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Priznanje avtorstva-Nekomercijalno-Brez predelav 4.0 International licenco</a>.]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Gradivo za historično topografijo predjožefinskih župnij na Slovenskem</TITLE>
+        <TITLE titleType="Title" lang="slv">Kranjska</TITLE>
+        <SUBJECT lang="slv">župnije</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">zgodovina</SUBJECT>
+        <SUBJECT lang="slv">historična topografija</SUBJECT>
+        <SUBJECT lang="slv">zgodovinski viri</SUBJECT>
+        <SUBJECT lang="eng">parishes</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">history</SUBJECT>
+        <SUBJECT lang="eng">historical topography</SUBJECT>
+        <SUBJECT lang="eng">historical sources</SUBJECT>
+        <PUBLISHER>Viharnik d.o.o., Ljubljana</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>2017</YEAR>
+        <DATETIME_ADDED>2017-10-16 08:21:14</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-10-23 12:32:35</DATETIME_MODIFIED>
+        <USER_ID_ADDED>123</USER_ID_ADDED>
+        <PUBLICATION file="HistTop_Kranjska2.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>38021</ID>
+        <URN>11686/38021</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CREATOR>
+            <IME>Janez</IME>
+            <PRIIMEK>Volčič</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date">1887</DATE>
+        <MENU_ID id="17">Monografije</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title">Zgodovina Šmarješke fare na Dolenjskem</span>, by <a href="http://www.sistory.si/?urn=SISTORY:ID:38021" rel="dct:creator"><span property="dct:title">Janez Volčič</span></a>), identified by <a href="http://www.sistory.si/" rel="dct:publisher"><span property="dct:title">Zgodovina Slovenije - SIstory</span></a>, is free of known copyright restrictions.
+<br />
+To delo avtorskopravno ni varovano.
+</p>]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Zgodovina Šmarješke fare na Dolenjskem</TITLE>
+        <TITLE titleType="Alternative Title" lang="slv">Fara Ljubljanske Škofije 1887</TITLE>
+        <SUBJECT lang="slv">Šmarjeta pri Novem mestu</SUBJECT>
+        <SUBJECT lang="slv">župnije</SUBJECT>
+        <SUBJECT lang="slv">zgodovinski pregled</SUBJECT>
+        <SUBJECT lang="eng">Šmarjeta pri Novem mestu</SUBJECT>
+        <SUBJECT lang="eng">parish</SUBJECT>
+        <SUBJECT lang="eng">historical overview</SUBJECT>
+        <PUBLISHER>Novo mesto, samozaložba</PUBLISHER>
+        <COLLECTION>Fara Ljubljanske Škofije 1887, peti zvezek</COLLECTION>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1887</YEAR>
+        <DATETIME_ADDED>2017-10-16 08:20:37</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-10-23 12:16:33</DATETIME_MODIFIED>
+        <USER_ID_ADDED>123</USER_ID_ADDED>
+        <PUBLICATION file="Fara_Ljubljanske_skofije_1887.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>38017</ID>
+        <URN>11686/38017#page=403</URN>
+        <CHILD_ORDER>14</CHILD_ORDER>
+        <CONTRIBUTOR>Žarko Lazarević</CONTRIBUTOR>
+        <CONTRIBUTOR>Aleksander Lorenčič</CONTRIBUTOR>
+        <CREATOR>
+            <IME>Aleksander</IME>
+            <PRIIMEK>Lorenčič</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date">2009</DATE>
+        <MENU_ID id="17">Monografije</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>403</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons licenca" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />To <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">delo</span> avtorja <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.sistory.si/SISTORY:ID:38017" property="cc:attributionName" rel="cc:attributionURL">Aleksander Lorenčič</a> je ponujeno pod <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Priznanje avtorstva-Nekomercijalno-Brez predelav 4.0 International licenco</a>.]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Slovensko podjetništvo v prvih letih tranzicije</TITLE>
+        <SUBJECT lang="slv">tranzicija</SUBJECT>
+        <SUBJECT lang="slv">podjetništvo</SUBJECT>
+        <SUBJECT lang="slv">gospodarstvo</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="eng">Entrepreneur</SUBJECT>
+        <SUBJECT lang="eng">tranisition</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">economie</SUBJECT>
+        <PUBLISHER>Inštitut za novejšo zgodovino, Ljubljana</PUBLISHER>
+        <COLLECTION>Zbirka Razpoznavanja = Recognitiones ; 8</COLLECTION>
+        <SOURCE sourceType="Vir - URN Naslov">SISTORY:ID:38017</SOURCE>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>2009</YEAR>
+        <DATETIME_ADDED>2017-09-26 11:28:41</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-09-26 11:31:39</DATETIME_MODIFIED>
+        <USER_ID_ADDED>81</USER_ID_ADDED>
+        <PARENT>1562</PARENT>
+    </publication>
+    <publication>
+        <ID>38016</ID>
+        <URN>11686/38016#page=377</URN>
+        <CHILD_ORDER>13</CHILD_ORDER>
+        <CONTRIBUTOR>Žarko Lazarević</CONTRIBUTOR>
+        <CONTRIBUTOR>Aleksander Lorenčič</CONTRIBUTOR>
+        <CREATOR>
+            <IME>Nina</IME>
+            <PRIIMEK>Vodopivec</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date">2009</DATE>
+        <MENU_ID id="17">Monografije</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>377</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons licenca" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />To <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">delo</span> avtorja <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.sistory.si/SISTORY:ID:38016" property="cc:attributionName" rel="cc:attributionURL">Nina Vodopivec</a> je ponujeno pod <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Priznanje avtorstva-Nekomercijalno-Brez predelav 4.0 International licenco</a>.]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Modernizacija in tranzicija</TITLE>
+        <SUBJECT lang="slv">tranizicija</SUBJECT>
+        <SUBJECT lang="slv">modernizacija</SUBJECT>
+        <SUBJECT lang="slv">postsocialistična transformacija</SUBJECT>
+        <SUBJECT lang="eng">transition</SUBJECT>
+        <SUBJECT lang="eng">modernisation</SUBJECT>
+        <SUBJECT lang="eng">postsocialistic transformation</SUBJECT>
+        <PUBLISHER>Inštitut za novejšo zgodovino, Ljubljana</PUBLISHER>
+        <COLLECTION>Zbirka Razpoznavanja = Recognitiones ; 8</COLLECTION>
+        <SOURCE sourceType="Vir - URN Naslov">SISTORY:ID:38016</SOURCE>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>2009</YEAR>
+        <DATETIME_ADDED>2017-09-26 11:26:03</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-09-26 11:28:36</DATETIME_MODIFIED>
+        <USER_ID_ADDED>81</USER_ID_ADDED>
+        <PARENT>1562</PARENT>
+    </publication>
+    <publication>
+        <ID>38015</ID>
+        <URN>11686/38015#page=350</URN>
+        <CHILD_ORDER>12</CHILD_ORDER>
+        <CONTRIBUTOR>Žarko Lazarević</CONTRIBUTOR>
+        <CONTRIBUTOR>Aleksander Lorenčič</CONTRIBUTOR>
+        <CREATOR>
+            <IME>Željko</IME>
+            <PRIIMEK>Oset</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date">2009</DATE>
+        <MENU_ID id="17">Monografije</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>350</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons licenca" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />To <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">delo</span> avtorja <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.sistory.si/SISTORY:ID:38015" property="cc:attributionName" rel="cc:attributionURL">Željko Oset</a> je ponujeno pod <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Priznanje avtorstva-Nekomercijalno-Brez predelav 4.0 International licenco</a>.]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Vpliv modernizacije na oblikovanje slovenskega naravoslovno-tehničnega besedišča</TITLE>
+        <SUBJECT lang="slv">modernizacija</SUBJECT>
+        <SUBJECT lang="slv">naravoslovno-tehnična terminologija</SUBJECT>
+        <SUBJECT lang="slv">izrazoslovje</SUBJECT>
+        <SUBJECT lang="eng">modernisation</SUBJECT>
+        <SUBJECT lang="eng">Natural science terminology</SUBJECT>
+        <SUBJECT lang="eng">tehnical terminology</SUBJECT>
+        <SUBJECT lang="eng">terminology</SUBJECT>
+        <PUBLISHER>Inštitut za novejšo zgodovino, Ljubljana</PUBLISHER>
+        <COLLECTION>Zbirka Razpoznavanja = Recognitiones ; 8</COLLECTION>
+        <SOURCE sourceType="Vir - URN Naslov">SISTORY:ID:38015</SOURCE>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>2009</YEAR>
+        <DATETIME_ADDED>2017-09-26 11:18:18</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-09-26 11:25:28</DATETIME_MODIFIED>
+        <USER_ID_ADDED>81</USER_ID_ADDED>
+        <PARENT>1562</PARENT>
+    </publication>
+    <publication>
+        <ID>38014</ID>
+        <URN>11686/38014#page=318</URN>
+        <CHILD_ORDER>11</CHILD_ORDER>
+        <CONTRIBUTOR>Žarko Lazarević</CONTRIBUTOR>
+        <CONTRIBUTOR>Aleksander Lorenčič</CONTRIBUTOR>
+        <CREATOR>
+            <IME>Marta</IME>
+            <PRIIMEK>Rendla</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date">2009</DATE>
+        <MENU_ID id="17">Monografije</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>318</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons licenca" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />To <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">delo</span> avtorja <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.sistory.si/SISTORY:ID:38014" property="cc:attributionName" rel="cc:attributionURL">Marta Rendla</a> je ponujeno pod <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Priznanje avtorstva-Nekomercijalno-Brez predelav 4.0 International licenco</a>.]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Oris osebnega in družbenega standarda v Sloveniji 1946–1991</TITLE>
+        <SUBJECT lang="slv">družbeni standard</SUBJECT>
+        <SUBJECT lang="slv">socialni položaj</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">socializem</SUBJECT>
+        <SUBJECT lang="eng">social status</SUBJECT>
+        <SUBJECT lang="eng">socialism</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <PUBLISHER>Inštitut za novejšo zgodovino, Ljubljana</PUBLISHER>
+        <COLLECTION>Zbirka Razpoznavanja = Recognitiones ; 8</COLLECTION>
+        <SOURCE sourceType="Vir - URN Naslov">SISTORY:ID:38014</SOURCE>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>2009</YEAR>
+        <DATETIME_ADDED>2017-09-26 11:13:33</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-09-26 11:18:47</DATETIME_MODIFIED>
+        <USER_ID_ADDED>81</USER_ID_ADDED>
+        <PARENT>1562</PARENT>
+    </publication>
+    <publication>
+        <ID>38013</ID>
+        <URN>11686/38013#page=297</URN>
+        <CHILD_ORDER>10</CHILD_ORDER>
+        <CONTRIBUTOR>Žarko Lazarević</CONTRIBUTOR>
+        <CONTRIBUTOR>Aleksander Lorenčič</CONTRIBUTOR>
+        <CREATOR>
+            <IME>Mojca</IME>
+            <PRIIMEK>Šorn</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date">2009</DATE>
+        <MENU_ID id="17">Monografije</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>297</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons licenca" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />To <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">delo</span> avtorja <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.sistory.si/SISTORY:ID:38013" property="cc:attributionName" rel="cc:attributionURL">Mojca Šorn</a> je ponujeno pod <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Priznanje avtorstva-Nekomercijalno-Brez predelav 4.0 International licenco</a>.]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">V ljubljanskih šolah od aprila 1941 do osvoboditve</TITLE>
+        <SUBJECT lang="slv">Ljubljana</SUBJECT>
+        <SUBJECT lang="slv">šolstvo</SUBJECT>
+        <SUBJECT lang="slv">druga svetovna vojna</SUBJECT>
+        <SUBJECT lang="eng">Ljubljana</SUBJECT>
+        <SUBJECT lang="eng">education</SUBJECT>
+        <SUBJECT lang="eng">second world war</SUBJECT>
+        <PUBLISHER>Inštitut za novejšo zgodovino, Ljubljana</PUBLISHER>
+        <COLLECTION>Zbirka Razpoznavanja = Recognitiones ; 8</COLLECTION>
+        <SOURCE sourceType="Vir - URN Naslov">SISTORY:ID:38013</SOURCE>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>2009</YEAR>
+        <DATETIME_ADDED>2017-09-26 11:04:50</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-09-26 11:13:23</DATETIME_MODIFIED>
+        <USER_ID_ADDED>81</USER_ID_ADDED>
+        <PARENT>1562</PARENT>
+    </publication>
+    <publication>
+        <ID>38012</ID>
+        <URN>11686/38012#page=249</URN>
+        <CHILD_ORDER>9</CHILD_ORDER>
+        <CONTRIBUTOR>Žarko Lazarević</CONTRIBUTOR>
+        <CONTRIBUTOR>Aleksander Lorenčič</CONTRIBUTOR>
+        <CREATOR>
+            <IME>Andrej</IME>
+            <PRIIMEK>Pančur</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date">2009</DATE>
+        <MENU_ID id="17">Monografije</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>249</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons licenca" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />To <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">delo</span> avtorja <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.sistory.si/SISTORY:ID:38012" property="cc:attributionName" rel="cc:attributionURL">Andrej Pančur</a> je ponujeno pod <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Priznanje avtorstva-Nekomercijalno-Brez predelav 4.0 International licenco</a>.]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Razvoj judovskega prebivalstva Slovenije do druge svetovne vojne</TITLE>
+        <SUBJECT lang="slv">judje</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">manjšina</SUBJECT>
+        <SUBJECT lang="eng">Jews</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">minority</SUBJECT>
+        <PUBLISHER>Inštitut za novejšo zgodovino, Ljubljana</PUBLISHER>
+        <COLLECTION>Zbirka Razpoznavanja = Recognitiones ; 8</COLLECTION>
+        <SOURCE sourceType="Vir - URN Naslov">SISTORY:ID:38012</SOURCE>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>2009</YEAR>
+        <DATETIME_ADDED>2017-09-26 11:00:44</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-09-26 11:04:45</DATETIME_MODIFIED>
+        <USER_ID_ADDED>81</USER_ID_ADDED>
+        <PARENT>1562</PARENT>
+    </publication>
+    <publication>
+        <ID>38011</ID>
+        <URN>11686/38011#page=213</URN>
+        <CHILD_ORDER>8</CHILD_ORDER>
+        <CONTRIBUTOR>Žarko Lazarević</CONTRIBUTOR>
+        <CONTRIBUTOR>Aleksander Lorenčič</CONTRIBUTOR>
+        <CREATOR>
+            <IME>Andrej</IME>
+            <PRIIMEK>Studen</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date">2009</DATE>
+        <MENU_ID id="17">Monografije</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>213</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons licenca" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />To <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">delo</span> avtorja <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.sistory.si/SISTORY:ID:38011" property="cc:attributionName" rel="cc:attributionURL">Andrej Studen</a> je ponujeno pod <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Priznanje avtorstva-Nekomercijalno-Brez predelav 4.0 International licenco</a>.]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Delavstvo, alkoholizem in delavske gostilne v dobi meščanstva</TITLE>
+        <SUBJECT lang="slv">delavstvo</SUBJECT>
+        <SUBJECT lang="slv">alkoholizem</SUBJECT>
+        <SUBJECT lang="slv">gostilne</SUBJECT>
+        <SUBJECT lang="eng">working class</SUBJECT>
+        <SUBJECT lang="eng">alcoholism</SUBJECT>
+        <SUBJECT lang="eng">pubs</SUBJECT>
+        <PUBLISHER>Inštitut za novejšo zgodovino, Ljubljana</PUBLISHER>
+        <COLLECTION>Zbirka Razpoznavanja = Recognitiones ; 8</COLLECTION>
+        <SOURCE sourceType="Vir - URN Naslov">SISTORY:ID:38011</SOURCE>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>2009</YEAR>
+        <DATETIME_ADDED>2017-09-26 10:56:44</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-09-26 11:00:37</DATETIME_MODIFIED>
+        <USER_ID_ADDED>81</USER_ID_ADDED>
+        <PARENT>1562</PARENT>
+    </publication>
+    <publication>
+        <ID>38010</ID>
+        <URN>11686/38010#page=160</URN>
+        <CHILD_ORDER>7</CHILD_ORDER>
+        <CONTRIBUTOR>Žarko Lazarević</CONTRIBUTOR>
+        <CONTRIBUTOR>Aleksander Lorenčič</CONTRIBUTOR>
+        <CREATOR>
+            <IME>Ježe</IME>
+            <PRIIMEK>Prinčič</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date">2009</DATE>
+        <MENU_ID id="17">Monografije</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>160</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons licenca" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />To <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">delo</span> avtorja <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.sistory.si/SISTORY:ID:38010" property="cc:attributionName" rel="cc:attributionURL">Jože Prinčič</a> je ponujeno pod <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Priznanje avtorstva-Nekomercijalno-Brez predelav 4.0 International licenco</a>.]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Modernizacija in gospodarski razvoj Slovenije (1945–1991)</TITLE>
+        <SUBJECT lang="slv">modernizacija</SUBJECT>
+        <SUBJECT lang="slv">gospodarstvo</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">1945-1991</SUBJECT>
+        <SUBJECT lang="eng">modernisation</SUBJECT>
+        <SUBJECT lang="eng">economies</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">1945–1991</SUBJECT>
+        <PUBLISHER>Inštitut za novejšo zgodovino, Ljubljana</PUBLISHER>
+        <COLLECTION>Zbirka Razpoznavanja = Recognitiones ; 8</COLLECTION>
+        <SOURCE sourceType="Vir - URN Naslov">SISTORY:ID:38010</SOURCE>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>2009</YEAR>
+        <DATETIME_ADDED>2017-09-26 10:54:21</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-09-26 10:56:40</DATETIME_MODIFIED>
+        <USER_ID_ADDED>81</USER_ID_ADDED>
+        <PARENT>1562</PARENT>
+    </publication>
+    <publication>
+        <ID>38009</ID>
+        <URN>11686/38009#page=133</URN>
+        <CHILD_ORDER>6</CHILD_ORDER>
+        <CONTRIBUTOR>Žarko Lazarević</CONTRIBUTOR>
+        <CONTRIBUTOR>Aleksander Lorenčič</CONTRIBUTOR>
+        <CREATOR>
+            <IME>Mitja</IME>
+            <PRIIMEK>Sunčič</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date">2009</DATE>
+        <MENU_ID id="17">Monografije</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>133</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons licenca" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />To <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">delo</span> avtorja <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.sistory.si/SISTORY:ID:38009" property="cc:attributionName" rel="cc:attributionURL">Mitja Sunčič</a> je ponujeno pod <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Priznanje avtorstva-Nekomercijalno-Brez predelav 4.0 International licenco</a>.]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Kdo je podjetnik?</TITLE>
+        <TITLE titleType="Title" lang="slv">Težave pri določanju podjetnikov v zgodovinskih raziskavah</TITLE>
+        <SUBJECT lang="slv">podjetništvo</SUBJECT>
+        <SUBJECT lang="slv">teorija</SUBJECT>
+        <SUBJECT lang="slv">19. stoletje</SUBJECT>
+        <SUBJECT lang="eng">Entrepreneurship</SUBJECT>
+        <SUBJECT lang="eng">theory</SUBJECT>
+        <SUBJECT lang="eng">19th Century</SUBJECT>
+        <PUBLISHER>Inštitut za novejšo zgodovino, Ljubljana</PUBLISHER>
+        <COLLECTION>Zbirka Razpoznavanja = Recognitiones ; 8</COLLECTION>
+        <SOURCE sourceType="Vir - URN Naslov">SISTORY:ID:38009</SOURCE>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>2009</YEAR>
+        <DATETIME_ADDED>2017-09-26 10:47:32</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-09-26 10:54:15</DATETIME_MODIFIED>
+        <USER_ID_ADDED>81</USER_ID_ADDED>
+        <PARENT>1562</PARENT>
+    </publication>
+    <publication>
+        <ID>38008</ID>
+        <URN>11686/38008#page=112</URN>
+        <CHILD_ORDER>5</CHILD_ORDER>
+        <CONTRIBUTOR>Žarko Lazarević</CONTRIBUTOR>
+        <CONTRIBUTOR>Aleksander Lorenčič</CONTRIBUTOR>
+        <CREATOR>
+            <IME>France</IME>
+            <PRIIMEK>Kresal</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date">2009</DATE>
+        <MENU_ID id="17">Monografije</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>112</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons licenca" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />To <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">delo</span> avtorja <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.sistory.si/SISTORY:ID:38008" property="cc:attributionName" rel="cc:attributionURL">France Kresal</a> je ponujeno pod <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Priznanje avtorstva-Nekomercijalno-Brez predelav 4.0 International licenco</a>.]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Tiskarna Merkur – tiskarna Tone Tomšič (1922–2003)</TITLE>
+        <SUBJECT lang="slv">tiskarstvo</SUBJECT>
+        <SUBJECT lang="slv">Tiskarna Merkur</SUBJECT>
+        <SUBJECT lang="slv">Tiskarna Tone Tomšič</SUBJECT>
+        <SUBJECT lang="slv">1922-2003</SUBJECT>
+        <SUBJECT lang="eng">printing</SUBJECT>
+        <SUBJECT lang="eng">Trade printing Merkur</SUBJECT>
+        <SUBJECT lang="slv">Trade printing Tone Tomšič</SUBJECT>
+        <SUBJECT lang="slv">1922-2003</SUBJECT>
+        <PUBLISHER>Inštitut za novejšo zgodovino, Ljubljana</PUBLISHER>
+        <COLLECTION>Zbirka Razpoznavanja = Recognitiones ; 8</COLLECTION>
+        <SOURCE sourceType="Vir - URN Naslov">SISTORY:ID:38008</SOURCE>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>2009</YEAR>
+        <DATETIME_ADDED>2017-09-26 10:40:25</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-09-26 10:47:27</DATETIME_MODIFIED>
+        <USER_ID_ADDED>81</USER_ID_ADDED>
+        <PARENT>1562</PARENT>
+    </publication>
+    <publication>
+        <ID>38007</ID>
+        <URN>11686/38007#page=79</URN>
+        <CHILD_ORDER>4</CHILD_ORDER>
+        <CONTRIBUTOR>Žarko Lazarević</CONTRIBUTOR>
+        <CONTRIBUTOR>Aleksander Lorenčič</CONTRIBUTOR>
+        <CREATOR>
+            <IME>Janja</IME>
+            <PRIIMEK>Sedlaček</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date">2009</DATE>
+        <MENU_ID id="17">Monografije</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>79</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons licenca" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />To <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">delo</span> avtorja <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.sistory.si/SISTORY:ID:38007" property="cc:attributionName" rel="cc:attributionURL">Janja Sedlaček</a> je ponujeno pod <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Priznanje avtorstva-Nekomercijalno-Brez predelav 4.0 International licenco</a>.]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Regionalne razlike v dravski banovini v tridesetih letih</TITLE>
+        <SUBJECT lang="slv">Dravska banovina</SUBJECT>
+        <SUBJECT lang="slv">20. stoletje</SUBJECT>
+        <SUBJECT lang="slv">gospodarska struktura</SUBJECT>
+        <SUBJECT lang="slv">regionalizem</SUBJECT>
+        <SUBJECT lang="slv">Drava Banovina</SUBJECT>
+        <SUBJECT lang="eng">20th Century</SUBJECT>
+        <SUBJECT lang="eng">economic structure</SUBJECT>
+        <SUBJECT lang="eng">regionalism</SUBJECT>
+        <PUBLISHER>Inštitut za novejšo zgodovino, Ljubljana</PUBLISHER>
+        <COLLECTION>Zbirka Razpoznavanja = Recognitiones ; 8</COLLECTION>
+        <SOURCE sourceType="Vir - URN Naslov">SISTORY:ID:38007</SOURCE>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>2009</YEAR>
+        <DATETIME_ADDED>2017-09-26 10:31:35</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-09-26 10:40:13</DATETIME_MODIFIED>
+        <USER_ID_ADDED>81</USER_ID_ADDED>
+        <PARENT>1562</PARENT>
+    </publication>
+    <publication>
+        <ID>38006</ID>
+        <URN>11686/38006#page=57</URN>
+        <CHILD_ORDER>3</CHILD_ORDER>
+        <CONTRIBUTOR>Žarko Lazarević</CONTRIBUTOR>
+        <CONTRIBUTOR>Aleksander Lorenčič</CONTRIBUTOR>
+        <CREATOR>
+            <IME>Peter</IME>
+            <PRIIMEK>Vodopivec</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date">2009</DATE>
+        <MENU_ID id="17">Monografije</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>57</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons licenca" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />To <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">delo</span> avtorja <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.sistory.si/SISTORY:ID:38006" property="cc:attributionName" rel="cc:attributionURL">Peter Vodopivec</a> je ponujeno pod <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Priznanje avtorstva-Nekomercijalno-Brez predelav 4.0 International licenco</a>.]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Južna železnica in industrializacija</TITLE>
+        <SUBJECT lang="slv">industralizacija</SUBJECT>
+        <SUBJECT lang="slv">železnica</SUBJECT>
+        <SUBJECT lang="slv">19. stoletje</SUBJECT>
+        <SUBJECT lang="slv">notranjeavstrijske dežele</SUBJECT>
+        <SUBJECT lang="eng">industrialization</SUBJECT>
+        <SUBJECT lang="eng">railway</SUBJECT>
+        <SUBJECT lang="eng">19th Century</SUBJECT>
+        <SUBJECT lang="eng">Inner Austria</SUBJECT>
+        <PUBLISHER>Inštitut za novejšo zgodovino, Ljubljana</PUBLISHER>
+        <COLLECTION>Zbirka Razpoznavanja = Recognitiones ; 8</COLLECTION>
+        <SOURCE sourceType="Vir - URN Naslov">SISTORY:ID:38006</SOURCE>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>2009</YEAR>
+        <DATETIME_ADDED>2017-09-26 10:20:17</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-09-26 10:30:59</DATETIME_MODIFIED>
+        <USER_ID_ADDED>81</USER_ID_ADDED>
+        <PARENT>1562</PARENT>
+    </publication>
+    <publication>
+        <ID>38005</ID>
+        <URN>11686/38005#page=13</URN>
+        <CHILD_ORDER>2</CHILD_ORDER>
+        <CONTRIBUTOR>Žarko Lazarević</CONTRIBUTOR>
+        <CONTRIBUTOR>Aleksander Lorenčič</CONTRIBUTOR>
+        <CREATOR>
+            <IME>Žarko</IME>
+            <PRIIMEK>Lazarević</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date">2009</DATE>
+        <MENU_ID id="17">Monografije</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>13</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons licenca" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />To <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">delo</span> avtorja <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.sistory.si/SISTORY:ID:38005" property="cc:attributionName" rel="cc:attributionURL">Žarko Lazarević</a> je ponujeno pod <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Priznanje avtorstva-Nekomercijalno-Brez predelav 4.0 International licenco</a>.]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Identitetne zadrege slovenskega ekonomskega zgodovinopisja</TITLE>
+        <TITLE titleType="Title" lang="slv">Poti emancipacije gospodarskega zgodovinopisja o 19. in 20. stoletju pri Slovencih</TITLE>
+        <SUBJECT lang="slv">gospodarstvo</SUBJECT>
+        <SUBJECT lang="slv">zgodovinopisje</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">19. stoletje</SUBJECT>
+        <SUBJECT lang="slv">20. stoletje</SUBJECT>
+        <SUBJECT lang="eng">economy</SUBJECT>
+        <SUBJECT lang="eng">history</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <SUBJECT lang="eng">19th Century</SUBJECT>
+        <SUBJECT lang="eng">20th Century</SUBJECT>
+        <PUBLISHER>Inštitut za novejšo zgodovino, Ljubljana</PUBLISHER>
+        <COLLECTION>Zbirka Razpoznavanja = Recognitiones ; 8</COLLECTION>
+        <SOURCE sourceType="Vir - URN Naslov">SISTORY:ID:38005</SOURCE>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>2009</YEAR>
+        <DATETIME_ADDED>2017-09-26 09:28:19</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-09-26 10:31:30</DATETIME_MODIFIED>
+        <USER_ID_ADDED>81</USER_ID_ADDED>
+        <PARENT>1562</PARENT>
+    </publication>
+    <publication>
+        <ID>38004</ID>
+        <URN>11686/38004#page=7</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CONTRIBUTOR>Žarko Lazarević</CONTRIBUTOR>
+        <CONTRIBUTOR>Aleksander Lorenčič</CONTRIBUTOR>
+        <CREATOR>
+            <IME>Žarko</IME>
+            <PRIIMEK>Lazarević</PRIIMEK>
+        </CREATOR>
+        <CREATOR>
+            <IME>Aleksander</IME>
+            <PRIIMEK>Lorenčič</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date">2009</DATE>
+        <MENU_ID id="17">Monografije</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>7</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons licenca" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />To <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">delo</span> avtorja <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.sistory.si/SISTORY:ID:38004" property="cc:attributionName" rel="cc:attributionURL">Žarko Lazarević in Aleksander Lorenčič</a> je ponujeno pod <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Priznanje avtorstva-Nekomercijalno-Brez predelav 4.0 International licenco</a>.]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Predgovor</TITLE>
+        <PUBLISHER>Inštitut za novejšo zgodovino, Ljubljana</PUBLISHER>
+        <COLLECTION>Zbirka Razpoznavanja = Recognitiones ; 8</COLLECTION>
+        <SOURCE sourceType="Vir - URN Naslov">SISTORY:ID:38004</SOURCE>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>2009</YEAR>
+        <DATETIME_ADDED>2017-09-26 09:14:32</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-09-26 09:29:25</DATETIME_MODIFIED>
+        <USER_ID_ADDED>81</USER_ID_ADDED>
+        <PARENT>1562</PARENT>
+    </publication>
+    <publication>
+        <ID>37953</ID>
+        <URN>11686/37953#page=235</URN>
+        <CHILD_ORDER>7</CHILD_ORDER>
+        <CONTRIBUTOR>Borut Praper (prev. ang.)</CONTRIBUTOR>
+        <CREATOR>
+            <IME>Zdenko</IME>
+            <PRIIMEK>Čepič</PRIIMEK>
+        </CREATOR>
+        <CREATOR>
+            <IME>Filip</IME>
+            <PRIIMEK>Čuček</PRIIMEK>
+        </CREATOR>
+        <CREATOR>
+            <IME>Jure</IME>
+            <PRIIMEK>Gašparič</PRIIMEK>
+        </CREATOR>
+        <CREATOR>
+            <IME>Damijan</IME>
+            <PRIIMEK>Guštin</PRIIMEK>
+        </CREATOR>
+        <CREATOR>
+            <IME>Božo</IME>
+            <PRIIMEK>Repe</PRIIMEK>
+        </CREATOR>
+        <CREATOR>
+            <IME>Uroš</IME>
+            <PRIIMEK>Svete</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date" format="W3CDTF">2010-01-01</DATE>
+        <MENU_ID id="17">Monografije</MENU_ID>
+        <LANGUAGE lang="eng">2</LANGUAGE>
+        <PAGE>235</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons licenca" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />To <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">delo</span> avtorja <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.sistory.si/SISTORY:ID:37953" property="cc:attributionName" rel="cc:attributionURL">Zdenko Čepič, Filip Čuček, Jure Gašparič, Damijan Guštin,
+Božo Repe, Uroš Svete
+</a> je ponujeno pod <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Priznanje avtorstva-Nekomercijalno-Brez predelav 4.0 International licenco</a>.]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="eng">Clandestine blue network: bodies of the interior of the Republic of Slovenia in the project Manoeuvre Structure of National Defence in the year 1990</TITLE>
+        <SUBJECT lang="slv">obrambne sile</SUBJECT>
+        <SUBJECT lang="slv">manevrska struktura</SUBJECT>
+        <SUBJECT lang="slv">teritorialna obramba</SUBJECT>
+        <SUBJECT lang="slv">Jugoslovanska ljudska armada</SUBJECT>
+        <SUBJECT lang="slv">milica</SUBJECT>
+        <SUBJECT lang="eng">defense forces</SUBJECT>
+        <SUBJECT lang="eng">manoeuvre structure</SUBJECT>
+        <SUBJECT lang="eng">territorial defense /</SUBJECT>
+        <SUBJECT lang="eng">Yugoslav People's Army</SUBJECT>
+        <SUBJECT lang="eng">militia</SUBJECT>
+        <PUBLISHER>Zveza policijskih veteranskih društev Sever, Ljubljana</PUBLISHER>
+        <PUBLISHER>Inštitut za novejšo zgodovino, Ljubljana</PUBLISHER>
+        <SOURCE sourceType="Vir - URN Naslov">SISTORY:ID:37953</SOURCE>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>2010</YEAR>
+        <DATETIME_ADDED>2017-08-21 16:01:41</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-08-22 15:05:13</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PARENT>37943</PARENT>
+    </publication>
+    <publication>
+        <ID>37952</ID>
+        <URN>11686/37952#page=227</URN>
+        <CHILD_ORDER>6</CHILD_ORDER>
+        <CREATOR>
+            <IME>Damijan</IME>
+            <PRIIMEK>Guštin</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date" format="W3CDTF">2010-01-01</DATE>
+        <MENU_ID id="17">Monografije</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>227</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons licenca" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />To <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">delo</span> avtorja <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.sistory.si/SISTORY:ID:37952" property="cc:attributionName" rel="cc:attributionURL">Damijan Guštin
+</a> je ponujeno pod <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Priznanje avtorstva-Nekomercijalno-Brez predelav 4.0 International licenco</a>.]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Projekt MSNZ - slovenske obrambne sile v času in prostoru prelomnega leta 1990</TITLE>
+        <SUBJECT lang="slv">obrambne sile</SUBJECT>
+        <SUBJECT lang="slv">manevrska struktura</SUBJECT>
+        <SUBJECT lang="slv">teritorialna obramba</SUBJECT>
+        <SUBJECT lang="slv">Jugoslovanska ljudska armada</SUBJECT>
+        <SUBJECT lang="slv">milica</SUBJECT>
+        <SUBJECT lang="eng">defense forces</SUBJECT>
+        <SUBJECT lang="eng">manoeuvre structure</SUBJECT>
+        <SUBJECT lang="eng">territorial defense</SUBJECT>
+        <SUBJECT lang="eng">Yugoslav People's Army</SUBJECT>
+        <SUBJECT lang="eng">militia</SUBJECT>
+        <PUBLISHER>Zveza policijskih veteranskih društev Sever, Ljubljana</PUBLISHER>
+        <PUBLISHER>Inštitut za novejšo zgodovino, Ljubljana</PUBLISHER>
+        <SOURCE sourceType="Vir - URN Naslov">SISTORY:ID:37952</SOURCE>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>2010</YEAR>
+        <DATETIME_ADDED>2017-08-21 15:58:40</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-08-21 16:01:33</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PARENT>37943</PARENT>
+    </publication>
+    <publication>
+        <ID>37951</ID>
+        <URN>11686/37951#page=133</URN>
+        <CHILD_ORDER>5</CHILD_ORDER>
+        <CREATOR>
+            <IME>Filip</IME>
+            <PRIIMEK>Čuček</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date" format="W3CDTF">2010-01-01</DATE>
+        <MENU_ID id="17">Monografije</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>133</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons licenca" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />To <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">delo</span> avtorja <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.sistory.si/SISTORY:ID:37951" property="cc:attributionName" rel="cc:attributionURL">Filip Čuček
+</a> je ponujeno pod <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Priznanje avtorstva-Nekomercijalno-Brez predelav 4.0 International licenco</a>.]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Oblikovanje modre mreže</TITLE>
+        <SUBJECT lang="slv">obrambne sile</SUBJECT>
+        <SUBJECT lang="slv">manevrska struktura</SUBJECT>
+        <SUBJECT lang="slv">teritorialna obramba</SUBJECT>
+        <SUBJECT lang="slv">Jugoslovanska ljudska armada</SUBJECT>
+        <SUBJECT lang="slv">milica</SUBJECT>
+        <SUBJECT lang="eng">defense forces</SUBJECT>
+        <SUBJECT lang="eng">manoeuvre structure</SUBJECT>
+        <SUBJECT lang="eng">territorial defense</SUBJECT>
+        <SUBJECT lang="eng">Yugoslav People's Army</SUBJECT>
+        <SUBJECT lang="eng">militia</SUBJECT>
+        <PUBLISHER>Zveza policijskih veteranskih društev Sever, Ljubljana</PUBLISHER>
+        <PUBLISHER>Inštitut za novejšo zgodovino, Ljubljana</PUBLISHER>
+        <SOURCE sourceType="Vir - URN Naslov">SISTORY:ID:37951</SOURCE>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>2010</YEAR>
+        <DATETIME_ADDED>2017-08-21 15:56:18</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-08-21 15:58:31</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PARENT>37943</PARENT>
+    </publication>
+    <publication>
+        <ID>37950</ID>
+        <URN>11686/37950#page=113</URN>
+        <CHILD_ORDER>4</CHILD_ORDER>
+        <CREATOR>
+            <IME>Uroš</IME>
+            <PRIIMEK>Svete</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date" format="W3CDTF">2010-01-01</DATE>
+        <MENU_ID id="17">Monografije</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>113</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons licenca" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />To <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">delo</span> avtorja <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.sistory.si/SISTORY:ID:37950" property="cc:attributionName" rel="cc:attributionURL">Uroš Svete
+</a> je ponujeno pod <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Priznanje avtorstva-Nekomercijalno-Brez predelav 4.0 International licenco</a>.]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Manevrska struktura Narodne zaščite v povezavi slovenskih (samo)obrambnih prizadevanj v letu 1990</TITLE>
+        <SUBJECT lang="slv">obrambne sile</SUBJECT>
+        <SUBJECT lang="slv">maneverska struktura</SUBJECT>
+        <SUBJECT lang="slv">teritorialna obramba</SUBJECT>
+        <SUBJECT lang="slv">Jugoslovanska ljudska armada</SUBJECT>
+        <SUBJECT lang="slv">milica</SUBJECT>
+        <SUBJECT lang="eng">defense forces</SUBJECT>
+        <SUBJECT lang="eng">manoeuvre structure</SUBJECT>
+        <SUBJECT lang="eng">territorial defense</SUBJECT>
+        <SUBJECT lang="eng">Yugoslav People's Army</SUBJECT>
+        <SUBJECT lang="eng">militia</SUBJECT>
+        <PUBLISHER>Zveza policijskih veteranskih društev Sever, Ljubljana</PUBLISHER>
+        <PUBLISHER>Inštitut za novejšo zgodovino, Ljubljana</PUBLISHER>
+        <SOURCE sourceType="Vir - URN Naslov">SISTORY:ID:37950</SOURCE>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>2010</YEAR>
+        <DATETIME_ADDED>2017-08-21 15:52:57</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-08-21 15:56:13</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PARENT>37943</PARENT>
+    </publication>
+    <publication>
+        <ID>37949</ID>
+        <URN>11686/37949#page=79</URN>
+        <CHILD_ORDER>3</CHILD_ORDER>
+        <CREATOR>
+            <IME>Jure</IME>
+            <PRIIMEK>Gašparič</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date" format="W3CDTF">2010-01-01</DATE>
+        <MENU_ID id="17">Monografije</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>79</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons licenca" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />To <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">delo</span> avtorja <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.sistory.si/SISTORY:ID:37949" property="cc:attributionName" rel="cc:attributionURL">Jure Gašparič
+</a> je ponujeno pod <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Priznanje avtorstva-Nekomercijalno-Brez predelav 4.0 International licenco</a>.]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Vloga organov za notranje zadeve v oblikovanju obrambnih sil Republike Slovenije</TITLE>
+        <SUBJECT lang="slv">obrambne sile</SUBJECT>
+        <SUBJECT lang="slv">manevrska struktura</SUBJECT>
+        <SUBJECT lang="slv">teritorialna obramba</SUBJECT>
+        <SUBJECT lang="slv">Jugoslovanska ljudska armada</SUBJECT>
+        <SUBJECT lang="slv">milica</SUBJECT>
+        <SUBJECT lang="eng">defense forces</SUBJECT>
+        <SUBJECT lang="eng">manoeuvre structure</SUBJECT>
+        <SUBJECT lang="eng">territorial defense</SUBJECT>
+        <SUBJECT lang="eng">Yugoslav People's Army</SUBJECT>
+        <SUBJECT lang="eng">militia</SUBJECT>
+        <PUBLISHER>Zveza policijskih veteranskih društev Sever, Ljubljana</PUBLISHER>
+        <PUBLISHER>Inštitut za novejšo zgodovino, Ljubljana</PUBLISHER>
+        <SOURCE sourceType="Vir - URN Naslov">SISTORY:ID:37949</SOURCE>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>2010</YEAR>
+        <DATETIME_ADDED>2017-08-21 15:50:31</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-08-21 15:53:39</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PARENT>37943</PARENT>
+    </publication>
+    <publication>
+        <ID>37948</ID>
+        <URN>11686/37948#page=45</URN>
+        <CHILD_ORDER>2</CHILD_ORDER>
+        <CREATOR>
+            <IME>Zdenko</IME>
+            <PRIIMEK>Čepič</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date" format="W3CDTF">2010-01-01</DATE>
+        <MENU_ID id="17">Monografije</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>45</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons licenca" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />To <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">delo</span> avtorja <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.sistory.si/SISTORY:ID:37948" property="cc:attributionName" rel="cc:attributionURL">Zdenko Čepič
+</a> je ponujeno pod <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Priznanje avtorstva-Nekomercijalno-Brez predelav 4.0 International licenco</a>.]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Jugoslovanska vojska in slovenska milica v vrtincu politike ob koncu osemdesetih let</TITLE>
+        <SUBJECT lang="slv">obrambne sile</SUBJECT>
+        <SUBJECT lang="slv">manevrska struktura</SUBJECT>
+        <SUBJECT lang="slv">teritorialna obramba</SUBJECT>
+        <SUBJECT lang="slv">Jugoslovanska ljudska armada</SUBJECT>
+        <SUBJECT lang="slv">milica</SUBJECT>
+        <SUBJECT lang="eng">defense forces</SUBJECT>
+        <SUBJECT lang="eng">manoeuvre structure</SUBJECT>
+        <SUBJECT lang="eng">territorial defense</SUBJECT>
+        <SUBJECT lang="eng">Yugoslav People's Army</SUBJECT>
+        <SUBJECT lang="eng">militia</SUBJECT>
+        <PUBLISHER>Zveza policijskih veteranskih društev Sever, Ljubljana</PUBLISHER>
+        <PUBLISHER>Inštitut za novejšo zgodovino, Ljubljana</PUBLISHER>
+        <SOURCE sourceType="Vir - URN Naslov">SISTORY:ID:37948</SOURCE>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>2010</YEAR>
+        <DATETIME_ADDED>2017-08-21 15:47:38</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-08-21 15:50:23</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PARENT>37943</PARENT>
+    </publication>
+    <publication>
+        <ID>37947</ID>
+        <URN>11686/37947#page=21</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CREATOR>
+            <IME>Božo</IME>
+            <PRIIMEK>Repe</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date" format="W3CDTF">2010-01-01</DATE>
+        <MENU_ID id="17">Monografije</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>21</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons licenca" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />To <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">delo</span> avtorja <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.sistory.si/SISTORY:ID:37947" property="cc:attributionName" rel="cc:attributionURL">
+Božo Repe
+</a> je ponujeno pod <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Priznanje avtorstva-Nekomercijalno-Brez predelav 4.0 International licenco</a>.]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Oris družbenih razmer v Sloveniji in v Jugoslaviji v osemdesetih letih 20. stoletja</TITLE>
+        <SUBJECT lang="slv">obrambne sile</SUBJECT>
+        <SUBJECT lang="slv">manevrska struktura</SUBJECT>
+        <SUBJECT lang="slv">teritorialna obramba</SUBJECT>
+        <SUBJECT lang="slv">Jugoslovanska ljudska armada</SUBJECT>
+        <SUBJECT lang="slv">milica</SUBJECT>
+        <SUBJECT lang="eng">defense forces</SUBJECT>
+        <SUBJECT lang="eng">manoeuvre structure</SUBJECT>
+        <SUBJECT lang="eng">territorial defense</SUBJECT>
+        <SUBJECT lang="eng">Yugoslav People's Army</SUBJECT>
+        <SUBJECT lang="eng">militia</SUBJECT>
+        <PUBLISHER>Zveza policijskih veteranskih društev Sever, Ljubljana</PUBLISHER>
+        <PUBLISHER>Inštitut za novejšo zgodovino, Ljubljana</PUBLISHER>
+        <SOURCE sourceType="Vir - URN Naslov">SISTORY:ID:37947</SOURCE>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>2010</YEAR>
+        <DATETIME_ADDED>2017-08-21 15:16:30</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-08-21 15:20:24</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PARENT>37943</PARENT>
+    </publication>
+    <publication>
+        <ID>37946</ID>
+        <URN>11686/37946#page=9</URN>
+        <CHILD_ORDER>0</CHILD_ORDER>
+        <CREATOR>
+            <IME>Jure</IME>
+            <PRIIMEK>Gašparič</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date" format="W3CDTF">2010-01-01</DATE>
+        <MENU_ID id="17">Monografije</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>9</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons licenca" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />To <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">delo</span> avtorja <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.sistory.si/SISTORY:ID:37946" property="cc:attributionName" rel="cc:attributionURL">Jure Gašparič
+</a> je ponujeno pod <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Priznanje avtorstva-Nekomercijalno-Brez predelav 4.0 International licenco</a>.]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Uvod</TITLE>
+        <SUBJECT lang="slv">obrambne sile</SUBJECT>
+        <SUBJECT lang="slv">manevrska struktura</SUBJECT>
+        <SUBJECT lang="slv">teritorialna obramba</SUBJECT>
+        <SUBJECT lang="slv">Jugoslovanska ljudska armada</SUBJECT>
+        <SUBJECT lang="slv">milica</SUBJECT>
+        <SUBJECT lang="eng">defense forces</SUBJECT>
+        <SUBJECT lang="eng">manoeuvre structure</SUBJECT>
+        <SUBJECT lang="eng">territorial defense</SUBJECT>
+        <SUBJECT lang="eng">Yugoslav People's Army</SUBJECT>
+        <SUBJECT lang="eng">militia</SUBJECT>
+        <PUBLISHER>Zveza policijskih veteranskih društev Sever, Ljubljana</PUBLISHER>
+        <PUBLISHER>Inštitut za novejšo zgodovino, Ljubljana</PUBLISHER>
+        <SOURCE sourceType="Vir - URN Naslov">SISTORY:ID:37946</SOURCE>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>2010</YEAR>
+        <DATETIME_ADDED>2017-08-21 15:12:54</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-08-21 15:16:24</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PARENT>37943</PARENT>
+    </publication>
+    <publication>
+        <ID>37943</ID>
+        <URN>11686/37943</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CREATOR>
+            <IME>Zdenko</IME>
+            <PRIIMEK>Čepič</PRIIMEK>
+        </CREATOR>
+        <CREATOR>
+            <IME>Filip</IME>
+            <PRIIMEK>Čuček</PRIIMEK>
+        </CREATOR>
+        <CREATOR>
+            <IME>Jure</IME>
+            <PRIIMEK>Gašparič</PRIIMEK>
+        </CREATOR>
+        <CREATOR>
+            <IME>Damijan</IME>
+            <PRIIMEK>Guštin</PRIIMEK>
+        </CREATOR>
+        <CREATOR>
+            <IME>Božo</IME>
+            <PRIIMEK>Repe</PRIIMEK>
+        </CREATOR>
+        <CREATOR>
+            <IME>Uroš</IME>
+            <PRIIMEK>Svete</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date" format="W3CDTF">2010-01-01</DATE>
+        <MENU_ID id="17">Monografije</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons licenca" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />To <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">delo</span> avtorja <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.sistory.si/SISTORY:ID:37943" property="cc:attributionName" rel="cc:attributionURL">Zdenko Čepič, Filip Čuček, Jure Gašparič, Damijan Guštin,
+Božo Repe, Uroš Svete
+</a> je ponujeno pod <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Priznanje avtorstva-Nekomercijalno-Brez predelav 4.0 International licenco</a>.]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Prikrita modra mreža: organi za notranje zadeve Republike Slovenije v projektu MSNZ leta 1990</TITLE>
+        <TITLE titleType="Alternative Title" lang="slv">Clandestine blue network: bodies of the interior of the Republic of Slovenia in the project Manoeuvre Structure of National Defence in the year 1990</TITLE>
+        <SUBJECT lang="slv">obrambne sile</SUBJECT>
+        <SUBJECT lang="slv">manevrska struktura</SUBJECT>
+        <SUBJECT lang="slv">teritorialna obramba</SUBJECT>
+        <SUBJECT lang="slv">Jugoslovanska ljudska armada</SUBJECT>
+        <SUBJECT lang="slv">milica</SUBJECT>
+        <SUBJECT lang="eng">defense forces</SUBJECT>
+        <SUBJECT lang="eng">manoeuvre structure</SUBJECT>
+        <SUBJECT lang="eng">territorial defense</SUBJECT>
+        <SUBJECT lang="eng">Yugoslav People's Army</SUBJECT>
+        <SUBJECT lang="eng">militia</SUBJECT>
+        <PUBLISHER>Zveza policijskih veteranskih društev Sever, Ljubljana</PUBLISHER>
+        <PUBLISHER>Inštitut za novejšo zgodovino, Ljubljana</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>2010</YEAR>
+        <DATETIME_ADDED>2017-08-21 06:47:02</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-08-21 16:18:02</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="Prikrita_modra_mreza.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+        <CHILDREN>
+            <CHILD>37946</CHILD>
+            <CHILD>37947</CHILD>
+            <CHILD>37948</CHILD>
+            <CHILD>37949</CHILD>
+            <CHILD>37950</CHILD>
+            <CHILD>37951</CHILD>
+            <CHILD>37952</CHILD>
+            <CHILD>37953</CHILD>
+        </CHILDREN>
+    </publication>
+    <publication>
+        <ID>37942</ID>
+        <URN>11686/37942</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CREATOR>
+            <IME>Metod</IME>
+            <PRIIMEK>Mikuž</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date" format="W3CDTF">1973-01-01</DATE>
+        <MENU_ID id="17">Monografije</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons licenca" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />To <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">delo</span> avtorja <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.sistory.si/SISTORY:ID:37942" property="cc:attributionName" rel="cc:attributionURL">Metod Mikuž</a> je ponujeno pod <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Priznanje avtorstva-Nekomercijalno-Brez predelav 4.0 International licenco</a>.]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Pregled zgodovine narodnoosvobodilne borbe v Sloveniji</TITLE>
+        <TITLE titleType="Title" lang="slv">peta knjiga</TITLE>
+        <SUBJECT lang="slv">druga svetovna vojna</SUBJECT>
+        <SUBJECT lang="slv">NOB</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="eng">WW II</SUBJECT>
+        <SUBJECT lang="eng">national liberation struggle</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <PUBLISHER>Cankarjeva založba, Ljubljana</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1973</YEAR>
+        <DATETIME_ADDED>2017-08-21 06:46:34</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-08-21 16:18:15</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="Pregled_zgodovine_NOB_v_Sloveniji_V.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>37941</ID>
+        <URN>11686/37941</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CREATOR>
+            <IME>Metod</IME>
+            <PRIIMEK>Mikuž</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date" format="W3CDTF">1973-01-01</DATE>
+        <MENU_ID id="17">Monografije</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons licenca" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />To <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">delo</span> avtorja <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.sistory.si/SISTORY:ID:37941" property="cc:attributionName" rel="cc:attributionURL">Metod Mikuž</a> je ponujeno pod <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Priznanje avtorstva-Nekomercijalno-Brez predelav 4.0 International licenco</a>.]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Pregled zgodovine narodnoosvobodilne borbe v Sloveniji</TITLE>
+        <TITLE titleType="Title" lang="slv">četrta knjiga</TITLE>
+        <SUBJECT lang="slv">druga svetovna vojna</SUBJECT>
+        <SUBJECT lang="slv">NOB</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="eng">WW II</SUBJECT>
+        <SUBJECT lang="eng">national liberation struggle</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <PUBLISHER>Cankarjeva založba, Ljubljana</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1973</YEAR>
+        <DATETIME_ADDED>2017-08-21 06:46:06</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-08-21 16:18:28</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="Pregled_zgodovine_NOB_IV_knjige.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>37940</ID>
+        <URN>11686/37940</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CREATOR>
+            <IME>Metod</IME>
+            <PRIIMEK>Mikuž</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date" format="W3CDTF">1973-01-01</DATE>
+        <MENU_ID id="17">Monografije</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons licenca" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />To <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">delo</span> avtorja <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.sistory.si/SISTORY:ID:37940" property="cc:attributionName" rel="cc:attributionURL">Metod Mikuž</a> je ponujeno pod <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Priznanje avtorstva-Nekomercijalno-Brez predelav 4.0 International licenco</a>.]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Pregled zgodovine narodnoosvobodilne borbe v Sloveniji</TITLE>
+        <TITLE titleType="Title" lang="slv">tretja knjiga</TITLE>
+        <SUBJECT lang="slv">druga svetovna vojna</SUBJECT>
+        <SUBJECT lang="slv">NOB</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="eng">WW II</SUBJECT>
+        <SUBJECT lang="eng">national liberation struggle</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <PUBLISHER>Cankarjeva založba, Ljubljana</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1973</YEAR>
+        <DATETIME_ADDED>2017-08-21 06:45:29</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-08-21 16:18:38</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="Pregled_zgodovine_NOB_III.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>37939</ID>
+        <URN>11686/37939</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CREATOR>
+            <IME>Metod</IME>
+            <PRIIMEK>Mikuž</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date" format="W3CDTF">1956-01-01</DATE>
+        <MENU_ID id="17">Monografije</MENU_ID>
+        <LANGUAGE lang="srp">16</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons licenca" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />To <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">delo</span> avtorja <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.sistory.si/SISTORY:ID:37939" property="cc:attributionName" rel="cc:attributionURL">Metod Mikuž</a> je ponujeno pod <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Priznanje avtorstva-Nekomercijalno-Brez predelav 4.0 International licenco</a>.]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="srp">Pregled razvoja NOB u Sloveniji I</TITLE>
+        <SUBJECT lang="slv">druga svetovna vojna</SUBJECT>
+        <SUBJECT lang="slv">NOB</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="eng">WW II</SUBJECT>
+        <SUBJECT lang="eng">nationa liberation struggle</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <PUBLISHER>Vojno delo, Beograd</PUBLISHER>
+        <COLLECTION>Iz ratne prošlosti naših naroda, 12</COLLECTION>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1956</YEAR>
+        <DATETIME_ADDED>2017-08-21 06:44:58</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-08-21 16:18:50</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="Pregled_razvoja_NOB_u_Sloveniji.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>37938</ID>
+        <URN>11686/37938</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CREATOR>
+            <IME>Metod</IME>
+            <PRIIMEK>Mikuž</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date" format="W3CDTF">1961-01-01</DATE>
+        <MENU_ID id="17">Monografije</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons licenca" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />To <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">delo</span> avtorja <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.sistory.si/SISTORY:ID:37938" property="cc:attributionName" rel="cc:attributionURL">Metod Mikuž</a> je ponujeno pod <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Priznanje avtorstva-Nekomercijalno-Brez predelav 4.0 International licenco</a>.]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Pregled zgodovine narodnoosvobodilne borbe v Sloveniji</TITLE>
+        <TITLE titleType="Title" lang="slv">druga knjiga</TITLE>
+        <SUBJECT lang="slv">druga svetovna vojna</SUBJECT>
+        <SUBJECT lang="slv">NOB</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="eng">WW II</SUBJECT>
+        <SUBJECT lang="eng">national liberation struggle</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <PUBLISHER>Cankarjeva založba, Ljubljana</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1961</YEAR>
+        <DATETIME_ADDED>2017-08-21 06:44:28</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-08-21 16:19:02</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="Pregled_NOB_v_Sloveniji_II.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
+        <ID>37937</ID>
+        <URN>11686/37937</URN>
+        <CHILD_ORDER>1</CHILD_ORDER>
+        <CREATOR>
+            <IME>Metod</IME>
+            <PRIIMEK>Mikuž</PRIIMEK>
+        </CREATOR>
+        <DATE type="Date" format="W3CDTF">1960-01-01</DATE>
+        <MENU_ID id="17">Monografije</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <COPYRIGHT>
+            <![CDATA[<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons licenca" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />To <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">delo</span> avtorja <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.sistory.si/SISTORY:ID:37937" property="cc:attributionName" rel="cc:attributionURL">Metod Mikuž</a> je ponujeno pod <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Priznanje avtorstva-Nekomercijalno-Brez predelav 4.0 International licenco</a>.]]>
+        </COPYRIGHT>
+        <TITLE titleType="Title" lang="slv">Pregled zgodovine narodnoosvobodilne borbe v Sloveniji</TITLE>
+        <TITLE titleType="Title" lang="slv">prva knjiga</TITLE>
+        <SUBJECT lang="slv">druga svetovna vojna</SUBJECT>
+        <SUBJECT lang="slv">NOB</SUBJECT>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="eng">WW II</SUBJECT>
+        <SUBJECT lang="eng">national liberation struggle</SUBJECT>
+        <SUBJECT lang="eng">Slovenia</SUBJECT>
+        <PUBLISHER>Cankarjeva založba, Ljubljana</PUBLISHER>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>1960</YEAR>
+        <DATETIME_ADDED>2017-08-21 06:43:23</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-08-21 16:19:11</DATETIME_MODIFIED>
+        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <PUBLICATION file="Nob_v_Sloveniji_1960.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+    </publication>
+    <publication>
         <ID>37846</ID>
         <URN>11686/37846</URN>
         <CHILD_ORDER>1</CHILD_ORDER>
@@ -815,6 +2217,7 @@ To delo avtorskopravno ni varovano.
             <IME>Jurij</IME>
             <PRIIMEK>Hadalin</PRIIMEK>
         </CREATOR>
+        <DATE type="Date">2011</DATE>
         <MENU_ID id="17">Monografije</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
@@ -847,8 +2250,8 @@ To delo avtorskopravno ni varovano.
         <LOCK>0</LOCK>
         <YEAR>2011</YEAR>
         <DATETIME_ADDED>2017-03-07 09:59:55</DATETIME_ADDED>
-        <DATETIME_MODIFIED>2017-06-19 16:26:27</DATETIME_MODIFIED>
-        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <DATETIME_MODIFIED>2017-06-20 11:09:07</DATETIME_MODIFIED>
+        <USER_ID_ADDED>81</USER_ID_ADDED>
         <PUBLICATION file="Recognitiones-12-Hadalin.pdf">
             <ATTRIBUTE type="digitalFormat">image/jpeg</ATTRIBUTE>
         </PUBLICATION>
@@ -861,6 +2264,7 @@ To delo avtorskopravno ni varovano.
             <IME>Janez</IME>
             <PRIIMEK>Kopač</PRIIMEK>
         </CREATOR>
+        <DATE type="Date">2006</DATE>
         <MENU_ID id="17">Monografije</MENU_ID>
         <LANGUAGE lang="slv">1</LANGUAGE>
         <PAGE>0</PAGE>
@@ -890,8 +2294,8 @@ To delo avtorskopravno ni varovano.
         <LOCK>0</LOCK>
         <YEAR>2006</YEAR>
         <DATETIME_ADDED>2017-03-07 09:54:04</DATETIME_ADDED>
-        <DATETIME_MODIFIED>2017-06-19 16:26:35</DATETIME_MODIFIED>
-        <USER_ID_ADDED>6</USER_ID_ADDED>
+        <DATETIME_MODIFIED>2017-09-05 11:10:37</DATETIME_MODIFIED>
+        <USER_ID_ADDED>81</USER_ID_ADDED>
         <PUBLICATION file="lokalna_oblast_na_slovenskem_1945-1955.pdf">
             <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
         </PUBLICATION>
@@ -1648,7 +3052,7 @@ To delo avtorskopravno ni varovano.
         <LOCK>0</LOCK>
         <YEAR>2016</YEAR>
         <DATETIME_ADDED>2016-11-10 12:26:01</DATETIME_ADDED>
-        <DATETIME_MODIFIED>2017-02-20 16:27:08</DATETIME_MODIFIED>
+        <DATETIME_MODIFIED>2017-06-20 18:38:00</DATETIME_MODIFIED>
         <USER_ID_ADDED>11</USER_ID_ADDED>
         <PUBLICATION file="index.html">
             <ATTRIBUTE type="digitalFormat">text/html</ATTRIBUTE>
@@ -4527,7 +5931,7 @@ Croatia these factors have to be taken into account. Yet the creators o f such s
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Matjaž Klemenčič<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Matjaž Klemenčič<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Ustanovitev slovenske države - davna želja vseh Slovencev!?</TITLE>
         <TITLE titleType="Title" lang="eng">Establishment of Slovene State - An Ancient Wish of Slovenes!?</TITLE>
@@ -5223,7 +6627,7 @@ historical generalizations and concepts. Borrowing the définition of historic m
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Andrej Hozjan<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Andrej Hozjan<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Slovenske aktualizacije mitskega in stereotipnega v zgodovinopisju na svetovnem spletu</TITLE>
         <TITLE titleType="Title" lang="slv">Primeri nepolitičnih društev v RS</TITLE>
@@ -6744,7 +8148,7 @@ Rogaška Slatina Thermal Spa and Its History
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; France Filipič<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; France Filipič<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Okoliščine in potek nastajanja "Speransa"</TITLE>
         <SUBJECT lang="slv">Slovenija</SUBJECT>
@@ -6785,7 +8189,7 @@ Rogaška Slatina Thermal Spa and Its History
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Metod Mikuž<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Metod Mikuž<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Časovni okvir nastanka Speransove knjige</TITLE>
         <SUBJECT lang="slv">Slovenija</SUBJECT>
@@ -7544,7 +8948,7 @@ Rogaška Slatina Thermal Spa and Its History
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Marija Wakounig<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Marija Wakounig<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Žandarji ali roparji. Integracija Uskokov kot regionalni problem</TITLE>
         <SUBJECT lang="slv">Jugovzhodna Evropa - Balkan</SUBJECT>
@@ -7809,7 +9213,7 @@ Priznanje avtorstva-Nekomercijalno-Brez predelav 4.0 International licenco</a>.]
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Darko Friš<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Darko Friš<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Pozdravni govor predsednika Zgodovinskega društva dr. Fran Kovačič, Maribor.</TITLE>
         <SUBJECT lang="slv">Slovenci</SUBJECT>
@@ -8373,7 +9777,7 @@ Avtorske pravice so potekle, delo je v javni domeni.
         <COPYRIGHT>
             <![CDATA[<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons licenca" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />To <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">delo</span> avtorja <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.sistory.si/SISTORY:ID:35096" property="cc:attributionName" rel="cc:attributionURL">Marija Počivavšek</a> je ponujeno pod <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Priznanje avtorstva-Nekomercijalno-Brez predelav 4.0 International licenco</a>.]]>
         </COPYRIGHT>
-        <TITLE titleType="Title" lang="slv">En gros &amp; en detail</TITLE>
+        <TITLE titleType="Title" lang="slv">En gros  	&amp;amp; en detail</TITLE>
         <TITLE titleType="Title" lang="slv">Trgovina v Sloveniji do druge svetovne vojne : trendi, strukture, prakse</TITLE>
         <TITLE titleType="Alternative Title" lang="deu">Der Handel in Slowenien bis zum 2. Weltkrieg: Trends, Strukturen, Praktiken</TITLE>
         <SUBJECT lang="slv">trgovina</SUBJECT>
@@ -9426,7 +10830,7 @@ Avtorske pravice so potekle, delo je v javni domeni.
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Dragan Potočnik<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Dragan Potočnik<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Gospodarske razmere v Mariboru med svetovnima vojnama</TITLE>
         <SUBJECT lang="slv">Maribor</SUBJECT>
@@ -9738,7 +11142,7 @@ Avtorske pravice so potekle, delo je v javni domeni.
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Darko Friš<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Darko Friš<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Naši izseljenci na obisku v stari "domovini" (1836-1941)</TITLE>
         <SUBJECT lang="slv">Slovenija</SUBJECT>
@@ -11087,7 +12491,7 @@ pojasnjevali s pomenom “gorohodec” ali “hribohodec” kot posebna vrsta po
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Deborah Rogoznica<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Deborah Rogoznica<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Otroštvo v razmerah vojaške uprave</TITLE>
         <TITLE titleType="Title" lang="slv">Skrb za otroke v coni B Svobodnega tržaškega ozemlja s posebnim poudarkom na koprski okraj</TITLE>
@@ -11515,7 +12919,7 @@ pojasnjevali s pomenom “gorohodec” ali “hribohodec” kot posebna vrsta po
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Riccardo Damiani<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Riccardo Damiani<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="eng">Italian Lictor Youth of Ljubljana: the Foundation and the Organisation</TITLE>
         <TITLE titleType="Title" lang="ita">La GILL di Lubiana: nascita ed organizzazione</TITLE>
@@ -12026,7 +13430,7 @@ in different socio-cultural mirrors.
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Stanislav Južnič<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Stanislav Južnič<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Geniji v kratkih hlačah za zgodovino znanosti in tehnike</TITLE>
         <TITLE titleType="Alternative Title" lang="eng">Child Prodigies in History of Science and Technology</TITLE>
@@ -15360,7 +16764,7 @@ in different socio-cultural mirrors.
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Tomaž Weber<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Tomaž Weber<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Problemi vizualizacije in zgodovinskega pouka in njihove rešitve</TITLE>
         <TITLE titleType="Alternative Title" lang="eng">Problems of visualizing History lessons and their solutions</TITLE>
@@ -25414,7 +26818,7 @@ in different socio-cultural mirrors.
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Alojz Cindrič<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Alojz Cindrič<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Vpliv dunajske univerze na oblikovanje slovenskega izobraženstva: statistična slika študentov s Kranjske na dunajski univerzi med leti 1804 in 1917 : študijske smeri, krajevni in socialni izvor</TITLE>
         <PUBLISHER>Oddelek za zgodovino Filozofske fakultete Univerze v Ljubljani, Ljubljana</PUBLISHER>
@@ -25602,7 +27006,7 @@ in different socio-cultural mirrors.
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Janez Debeljak<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Janez Debeljak<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Maršiči in Žukovo - Mikužev drugi dom</TITLE>
         <PUBLISHER>Oddelek za zgodovino Filozofske fakultete Univerze v Ljubljani, Ljubljana</PUBLISHER>
@@ -25674,7 +27078,7 @@ in different socio-cultural mirrors.
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Viktorija Centa<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Viktorija Centa<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Začetki Ribniškega muzeja</TITLE>
         <PUBLISHER>Oddelek za zgodovino Filozofske fakultete Univerze v Ljubljani, Ljubljana</PUBLISHER>
@@ -25826,7 +27230,7 @@ in different socio-cultural mirrors.
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Dean Ceglar<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Dean Ceglar<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Sodstvo v Ribnica</TITLE>
         <PUBLISHER>Oddelek za zgodovino Filozofske fakultete Univerze v Ljubljani, Ljubljana</PUBLISHER>
@@ -26626,7 +28030,7 @@ in different socio-cultural mirrors.
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Matjaž Klemenčič<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Matjaž Klemenčič<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Leadville (Kolorado) in tamkajšnji Slovenci v času prve in druge svetovne vojne</TITLE>
         <PUBLISHER>Oddelek za zgodovino Filozofske fakultete Univerze v Ljubljani, Ljubljana</PUBLISHER>
@@ -27690,7 +29094,7 @@ in different socio-cultural mirrors.
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Feliks J. Bister<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Feliks J. Bister<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Biti Slovenec v Avstriji</TITLE>
         <PUBLISHER>Oddelek za zgodovino Filozofske fakultete Univerze v Ljubljani, Ljubljana</PUBLISHER>
@@ -28057,7 +29461,7 @@ in different socio-cultural mirrors.
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Frane Jerman<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Frane Jerman<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Slovenska narodna identiteta in slovenska filozofija</TITLE>
         <PUBLISHER>Oddelek za zgodovino Filozofske fakultete Univerze v Ljubljani, Ljubljana</PUBLISHER>
@@ -28157,7 +29561,7 @@ in different socio-cultural mirrors.
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Igor Grdina<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Igor Grdina<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Konstituiranje slovenske narodne identitete in slovenska književnost (v trikotniku Avstrija - Jugoslavija - Slovenija)</TITLE>
         <PUBLISHER>Oddelek za zgodovino Filozofske fakultete Univerze v Ljubljani, Ljubljana</PUBLISHER>
@@ -28297,7 +29701,7 @@ in different socio-cultural mirrors.
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Janko Prunk<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Janko Prunk<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Razvoj slovenske narodne identitete v prvi Jugoslaviji</TITLE>
         <PUBLISHER>Oddelek za zgodovino Filozofske fakultete Univerze v Ljubljani, Ljubljana</PUBLISHER>
@@ -28363,7 +29767,7 @@ in different socio-cultural mirrors.
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Andreas Moritsch<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Andreas Moritsch<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Narodna identiteta - nujnost ali anahronizem?</TITLE>
         <PUBLISHER>Oddelek za zgodovino Filozofske fakultete Univerze v Ljubljani, Ljubljana</PUBLISHER>
@@ -28393,7 +29797,7 @@ in different socio-cultural mirrors.
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Arnold Suppan<br />Uredništvo portala SIstory nima soglasja prevajalca za objavo dela.]]>
+            <![CDATA[&amp;#169; Arnold Suppan<br />Uredništvo portala SIstory nima soglasja prevajalca za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Najnovejša avstrijska dela o slovenski identiteti</TITLE>
         <PUBLISHER>Oddelek za zgodovino Filozofske fakultete Univerze v Ljubljani, Ljubljana</PUBLISHER>
@@ -28493,7 +29897,7 @@ in different socio-cultural mirrors.
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Gerhard Wagner<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Gerhard Wagner<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Otvoritveni govor</TITLE>
         <PUBLISHER>Oddelek za zgodovino Filozofske fakultete Univerze v Ljubljani, Ljubljana</PUBLISHER>
@@ -33134,7 +34538,7 @@ Avtorske pravice so potekle, delo je v javni domeni.
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Miran Puconja<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Miran Puconja<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Vprašanje ilirizma</TITLE>
         <PUBLISHER>Zgodovinsko društvo Celje, Celje</PUBLISHER>
@@ -33165,7 +34569,7 @@ Avtorske pravice so potekle, delo je v javni domeni.
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Franc Krnjak<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Franc Krnjak<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Kočevarjev rod</TITLE>
         <PUBLISHER>Zgodovinsko društvo Celje, Celje</PUBLISHER>
@@ -33195,7 +34599,7 @@ Avtorske pravice so potekle, delo je v javni domeni.
         <TYPE title="Besedilo">1</TYPE>
         <TYPE_DC title="Text">12</TYPE_DC>
         <COPYRIGHT>
-            <![CDATA[&#169; Jožica Vodeb<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
+            <![CDATA[&amp;#169; Jožica Vodeb<br />Uredništvo portala SIstory nima soglasja avtorja za objavo dela.]]>
         </COPYRIGHT>
         <TITLE titleType="Title" lang="slv">Celjska Narodna čitalnica 1862-1873</TITLE>
         <PUBLISHER>Muzej novejše zgodovine, Celje</PUBLISHER>
@@ -35470,6 +36874,53 @@ of the transition into a new and different paradigm of development, social relat
         <IMAGE>Plasti prostora in casa.jpg</IMAGE>
     </publication>
     <publication>
+        <ID>1562</ID>
+        <URN>11686/1562</URN>
+        <CHILD_ORDER>6841</CHILD_ORDER>
+        <CONTRIBUTOR>Žarko Lazarević</CONTRIBUTOR>
+        <CONTRIBUTOR>Aleksander Lorenčič</CONTRIBUTOR>
+        <DATE type="Date">2009</DATE>
+        <MENU_ID id="17">Monografije</MENU_ID>
+        <LANGUAGE lang="slv">1</LANGUAGE>
+        <PAGE>0</PAGE>
+        <TYPE title="Besedilo">1</TYPE>
+        <TYPE_DC title="Text">12</TYPE_DC>
+        <TITLE titleType="Title" lang="slv">Podobe modernizacije</TITLE>
+        <TITLE titleType="Title" lang="slv">Poglavja iz gospodarske in socialne modernizacije Slovenije v 19. in 20. stoletju</TITLE>
+        <SUBJECT lang="slv">Slovenija</SUBJECT>
+        <SUBJECT lang="slv">ekonomska zgodovina</SUBJECT>
+        <SUBJECT lang="slv">socialna zgodovina</SUBJECT>
+        <SUBJECT lang="slv">19.-20. stoletje</SUBJECT>
+        <PUBLISHER>Inštitut za novejšo zgodovino, Ljubljana</PUBLISHER>
+        <COLLECTION>Zbirka Razpoznavanja = Recognitiones ; 8</COLLECTION>
+        <STATUS>1</STATUS>
+        <LOCK>0</LOCK>
+        <YEAR>2009</YEAR>
+        <DATETIME_ADDED>2011-11-02 09:23:14</DATETIME_ADDED>
+        <DATETIME_MODIFIED>2017-09-26 09:28:12</DATETIME_MODIFIED>
+        <USER_ID_ADDED>81</USER_ID_ADDED>
+        <PUBLICATION file="podobe modernizacije.pdf">
+            <ATTRIBUTE type="digitalFormat">application/pdf</ATTRIBUTE>
+        </PUBLICATION>
+        <IMAGE>Podobe modernizacije.jpg</IMAGE>
+        <CHILDREN>
+            <CHILD>38004</CHILD>
+            <CHILD>38005</CHILD>
+            <CHILD>38006</CHILD>
+            <CHILD>38007</CHILD>
+            <CHILD>38008</CHILD>
+            <CHILD>38009</CHILD>
+            <CHILD>38010</CHILD>
+            <CHILD>38011</CHILD>
+            <CHILD>38012</CHILD>
+            <CHILD>38013</CHILD>
+            <CHILD>38014</CHILD>
+            <CHILD>38015</CHILD>
+            <CHILD>38016</CHILD>
+            <CHILD>38017</CHILD>
+        </CHILDREN>
+    </publication>
+    <publication>
         <ID>1561</ID>
         <URN>11686/1561</URN>
         <CHILD_ORDER>177</CHILD_ORDER>
@@ -36513,14 +37964,14 @@ of the transition into a new and different paradigm of development, social relat
         <SUBJECT lang="eng">trust</SUBJECT>
         <PUBLISHER>Državni zbor, Ljubljana</PUBLISHER>
         <COLLECTION>Knjižna zbirka Državnega zbora Republike Slovenije</COLLECTION>
-        <SOURCE sourceType="Vir - URN Naslov">http://www.dz-rs.si/wps/PA_DZ-LN-Publikacije/PublikacijeRes?unid=9A2C9C1EC553CAB1C12577FF003A9EF5&amp;fn=Zbornik_prihodnost_parlamentarne_demokracije.pdf&amp;server=s+1zJY7Z+hsVN6lhtc0Tv+RCCpmK+zzxtdhQk9FGWGE=</SOURCE>
+        <SOURCE sourceType="Vir - URN Naslov">SISTORY:ID:1299</SOURCE>
         <COVERAGE coverageType="Coverage" lang="slv">Slovenija, 1990-2010</COVERAGE>
         <STATUS>1</STATUS>
         <LOCK>0</LOCK>
         <YEAR>2010</YEAR>
         <DATETIME_ADDED>2011-11-21 23:08:07</DATETIME_ADDED>
-        <DATETIME_MODIFIED>2017-02-14 09:20:23</DATETIME_MODIFIED>
-        <USER_ID_ADDED>100</USER_ID_ADDED>
+        <DATETIME_MODIFIED>2017-06-20 12:49:51</DATETIME_MODIFIED>
+        <USER_ID_ADDED>11</USER_ID_ADDED>
         <PARENT>933</PARENT>
     </publication>
     <publication>
@@ -36691,15 +38142,15 @@ of the transition into a new and different paradigm of development, social relat
         <SUBJECT lang="eng">national minoretis</SUBJECT>
         <PUBLISHER>Državni zbor, Ljubljana</PUBLISHER>
         <COLLECTION>Knjižna zbirka Državnega zbora Republike Slovenije</COLLECTION>
-        <SOURCE sourceType="Vir - URN Naslov">http://www.dz-rs.si/wps/PA_DZ-LN-Publikacije/PublikacijeRes?unid=9A2C9C1EC553CAB1C12577FF003A9EF5&amp;fn=Zbornik_prihodnost_parlamentarne_demokracije.pdf&amp;server=s+1zJY7Z+hsVN6lhtc0Tv+RCCpmK+zzxtdhQk9FGWGE=</SOURCE>
+        <SOURCE sourceType="Vir - URN Naslov">SISTORY:ID:1295</SOURCE>
         <COVERAGE coverageType="Coverage" lang="slv">Slovenija, 1990-2010</COVERAGE>
         <LINK>http://www.dz-rs.si/wps/PA_DZ-LN-Publikacije/PublikacijeRes?unid=9A2C9C1EC553CAB1C12577FF003A9EF5&amp;fn=Zbornik_prihodnost_parlamentarne_demokracije.pdf&amp;server=s+1zJY7Z+hsVN6lhtc0Tv+RCCpmK+zzxtdhQk9FGWGE=</LINK>
         <STATUS>1</STATUS>
         <LOCK>0</LOCK>
         <YEAR>2010</YEAR>
         <DATETIME_ADDED>2011-11-21 23:09:02</DATETIME_ADDED>
-        <DATETIME_MODIFIED>2017-02-14 09:21:14</DATETIME_MODIFIED>
-        <USER_ID_ADDED>100</USER_ID_ADDED>
+        <DATETIME_MODIFIED>2017-06-20 12:50:35</DATETIME_MODIFIED>
+        <USER_ID_ADDED>11</USER_ID_ADDED>
         <PARENT>933</PARENT>
     </publication>
     <publication>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           ID="entity."
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/1269">
+   <METS:metsHdr CREATEDATE="2011-11-21T20:55:41"
+                 LASTMODDATE="2016-11-29T16:22:31"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.6" TYPE="INDIVIDUAL">
+         <METS:name>JurijHadalin</METS:name>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="default.dc">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="eng">The Slovak Question and its International Context during World War Two</dcterms:title>
+            <dcterms:alternative xml:lang="slv">Slovaško vprašanje v mednarodnem kontekstu v času med drugo svetovno vojno</dcterms:alternative>
+            <dcterms:creator>Segeš, Dušan</dcterms:creator>
+            <dcterms:subject xml:lang="slv">Srednja Evropa</dcterms:subject>
+            <dcterms:subject xml:lang="slv">Slovaška</dcterms:subject>
+            <dcterms:subject xml:lang="slv">druga svetovna vojna</dcterms:subject>
+            <dcterms:subject xml:lang="slv">okupacija</dcterms:subject>
+            <dcterms:subject xml:lang="slv">povojna zgodovina</dcterms:subject>
+            <dcterms:subject xml:lang="slv">slovaško vprašanje</dcterms:subject>
+            <dcterms:subject xml:lang="slv">diplomacija</dcterms:subject>
+            <dcterms:subject xml:lang="slv">Češkoslovaška</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Central Europe</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Slovakia</dcterms:subject>
+            <dcterms:subject xml:lang="eng">second world war</dcterms:subject>
+            <dcterms:subject xml:lang="eng">occupation</dcterms:subject>
+            <dcterms:subject xml:lang="eng">diplomacy</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Czechoslovakia</dcterms:subject>
+            <dcterms:publisher>Inštitut za novejšo zgodovino, Ljubljana</dcterms:publisher>
+            <dcterms:contributor>Zdenko Čepič (ur.)</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2008</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">Text</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">eng</dcterms:language>
+            <dcterms:language xsi:type="dcterms:ISO639-3">slv</dcterms:language>
+            <dcterms:coverage xml:lang="slv">srednja Evropa, 1945-1989</dcterms:coverage>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="default.amd">
+      <METS:techMD ID="default.premis">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>si4</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue/>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>Local name</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>1269</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>http://hdl.handle.net/11686/1269#page=214</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectCategory>Entity</premis:objectCategory>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="default.si4">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity">
+               <entity:page>214</entity:page>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   ID="default.structure"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/780"/>
+         <METS:div TYPE="entity" DMDID="default.dc" ADMID="default.amd"/>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

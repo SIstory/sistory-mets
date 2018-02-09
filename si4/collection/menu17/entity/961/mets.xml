@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           ID="entity."
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/961">
+   <METS:metsHdr CREATEDATE="2011-11-02T20:38:29"
+                 LASTMODDATE="2017-02-13T09:09:25"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name>Meden, Katja</METS:name>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="default.dc">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="slv">In kaj je svobode cena</dcterms:title>
+            <dcterms:title xml:lang="slv">Konec druge svetovne vojne na Koroškem</dcterms:title>
+            <dcterms:creator>Linasi, Marjan</dcterms:creator>
+            <dcterms:description xml:lang="slv">Pričujoča publikacija je katalog k istoimenski razstavi, ki smo jo pripravili v Koroškem pokrajinskem muzeju 13. mojo letos ob 60. obletnici konca druge svetovne vojne, ki je na Koroškem trajala teden dni dlje kot drugod v Evropi. Zadnji boji druge svetovne vojne so bili že doslej bolj kot katerakoli druga tema iz tega obdobja deležni velike pozornosti zgodovinarjev, po tudi novinarjev, publicistov ter zbiralcev dokumentarnega in materialnega gradiva. Ohranilo se je veliko število spominskih zapisov neposrednih udeležencev, tako zmagovalcev kot poražencev, nekateri med njimi so napisali zajetne knjige. Kljub številnim publikacijam in obravnavam tematike v okviru drugih, širših študij o drugi vojni ter mnogim simpozijem in strokovnim posvetom (zadnjega smo organizirali ravno v okviru letošnjega obeleževanja) po celo o dogajanju samem se vedno marsičesa ne vemo, kaj šele o vzrokih za posamezne dogodke ali usodne odločitve. Pogledov in interpretacij je se vedno veliko in se med seboj razlikujejo. Kako se torej znajti v poplavi različnih informacij? Kaj je brez odkritja novih dokumentov in drugih primarnih virov sploh se mogoče dodati novega? To so bila vprašanja, no katera smo želeli odgovoriti že no začetku v pripravah no pričujoči projekt. Priložnost, ki jo ponuja zgolj okrogla obletnica, je bržkone premalo, saj je tema obširna, se vedno izzivalna in bo taksna ostala tudi v bodoče, ko se bodo z njo bržkone morali spopasti močnejši timi strokovnjakov, kot jih premore naša institucija. Omejili smo se torej na sistematičen pregled obstoječega študijskega gradiva in nazoren prikaz kronologije dogodkov no prizorišču zadnjih bojev in v njegovi bližini, skušali smo jih umestiti v širši evropski in nacionalni okvir zadnjih mesecev vojne, nos cilj po je bil predvsem obuditi spomin no dogodke izpred šestih desetletij, ko se je slovenski narod, ki mu je nacizem v času okupacije ob uresničevanju davne težnje nemškega nacionalizma o prodoru do Jadrana namenil narodno smrt, rešil silne more, ki go je tlačila štiri leta, in no novo zaživel. Istočasno želimo opozoriti tudi no tragiko časa, ki je bil krut in surov, saj so številni ljudje umirali, ko je bil drugod v Evropi že mir, ali po so kmalu potem postali žrtve množičnih izvensodnih pobojev, ki jih je zaukazala na novo porajajoča se oblast. Pokloniti se želimo vsem žrtvam, ne glede no to, na kateri strani so se znašli v vrtincu vojne in v kaosu ob njenem koncu, predvsem po njihovim svojcem, ki se danes, šestdeset let po dogodkih niso preboleli izgube najdražjih, kar je dokaz, kako dolgoročne so negativne posledice vsake vojne in kako koristno bi bilo, če bi se iz negativnih izkušenj kaj naučili.</dcterms:description>
+            <dcterms:subject xml:lang="slv">svetovna vojna</dcterms:subject>
+            <dcterms:subject xml:lang="slv">1939-1945</dcterms:subject>
+            <dcterms:subject xml:lang="slv">Koroška</dcterms:subject>
+            <dcterms:subject xml:lang="slv">Slovenija</dcterms:subject>
+            <dcterms:subject xml:lang="slv">NOB</dcterms:subject>
+            <dcterms:subject xml:lang="eng">world war</dcterms:subject>
+            <dcterms:subject xml:lang="eng">1939-1945</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Charintia</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Slovenia</dcterms:subject>
+            <dcterms:subject xml:lang="eng">National liberation fight</dcterms:subject>
+            <dcterms:publisher>Koroški pokrajinski muzej, Slovenj Gradec</dcterms:publisher>
+            <dcterms:contributor>Wolfgang Zitta (prevod)</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2005</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">Text</dcterms:type>
+            <dcterms:identifier>COBISS.SI-ID 54793473</dcterms:identifier>
+            <dcterms:language xsi:type="dcterms:ISO639-3">slv</dcterms:language>
+            <dcterms:coverage xml:lang="slv">Koroška, 1939-1945</dcterms:coverage>
+            <dcterms:license xsi:type="dcterms:URI">http://creativecommons.org/licenses/by-nc-nd/2.5/si/</dcterms:license>
+            <dcterms:license xml:lang="slv">Priznanje avtorstva-Nekomercialo-Brez predelav 2.5 Slovenija (CC BY-NC-ND 2.5 SI)</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="default.amd">
+      <METS:techMD ID="default.premis">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>si4</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue/>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>Local name</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>961</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>http://hdl.handle.net/11686/961</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectCategory>Entity</premis:objectCategory>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="default.si4">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity"/>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink" ID="default.file">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="file500"
+                    OWNERID="IN_KAJ_JE_SVOBODE_CENA-Konec_druge_svetovne_vojne_na_Koroskem.pdf">
+            <METS:FLocat LOCTYPE="HANDLE" xlink:href="https://hdl.handle.net/11686/file500"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   ID="default.structure"
+                   TYPE="primary">
+      <METS:div TYPE="collection">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/menu17"/>
+         <METS:div TYPE="entity" DMDID="default.dc" ADMID="default.amd">
+            <METS:fptr FILEID="file500"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           ID="entity."
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/9599">
+   <METS:metsHdr CREATEDATE="2012-08-01T11:21:57"
+                 LASTMODDATE="2017-02-13T11:15:32"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name>Meden, Katja</METS:name>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="default.dc">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="slv">Knjiga hiš v Škofji Loki I</dcterms:title>
+            <dcterms:title xml:lang="slv">Predmestja Karlovec, Trata, Studenec, Kapucinsko predmestje</dcterms:title>
+            <dcterms:title xml:lang="slv">Druga polovica 18. stoletja do 1980</dcterms:title>
+            <dcterms:alternative xml:lang="deu">Die Häuser in Škofja Loka</dcterms:alternative>
+            <dcterms:alternative xml:lang="deu">Vorstädte Karlovec, Trata, Studenec und Kapuzinervorstadt</dcterms:alternative>
+            <dcterms:creator>Štukl, France</dcterms:creator>
+            <dcterms:description xml:lang="slv">Po obnovitvi arhivske službe v Škofji Loki, ko se je leta 1967 arhiv odcepil od muzeja v Škofji Loki in priključil Zgodovinskemu arhivu v Ljubljani, je kmalu dozorela misel, da je potrebno iz bogate loške arhivske zakladnice pričeti načrtno obdelovati in objavljati vire, predvsem take, ki se do sedaj niso dosti uporabljali. To pa so v našem primeru zemljiške knjige, ki so v uporabi še danes. Loška zemljiška knjiga za mestne zadeve še ni bila uporabljena in je bi la tako mrtev kapital, ki za tekočo rabo ni bil več koristen in ga je sodišče v Škofji Loki po zadnji vojni odstopilo muzeju, ta pa po reorganizaciji arhivske službe loškemu arhivu. Za obdelavo zemljiških knjig za mestni predel in predmestja me je navdušil moj takratni ravnatelj dr. Sergij Vilfan, ki je sam sodeloval pri začetni metodi dela, na modelu, ki sva ga skupaj preskusi la na nekaterih hišah v Karlovcu. Z novejšimi podatki za loške hiše, zbranih na sodišču v Škofji Loki, se je takrat ukvarjal tudi profesor France Planina, ki mi je velikodušno odstopil podatke. Govore o lastnikih zadnjih 100 let. Po odhodu dr. Vilfana za profesorja na pravno fakulteto leta 1972 in zaradi moje zaposlenosti in drugih nalog je delo zastalo do leta 1980. V tem letu smo ponovno preverili vse podatke, nadaljevali z deli na sodišču v Škofji Loki in še enkrat dopolnili Planinove izpiske, ki so se v osmih letih ponekod že spremenili. Ker se zadnji podatki iz prve serije zemljiške knjige niso ujemali s podatki s sodišča, smo jih še enkrat preverili in uskladili. Da bi bila podoba, ki smo jo dobili iz zemljiških knjig, še bolj živa, smo za našo knjigo pritegnili še druge vire, o katerih pa pozneje. V prvem delu Knjige hiš poročam o hišah v loških predmestjih. Predmestij sem se lotil zaradi tega, ker so manj zahtevna. Ob metodi, ki se je tu izoblikovala, bom pomisleke drugih strokovnjakov, kritične pripombe, dodatke in dobre ideje rade volje vključil v drugi del knjige za Mesto …</dcterms:description>
+            <dcterms:subject xml:lang="slv">Škofja Loka</dcterms:subject>
+            <dcterms:subject xml:lang="slv">predmestja</dcterms:subject>
+            <dcterms:subject xml:lang="slv">zemljiške knjige</dcterms:subject>
+            <dcterms:subject xml:lang="slv">hiše</dcterms:subject>
+            <dcterms:subject xml:lang="slv">lastniki</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Škofja Loka</dcterms:subject>
+            <dcterms:subject xml:lang="eng">suburbs</dcterms:subject>
+            <dcterms:subject xml:lang="eng">land registry</dcterms:subject>
+            <dcterms:publisher>Zgodovinski arhiv Ljubljana, Škofja Loka</dcterms:publisher>
+            <dcterms:contributor>Jože Žontar (odg. ur.)</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:W3CDTF">1981</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">Text</dcterms:type>
+            <dcterms:identifier>COBISS.SI-ID 23906561</dcterms:identifier>
+            <dcterms:language xsi:type="dcterms:ISO639-3">slv</dcterms:language>
+            <dcterms:isPartOf>Gradivo in razprave; 4</dcterms:isPartOf>
+            <dcterms:isPartOf xsi:type="dcterms:URI">http://hdl.handle.net/11686/20231</dcterms:isPartOf>
+            <dcterms:isPartOf xsi:type="dcterms:URI">http://hdl.handle.net/11686/4878</dcterms:isPartOf>
+            <dcterms:license xsi:type="dcterms:URI">http://creativecommons.org/licenses/by-nc-nd/2.5/si/</dcterms:license>
+            <dcterms:license xml:lang="slv">Priznanje avtorstva-Nekomercialo-Brez predelav 2.5 Slovenija (CC BY-NC-ND 2.5 SI)</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:dmdSec ID="default.mods">
+      <METS:mdWrap MDTYPE="MODS" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <mods:mods>
+               <mods:relatedItem type="series">
+                  <mods:relatedItem type="series">
+                     <mods:titleInfo>
+                        <mods:title>Gradivo in razprave</mods:title>
+                     </mods:titleInfo>
+                     <mods:part>
+                        <mods:detail type="volumens">
+                           <mods:number>4</mods:number>
+                        </mods:detail>
+                     </mods:part>
+                  </mods:relatedItem>
+               </mods:relatedItem>
+            </mods:mods>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="default.amd">
+      <METS:techMD ID="default.premis">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>si4</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue/>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>Local name</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>9599</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>http://hdl.handle.net/11686/9599</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectCategory>Entity</premis:objectCategory>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="default.si4">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity"/>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink" ID="default.file">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="file3082"
+                    OWNERID="Razprave_in_gradiva-4_KNJIGA_HIS_V_SKOFJI_LOKI_I.pdf">
+            <METS:FLocat LOCTYPE="HANDLE" xlink:href="https://hdl.handle.net/11686/file3082"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   ID="default.structure"
+                   TYPE="primary">
+      <METS:div TYPE="collection">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/menu17"/>
+         <METS:div TYPE="entity" DMDID="default.dc default.mods" ADMID="default.amd">
+            <METS:fptr FILEID="file3082"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

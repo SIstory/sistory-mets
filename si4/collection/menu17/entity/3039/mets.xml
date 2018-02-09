@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           ID="entity."
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/3039">
+   <METS:metsHdr CREATEDATE="2011-11-23T16:45:40"
+                 LASTMODDATE="2017-02-13T12:32:55"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name>Meden, Katja</METS:name>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="default.dc">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="slv">OF v Ljubljani</dcterms:title>
+            <dcterms:title xml:lang="slv">Organiziranost v času italijanske okupacije 1941-1943</dcterms:title>
+            <dcterms:creator>Tršan, Lojz</dcterms:creator>
+            <dcterms:description xml:lang="slv">Ljubljana je bila pred napadom na Kraljevino Jugoslavijo aprila 1941 vodilno slovensko mesto tudi v političnem pogledu, Tu so bila vodstva vseh pomembnih političnih strank, sindikalnih organizacij in gibanj, pa tudi ljubljanska organizacija ilegalne Komunistične partije Slovenije (KPS) je bila v mestu in zlasti v okolici številčnejša kot drugje na Slovenskem. Do prvega tesnejšega povezovanja med političnimi skupinami, ki so po okupaciji ustanovile Protiimperialistično, kasneje preimenovano v Osvobodilno fronto slovenskega naroda, je prišlo ob ustanavljanju Društva prijateljev Sovjetske zveze. Predstavniki KPS so najprej navezali stike s posameznimi kulturniki, z nekdanjim ljubljanskim županom Ivanom Hribarjem in inž. Črtomirom Nagodetom, ki je postal tudi tajnik društva ter krščanskimi socialisti, s skupinami okrog dr. Aleša Stanovnika in Edvarda Kocbeka in krščansko socialistično sindikalno organizacijo, Jugoslovansko strokovno zvezo, katere tajnik je bil Tone Fajfar, predsednik pa Srečko Žumer. Krščanski socialisti so po pretrganju stikov s strani KPS poiskali zvezo z njimi na lastno pobudo. Za to so se odločili na tajnem sestanku v Laškem junija 1940, z namenom, da bodo skupaj s KPS sodelovali pri obrambi domovine pred naraščajočo močjo italijanskega fašizma in nemškega nacizma, Z vodstvom levega krila sokola, ki je nastalo po razcepu v organizaciji pa je KPS navezala stike konec decembra 1940, najprej s Francetom Lubejem, zatem po se z drugimi. Torej kasnejša ustanovitev Protiimperialistične fronte ni bila nenadejano dejanje, pač pa zavestna odločitev vseh treh njenih najpomembnejših političnih skupin, da bodo sodelovale in udejanjale obrambne, osvobodilne kot tudi socialne teženje v delu slovenskega naroda.</dcterms:description>
+            <dcterms:subject xml:lang="slv">Ljubljana</dcterms:subject>
+            <dcterms:subject xml:lang="slv">NOB</dcterms:subject>
+            <dcterms:subject xml:lang="slv">italijanska okupacija</dcterms:subject>
+            <dcterms:subject xml:lang="slv">Osvobodilna fronta slovenskega naroda</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Ljubljana</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Liberation front</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Italian occupation</dcterms:subject>
+            <dcterms:publisher>Arhiv Republike Slovenije, Ljubljana</dcterms:publisher>
+            <dcterms:date xsi:type="dcterms:W3CDTF">1995</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">Text</dcterms:type>
+            <dcterms:identifier>COBISS.SI-ID 49925632</dcterms:identifier>
+            <dcterms:language xsi:type="dcterms:ISO639-3">slv</dcterms:language>
+            <dcterms:isPartOf xsi:type="dcterms:URI">http://hdl.handle.net/11686/4896</dcterms:isPartOf>
+            <dcterms:license xsi:type="dcterms:URI">http://creativecommons.org/licenses/by-nc-nd/2.5/si/</dcterms:license>
+            <dcterms:license xml:lang="slv">Priznanje avtorstva-Nekomercialo-Brez predelav 2.5 Slovenija (CC BY-NC-ND 2.5 SI)</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="default.amd">
+      <METS:techMD ID="default.premis">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>si4</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue/>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>Local name</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>3039</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>http://hdl.handle.net/11686/3039</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectCategory>Entity</premis:objectCategory>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="default.si4">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity"/>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink" ID="default.file">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="file1196" OWNERID="OF V LJUBLJANI.pdf">
+            <METS:FLocat LOCTYPE="HANDLE" xlink:href="https://hdl.handle.net/11686/file1196"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   ID="default.structure"
+                   TYPE="primary">
+      <METS:div TYPE="collection">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/menu17"/>
+         <METS:div TYPE="entity" DMDID="default.dc" ADMID="default.amd">
+            <METS:fptr FILEID="file1196"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

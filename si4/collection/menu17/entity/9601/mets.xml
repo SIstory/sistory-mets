@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           ID="entity."
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/9601">
+   <METS:metsHdr CREATEDATE="2012-08-01T11:21:11"
+                 LASTMODDATE="2017-02-13T11:18:59"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name>Meden, Katja</METS:name>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="default.dc">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="slv">Knjiga hiš v Škofji Loki III</dcterms:title>
+            <dcterms:title xml:lang="slv">Stara Loka in njene hiše</dcterms:title>
+            <dcterms:creator>Štukl, France</dcterms:creator>
+            <dcterms:description xml:lang="slv">Po objavi Knjige hiš v Škofji Loki I., Zgodovinski arhiv Ljubljana, Gradivo in razprave št. 4, Škofja Loka 1981, ki obsega loška predmestja, in Knjige hiš v Škofji Loki II., Zgodovinski arhiv Ljubljana, Gradivo in razprave št. 7, Škofja Loka 1984, kjer je obdelano mesto Loka, sem se odločil še za podobno obdelavo naselja Stara Loka. Kraju prav gotovo ne smemo reči vas. Stara Loka ni pravo mesto, predmestje ali trg. Zato je bil pri tem delu potreben nekoliko drugačen pristop kot pri mestnih in predmestnih hišah. Za loško gospostvo in mesto Škofjo Loko obstoji bogata literatura. Omenim naj le prispevke dr. Pavleta Blaznika, ki se navezujejo tudi na okolico mesta. Prav gotovo so pri Stari Loki uporabne vse njegove ugotovitve, saj je zgodovina Loke navezana na zgodovino Stare Loke. V Stari Loki je bil sedež loške župnije in to kar do začetka 19. stoletja. Naselja ne smemo enačiti z navadno kmečko vasjo. Stara Loka je bila farno središče tudi za mesto.</dcterms:description>
+            <dcterms:description xml:lang="eng">The sources for the study on Stara Loka (German: Altlaak, Altlack) or Fara we re the parochial documents of the Archbishopric in Ljubljana, and the archives of the Stara Loka manor stored in the Archives of the Republic of Slovenia, in Ljubljana. For the research on the houses the author also used land registers, cadasters and in particular, the collections of land registers of the Škofja Loka Archives. Most of the memoirs and literature on Fara were published at the end of the 19th century by Franc Kramer, Franc Pokorn and Dr. Franc Kos.</dcterms:description>
+            <dcterms:subject xml:lang="slv">zemljiške knjige</dcterms:subject>
+            <dcterms:subject xml:lang="slv">hiše</dcterms:subject>
+            <dcterms:subject xml:lang="slv">lastniki</dcterms:subject>
+            <dcterms:subject xml:lang="slv">Škofja Loka</dcterms:subject>
+            <dcterms:subject xml:lang="eng">land registry</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Škofja Loka</dcterms:subject>
+            <dcterms:publisher>Zgodovinski arhiv Ljubljana, Ljubljana - Škofja Loka</dcterms:publisher>
+            <dcterms:contributor>Janez Kopač (odg. ur.)</dcterms:contributor>
+            <dcterms:contributor>Niko Hudelja (prev. nem.)</dcterms:contributor>
+            <dcterms:contributor>Katarina Kobilica (prev. ang.)</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:W3CDTF">1996</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">Text</dcterms:type>
+            <dcterms:identifier>COBISS.SI-ID 63324672</dcterms:identifier>
+            <dcterms:language xsi:type="dcterms:ISO639-3">slv</dcterms:language>
+            <dcterms:isPartOf>Gradivo in razprave; 17</dcterms:isPartOf>
+            <dcterms:isPartOf xsi:type="dcterms:URI">http://hdl.handle.net/11686/20231</dcterms:isPartOf>
+            <dcterms:isPartOf xsi:type="dcterms:URI">http://hdl.handle.net/11686/4878</dcterms:isPartOf>
+            <dcterms:license xsi:type="dcterms:URI">http://creativecommons.org/licenses/by-nc-nd/2.5/si/</dcterms:license>
+            <dcterms:license xml:lang="slv">Priznanje avtorstva-Nekomercialo-Brez predelav 2.5 Slovenija (CC BY-NC-ND 2.5 SI)</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:dmdSec ID="default.mods">
+      <METS:mdWrap MDTYPE="MODS" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <mods:mods>
+               <mods:relatedItem type="series">
+                  <mods:relatedItem type="series">
+                     <mods:titleInfo>
+                        <mods:title>Gradivo in razprave</mods:title>
+                     </mods:titleInfo>
+                     <mods:part>
+                        <mods:detail type="volumens">
+                           <mods:number>17</mods:number>
+                        </mods:detail>
+                     </mods:part>
+                  </mods:relatedItem>
+               </mods:relatedItem>
+            </mods:mods>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="default.amd">
+      <METS:techMD ID="default.premis">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>si4</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue/>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>Local name</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>9601</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>http://hdl.handle.net/11686/9601</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectCategory>Entity</premis:objectCategory>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="default.si4">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity"/>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink" ID="default.file">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="file3084"
+                    OWNERID="Razprave_in_gradiva-17_KNJIGA_HIS_V_SKOFJI_LOKI_III..pdf">
+            <METS:FLocat LOCTYPE="HANDLE" xlink:href="https://hdl.handle.net/11686/file3084"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   ID="default.structure"
+                   TYPE="primary">
+      <METS:div TYPE="collection">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/menu17"/>
+         <METS:div TYPE="entity" DMDID="default.dc default.mods" ADMID="default.amd">
+            <METS:fptr FILEID="file3084"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

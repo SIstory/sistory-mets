@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           ID="entity."
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/12961">
+   <METS:metsHdr CREATEDATE="2012-10-17T12:26:10"
+                 LASTMODDATE="2017-02-13T11:25:03"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name>Meden, Katja</METS:name>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="default.dc">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="slv">Kulturni boj</dcterms:title>
+            <dcterms:title xml:lang="slv">Slovenska kulturna politika v Kraljevini SHS 1918-1929</dcterms:title>
+            <dcterms:alternative xml:lang="eng">Cultural Struggle</dcterms:alternative>
+            <dcterms:alternative xml:lang="eng">Slovene CuItural Policy in the Kingdom of Serbs, Croats and Slovenes from 1918 to 1929</dcterms:alternative>
+            <dcterms:creator>Dolenc, Ervin</dcterms:creator>
+            <dcterms:description xml:lang="slv">Pričujoče delo skuša osvetliti ključna institucionalna vprašanja slovenske kulture, to je izobraževanja, znanosti in umetnosti, ob prehodu iz nemškega kulturnega vpliva v prvo jugoslovansko državo. Kraljevina SHS je bila tudi prva slovenska narodna država. Pri prikazu velikih organizacijskih in s tem tudi vsebinskih sprememb v prvem desetletju nove državne skupnosti, je bilo potrebno, tako pri ustanovah, kot pri strankarski kulturni politiki, seči v desetletja pred prvo svetovno vojno, marsikje pa so se obravnavani procesi nadaljevali še v trideseta leta in dlje.</dcterms:description>
+            <dcterms:description xml:lang="eng">This book presents an attempt to shed light on the key institutional questions within Slovene culture-that is education, science and art-at the time of its transition from the German cultural influence into the first Yugoslav state. The Kingdom of Serbs, Croats and Slovenes (KSCS) was the first ever Slovene "national" state. In order to show major structural and, consequently, substantial changes in both the institutions and cultural policy of the political parties during the first decade of the new state community, one has to look back at the decades before World War 1, although in many areas these processes continued into the thirties and beyond.</dcterms:description>
+            <dcterms:subject xml:lang="slv">kulturna zgodovina</dcterms:subject>
+            <dcterms:subject xml:lang="slv">kulturna politika</dcterms:subject>
+            <dcterms:subject xml:lang="slv">izobraževanje</dcterms:subject>
+            <dcterms:subject xml:lang="slv">znanost</dcterms:subject>
+            <dcterms:subject xml:lang="slv">umetnost</dcterms:subject>
+            <dcterms:subject xml:lang="slv">Slovenija</dcterms:subject>
+            <dcterms:subject xml:lang="slv">1918-1929</dcterms:subject>
+            <dcterms:subject xml:lang="eng">cultural history</dcterms:subject>
+            <dcterms:subject xml:lang="eng">cultural policy</dcterms:subject>
+            <dcterms:subject xml:lang="eng">education</dcterms:subject>
+            <dcterms:subject xml:lang="eng">science</dcterms:subject>
+            <dcterms:subject xml:lang="eng">arts</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Slovenia</dcterms:subject>
+            <dcterms:subject xml:lang="eng">1918-1929</dcterms:subject>
+            <dcterms:publisher>Cankarjeva založba, Ljubljana</dcterms:publisher>
+            <dcterms:contributor>Zdravko Duša (ur.)</dcterms:contributor>
+            <dcterms:contributor>Ksenija Dolinar (gl. ur.)</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:W3CDTF">1996</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">Text</dcterms:type>
+            <dcterms:identifier>COBISS.SI-ID 56274688</dcterms:identifier>
+            <dcterms:language xsi:type="dcterms:ISO639-3">slv</dcterms:language>
+            <dcterms:isPartOf xsi:type="dcterms:URI">http://hdl.handle.net/11686/20232</dcterms:isPartOf>
+            <dcterms:license xsi:type="dcterms:URI">http://creativecommons.org/licenses/by-nc-nd/2.5/si/</dcterms:license>
+            <dcterms:license xml:lang="slv">Priznanje avtorstva-Nekomercialo-Brez predelav 2.5 Slovenija (CC BY-NC-ND 2.5 SI)</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="default.amd">
+      <METS:techMD ID="default.premis">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>si4</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue/>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>Local name</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>12961</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>http://hdl.handle.net/11686/12961</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectCategory>Entity</premis:objectCategory>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="default.si4">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity"/>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink" ID="default.file">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID=""
+                    OWNERID="Kulturni_boj - Slovenska_kulturna_politika_v_Kraljevini_SHS.pdf">
+            <METS:FLocat LOCTYPE="HANDLE" xlink:href="https://hdl.handle.net/11686/"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   ID="default.structure"
+                   TYPE="primary">
+      <METS:div TYPE="collection">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/menu17"/>
+         <METS:div TYPE="entity" DMDID="default.dc" ADMID="default.amd">
+            <METS:fptr FILEID=""/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

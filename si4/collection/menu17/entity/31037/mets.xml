@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           ID="entity."
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/31037">
+   <METS:metsHdr CREATEDATE="2015-06-02T11:41:24"
+                 LASTMODDATE="2017-02-15T12:19:49"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name>Meden, Katja</METS:name>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="default.dc">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="eng">Yugoslav Union for Children Protection (1933–1941)</dcterms:title>
+            <dcterms:alternative xml:lang="hrv">Jugoslovenska unija za zaštitu dece (1933–1941)</dcterms:alternative>
+            <dcterms:creator>Stankov, Lilijana</dcterms:creator>
+            <dcterms:abstract xml:lang="slv">Izgradnja sistema zaščite otroke v Kraljevini Srbov, Hrvatov in Slovencev se je odvijala počasi, spremljalo pa jo je veliko neusklajenosti in napak. Pristojnosti s področja zaščite otrok so bile razdeljene na štiri ministrstva. Mreža ustanov za izvajanje zaščite ni bila razvita in tudi njihovo delo ni bilo koordinirano. Potreba po povezovanju elementov sistema zaščite otrok v koherentno celoto je vplivala na to, da se na pobudo humanitarnih društev in organizacij leta 1933 ustanovi Jugoslovanska unija za zaščito otrok kot centralni organ, ki bi prispeval k prebroditvi obstoječih problemov.</dcterms:abstract>
+            <dcterms:abstract xml:lang="eng">Building the system of children protection in the Kingdom of Serbs, Croats and Slovenes, was happening slowly, with lots of inconsistencies and mistakes. Four different miniseries had jurisdiction over the protection of children. Network of institutions for protection implementation was poorly developped and their cooperation was not coordinated. Out of a need to unite different systems of their protection under the initiative of humanitarian societies and organisations a Yugoslav Union for protection of children was founded in 1933, as a central organ that would make a contribution towards resolving existing issues.</dcterms:abstract>
+            <dcterms:subject xml:lang="slv">zaščita otrok</dcterms:subject>
+            <dcterms:subject xml:lang="slv">humanitarna društva</dcterms:subject>
+            <dcterms:subject xml:lang="slv">otroški domovi</dcterms:subject>
+            <dcterms:subject xml:lang="slv">rejniške družine</dcterms:subject>
+            <dcterms:subject xml:lang="slv">vrtci</dcterms:subject>
+            <dcterms:subject xml:lang="eng">children protection</dcterms:subject>
+            <dcterms:subject xml:lang="eng">humanitarian societies</dcterms:subject>
+            <dcterms:subject xml:lang="eng">children’s homes</dcterms:subject>
+            <dcterms:subject xml:lang="eng">foster families</dcterms:subject>
+            <dcterms:subject xml:lang="eng">kindergartens</dcterms:subject>
+            <dcterms:publisher>Zveza zgodovinskih društev Slovenije</dcterms:publisher>
+            <dcterms:contributor>Peter Štih (gl. in od. ur.)</dcterms:contributor>
+            <dcterms:contributor>Aida Škoro Babić (ur. in prev.)</dcterms:contributor>
+            <dcterms:contributor>Mateja Jeraj (ur.)</dcterms:contributor>
+            <dcterms:contributor>Matevž Košir (ur.)</dcterms:contributor>
+            <dcterms:contributor>Bojan Balkovec (ur.)</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2012</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">Text</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">srp</dcterms:language>
+            <dcterms:isPartOf>Zbirka zgodovinskega časopisa, 45</dcterms:isPartOf>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:dmdSec ID="default.mods">
+      <METS:mdWrap MDTYPE="MODS" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <mods:mods>
+               <mods:relatedItem type="series">
+                  <mods:titleInfo>
+                     <mods:title>Zbirka zgodovinskega časopisa, 45</mods:title>
+                  </mods:titleInfo>
+               </mods:relatedItem>
+            </mods:mods>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="default.amd">
+      <METS:techMD ID="default.premis">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>si4</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue/>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>Local name</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>31037</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>http://hdl.handle.net/11686/31037#page=278</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectCategory>Entity</premis:objectCategory>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="default.si4">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity">
+               <entity:page>278</entity:page>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   ID="default.structure"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/31016"/>
+         <METS:div TYPE="entity" DMDID="default.dc default.mods" ADMID="default.amd"/>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

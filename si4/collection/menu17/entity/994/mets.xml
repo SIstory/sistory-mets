@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           ID="entity."
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/994">
+   <METS:metsHdr CREATEDATE="2011-11-02T20:32:31"
+                 LASTMODDATE="2017-02-13T11:28:14"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name>Meden, Katja</METS:name>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="default.dc">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="slv">Liberalizem in vprašanje slovenstva</dcterms:title>
+            <dcterms:title xml:lang="slv">Nacionalna politika liberalnega tabora v letih 1918-1929</dcterms:title>
+            <dcterms:creator>Perovšek, Jurij</dcterms:creator>
+            <dcterms:description xml:lang="slv">Študija Liberalizem in vprašanje slovenstva obravnava temo, ki danes, po ustanovitvi in mednarodni uveljavitvi slovenske nacionalne države Republike Slovenije gotovo predstavlja enega vidnejših izzivov, s katerimi se po izreku t. i. jugoslovanske dobe srečuje slovensko zgodovinopisje. Novejšo slovensko zgodovino namreč vse od revolucijskega programa Zedinjene Slovenije leta 1848 na različne načine preveva osrednja misel - doseči osebno in narodno osvoboditev Slovencev ter po vzoru drugih narodov okusiti polno uveljavitev. svobodo, suverenost in enakopraven položaj v občestvu narodov sveta. Vprašanje slovenske narodne osvoboditve in emancipacije je postalo osrednja preokupacija vsakega idejnega in političnega gibanja, ki se je v zadnjem stoletju in pol teoretsko ali politično preizkušalo na slovenskih tleh. Soočanje s slovenskim narodnim vprašanjem in iskanje njegove rešitve preveva vso slovensko politično zgodovino. Stališča do tega vprašanja so bila nadvse različna, zato so postala torišče hudih bojev in razdvajanj v slovenski politiki. To je postalo očitno zlasti po koncu avstrijsko-nemškega obdobja v slovenski zgodovini. Odpiralo se je novo, še neznano in nepreverjeno jugoslovansko obzorje, v katerem so si Slovenci obetali miren, skladen nacionalni razvoj brez vsakršne hegemonije in zatiranja. Toda ta pričakovanja so se izjalovila in dotedanje slovensko nacionalno snovanje se je znašlo na odločilnem razpotju- kako razrešiti vprašanje slovenskega narodno-političnega bivanja v tako željno pričakovani južnoslovanski državi. Politična volja po slovenski narodni osvoboditvi in zedinjenju z južnimi Slovani se je namreč po razpadu habsburške monarhije in oblikovanju Kraljevine Srbov, Hrvatov in Slovencev (Kraljevine SHS) soočila s stvarnostjo v novi državi, ki je na osnovi svojega temeljnega državnega zakona, vidovdanske ustave, vzpostavljala nacionalni unitarizem in centralistični državnopravni ustroj.</dcterms:description>
+            <dcterms:subject xml:lang="slv">Liberalizem</dcterms:subject>
+            <dcterms:subject xml:lang="slv">Slovenija</dcterms:subject>
+            <dcterms:subject xml:lang="slv">Jugoslavija</dcterms:subject>
+            <dcterms:subject xml:lang="slv">politična zgodovina</dcterms:subject>
+            <dcterms:subject xml:lang="slv">1918-1929</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Slovenia</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Yugoslavia</dcterms:subject>
+            <dcterms:subject xml:lang="eng">liberalism</dcterms:subject>
+            <dcterms:subject xml:lang="eng">political history</dcterms:subject>
+            <dcterms:publisher>Modrijan, Ljubljana</dcterms:publisher>
+            <dcterms:date xsi:type="dcterms:W3CDTF">1996</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">Text</dcterms:type>
+            <dcterms:identifier>COBISS.SI-ID 61650688</dcterms:identifier>
+            <dcterms:language xsi:type="dcterms:ISO639-3">slv</dcterms:language>
+            <dcterms:isPartOf xsi:type="dcterms:URI">http://hdl.handle.net/11686/4870</dcterms:isPartOf>
+            <dcterms:coverage xml:lang="slv">Slovenija, 1918-1929</dcterms:coverage>
+            <dcterms:license xsi:type="dcterms:URI">http://creativecommons.org/licenses/by-nc-nd/2.5/si/</dcterms:license>
+            <dcterms:license xml:lang="slv">Priznanje avtorstva-Nekomercialo-Brez predelav 2.5 Slovenija (CC BY-NC-ND 2.5 SI)</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="default.amd">
+      <METS:techMD ID="default.premis">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>si4</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue/>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>Local name</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>994</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>http://hdl.handle.net/11686/994</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectCategory>Entity</premis:objectCategory>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="default.si4">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity"/>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink" ID="default.file">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="file532" OWNERID="LIBERALIZEM_IN_VPRASANJE_SLOVENSTVA.pdf">
+            <METS:FLocat LOCTYPE="HANDLE" xlink:href="https://hdl.handle.net/11686/file532"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   ID="default.structure"
+                   TYPE="primary">
+      <METS:div TYPE="collection">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/menu17"/>
+         <METS:div TYPE="entity" DMDID="default.dc" ADMID="default.amd">
+            <METS:fptr FILEID="file532"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

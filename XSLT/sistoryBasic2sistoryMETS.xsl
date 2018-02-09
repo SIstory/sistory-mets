@@ -43,7 +43,7 @@
     <xsl:strip-space elements="*"/>
     
     <!-- določi si, kje naj ustvari folderje z mets datetekami -->
-    <xsl:param name="outputDir">/Users/administrator/Documents/moje/Sheme/sistory-mets/</xsl:param>
+    <xsl:param name="outputDir">/Users/administrator/Documents/moje/Sheme/sistory-mets/si4/collection/</xsl:param>
     
     <xsl:param name="users">
     <user>
@@ -65,94 +65,10 @@
         <priimek>Banfi</priimek>
     </user>
     <user>
-        <id>118</id>
-        <username>Damjana</username>
-        <ime>Damjana</ime>
-        <priimek>Ivan</priimek>
-    </user>
-    <user>
-        <id>117</id>
-        <username>Cergolka</username>
-        <ime>Ana</ime>
-        <priimek>Cergol Paradiž</priimek>
-    </user>
-    <user>
-        <id>116</id>
-        <username>Boyzl</username>
-        <ime>Bojan</ime>
-        <priimek>Pesek</priimek>
-    </user>
-    <user>
         <id>115</id>
         <username>marusa</username>
         <ime>Maruša</ime>
         <priimek>Kocjančič</priimek>
-    </user>
-    <user>
-        <id>114</id>
-        <username>chersos</username>
-        <ime>Igor</ime>
-        <priimek>Medarić</priimek>
-    </user>
-    <user>
-        <id>113</id>
-        <username>martinnedoh</username>
-        <ime>Martin</ime>
-        <priimek>Nedoh</priimek>
-    </user>
-    <user>
-        <id>112</id>
-        <username>saraprimec</username>
-        <ime>Sara</ime>
-        <priimek>Primec</priimek>
-    </user>
-    <user>
-        <id>111</id>
-        <username>damijanzrim</username>
-        <ime>Damijan</ime>
-        <priimek>Zrim</priimek>
-    </user>
-    <user>
-        <id>110</id>
-        <username>ninahvalec</username>
-        <ime>Nina</ime>
-        <priimek>Hvalec</priimek>
-    </user>
-    <user>
-        <id>109</id>
-        <username>sindicasar</username>
-        <ime>Sindi</ime>
-        <priimek>Časar</priimek>
-    </user>
-    <user>
-        <id>108</id>
-        <username>elenafranetic</username>
-        <ime>Elena</ime>
-        <priimek>Franetič</priimek>
-    </user>
-    <user>
-        <id>107</id>
-        <username>ninagolouh</username>
-        <ime>Nina</ime>
-        <priimek>Golouh</priimek>
-    </user>
-    <user>
-        <id>106</id>
-        <username>dorotejajancar</username>
-        <ime>Doroteja</ime>
-        <priimek>Jančar</priimek>
-    </user>
-    <user>
-        <id>105</id>
-        <username>niveshribar</username>
-        <ime>Nives</ime>
-        <priimek>Hribar</priimek>
-    </user>
-    <user>
-        <id>104</id>
-        <username>gregamejak</username>
-        <ime>Grega</ime>
-        <priimek>Mejak</priimek>
     </user>
     <user>
         <id>102</id>
@@ -179,96 +95,6 @@
         <priimek></priimek>
     </user>
     <user>
-        <id>98</id>
-        <username>timijetrcek</username>
-        <ime>Timotej</ime>
-        <priimek>Trček</priimek>
-    </user>
-    <user>
-        <id>97</id>
-        <username>OlgaM</username>
-        <ime>Olga</ime>
-        <priimek>Marčič</priimek>
-    </user>
-    <user>
-        <id>96</id>
-        <username>masaslatnar</username>
-        <ime>Maša</ime>
-        <priimek>Slatnar</priimek>
-    </user>
-    <user>
-        <id>95</id>
-        <username>SaraB</username>
-        <ime>Sara</ime>
-        <priimek>Bertalanič</priimek>
-    </user>
-    <user>
-        <id>94</id>
-        <username>jazstl</username>
-        <ime>Luka</ime>
-        <priimek>Ruter</priimek>
-    </user>
-    <user>
-        <id>93</id>
-        <username>tomaz91m</username>
-        <ime>Tomaž</ime>
-        <priimek>Mesarič</priimek>
-    </user>
-    <user>
-        <id>92</id>
-        <username>januspintaric</username>
-        <ime>Janus</ime>
-        <priimek>Pintarič</priimek>
-    </user>
-    <user>
-        <id>91</id>
-        <username>buldymuldy</username>
-        <ime>Olga</ime>
-        <priimek>Marčič</priimek>
-    </user>
-    <user>
-        <id>90</id>
-        <username>jurkosek</username>
-        <ime>Katarina</ime>
-        <priimek>Jurkošek</priimek>
-    </user>
-    <user>
-        <id>89</id>
-        <username>timitrcek</username>
-        <ime>Timotej</ime>
-        <priimek>Trček</priimek>
-    </user>
-    <user>
-        <id>88</id>
-        <username>Nina Vidic</username>
-        <ime>Nina</ime>
-        <priimek>Vidic</priimek>
-    </user>
-    <user>
-        <id>86</id>
-        <username>tadejm</username>
-        <ime>tadej</ime>
-        <priimek>madjar</priimek>
-    </user>
-    <user>
-        <id>85</id>
-        <username>brigitasepec</username>
-        <ime>Brigita</ime>
-        <priimek>Šepec</priimek>
-    </user>
-    <user>
-        <id>84</id>
-        <username>sabinaslankovic</username>
-        <ime>Sabina</ime>
-        <priimek>Slankovič</priimek>
-    </user>
-    <user>
-        <id>83</id>
-        <username>domenvirant</username>
-        <ime>domen</ime>
-        <priimek>virant</priimek>
-    </user>
-    <user>
         <id>82</id>
         <username>mitjag</username>
         <ime>Mitja</ime>
@@ -287,64 +113,10 @@
         <priimek></priimek>
     </user>
     <user>
-        <id>79</id>
-        <username>MilanG</username>
-        <ime>Milan</ime>
-        <priimek>Grbovic</priimek>
-    </user>
-    <user>
         <id>78</id>
         <username>Filip</username>
         <ime>Filip</ime>
         <priimek>Čuček</priimek>
-    </user>
-    <user>
-        <id>77</id>
-        <username>majaa89</username>
-        <ime>Maja</ime>
-        <priimek>Furlan</priimek>
-    </user>
-    <user>
-        <id>76</id>
-        <username>dinc1990</username>
-        <ime>Dijana</ime>
-        <priimek>Klašnja</priimek>
-    </user>
-    <user>
-        <id>75</id>
-        <username>tadeja.d.</username>
-        <ime>Tadeja</ime>
-        <priimek>Dolinšek</priimek>
-    </user>
-    <user>
-        <id>74</id>
-        <username>mihaV</username>
-        <ime>Miha</ime>
-        <priimek>Varga</priimek>
-    </user>
-    <user>
-        <id>73</id>
-        <username>s.sitar</username>
-        <ime>Sebastjan</ime>
-        <priimek>Sitar</priimek>
-    </user>
-    <user>
-        <id>72</id>
-        <username>zgodovina1</username>
-        <ime>Špela</ime>
-        <priimek>Bezjak</priimek>
-    </user>
-    <user>
-        <id>71</id>
-        <username>mrtinca</username>
-        <ime>Martina</ime>
-        <priimek>Sirk</priimek>
-    </user>
-    <user>
-        <id>70</id>
-        <username>marsel91</username>
-        <ime>Marsel</ime>
-        <priimek>Hotić</priimek>
     </user>
     <user>
         <id>69</id>
@@ -359,160 +131,16 @@
         <priimek>Tominšek Čehulić</priimek>
     </user>
     <user>
-        <id>67</id>
-        <username>jaroslava.zver</username>
-        <ime>Jaroslava</ime>
-        <priimek>Zver</priimek>
-    </user>
-    <user>
-        <id>66</id>
-        <username>Tanja Martinčič</username>
-        <ime>Tanja</ime>
-        <priimek>Martinčič</priimek>
-    </user>
-    <user>
-        <id>65</id>
-        <username>galluskovec</username>
-        <ime>Gal</ime>
-        <priimek>Luskovec</priimek>
-    </user>
-    <user>
         <id>64</id>
         <username>sonjab</username>
         <ime>Sonja</ime>
         <priimek>Bezjak</priimek>
     </user>
     <user>
-        <id>63</id>
-        <username>gilgalad3</username>
-        <ime>Andraž</ime>
-        <priimek>Svetek</priimek>
-    </user>
-    <user>
-        <id>62</id>
-        <username>jarosalva zver</username>
-        <ime>Jaroslava</ime>
-        <priimek>Zver</priimek>
-    </user>
-    <user>
-        <id>61</id>
-        <username>gasper</username>
-        <ime>Gašper</ime>
-        <priimek>Nastran</priimek>
-    </user>
-    <user>
-        <id>60</id>
-        <username>lsiljar</username>
-        <ime>lucija</ime>
-        <priimek>šiljar</priimek>
-    </user>
-    <user>
-        <id>59</id>
-        <username>Jan</username>
-        <ime>Jan</ime>
-        <priimek>Hrovat</priimek>
-    </user>
-    <user>
-        <id>58</id>
-        <username>RZupan</username>
-        <ime>Rok</ime>
-        <priimek>Zupan</priimek>
-    </user>
-    <user>
-        <id>57</id>
-        <username>Castor</username>
-        <ime>Matej</ime>
-        <priimek>Kebe</priimek>
-    </user>
-    <user>
-        <id>56</id>
-        <username>polhek</username>
-        <ime>Žiga</ime>
-        <priimek>Grošelj</priimek>
-    </user>
-    <user>
-        <id>55</id>
-        <username>matejacadez</username>
-        <ime>Mateja</ime>
-        <priimek>Čadež</priimek>
-    </user>
-    <user>
-        <id>54</id>
-        <username>katja93</username>
-        <ime>Katja</ime>
-        <priimek>Bušić</priimek>
-    </user>
-    <user>
-        <id>53</id>
-        <username>JernejMakovec</username>
-        <ime>Jernej</ime>
-        <priimek>Makovec</priimek>
-    </user>
-    <user>
-        <id>52</id>
-        <username>MonikaNovak7</username>
-        <ime>Monika</ime>
-        <priimek>Novak</priimek>
-    </user>
-    <user>
-        <id>51</id>
-        <username>lidijarom</username>
-        <ime>Lidija</ime>
-        <priimek>Rom</priimek>
-    </user>
-    <user>
-        <id>50</id>
-        <username>mmfdvdi</username>
-        <ime>Miha</ime>
-        <priimek>Milošič</priimek>
-    </user>
-    <user>
-        <id>49</id>
-        <username>markorih</username>
-        <ime>Marko</ime>
-        <priimek>Rihtaršič</priimek>
-    </user>
-    <user>
-        <id>48</id>
-        <username>Jaman</username>
-        <ime>Blaž</ime>
-        <priimek>Železnikar</priimek>
-    </user>
-    <user>
         <id>47</id>
         <username>blazkavcic</username>
         <ime>Blaž</ime>
         <priimek>Kavčič</priimek>
-    </user>
-    <user>
-        <id>46</id>
-        <username>leon_skrilec</username>
-        <ime>Leon</ime>
-        <priimek>Škrilec</priimek>
-    </user>
-    <user>
-        <id>45</id>
-        <username>matej1911</username>
-        <ime>Matej</ime>
-        <priimek>Krmelj</priimek>
-    </user>
-    <user>
-        <id>44</id>
-        <username>mihagornik</username>
-        <ime>Miha</ime>
-        <priimek>Gornik</priimek>
-    </user>
-    <user>
-        <id>43</id>
-        <username>mvirant</username>
-        <ime>Matic</ime>
-        <priimek>Virant</priimek>
-    </user>
-    <user>
-        <id>42</id>
-        <username>hixxy</username>
-        <ime>Jernej</ime>
-        <priimek>Cesnik</priimek>
     </user>
     <user>
         <id>41</id>
@@ -692,7 +320,7 @@
             <xsl:variable name="sistoryID" select="sistory:ID"/>
             <xsl:variable name="menuID" select="sistory:MENU_ID/@id"/>
             <xsl:variable name="extraData" select="$frontends/entity:root/entity:frontend[entity:id=$sistoryID]"/>
-            <xsl:result-document href="{concat($outputDir,'menu',$menuID,'/',$sistoryID,'/mets.xml')}">
+            <xsl:result-document href="{concat($outputDir,'menu',$menuID,'/entity/',$sistoryID,'/mets.xml')}">
                 <METS:mets xmlns:METS="http://www.loc.gov/METS/"
                     xmlns:xlink="http://www.w3.org/TR/xlink"
                     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
@@ -701,9 +329,9 @@
                     xmlns:dcmitype="http://purl.org/dc/dcmitype/"
                     xmlns:premis="http://www.loc.gov/standards/premis/v1"
                     xmlns:mods="http://www.loc.gov/mods/v3"
+                    ID="entity."
                     TYPE="entity"
-                    OBJID="http://hdl.handle.net/11686/{$sistoryID}"
-                    xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd http://www.loc.gov/standards/premis/v1 http://www.loc.gov/standards/premis/v1/PREMIS-v1-1.xsd">
+                    OBJID="http://hdl.handle.net/11686/{$sistoryID}">
                     <METS:metsHdr CREATEDATE="{translate(sistory:DATETIME_ADDED,' ','T')}">
                         <xsl:if test="sistory:DATETIME_MODIFIED">
                             <xsl:attribute name="LASTMODDATE">
@@ -723,28 +351,12 @@
                         <xsl:variable name="userID" select="sistory:USER_ID_ADDED"/>
                         <METS:agent ROLE="CREATOR" ID="user.{$userID}" TYPE="INDIVIDUAL">
                             <xsl:for-each select="$users/sistory:user[sistory:id = $userID]">
-                                <xsl:choose>
-                                    <xsl:when test="(string-length(sistory:priimek) gt 0) and (string-length(sistory:ime) gt 0)">
-                                        <METS:name>
-                                            <xsl:value-of select="concat(sistory:priimek,', ',sistory:ime)"/>
-                                        </METS:name>
-                                    </xsl:when>
-                                    <xsl:when test="((string-length(sistory:priimek) gt 0) and (string-length(sistory:ime) = 0)) or ((string-length(sistory:priimek) = 0) and (string-length(sistory:ime) gt 0))">
-                                        <METS:name>
-                                            <xsl:value-of select="sistory:priimek"/>
-                                            <xsl:value-of select="sistory:ime"/>
-                                        </METS:name>
-                                    </xsl:when>
-                                    <xsl:otherwise>
-                                        <METS:name>
-                                            <xsl:value-of select="sistory:username"/>
-                                        </METS:name>
-                                    </xsl:otherwise>
-                                </xsl:choose>
+                                <xsl:call-template name="user-name"/>
                             </xsl:for-each>
                         </METS:agent>
                     </METS:metsHdr>
-                    <METS:dmdSec ID="dc.{$sistoryID}" GROUPID="{$sistoryID}">
+                    <!-- default Dublin Core metapodatki -->
+                    <METS:dmdSec ID="default.dc">
                         <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
                             <METS:xmlData>
                                 <xsl:apply-templates select="sistory:TITLE[@titleType='Title']"/>
@@ -816,6 +428,7 @@
                                 <xsl:if test="sistory:SOURCE[@sourceType='Vir - URN Naslov'] and not(contains(sistory:SOURCE[@sourceType='Vir - URN Naslov'],'SISTORY:ID:'))">
                                     <xsl:apply-templates select="sistory:SOURCE[@sourceType='Vir - URN Naslov']"/>
                                 </xsl:if>
+                                <xsl:apply-templates select="sistory:COLLECTION"/>
                                 <xsl:apply-templates select="sistory:RELATION[@relationType='relation']"/>
                                 <xsl:apply-templates select="sistory:RELATION[@relationType='isVersionOf']"/>
                                 <xsl:apply-templates select="sistory:RELATION[@relationType='hasVersion']"/>
@@ -849,97 +462,41 @@
                             </METS:xmlData>
                         </METS:mdWrap>
                     </METS:dmdSec>
+                    <!-- Podatke o zbirki shranim tako v spodnji MODS (zaradi možnosti dodatnega kodiranja v MODS) kot med Dublin Core metapodatke v idPartOf -->
                     <xsl:if test="sistory:COLLECTION">
-                        <METS:dmdSec ID="mods.{$sistoryID}" GROUPID="{$sistoryID}">
-                            <METS:mdWrap MDTYPE="MODS" MIMETYPE="text/xml">
-                                <METS:xmlData>
-                                    <mods:mods>
-                                        <xsl:for-each select="sistory:COLLECTION">
-                                            <mods:relatedItem type="series">
-                                                <xsl:choose>
-                                                    <xsl:when test="contains(.,';')">
-                                                        <mods:relatedItem type="series">
-                                                            <mods:titleInfo>
-                                                                <mods:title>
-                                                                    <xsl:value-of select="normalize-space(substring-before(.,';'))"/>
-                                                                </mods:title>
-                                                            </mods:titleInfo>
-                                                            <mods:part>
-                                                                <mods:detail type="volumens">
-                                                                    <mods:number>
-                                                                        <xsl:value-of select="normalize-space(substring-after(.,';'))"/>
-                                                                    </mods:number>
-                                                                </mods:detail>
-                                                            </mods:part>
-                                                        </mods:relatedItem>
-                                                    </xsl:when>
-                                                    <xsl:otherwise>
-                                                        <mods:titleInfo>
-                                                            <mods:title>
-                                                                <xsl:value-of select="."/>
-                                                            </mods:title>
-                                                        </mods:titleInfo>
-                                                    </xsl:otherwise>
-                                                </xsl:choose>
-                                            </mods:relatedItem>
-                                        </xsl:for-each>
-                                    </mods:mods>
-                                </METS:xmlData>
-                            </METS:mdWrap>
-                        </METS:dmdSec>
+                        <xsl:call-template name="collection-mods"/>
                     </xsl:if>
-                    <!-- predvidevam, da sem do sedaj zapisal samo podatke o naslovu in opisu datotek (sem v resnici tudi avtorja datoteke, vendar zelo redko)  -->
-                    <xsl:for-each select="sistory:PUBLICATION[sistory:ATTRIBUTE[@type=''] or sistory:ATTRIBUTE[@type='digitalDescription']]">
-                        <xsl:variable name="fileName" select="@file"/>
-                        <xsl:variable name="handle" select="$extraData/entity:files/entity:div/entity:aside/entity:div[entity:div[1][entity:div[entity:div[2][. = $fileName]]]]/entity:a/@href"/>
-                        <xsl:variable name="fileID" select="tokenize($handle,'/')[last()]"/>
-                        <METS:dmdSec ID="dmd-{$fileID}">
-                            <METS:mdWrap MDTYPE="DC">
-                                <METS:xmlData>
-                                    <xsl:for-each select="sistory:ATTRIBUTE[@type='']">
-                                        <dcterms:title>
-                                            <xsl:value-of select="."/>
-                                        </dcterms:title>
-                                    </xsl:for-each>
-                                    <xsl:for-each select="sistory:ATTRIBUTE[@type='digitalDescription']">
-                                        <dcterms:description>
-                                            <xsl:value-of select="."/>
-                                        </dcterms:description>
-                                    </xsl:for-each>
-                                </METS:xmlData>
-                            </METS:mdWrap>
-                        </METS:dmdSec>
-                    </xsl:for-each>
-                    <!-- dodani nujni tehnični metapodatki, predvsem identifikator in vrsta -->
-                    <METS:amdSec ID="entity">
-                        <METS:techMD ID="premis.{$sistoryID}">
+                    <METS:amdSec ID="default.amd">
+                        <METS:techMD ID="default.premis">
                             <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
                                 <METS:xmlData>
-                                    <premis:object>
-                                        <premis:objectIdentifier>
-                                            <premis:objectIdentifierType>SIstory Entity ID</premis:objectIdentifierType>
-                                            <premis:objectIdentifierValue>
-                                                <xsl:value-of select="$sistoryID"/>
-                                            </premis:objectIdentifierValue>
-                                        </premis:objectIdentifier>
-                                        <premis:objectIdentifier>
-                                            <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
-                                            <premis:objectIdentifierValue>
-                                                <xsl:text>http://hdl.handle.net/</xsl:text>
-                                                <xsl:value-of select="sistory:URN"/>
-                                            </premis:objectIdentifierValue>
-                                        </premis:objectIdentifier>
-                                        <premis:objectCategory>Entity</premis:objectCategory>
-                                    </premis:object>
+                                    <premis:objectIdentifier>
+                                        <premis:objectIdentifierType>si4</premis:objectIdentifierType>
+                                        <premis:objectIdentifierValue></premis:objectIdentifierValue>
+                                    </premis:objectIdentifier>
+                                    <premis:objectIdentifier>
+                                        <premis:objectIdentifierType>Local name</premis:objectIdentifierType>
+                                        <premis:objectIdentifierValue>
+                                            <xsl:value-of select="$sistoryID"/>
+                                        </premis:objectIdentifierValue>
+                                    </premis:objectIdentifier>
+                                    <premis:objectIdentifier>
+                                        <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                                        <premis:objectIdentifierValue>
+                                            <xsl:text>http://hdl.handle.net/</xsl:text>
+                                            <xsl:value-of select="sistory:URN"/>
+                                        </premis:objectIdentifierValue>
+                                    </premis:objectIdentifier>
+                                    <premis:objectCategory>Entity</premis:objectCategory>
                                 </METS:xmlData>
                             </METS:mdWrap>
                         </METS:techMD>
                         <xsl:if test="$extraData/entity:description_sl/entity:section or
                             $extraData/entity:description_en/entity:section or
                             number(sistory:PAGE) gt 0">
-                            <METS:techMD ID="entity.{$sistoryID}">
+                            <METS:techMD ID="default.si4">
                                 <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-                                    <METS:xmlData  xmlns:entity="http://sistory.si/schema/sistory/v3/entity" xsi:schemaLocation="http://sistory.si/schema/sistory/v3/entity ../../v3/entity.1.0.xsd">
+                                    <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity">
                                         <xsl:if test="$extraData/entity:description_sl/entity:section">
                                             <entity:description xml:lang="slv">
                                                 <xsl:apply-templates select="$extraData/entity:description_sl/entity:section/entity:div/entity:ul/entity:li/entity:div/entity:div" mode="nodes"/>
@@ -962,15 +519,16 @@
                     </METS:amdSec>
                     <!-- dodal sem podatke za video (trenutno samo youtube): -->
                     <xsl:variable name="youtube" select="$extraData/entity:files/entity:div/entity:aside/entity:div[@class='pub_file pub_link']/entity:div/entity:div[contains(entity:div[1],'Video:')]/entity:div[2]/entity:iframe/@src"/>
-                    <!-- datoteke -->
+                    <!-- Dodaj še podatke za navadni HTML5 video kodo -->
                     <xsl:if test="sistory:PUBLICATION or sistory:IMAGE or sistory:LINK or string-length($youtube) gt 0">
-                        <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink">
+                        <METS:fileSec ID="default.file" xmlns:xlink="http://www.w3.org/1999/xlink">
                             <xsl:if test="sistory:IMAGE">
                                 <METS:fileGrp USE="THUMB">
                                     <METS:file ID="thumbnail">
                                         <METS:FLocat LOCTYPE="URL">
                                             <xsl:attribute name="xlink:href">
-                                                <xsl:value-of select="concat('http://www.sistory.si/cdn/publikacije/',(xs:integer(round(number($sistoryID)) div 1000) * 1000) + 1,'-',(xs:integer(round(number($sistoryID)) div 1000) * 1000) + 1000,'/',$sistoryID,'/',sistory:IMAGE)"/>
+                                                <!-- če bo absolutna sistroy pod kot: concat('http://www.sistory.si/cdn/publikacije/',(xs:integer(round(number($sistoryID)) div 1000) * 1000) + 1,'-',(xs:integer(round(number($sistoryID)) div 1000) * 1000) + 1000,'/',$sistoryID,'/',sistory:IMAGE) -->
+                                                <xsl:value-of select="sistory:IMAGE"/>
                                             </xsl:attribute>
                                         </METS:FLocat>
                                     </METS:file>
@@ -979,12 +537,12 @@
                             <xsl:if test="sistory:PUBLICATION or sistory:LINK or string-length($youtube) gt 0">
                                 <METS:fileGrp USE="DEFAULT">
                                     <xsl:if test="sistory:LINK">
-                                        <METS:file ID="external1" USE="EXTERNAL">
+                                        <METS:file ID="external.1" USE="EXTERNAL">
                                             <METS:FLocat USE="HTTP" LOCTYPE="URL" xlink:href="{sistory:LINK}"/>
                                         </METS:file>
                                     </xsl:if>
                                     <xsl:if test="string-length($youtube) gt 0">
-                                        <METS:file ID="video1" USE="EXTERNAL">
+                                        <METS:file ID="video.1" USE="EXTERNAL">
                                             <METS:FLocat USE="YOUTUBE" LOCTYPE="URL" xlink:href="{$youtube}"/>
                                         </METS:file>
                                     </xsl:if>
@@ -992,12 +550,7 @@
                                         <xsl:variable name="fileName" select="@file"/>
                                         <xsl:variable name="handle" select="$extraData/entity:files/entity:div/entity:aside/entity:div[entity:div[1][entity:div[entity:div[2][. = $fileName]]]]/entity:a/@href"/>
                                         <xsl:variable name="fileID" select="tokenize($handle,'/')[last()]"/>
-                                        <METS:file ID="{$fileID}" OWNERID="{$fileName}" MIMETYPE="{sistory:ATTRIBUTE[@type='digitalFormat']}">
-                                            <xsl:if test="sistory:ATTRIBUTE[@type=''] or sistory:ATTRIBUTE[@type='digitalDescription']">
-                                                <xsl:attribute name="DMDID">
-                                                    <xsl:value-of select="concat('dmd-',$fileID)"/>
-                                                </xsl:attribute>
-                                            </xsl:if>
+                                        <METS:file ID="{$fileID}" OWNERID="{$fileName}">
                                             <METS:FLocat LOCTYPE="HANDLE" xlink:href="https://hdl.handle.net/11686/{$fileID}"/>
                                         </METS:file>
                                     </xsl:for-each>
@@ -1005,7 +558,112 @@
                             </xsl:if>
                         </METS:fileSec>
                     </xsl:if>
-                    <METS:structMap LABEL="SIstory" xmlns:xlink="http://www.w3.org/1999/xlink">
+                    <!-- procesiram mets.xml za datoteke -->
+                    <xsl:for-each select="sistory:PUBLICATION">
+                        <xsl:variable name="fileName" select="@file"/>
+                        <xsl:variable name="handle" select="$extraData/entity:files/entity:div/entity:aside/entity:div[entity:div[1][entity:div[entity:div[2][. = $fileName]]]]/entity:a/@href"/>
+                        <xsl:variable name="fileID" select="tokenize($handle,'/')[last()]"/>
+                        <xsl:result-document href="{concat($outputDir,'menu',$menuID,'/entity/',$sistoryID,'/file/',$fileID,'/mets.xml')}">
+                            <METS:mets xmlns:METS="http://www.loc.gov/METS/"
+                                xmlns:xlink="http://www.w3.org/TR/xlink"
+                                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                                xmlns:dc="http://purl.org/dc/elements/1.1/"
+                                xmlns:dcterms="http://purl.org/dc/terms/"
+                                xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+                                xmlns:premis="http://www.loc.gov/premis/v3"
+                                xmlns:mods="http://www.loc.gov/mods/v3"
+                                ID="file."
+                                TYPE="file"
+                                OBJID="http://hdl.handle.net/11686/{$fileID}">
+                                <METS:metsHdr CREATEDATE="" LASTMODDATE="" RECORDSTATUS="Active">
+                                    <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+                                        <METS:name>SIstory</METS:name>
+                                        <METS:note>http://sistory.si/</METS:note>
+                                    </METS:agent>
+                                    <xsl:variable name="userID" select="../sistory:USER_ID_ADDED"/>
+                                    <METS:agent ROLE="CREATOR" ID="user.{$userID}" TYPE="INDIVIDUAL">
+                                        <xsl:for-each select="$users/sistory:user[sistory:id = $userID]">
+                                            <xsl:call-template name="user-name"/>
+                                        </xsl:for-each>
+                                    </METS:agent>
+                                </METS:metsHdr>
+                                <!-- opcijski Dublin Core metapodatki -->
+                                <!-- predvidevam, da sem do sedaj zapisal samo podatke o naslovu in opisu datotek (sem v resnici tudi avtorja datoteke, vendar zelo redko)  -->
+                                <xsl:for-each select=".[sistory:ATTRIBUTE[@type=''] or sistory:ATTRIBUTE[@type='digitalDescription']]">
+                                    <xsl:variable name="fileName" select="@file"/>
+                                    <xsl:variable name="handle" select="$extraData/entity:files/entity:div/entity:aside/entity:div[entity:div[1][entity:div[entity:div[2][. = $fileName]]]]/entity:a/@href"/>
+                                    <xsl:variable name="fileID" select="tokenize($handle,'/')[last()]"/>
+                                    <METS:dmdSec ID="default.dc">
+                                        <METS:mdWrap MDTYPE="DC">
+                                            <METS:xmlData>
+                                                <xsl:for-each select="sistory:ATTRIBUTE[@type='']">
+                                                    <dcterms:title>
+                                                        <xsl:value-of select="."/>
+                                                    </dcterms:title>
+                                                </xsl:for-each>
+                                                <xsl:for-each select="sistory:ATTRIBUTE[@type='digitalDescription']">
+                                                    <dcterms:description>
+                                                        <xsl:value-of select="."/>
+                                                    </dcterms:description>
+                                                </xsl:for-each>
+                                            </METS:xmlData>
+                                        </METS:mdWrap>
+                                    </METS:dmdSec>
+                                </xsl:for-each>
+                                <!-- obvezni premis metapodatki (identifikator -->
+                                <METS:amdSec ID="default.amd">
+                                    <METS:techMD ID="default.premis">
+                                        <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+                                            <METS:xmlData>
+                                                <premis:objectIdentifier>
+                                                    <premis:objectIdentifierType>si4</premis:objectIdentifierType>
+                                                    <premis:objectIdentifierValue></premis:objectIdentifierValue>
+                                                </premis:objectIdentifier>
+                                                <premis:objectIdentifier>
+                                                    <premis:objectIdentifierType>Local name</premis:objectIdentifierType>
+                                                    <premis:objectIdentifierValue>
+                                                        <xsl:value-of select="$fileID"/>
+                                                    </premis:objectIdentifierValue>
+                                                </premis:objectIdentifier>
+                                                <premis:objectIdentifier>
+                                                    <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                                                    <premis:objectIdentifierValue>
+                                                        <xsl:value-of select="concat('http://hdl.handle.net/11686/',$fileID)"/>
+                                                    </premis:objectIdentifierValue>
+                                                </premis:objectIdentifier>
+                                                <premis:objectCategory>File</premis:objectCategory>
+                                            </METS:xmlData>
+                                        </METS:mdWrap>
+                                    </METS:techMD>
+                                </METS:amdSec>
+                                <METS:fileSec ID="default.file" xmlns:xlink="http://www.w3.org/1999/xlink">
+                                    <METS:fileGrp>
+                                        <!-- ne dam digitalnega formata: naj ga naredi avtomatsko pri uvozu datoeke:  MIMETYPE="{sistory:ATTRIBUTE[@type='digitalFormat']}"
+                                             podobno ne dam velikosti datoteke
+                                          -->
+                                        <METS:file ID="file" OWNERID="{$fileName}">
+                                            <xsl:if test="sistory:ATTRIBUTE[@type=''] or sistory:ATTRIBUTE[@type='digitalDescription']">
+                                                <xsl:attribute name="DMDID">default.dc</xsl:attribute>
+                                            </xsl:if>
+                                            <METS:FLocat LOCTYPE="HANDLE" xlink:href="{$fileName}"/>
+                                        </METS:file>
+                                    </METS:fileGrp>
+                                </METS:fileSec>
+                                <METS:structMap ID="default.structure" xmlns:xlink="http://www.w3.org/1999/xlink">
+                                    <METS:div TYPE="entity">
+                                        <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/{$sistoryID}"/>
+                                        <METS:div TYPE="file">
+                                            <METS:fptr FILEID="file"/>
+                                        </METS:div>
+                                    </METS:div>
+                                </METS:structMap>
+                            </METS:mets>
+                        </xsl:result-document>
+                    </xsl:for-each>
+                        
+                    
+                    
+                    <METS:structMap ID="default.structure" xmlns:xlink="http://www.w3.org/1999/xlink">
                         <xsl:attribute name="TYPE">
                             <xsl:choose>
                                 <!-- če je samostojna publikacija ali če je parent publikacija, ki ni child od druge publikacije, potem je primarna entiteta -->
@@ -1024,22 +682,13 @@
                                     <METS:div TYPE="entity">
                                         <xsl:attribute name="DMDID">
                                             <!-- najprej povezava do Dublin Core metapodatkov, ki vedno obstajajo -->
-                                            <xsl:value-of select="concat('dc.',$sistoryID)"/>
+                                            <xsl:text>default.dc</xsl:text>
                                             <!-- potem pa še morebitne povezave do podatkov o zbirki v mods -->
                                             <xsl:if test="sistory:COLLECTION">
-                                                <xsl:value-of select="concat(' mods.',$sistoryID)"/>
+                                                <xsl:text> default.mods</xsl:text>
                                             </xsl:if>
                                         </xsl:attribute>
-                                        <xsl:attribute name="ADMID">
-                                            <!-- najprej povezava do premis tehničnih metapodatkov o identifikatorju, ki vedno obstajajo -->
-                                            <xsl:value-of select="concat('premis.',$sistoryID)"/>
-                                            <!-- potem še morebitna povezava do entity tehničnih metapodatkov -->
-                                            <xsl:if test="$extraData/entity:description_sl/entity:section or
-                                                $extraData/entity:description_en/entity:section or
-                                                number(sistory:PAGE) gt 0">
-                                                <xsl:value-of select="concat(' entity.',$sistoryID)"/>
-                                            </xsl:if>
-                                        </xsl:attribute>
+                                        <xsl:attribute name="ADMID">default.amd</xsl:attribute>
                                         <xsl:if test="sistory:IMAGE">
                                             <METS:fptr FILEID="thumbnail"/>
                                         </xsl:if>
@@ -1073,30 +722,21 @@
                                     <METS:div TYPE="entity">
                                         <xsl:attribute name="DMDID">
                                             <!-- najprej povezava do Dublin Core metapodatkov, ki vedno obstajajo -->
-                                            <xsl:value-of select="concat('dc.',$sistoryID)"/>
+                                            <xsl:text>default.dc</xsl:text>
                                             <!-- potem pa še morebitne povezave do podatkov o zbirki v mods -->
                                             <xsl:if test="sistory:COLLECTION">
-                                                <xsl:value-of select="concat(' mods.',$sistoryID)"/>
+                                                <xsl:text> default.mods</xsl:text>
                                             </xsl:if>
                                         </xsl:attribute>
-                                        <xsl:attribute name="ADMID">
-                                            <!-- najprej povezava do premis tehničnih metapodatkov o identifikatorju, ki vedno obstajajo -->
-                                            <xsl:value-of select="concat('premis.',$sistoryID)"/>
-                                            <!-- potem še morebitna povezava do entity tehničnih metapodatkov -->
-                                            <xsl:if test="$extraData/entity:description_sl/entity:section or
-                                                $extraData/entity:description_en/entity:section or
-                                                number(sistory:PAGE) gt 0">
-                                                <xsl:value-of select="concat(' entity.',$sistoryID)"/>
-                                            </xsl:if>
-                                        </xsl:attribute>
+                                        <xsl:attribute name="ADMID">default.amd</xsl:attribute>
                                         <xsl:if test="sistory:IMAGE">
                                             <METS:fptr FILEID="thumbnail"/>
                                         </xsl:if>
                                         <xsl:if test="sistory:LINK">
-                                            <METS:fptr FILEID="external1"/>
+                                            <METS:fptr FILEID="external.1"/>
                                         </xsl:if>
                                         <xsl:if test="string-length($youtube) gt 0">
-                                            <METS:fptr FILEID="video1"/>
+                                            <METS:fptr FILEID="video.1"/>
                                         </xsl:if>
                                         <xsl:for-each select="sistory:PUBLICATION">
                                             <xsl:variable name="fileName" select="@file"/>
@@ -1130,6 +770,66 @@
         </xsl:copy>
     </xsl:template>
     
+    <xsl:template name="user-name">
+        <xsl:choose>
+            <xsl:when test="(string-length(sistory:priimek) gt 0) and (string-length(sistory:ime) gt 0)">
+                <METS:name>
+                    <xsl:value-of select="concat(sistory:priimek,', ',sistory:ime)"/>
+                </METS:name>
+            </xsl:when>
+            <xsl:when test="((string-length(sistory:priimek) gt 0) and (string-length(sistory:ime) = 0)) or ((string-length(sistory:priimek) = 0) and (string-length(sistory:ime) gt 0))">
+                <METS:name>
+                    <xsl:value-of select="sistory:priimek"/>
+                    <xsl:value-of select="sistory:ime"/>
+                </METS:name>
+            </xsl:when>
+            <xsl:otherwise>
+                <METS:name>
+                    <xsl:value-of select="sistory:username"/>
+                </METS:name>
+            </xsl:otherwise>
+        </xsl:choose>
+    </xsl:template>
+    
+    <xsl:template name="collection-mods">
+        <METS:dmdSec ID="default.mods">
+            <METS:mdWrap MDTYPE="MODS" MIMETYPE="text/xml">
+                <METS:xmlData>
+                    <mods:mods>
+                        <xsl:for-each select="sistory:COLLECTION">
+                            <mods:relatedItem type="series">
+                                <xsl:choose>
+                                    <xsl:when test="contains(.,';')">
+                                        <mods:relatedItem type="series">
+                                            <mods:titleInfo>
+                                                <mods:title>
+                                                    <xsl:value-of select="normalize-space(substring-before(.,';'))"/>
+                                                </mods:title>
+                                            </mods:titleInfo>
+                                            <mods:part>
+                                                <mods:detail type="volumens">
+                                                    <mods:number>
+                                                        <xsl:value-of select="normalize-space(substring-after(.,';'))"/>
+                                                    </mods:number>
+                                                </mods:detail>
+                                            </mods:part>
+                                        </mods:relatedItem>
+                                    </xsl:when>
+                                    <xsl:otherwise>
+                                        <mods:titleInfo>
+                                            <mods:title>
+                                                <xsl:value-of select="."/>
+                                            </mods:title>
+                                        </mods:titleInfo>
+                                    </xsl:otherwise>
+                                </xsl:choose>
+                            </mods:relatedItem>
+                        </xsl:for-each>
+                    </mods:mods>
+                </METS:xmlData>
+            </METS:mdWrap>
+        </METS:dmdSec>
+    </xsl:template>
     
     <xsl:template match="sistory:TYPE">
         <dcterms:type xsi:type="dcterms:DCMIType">
@@ -1230,6 +930,12 @@
         <dcterms:publisher>
             <xsl:value-of select="normalize-space(.)"/>
         </dcterms:publisher>
+    </xsl:template>
+    
+    <xsl:template match="sistory:COLLECTION">
+        <dcterms:isPartOf>
+            <xsl:value-of select="normalize-space(.)"/>
+        </dcterms:isPartOf>
     </xsl:template>
     
     <xsl:template match="sistory:CONTRIBUTOR">

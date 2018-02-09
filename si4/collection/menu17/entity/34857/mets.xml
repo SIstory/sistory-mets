@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           ID="entity."
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/34857">
+   <METS:metsHdr CREATEDATE="2015-12-20T19:50:58"
+                 LASTMODDATE="2016-12-16T20:07:54"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.11" TYPE="INDIVIDUAL">
+         <METS:name>Pančur, Andrej</METS:name>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="default.dc">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="slv">Labirinti postsocializma</dcterms:title>
+            <dcterms:title xml:lang="slv">Socialni spomini tekstilnih delavk in delavcev</dcterms:title>
+            <dcterms:title xml:lang="slv">[elektronski vir]</dcterms:title>
+            <dcterms:creator>Vodopivec, Nina</dcterms:creator>
+            <dcterms:subject xml:lang="slv">tekstilna industrija</dcterms:subject>
+            <dcterms:subject xml:lang="slv">postkomunizem</dcterms:subject>
+            <dcterms:subject xml:lang="slv">Slovenija</dcterms:subject>
+            <dcterms:subject xml:lang="slv">tekstilni delavci</dcterms:subject>
+            <dcterms:subject xml:lang="slv">družbeni položaj</dcterms:subject>
+            <dcterms:subject xml:lang="slv">družbene spremembe</dcterms:subject>
+            <dcterms:subject xml:lang="slv">antropologija</dcterms:subject>
+            <dcterms:subject xml:lang="slv">postsocializem</dcterms:subject>
+            <dcterms:subject xml:lang="eng">spomini</dcterms:subject>
+            <dcterms:subject xml:lang="eng">textile industry</dcterms:subject>
+            <dcterms:subject xml:lang="eng">postcommunism</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Slovenia</dcterms:subject>
+            <dcterms:subject xml:lang="eng">textile workers</dcterms:subject>
+            <dcterms:subject xml:lang="eng">social position</dcterms:subject>
+            <dcterms:subject xml:lang="eng">social changes</dcterms:subject>
+            <dcterms:subject xml:lang="eng">anthropology</dcterms:subject>
+            <dcterms:subject xml:lang="eng">postsocialism</dcterms:subject>
+            <dcterms:subject xml:lang="eng">memoares</dcterms:subject>
+            <dcterms:publisher>Inštitut za novejšo zgodovino</dcterms:publisher>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2015</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">Text</dcterms:type>
+            <dcterms:identifier>COBISS.SI-ID 282821120</dcterms:identifier>
+            <dcterms:language xsi:type="dcterms:ISO639-3">slv</dcterms:language>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="default.amd">
+      <METS:techMD ID="default.premis">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>si4</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue/>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>Local name</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>34857</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>http://hdl.handle.net/11686/34857</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectCategory>Entity</premis:objectCategory>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink" ID="default.file">
+      <METS:fileGrp USE="THUMB">
+         <METS:file ID="thumbnail">
+            <METS:FLocat LOCTYPE="URL" xlink:href="ovitek_Labirinti_postsocializma.jpg"/>
+         </METS:file>
+      </METS:fileGrp>
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="external.1" USE="EXTERNAL">
+            <METS:FLocat USE="HTTP"
+                         LOCTYPE="URL"
+                         xlink:href="http://www.sistory.si/cdn/publikacije/34001-35000/34857/index.html"/>
+         </METS:file>
+         <METS:file ID="file18324" OWNERID="index.html">
+            <METS:FLocat LOCTYPE="HANDLE" xlink:href="https://hdl.handle.net/11686/file18324"/>
+         </METS:file>
+         <METS:file ID="file18325" OWNERID="Labirinti_postsocializma.xml">
+            <METS:FLocat LOCTYPE="HANDLE" xlink:href="https://hdl.handle.net/11686/file18325"/>
+         </METS:file>
+         <METS:file ID="file18326" OWNERID="bibliogr.html">
+            <METS:FLocat LOCTYPE="HANDLE" xlink:href="https://hdl.handle.net/11686/file18326"/>
+         </METS:file>
+         <METS:file ID="file18327" OWNERID="ch01.html">
+            <METS:FLocat LOCTYPE="HANDLE" xlink:href="https://hdl.handle.net/11686/file18327"/>
+         </METS:file>
+         <METS:file ID="file18328" OWNERID="ch02.html">
+            <METS:FLocat LOCTYPE="HANDLE" xlink:href="https://hdl.handle.net/11686/file18328"/>
+         </METS:file>
+         <METS:file ID="file18329" OWNERID="ch03.html">
+            <METS:FLocat LOCTYPE="HANDLE" xlink:href="https://hdl.handle.net/11686/file18329"/>
+         </METS:file>
+         <METS:file ID="file18330" OWNERID="ch04.html">
+            <METS:FLocat LOCTYPE="HANDLE" xlink:href="https://hdl.handle.net/11686/file18330"/>
+         </METS:file>
+         <METS:file ID="file18331" OWNERID="ch05.html">
+            <METS:FLocat LOCTYPE="HANDLE" xlink:href="https://hdl.handle.net/11686/file18331"/>
+         </METS:file>
+         <METS:file ID="file18332" OWNERID="ch06.html">
+            <METS:FLocat LOCTYPE="HANDLE" xlink:href="https://hdl.handle.net/11686/file18332"/>
+         </METS:file>
+         <METS:file ID="file18333" OWNERID="ch07.html">
+            <METS:FLocat LOCTYPE="HANDLE" xlink:href="https://hdl.handle.net/11686/file18333"/>
+         </METS:file>
+         <METS:file ID="file18334" OWNERID="ch08.html">
+            <METS:FLocat LOCTYPE="HANDLE" xlink:href="https://hdl.handle.net/11686/file18334"/>
+         </METS:file>
+         <METS:file ID="file18335" OWNERID="images.html">
+            <METS:FLocat LOCTYPE="HANDLE" xlink:href="https://hdl.handle.net/11686/file18335"/>
+         </METS:file>
+         <METS:file ID="file18336" OWNERID="persons.html">
+            <METS:FLocat LOCTYPE="HANDLE" xlink:href="https://hdl.handle.net/11686/file18336"/>
+         </METS:file>
+         <METS:file ID="file18337" OWNERID="places.html">
+            <METS:FLocat LOCTYPE="HANDLE" xlink:href="https://hdl.handle.net/11686/file18337"/>
+         </METS:file>
+         <METS:file ID="file18338" OWNERID="preface.html">
+            <METS:FLocat LOCTYPE="HANDLE" xlink:href="https://hdl.handle.net/11686/file18338"/>
+         </METS:file>
+         <METS:file ID="file18339" OWNERID="search.html">
+            <METS:FLocat LOCTYPE="HANDLE" xlink:href="https://hdl.handle.net/11686/file18339"/>
+         </METS:file>
+         <METS:file ID="file18340" OWNERID="tables.html">
+            <METS:FLocat LOCTYPE="HANDLE" xlink:href="https://hdl.handle.net/11686/file18340"/>
+         </METS:file>
+         <METS:file ID="file18341" OWNERID="teiHeader.html">
+            <METS:FLocat LOCTYPE="HANDLE" xlink:href="https://hdl.handle.net/11686/file18341"/>
+         </METS:file>
+         <METS:file ID="file18342" OWNERID="tipuesearch_content.js">
+            <METS:FLocat LOCTYPE="HANDLE" xlink:href="https://hdl.handle.net/11686/file18342"/>
+         </METS:file>
+         <METS:file ID="file18343" OWNERID="toc.html">
+            <METS:FLocat LOCTYPE="HANDLE" xlink:href="https://hdl.handle.net/11686/file18343"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   ID="default.structure"
+                   TYPE="primary">
+      <METS:div TYPE="collection">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/menu17"/>
+         <METS:div TYPE="entity" DMDID="default.dc" ADMID="default.amd">
+            <METS:fptr FILEID="thumbnail"/>
+            <METS:fptr FILEID="external1"/>
+            <METS:fptr FILEID="file18324"/>
+            <METS:fptr FILEID="file18325"/>
+            <METS:fptr FILEID="file18326"/>
+            <METS:fptr FILEID="file18327"/>
+            <METS:fptr FILEID="file18328"/>
+            <METS:fptr FILEID="file18329"/>
+            <METS:fptr FILEID="file18330"/>
+            <METS:fptr FILEID="file18331"/>
+            <METS:fptr FILEID="file18332"/>
+            <METS:fptr FILEID="file18333"/>
+            <METS:fptr FILEID="file18334"/>
+            <METS:fptr FILEID="file18335"/>
+            <METS:fptr FILEID="file18336"/>
+            <METS:fptr FILEID="file18337"/>
+            <METS:fptr FILEID="file18338"/>
+            <METS:fptr FILEID="file18339"/>
+            <METS:fptr FILEID="file18340"/>
+            <METS:fptr FILEID="file18341"/>
+            <METS:fptr FILEID="file18342"/>
+            <METS:fptr FILEID="file18343"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

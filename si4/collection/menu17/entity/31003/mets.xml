@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           ID="entity."
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/31003">
+   <METS:metsHdr CREATEDATE="2015-05-15T08:29:15"
+                 LASTMODDATE="2017-02-15T09:27:33"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name>Meden, Katja</METS:name>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="default.dc">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="slv">Prebivalstvo Besniške doline skozi matične knjige - rojstva, proroke in smrti v 2. polovici 19. stoletja</dcterms:title>
+            <dcterms:alternative xml:lang="eng">The population of Besnica valley trough the civil register of Births, Marriages and Deaths in the 2nd half of the19th Century</dcterms:alternative>
+            <dcterms:creator>Šifrer, Marjeta</dcterms:creator>
+            <dcterms:abstract xml:lang="slv">V prispevku so predstavljena rojstva, poroke in smrti v besniški župniji v 2. polovici 19. stoletja. Predstavljeni so osnovni podatki o številu rojstev, imenih novorojencev in času rojstev. Pri porokah so predstavljeni osnovni podatki o številu porok, o času poroke in o starosti ženinov in nevest. Iz mrliške knjige so zbrani in predstavljeni podatki o številu umrlih moških in žensk ter o starosti umrlih. Na kratko je predstavljena tudi splošna zgodovina besniške župnije.</dcterms:abstract>
+            <dcterms:abstract xml:lang="eng">The contribution presents births, marriages and deaths in the parish of Besnica valley in the 2nd half of the 19th Century. It presents the basic information on the number of births, names of nevv-borns and time of births. With regard to marriages, it gives basic information on the number of weddings, time of weddings and the ages of the brides and grooms. From the register of deaths we have collected and presented the information on deceased women and men and the age of the deceased. Briefly. the contribution also presents the general history of the Besnica parish.</dcterms:abstract>
+            <dcterms:subject xml:lang="slv">matične knjige</dcterms:subject>
+            <dcterms:subject xml:lang="slv">poroke</dcterms:subject>
+            <dcterms:subject xml:lang="slv">smrti</dcterms:subject>
+            <dcterms:subject xml:lang="slv">rojstva</dcterms:subject>
+            <dcterms:subject xml:lang="slv">besniška župnija</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Civil register</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Marriages</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Births</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Deaths</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Besnica Parish</dcterms:subject>
+            <dcterms:publisher>Oddelek za zgodovino Filozofske fakultete Univerze v Ljubljani, Ljubljana</dcterms:publisher>
+            <dcterms:contributor>Danijela Trškan (ur.)</dcterms:contributor>
+            <dcterms:contributor>Darja Pipuš Sunesko (prev.)</dcterms:contributor>
+            <dcterms:contributor>Danijela Trškan (prev.)</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2011</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">Text</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">slv</dcterms:language>
+            <dcterms:isPartOf>Historia: znanstvena zbirka Oddelka za zgodovino Filozofska fakultete v Ljubljani; 19</dcterms:isPartOf>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:dmdSec ID="default.mods">
+      <METS:mdWrap MDTYPE="MODS" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <mods:mods>
+               <mods:relatedItem type="series">
+                  <mods:relatedItem type="series">
+                     <mods:titleInfo>
+                        <mods:title>Historia: znanstvena zbirka Oddelka za zgodovino Filozofska fakultete v Ljubljani</mods:title>
+                     </mods:titleInfo>
+                     <mods:part>
+                        <mods:detail type="volumens">
+                           <mods:number>19</mods:number>
+                        </mods:detail>
+                     </mods:part>
+                  </mods:relatedItem>
+               </mods:relatedItem>
+            </mods:mods>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="default.amd">
+      <METS:techMD ID="default.premis">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>si4</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue/>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>Local name</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>31003</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>http://hdl.handle.net/11686/31003#page=405</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectCategory>Entity</premis:objectCategory>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="default.si4">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity">
+               <entity:page>405</entity:page>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   ID="default.structure"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/30974"/>
+         <METS:div TYPE="entity" DMDID="default.dc default.mods" ADMID="default.amd"/>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

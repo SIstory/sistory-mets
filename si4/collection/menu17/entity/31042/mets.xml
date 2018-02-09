@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           ID="entity."
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/31042">
+   <METS:metsHdr CREATEDATE="2015-06-02T12:02:09"
+                 LASTMODDATE="2017-02-15T12:17:14"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name>Meden, Katja</METS:name>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="default.dc">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dcterms:title xml:lang="slv">Vzgoja iz ljubezni po načelih dr. Frančiška Lampeta</dcterms:title>
+            <dcterms:alternative xml:lang="eng">Education Under the Sign of Love on the Principles of Dr. Frančišek Lampe</dcterms:alternative>
+            <dcterms:creator>Tominšek Perovšek, Mateja</dcterms:creator>
+            <dcterms:abstract xml:lang="slv">Lampe je kljub zagovarjanju takrat še zakoreninjenega modela versko-nravne vzgoje, utemeljene v apostolski avtoriteti, otroke obravnaval kot celovite osebnosti, ne kot tiste, ki so nedorasli ali nepopolni. Pri zagotavljanju vzgojno-pedagoških ciljev se je izogibal uporabi represivnih metod, saj je verjel v uspeh preventivnih vzgojnih ukrepov, ki otroku pomagajo pri njegovi celostni rasti. Spodbujal je versko vzgojo, ki temelji v enakosti vseh ljudi in iskrenem prijateljstvu ljudi vseh stanov in starosti. Na ta način je ustvarjal pozitiven premik iz tradicionalističnih patriarhalnih, v bolj sodobne, demokratične medčloveške odnose.</dcterms:abstract>
+            <dcterms:abstract xml:lang="eng">Despite defending in that time the rooted model of religious-moral education, which based on the apostolicauthority, Lampe considered children as holistic personalities and not as juvenile and incomplete. Inensuring the educational and pedagogical goals he was avoiding the use of repressive methods, because he believed in the success of preventive pedagogical measures that help a child in its overall growth. He wasencouraging a religious pedagogical approach which based on the equality of all people and sincere friendship of all classes and age. That way he was making a positive move from traditional patriarchal to modern, democratic human relations.</dcterms:abstract>
+            <dcterms:subject xml:lang="slv">Frančišek Lampe</dcterms:subject>
+            <dcterms:subject xml:lang="slv">neotomizem</dcterms:subject>
+            <dcterms:subject xml:lang="slv">vzgoja</dcterms:subject>
+            <dcterms:subject xml:lang="slv">Marijanišče</dcterms:subject>
+            <dcterms:subject xml:lang="slv">otroštvo</dcterms:subject>
+            <dcterms:subject xml:lang="eng">childhood</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Frančišek Lampe</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Neotomism</dcterms:subject>
+            <dcterms:subject xml:lang="eng">Marijanišče</dcterms:subject>
+            <dcterms:subject xml:lang="eng">education</dcterms:subject>
+            <dcterms:publisher>Zveza zgodovinskih društev Slovenije</dcterms:publisher>
+            <dcterms:contributor>Peter Štih (gl. in od. ur.)</dcterms:contributor>
+            <dcterms:contributor>Aida Škoro Babić (ur. in prev.)</dcterms:contributor>
+            <dcterms:contributor>Mateja Jeraj (ur.)</dcterms:contributor>
+            <dcterms:contributor>Matevž Košir (ur.)</dcterms:contributor>
+            <dcterms:contributor>Bojan Balkovec (ur.)</dcterms:contributor>
+            <dcterms:date xsi:type="dcterms:W3CDTF">2012</dcterms:date>
+            <dcterms:type xsi:type="dcterms:DCMIType">Text</dcterms:type>
+            <dcterms:language xsi:type="dcterms:ISO639-3">slv</dcterms:language>
+            <dcterms:isPartOf>Zbirka zgodovinskega časopisa, 45</dcterms:isPartOf>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:dmdSec ID="default.mods">
+      <METS:mdWrap MDTYPE="MODS" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <mods:mods>
+               <mods:relatedItem type="series">
+                  <mods:titleInfo>
+                     <mods:title>Zbirka zgodovinskega časopisa, 45</mods:title>
+                  </mods:titleInfo>
+               </mods:relatedItem>
+            </mods:mods>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="default.amd">
+      <METS:techMD ID="default.premis">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>si4</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue/>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>Local name</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>31042</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>http://hdl.handle.net/11686/31042#page=337</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectCategory>Entity</premis:objectCategory>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="default.si4">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity">
+               <entity:page>337</entity:page>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   ID="default.structure"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/31016"/>
+         <METS:div TYPE="entity" DMDID="default.dc default.mods" ADMID="default.amd"/>
+      </METS:div>
+   </METS:structMap>
+</METS:mets>

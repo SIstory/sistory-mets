@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+  xmlns="http://sistory.si/schema/si4/entity"
+  targetNamespace="http://sistory.si/schema/si4/entity" 
+  elementFormDefault="qualified">
+
+  <xs:annotation>
+    <xs:documentation xml:lang="en">
+      si4 Entity 1.0 XML Schema
+      Created 2018-02-05 
+      Created by Andrej Pančur (andrej.pancur@inz.si)
+    </xs:documentation>
+  </xs:annotation>
+
+  <xs:import namespace="http://www.w3.org/XML/1998/namespace" schemaLocation="http://www.w3.org/2001/03/xml.xsd"/> 
+  
+  <xs:element name="description">
+    <xs:annotation>
+      <xs:documentation xml:lang="sl">Opisna predstavitev intelektualne entitete na spletni strani repozitorija si4 v HTML kodi.
+        Označba jezika določi, na kateri jezikovni spletni strani se prikaže. 
+        Možna je samo ena jezikovna varianta elementa description.</xs:documentation>
+    </xs:annotation>
+    <xs:complexType mixed="true">
+      <xs:sequence minOccurs="0" maxOccurs="unbounded">
+        <xs:any processContents="lax"/>
+      </xs:sequence>
+      <xs:attribute ref="xml:lang" use="required"/>
+    </xs:complexType>
+  </xs:element>
+  
+  <xs:element name="page" type="xs:positiveInteger">
+    <xs:annotation>
+      <xs:documentation xml:lang="sl">Stran v digitalni publikaciji formata PDF, kjer se začne vsebina odvisne intelektualne entitete.</xs:documentation>
+    </xs:annotation>
+  </xs:element>
+  
+  <xs:element name="removedTo" type="xs:anyURI">
+    <xs:annotation>
+      <xs:documentation xml:lang="sl">URL iz repozitorija umaknjene si4 intelektualne entitete.</xs:documentation>
+    </xs:annotation>
+  </xs:element>
+  
+  <xs:element name="newVersion" type="xs:anyURI">
+    <xs:annotation>
+      <xs:documentation xml:lang="sl">URL nove verzije intelektualne entitete v repozitoriju si4.</xs:documentation>
+    </xs:annotation>
+  </xs:element>
+  
+  <xs:group name="elementsGroup">
+    <xs:sequence>
+      <xs:choice>
+        <xs:element ref="description" minOccurs="0" maxOccurs="unbounded"/>
+        <xs:element ref="page" minOccurs="0"/>
+        <xs:element ref="removedTo" minOccurs="0"/>
+        <xs:element ref="newVersion" minOccurs="0"/>
+      </xs:choice>
+    </xs:sequence>
+  </xs:group>
+
+  <xs:complexType name="elementContainer">
+    <xs:annotation>
+      <xs:documentation xml:lang="en">This complexType is included as a convenience for schema
+        authors who need to define a root or container element for all of the si4 elements.</xs:documentation>
+    </xs:annotation>
+    <xs:choice>
+      <xs:group ref="elementsGroup"/>
+    </xs:choice>
+  </xs:complexType>
+
+
+</xs:schema>
