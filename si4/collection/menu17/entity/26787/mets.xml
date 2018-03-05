@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/26787">
+           OBJID="http://hdl.handle.net/11686/26787"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2014-04-15T16:22:08"
                  LASTMODDATE="2017-02-14T14:06:39"
                  RECORDSTATUS="Active">
@@ -85,7 +87,30 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> V času do prve svetovne
+                                    vojne je nastalo v Domžalah, Mengšu, Moravčah, Dobu, Lukovici,
+                                    Ihanu in Radomljah okoli trideset društev, ki so dosegla
+                                    precejšen razvoj, čeprav so nekatera imela le malo članov. Vsa
+                                    so bila odvisna od požrtvovalnosti in organizacijske zavzetosti
+                                    posameznikov. Bila so žarišča kulturnega razvoja v najširšem
+                                    pomenu besede, ne glede na to, če jim je bila kulturna dejavnost
+                                    osnovni ali le postranski namen. S prireditvami vseh vrst so
+                                    dvigala precejšen del ljudi iz pasivnosti in zaostalosti. Pomen
+                                    teh društev pa ni bil samo v njihovi kulturni dejavnosti.
+                                    Krepila in urjevala so tudi narodno zavest in tako predstavljala
+                                    važno oporišče narodnostnemu boju. To je bilo še toliko bolj
+                                    pomembno v Domžalah, kjer je bila večina tamkajšnje slamnikarske
+                                    industrije v rokah tirolskih podjetnikov, ki so v tovarnah na
+                                    boljših mestih zaposlovali izključno Nemce. Ti so v Domžalah
+                                    ustanavljali tudi svoja politična, šolska in kulturna društva.
+                                    Ker so bili v domžalskih in mengeških kulturnih društvih
+                                    včlanjeni tudi slamnikarski in drugi delavci, so ta društva
+                                    utrjevala tudi njihovo razredno zavest. Idejna in politična
+                                    diferenciacija, ki se je začela v devetdesetih letih 19.
+                                    stoletja, se je kazala tudi v delovanju društev, tako da so
+                                    le-ta postajala tudi opora političnim strankam v boju za
+                                    privržence in so jih zato tudi na razne načine podpirale. </entity:description>
                <entity:page>396</entity:page>
             </METS:xmlData>
          </METS:mdWrap>

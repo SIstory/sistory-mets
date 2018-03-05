@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/35301">
+           OBJID="http://hdl.handle.net/11686/35301"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2016-06-16T12:23:02"
                  LASTMODDATE="2017-02-10T12:54:22"
                  RECORDSTATUS="Active">
@@ -92,7 +94,17 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Primerjava sovjetskega
+                                    delovnega prava z razvojem jugoslovanskega je možna le deloma.
+                                    Sovjetsko delovno pravo se je razvilo od skoraj popolnega
+                                    začetka po revolucionarnem prevzemu oblasti (Kodeks zakona o
+                                    delu iz leta 1918) in je v razmerah socialistične ureditve
+                                    doseglo svoj vrh z določbami o delavski zaščiti v okviru ustave
+                                    ZSSR iz leta 1936. Tako oblikovano sovjetsko delovno pravo je od
+                                    konca druge svetovne vojne do uvedbe delavskega samoupravljanja
+                                    tudi na področju družbenih služb leta 1953 vplivalo na razvoj
+                                    jugoslovanskega. </entity:description>
                <entity:page>335</entity:page>
             </METS:xmlData>
          </METS:mdWrap>

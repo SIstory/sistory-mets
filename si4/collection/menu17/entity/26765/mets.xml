@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/26765">
+           OBJID="http://hdl.handle.net/11686/26765"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2014-04-15T14:06:06"
                  LASTMODDATE="2017-02-14T14:15:54"
                  RECORDSTATUS="Active">
@@ -83,7 +85,26 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Takoj po koncu prve
+                                    svetovne vojne so se poštni uslužbenci v novi državi ponovno
+                                    stanovsko organizirali v skladu s svojim položajem oziroma
+                                    izobrazbo in delom, ki so ga opravljali v poštni stroki.
+                                    Obnovili so vrsto nekdanjih društev, ki pa so jim seveda
+                                    prevedli naziv iz nemškega v slovenski jezik. Nekatera med njimi
+                                    so se združila s katerim od društev sorodne kategorije poštnih
+                                    uslužbencev, in to še pred ustanovitvijo Zveze poštnih
+                                    organizacij 16. maja 1919, v katero se je včlanila večina
+                                    poštnih društev (organizacij oziroma kategorij). Le na
+                                    Štajerskem so se 6. maja 1919 združile vse kategorije poštnih
+                                    uslužbencev v enotno Društvo jugoslovanskih poštnih,
+                                    telegrafskih in telefonskih uslužbencev v Mariboru, ki pa je
+                                    šele sredi leta 1921 pristopilo k Zvezi poštnih organizacij.
+                                    Tudi v naslednjih letih so se društva medsebojno združevala in
+                                    nastajala še nova, ki so se ali včlanila v Zvezo poštnih
+                                    organizacij ali pa ostajala zunaj nje, prav tako pa so iz nje
+                                    izstopala posamezna društva, ki se niso strinjala z njenim
+                                    delovanjem. </entity:description>
                <entity:page>132</entity:page>
             </METS:xmlData>
          </METS:mdWrap>

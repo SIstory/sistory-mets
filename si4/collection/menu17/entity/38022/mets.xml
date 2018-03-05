@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/38022">
+           OBJID="http://hdl.handle.net/11686/38022"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2017-10-16T08:21:14"
                  LASTMODDATE="2017-10-23T12:32:35"
                  RECORDSTATUS="Active">
@@ -18,7 +20,6 @@
          <METS:name>SIstory</METS:name>
          <METS:note>http://sistory.si/</METS:note>
       </METS:agent>
-      <METS:agent ROLE="CREATOR" ID="user.123" TYPE="INDIVIDUAL"/>
    </METS:metsHdr>
    <METS:dmdSec ID="default.dc">
       <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
@@ -66,7 +67,43 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity"/>
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv">
+                  <p xmlns="http://www.w3.org/1999/xhtml">Predložena elektronska publikacija vsebuje gradivo za
+                                        historično topografijo predjožefinskih župnij, to je župnij,
+                                        ki so se izoblikovale do cerkvene reforme cesarja Jožefa II.
+                                        v prvih osemdesetih letih 18. stoletja, na Kranjskem.
+                                        Upošteva meje dežele Kranjske v 18. stoletju, vendar brez
+                                        tistih delov, ki so sodili pod goriški arhidiakonat
+                                        oglejskega patriarhata oziroma, po letu 1751, goriške
+                                        nadškofije ter pod tržaško škofijo. Gradivo za te župnije je
+                                        bilo objavljeno posebej. Prav tako nista upoštevani župniji
+                                        Žumberk in Vivodina onstran Gorjancev, ki sta po delitvi
+                                        patriarhata prišli pod goriško nadškofijo, a sta bili po
+                                        ustanovitvi Vojne krajine v 16. stoletju Kranjski
+                                        odvzeti.</p>
+                  <p xmlns="http://www.w3.org/1999/xhtml">Večji del tu objavljenega gradiva je izhajal postopoma v
+                                        serijski publikaciji Acta Ecclesiastica Sloveniae od leta
+                                        1988 dalje, začenši s pražupnijama Radovljica in Kranj; le v
+                                        rokopisu je ostala Dolenjska z Belo krajino. Razlog za
+                                        ponovno objavo je dvojen: želja, da je vse gradivo zbrano na
+                                        enem mestu, in dejstvo, da je raziskovanje razvoja župnijske
+                                        mreže na Slovenskem v zadnjem času prineslo nova spoznanja,
+                                        ki v marsičem dopolnjujejo ali spreminjajo dosedanjo podobo.
+                                        Poleg tega je medtem izšlo precej župnijskih zbornikov in
+                                        drugih publikacij, ki so posvečeni posameznim župnijam in
+                                        dodatno osvetljujejo njihovo zgodovino. .</p>
+                  <p xmlns="http://www.w3.org/1999/xhtml">V primerjavi s tem, kar je bilo doslej objavljeno, je gradivo
+                                        v tej publikaciji obsežnejše, z več novimi ali ponovno
+                                        preverjenimi arhivskimi in bibliografskimi podatki, vendar v
+                                        zadanem okviru. Naloga tega gradiva namreč ni, da obnovi
+                                        zgodovino posameznih župnij in cerkva, marveč, da posreduje
+                                        ključne podatke zanjo. V soglasju z naravo publikacije je
+                                        besedilo strnjeno z okrajšavami, katerih ključ je podan v
+                                        nadaljevanju. Skrajšani so tudi bibliografski podatki,
+                                        vendar le do mere, ki še omogoča njihovo preverjanje.</p>
+               </entity:description>
+            </METS:xmlData>
          </METS:mdWrap>
       </METS:techMD>
    </METS:amdSec>

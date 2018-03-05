@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/35263">
+           OBJID="http://hdl.handle.net/11686/35263"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2016-06-14T14:50:54"
                  LASTMODDATE="2017-02-10T13:06:30"
                  RECORDSTATUS="Active">
@@ -90,7 +92,12 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Rodoslovje lahko
+                                    opazujemo v petih obdobjih ali načinih: nepismeno, pismeno,
+                                    računalniško, internetno in v povezavi z genetiko. Vsak način
+                                    ima svoje značilnosti. Pri zadnjih treh je neizogibna navezanost
+                                    na zahodne vzorce, konkretno na vzorce ZDA. </entity:description>
                <entity:page>151</entity:page>
             </METS:xmlData>
          </METS:mdWrap>

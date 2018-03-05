@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/26757">
+           OBJID="http://hdl.handle.net/11686/26757"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2014-04-15T12:51:36"
                  LASTMODDATE="2017-02-14T14:18:25"
                  RECORDSTATUS="Active">
@@ -91,7 +93,19 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Eden izmed
+                                    zaskrbljujočih pojavov sodobne slovenske družbe je razkroj
+                                    vrednostnega sistema in spoštovanja doseženih medsebojnih
+                                    odnosov. Posledice so opazne tudi na očitnem zapostavljanju
+                                    doseženega znanja na področju zgodovinopisja. Čestitkam ob
+                                    jubileju profesorja Miroslava Stiplovška se pridružujem z orisom
+                                    zgodnjesrednjeveške poselitve v Prekmurju in predstavitvijo
+                                    konflikta med laično javnostjo in stroko na primeru "venetske
+                                    teorije". Nepomembna a živahna časopisna razprava o izvoru
+                                    Slovencev v daljni prazgodovini je zaradi podpore zgodovinsko
+                                    laičnih politikov, prerasla v zanikanje legitimnosti znanosti
+                                    kot take. </entity:description>
                <entity:page>28</entity:page>
             </METS:xmlData>
          </METS:mdWrap>

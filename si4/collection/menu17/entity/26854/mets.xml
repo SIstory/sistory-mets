@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/26854">
+           OBJID="http://hdl.handle.net/11686/26854"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2014-06-12T14:54:37"
                  LASTMODDATE="2016-12-16T20:25:24"
                  RECORDSTATUS="Active">
@@ -88,7 +90,17 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity"/>
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv">
+                  <p xmlns="http://www.w3.org/1999/xhtml">Več o Alfonsu Müllnerju na portalu Slovenska biografija.
+                                        <br/> Na portalu Zgodovina Slovenije - SIstory je dostopna
+                                        tudi kopija tipkopisa slovenskega prevoda njegove knjige
+                                        Geschichte des Eisens in Krain, Görz und Istrien von der
+                                        Urzeit bis zum Anfänge des XIX. Jahrhunderts, do nje lahko
+                                        dostopate preko te <a href="http://sistory.si/SISTORY:ID:26862">kazalke.</a>
+                  </p>
+               </entity:description>
+            </METS:xmlData>
          </METS:mdWrap>
       </METS:techMD>
    </METS:amdSec>

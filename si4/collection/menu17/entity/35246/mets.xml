@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/35246">
+           OBJID="http://hdl.handle.net/11686/35246"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2016-06-13T12:32:36"
                  LASTMODDATE="2017-02-13T11:43:25"
                  RECORDSTATUS="Active">
@@ -95,7 +97,25 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> V članku je strnjeno
+                                    predstavljen zgodovinski razvoj Kranja od zgodnjega srednjega
+                                    veka do danes. Posebej je poudarjena prva omemba Kranja kot
+                                    mesta v pisnih virih iz leta 1256. Kranj spada med najstarejša
+                                    slovenska mesta, mestne pravice in grb so mu v prvi polovici 13.
+                                    stoletja podelili grofje Andeški. Dolga stoletja je veljal za
+                                    sejemsko mesto z velikim ugledom in je imel pomembno vlogo v
+                                    tranzitnem prometu. V 17. stoletju se je dokončno izoblikovala
+                                    mestna veduta grajena v obliki piramide s cerkvenimi zvoniki,
+                                    obzidjem in obrambnimi stolpi, ki je ena najlepših v evropskem
+                                    prostoru in nam jo je ohranil topograf Mathias Merian. Odprtje
+                                    gorenjske železnice je mestu omogočilo razvoj manufaktur in
+                                    manjših industrijskih podjetij. Med obema svetovnima vojnama je
+                                    Kranj z vlaganji tujih in domačih podjetnikov postal drugo
+                                    najpomembnejše središče tekstilne industrije v Sloveniji. Po
+                                    drugi svetovni vojni sta imeli največji pomen elektro in
+                                    gumarska industrija. Kranj ima tudi vlogo regionalnega središča
+                                    Gorenjske. </entity:description>
                <entity:page>11</entity:page>
             </METS:xmlData>
          </METS:mdWrap>

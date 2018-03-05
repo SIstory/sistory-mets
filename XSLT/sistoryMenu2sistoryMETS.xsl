@@ -21,6 +21,9 @@
     <xsl:output method="xml" indent="yes"/>
     <xsl:strip-space elements="*"/>
     
+    <!-- Če želim, da v mets.xml vključim lokacijo sheme, mora biti parameter schemaLocation true -->
+    <xsl:param name="schemaLocation">true</xsl:param>
+    
     <!-- določi si, kje naj ustvari folderje z mets datetekami -->
     <xsl:param name="outputDir">/Users/administrator/Documents/moje/Sheme/sistory-mets/si4/collection/</xsl:param>
     
@@ -38,6 +41,9 @@
                     ID="collection."
                     TYPE="collection" 
                     OBJID="http://hdl.handle.net/11686/menu{@id}">
+                    <xsl:if test="$schemaLocation = 'true'">
+                        <xsl:attribute name="xsi:schemaLocation">http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd</xsl:attribute>
+                    </xsl:if>
                     <xsl:variable name="currentDateTime" select="substring-before(xs:string(current-dateTime()),'.')"/>
                     <METS:metsHdr CREATEDATE="{xs:dateTime($currentDateTime)}" LASTMODDATE="{xs:dateTime($currentDateTime)}" RECORDSTATUS="Active">
                         <xsl:attribute name="RECORDSTATUS">
@@ -103,6 +109,9 @@
                             <METS:techMD ID="default.si4">
                                 <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="COLLECTION" MIMETYPE="text/xml">
                                     <METS:xmlData xmlns:collection="http://sistory.si/schema/si4/collection">
+                                        <xsl:if test="$schemaLocation = 'true'">
+                                            <xsl:attribute name="xsi:schemaLocation">https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/collection.1.0.xsd</xsl:attribute>
+                                        </xsl:if>
                                         <xsl:for-each select="sistory:menu/*">
                                             <xsl:copy-of select="." copy-namespaces="no"/>
                                         </xsl:for-each>

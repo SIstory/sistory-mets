@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/35973">
+           OBJID="http://hdl.handle.net/11686/35973"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2016-08-10T23:48:08"
                  LASTMODDATE="2017-02-14T08:53:15"
                  RECORDSTATUS="Active">
@@ -92,7 +94,28 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity"/>
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Monografija je posvečena
+                                    razvoju, strukturi in izvorom samostojnih privatnih listin, ki
+                                    so nastajale na ozemlju modeme Kranjske od leta 1136 do leta
+                                    1300. Raziskava temelji na podlagi 405 listin do leta 1324,
+                                    ohranjenih v originalih, prepisih ali regestah, ki se nahajajo v
+                                    slovenskih, avstrijskih, nemških in italijanskih arhivih ter so
+                                    povečini že publicirane. 41 listin iz časa med letoma 1302 in
+                                    1324 je odbranih zaradi primerjav. Natančneje so raziskane
+                                    listine, ki so jih izstavile fizične in pravne osebe s sedežem
+                                    na Kranjskem, listine tujih izstaviteljev pa so vzete v omej
+                                    enem številu za primerjavo : listine oglejskih patriarhov,
+                                    koroških vojvod, goriških grofov, vetrinjskega in
+                                    gornjegrajskega samostana, briksenških in freisinških škofov.
+                                    Prvi dve poglavji v monografiji sta posvečeni značaju in vsebini
+                                    listin ter vplivu pravnega in političnega dogajanja, oz.
+                                    nekaterim prostorskim in časovnim danostim pri odvijanju pravnih
+                                    dejanj in nastajanju listin. Osrednji del monografije je analiza
+                                    zunanjih in notranjih značilnosti (formul) ter diktata.
+                                    Zaključni del je posvečen zgodovini in značilnostim pisarn in
+                                    pisarjev na Kranjskem. </entity:description>
+            </METS:xmlData>
          </METS:mdWrap>
       </METS:techMD>
    </METS:amdSec>

@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/31056">
+           OBJID="http://hdl.handle.net/11686/31056"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2015-06-03T12:06:26"
                  LASTMODDATE="2017-02-15T12:10:43"
                  RECORDSTATUS="Active">
@@ -87,7 +89,26 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Razvoj bolnišničnih šol
+                                    je povezan z razvojem pedagogike, kulturno-socialnimi
+                                    spremembami družbe in razvojem pediatrije kot samostojne
+                                    medicinske discipline. Njihov namen je predvsem terapevtski.
+                                    Nastale so na pobudo pediatrov in posameznikov, katerim niso
+                                    bili pomembni le medicinski rezultati zdravljenja temveč tudi
+                                    psihofizično stanje otrok. Posebno šolo pri Bolnici za kostna in
+                                    sklepna obolenja Valdoltra so ustanovili 1. septembra 1956. V
+                                    Valdoltro so jo preselili iz Zdravilišča za kostno TBC v
+                                    Šempetru. Posebna šola pri Ortopedski bolnišnici Valdoltra je
+                                    otrokom ohranjala delovne navade, vedrino in stik z zunanjim
+                                    svetom, da bi se lažje vključevali v domače in šolsko okolje po
+                                    zaključku zdravljenja. V okrevališču in kasneje bolnišnici
+                                    Valdoltra so zdravili do 60. let 20. stoletja osteoartikularno
+                                    tuberkulozo (OAT), v sedemdesetih letih in kasneje pa predvsem
+                                    ortopedske bolezni. Ker se je v 90. letih hospitalizacijska doba
+                                    otrok po operacijah skrajšala, so 31. avgusta 1994 šolo ukinili,
+                                    šolanje otrok v Bolnišnici Valdoltra je prevzela OŠ Dekani.
+                                </entity:description>
                <entity:page>502</entity:page>
             </METS:xmlData>
          </METS:mdWrap>

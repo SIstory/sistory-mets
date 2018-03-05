@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/12289">
+           OBJID="http://hdl.handle.net/11686/12289"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2012-10-03T11:05:27"
                  LASTMODDATE="2017-02-14T08:51:44"
                  RECORDSTATUS="Active">
@@ -97,7 +99,28 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity"/>
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv">
+                  <p xmlns="http://www.w3.org/1999/xhtml">Nravstvena zgodovina (Sittengeschichte) predstavlja v
+                                        slovenskem zgodovinopisju nekakšno belo liso in izpuščeno
+                                        poglavje. Izpostaviti je potrebno, da so se mnogi slovenski
+                                        zgodovinarji že ukvarjali s temami, ki so sestavni del
+                                        nravstvene zgodovine po Hobsbawmu dolgega stoletja
+                                        meščanstva (npr. prostitucije, homoseksualnosti, vloge
+                                        žensk, zgodovine telesa, mode, seksualni delikti, ipd.), a
+                                        celovitega poskusa opredelitve nravstvenih razmer v dobi
+                                        meščanstva na Slovenskem v slovenski historiografiji ni
+                                        najti. Pričujoče delo poskuša predstaviti nravnost, njen
+                                        razvoj, pomen in veljavo v družbi v drugi polovici 19. in na
+                                        začetku 20. stoletja. Knjiga poskuša prikazati velik
+                                        razkorak med pričakovanji in nauki moralistov na eni strani
+                                        in vsakdanjim življenjem (prakso) ljudi na drugi strani.
+                                        Poskuša predstaviti razkorak med priporočljivim in
+                                        dejanskim, ki se najbolj kaže oz. odraža v neprestanem
+                                        ponavljanju spisov z vselej enako ali vsaj močno podobno
+                                        vzgojno-moralno vsebino.</p>
+               </entity:description>
+            </METS:xmlData>
          </METS:mdWrap>
       </METS:techMD>
    </METS:amdSec>

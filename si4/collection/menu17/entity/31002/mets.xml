@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/31002">
+           OBJID="http://hdl.handle.net/11686/31002"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2015-05-15T08:20:29"
                  LASTMODDATE="2017-02-15T09:27:55"
                  RECORDSTATUS="Active">
@@ -99,7 +101,35 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity"/>
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> V razvoju šolstva v
+                                    srednjeveškem Dubrovniku razlikujemo več faz. O dubrovniških
+                                    šolah vse do leta 1333 ne vemo skoraj nič. Šole za vzgojo
+                                    duhovniškega naraščaja so bile v samostanih. V omejenem obsegu
+                                    so opismenjevanje mladine opravljali privatni učitelji. V
+                                    Dubrovniku so o občinskem učitelju prvič razpravljali v Malem
+                                    svetu 6. marca 1333. V službo je bil sprejet Nikolai z Verone
+                                    kot magister gramaticus. Določili so mu 10 perperjev letne
+                                    plače, posebno šolnino pa so morali plačevati tudi otroci.
+                                    Prihod tega učitelja v Dubrovnik naj bi pomenil začetek
+                                    delovanja javne mestne šole. Leta 1385 je bil imenovan za
+                                    učitelja magister Karlo Jacobi di Scanello iz Bologne. Bil je
+                                    prvi državni uradnik - salariat. Šolstvo postaja državno,
+                                    učitelji so državni uradniki. Povečali so jim plačo, a ukinili
+                                    šolnino. Leta 1412 je prišlo na področju dubrovniškega šolstva
+                                    do nove spremembe. Pouk se je delil na dve stopnji. Učitelj je
+                                    na nižji stopnji učil otroke branja in pisanja, na višji stopnji
+                                    pa gramatiko, retoriko in filozofijo. Osrednja osebnost in eden
+                                    od reformatorjev dubrovniškega šolstva je bil italijanski
+                                    humanist Filip de Diversis de Quartigiani iz Lucce. Takrat so
+                                    dobili Dubrovčani prvi zakon o šolah (1435) in šola je dobila
+                                    nove prostorne učilnice. Osnovnošolski pouk je ostal
+                                    nespremenjen, srednješolski se je delil na dve veji: na trgovsko
+                                    in humanistično smer. Po zamisli Filipa da Diversisa naj bi bila
+                                    to prva humanistična šola v Dubrovniku. V Dubrovniku je morala
+                                    že zelo zgodaj delovati posebna slovanska šola, kjer so se
+                                    Dubrovčani učili cirilico. </entity:description>
+            </METS:xmlData>
          </METS:mdWrap>
       </METS:techMD>
    </METS:amdSec>

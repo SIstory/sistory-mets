@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/35281">
+           OBJID="http://hdl.handle.net/11686/35281"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2016-06-15T14:38:18"
                  LASTMODDATE="2017-02-13T11:44:52"
                  RECORDSTATUS="Active">
@@ -98,7 +100,26 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> V Trstu na stičišču
+                                    latinskega sveta s slovenskim in slovanskim se je v zadnjih
+                                    150-ih letih vgnezdil strah pred t. i. slovensko in slovansko
+                                    »nevarnostjo«. Italijanski romanski svet ni znal izkoristiti
+                                    možnosti, da bi se na robu dveh kultur razvil dialog in politika
+                                    sožitja, torej obojestranska obogatitev in oplemenitev. Namesto
+                                    sožitja je prevladal strah pred novim in zato neznanim
+                                    slovenskim svetom. Slovenski narodni preporod je povzročil strah
+                                    pred tako prisotnostjo v mestu. Omenjeno stanje je po prvi vojni
+                                    izkoristi fašizem do take mere, da je uzakonil politiko nasilja
+                                    nad slovenskim prebivalstvom Julijske krajine. Po drugi vojni je
+                                    bilo dodatno vse pogojeno od problema eksodusa iz Istre, ki je
+                                    delno spremenil sestavo prebivalstva in od žgočega problema
+                                    fojb. Na eni strani strah, na drugi strani pa stalno ponavljanje
+                                    zgodbe o višji rasi in kulturi. Rečenica o »italiani, brava
+                                    gente« in istočasno prekritje fašističnih zločinov, ki jih lahko
+                                    ponazorimo z besedami: Narodni dom v Trstu, Bazovica, Gonars,
+                                    Rab, Rižarna v Trstu. Prepletanje mitov in stereotipov na
+                                    stičišču narodov in kultur. </entity:description>
                <entity:page>263</entity:page>
             </METS:xmlData>
          </METS:mdWrap>

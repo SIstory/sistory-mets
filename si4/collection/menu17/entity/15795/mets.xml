@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/15795">
+           OBJID="http://hdl.handle.net/11686/15795"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2013-05-30T14:10:38"
                  LASTMODDATE="2016-11-24T19:23:13"
                  RECORDSTATUS="Active">
@@ -77,7 +79,18 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv">
+                  <pre xmlns="http://www.w3.org/1999/xhtml">Socialno vprašanje je bilo eno najbolj perečih problemov 19. stoletja. Za te je
+bila v prvi vrsti kriva vedno večja industrializacija. Moderna industrija je tako
+ustvarila pojav industrijskega delavstva, ki je živelo in delalo v zelo slabih pogojih.
+Zlasti sramotno je bilo delo otrok. Delavci so skoraj neprekinjeno delali po
+14 in več ur. Delovni prostori so bili zelo nezdravi in delo mnogokrat nevarno.
+Za to naporno delo so prejemali minimalno mezdo, ki pogosto ni pokrila vseh
+življenjskih stroškov. Vendar je vsakdo, ki je delal, lahko bil srečen. Nezaposleni
+delavec, ki zaradi minimalne mezde ni imel nobenih prihrankov, je lahko izbiral
+le med lakoto in beračenjem.</pre>
+               </entity:description>
                <entity:page>20</entity:page>
             </METS:xmlData>
          </METS:mdWrap>

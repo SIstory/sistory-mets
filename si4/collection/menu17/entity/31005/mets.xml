@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/31005">
+           OBJID="http://hdl.handle.net/11686/31005"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2015-05-15T08:47:00"
                  LASTMODDATE="2017-02-15T09:25:43"
                  RECORDSTATUS="Active">
@@ -96,7 +98,27 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Pričujoči prispevek
+                                    prikazuje zgodovino indijskih nomadov od obdobja, ko so prvič
+                                    stopili na evropska tla ter so jih Evropejci sprejeli pod imenom
+                                    Cigani, do obdobja njihovega preganjanja, ki je v najhujši
+                                    obliki potekalo pod oblastjo nacionalsocializma (holokavst) ter
+                                    vse do vzpostavitve nove romske identitete. Čeprav je članek v
+                                    precejšnji meri zasnovan kot longitudinalni časovni pregled, se
+                                    v ozadju skriva želja po odgovoru na vprašanje, kakšen je odnos
+                                    Romov do zgodovine. S tem vprašanjem je povezanih več
+                                    podvprašanj: kdo so Romi; kakšna je njihova kulturna identiteta,
+                                    kakšen je njihov vsakdanji način življenja ter odnosi med Romi
+                                    in Neromi. V zaključku so podane bistvene ugotovitve posameznih
+                                    poglavij in odgovori na gornja vprašanja. Glede na to, da je
+                                    bilo uradno poimenovanje Rom sprejeto s strani Romov in
+                                    mednarodnih organizacij šele leta 1971, je v prispevku izraz
+                                    Cigan uporabljen z vsem spoštovanjem do nosilcev tega imena, z
+                                    namenom prikazati zgodovinsko identiteto in razvoj tega
+                                    ljudstva. Z uporabo pojma Cigan, nato Rom, želimo poudariti
+                                    trenutek, ki ključno vpliva na spremembo romske identitete in
+                                    romskega samozavedanja. </entity:description>
                <entity:page>457</entity:page>
             </METS:xmlData>
          </METS:mdWrap>

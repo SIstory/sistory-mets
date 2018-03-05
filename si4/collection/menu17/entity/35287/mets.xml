@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/35287">
+           OBJID="http://hdl.handle.net/11686/35287"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2016-06-15T15:41:17"
                  LASTMODDATE="2017-02-13T11:47:53"
                  RECORDSTATUS="Active">
@@ -94,7 +96,18 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Avtor v svojem prispevku
+                                    s pomočjo zgodovinskega primera skuša opozoriti na specifično
+                                    oblikovanje stereotipov znotraj migracijskih procesov. Tipe
+                                    migracij namreč določajo prostor, čas in motivacija, kar pa je
+                                    večkrat težko določiti. Včasih prav zaradi posebnosti
+                                    stereotipov, da za svoj nastanek potrebujejo določen čas,
+                                    prostor in okolje, zgodovinski pogled postane nepogrešljiv
+                                    pripomoček drugim družboslovnim in humanističnim vedam pri
+                                    njihovem raziskovanju. Ta pristop se skuša preizkusiti na
+                                    primeru pojma optanti, ko se zgodovinsko ozadje sooči z
+                                    družboslovnim «definicijami stereotipa. </entity:description>
                <entity:page>323</entity:page>
             </METS:xmlData>
          </METS:mdWrap>

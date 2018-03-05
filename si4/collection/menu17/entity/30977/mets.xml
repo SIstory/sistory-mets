@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/30977">
+           OBJID="http://hdl.handle.net/11686/30977"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2015-05-13T10:46:34"
                  LASTMODDATE="2017-02-15T11:28:32"
                  RECORDSTATUS="Active">
@@ -93,7 +95,22 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Reševanje gospodarske
+                                    krize je Nemčiji po drugi svetovni vojni prineslo številne
+                                    gostujoče delavce, ki bi se morali vrniti domov, ko jih Nemčija
+                                    ni več potrebovala, a se niso. Namesto tega so se jim v
+                                    sedemdesetih letih dvajsetega stoletja začele pridruževati
+                                    družine. Tem so se po koncu hladne vojne pridružili še begunci,
+                                    izgnanci in azilanti. Čeprav se je Nemčija do leta 2005 borila
+                                    proti priseljevanju, je ravno njena zakonodaja omogočala
+                                    nasprotno. Posebno pozornost je ves čas namenjala tujcem, ki v
+                                    ZRN niso prihajali iz držav EU. Za največjo skupino s tretjih
+                                    držav v ZRN, Turke, je namenila celo posebna pravna določila.
+                                    Najpomembnejši za vse tujce pa je bil njihov bivanjski status,
+                                    na katerem so temeljile ostale pravice v ZRN. V prispevku
+                                    sledimo orisu problematike od prvega Zakona o tujcih (1965) do
+                                    Zakona o priseljevanju (2004). </entity:description>
                <entity:page>443</entity:page>
             </METS:xmlData>
          </METS:mdWrap>

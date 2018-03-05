@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/26772">
+           OBJID="http://hdl.handle.net/11686/26772"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2014-04-15T14:56:09"
                  LASTMODDATE="2017-02-14T14:13:54"
                  RECORDSTATUS="Active">
@@ -87,7 +89,31 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Ozemlje današnje Hrvaške
+                                    sodi med tista evropska območja, ki so zaradi množičnih selitev
+                                    prebivalstva doživljala skozi vsa zgodovinska obdobja velike
+                                    spremembe v etnični, jezikovni in verski sestavi prebivalstva.
+                                    Do ene največjih sprememb je na območju današnje Hrvaške prišlo
+                                    v času turških osvajanj Evrope (15.-18. stoletje). Takrat so se
+                                    na obsežnih opuščenih območjih hrvaških dežel ob meji s turškim
+                                    cesarstvom, od koder se je pred tem zaradi avstroogrsko-turških
+                                    spopadov odselilo skoraj vse prebivalstvo, naselili številni
+                                    kolonisti živinorejci, etnično pretežno srbskega porekla.
+                                    Priselili so se iz turških zasedenih območij na Balkanu, potem
+                                    ko so jim Turki odvzeli status svobodnih ljudi in privilegije
+                                    ter jih skušali izenačili z rajo. Množično so se naselili zlasti
+                                    v Liki, Baniji, Kordunu, severni Dalmaciji in Slavoniji, to je
+                                    na območjih, kjer so Habsburžani organizirali za obrambo pred
+                                    Turki poseben obrambni sistem - Vojno krajino. Ker so habsburške
+                                    oblasti priseljencem v zameno za obrambo dežele priznale podobne
+                                    privilegije, kakršne so imeli v turškem cesarstvu, se je v Vojni
+                                    krajini naseljevalo vse več novih priseljencev.1 Tako je srbsko
+                                    prebivalstvo na območju današnje Hrvaške že sredi 19. stoletja
+                                    sestavljalo več kot 20% vsega prebivalstva. Narodnostna
+                                    pomešanost hrvaškega in srbskega prebivalstva je v vseh
+                                    kasnejših obdobjih odigrala pomembno vlogo v političnem,
+                                    kulturnem pa tudi gospodarskem razvoju Hrvaške. </entity:description>
                <entity:page>214</entity:page>
             </METS:xmlData>
          </METS:mdWrap>

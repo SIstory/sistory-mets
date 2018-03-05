@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/26774">
+           OBJID="http://hdl.handle.net/11686/26774"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2014-04-15T15:15:46"
                  LASTMODDATE="2017-02-14T14:13:12"
                  RECORDSTATUS="Active">
@@ -97,7 +99,30 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> "Tukaj jaz izjavljam,
+                                    kot predsednik hrvatskega kmečkega kluba, kot zastopnik
+                                    predsednika Radiča, ker sem za to pooblaščen: Priznamo
+                                    vsesplošno politično stanje, kakor je danes po vidovdanski
+                                    ustavi z dinastijo Karadjordjevičev na čelu in pri tem vodeč
+                                    računa o izvajanju pozitivne politike v smislu jasno izražene
+                                    volje hrvaškega naroda trikrat zapovrstjo na izvedenih volitvah
+                                    glede na politična dejstva in celotno politično ureditev, kakor
+                                    je danes. Popravek teh dejstev in te ureditve, ki je po svoji
+                                    volji in vesti ne moremo odobriti, naj bo predmet revizije
+                                    ustave oziroma narodnega sporazuma med narodi SHS. Mi se nikoli
+                                    nismo borili proti tej naši državi in njenim interesom, vendar
+                                    pa je zaradi omenjenih dejstev, katera sem poudaril, nastalo med
+                                    narodom upiranje, ki se je površno, od daleč, razumelo kot
+                                    protidržavno, čeprav je bilo spontano in ni bilo organizirano.
+                                    Takšno vprašanje, če bi se nadaljevalo in poostrilo, še posebej,
+                                    kakor je bilo v času volitev, pred in po volitvah, bi lahko
+                                    postalo nevarno za celo našo prihodnost in prav zaradi te naše
+                                    skupne prihodnosti in zaradi nespremenljive volje za sporazum s
+                                    srbskim narodom, smo mi naredili vse, da se hrvatski narod loti
+                                    sodelovanja v ureditvi države, vendar je to možno le na temelju
+                                    faktične in resnične enakopravnosti, ki se mora doseči s
+                                    spontanim narodnim sporazumom...". </entity:description>
                <entity:page>240</entity:page>
             </METS:xmlData>
          </METS:mdWrap>

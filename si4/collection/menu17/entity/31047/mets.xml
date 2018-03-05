@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/31047">
+           OBJID="http://hdl.handle.net/11686/31047"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2015-06-02T12:18:08"
                  LASTMODDATE="2017-02-15T12:15:15"
                  RECORDSTATUS="Active">
@@ -87,7 +89,18 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity"/>
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Prispevek je kratek
+                                    prolog v spolno problematiko na Slovenskem v 1. polovici 20.
+                                    stoletja, ki se je razbohotila z nastopom gospodarske krize v
+                                    30. letih. V središču obravnav je bilo vprašanje »seksualizma«,
+                                    zlasti med mladimi,ki je v prvi vrsti obravnavalo problem spolne
+                                    vzgoje otrok v povezavi s takrat perečimi »spolnimi« problemi –
+                                    kontracepcijo in splavom, predzakonskim spolnim življenjem in
+                                    njegovimi nezaželenimi nasledki. Zato je bila problematika
+                                    spolne vzgoje aktualna iz ekonomskih, političnih in
+                                    demografsko-nacionalističnih vidikov. </entity:description>
+            </METS:xmlData>
          </METS:mdWrap>
       </METS:techMD>
    </METS:amdSec>

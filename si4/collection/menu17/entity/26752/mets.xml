@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/26752">
+           OBJID="http://hdl.handle.net/11686/26752"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2014-04-14T18:35:38"
                  LASTMODDATE="2017-02-15T11:45:10"
                  RECORDSTATUS="Active">
@@ -71,7 +73,28 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> V slovenski javnosti se
+                                    je zanimanje za prvo svetovno vojno v zadnjem dvajsetletju
+                                    znatno povečalo. Nove monografije, posvečene vojnim dogajanjem
+                                    na soški fronti, so našle širok krog bralcev in z razširitvijo
+                                    vojaškozgodovinske obravnave na celovitejše preučevanje vojnega
+                                    dogajanja je poraslo tudi zanimanje za dolgo hranjene, a širši
+                                    slovenski javnosti nepoznane, dnevnike in spomine. Po vsej
+                                    verjetnosti bi lahko bili s slovenskim seznamom objavljene vojne
+                                    avtobiografske literature zadovoljni, če se ne bi ozirali k
+                                    sosedom in ugotovili, da je, denimo v Italiji in Avstriji,
+                                    objavljanje vojnih dnevnikov, korespondenc in spominov veliko
+                                    bolj razširjeno in tudi bolj sistematično. Skromnost slovenskega
+                                    izbora memorialistike, korespondenčne in dnevniške dokumentacije
+                                    je še bolj razvidna, če vzamemo v pretres Nemčijo, Veliko
+                                    Britanijo in Francijo, to je države, ki so že po koncu prve
+                                    svetovne vojne razvile močan kult padlih in ga pospremile z
+                                    razvejenim izdajanjem avtobiografske vojne proze. Razloge za
+                                    neobsežnost slovenskega izbora vojne avtobiografike bi veljalo
+                                    po mojem iskati tako v slovenskem političnem in kulturnem odnosu
+                                    do prve svetovne vojne kot v dolgoletnem zanemarjanju
+                                    avtobiografike. </entity:description>
                <entity:page>174</entity:page>
             </METS:xmlData>
          </METS:mdWrap>

@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/2">
+           OBJID="http://hdl.handle.net/11686/2"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2012-01-24T21:12:27"
                  LASTMODDATE="2016-12-18T10:47:11"
                  RECORDSTATUS="Active">
@@ -70,7 +72,25 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity"/>
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv">
+                  <p xmlns="http://www.w3.org/1999/xhtml">Kadar bode stara modrica povestnice v bronasti svoji knjigi
+                                        potomcem našim opisovala slavnost štiridesetletnice vladanja
+                                        cesarosti Franca Jožefa I., navela bode, da so tudi Slovenci
+                                        z navdušenjem slavili redko to svečanost, da pa je za nje
+                                        ona imela še poseben pomen: z 1888. letom preteče Slovencem
+                                        prva štiridesetletnica narodnega života. Pozabljen je bil
+                                        naš narod do 1848. leta, in kakor je slovenski kmet živel
+                                        pod jarmom nasledkov fevdalnega sistema, uprav tako je bil
+                                        zapadel narod sam „zgodovinsko opravičeni" nadvladi
+                                        mogočnega sosednega naroda! izbrisali so ga iz vrste
+                                        „narodov"! V Slovencih samih si našel jako malo mož, ki so
+                                        jeli gojiti nado, da „vremena Kranjcem bodo se zjasnila" in
+                                        da bode tudi slovenski rod postal kdaj narodna osebnost.
+                                        1848. leto je obetalo tem rodoljubom, da jim bode spolnilo
+                                        nade, uresničilo vzore, ki so jih gojili v srcih svojih.</p>
+               </entity:description>
+            </METS:xmlData>
          </METS:mdWrap>
       </METS:techMD>
    </METS:amdSec>

@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/31067">
+           OBJID="http://hdl.handle.net/11686/31067"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2015-06-03T12:44:43"
                  LASTMODDATE="2017-02-15T12:01:43"
                  RECORDSTATUS="Active">
@@ -88,7 +90,17 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> V titoizmu niso popisali
+                                    otroških žrtev vojne in revolucije, otroškim travmam niso
+                                    posvečali pozornosti. Tako kot ostale žrtve in prebivalstvo so
+                                    tudi otroke delili po rasističnih ključih, ki so temeljile na
+                                    vlogah njihovih sorodnikov v državljanski in razredni vojni, pa
+                                    tudi na drugih totalitarnih označevalcih, po katerih so v
+                                    titoizmu delili ljudi na ideološko primerne in neprimerne,
+                                    priviligirane in segregirane. V arhivu Komisije za izvajanje
+                                    zakona o popravi krivic so tisoči pričevanj in drugih virov za
+                                    preučevanje otroštev sirot tabuiziranih žrtev titoizma. </entity:description>
                <entity:page>651</entity:page>
             </METS:xmlData>
          </METS:mdWrap>

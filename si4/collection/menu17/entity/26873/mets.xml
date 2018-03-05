@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/26873">
+           OBJID="http://hdl.handle.net/11686/26873"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2014-06-16T13:06:36"
                  LASTMODDATE="2017-02-13T10:48:31"
                  RECORDSTATUS="Active">
@@ -93,7 +95,45 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv">
+                  <p xmlns="http://www.w3.org/1999/xhtml">Po oblikovanju prve jugoslovanske države je vprašanje vere in
+                                        njene družbene vloge postalo predmet posebne politične
+                                        obravnave, ko so v Ustavodajni skupščini Kraljevine SHS
+                                        spomladi 1921 med drugim razpravljali tudi o t. i.
+                                        kancelparagrafu, to je predlogu ustavnega določila, po
+                                        katerem verski predstavniki svoje duhovniške službe in
+                                        duhovniških nalog ne bi smeli izkoriščati v politične
+                                        namene. Slovenske politične stranke so se o omenjenem
+                                        predlogu opredelile skladno s svojimi temeljnim i idejnim i
+                                        in političnim i izhodišči. Katoliška Slovenska ljudska
+                                        stranka je uvedbi kancelparagrafa odločno nasprotovala. S
+                                        tem bi namreč posegli v suvereno pravico Cerkve, da sama
+                                        ureja svoje notranje zadeve. Predstavniki SLS so ob tem
+                                        opozorili, daje problematiko kancelparagrafa uredila že
+                                        enciklika Benedikta X V. Humani generis redemptionem (1917),
+                                        ki duhovniku kot učitelju vere prepoveduje vso politiko.
+                                        Nasprotno pa sta se liberalni Jugoslovanska demokratska
+                                        stranka in Samostojna kmetijska stranka, k i sta sicer
+                                        upoštevali vero kot sestavni del človekovega čustvovanja,
+                                        odločno zavzeli za kancelparagraf. Izhajali sta namreč iz
+                                        stališča, daje treba preprečiti izkoriščanje vere v
+                                        politične namene. Temu je nasprotovala tudi liberalna
+                                        Narodno socialistična stranka, ki pa je menila, da
+                                        kancelparagraf ne more rešiti omenjenega vprašanja, kvečjemu
+                                        lahko le pospeši kulturni boj. Tudi v marksističnem taboru,
+                                        v katerem so zagovarjali ločitev cerkve in države, so
+                                        vprašanje kancelparagrafa obravnavali različno.
+                                        Jugoslovanska socialnodemokratska stranka ga je na podlagi
+                                        stališča o nevmešavanju vere v politiko podprla, slovenske
+                                        komuniste pa njegova uvedba ali ne, ni zanimala.Ustavodajna
+                                        skupščina je predlog kancelparagrafa podprla. Kancelparagraf
+                                        je bil nato vključen v Vidovdansko ustavo, sprejeto 28.
+                                        junija 1921. S tem je bila opredeljena nova izzivna točka
+                                        ideoloških soočanj v slovenski politiki, ki se je nato skozi
+                                        različne pravne rede na Slovenskem ohranila do 21.
+                                        stoletja.</p>
+               </entity:description>
                <entity:page>106</entity:page>
             </METS:xmlData>
          </METS:mdWrap>

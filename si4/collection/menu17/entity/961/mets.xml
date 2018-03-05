@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/961">
+           OBJID="http://hdl.handle.net/11686/961"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2011-11-02T20:38:29"
                  LASTMODDATE="2017-02-13T09:09:25"
                  RECORDSTATUS="Active">
@@ -73,7 +75,52 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity"/>
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Pričujoča publikacija je
+                                    katalog k istoimenski razstavi, ki smo jo pripravili v Koroškem
+                                    pokrajinskem muzeju 13. mojo letos ob 60. obletnici konca druge
+                                    svetovne vojne, ki je na Koroškem trajala teden dni dlje kot
+                                    drugod v Evropi. Zadnji boji druge svetovne vojne so bili že
+                                    doslej bolj kot katerakoli druga tema iz tega obdobja deležni
+                                    velike pozornosti zgodovinarjev, po tudi novinarjev, publicistov
+                                    ter zbiralcev dokumentarnega in materialnega gradiva. Ohranilo
+                                    se je veliko število spominskih zapisov neposrednih udeležencev,
+                                    tako zmagovalcev kot poražencev, nekateri med njimi so napisali
+                                    zajetne knjige. Kljub številnim publikacijam in obravnavam
+                                    tematike v okviru drugih, širših študij o drugi vojni ter mnogim
+                                    simpozijem in strokovnim posvetom (zadnjega smo organizirali
+                                    ravno v okviru letošnjega obeleževanja) po celo o dogajanju
+                                    samem se vedno marsičesa ne vemo, kaj šele o vzrokih za
+                                    posamezne dogodke ali usodne odločitve. Pogledov in
+                                    interpretacij je se vedno veliko in se med seboj razlikujejo.
+                                    Kako se torej znajti v poplavi različnih informacij? Kaj je brez
+                                    odkritja novih dokumentov in drugih primarnih virov sploh se
+                                    mogoče dodati novega? To so bila vprašanja, no katera smo želeli
+                                    odgovoriti že no začetku v pripravah no pričujoči projekt.
+                                    Priložnost, ki jo ponuja zgolj okrogla obletnica, je bržkone
+                                    premalo, saj je tema obširna, se vedno izzivalna in bo taksna
+                                    ostala tudi v bodoče, ko se bodo z njo bržkone morali spopasti
+                                    močnejši timi strokovnjakov, kot jih premore naša institucija.
+                                    Omejili smo se torej na sistematičen pregled obstoječega
+                                    študijskega gradiva in nazoren prikaz kronologije dogodkov no
+                                    prizorišču zadnjih bojev in v njegovi bližini, skušali smo jih
+                                    umestiti v širši evropski in nacionalni okvir zadnjih mesecev
+                                    vojne, nos cilj po je bil predvsem obuditi spomin no dogodke
+                                    izpred šestih desetletij, ko se je slovenski narod, ki mu je
+                                    nacizem v času okupacije ob uresničevanju davne težnje nemškega
+                                    nacionalizma o prodoru do Jadrana namenil narodno smrt, rešil
+                                    silne more, ki go je tlačila štiri leta, in no novo zaživel.
+                                    Istočasno želimo opozoriti tudi no tragiko časa, ki je bil krut
+                                    in surov, saj so številni ljudje umirali, ko je bil drugod v
+                                    Evropi že mir, ali po so kmalu potem postali žrtve množičnih
+                                    izvensodnih pobojev, ki jih je zaukazala na novo porajajoča se
+                                    oblast. Pokloniti se želimo vsem žrtvam, ne glede no to, na
+                                    kateri strani so se znašli v vrtincu vojne in v kaosu ob njenem
+                                    koncu, predvsem po njihovim svojcem, ki se danes, šestdeset let
+                                    po dogodkih niso preboleli izgube najdražjih, kar je dokaz, kako
+                                    dolgoročne so negativne posledice vsake vojne in kako koristno
+                                    bi bilo, če bi se iz negativnih izkušenj kaj naučili. </entity:description>
+            </METS:xmlData>
          </METS:mdWrap>
       </METS:techMD>
    </METS:amdSec>

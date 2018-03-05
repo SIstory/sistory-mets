@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/26759">
+           OBJID="http://hdl.handle.net/11686/26759"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2014-04-15T13:03:44"
                  LASTMODDATE="2017-02-14T14:17:49"
                  RECORDSTATUS="Active">
@@ -94,7 +96,31 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Slovensko učiteljstvo na
+                                    Kranjskem je začetek 20. stoletja pričakalo ločeno v društveni
+                                    zvezi večinsko liberalne (Zaveza) in katoliške usmeritve
+                                    (Slomškova zveza) ter s skromnimi plačami. Delovanje učiteljskih
+                                    društev je pomenilo stanovsko povezovanje predstavnikov
+                                    uveljavljajočega intelektualnega poklica, skrb za njihovo
+                                    nadaljnjo pedagoško izobraževanje in za izboljševanja
+                                    materialnih pravic, hkrati pa tudi spodbudo narodnostnemu
+                                    delovanju učiteljstva na kulturnem in gospodarskem področju.
+                                    Učiteljska društva so tako združevala dejavnost današnjih
+                                    stanovskih strokovnih društev in sindikatov, a tudi njihov
+                                    politični pomen ni bil zanemarljiv, saj so bili učitelji ne le
+                                    nosilci narodnostnega in kulturnega gibanja, temveč večkrat tudi
+                                    predstavniki političnih strank. Posamezna učiteljska društva so
+                                    od 60. let 19. stoletja združevala učiteljstvo posameznih
+                                    okrajev, povezovala pa so se tudi v deželne zveze (na Kranjskem
+                                    je tako deželno Slovensko učiteljsko društvo v Ljubljani
+                                    delovalo do 1920), leta 1889 pa je slovensko učiteljstvo
+                                    oblikovalo tudi vseslovensko učiteljsko zvezo. Dokler je bila ta
+                                    Zaveza slovenskih učiteljskih društev nestrankarska povezava
+                                    sicer pretežno liberalno usmerjenega učiteljstva, med
+                                    učiteljstvom ni prišlo do odločnega preloma in jasne ločitve
+                                    duhov, konec 19. stoletja pa je bila navezava na liberalno
+                                    stranko že povsem jasna. </entity:description>
                <entity:page>48</entity:page>
             </METS:xmlData>
          </METS:mdWrap>

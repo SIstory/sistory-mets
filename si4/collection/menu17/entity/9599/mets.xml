@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/9599">
+           OBJID="http://hdl.handle.net/11686/9599"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2012-08-01T11:21:57"
                  LASTMODDATE="2017-02-13T11:15:32"
                  RECORDSTATUS="Active">
@@ -96,7 +98,46 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity"/>
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv">
+                  <p xmlns="http://www.w3.org/1999/xhtml">Po obnovitvi arhivske službe v Škofji Loki, ko se je leta
+                                        1967 arhiv odcepil od muzeja v Škofji Loki in priključil
+                                        Zgodovinskemu arhivu v Ljubljani, je kmalu dozorela misel,
+                                        da je potrebno iz bogate loške arhivske zakladnice pričeti
+                                        načrtno obdelovati in objavljati vire, predvsem take, ki se
+                                        do sedaj niso dosti uporabljali. To pa so v našem primeru
+                                        zemljiške knjige, ki so v uporabi še danes. Loška zemljiška
+                                        knjiga za mestne zadeve še ni bila uporabljena in je bi la
+                                        tako mrtev kapital, ki za tekočo rabo ni bil več koristen in
+                                        ga je sodišče v Škofji Loki po zadnji vojni odstopilo
+                                        muzeju, ta pa po reorganizaciji arhivske službe loškemu
+                                        arhivu.</p>
+                  <p xmlns="http://www.w3.org/1999/xhtml"> Za obdelavo zemljiških knjig za mestni predel in predmestja
+                                        me je navdušil moj takratni ravnatelj dr. Sergij Vilfan, ki
+                                        je sam sodeloval pri začetni metodi dela, na modelu, ki sva
+                                        ga skupaj preskusi la na nekaterih hišah v Karlovcu. Z
+                                        novejšimi podatki za loške hiše, zbranih na sodišču v Škofji
+                                        Loki, se je takrat ukvarjal tudi profesor France Planina, ki
+                                        mi je velikodušno odstopil podatke. Govore o lastnikih
+                                        zadnjih 100 let. Po odhodu dr. Vilfana za profesorja na
+                                        pravno fakulteto leta 1972 in zaradi moje zaposlenosti in
+                                        drugih nalog je delo zastalo do leta 1980. V tem letu smo
+                                        ponovno preverili vse podatke, nadaljevali z deli na sodišču
+                                        v Škofji Loki in še enkrat dopolnili Planinove izpiske, ki
+                                        so se v osmih letih ponekod že spremenili. Ker se zadnji
+                                        podatki iz prve serije zemljiške knjige niso ujemali s
+                                        podatki s sodišča, smo jih še enkrat preverili in uskladili.
+                                        Da bi bila podoba, ki smo jo dobili iz zemljiških knjig, še
+                                        bolj živa, smo za našo knjigo pritegnili še druge vire, o
+                                        katerih pa pozneje.</p>
+                  <p xmlns="http://www.w3.org/1999/xhtml"> V prvem delu Knjige hiš poročam o hišah v loških
+                                        predmestjih. Predmestij sem se lotil zaradi tega, ker so
+                                        manj zahtevna. Ob metodi, ki se je tu izoblikovala, bom
+                                        pomisleke drugih strokovnjakov, kritične pripombe, dodatke
+                                        in dobre ideje rade volje vključil v drugi del knjige za
+                                        Mesto …</p>
+               </entity:description>
+            </METS:xmlData>
          </METS:mdWrap>
       </METS:techMD>
    </METS:amdSec>

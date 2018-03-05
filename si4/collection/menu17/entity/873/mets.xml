@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/873">
+           OBJID="http://hdl.handle.net/11686/873"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2011-11-02T20:43:36"
                  LASTMODDATE="2017-02-14T12:43:48"
                  RECORDSTATUS="Active">
@@ -73,7 +75,28 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity"/>
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Z delom O položaju in
+                                    vlogi žensk v letih 1945-1953 sem želela vsaj v splošnih obrisih
+                                    predstaviti življenje Slovenk v obdobju prehoda iz enega
+                                    družbenega reda v drugega) ki je skušal oblikovati ne le nov
+                                    ekonomski in politični sistem) ampak tudi nove navade in
+                                    drugačne vrednote. To je bil čas, ki se je formalno sicer
+                                    zaključil v začetku devetdesetih let prejšnjega stoletja,
+                                    vsebinsko pa je se vedno močno prisoten. Osrednja pozornost je
+                                    namenjena ženski - njenemu mestu v družini, v izobraževalnem
+                                    sistemu, na delovnem mestu in v političnem življenju. Prikazati
+                                    sem žele1a, kako in v kolikšni meri se je položaj ženske v
+                                    Sloveniji po drugi svetovni vojni spremenil glede na predhodno
+                                    obdobje, deloma pa tudi nakazati podobnosti in razlike z vlogo
+                                    žensk v zahodnoevropskih državah. Želela sem predstaviti, kako
+                                    so si vlogo ženske v novi družbeni ureditvi predstavljali
+                                    politični voditelji in voditeljice, kako so o njej razmišljali
+                                    navadni državljani in kaj so pričakovale državljanke. Skušala
+                                    sem ugotoviti, kakšen vpliv so imele Slovenke v javnosti in kako
+                                    se je vse to odražalo v družinskem, ekonomskem in političnem
+                                    življenju. </entity:description>
+            </METS:xmlData>
          </METS:mdWrap>
       </METS:techMD>
    </METS:amdSec>

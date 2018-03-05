@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/26776">
+           OBJID="http://hdl.handle.net/11686/26776"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2014-04-15T15:29:34"
                  LASTMODDATE="2017-02-14T14:12:30"
                  RECORDSTATUS="Active">
@@ -91,7 +93,21 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Od srede 14. stoletja do
+                                    1. 1942 je na Kočevskem obstajalo okrog 800 km2 veliko območje,
+                                    na katerem so več ali manj strnjeno kot narodno mešan otok sredi
+                                    Slovencev prebivali nemški prebivalci - kočevski Nemci (dalje
+                                    Kočevska).Nacistična oblast, ki je iz raznih dežel v Evropi
+                                    množično preseljevala svoje rojake v rajh, je po italijanski
+                                    zasedbi Kočevske 1. 1941 preselila tudi majhno nemško
+                                    narodnostno skupino na Kočevskem. Večino, okoli 12.500 oseb so
+                                    naselili nekaj deset kilometrov stran, na nemškem okupiranem
+                                    območju, ob Savi in Sotli na Spodnjem Štajerskem, ki so ga
+                                    nameravali priključiti k rajhu. Da bi napravili prostor za
+                                    naselitev kočevskih in drugih Nemcev, so nacisti od tam izgnali
+                                    večino Slovencev. Manjši del, okrog 500 oseb so preselili v
+                                    Nemčijo. Na Kočevskem je ostalo le okoli 5% Nemcev </entity:description>
                <entity:page>280</entity:page>
             </METS:xmlData>
          </METS:mdWrap>

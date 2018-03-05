@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/38023">
+           OBJID="http://hdl.handle.net/11686/38023"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2017-10-16T08:21:38"
                  LASTMODDATE="2017-10-23T12:08:57"
                  RECORDSTATUS="Active">
@@ -90,7 +92,48 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity"/>
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Mnenja o slovenski
+                                    gospodarski tranziciji so deljena. Če se jo je vse do njenega
+                                    formalnega zaključka označevalo predvsem kot zgodbo o uspehu, so
+                                    po letu 2004 v ospredje vse bolj stopala vse prej kot pozitivna
+                                    mnenja in ocene. Nekateri so Slovenijo označili celo za
+                                    tranzicijsko poraženko. Leta 2011 je minilo 20 let od
+                                    osamosvojitve naše države in dve desetletji vsekakor že
+                                    predstavljata dobo, ko lahko podamo mnenje o tranzicijskem
+                                    procesu, ki se je na formalni ravni končal z vstopom v EU, tudi
+                                    z zgodovinskega gledišča. Nekateri imajo glede tega sicer
+                                    pomisleke, a dejstvo je, da je zgodovinopisje v tem pogledu v
+                                    zadnjem času naredilo korak naprej. V Sloveniji pa smo šele na
+                                    začetku, medtem ko v nekaterih državah, kot sta na primer Češka
+                                    in Nemčija, preučevanje obdobja po letu 1990 ni nič nenavadnega.
+                                    Strah in skeptičnost zaradi kratke časovne distance in
+                                    relevantnosti virov sta odveč. Virov je precej, res pa je, da
+                                    klasični oziroma arhivski viri, ki jih ponavadi uporablja
+                                    zgodovinopisje, za obravnavano obdobje zaradi zakonskih ovir
+                                    niso na voljo (vsaj večina njih). S tega vidika bo vsekakor
+                                    zgodovinar, ki se bo lotil preučevanja področja tranzicije čez
+                                    trideset ali več let, imel veliko lažjo nalogo. Lažje mu bo
+                                    predvsem zaradi dejstva, da bo imel glavne procese gospodarske
+                                    tranzicije popisane in zbrane v arhivskih fondih, čeprav se
+                                    tukaj postavlja vprašanje, katero gradivo in koliko le-tega, kar
+                                    ni že danes dostopno po različnih institucijah, bo predano v
+                                    arhivsko hrambo. Menim, da med gradivom ni nič takšnega, kar bi
+                                    bistveno spremenilo moja spoznanja. Ključnega pomena pri
+                                    raziskovanju se mi zdi predvsem zgodovinarjev pristop k
+                                    slednjemu, tu mislim posebej na kritični pretres virov in na
+                                    njihovo selekcijo. Pogosto je mogoče od zgodovinarjev, ki se
+                                    ukvarjajo s starejšimi obdobji, slišati, da so njihova dela
+                                    napisana izključno na arhivskih virih, kar naj bi se razumelo
+                                    samo po sebi kot relevantno in toliko bolj objektivno, posebej v
+                                    primerjavi z deli, ki obravnavajo najnovejše obdobje. Sam imam
+                                    do takšnega pristopa in mnenj zelo skeptičen odnos. Menim
+                                    namreč, da bi bilo zaželeno, da bi bilo zgodovinopisje tudi v
+                                    naši državi bolj prisotno v družbi, ko gre za problematiko in
+                                    procese, ki so časovno manj odmaknjeni. Preveč je nepotrebnega
+                                    politiziranja, ki je sicer tudi potrebno, a ne o problemih, ki
+                                    jih mora in more ovrednotiti le stroka ali znanost. </entity:description>
+            </METS:xmlData>
          </METS:mdWrap>
       </METS:techMD>
    </METS:amdSec>

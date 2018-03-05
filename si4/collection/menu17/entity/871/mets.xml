@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/871">
+           OBJID="http://hdl.handle.net/11686/871"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2011-11-02T20:45:15"
                  LASTMODDATE="2017-02-13T12:21:00"
                  RECORDSTATUS="Active">
@@ -94,7 +96,19 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity"/>
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Katera so poglavitna
+                                    dejstva v gospodarski in družbeni strukturi slovenskega dela
+                                    Koroške, ki so v obdobju od marčne revolucije do začetka prve
+                                    svetovne vojne vplivala na narodno zavest in politično
+                                    usmerjenost tamkajšnjega prebivalstva? Kako sta se ta zavest in
+                                    usmerjenost izražali v teku tega obdobja? To sta osnovni
+                                    vprašanji, ki nanju skuša odgovoriti naše delo in ki sta jima
+                                    podrejena zasnova in pa značaj razprave. Zato ne gre ne za
+                                    gospodarsko ne za politično zgodovinsko delo v običajnem pomenu
+                                    besede, čeprav se naslanja na obe zvrsti historičnega pisanja.
+                                </entity:description>
+            </METS:xmlData>
          </METS:mdWrap>
       </METS:techMD>
    </METS:amdSec>

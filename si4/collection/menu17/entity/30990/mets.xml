@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/30990">
+           OBJID="http://hdl.handle.net/11686/30990"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2015-05-14T09:51:51"
                  LASTMODDATE="2017-02-15T11:21:04"
                  RECORDSTATUS="Active">
@@ -94,7 +96,21 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Prispevek prikazuje
+                                    prisotnost lokalne zgodovine v srednješolskih učbenikih za
+                                    zgodovino, ki so izšli med leti 1945 in 2010. Avtorica
+                                    ugotavlja, d a je bila lokalna zgodovina vključena pri slikovnem
+                                    gradivu, različnih nalogah in učbeniškem besedilu le v nekatere
+                                    učbenike. Ker naj bi bilo poznavanje in razumevanje lokalne
+                                    zgodovine osnova za preučevanje nacionalne in mednarodne
+                                    zgodovine, avtorica predlaga, da bi lahko v prihodnosti
+                                    slovenski pisci učbenikov več pozornosti namenili vključevanju
+                                    krajevnih primerov, npr. slik. nalog ali pisnih odlomkov, ki
+                                    vključujejo zgodovino posameznih slovenskih krajev v
+                                    srednješolske učbenike, srednješolski učitelji zgodovine pa bi
+                                    lahko uporabljali različne naloge, ki bi spodbujale raziskovanje
+                                    domačega kraja. </entity:description>
                <entity:page>213</entity:page>
             </METS:xmlData>
          </METS:mdWrap>

@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/26768">
+           OBJID="http://hdl.handle.net/11686/26768"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2014-04-15T14:43:23"
                  LASTMODDATE="2017-02-14T14:14:36"
                  RECORDSTATUS="Active">
@@ -85,7 +87,20 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Jugoslovanski komunisti
+                                    so začeli zamisel o samoupravni preobrazbi gospodarskega
+                                    življenja udejanjati na prehodu v petdeseta leta prejšnjega
+                                    stoletja z ustanovitvijo delavskih svetov in njihovih komisij v
+                                    podjetjih. Pri tem dejanju je šlo bolj za simbolično predajo
+                                    ključev podjetij v roke delavcev, saj delavski sveti do konca
+                                    desetletja niso dobili večjih pristojnosti pri vodenju podjetja.
+                                    V šestdesetih letih je vladajoča partija menila, da je prišel
+                                    čas, ko je treba delavcem prepustiti tudi ključe blagajn.
+                                    Delavci naj torej ne bi bili le lastniki strojev, temveč naj bi
+                                    zagospodarili tudi s tistim, kar je prišlo iz strojev. Iz
+                                    dejavnika v proizvodnem procesu naj bi postali gospodarji
+                                    rezultatov svojega dela. </entity:description>
                <entity:page>172</entity:page>
             </METS:xmlData>
          </METS:mdWrap>

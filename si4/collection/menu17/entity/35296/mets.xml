@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/35296">
+           OBJID="http://hdl.handle.net/11686/35296"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2016-06-16T08:57:36"
                  LASTMODDATE="2017-02-10T13:00:03"
                  RECORDSTATUS="Active">
@@ -95,7 +97,23 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> 20. stoletje je tudi
+                                    Slovencem prineslo burne čase. Doživeli smo tri vojne, štiri
+                                    zaporedne države in nekaj vzporednih, pa dvakrat preskok v
+                                    diametralno nasprotna si politična in gospodarska sistema. Vse
+                                    to se je seveda poznalo tudi na kulturni ravni. Na starodavni
+                                    srednjeevropski podlagi so izstopali vplivi zdaj enega zdaj
+                                    drugega sosednjega ali bolj oddaljenega kulturnega okolja. Zelo
+                                    neposredno je mogoče slediti tem menjavam skozi razvoj
+                                    stanovanjske kulture, predvsem pohištva. V sto letih se je
+                                    korenito spremenila struktura naročnikov in kupcev. Ob manj
+                                    zahtevni večini prej kmečkega prebivalstva in malomeščanstva,
+                                    zdaj delavstva, je maloštevilno plemstvo in številčnejše
+                                    premožno meščanstvo kot glavni nosilec kulture nadomestil širši
+                                    sloj izobražencev. Kot snovalci pohištva so se obrtnim mojstrom
+                                    in absolventom srednjih tehnično-oblikovnih šol v večjem številu
+                                    pridružili univerzitetno izobraženi arhitekti in drugi. </entity:description>
                <entity:page>261</entity:page>
             </METS:xmlData>
          </METS:mdWrap>

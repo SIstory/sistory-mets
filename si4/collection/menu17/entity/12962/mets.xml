@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/12962">
+           OBJID="http://hdl.handle.net/11686/12962"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2012-11-06T11:00:12"
                  LASTMODDATE="2017-02-14T13:00:33"
                  RECORDSTATUS="Active">
@@ -71,7 +73,21 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity"/>
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv">
+                  <p xmlns="http://www.w3.org/1999/xhtml">Desetletje morda res ni dolgo zgodovinsko obdobje, je pa
+                                        lahko za ljudi, družbo in njene ustanove burno in prelomno.
+                                        Za petdeseta leta tega stoletja velja slednje prav za
+                                        slovensko kulturo in kulturne ustanove. Leti 1953 in 1962
+                                        sta v tem pogledu vidna mejnika. Začetek obdobja zaznamuje
+                                        čas, ko so po VI. kongresu Partije novembra 1952 v Zagrebu
+                                        ukinili agitpropovski aparat in januarja 1953 sprejeli
+                                        ustavni zakon, ki je odseval nove poglede v vladajoči
+                                        stranki. Njegov konec pa pravzaprav pomeni že sprejetje
+                                        osnutka ustave leta 1962, ki je bil kompromis med različnimi
+                                        pogledi v jugoslovanskem političnem vrhu...</p>
+               </entity:description>
+            </METS:xmlData>
          </METS:mdWrap>
       </METS:techMD>
    </METS:amdSec>

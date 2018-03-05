@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/35255">
+           OBJID="http://hdl.handle.net/11686/35255"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2016-06-14T13:13:15"
                  LASTMODDATE="2017-02-13T08:27:54"
                  RECORDSTATUS="Active">
@@ -102,7 +104,22 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> V zgodovini slovenskega
+                                    judovstva je še posebej pomembna vloga nekdanje močne in vplivne
+                                    srednjeveške judovske skupnosti v Mariboru. S svojo razvejano
+                                    dejavnostjo na gospodarskem, kulturnem in drugih področjih je
+                                    zagotavljala trdne povezave takratnega Maribora z nekaterimi
+                                    važnejšimi evropskimi središči, kot so Praga, Dunaj, Benetke,
+                                    nemška mesta v Porenju in Trst. S temi povezavami v srednjeveški
+                                    Evropi je bil dobršen del zdajšnjega slovenskega prostora
+                                    umeščen v širši kontekst gospodarskega, političnega in
+                                    družbeno-kulturega dogajanja. V mariborski sinagogi, ki je bila
+                                    središče judovske skupnosti, je deloval rabin Israel Isserlein,
+                                    naj večja rabinska osebnost svojega časa. Bilje priznani
+                                    evropski in svetovni mislec, učenjak in duhovni vodja, učitelj
+                                    in avtor številnih teoretskih del, ki v rabinskem pravu veljajo
+                                    še danes. </entity:description>
                <entity:page>61</entity:page>
             </METS:xmlData>
          </METS:mdWrap>

@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/26770">
+           OBJID="http://hdl.handle.net/11686/26770"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2014-04-15T14:49:26"
                  LASTMODDATE="2017-02-14T14:14:07"
                  RECORDSTATUS="Active">
@@ -91,7 +93,18 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Iz osebnega arhiva
+                                    Josipa Vilfana je najbolje razvidna vsa pestrost in kompleksnost
+                                    delovanja najpomembnejšega slovenskega politika v italijanski
+                                    državi med dvema svetovnima vojnama. Arhiv obsega 36 fasciklov
+                                    korespondence, poročil, spomenic, govorov, člankov, osnutkov,
+                                    predračunov, obračunov itd. izpod njegovega peresa, ali peres
+                                    njegovih sodelavcev in sogovornikov. Menim, da bi najlepši
+                                    spomenik postavili Vilfanu če bi objavili čimveč dokumentov iz
+                                    njegove zapuščine, tako kot je njegove nastope v rimskem
+                                    parlamentu že objavil Krožek Virgil Šček v Trstu leta 1997.
+                                </entity:description>
                <entity:page>192</entity:page>
             </METS:xmlData>
          </METS:mdWrap>

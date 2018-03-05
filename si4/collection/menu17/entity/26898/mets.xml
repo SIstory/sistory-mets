@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/26898">
+           OBJID="http://hdl.handle.net/11686/26898"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2014-06-17T15:27:40"
                  LASTMODDATE="2014-06-17T15:30:11"
                  RECORDSTATUS="Active">
@@ -86,7 +88,41 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv">
+                  <p xmlns="http://www.w3.org/1999/xhtml"> Tisto, kar seje zgodilo v Sloveniji spomladi 1941. leta,
+                                        seje v nekem pogledu pripravljalo že med dvema svetovnima
+                                        vojnama. Nekateri nemški krogi se niso odpovedali ozemlju,
+                                        ki je po sanžermenski pogodbi (10. 9. 1919) prišlo v
+                                        Kraljevino Srbov, Hrvatov in Slovencev ali krajše: v
+                                        Jugoslavijo. Zlasti nemški publicisti v Nemčiji in Avstriji
+                                        so zahtevali spremembo severne meje Jugoslavije v korist
+                                        Republike Avstrije oz. po marcu 1938 v korist Nemškega
+                                        rajha. Nekatere zahteve so se ustavljale na t. i. vitanjski
+                                        črti (Weitensteiner Zug), tj. razvodnici med Dravo in Savo,
+                                        in v t. i. jeseniškem trikotniku na Gorenjskem, ki je
+                                        zajemal tudi bohinjski kot, ter seveda v Mežiški dolini.
+                                        Druge zahteve so šle dalje do reke Save in nekatere celo do
+                                        Jadranskega morja. Dr. Friedrich Lange z značilnim imenom
+                                        Adriaticus je celo porogljivo pisal, da velikemu nemškemu
+                                        narodu pot do Jadranskega morja zapira narodič, ki šteje
+                                        manj glav kot Berlin prebivalcev/ Kjer nemški publicisti
+                                        niso mogli nastopati z dokazi o večjem številu Nemcev na
+                                        nekem ozemlju, so tisto ozemlje razglasili za nemška
+                                        kulturna tla. Da bi zakrili neugoden vtis o majhni
+                                        navzočnosti Nemcev na interesnem območju, so uporabljali t.
+                                        i. vindišarsko teorijo, po kateri naj bi poleg Nemcev in
+                                        narodno zavednih Slovencev živela nekakšna vmesna plast,
+                                        imenovana Vindišarji ali Vendi. Ti naj bi sicer govorili
+                                        slovenskemu jeziku sorodno narečje, bili pa naj bi notranje
+                                        nagnjeni k nemštvu in z njim tudi gospodarsko povezani. To
+                                        teorijo, ki jo je 1914. leta začel širiti v Celovcu
+                                        neimenovani pisec brošure Die Wahrheit über Kärnten, so
+                                        uporabljali za Koroško in Štajersko. Slovenski znanstveniki,
+                                        med njimi zlasti dr. Fran Zwitter in dr. Bogo Grafenauer, pa
+                                        tudi publicisti so utemeljeno zavračali trditve in zahteve
+                                        nemških publicistov</p>
+               </entity:description>
                <entity:page>184</entity:page>
             </METS:xmlData>
          </METS:mdWrap>

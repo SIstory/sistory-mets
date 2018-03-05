@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/3040">
+           OBJID="http://hdl.handle.net/11686/3040"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2011-11-23T18:11:05"
                  LASTMODDATE="2017-02-14T12:45:12"
                  RECORDSTATUS="Active">
@@ -73,7 +75,24 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity"/>
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> O ustvarjanju skupne
+                                    države jugoslovanskih narodov pred koncern prve svetovne vojne,
+                                    o notranjih in zunanjepolitičnih dogodkih, ki so vplivali na
+                                    uresničenje zamisli jugoslovanskega zedinjenja, so v minulih
+                                    petdesetih letih objavili večje število del, raznovrstnih in
+                                    različnih po značaju. in rezultatih, ki so jih dajali
+                                    zgodovinski znanosti. Obseg in vsebina teh del pa nosita v sebi
+                                    skupno obeležje v dejstvu, da je jugoslovansko zgodovinopisje
+                                    presojalo jugoslovansko zedinjenje predvsem z gledišča njegovih
+                                    posIedic, ki so sledile neposredno po ustanovitvi države, torej
+                                    v znamenju političnega in narodnostnega spora med dvema
+                                    najštevilnejšima narodnostnima skupinama - srbsko in hrvatsko.
+                                    Odsevi spora med srbsko in hrvatsko buržoazijo in njun nenehni
+                                    boj za nadvlado so zapustili sledove tudi v jugoslovanskem
+                                    zgodovinopisju, zlasti v delih, ki so nastala v razdobju med
+                                    dvema svetovnima vojnama. </entity:description>
+            </METS:xmlData>
          </METS:mdWrap>
       </METS:techMD>
    </METS:amdSec>

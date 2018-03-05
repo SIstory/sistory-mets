@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/35276">
+           OBJID="http://hdl.handle.net/11686/35276"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2016-06-15T12:41:25"
                  LASTMODDATE="2017-02-13T11:46:53"
                  RECORDSTATUS="Active">
@@ -96,7 +98,34 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Jezuiti so v Ljubljani
+                                    predavali na višjih filozofskih študijih od leta 1704 do leta
+                                    1773, kot raz-jezuiti pa so obdržali predavanja matematike in
+                                    fizike še do leta 1802 oziroma 1803. Tako je bilo 18. stoletje v
+                                    veliki meri doba jezuitskih eksaktnih znanosti na Kranjskem.
+                                    Ljubljanski jezuiti Erbergi so leta 1751 tudi uradno razvili
+                                    fizikalno-matematični kabinet z eksperimentalnimi napravami,
+                                    oskrbeli odlično knjižnico in sami objavili številne odmevne
+                                    knjige. Jezuiti so preko Gabrijela Grubeija poldrugo desetletje
+                                    vodili večino gradbenih, vodovodnih in transportnih dejavnosti v
+                                    deželi in zunaj njenih meja. Kljub temu so v slovenskem
+                                    zgodovinopisju do nedavnega prevladovala mnenja o nizki ravni
+                                    jezuitskega pouka v Ljubljani. Zakaj? Večina ljubljanskih
+                                    jezuitov je bila domačega, predvsem plemenitega rodu iz družin
+                                    Erbergov, Tauffererjev, Valvasorjev, Turjačanov in drugih. Kljub
+                                    temu se jih še danes pogosto drži netočen pridevek prišlekov,
+                                    torej tujcev v lastni domovini. V prispevku bomo skušali
+                                    pojasniti vir tega stereotipa s prepričljivimi dokazi o njegovi
+                                    napačnosti. Ob tem postavljamo zapleteno politično vprašanje:
+                                    Ali ni bila jezuitska visoka šola resničen začetek ljubljanske
+                                    univerze (kot je bila podobna šola v Zagrebu)? V prispevku prvič
+                                    objavljamo posnetek zapisa o krstu Gabrijela Gruberja. Dokument
+                                    odkriva očetovo ime, ki doslej ni bilo znano. Ob njem je ime
+                                    matere, ki je bilo že večkrat objavljeno, vendar z določenimi
+                                    dvomi. Raziskovanje prinaša nov kamenček v mozaiku iskanja
+                                    porekla našega velikega jezuita, ki je moral tako dolgo čakati
+                                    na svojega življenjepisca. </entity:description>
                <entity:page>201</entity:page>
             </METS:xmlData>
          </METS:mdWrap>

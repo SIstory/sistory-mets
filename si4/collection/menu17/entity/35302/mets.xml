@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/35302">
+           OBJID="http://hdl.handle.net/11686/35302"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2016-06-16T12:41:01"
                  LASTMODDATE="2017-02-10T12:51:45"
                  RECORDSTATUS="Active">
@@ -100,7 +102,22 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Slovenski prostor je na
+                                    strateško izredno občutljivem območju, zato nas ne presenečajo
+                                    težnje velikih sil, da bi na tem prostoru nadzirale omenjene
+                                    poti. Med obema svetovnima vojnama so se ta prizadevanja še
+                                    okrepila, zlasti v drugi polovici 30. let 20. stoletja, še bolj
+                                    pa po anšlusu, ko je dobila Kraljevina Jugoslavija za sosedo
+                                    nacistično Nemčijo. Vojska Kraljevine Jugoslavije je bila
+                                    prisiljena sprejemati več ukrepov za povečanje bojne
+                                    pripravljenosti države, ki pa so se na koncu izkazali kot
+                                    neučinkoviti. V svojem prispevku je avtor analiziral te ukrepe,
+                                    opisal vojaško organiziranost v Kraljevini Jugoslaviji s
+                                    poudarkom na območju Dravske banovine in prikazal enega
+                                    najpomembnejših ukrepov, ki je pustil svoj pečat na Slovenskem,
+                                    sistem utrdb na meji, ki se je vtisnil v slovenski zgodovinski
+                                    spomin z imenom Rupnikova linija. </entity:description>
                <entity:page>351</entity:page>
             </METS:xmlData>
          </METS:mdWrap>

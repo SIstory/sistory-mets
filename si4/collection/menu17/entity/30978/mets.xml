@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/30978">
+           OBJID="http://hdl.handle.net/11686/30978"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2015-05-13T11:01:43"
                  LASTMODDATE="2017-02-15T11:27:41"
                  RECORDSTATUS="Active">
@@ -95,7 +97,24 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity"/>
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Naloge pouka zgodovine,
+                                    ki jih lahko razberemo iz splošnih ciljev v učnih načrtih za
+                                    gimnazije od leta 1849 dalje so se vedno prilagajale
+                                    vsakokratnim zgodovinskim danostim in okoliščinam ter odražale
+                                    stopnjo razvoja zgodovinske vede in didaktike pouka zgodovine. V
+                                    ospredju je bilo izobraževanje in vzgajanje v lojalne državljane
+                                    ter znanje in razumevanje pomembnih zgodovinskih dogodkov,
+                                    pojavov in procesov. Sodobni pouk spodbuja tudi razvijanje
+                                    kritičnega mišljenja, ki omogoča lastno presojo in samostojne
+                                    odločitve izobraževanje za nenasilje in proti predsodkom, za
+                                    samostojnost, objektivnost, učenje za strpnost in spoštovanje
+                                    človekovih pravic. Z multiperspektivnim pristopom pri pouku
+                                    zgodovine se omogoča izogibanje politizaciji in enostranski
+                                    ideološki indoktrinaciji učencev, ki jo lahko razberemo iz
+                                    splošnih ciljev v učnih načrtih za zgodovino v gimnaziji v
+                                    obdobju zadnjih dvesto let. </entity:description>
+            </METS:xmlData>
          </METS:mdWrap>
       </METS:techMD>
    </METS:amdSec>

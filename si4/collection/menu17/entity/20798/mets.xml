@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/20798">
+           OBJID="http://hdl.handle.net/11686/20798"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2014-02-07T16:33:03"
                  LASTMODDATE="2016-11-24T18:18:31"
                  RECORDSTATUS="Active">
@@ -88,7 +90,22 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv">
+                  <pre xmlns="http://www.w3.org/1999/xhtml">V prispevku bom skušal osvetliti nekatera vprašanja za katera mislim, da glede
+na aktualnost, še bolj pa glede na praznino, ki je kljub pomembnosti obdobja na
+področju naše historiografije očitna, terjajo odgovor. Skušal bom predstaviti izhodišče,
+s katerega bi bilo potrebno (glede na rezultate analize te problematike v
+Evropi) tudi v Sloveniji oceniti razmerje med političnim katolicizmom in radikalno
+desnico (fašizmom) v luči širšega evropskega konteksta. Poleg tega je v slovenski
+historiografiji nujno potrebno opredeliti tudi pojem "politične sredine" v širšem
+smislu in znotraj katoliškega političnega tabora, ne glede na to, kolikšen obseg in
+politično moč je ta npr. v tridesetih letih v Sloveniji predstavljala. V pričujočem
+tekstu se bom v prvi vrsti posvetil "sredini" v slovenskem katoliškem taboru, četudi
+se bo pojavu potrebno posvetiti tudi pri obravnavi drugih političnih gibanj in skupin
+v času med obema vojnama. S tem se namreč približujemo odgovorom na
+nekatera bistvena vprašanja slovenske zgodovine v prvi polovici 20. stoletja.</pre>
+               </entity:description>
                <entity:page>106</entity:page>
             </METS:xmlData>
          </METS:mdWrap>

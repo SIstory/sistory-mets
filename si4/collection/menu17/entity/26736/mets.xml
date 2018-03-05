@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/26736">
+           OBJID="http://hdl.handle.net/11686/26736"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2014-04-13T07:54:45"
                  LASTMODDATE="2017-02-13T12:33:42"
                  RECORDSTATUS="Active">
@@ -101,7 +103,41 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity"/>
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Vprašanje »zgodovinskega
+                                    razvoja slovenske severne meje«, ki bi ga mogli imenovati za
+                                    srednji vek razmerje med Karantanci in Bavarci, za novi vek po
+                                    letu 1500 pa razmerje med Slovenci in Nemci, je bilo gotovo od
+                                    nekdaj osrednje - kar travmatično - vprašanje razmišljanja o
+                                    slovenski zgodovini. Zlasti velja to, odkar se je v pogojih
+                                    moderne germanizacije od srede 19. stoletja naprej — zelo
+                                    neupravičeno — začel uveljavljati zgodovinski mit o idejni
+                                    enakosti srednjeveške in moderne germanizacije. Izražal se je v
+                                    prepričevanju, da naj bi šlo že v srednjem veku za vsaj podobno
+                                    namerno asimilacijo slovenskega prebivalstva s stališča premoči
+                                    oblasti in seveda tudi z družbenim in gospodarskim pritiskom,
+                                    torej za asimilacijo, ki so se ji Slovenci vse bolj zavestno
+                                    upirali (po pričevanjih svojih slovničarjev Marka Pohlina 1769
+                                    in Ožbalta Gutsmanna 17771 vsaj od konca 18. stoletja naprej. Ob
+                                    ideološki uveri svobodomiselne publicistike (še povečane s
+                                    kulturnim bojem v prvih desetletjih našega stoletja)o odločilnem
+                                    vplivu nasilnega širjenja krščanstva »s križem in mečem« na
+                                    hitro in nasilno germanizacijo se je ta uvera še zaostrila. V
+                                    resnici gre za dva različna zgodovinska procesa, združena po
+                                    svojem rezultatu (bistvenem zmanjšanju starokarantanskega
+                                    prostora), toda bistveno različna po svojem značaju: v srednjem
+                                    veku gre za priroden izraz gospodarskega razvoja — postopnega
+                                    oblikovanja ali celo nastajanja kulturne podeželske pokrajine z
+                                    naseljevanjem in množitvijo ter medsebojnim vplivom kmečkega
+                                    prebivalstva različnega izvora. V 19. in 20. stoletju pa je šlo
+                                    res za postopno vse bolj zavesten asimilacijski pritisk na
+                                    slovensko prebivalstvo s stališča premoči oblasti (po 1890
+                                    zlasti tudi s pomočjo nove šole), po 1920 za kršenja mednarodnih
+                                    obveznosti glede varstva manjšin in celo za nasilen pritisk
+                                    (zlasti v desetletju po plebiscitu in v dobi hitlerjevske
+                                    Nemčije, ki je posegla po pravih genocidnih metodah vse do
+                                    nasilnega izseljevanja avtohtonega prebivalstva). </entity:description>
+            </METS:xmlData>
          </METS:mdWrap>
       </METS:techMD>
    </METS:amdSec>

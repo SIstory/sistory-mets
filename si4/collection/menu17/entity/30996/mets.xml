@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/30996">
+           OBJID="http://hdl.handle.net/11686/30996"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2015-05-14T10:37:55"
                  LASTMODDATE="2017-02-15T10:12:53"
                  RECORDSTATUS="Active">
@@ -98,7 +100,20 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Učenci črpajo iz
+                                    zakladnice gibljivih podob - filmov prikaze daljne preteklosti
+                                    in žive podobe preteklega stoletja. Spoznavajo gibljivo sliko
+                                    kot primarni in sekundarni vir ter se aktivno vključijo v
+                                    analizo filmov. Predstavijo ali opišejo lahko krajše video
+                                    ponazoritve zgodovine, pripravijo obširnejše referate ali
+                                    posnamejo dokumentarni oz. igrani film. Vloga učitelja je vloga
+                                    koordinatorja, tistega, ki sodeluje pri zasnovi ideje, njeni
+                                    izpeljavi in vrednotenju, hkrati pa zna učencem pustiti veliko
+                                    ustvarjalne svobode in originalnosti Pri analizi filmov.
+                                    Učitelji lahko v gimnazijah uporabijo pri pouku zgodovine
+                                    različne vrste filmov, ki jih predstavljamo v tem prispevku.
+                                </entity:description>
                <entity:page>303</entity:page>
             </METS:xmlData>
          </METS:mdWrap>

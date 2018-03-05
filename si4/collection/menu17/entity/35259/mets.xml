@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/35259">
+           OBJID="http://hdl.handle.net/11686/35259"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2016-06-14T13:56:17"
                  LASTMODDATE="2017-02-13T08:23:07"
                  RECORDSTATUS="Active">
@@ -98,7 +100,26 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Po mnenju avtorja je
+                                    bilo (jugo)slovanstvo v različnih različicah od predmarčne dobe
+                                    do 1918 sestavni del različnih variant slovenske nacionalne
+                                    ideologije. Večina ideologov slovenskega nacionalizma si ni
+                                    predstavljalo slovenstva brez jugoslovanskega zaledja. Od
+                                    predmarčne dobe do konca monarhije so Slovenci v različnih
+                                    kontekstih večkrat navajali Nemce in Italijane kot idealni
+                                    primer jezikovne in nacionalne združitve, po katerem bi se
+                                    morali zgledovati tudi Južni Slovani. V nadaljevanju referata je
+                                    avtor izpostavil nekatere značilnosti nemških in italijanskih
+                                    nacionalnih konceptov v 19. stoletju, s katerimi so bili
+                                    pobudniki slovenskega nacionalnega gibanja v stiku. Avtorje
+                                    uporabil tudi nekaj primerov iz slovenske publicistike in
+                                    korespondence. Slovenski voditelji v 19. stoletju niso imeli
+                                    jasnih predstav kako naj se konča slovenska nacionalna
+                                    integracija: v smislu Slovencev kot samostojnega naroda ali v
+                                    jugoslovanskem smislu. Obstajali so tudi vmesni modeli, po
+                                    katerih Slovenci ne bi izgubili svojega jezika in identitete,
+                                    vendar bi se vseeno združili z drugimi Južnimi Slovani. </entity:description>
                <entity:page>105</entity:page>
             </METS:xmlData>
          </METS:mdWrap>

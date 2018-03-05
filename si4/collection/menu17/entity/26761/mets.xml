@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/26761">
+           OBJID="http://hdl.handle.net/11686/26761"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2014-04-15T13:15:13"
                  LASTMODDATE="2017-02-14T14:17:14"
                  RECORDSTATUS="Active">
@@ -89,7 +91,23 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Druga polovica oktobra
+                                    1918 je postala za Avstro-Ogrsko prelomna. 4. oktobra je po
+                                    dolgem večkratnem antantinem vabljenju k ločenemu izstopu iz
+                                    vojne sporočila, da sprejema pogajanja o premirju na podlagi
+                                    štirinajstih Wilsonovih točk. 16. oktobra je cesar objavil
+                                    manifest o federativnem preustroju države. Dva dni pozneje je
+                                    državni sekretar Združenih držav Amerike Lansing objavil
+                                    ameriško videnje usode Avstro- Ogrske, bolje njenih narodov.
+                                    Nota je proglasila Čehe za tiste, ki so v vojnem stanju s
+                                    centralnima silama, glede "Jugoslovanov" pa je predsednik
+                                    Woodrow Wilson, tako nota, priznal "pravičnost narodnih
+                                    stremljenj Jugoslovanov po svobodi." To je konkretno pomenilo,
+                                    da ZDA terjajo, da se avstroogrska elita dogovarja s
+                                    predstavniki Jugoslovanov o bodoči državnopravni ureditvi. Bilo
+                                    je prepozno, da bi lahko še vse naprej ostalo v državnem okviru,
+                                    pa čeprav federativnem ali konfederativnem. </entity:description>
                <entity:page>76</entity:page>
             </METS:xmlData>
          </METS:mdWrap>

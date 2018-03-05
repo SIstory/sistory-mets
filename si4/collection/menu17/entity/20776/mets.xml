@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/20776">
+           OBJID="http://hdl.handle.net/11686/20776"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2014-02-07T13:57:48"
                  LASTMODDATE="2014-02-07T14:00:50"
                  RECORDSTATUS="Active">
@@ -90,7 +92,14 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv">
+                  <pre xmlns="http://www.w3.org/1999/xhtml">Pred 2. svetovno vojno sta v Ribnici obstajali deška in dekliška šola; obe sta bili
+šestrazredni, vsaka z dvema vzporednicama. V šolskem letu 1940/41 je bilo
+vpisanih 330 dečkov in 348 deklic, na vsaki šoli pa je poučevalo le osem učiteljev.
+Tudi knjižnični fond je bil skromen, deška knjižnica je imela le 675 knjig, šolska pa
+še dodatnih 697 naslovov.</pre>
+               </entity:description>
                <entity:page>320</entity:page>
             </METS:xmlData>
          </METS:mdWrap>

@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/981">
+           OBJID="http://hdl.handle.net/11686/981"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2011-11-02T20:37:42"
                  LASTMODDATE="2017-02-14T14:22:46"
                  RECORDSTATUS="Active">
@@ -79,7 +81,28 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity"/>
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Za večino slovenskih in
+                                    nemških del, ki so od razpada Avstro Ogrske obravnavala
+                                    problematiko nemško-slovenskih odnosov na Spodnjem Štajerskem,
+                                    je značilno, da so (ne)zavestno pristajala na stereotipe, ki sta
+                                    jih proizvedla nemška in slovenska politična publicistika druge
+                                    polovice 19. stoletja. Slovenska stran se je tako osredotočala
+                                    na prikazovanje nemškega zatiranja Slovencev, načrtne
+                                    germanizacije, gradnje nemškega mostu na Jadran v službi
+                                    velikonemške imperialistične politike ter dokazovanje
+                                    kontinuitete med (veliko)nemško politiko iz časa pred razpadom
+                                    dvojne monarhije in poskusom nacističnega genocida nad Slovenci,
+                                    nemška (avstrijska) pa - zlasti v času med obema vojnama - v
+                                    dokazovanje (pra)nemškega značaja Spodnje Štajerske in krivic,
+                                    ki so jih bili deležni spodnještajerski Nemci po razpadu
+                                    monarhije. Pri tem sta obe strani dramatični nacionalni spopad s
+                                    konca prejšnjega stoletja praviloma projicirali v obdobja, ko
+                                    nacionalno še ni bilo v ospredju, hkrati pa povsem zanemarili
+                                    tako širši avstrijski politični kontekst kot tudi razlike v
+                                    nacionalnem razvoju med različnimi spodnještajerskimi območji.
+                                </entity:description>
+            </METS:xmlData>
          </METS:mdWrap>
       </METS:techMD>
    </METS:amdSec>

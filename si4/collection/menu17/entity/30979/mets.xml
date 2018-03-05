@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/30979">
+           OBJID="http://hdl.handle.net/11686/30979"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2015-05-13T11:29:19"
                  LASTMODDATE="2017-02-15T11:27:26"
                  RECORDSTATUS="Active">
@@ -94,7 +96,38 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Po umiritvi razmer, ki
+                                    ga je na današnjem slovenskem ozemlju povzročilo preseljevanje
+                                    narodov, se je obnovilo tudi prizadevanje za ponovno oživitev
+                                    krščanstva in vzpostavitev cerkvene uprave. S formalnim
+                                    dogovorom med Salzburgom in Oglejem leta 796 ter vključitvijo
+                                    obeh cerkvenih ustanov v velikopotezni načrt Karla Velikega, s
+                                    katerim je želel vojaško in politično konsolidirati frankovsko
+                                    državo proti Avarom in Madžarom, se začenja tudi formalno
+                                    urejanje cerkvene organizacije v slovenskem prostoru, ki je bilo
+                                    v Veliki meri povezano s kolonizacijo takrat razmeroma redko
+                                    poseljenega ozemlja. Kolonizacijo so v našem prostoru izvajali
+                                    predvsem veliki zemljiški posestniki. Med večjimi svetnimi
+                                    zemljiškimi posestniki so bili zlasti Brežiško - Selški, Andechs
+                                    - Meranski, Višnjegorci, Eppensteinci, Babenberžani, Spanheimi
+                                    in Celjani, od cerkvenih pa oglejski Patriarhi, salzburški
+                                    nadškofje ter freisinški. briksenski in krški škofje. Z mnogimi
+                                    privilegiji, kraljevo zaščito in imuniteto, so si omenjeni
+                                    cerkveni dostojanstveniki pridobili obsežno posest tudi na
+                                    ozemlju današnje Republike Slovenije. Posestne razmere so v
+                                    veliki meri pogojevale ustanavljanje in širitev cerkvene uprave.
+                                    Vzporedno s kolonizacijo našega ozemlja in širitvijo posesti
+                                    cerkvenih ustanov na tem ozemlju, se je širila in zgostila tudi
+                                    mreža dušnopastirskih postojank. Pri tem ne smemo pozabiti, da
+                                    je bila Cerkev v srednjem veku sestavni del takratne družbe, v
+                                    kateri sta bili cerkvena in državna oblast med seboj domala
+                                    neločljivo prepleteni in sta se kljub občasnim krizam, med seboj
+                                    dopolnjevali. Poleg škofij so bili večji zemljiški posestniki na
+                                    našem ozemlju v srednjem veku tudi samostani predvsem meniških
+                                    redov: benediktinci (Gornji Grad), cistercijani Stična, Vetrinj,
+                                    Kostanjevica) in kartuzijani (Žiče, Jurklošter, Bistra,
+                                    Pleterje). </entity:description>
                <entity:page>393</entity:page>
             </METS:xmlData>
          </METS:mdWrap>

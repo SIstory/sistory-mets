@@ -8,15 +8,16 @@
            xmlns:premis="http://www.loc.gov/premis/v3"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="file."
            TYPE="file"
-           OBJID="http://hdl.handle.net/11686/file22885">
-   <METS:metsHdr CREATEDATE="" LASTMODDATE="" RECORDSTATUS="Active">
+           OBJID="http://hdl.handle.net/11686/file22885"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
+   <METS:metsHdr RECORDSTATUS="Active">
       <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
          <METS:name>SIstory</METS:name>
          <METS:note>http://sistory.si/</METS:note>
       </METS:agent>
-      <METS:agent ROLE="CREATOR" ID="user.123" TYPE="INDIVIDUAL"/>
    </METS:metsHdr>
    <METS:amdSec ID="default.amd">
       <METS:techMD ID="default.premis">

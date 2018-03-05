@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/15295">
+           OBJID="http://hdl.handle.net/11686/15295"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2013-02-25T16:44:46"
                  LASTMODDATE="2017-02-13T12:28:46"
                  RECORDSTATUS="Active">
@@ -72,7 +74,14 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity"/>
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Neznano in pozabljeno iz
+                                    18. stoletja na Slovenskem je prvi zbornik SD18. Namenjen je
+                                    prikazu manj znanih pojavov in vidikov 18. stoletja na
+                                    Slovenskem. Na 405 straneh obsega zbornik 23 razprav, ki segajo
+                                    od obče in kulturne do glasbene, umetnostne in literarne
+                                    zgodovine. </entity:description>
+            </METS:xmlData>
          </METS:mdWrap>
       </METS:techMD>
    </METS:amdSec>
@@ -97,7 +106,7 @@
          <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/menu17"/>
          <METS:div TYPE="entity" DMDID="default.dc" ADMID="default.amd">
             <METS:fptr FILEID="thumbnail"/>
-            <METS:fptr FILEID="external1"/>
+            <METS:fptr FILEID="external.1"/>
             <METS:div TYPE="entity">
                <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/15296"/>
             </METS:div>

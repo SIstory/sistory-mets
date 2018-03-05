@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/1560">
+           OBJID="http://hdl.handle.net/11686/1560"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2011-11-02T20:17:59"
                  LASTMODDATE="2017-02-13T12:30:03"
                  RECORDSTATUS="Active">
@@ -97,7 +99,37 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity"/>
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Slovenski prostor je bil
+                                    v 19. stoletju razmeroma dobro obveščen o velikih spremembah, ki
+                                    sta jih z moderno industrializacijo ter z uveljavljanjem
+                                    znanstveno-tehničnih iznajdb v prometu in proizvodnji doživljala
+                                    hitreje se razvijajoči evropski zahod in zlasti Velika
+                                    Britanija. Informacije o “čudežih” nove tehnične in industrijske
+                                    dobe, ki jih je spremljalo navduševanje nad modernizacijo in
+                                    napredkom, so začele v dežele s slovenskim prebivalstvom
+                                    prodirati že v tridesetih letih 19. stoletja, ko je v habsburški
+                                    monarhiji nekoliko popustil pritisk cenzure. Najpomembnejši
+                                    notranjeavstijski in slovenski predmarčni okni v svet sta bila v
+                                    tem pogledu Gradec in Trst. V Gradcu je bilo leta 1838 – kot eno
+                                    številnih ustanov nadvojvode Janeza (Erzherzoga Johanna) –
+                                    ustanovljeno Združenje za pospeševanje in podpiranje industrije
+                                    v Notranji Avstriji, ki je postalo s svojim glasilom
+                                    Notranjeavstrijskim industrijskim in obrtnim listom v
+                                    štiridesetih letih 19. stoletja najpomembnejši popularizator
+                                    moderne industrializacije in gospodarskih in družbenih sprememb
+                                    v tržaškem zaledju. V Trstu pa so se za avstrijski gospodarski
+                                    dvig vneti trgovci in gospodarski načrtovalci zbrali ob
+                                    zavarovalniško-ladjarski družbi Avstrijski Lloyd, ki jo je od
+                                    začetka štiridesetih let vodil poznejši avstrijski finančni
+                                    minister Karl Ludwig von Bruck. Njihovo glasilo je postal nemško
+                                    pisani Journal avstrijskega Lloyda, ki je v desetletju pred
+                                    revolucionarnim letom 1848 prerasel v osrednji avstrijski
+                                    gospodarsko-politični časopis. Journal avstrijskega Lloyda v
+                                    člankih in komentarjih, ki jih je objavljal, ni izražal le
+                                    gledanj tržaških trgovcev, temveč tudi stališča liberalneje
+                                    usmerjenega dunajskega meščanstva in dvorne komore. </entity:description>
+            </METS:xmlData>
          </METS:mdWrap>
       </METS:techMD>
    </METS:amdSec>
@@ -108,8 +140,8 @@
          </METS:file>
       </METS:fileGrp>
       <METS:fileGrp USE="DEFAULT">
-         <METS:file ID="" OWNERID="O gospodarskih in socialnih nazorih.pdf">
-            <METS:FLocat LOCTYPE="HANDLE" xlink:href="https://hdl.handle.net/11686/"/>
+         <METS:file ID="file689" OWNERID="O gospodarskih in socialnih nazorih.pdf">
+            <METS:FLocat LOCTYPE="HANDLE" xlink:href="https://hdl.handle.net/11686/file689"/>
          </METS:file>
       </METS:fileGrp>
    </METS:fileSec>
@@ -120,7 +152,7 @@
          <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/menu17"/>
          <METS:div TYPE="entity" DMDID="default.dc default.mods" ADMID="default.amd">
             <METS:fptr FILEID="thumbnail"/>
-            <METS:fptr FILEID=""/>
+            <METS:fptr FILEID="file689"/>
          </METS:div>
       </METS:div>
    </METS:structMap>

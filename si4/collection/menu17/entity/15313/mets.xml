@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/15313">
+           OBJID="http://hdl.handle.net/11686/15313"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2013-02-25T18:32:57"
                  LASTMODDATE="2016-11-24T19:45:36"
                  RECORDSTATUS="Active">
@@ -71,7 +73,18 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity"/>
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv">
+                  <pre xmlns="http://www.w3.org/1999/xhtml">Prispevek predstavlja delovanje cehov v Prekmurju v stoletju, ki najizraziteje poustvarja obdobje
+njihovega največjega razcveta v tamkajšnjem prostoru, tj. 18. stoletje oz. predvsem čas Marije Terezije
+(1740–1780). Poudarjeni so razlogi za njihovo izoblikovanje, razne funkcije, ki se zrcalijo iz cehovskih
+pravil in pomen ustanovne listine kot najvišjega obrtnega privilegija. Osrednja pozornost je namenjena
+njihovi razprostranjenosti ter pravilom in obvezujočim prisegam ob vstopu v ceh, ki so s svojo markantnostjo
+prispevale svoj delček k dediščini krajevne zgodovine Prekmurja. Da se je marsikaj iz njihove
+tradicije ohranilo vse do danes, med drugim potrjuje tudi delovanje nekaterih cehovskih združenj še v
+današnjem času.</pre>
+               </entity:description>
+            </METS:xmlData>
          </METS:mdWrap>
       </METS:techMD>
    </METS:amdSec>

@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/26747">
+           OBJID="http://hdl.handle.net/11686/26747"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2014-04-14T17:55:25"
                  LASTMODDATE="2017-02-15T11:46:08"
                  RECORDSTATUS="Active">
@@ -73,7 +75,30 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Avstrijska cenzura je
+                                    bila med prvo svetovno vojno eden od temeljev in sooblikovalka
+                                    t. i. vojnega absolutizma, za katerega so bila značilna, poleg
+                                    uveljavljanja vojnih zakonov v javnem civilnem življenju,
+                                    črtanja osnovnih človekovih pravic, tudi široka diktatorska
+                                    pooblastila v upravljanju države in vodenju vojne, kar velja
+                                    predvsem za čas vladanja ministrskega predsednika grofa
+                                    Stürghka. Z vojnim absolutizmom naj bi avstrijske vojaške in
+                                    civilne oblasti, kot je zapisal Janko Pleterski, notranje
+                                    utrdile državo in svoje državljane za bojevanje na frontah,
+                                    zatrle pojave antimilitarizma vsakršnega izvora ter izvajale
+                                    pritisk na vse, kar bi bilo sumljivega ali nezaželenega v okviru
+                                    narodnih gibanj nenemških narodov, med njimi tudi slovenskega.
+                                    Učinek ukrepov vojnega absolutizma pa je bil tem večji zato,
+                                    »ker so se v njem samovoljno uveljavljala tudi nepisana pravila,
+                                    ki so uničevala veljavnost običajnih moralnih pravil.« Zato je
+                                    ministrski predsednik tudi pozval deželne predsednike, »naj
+                                    spodbujajo prebivalstvo ne glede na stan, narod in vero­izpoved,
+                                    v duhu združevanja moči vseh dobromislečih patriotičnih
+                                    elementov, k izražanju domovinske ljubezni v besedi in dejanju.
+                                    Prebivalstvo naj spodbujajo k požrtvovalnemu in prostovoljnemu
+                                    sodelovanju pri vseh ukrepih, ki služijo zavarovanju, razvoju in
+                                    učinkoviti uporabi oborožene sile.« </entity:description>
                <entity:page>108</entity:page>
             </METS:xmlData>
          </METS:mdWrap>

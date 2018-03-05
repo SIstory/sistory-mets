@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/14351">
+           OBJID="http://hdl.handle.net/11686/14351"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2012-11-27T08:24:31"
                  LASTMODDATE="2016-12-18T10:22:21"
                  RECORDSTATUS="Active">
@@ -67,8 +69,8 @@
    </METS:amdSec>
    <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink" ID="default.file">
       <METS:fileGrp USE="DEFAULT">
-         <METS:file ID="" OWNERID="Geschichte_ Krains_Vierterr_Theil.pdf">
-            <METS:FLocat LOCTYPE="HANDLE" xlink:href="https://hdl.handle.net/11686/"/>
+         <METS:file ID="file4996" OWNERID="Geschichte_ Krains_Vierterr_Theil.pdf">
+            <METS:FLocat LOCTYPE="HANDLE" xlink:href="https://hdl.handle.net/11686/file4996"/>
          </METS:file>
       </METS:fileGrp>
    </METS:fileSec>
@@ -78,7 +80,7 @@
       <METS:div TYPE="collection">
          <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/menu17"/>
          <METS:div TYPE="entity" DMDID="default.dc" ADMID="default.amd">
-            <METS:fptr FILEID=""/>
+            <METS:fptr FILEID="file4996"/>
          </METS:div>
       </METS:div>
    </METS:structMap>

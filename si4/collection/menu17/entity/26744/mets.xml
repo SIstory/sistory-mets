@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/26744">
+           OBJID="http://hdl.handle.net/11686/26744"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2014-04-14T17:47:04"
                  LASTMODDATE="2017-02-15T11:46:46"
                  RECORDSTATUS="Active">
@@ -72,7 +74,28 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Ker simpozij o prvi
+                                    svetovni vojni ni umetnostnozgodovinski in ker tematika doslej
+                                    še ni bila celoviteje in izčrpneje osvetljena, začenjam svoj
+                                    predvsem informativni panoramski prikaz o odmevih prve svetovne
+                                    vojne v sočasni slovenski likovni umetnosti in o vlogi te vojne
+                                    za našo poznejšo umetnost brez uvodnih razglabljanj kar z golimi
+                                    dejstvi. Prva svetovna vojna se je najbolj neposredno dotaknila
+                                    slovenske likovne umetnosti v razdiralnem smislu, saj so bili v
+                                    okolici frontnih bojev na Goriškem uničeni številni arhitekturni
+                                    spomeniki z likovno opremo, med najpomembnejšimi Quagliova
+                                    baročna poslikava goriške stolnice, romarska cerkev iz 16.
+                                    stoletja na Sveti gori ali kapucinska cerkev v Kostanjevici pri
+                                    Gorici s svojo štukaturo, ki so jo pozneje rekonstruirali;
+                                    zaradi tega razdejanja je skušal na novo začrtati urbanizem tega
+                                    področja Maks Fabiani, ki je med letoma 1917 in 1922 vodil
+                                    obnovo Posočja; tako kot že kdaj poprej v zgodovini pa so morale
+                                    cerkve iz zaledja oddajati zaradi pretopitve v topove svoje
+                                    zvonove in zato ob koncu vojne niso mogle »pozdraviti aleluje,
+                                    ki se bliža«, kot je napisal Vladimir Levstik v Gadjem gnezdu, v
+                                    katerem dominira mogočna podoba Kastelke kot materinski sinonim
+                                    slovenske zemlje, ki ji je vojna pobrala sinove </entity:description>
                <entity:page>74</entity:page>
             </METS:xmlData>
          </METS:mdWrap>

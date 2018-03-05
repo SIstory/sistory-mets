@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/26790">
+           OBJID="http://hdl.handle.net/11686/26790"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2014-04-15T16:32:42"
                  LASTMODDATE="2017-02-14T14:05:52"
                  RECORDSTATUS="Active">
@@ -89,7 +91,25 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Pomladi, 17. aprila
+                                    1932, je bilo v listu Slovenec objavljeno pompozno oznanilo.
+                                    Skupina podpisnikov, visokih predstavnikov nekdanje Slovenske
+                                    ljudske stranke (SLS), je Slovence obveščala, da bo 12. maja
+                                    tistega leta "/.../ naš voditelj dr. Anton Korošec obhajal svojo
+                                    šestdesetletnico." Častitljivi jubilej karizmatičnega vodje
+                                    najmočnejše slo­venske politične stranke, kateremu so
+                                    pripisovali "neminljive" zasluge na prosvetnem,
+                                    zadružno-gospodarskem in političnem polju, je po njihovem mnenju
+                                    zahteval "oddol- žitev" "voditelju". Zato so se odločili
+                                    povabiti "/.../ svoje prijatelje po vsej Sloveniji, da takoj
+                                    ustanove odbore za proslavo Koroščeve šestdesetletnice, ki naj
+                                    se vrši povsodi v mesecu maju.« Nadvse nedolžno vabilo k
+                                    počastitvi rojstnega dne spoštovanega slovenskega politika,
+                                    "izvršitelja jugoslovanskega testamenta", je tako imelo na videz
+                                    jasno ozadje in preprost namen - ljudsko proslavo. A le na
+                                    videz. Ozadje predvidenega slavja je namreč bilo veliko globlje
+                                    in bolj zagonetno. </entity:description>
                <entity:page>442</entity:page>
             </METS:xmlData>
          </METS:mdWrap>

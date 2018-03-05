@@ -13,8 +13,12 @@
     xmlns:premis="http://www.loc.gov/standards/premis/v1"
     xmlns:mods="http://www.loc.gov/mods/v3"
     xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+    xmlns:html="http://www.w3.org/1999/xhtml"
     exclude-result-prefixes="xs sistory"
     version="2.0">
+    
+    <!-- Če želim, da v mets.xml vključim lokacijo sheme, mora biti parameter schemaLocation true -->
+    <xsl:param name="schemaLocation">true</xsl:param>
     
     <!-- TODO:
             - Naredi seznam uporabnikov administracije in iz njega potegni podatke o uporabniku (Priimek, Ime)
@@ -332,10 +336,13 @@
                     ID="entity."
                     TYPE="entity"
                     OBJID="http://hdl.handle.net/11686/{$sistoryID}">
-                    <METS:metsHdr CREATEDATE="{translate(sistory:DATETIME_ADDED,' ','T')}">
+                    <xsl:if test="$schemaLocation = 'true'">
+                        <xsl:attribute name="xsi:schemaLocation">http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd</xsl:attribute>
+                    </xsl:if>
+                    <METS:metsHdr CREATEDATE="{translate(sistory:DATETIME_ADDED,'  ','T')}">
                         <xsl:if test="sistory:DATETIME_MODIFIED">
                             <xsl:attribute name="LASTMODDATE">
-                                <xsl:value-of select="translate(sistory:DATETIME_MODIFIED,' ','T')"/>
+                                <xsl:value-of select="translate(sistory:DATETIME_MODIFIED,'  ','T')"/>
                             </xsl:attribute>
                         </xsl:if>
                         <xsl:attribute name="RECORDSTATUS">
@@ -349,11 +356,16 @@
                             <METS:note>http://sistory.si/</METS:note>
                         </METS:agent>
                         <xsl:variable name="userID" select="sistory:USER_ID_ADDED"/>
-                        <METS:agent ROLE="CREATOR" ID="user.{$userID}" TYPE="INDIVIDUAL">
+                        <xsl:variable name="userName">
                             <xsl:for-each select="$users/sistory:user[sistory:id = $userID]">
                                 <xsl:call-template name="user-name"/>
                             </xsl:for-each>
-                        </METS:agent>
+                        </xsl:variable>
+                        <xsl:if test="string-length($userName) gt 0">
+                            <METS:agent ROLE="CREATOR" ID="user.{$userID}" TYPE="INDIVIDUAL">
+                                <xsl:copy-of select="$userName"/>
+                            </METS:agent>
+                        </xsl:if>
                     </METS:metsHdr>
                     <!-- default Dublin Core metapodatki -->
                     <METS:dmdSec ID="default.dc">
@@ -491,20 +503,23 @@
                                 </METS:xmlData>
                             </METS:mdWrap>
                         </METS:techMD>
-                        <xsl:if test="$extraData/entity:description_sl/entity:section or
-                            $extraData/entity:description_en/entity:section or
+                        <xsl:if test="$extraData/html:description_sl/html:section or
+                            $extraData/html:description_en/html:section or
                             number(sistory:PAGE) gt 0">
                             <METS:techMD ID="default.si4">
                                 <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-                                    <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity">
-                                        <xsl:if test="$extraData/entity:description_sl/entity:section">
+                                    <METS:xmlData>
+                                        <xsl:if test="$schemaLocation = 'true'">
+                                            <xsl:attribute name="xsi:schemaLocation">http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd</xsl:attribute>
+                                        </xsl:if>
+                                        <xsl:if test="$extraData/html:description_sl/html:section">
                                             <entity:description xml:lang="slv">
-                                                <xsl:apply-templates select="$extraData/entity:description_sl/entity:section/entity:div/entity:ul/entity:li/entity:div/entity:div" mode="nodes"/>
+                                                <xsl:apply-templates select="$extraData/html:description_sl/html:section/html:div/html:ul/html:li/html:div/html:div" mode="nodes"/>
                                             </entity:description>
                                         </xsl:if>
-                                        <xsl:if test="$extraData/entity:description_en/entity:section">
+                                        <xsl:if test="$extraData/html:description_en/entity:section">
                                             <entity:description xml:lang="eng">
-                                                <xsl:apply-templates select="$extraData/entity:description_en/entity:section/entity:div/entity:ul/entity:li/entity:div/entity:div" mode="nodes"/>
+                                                <xsl:apply-templates select="$extraData/html:description_en/entity:section/entity:div/entity:ul/entity:li/entity:div/entity:div" mode="nodes"/>
                                             </entity:description>
                                         </xsl:if>
                                         <xsl:if test="number(sistory:PAGE) gt 0">
@@ -575,17 +590,25 @@
                                 ID="file."
                                 TYPE="file"
                                 OBJID="http://hdl.handle.net/11686/{$fileID}">
-                                <METS:metsHdr CREATEDATE="" LASTMODDATE="" RECORDSTATUS="Active">
+                                <xsl:if test="$schemaLocation = 'true'">
+                                    <xsl:attribute name="xsi:schemaLocation">http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd</xsl:attribute>
+                                </xsl:if>
+                                <METS:metsHdr RECORDSTATUS="Active">
                                     <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
                                         <METS:name>SIstory</METS:name>
                                         <METS:note>http://sistory.si/</METS:note>
                                     </METS:agent>
                                     <xsl:variable name="userID" select="../sistory:USER_ID_ADDED"/>
-                                    <METS:agent ROLE="CREATOR" ID="user.{$userID}" TYPE="INDIVIDUAL">
+                                    <xsl:variable name="userName">
                                         <xsl:for-each select="$users/sistory:user[sistory:id = $userID]">
                                             <xsl:call-template name="user-name"/>
                                         </xsl:for-each>
-                                    </METS:agent>
+                                    </xsl:variable>
+                                    <xsl:if test="string-length($userName) gt 0">
+                                        <METS:agent ROLE="CREATOR" ID="user.{$userID}" TYPE="INDIVIDUAL">
+                                            <xsl:copy-of select="$userName"/>
+                                        </METS:agent>
+                                    </xsl:if>
                                 </METS:metsHdr>
                                 <!-- opcijski Dublin Core metapodatki -->
                                 <!-- predvidevam, da sem do sedaj zapisal samo podatke o naslovu in opisu datotek (sem v resnici tudi avtorja datoteke, vendar zelo redko)  -->
@@ -660,8 +683,6 @@
                             </METS:mets>
                         </xsl:result-document>
                     </xsl:for-each>
-                        
-                    
                     
                     <METS:structMap ID="default.structure" xmlns:xlink="http://www.w3.org/1999/xlink">
                         <xsl:attribute name="TYPE">
@@ -693,10 +714,10 @@
                                             <METS:fptr FILEID="thumbnail"/>
                                         </xsl:if>
                                         <xsl:if test="sistory:LINK">
-                                            <METS:fptr FILEID="external1"/>
+                                            <METS:fptr FILEID="external.1"/>
                                         </xsl:if>
                                         <xsl:if test="string-length($youtube) gt 0">
-                                            <METS:fptr FILEID="video1"/>
+                                            <METS:fptr FILEID="video.1"/>
                                         </xsl:if>
                                         <xsl:for-each select="sistory:PUBLICATION">
                                             <xsl:variable name="fileName" select="@file"/>
@@ -760,7 +781,7 @@
         </xsl:for-each>
     </xsl:template>
     
-    <xsl:template match="entity:div[contains(@style,'max-width:75rem')]" mode="nodes">
+    <xsl:template match="html:div[contains(@style,'max-width:75rem')]" mode="nodes">
         <xsl:apply-templates mode="nodes"/>
     </xsl:template>
     

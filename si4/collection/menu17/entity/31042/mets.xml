@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/31042">
+           OBJID="http://hdl.handle.net/11686/31042"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2015-06-02T12:02:09"
                  LASTMODDATE="2017-02-15T12:17:14"
                  RECORDSTATUS="Active">
@@ -89,7 +91,19 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Lampe je kljub
+                                    zagovarjanju takrat še zakoreninjenega modela versko-nravne
+                                    vzgoje, utemeljene v apostolski avtoriteti, otroke obravnaval
+                                    kot celovite osebnosti, ne kot tiste, ki so nedorasli ali
+                                    nepopolni. Pri zagotavljanju vzgojno-pedagoških ciljev se je
+                                    izogibal uporabi represivnih metod, saj je verjel v uspeh
+                                    preventivnih vzgojnih ukrepov, ki otroku pomagajo pri njegovi
+                                    celostni rasti. Spodbujal je versko vzgojo, ki temelji v
+                                    enakosti vseh ljudi in iskrenem prijateljstvu ljudi vseh stanov
+                                    in starosti. Na ta način je ustvarjal pozitiven premik iz
+                                    tradicionalističnih patriarhalnih, v bolj sodobne, demokratične
+                                    medčloveške odnose. </entity:description>
                <entity:page>337</entity:page>
             </METS:xmlData>
          </METS:mdWrap>

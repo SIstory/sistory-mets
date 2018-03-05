@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/30998">
+           OBJID="http://hdl.handle.net/11686/30998"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2015-05-14T10:50:04"
                  LASTMODDATE="2017-02-15T09:29:39"
                  RECORDSTATUS="Active">
@@ -96,7 +98,23 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Članek je povzet po
+                                    osrednjem delu magistrske naloge, ki raziskuje ovrednotenje
+                                    pedagoškega dela učiteljev zgodovine v gimnazijah. Učitelj
+                                    preverja uspeh, smiselnost in efektivnost lastnega dela s
+                                    samovrednotenjem, ki teži k zagotavljanju kakovosti ter spodbuja
+                                    profesionalni in osebni razvoj. Čeprav si pod istim pojmom
+                                    predstavljajo različne postopke (anketiranje, pogovor,
+                                    refleksijo, opazovanje pouka, samoocenjevanje ...), se s
+                                    samovrednotenjem srečujejo vsi učitelji. Učitelj zgodovine z
+                                    delom v razredu lahko vpliva na predstave učencev, spodbuja
+                                    razvoj občutljivosti in kritičnosti ter učencem pogosto
+                                    predstavlja referenco in zgled. Zato si nespraševanja o svojem
+                                    delu ne sme privoščiti. Samovrednotenje omogoča sprotno
+                                    preverjanje dela in ugotavljanje močnih in šibkih področij. Čas
+                                    in napor, ki ga učitelj vloži vanj, se prej ali slej povrneta v
+                                    obliki zadovoljstva pri nadaljnjem delu. </entity:description>
                <entity:page>339</entity:page>
             </METS:xmlData>
          </METS:mdWrap>

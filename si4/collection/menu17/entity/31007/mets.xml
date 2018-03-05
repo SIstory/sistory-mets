@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/31007">
+           OBJID="http://hdl.handle.net/11686/31007"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2015-05-15T08:58:16"
                  LASTMODDATE="2017-02-15T09:24:15"
                  RECORDSTATUS="Active">
@@ -94,7 +96,17 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> V prispevku
+                                    predstavljamo seznam slovenskih učbenikov za zgodovino, ki so
+                                    bili izdani med leti 1945 in 2010, posebej za osnovno šolo in
+                                    posebej za srednje šole (gimnazije ter tehniške in druge
+                                    strokovne šole). Učbenike za zgodovino so izdajale založbe:
+                                    Dopisna delavska univerza, Državna založba Slovenije (DZS),
+                                    Mladinska knjiga (MK), Mihelač in Nešovič, Modrijan, Rokus
+                                    (Rokus Klett) idr. Seznam je urejen po abecednem vrstnem redu
+                                    avtorjev. Dodali smo tudi letnice izdaj. Za osnovno šolo seznam
+                                    vsebuje 38 učbenikov, za srednjo šolo pa 62 učbenikov. </entity:description>
                <entity:page>497</entity:page>
             </METS:xmlData>
          </METS:mdWrap>

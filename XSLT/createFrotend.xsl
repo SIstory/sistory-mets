@@ -4,7 +4,8 @@
     xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
     xmlns:sistory="http://www.sistory.si/schemas/sistory/"
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-    exclude-result-prefixes="xs sistory entity"
+    xmlns:html="http://www.w3.org/1999/xhtml"
+    exclude-result-prefixes="xs sistory entity html"
     version="2.0">
     
     <!-- Naredi avtomatično izhodiščne elemente, ki bodo v entity namespace -->
@@ -50,14 +51,14 @@
                                 </xsl:non-matching-substring>
                             </xsl:analyze-string>
                         </files>
-                        <description_sl>
+                        <description_sl xmlns="http://www.w3.org/1999/xhtml">
                             <xsl:analyze-string select="$string-sl-var1" regex="(&lt;section\sid=&quot;opis&quot;&gt;)(.*?)(&lt;/section&gt;)" flags="s">
                                 <xsl:matching-substring>
                                     <xsl:value-of select="." disable-output-escaping="yes"/>
                                 </xsl:matching-substring>
                             </xsl:analyze-string>
                         </description_sl>
-                        <description_en>
+                        <description_en xmlns="http://www.w3.org/1999/xhtml">
                             <xsl:analyze-string select="$string-en-var1" regex="(&lt;section\sid=&quot;opis&quot;&gt;)(.*?)(&lt;/section&gt;)" flags="s">
                                 <xsl:matching-substring>
                                     <xsl:value-of select="." disable-output-escaping="yes"/>

@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/26950">
+           OBJID="http://hdl.handle.net/11686/26950"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2014-07-07T09:02:38"
                  LASTMODDATE="2017-02-14T12:48:46"
                  RECORDSTATUS="Active">
@@ -87,7 +89,43 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity"/>
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv">
+                  <p xmlns="http://www.w3.org/1999/xhtml">Knjiga je svojevrstna odslikava politične tranzicije v
+                                        Sloveniji. V berljivem slogu, velikokrat s podrobnimi opisi
+                                        in pikrimi navedki, pojasnjuje, kaj se je dogajalo v
+                                        slovenskem parlamentu od njegove prve seje po nastanku
+                                        slovenske države do zadnjih parlamentarnih volitev leta
+                                        2014. Parlament ne nastopa le kot osrednje predstavniško in
+                                        zakonodajno telo v državi, marveč zlasti kot stičišče
+                                        političnih konceptov, strinjanj in nestrinjanj, zrcalo
+                                        vsega, kar ljudje pojmujejo pod (vse bolj osovraženim)
+                                        pojmom politika. Parlament v knjigi je politični teater.</p>
+                  <p xmlns="http://www.w3.org/1999/xhtml">V zbirki Parlamentaria bodo pod okriljem Raziskovalne
+                                        infrastrukture na INZ v elektronski obliki izhajale študije
+                                        iz zgodovine parlamentarizma. V prvem obdobju načrtujemo
+                                        kratke pojasnjevalne politično-zgodovinske preglede
+                                        posamičnih parlamentov s slovenskega prostora (dunajskega
+                                        državnega zbora, deželnih zborov, beograjske skupščine iz
+                                        časov Kraljevine SHS / Jugoslavije, povojne republiške in
+                                        zvezne skupščino iz socialistične Jugoslavije ter Državnega
+                                        zbora Republike Slovenije). Poleg klasične akademske publike
+                                        cilja zbirka s svojim obsegom in različnimi elektronskimi
+                                        formati (HTML, PDF, ePub, mobi) ter možnostmi, ki jih ponuja
+                                        prosto dostopno e-izdajanje na širše bralstvo. Kot prva je
+                                        izšla knjiga: Slovenski parlament. Politično-zgodovinski
+                                        pregled od začetka prvega do konca šestega mandata (1992 -
+                                        2014).</p>
+                  <p xmlns="http://www.w3.org/1999/xhtml">Za optimalen ogled HTML elektronske monografije ne
+                                        uporabljajte brskalnika Internet Explorer. Elektronska
+                                        monografija je prilagojena tudi za ogled na pametnih
+                                        telefonih in tablicah.<br/>Na voljo so še elektronske
+                                        monografije v PDF formatu, v ePub 3 formatu (kompatibilen s
+                                        starejšim ePub 2 formatom) in za uporabnike Kindle bralnikov
+                                        še v mobi formatu.<br/>Izhodiščni dokument za vse te formate
+                                        je TEI XML.</p>
+               </entity:description>
+            </METS:xmlData>
          </METS:mdWrap>
       </METS:techMD>
    </METS:amdSec>
@@ -124,7 +162,7 @@
          <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/menu17"/>
          <METS:div TYPE="entity" DMDID="default.dc default.mods" ADMID="default.amd">
             <METS:fptr FILEID="thumbnail"/>
-            <METS:fptr FILEID="external1"/>
+            <METS:fptr FILEID="external.1"/>
             <METS:fptr FILEID="file15841"/>
             <METS:fptr FILEID="file15842"/>
             <METS:fptr FILEID="file15843"/>

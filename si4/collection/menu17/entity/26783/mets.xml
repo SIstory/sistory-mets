@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/26783">
+           OBJID="http://hdl.handle.net/11686/26783"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2014-04-15T15:56:35"
                  LASTMODDATE="2017-02-14T14:07:43"
                  RECORDSTATUS="Active">
@@ -89,7 +91,36 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> "Če ne želimo, da bi
+                                    morali učenci samo 'verjeti' učiteljevemu pripovedovanju zaradi
+                                    njegove avtoritete in da bi zapustil zgodovinski pouk v njih le
+                                    dolgočasen spomin na knjižno razlago zgodovinskih dogodkov, če
+                                    hočemo, da bi preteklost zaživela pred njihovimi očmi v pravi
+                                    podobi in da bi bil pouk zgodovine integriran v realnosti, potem
+                                    je potrebno segati tudi po stvarnih dokazih in vidnih sledovih
+                                    preteklosti... po zaslugi učiteljeve aktivnosti postanejo učenci
+                                    na ta način sposobni, da opazujejo, kar je preteklost zapustila,
+                                    in povezujejo 'malo zgodovino' svojega kraja z 'veliko zgodovino
+                                    sveta' ...Poznavanje in razumevanje nastanka, vzrokov nastanka
+                                    in razvoja domačega kraja prispeva k cenjenju lastne kulturne
+                                    dediščine. Poznavanje kulturne dediščine domačega kraja je tudi
+                                    osnova za poznavanje slovenske kulturne dediščine. Učenci se
+                                    tako pripravljajo na samostojno in odgovorno delo v družbi, se
+                                    zadevajo okolice in vse kar se dogaja okoli njih, sodelujejo v
+                                    kraju, prispevajo k razvoju okolice - domačega kraja ter
+                                    poskušajo razumeti preteklost iz perspektive ljudi, ki so živeli
+                                    v preteklosti. Učenci pri predmetu Zgodovina v osnovnih in
+                                    srednjih šolah "pridobijo znanje o slovenski kulturni dediščini
+                                    in jo vrednotijo ter razvijajo zavest o slovenski narodni
+                                    identiteti in državni pripadnosti;" vrednotijo kulturno
+                                    dediščino v splošnem in nacionalnem okviru, se ozaveščajo o
+                                    pomenu ohranjanja lastnih kulturnih tradicij in pridobivajo
+                                    evropske kulturne in civilizacijske življenjske vrednote.Namen
+                                    prispevka je prikazati vlogo in pomen lokalne zgodovine pri
+                                    skupnih in izbirnih predmetih v osnovni in srednji šoli, še
+                                    posebej pa izpostaviti vlogo lokalne zgodovine oz. zgodovine
+                                    domačega kraja pri predmetu Zgodovina. </entity:description>
                <entity:page>348</entity:page>
             </METS:xmlData>
          </METS:mdWrap>

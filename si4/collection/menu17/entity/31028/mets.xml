@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/31028">
+           OBJID="http://hdl.handle.net/11686/31028"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2015-06-02T10:57:16"
                  LASTMODDATE="2017-02-15T12:26:00"
                  RECORDSTATUS="Active">
@@ -94,7 +96,20 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Avtorici izhajata iz
+                                    predpostavke, da sta koncepta otroštva in otroka ter posledično
+                                    tudi obnašanje in odnos odraslih do otrok družbeno in kulturno
+                                    pogojena. V tem kontekstu so tudi pisci podvrženi določenim
+                                    znanstvenim paradigmam. Prispevek oriše razvijajoči se odnos
+                                    slovenske etnologije do otrok in otroštva ter na podlagi analize
+                                    etnoloških del rekonstruira otroštvo na Slovenskem v 20.
+                                    stoletju, s poudarkom na vlogi otrok v družinski ekonomiji,
+                                    vpeljevanju v delo, igri ter šolanju. Avtorici predpostavljata,
+                                    da lahko odnos družbe do otrok ter načine vzgoje razumemo s
+                                    pomočjo razumevanja družbenih razmer nekega časa, hkrati pa
+                                    iščeta vzporednice, ki povezujejo različne podobe otroštva s
+                                    konceptom učenja. </entity:description>
                <entity:page>163</entity:page>
             </METS:xmlData>
          </METS:mdWrap>

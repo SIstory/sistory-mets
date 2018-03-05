@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/26760">
+           OBJID="http://hdl.handle.net/11686/26760"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2014-04-15T13:10:05"
                  LASTMODDATE="2017-02-14T14:17:25"
                  RECORDSTATUS="Active">
@@ -89,7 +91,26 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Mednarodna konferenca
+                                    socialistov, ki je bila nameravana leta 1917 v Stockholmu, naj
+                                    bi obnovila delovanje socialističnih strank v Evropi, ki je bilo
+                                    zaradi vojne in stališča strank druge internacionale ob izbruhu
+                                    prve svetovne vojne v hudi krizi. Po februarski revoluciji v
+                                    Rusiji seje položaj v Evropi močni spremenil in že aprila 1917
+                                    je prišlo do prve pobude danskih in nizozemskih socialistov za
+                                    sklic mednardone socialistične konference. Nizozemski delegati
+                                    so vsem nacionalnim sekcijam druge internacionale poslali
+                                    poslanico za sklic konference v nevtralnem Stockholmu, ki naj bi
+                                    se začela 15. maja, do česar pa zaradi stališč večinskih
+                                    socialistov v Franciji in Veliki Britaniji ni prišlo. Po tem
+                                    propadu je bil 3. maja ustanovljen nizozemsko-skandinavski
+                                    komite kot organizacijski biro za pripravo zaenkrat odpadle
+                                    konference. Razpoloženje do konference je bilo med socialisti
+                                    različnih smeri različno in o tem na tem mestu ni mogoče
+                                    podrobneje govoriti. Vlade ZDA, Francije in Velike Britanije
+                                    delegatom njihovih dežel tudi niso hotele izdati vizumov,
+                                    Avstro-Ogrska pa je v izdajo vizumov takoj privolila. </entity:description>
                <entity:page>66</entity:page>
             </METS:xmlData>
          </METS:mdWrap>

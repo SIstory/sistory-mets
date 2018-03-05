@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/31008">
+           OBJID="http://hdl.handle.net/11686/31008"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2015-05-15T09:03:19"
                  LASTMODDATE="2017-02-15T09:22:58"
                  RECORDSTATUS="Active">
@@ -94,7 +96,22 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> V prispevku je
+                                    predstavljen seznam priročnikov za učitelje zgodovine, ki so
+                                    izšli po letu 1955 in so jih napisali slovenski avtorji. Dodana
+                                    ste le dva prevedena priročnika za učitelje zgodovine.
+                                    Priročniki so razdeljeni na splošne priročnike,
+                                    vsebinsko-tematske in metodične priročnike, nadalje na
+                                    priročnike za posamezne razrede ali letnike ter na koncu tudi na
+                                    druge priročnike (magistrska in doktorska dela, zbornike,
+                                    raziskave in revije). Za splošne, vsebinske in metodične
+                                    priročnike je dodana tudi vsebina priročnikov. Priročniki za
+                                    različne CD-je, DVD-je ali videokasete ter zbirke virov niso
+                                    vključeni. Pri posameznih vrstah so priročniki predstavljeni
+                                    kronološko. Na koncu je dodan krajši komentar, saj priročniki
+                                    prikazujejo tudi razvoj metodike pouka zgodovine oz. didaktike
+                                    zgodovine od leta 1955 do leta 2010. </entity:description>
                <entity:page>503</entity:page>
             </METS:xmlData>
          </METS:mdWrap>

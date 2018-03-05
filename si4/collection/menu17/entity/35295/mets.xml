@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/35295">
+           OBJID="http://hdl.handle.net/11686/35295"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2016-06-16T08:48:18"
                  LASTMODDATE="2017-02-10T13:00:42"
                  RECORDSTATUS="Active">
@@ -90,7 +92,19 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Tesna politična
+                                    naslonitev Jugoslavije na Sovjetsko zvezo takoj po koncu druge
+                                    svetovne vojne je v Jugoslavijo in s tem tudi Slovenijo prinesla
+                                    tudi posnemanje sovjetskega kulturnopolitičnega modela in
+                                    krepitev kulturnega sodelovanja s Sovjetsko zvezo. Toda po
+                                    informbirojevskem sporu med Jugoslavijo in Sovjetsko zvezo je
+                                    bilo kmalu konec posnemanja sovjetskega kulturnega vzora, opazen
+                                    pa je bil tudi zastoj pri kulturnem sodelovanju. Spreminjanje
+                                    intenzivnosti kulturnega sodelovanja prikazujejo številni
+                                    statistični kazalci, spremembe v kulturni politiki pa niso
+                                    odpravile nadzora nad kulturno ustvarjalnostjo, temveč le
+                                    reformirale način nadzora. </entity:description>
                <entity:page>251</entity:page>
             </METS:xmlData>
          </METS:mdWrap>

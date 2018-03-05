@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/38025">
+           OBJID="http://hdl.handle.net/11686/38025"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2017-10-16T08:22:31"
                  LASTMODDATE="2017-10-23T15:55:51"
                  RECORDSTATUS="Active">
@@ -18,7 +20,6 @@
          <METS:name>SIstory</METS:name>
          <METS:note>http://sistory.si/</METS:note>
       </METS:agent>
-      <METS:agent ROLE="CREATOR" ID="user.123" TYPE="INDIVIDUAL"/>
    </METS:metsHdr>
    <METS:dmdSec ID="default.dc">
       <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
@@ -66,7 +67,39 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity"/>
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> V tej knjigi prihaja na
+                                    svetlo zgodovinsko delo, ki je sad dolgoletnega truda
+                                    svoječasnega ribniškega župnika in dekana Antona Skubica.
+                                    Sestavljal ga je dolgo dobo med leti 1915 do 1940, toda v
+                                    zaokroženo celoto, k'i bi bila po njegovi sodbi zrela za objavo
+                                    v knjigi, ga ni izgradil. Prošnjam in prigovarjanjem
+                                    prijateljev, naj bi ta knjiga čimprej izšla, se nikakor ni hotel
+                                    ali mogel vdati; pač pa je v raznih publikacijah ob raznih
+                                    prilikah objavljal posamezne razprave, povzete iz celotnega
+                                    zgodovinskega dela. Kolikor je mogel urednik ugotoviti v danih
+                                    razmerah v tujini in ob malem številu pripomočkov, ki so mu bili
+                                    na razpolago, je Skubic objavil: Opis božje poti NOVA ŠTIFTA v
+                                    Ilustriranem Slovencu z dne 17. junija 1928; razpravo IZ
+                                    ZGODOVINE ŠOLSTVA V RIBNICI v reviji Slovenski učitelj iz leta
+                                    1930 (v nadaljevanjih): ZGOŠČEN PREGLED ZGODOVINE RIBNICE v
+                                    Ilustriranem Slovencu z dne 1. decembra 1931 pod zaglavjem: Iz
+                                    zgodovine slovenskih mest. Ob raznih priložnostih je objavljal
+                                    tudi krajše zgodovinske razprave, ki jih pa urednik podrobno ni
+                                    mogel ugotoviti ob pomanjkanju virov. Omeniti je le še, da je v
+                                    letu 1933, v kolikor urednika ne vara spomin, ob priložnosti
+                                    odkritja spominske plošče Jakobu Petelinu Gallusu, na podlagi
+                                    danih mu zgodovinskih virov skušal dokazati, da je bil ta slavni
+                                    slovenski glasbenik rojen v Ribnici. Za Skubičevo zgodovinsko
+                                    delo je bilo med slovensko inteligenco že za njegovega življenja
+                                    veliko zanimanja. Zlasti ribniški rojaki, profesorji zgodovine
+                                    (npr. dr. Fr. Trdan iz Suš ja, prof. Fr. Ambrožič iz Goriče
+                                    vasi, prof. dr. Jože Rus iz trga, prof. Fr. Fric iz Hrvače, p.
+                                    Maver Grebenc iz Dol. Lazov), kakor tudi drugi ribniški
+                                    intelektualci so željno čakali na izid te zgodovine, toda
+                                    avtorja je na veliko žalost vseh začetkom leta 1940 prehitela
+                                    nenadna smrt. </entity:description>
+            </METS:xmlData>
          </METS:mdWrap>
       </METS:techMD>
    </METS:amdSec>

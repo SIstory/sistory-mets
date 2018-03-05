@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/31051">
+           OBJID="http://hdl.handle.net/11686/31051"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2015-06-02T17:54:53"
                  LASTMODDATE="2017-02-15T12:13:40"
                  RECORDSTATUS="Active">
@@ -91,7 +93,21 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Prispevek v kontekstu
+                                    gospodarskega in socialnega okolja Prevalj in Leš v koroški
+                                    Mežiški dolini obravnava predvsem socialni in zdravstveni
+                                    položaj otrok rudarskih družin premogovnika Leše v 19. in na
+                                    začetku 20. stoletja. Vpliv gospodarskih razmer na
+                                    socialno-zdravstveni položaj rudarskih otrok na začetku 20.
+                                    stoletja je prikazan s pomočjo študije prevaljskega učitelja
+                                    Karla Doberška »Vpliv socialnih razmer na razvoj otroka na
+                                    Prevaljah« iz leta 1929. Analiza podatkovne zbirke članov
+                                    bratovske skladnice Leše razkriva strukturo rudarskih družin s
+                                    poudarkom na številu otrok in njihovim preživetjem do 14. leta
+                                    starosti. Dopolnjujejo jo podatki iz mrliške knjige prevaljske
+                                    župnije Devica Marija na jezeru, ki kažejo vzroke otroške
+                                    umrljivosti v rudarskih družinah. </entity:description>
                <entity:page>450</entity:page>
             </METS:xmlData>
          </METS:mdWrap>

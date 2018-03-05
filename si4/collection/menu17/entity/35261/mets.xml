@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/35261">
+           OBJID="http://hdl.handle.net/11686/35261"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2016-06-14T14:27:48"
                  LASTMODDATE="2017-02-10T13:57:45"
                  RECORDSTATUS="Active">
@@ -94,7 +96,21 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Avtor obravnava pomen
+                                    mesta Trst v slovenski zgodovini, preko katerega so v slovenski
+                                    prostor prihajali mnogi novi izzivi iz Evrope. Na začetek
+                                    postavi bivanje reformatorja Primoža Trubarja v Trstu in izid
+                                    slovensko-italijanskega slovarja leta 1607 v Devinu. Obravnavo
+                                    nadaljuje s pomladjo narodov v letu 1848, dograditvijo Narodnega
+                                    doma v letu 1904, kije pomenil afirmacijo slovenstva v mestu,
+                                    požiga le-tega in etničnega čiščenja v času fašizma, prvega
+                                    antifašizma v Evropi, preko druge svetovne vojne in zmage
+                                    slovenskega osvobodilnega boja kot dela zavezniške koalicije.
+                                    Povojni politični pluralizem v Italiji in Trstu je vplival na
+                                    takratno slovensko državno socialistično ureditev in prav preko
+                                    Trsta so pronicali evropski vplivi in modeli zahodne družbene
+                                    ureditve. </entity:description>
                <entity:page>117</entity:page>
             </METS:xmlData>
          </METS:mdWrap>

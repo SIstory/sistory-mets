@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/30992">
+           OBJID="http://hdl.handle.net/11686/30992"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2015-05-14T10:05:43"
                  LASTMODDATE="2017-02-15T11:20:32"
                  RECORDSTATUS="Active">
@@ -94,7 +96,23 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Človekove pravice so v
+                                    zadnjih letih pridobile izjemno vlogo tako v političnem kot v
+                                    vsakdanjem življenju; o njih je zlasti zelo pomembno govoriti
+                                    tudi v novi dobi. v času globalizacije. Predpogoj uveljavljanja
+                                    človekovih pravic je širjenje zavesti in znanja o njih. Z vzgojo
+                                    in izobraževanjem za človekove pravice je zelo povezan predmet
+                                    oz. pouk zgodovine; v gimnazijah je ta predmet tisti, brez
+                                    katerega si ni mogoče zamisliti učinkovitega pouka človekovih
+                                    pravic. Učinkovito poučevanje o človekovih pravicah pa je vezano
+                                    na razpravo o tem, ali je koncept človekovih pravic novodobni
+                                    ali ima daljšo zgodovino. V prispevku zato želimo prikazati
+                                    pomen vzgoje in izobraževanja za človekove pravice, prikazati,
+                                    da ima koncept človekovih pravic daljšo zgodovino, ter
+                                    predstaviti različne definicije in razvoj koncepta do 18.
+                                    stoletja; oboje lahko služi kot napotilo za vključitev v pouk
+                                    zgodovine, zlasti v gimnazijah. </entity:description>
                <entity:page>239</entity:page>
             </METS:xmlData>
          </METS:mdWrap>

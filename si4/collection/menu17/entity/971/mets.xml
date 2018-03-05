@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/971">
+           OBJID="http://hdl.handle.net/11686/971"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2012-04-13T12:23:28"
                  LASTMODDATE="2017-02-14T14:27:50"
                  RECORDSTATUS="Active">
@@ -97,7 +99,37 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity"/>
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv">
+                  <p xmlns="http://www.w3.org/1999/xhtml">Znanstvena monografija V primežu medplemiških prerivanj sodi
+                                        v zvrst mikrozgodovinskih raziskav, katerih značilnost je,
+                                        da skušajo na podlagi čimbolj popolne dokumentacije in njene
+                                        precizne analize podati čimbolj podrobno in natančno podobo
+                                        določenega manjšega prostora; topogledno del Toneta
+                                        Ravnikarja prinaša številna nova spoznanja in ugotovitve
+                                        tako na ravni faktografskih dejstev kot tudi na nivoju
+                                        njihove interpretacije. Marsikatero vprašanje, ki se je
+                                        dolgo nerazrešeno vleklo po literaturi, je rešeno,
+                                        marsikatera trditev ali interpretacija je popravljena,
+                                        marsikatera oseba ali posest je na novo determinirana ali
+                                        lokalizirana, predvsem pa je delo uspelo pokazati na
+                                        odločilno vlogo, ki jo je imelo plemstvo pri zgodovinskem
+                                        razvoju Savinjske in Šaleške doline v obdobju od 11. do 14.
+                                        stoletja. Monografija je prva znanstveno utemeljena slika
+                                        kompleksnega političnega, upravnega, cerkvenega, posestnega
+                                        in gospodarskega razvoja Savinjske in Šaleške doline v
+                                        visokem in poznem srednjem veku. Z njo je bistveno obogateno
+                                        poznavanje srednjeveške zgodovine obravnavanega prostora kot
+                                        tudi poznavanje zgodovine posameznih plemiških rodbin, ki
+                                        niso bile pomembne samo na lokalnem nivoju ampak tudi v
+                                        širšem okviru. Z izdajateljskega stališča so posebnost
+                                        izdaje barvne reprodukcije izvirnih dokumentov (listin,
+                                        grafičnih upodobitev krajev ...), ki služijo kot neposredni
+                                        vir. </p>
+                  <p xmlns="http://www.w3.org/1999/xhtml"> Izdaja je primarno dostopna v <a href="http://www.pei.si/Sifranti/StaticPage.aspx?id=85" target="_blank">Digitalni knjižnici Pedagoškega
+                                            inštituta</a>.</p>
+               </entity:description>
+            </METS:xmlData>
          </METS:mdWrap>
       </METS:techMD>
    </METS:amdSec>

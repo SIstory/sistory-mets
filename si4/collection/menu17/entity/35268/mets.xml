@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/35268">
+           OBJID="http://hdl.handle.net/11686/35268"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2016-06-14T16:31:08"
                  LASTMODDATE="2017-02-13T11:43:41"
                  RECORDSTATUS="Active">
@@ -96,7 +98,25 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> V političnem in delno
+                                    tudi že v politološkem in zgodovinskem jeziku na Slovenskem se
+                                    je uveljavila sintagma o t. i. plebiscitarni enotnosti, ki je
+                                    vladala v deželi jeseni leta 1990, ko se je odločalo o tem, ali
+                                    naj Slovenija 23. decembra izvede plebiscit o odhodu iz
+                                    jugoslovanske federacije in se odloči za pot samostojne in
+                                    neodvisne države. Avtorica se v prispevku ukvarja z vprašanjem,
+                                    kako so se politični subjekti na Slovenskem odzvali na prvo
+                                    pobudo o plebiscitu, ki jo je oktobra 1990 predlagala
+                                    Socialistična stranka Slovenije (SSS), predvsem pa s tem, kako
+                                    je mesec kasneje nastala odločitev za plebiscit, ki jo je Demos
+                                    podprl v Poljčah in kako so se na to drugo pobudo, ki je
+                                    Slovence kasneje pripeljala do cilja - samostojne države -
+                                    odzvali v opozicijskih strankah in tudi znotraj Demosa. Sprašuje
+                                    se, ali je upravičeno govoriti o t.i. plebiscitarni enotnosti
+                                    političnih sil ali zgolj o plebiscitarni enotnosti slovenskega
+                                    naroda, ki je 23. decembra 1990 rezultirala v 88.5% podpori za
+                                    samostojno in neodvisno slovensko državo. </entity:description>
                <entity:page>95</entity:page>
             </METS:xmlData>
          </METS:mdWrap>

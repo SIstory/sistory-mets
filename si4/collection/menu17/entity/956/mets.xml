@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/956">
+           OBJID="http://hdl.handle.net/11686/956"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2011-11-02T20:39:17"
                  LASTMODDATE="2017-02-13T11:19:44"
                  RECORDSTATUS="Active">
@@ -76,7 +78,39 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity"/>
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv">
+                  <p xmlns="http://www.w3.org/1999/xhtml">Venezia Giulia, Julijska Benečija (Julijska krajina), je po
+                                        prvi vojni obsegala italijanske pokrajine - Tržaško,
+                                        Goriško, Puljsko (Istrsko) in Reško (Kvarnersko). Njeni
+                                        prebivalci so postali »giulialni« (v slovenščino težko
+                                        prevedljivi Julijci), kakor še danes Italijani označujejo
+                                        tamkajšnje prebivalstvo ne glede na narodnost. Med Slovenci
+                                        se ime Julijska krajina ni širše uveljavilo, razen med
+                                        letoma 1945 in 1947, ko je v skladu s sporazumom v Devinu
+                                        20. junija 1945 postalo uradno ime za sporno območje med
+                                        rapalsko in avstroogrsko-italijansko mejo iz leta 1915, in
+                                        danes, ko s tem imenom poimenujemo italijansko deželo
+                                        Furlanijo-Julijsko krajino. Slovenci dele slovenskega
+                                        ozemlja onstran rapalske meje imenujemo Primorska, Slovensko
+                                        primorje in Istra. Beneška Slovenija, Rezija in Kanalska
+                                        dolina niso bile del Julijske krajine, se pa včasih
+                                        pojmujejo kot del Primorske.</p>
+                  <p xmlns="http://www.w3.org/1999/xhtml"> Primorska, Julijska krajina, leži na stičišču štirih
+                                        narodov, slovenskega, hrvaškega, italijanskega in
+                                        avstrijskega, in hkrati treh velikih svetov - slovanskega,
+                                        germanskega in romanskega. Nikdar v zgodovini ni bila
+                                        samostojna državna enota, občasno je bila vključena v eno,
+                                        še večkrat pa razdrobljena med več držav. Posamezne države
+                                        so ji vtisnile svoj pečat in vplivale ne le na njen razvoj,
+                                        na razvoj tam živečih narodov, ampak tudi na razvoj
+                                        posameznih delov teh narodov. Različne države in režimi so
+                                        bili le redkokdaj strpni do tamkajšnjih različnosti,
+                                        največkrat so jih skušali nasilno izbrisati. Delitve so
+                                        občutili tako Avstrijci kot Italijani, še bolj pa Hrvati in
+                                        Slovenci.</p>
+               </entity:description>
+            </METS:xmlData>
          </METS:mdWrap>
       </METS:techMD>
    </METS:amdSec>

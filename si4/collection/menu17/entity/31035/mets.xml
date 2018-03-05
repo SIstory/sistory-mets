@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/31035">
+           OBJID="http://hdl.handle.net/11686/31035"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2015-06-02T11:35:08"
                  LASTMODDATE="2017-02-15T12:21:28"
                  RECORDSTATUS="Active">
@@ -85,7 +87,21 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Otroci in mladoletniki,
+                                    ki so storili kazniva dejanja, so imeli v zgodovini evropskih
+                                    prav vedno poseben položaj, kljub temu, da so bila načela glede
+                                    kazenske odgovornosti drugačna. Otroke in mladostnike so torej v
+                                    kazenskem pravu vedno obravnavali drugače kot odrasle storilce
+                                    kaznivih ravnanj. Menjavale pa so se starostne meje otrok
+                                    oziroma mladoletnikov, poimenovanja različnih starostnih skupin
+                                    in obravnava pred sodiščem. Vendarle pa pomeni začetek
+                                    dvajsetega stoletja močno prelomnico v kazenskem pravu –
+                                    nastanek mladoletniškega kazenskega prava in mladinskega
+                                    sodstva. Ljubljana je po zaslugi Frana Milčinskega na tem
+                                    področju odigrala pomembno vlogo. Od leta 1930 dalje slovenski
+                                    otroci do štirinajstega leta ne morejo biti več storilci
+                                    kaznivih dejanj. </entity:description>
                <entity:page>256</entity:page>
             </METS:xmlData>
          </METS:mdWrap>

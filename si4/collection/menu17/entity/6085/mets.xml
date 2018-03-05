@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/6085">
+           OBJID="http://hdl.handle.net/11686/6085"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2012-08-30T07:06:26"
                  LASTMODDATE="2017-02-13T12:40:12"
                  RECORDSTATUS="Active">
@@ -68,7 +70,29 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity"/>
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Etnološki topografski
+                                    pregled za območje občine Ravne je člen v vrsti podobnih študij
+                                    za različne dele slovenskega etničnega ozemlja. Slovenski
+                                    etnologi smo si namreč pred približno desetletjem naložili, da
+                                    bomo na takšen način preučili vse občine v Sloveniji in bolj ali
+                                    manj ustrezna območja v zamejstvu. Topografski pregledi naj bi
+                                    bili med drugim podlaga za bodočo sintezo z naslovom Način
+                                    življenja Slovencev v 20. stoletju. Danes moramo, žal,
+                                    ugotoviti, da te obsežne naloge nikakor ne bomo mogli opraviti v
+                                    celoti. Pred objavo pričujoče raziskave so izšli topografski
+                                    pregledi za občine Cerknica, Črnomelj, Domžale, Gornja Radgona,
+                                    Kočevje, Lendava, Ljubljana Bežigrad, Ljutomer, Murska Sobota,
+                                    Sevnica, Škofja Loka, Šmarje pri Jelšah in za zamejski območji
+                                    Rož in Slovensko Porabje. Topografija Raven Karle Oder za občino
+                                    Ravne je tako petnajsta. Nekaj obravnav je še v pripravi za
+                                    natis. S tem bo opravljena približno četrtina naloge. Razlogi za
+                                    predčasen zaključek dela so tako objektivni kot subjektivni,
+                                    vsekakor pa se zaradi dolgotrajnosti načrta zmanjšuje možnost
+                                    vsebinske primerjave med posamičnimi območji, kar je bil na
+                                    začetku naš poseben namen in cilj. Vsi zvezki so namreč
+                                    strukturirani po enotnem na rtu. </entity:description>
+            </METS:xmlData>
          </METS:mdWrap>
       </METS:techMD>
    </METS:amdSec>

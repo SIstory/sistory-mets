@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/26780">
+           OBJID="http://hdl.handle.net/11686/26780"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2014-04-15T15:45:37"
                  LASTMODDATE="2017-02-14T14:10:56"
                  RECORDSTATUS="Active">
@@ -93,7 +95,24 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Volitve v habsburški
+                                    monarhiji so tudi za današnjega zgodovinarja zanimiv in po svoje
+                                    težek problem. Spreminjali so se politični sistemi, spreminjala
+                                    se je vladna politika, spreminjala so se razmerja med
+                                    narodi.Czoemigova anketa je leta 1846 prištevala na Kranjskem k
+                                    slovenskemu jeziku 88% prebivalcev, k nemškemu pa 8%, na
+                                    Štajerskem k nemškemu jeziku 64%, k sloven­skemu 36%, na
+                                    Koroškem k nemškemu jeziku 70%, k slovenskemu 30%. V Trstu naj
+                                    bi spadalo po anketi 55% prebivalcev k italijanščini, 32% k
+                                    slovenščini, 10% k nemščini. Na Goriškem je spadalo k
+                                    slovenščini 67% prebivalcev, k italijanščini 32%. V Istri je
+                                    bilo pri slovenščini 14% prebivalcev, pri srbohrvaščini 59%, pri
+                                    italijanščini 26%. Pri zadnjem avstrijskem štetju 31. decembra
+                                    1910 je bilo med prisotnimi avstrijskimi državljani po
+                                    občevalnem jeziku na Kranjskem 94% Slovencev, na Štajerskem 29%,
+                                    na Koroškem 21%, v Trstu 30%, na Goriškem 62%, v Istri 14%.
+                                </entity:description>
                <entity:page>324</entity:page>
             </METS:xmlData>
          </METS:mdWrap>

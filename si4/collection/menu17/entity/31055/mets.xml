@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/31055">
+           OBJID="http://hdl.handle.net/11686/31055"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2015-06-03T12:03:25"
                  LASTMODDATE="2017-02-15T12:12:05"
                  RECORDSTATUS="Active">
@@ -89,7 +91,18 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Industrijska doba je
+                                    prinesla številne novosti in spremembe. Med njimi so bile tudi
+                                    negativne, kakor pojav bolezni, ki so se širile po večjih
+                                    industrijskih mestnih središčih. Nekatere, kakor tuberkuloza,
+                                    skrofuloza in rahitis, so bile pogosto prisotne pri otrocih.
+                                    Medicina je iskala primerne in učinkovite metode zdravljenja, ki
+                                    jih je našla v morski vodi in zraku. Zdravniki so, v iskanju
+                                    obmorskih lokacij, obiskovali morske kraje v želji, da bi tam
+                                    lahko vzpostavili otroška zavetišča in okrevališča. Prispevek
+                                    analizira nekatere primere in značilnosti otroških okrevališč
+                                    Avstrijskega primorja. </entity:description>
                <entity:page>491</entity:page>
             </METS:xmlData>
          </METS:mdWrap>

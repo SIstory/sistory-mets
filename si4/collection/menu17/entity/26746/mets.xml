@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/26746">
+           OBJID="http://hdl.handle.net/11686/26746"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2014-04-14T17:51:51"
                  LASTMODDATE="2017-02-15T11:46:27"
                  RECORDSTATUS="Active">
@@ -67,7 +69,22 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> V prispevku se bomo
+                                    ukvarjali s podobo prve svetovne vojne v pomembnejši slovenski
+                                    poeziji, prozi in dramatiki med letoma 1914 in 1941, dnevniških
+                                    zapisov in spominov pa ne bomo obravnavali. Uvodoma velja
+                                    poudariti, da se prva takšna raziskava pojavi že dve leti po
+                                    koncu vojne (Pregelj 1920), nato pa tovrstne študije zamrejo vse
+                                    do konca osemdesetih, ko Stanko Janež objavi pregled odmevov
+                                    vojne v književnosti. Lado Kralj (1997) je za salzburški
+                                    simpozij o moderni vojni na odru preučil podobnosti med
+                                    slovensko in nemško ekspresionistično dramatiko z motivi prve
+                                    svetovne vojne, Alenka Koron pa je za moskovsko konferenco o
+                                    prvi svetovni vojni v književnosti in kulturi zahodnih in južnih
+                                    Slovanov leta 2003 pripravila prispevek o vojni prozi Milana
+                                    Puglja. Ivan Vogrič (2001) pa je orisal ideološko ozadje
+                                    pisateljev tega časa. </entity:description>
                <entity:page>97</entity:page>
             </METS:xmlData>
          </METS:mdWrap>

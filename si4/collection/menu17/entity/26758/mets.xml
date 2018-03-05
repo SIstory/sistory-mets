@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/26758">
+           OBJID="http://hdl.handle.net/11686/26758"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2014-04-15T12:56:31"
                  LASTMODDATE="2017-02-14T14:17:59"
                  RECORDSTATUS="Active">
@@ -89,7 +91,40 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> V enem prvih intervjujev
+                                    novega šolskega ministra Milana Zvera smo konec februarja 2005
+                                    lahko prebrali, da spada med "elemente slovenske zgodovine, ki
+                                    so neupravičeno prezrti" in ki bi jih "dijaki pri maturi morali
+                                    poznati" tudi "pomen karantanske prisege za razvoj zahodnih
+                                    demokracij", o kateri "nam je govoril celo ameriški predsednik
+                                    Clinton, ko nas je obiskal". Minister je s karantansko prisego
+                                    očitno imel v mislih ustoličevanje karantanskih knezov oz.
+                                    koroških vojvod, ki je z Jean Bodinom (1530-1596) in njegovim
+                                    delom O republiki (Les six livres de la Republique, 1576) prišlo
+                                    v t.i. pogodbeno (kontraktualno) teorijo o nastanku države in je
+                                    služilo kot primer pogodbenega prenosa suverenosti z ljudstva na
+                                    monarha. Pasus o ustoličevanju je v tem Bodenovem klasičnem delu
+                                    ponovno postal aktualen konec šestdesetih let prejšnjega
+                                    stoletja, ko je slovenski Američan Joseph (Josip) Felicijan, ki
+                                    je v Ljubljani doštudiral zgodovino in 1945 emigriral v tujino,
+                                    odkril, da si je ameriški predsednik Thomas Jefferson
+                                    (1743-1826) v svojem izvodu Bodenove knjige (v izdaji iz 1580)
+                                    med drugim označil tudi stran (str. 129), kjer je govora o
+                                    ustoličevanju koroških vojvod. Na tej podlagi je Felicijan
+                                    izpeljeval misel, da je med vire za znamenito ameriško
+                                    Deklaracijo o neodvisnosti (Declaration of Independence) iz
+                                    1776, v katere prvem delu je Jefferson izpostavil enakost med
+                                    ljudmi in neodtujljivost njihovih temeljnih pravic, šteti tudi
+                                    koroško ustoličevanje. Med duhovne temelje ameriške - in s tem
+                                    posledično tudi svetovne - demokracije naj bi tako sodilo tudi
+                                    ustoličevanje in to naj bi bil slovenski prispevek razvoju
+                                    zahodnih demokracij, o katerem je minister govoril v svojem
+                                    intervjuju. Ministru, katerega intervju je bil uporabljen zgolj
+                                    kot eden zadnjih primerov za ilustracijo problema o katerem bo
+                                    tekla beseda v nadaljevanju, na tej točki ni kaj očitati, saj je
+                                    le povzel predstavo, ki prevladuje v delu javnosti in je tudi
+                                    del zgodovinske samopodobe Slovencev. </entity:description>
                <entity:page>36</entity:page>
             </METS:xmlData>
          </METS:mdWrap>

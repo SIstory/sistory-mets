@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/31062">
+           OBJID="http://hdl.handle.net/11686/31062"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2015-06-03T12:27:07"
                  LASTMODDATE="2017-02-15T12:04:08"
                  RECORDSTATUS="Active">
@@ -89,7 +91,18 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Od šestih milijonov
+                                    Judov, umorjenih med holokavstom, je bilo okoli milijon in pol
+                                    otrok. Število preživelih otrok je ocenjeno na le nekaj tisoč.
+                                    Judovski otroci so prihajali iz različnih okolij in holokavst je
+                                    nasilno končal njihovo otroštvo. Med njimi so bili tudi otroci
+                                    slovenskih Judov, še zlasti iz Prekmurja, ki so po množičnih
+                                    deportacijah aprila 1944 večinoma končali mlada življenja v
+                                    taborišču smrti – Auschwitzu. Možnosti za preživetja otrok so
+                                    bile majhne, čeprav so se mnogi skrivali, da bi preživeli. Po
+                                    vojni so poskušali preživeli Judi zaživeti na novo. Med njimi je
+                                    bilo tudi na tisoče sirot. </entity:description>
                <entity:page>588</entity:page>
             </METS:xmlData>
          </METS:mdWrap>

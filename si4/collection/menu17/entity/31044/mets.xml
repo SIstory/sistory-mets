@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/31044">
+           OBJID="http://hdl.handle.net/11686/31044"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2015-06-02T12:10:40"
                  LASTMODDATE="2017-02-15T12:16:30"
                  RECORDSTATUS="Active">
@@ -83,7 +85,14 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Prispevek tematizira
+                                    odnos zakoncev Marije in Henrika Tuma do svojih otrok med letoma
+                                    1894 in 1915, ko sta si ustvarjala dom in družino na Goriškem.
+                                    Na podlagi njune zasebne korespondence in nabora literature iz
+                                    knjižnice dr. Henrika Tume, ki je služil kot teoretična predloga
+                                    pedagoškemu pristopu zakoncev, besedilo analizira presek teorije
+                                    in prakse v odnosu staršev do svojih otrok. </entity:description>
                <entity:page>358</entity:page>
             </METS:xmlData>
          </METS:mdWrap>

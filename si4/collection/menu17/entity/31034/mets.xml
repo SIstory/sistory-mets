@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/31034">
+           OBJID="http://hdl.handle.net/11686/31034"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2015-06-02T11:30:58"
                  LASTMODDATE="2017-02-15T12:21:47"
                  RECORDSTATUS="Active">
@@ -87,7 +89,21 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Zapisovalec elaborata
+                                    franciscejskega katastra je o možeh v Goriških brdih zapisal, da
+                                    so »podvrženi neverjetnim naporom, kar je vzrok njihovemu
+                                    dolgemu otroštvu ter kratki življenjski dobi in večina odraslih
+                                    (moških) ima kilo in upognjen hrbet«. Družba se je zaradi
+                                    pogoste smrti enega od zakoncev srečevala s kopico mladoletnih
+                                    otrok brez enega roditelja. Zanje je bil na sodišču vedno
+                                    določen skrbnik. Pravno gledano je skrbnik za siroto upravljal
+                                    dediščino, jo preživljal in vzgajal, zato mu je pripadal del
+                                    dohodka varovančevega premoženja. Za skrbnike mladoletnih z
+                                    znatno dediščino je ta zadolžitev pomenila finančne ugodnosti.
+                                    Skrb za otroke iz ubožnih družin zakupnikov pa je bila povezana
+                                    z reševanjem socialnih vprašanj v okviru sorodstvene oziroma
+                                    vaške strukture. </entity:description>
                <entity:page>243</entity:page>
             </METS:xmlData>
          </METS:mdWrap>

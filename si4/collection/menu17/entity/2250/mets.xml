@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/2250">
+           OBJID="http://hdl.handle.net/11686/2250"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2012-10-03T14:52:44"
                  LASTMODDATE="2017-02-10T10:57:53"
                  RECORDSTATUS="Active">
@@ -77,7 +79,22 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity"/>
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> The geographic position
+                                    of present-day Slovenia, squeezed between the Alps and the
+                                    Adriatic Sea, has exposed this territory to the tides of
+                                    history. It has always been a place of transition, a borderland
+                                    and a crossroads, but also a bridge between different cultures,
+                                    people, nations and states. Although small in size – the modern
+                                    Slovene state measures just 20,000 km2 - four major European
+                                    geographical regions meet in its territory: the Alps, which
+                                    cover the north-west, the Pannonian Plain, also known as the
+                                    Great Hungarian Plain, to the east, the Dinaric Alps, known also
+                                    by the ancient toponym of the Karst (Kras), which covers the
+                                    southern part of Slovene territory, and the Mediterranean,
+                                    which, as the Adriatic, makes its most northerly encroachment
+                                    into continental central Europe in the Gulf of Trieste. </entity:description>
+            </METS:xmlData>
          </METS:mdWrap>
       </METS:techMD>
    </METS:amdSec>

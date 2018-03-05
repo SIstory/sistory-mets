@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/9601">
+           OBJID="http://hdl.handle.net/11686/9601"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2012-08-01T11:21:11"
                  LASTMODDATE="2017-02-13T11:18:59"
                  RECORDSTATUS="Active">
@@ -94,7 +96,27 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity"/>
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv">
+                  <p xmlns="http://www.w3.org/1999/xhtml">Po objavi Knjige hiš v Škofji Loki I., Zgodovinski arhiv
+                                        Ljubljana, Gradivo in razprave št. 4, Škofja Loka 1981, ki
+                                        obsega loška predmestja, in Knjige hiš v Škofji Loki II.,
+                                        Zgodovinski arhiv Ljubljana, Gradivo in razprave št. 7,
+                                        Škofja Loka 1984, kjer je obdelano mesto Loka, sem se
+                                        odločil še za podobno obdelavo naselja Stara Loka. Kraju
+                                        prav gotovo ne smemo reči vas. Stara Loka ni pravo mesto,
+                                        predmestje ali trg. Zato je bil pri tem delu potreben
+                                        nekoliko drugačen pristop kot pri mestnih in predmestnih
+                                        hišah. Za loško gospostvo in mesto Škofjo Loko obstoji
+                                        bogata literatura. Omenim naj le prispevke dr. Pavleta
+                                        Blaznika, ki se navezujejo tudi na okolico mesta. Prav
+                                        gotovo so pri Stari Loki uporabne vse njegove ugotovitve,
+                                        saj je zgodovina Loke navezana na zgodovino Stare Loke. V
+                                        Stari Loki je bil sedež loške župnije in to kar do začetka
+                                        19. stoletja. Naselja ne smemo enačiti z navadno kmečko
+                                        vasjo. Stara Loka je bila farno središče tudi za mesto.</p>
+               </entity:description>
+            </METS:xmlData>
          </METS:mdWrap>
       </METS:techMD>
    </METS:amdSec>

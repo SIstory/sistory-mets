@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/31474">
+           OBJID="http://hdl.handle.net/11686/31474"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2015-10-05T16:12:13"
                  LASTMODDATE="2015-10-05T16:15:56"
                  RECORDSTATUS="Active">
@@ -75,7 +77,15 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv">
+                  <pre xmlns="http://www.w3.org/1999/xhtml">Beseda turizem v prvotnem pomenu označuje vsakovrstno popotovanje. Do množičnega
+individualnega avtomobilizma sredi 20. stoletja so zato pod to besedo razumeli
+predvsem pohodniško potovanje. Najpogostejši cilj peš izletov in potovanj pa so bili in
+so še vedno ravno hribi, poti na razgledne točke. Tako je slovenščina v sedemdesetih
+letih 19. stoletja poleg besede popotnik uporabljala še besedo turist, uporabniki pa sojo
+pojasnjevali s pomenom “gorohodec” ali “hribohodec” kot posebna vrsta popotnika.</pre>
+               </entity:description>
                <entity:page>140</entity:page>
             </METS:xmlData>
          </METS:mdWrap>

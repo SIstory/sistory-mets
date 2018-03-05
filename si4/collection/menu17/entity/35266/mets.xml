@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/35266">
+           OBJID="http://hdl.handle.net/11686/35266"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2016-06-14T15:53:20"
                  LASTMODDATE="2017-02-13T11:47:20"
                  RECORDSTATUS="Active">
@@ -96,7 +98,18 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> V celotnem obdobju
+                                    obstoja druge Jugoslavije je prevladovalo prepričanje o
+                                    medsebojnem izkoriščanju enih republik (ali področij) na račun
+                                    drugih. Ker v zvezi s tem problemom niso bili napravljeni nobeni
+                                    izračuni ali analize, ki bi takšno prepričanje potrdili ali
+                                    zavrgli, je takšno stanje vplivalo na povečevanje notranjih
+                                    napetosti in nezadovoljstva med njimi. Šele v letu 1996 in
+                                    kasneje, so nastale študije, ki so na osnovi kompleksnejših
+                                    podatkov in analiz objektivneje prikazale in osvetlile razmere,
+                                    ter s tem tudi porodile dvome v opravičenost medsebojnih obtožb.
+                                </entity:description>
                <entity:page>73</entity:page>
             </METS:xmlData>
          </METS:mdWrap>

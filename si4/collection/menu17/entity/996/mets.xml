@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/996">
+           OBJID="http://hdl.handle.net/11686/996"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2011-11-02T20:30:41"
                  LASTMODDATE="2017-02-15T11:50:17"
                  RECORDSTATUS="Active">
@@ -91,7 +93,21 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity"/>
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv">
+                  <p xmlns="http://www.w3.org/1999/xhtml">Ta knjiga je prvo delo avtorice na področju raziskovanja
+                                        zgodovine po osvoboditvi v Sloveniji. Nastala je kot
+                                        magistrska naloga na Inštitutu za zgodovino delavskega
+                                        gibanja v Ljubljani, v okviru raziskovalnega načrta
+                                        »Zgodovina Slovencev 1945--1976«. Že na začetku je treba
+                                        poudariti, da je bil namen raziskave zgodovinsko prikazati
+                                        čas od konca vojne do leta 1953, ne da bi se spuščali v
+                                        prikaz zgodovine ideje o samoupravljanju ali v teoretično
+                                        analizo samoupravljanja, saj je to bilo že večkrat storjeno.
+                                        Vsaj uvodoma pa je treba opredeliti ta pojem za
+                                        jugoslovansko zgodovino.</p>
+               </entity:description>
+            </METS:xmlData>
          </METS:mdWrap>
       </METS:techMD>
    </METS:amdSec>

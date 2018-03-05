@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/35124">
+           OBJID="http://hdl.handle.net/11686/35124"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2016-02-23T08:00:39"
                  LASTMODDATE="2017-02-10T12:03:17"
                  RECORDSTATUS="Active">
@@ -76,7 +78,23 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity"/>
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Alojz Laščak
+                                    (Alois-Luigi Lasciac), avstrijski državni uradnik (Gorica, 19.
+                                    julij 1858 – Trst, 21. december 1939). Diplomiral pravo na
+                                    Dunaju. Državno kariero je pričel leta 1881 v različnih okrožnih
+                                    kapetanatih v tedanjem Avstrijskem Primorju. Opravljal je
+                                    funkcijo kapetana v Poreču (1896-1902). Bil je svetnik (1905) in
+                                    podpredsednik (1917) tržaškega namestništva. Med prvo svetovno
+                                    vojno je bil na čelu odbora za pomoč beguncem z juga
+                                    (Hilfskomitee für die Flüchtlinge aus dem Süden) na Dunaju. 3.
+                                    aprila 1916 je bil imenovan za predsednika novoosnovanega
+                                    deželnega upravnega odbora mejne grofije Istre
+                                    (Landesverwaltungskommission der Markgrafschaft Istrien). Bil je
+                                    brat bolj poznanega arhitekta Antona Laščaka, ki je deloval v
+                                    Egiptu, znan pa je tudi po svoji neoosmanski vili na Rafutu v
+                                    okolici Nove Gorice. </entity:description>
+            </METS:xmlData>
          </METS:mdWrap>
       </METS:techMD>
    </METS:amdSec>

@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/26735">
+           OBJID="http://hdl.handle.net/11686/26735"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2014-04-13T07:53:39"
                  LASTMODDATE="2017-02-10T11:41:15"
                  RECORDSTATUS="Active">
@@ -92,7 +94,44 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity"/>
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Medtem ko za
+                                    problematiko nacionalnih odnosov v monarhiji na splošno in tudi
+                                    za njene posamezne dele (npr. Češko) obstaja bogata literatura,
+                                    pa so ti problemi za slovensko ozemlje precej fragmentarno
+                                    obdelani. Čeprav je v slovenskem zgodovinopisju o Nemcih na
+                                    Slovenskem sorazmerno veliko napisanega, imamo le malo del, ki
+                                    bi nam zaokroženo predstavljala navedeno problematiko. Na drugi
+                                    strani obstaja tudi precejšnje število nemških publikacij, ki so
+                                    množično izhajale zlasti po I. svetovni vojni, vendar so v
+                                    glavnem pisane z nemškonacionalnih vidikov in usmerjene v
+                                    dokazovanje krivic, ki so jih nemškemu narodu naprtila določila
+                                    mirovnih pogodb. Med številnimi publikacijami te vrste naj
+                                    omenimo le razprave G. W rnerja, A. Luschina in H. Pircheggerja.
+                                    Vsi navedeni avtorji so se ukvarjali predvsem s problematiko
+                                    nacionalnega značaja mest na Spodnjem Štajerskem in dokazovali
+                                    njihov nemški karakter od srednjega veka dalje, pri čemer so se
+                                    za drugo polovico 19. stoletja nekritično naslanjali na
+                                    rezultate ljudskih štetij po občevalnem jeziku. Ob navedenih
+                                    delih pa se pokaže, da v ničemer ne presegajo stališč, ki jih
+                                    zasledimo v nemški nacionalistični žurnalistiki od osemdesetih
+                                    let prejšnjega stoletja dalje. Celjska Deutsche Wacht vseskozi
+                                    poudarja, da je Celje starodavno nemško mesto (Cilli ist eine
+                                    urdeutsche Stadt), ki so ga utemeljili nemški kolonisti na
+                                    ruševinah rimske Celeie in ki je vse do konca sedemdesetih let,
+                                    ko se ob podpori vlade začne načrtna slovenizacija, obvarovalo
+                                    svoj nemški karakter. Celjski nemški list meni, da je nemško
+                                    prebivalstvo dolžno braniti starodavno nemško posestno stanje
+                                    (Besitzstand), saj ne gre brez boja izgubljati pozicij (Grund
+                                    und Boden), ki so jih priborili predniki. Pri tem pa je
+                                    zanimivo, da se nem ka stran ne zaveda globokih gospodarskih in
+                                    socialnih sprememb, ki pogojujejo prebujanje »nezgodovinskih
+                                    narodov« in vidi v krepitvi slovenske narodne zavesti in
+                                    »nastajanju« slovenskega naroda proces, ki je indentičen s
+                                    slovenizacijo nemškega prebivalstva, zraven pa poudarja, da je
+                                    ta proces načrten in dobro organiziran in da v vseh podrobnostih
+                                    sledi dogajanjem na Češkem. </entity:description>
+            </METS:xmlData>
          </METS:mdWrap>
       </METS:techMD>
    </METS:amdSec>

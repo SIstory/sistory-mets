@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/26775">
+           OBJID="http://hdl.handle.net/11686/26775"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2014-04-15T15:20:42"
                  LASTMODDATE="2017-02-14T14:13:00"
                  RECORDSTATUS="Active">
@@ -92,7 +94,25 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Dvajseto stoletje je v
+                                    slovenski zgodovini prelomno zaradi več dogodkov. Med
+                                    najpomembnejše dogodke minulega stoletja moramo uvrstiti
+                                    razglasitev samostojne države leta 1991. Delo, ki je pripeljalo
+                                    do razglasitve neodvisnosti, je opravila vlada, ki je bila
+                                    izvoljena po prvih demokratičnih, večstrankarskih volitvah po
+                                    letu 1945. Te volitve so bile aprila 1990. Vlada, ki so jo
+                                    sestavili zmagovalci na omenjenih volitvah, je po nekaterih
+                                    značilnostih in delu zagotovo prva. Vendar ne smemo spregledati
+                                    dejstva, da z imenom prva slovenska vlada, povezujemo še dve
+                                    vladi. Ce upoštevamo kronološko zaporedje, naj najprej omenim
+                                    Narodno vlado SHS (NVL) iz oktobra 1918 in nato še vlado v
+                                    Ajdovščini iz maja leta 1945. Kadar govorimo o prvi slovenski
+                                    vladi in ne omenjamo meril, potem velja, da je prva seveda tista
+                                    iz oktobra 1918. Naše tri prve vlade so se med seboj zelo
+                                    razlikovale. V nadaljevanju bom opozoril na nekatere značilnosti
+                                    in razlike med njimi ter nekaj prostora namenil tudi kriterijem
+                                    prvi(a) pri vsaki od vlad. </entity:description>
                <entity:page>270</entity:page>
             </METS:xmlData>
          </METS:mdWrap>

@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/31000">
+           OBJID="http://hdl.handle.net/11686/31000"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2015-05-14T11:02:41"
                  LASTMODDATE="2017-02-15T09:28:15"
                  RECORDSTATUS="Active">
@@ -94,7 +96,24 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Članek obravnava
+                                    izobraževanje in razvoj šolstva v srednjem veku na Slovenskem.
+                                    Oboje se je kar v največji meri razlikovalo od modernega stanja.
+                                    Pismenih je bilo le nekaj procentov prebivalstva in ti so tudi
+                                    bili povezani s šolstvom, ki pa sistemsko ni bilo regulirano,
+                                    »država« zanj ni skrbela. Tudi učnih načrtov in »katalogov
+                                    znanja« ni bilo. Šolanje je bilo namenjeno predvsem vzgoji
+                                    lastnega naraščaja znotraj posameznih institucij in skupnosti in
+                                    tem potrebam je bil prilagojen tudi pouk. Za slovenski prostor v
+                                    srednjem veku je značilno, da so prve šole v njem izpričane šele
+                                    od konca 12. stol. naprej in da je bilo na njih možno
+                                    absolvirati le osnovna znanja in doseči precej skromno
+                                    izobrazbo. Kdor je hotel več - poslušati predavanja iz septem
+                                    artes liberales, prava, medicine ali teologije - je moral iti na
+                                    študij v tujino, kjer je od poznega srednjega veka naprej
+                                    študiralo kar precejšnje število študentov s slovenskega
+                                    ozemlja. </entity:description>
                <entity:page>369</entity:page>
             </METS:xmlData>
          </METS:mdWrap>

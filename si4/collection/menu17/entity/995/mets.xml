@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/995">
+           OBJID="http://hdl.handle.net/11686/995"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2011-11-02T20:31:45"
                  LASTMODDATE="2017-02-14T09:28:14"
                  RECORDSTATUS="Active">
@@ -93,7 +95,30 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity"/>
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv">
+                  <p xmlns="http://www.w3.org/1999/xhtml"> Prikaz značilnosti razvoja in delovanja strokovnih -
+                                        sindikalnih - organizacij na Slovenskem od začetkov do NOB
+                                        ter oris problematike virov in literature je glede vsebine
+                                        in opozoril na stanje proučen osti izhodišče za nadaljnje
+                                        kolektivno delo za sintetični oris sindikalnega gibanja na
+                                        Slovenskem, ki ga bo treba, vsaj v pregledni obliki,
+                                        napisati tudi za čas po ustanovitvi Enotnih sindikatov leta
+                                        1945. Vsebuje tudi poskus periodizacije od leta 1868 do
+                                        1941, napisana pa je zaradi neobdelanosti nekaterih smeri
+                                        sindikalnega gibanja oziroma posameznih procesov v njegovem
+                                        razvoju v precejšnji meri na proučevanju zlasti glasil
+                                        strokovnih organizacij in arhivskih virov. Nadaljnje
+                                        razprave so razporejene po kronološkem zaporedju in
+                                        vsebujejo podrobnejše osvetlitve posameznih razvojnih in
+                                        akcijskih značilnosti strokovnih organizacij v vseh časovnih
+                                        obdobjih od začetkov do NOB, največ iz razrednega in
+                                        krščanskosocialističnega sindikalnega gibanja, ki sta bila
+                                        tudi po pomembnosti njegovo jedro. Sklepni prispevek naj bi
+                                        bil predvsem spodbuda za načrtnejše proučevanje strokovnega
+                                        gibanja v posameznih delovnih organizacijah. </p>
+               </entity:description>
+            </METS:xmlData>
          </METS:mdWrap>
       </METS:techMD>
    </METS:amdSec>

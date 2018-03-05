@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/8936">
+           OBJID="http://hdl.handle.net/11686/8936"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2012-08-30T07:25:44"
                  LASTMODDATE="2017-02-14T13:01:43"
                  RECORDSTATUS="Active">
@@ -70,7 +72,30 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity"/>
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Zgodovinski arhiv
+                                    Ljubljana s pričujočim projektom nadaljuje svoj triletni ciklus
+                                    razstav s katalogi. Temeljijo na strokovnem delu, raziskavah
+                                    arhivskega gradiva, ki ga hranimo, to je gradbenih načrtih,
+                                    urbanističnih in regulacijskih pianih, fotografijah in
+                                    razglednicah, grafikah in vedutah, knjigi hiš, listinah,
+                                    rokopisnih in računskih knjigah in seznamih ter na dognanj ih
+                                    humanističnih ved. Vsebina in kontekst razstave in kataloga s
+                                    poudarkom na reprodukcijah arhivskega gradiva in znanstvenim
+                                    aparatom odsevata, združujeta in zaokrožujeta urbanistični,
+                                    umetnostnozgodovinski, zgodovinski pregled in oris dogajanja na
+                                    določenem prostoru v preteklosti. Razstavljeni in v katalogu
+                                    reproducirani so starejši in mlajši arhivski dokumenti, ki jih
+                                    hrani naš arhiv. Širši javnosti jih še nismo imeli priložnosti
+                                    predstaviti in to je tudi naš temeljni cilj. Razstava in katalog
+                                    predstavljata nadaljevanje umetnostno - zgodovinskih in
+                                    zgodovinskih orisov določenih urbanih karejev, treh posebno
+                                    pomembnih mestnih trgov pod Ljubljanskim gradom, ki medsebojno
+                                    povezani zaokrožujejo prostor od Tranče s Čevljarskim mostom,
+                                    Gallusovega nabrežja z Ljubljanico do Šentjakobskega mostu in se
+                                    s spodnjim delom Karlovške ceste, ki je razbila Rožno ulico,
+                                    zaključuje pri predoru pod Gradom. </entity:description>
+            </METS:xmlData>
          </METS:mdWrap>
       </METS:techMD>
    </METS:amdSec>

@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/26741">
+           OBJID="http://hdl.handle.net/11686/26741"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2014-04-14T17:24:59"
                  LASTMODDATE="2017-02-15T11:47:40"
                  RECORDSTATUS="Active">
@@ -69,7 +71,21 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Velika vojna se je leta
+                                    1914 začela kot eden od mnogih spopadov za gospostvo nad Evropo.
+                                    Operativno koordinirana globalnost, ki jo je že na prvi pogled
+                                    razlikovala od številnih poprejšnjih merjenj moči med
+                                    koalicijskimi povezavami kontinentalnega obsega in pomena, ni
+                                    izvirala iz strateških zamisli in naj daljnosežnejših ciljev
+                                    vanjo zapletenih sil, ampak je bila rezultat dolgotrajnih
+                                    zgodovinskih procesov v epohi meščanov. Kljub temu da so veliki
+                                    vojaški obračun možje v vladnih kabinetih in generalštabnih
+                                    pisarnah vztrajno načrtovali ter se nanj vneto pripravljali, si
+                                    ga je komaj kdo predstavljal kolikor toliko realistično.
+                                    Vsakoletni manevri, ki so jih prirejale vse pomembnejše armade,
+                                    so se kaj hitro izkazali za smešno nedolžne igrice nasproti
+                                    strahotam na pravih poljanah smrti in slave. </entity:description>
                <entity:page>36</entity:page>
             </METS:xmlData>
          </METS:mdWrap>

@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/9600">
+           OBJID="http://hdl.handle.net/11686/9600"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2012-08-01T11:21:34"
                  LASTMODDATE="2017-02-13T11:16:06"
                  RECORDSTATUS="Active">
@@ -93,7 +95,38 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity"/>
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv">
+                  <p xmlns="http://www.w3.org/1999/xhtml">Drugi del Knjige hiš v Škofji Loki se nanaša na mesto in je
+                                        nadaljevanje prve knjige. Bralce vabim, da se tam seznanijo
+                                        z uvodnimi pojasnili. Hkrati pa je drugi del tudi sklenjena
+                                        celota v mejah starega obzidanega mestnega jedra. Že v prvem
+                                        delu sem pojasnil, da sem pisanje o mestnem delu odložil
+                                        zato, da bi se delu bolje privadil. Prijetno sem bil
+                                        presenečen, ko so me po izidu prvega dela nekateri bralci
+                                        obiskali ali mi telefonirali, mi dali ali poslali pripombe,
+                                        pojasnila, itd. Škoda je, da se nisem mogel pogovoriti z
+                                        velikim krogom zavzetih bralcev. Če dodam še ocene in
+                                        kritike v tisku, naj odgovorim takole. Kot umetnostnemu
+                                        zgodovinarju so mi očitali, da sem premalo spregovoril o
+                                        stavbnih in stilnih elementih. Ta naloga je bila opravljena
+                                        s številnimi ekipami in priznanimi strokovnjaki v okviru
+                                        Odbora za prenovo starih mestnih in vaških jeder v občini
+                                        Škofja Loka. V to knjigo sem uvrstil kratke stilne oznake
+                                        hiš iz teksta odloka o razglasitvi starega mestnega jedra
+                                        Škofje Loke za kulturni in zgodovinski spomenik.</p>
+                  <p xmlns="http://www.w3.org/1999/xhtml"> Nekateri občani so mi očitali, da nisem bil dovolj natančen
+                                        pri lastništvu. Naj ponovim, kar sem že zapisal v prvem
+                                        delu, da ta knjiga ne pomeni uradne evidence. Uradna
+                                        evidenca je zemljiška knjiga pri loškem sodišču, v kateri je
+                                        zapisano tudi samo toliko, kolikor imajo stranke svoje
+                                        premoženjsko pravne zadeve urejene. Kjer gre za delne
+                                        lastnike, številčno nisem navajal dosledno deležev, le
+                                        lastnike. Rodbinske zveze sem prikazal tam, kjer so bile iz
+                                        virov očitne. Posebej jih nisem ugotavljal. Tudi poklice sem
+                                        upošteval takšne, kot so bili zapisani …</p>
+               </entity:description>
+            </METS:xmlData>
          </METS:mdWrap>
       </METS:techMD>
    </METS:amdSec>

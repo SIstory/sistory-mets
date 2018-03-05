@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/3038">
+           OBJID="http://hdl.handle.net/11686/3038"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2011-11-23T18:11:34"
                  LASTMODDATE="2017-02-13T12:16:33"
                  RECORDSTATUS="Active">
@@ -96,7 +98,29 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity"/>
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Ta knjiga je del širše
+                                    zasnovane tematske naloge, zamišljene kot poskus vsestranske
+                                    zgodovinopisne obdelave, položaja, razvoja in vloge Slovencev v
+                                    jugoslovanski državi v obdobju 1918-1929. Nastala je z
+                                    razširitvijo vsebinskih osnov in ob uporabi bolj zapletenega
+                                    metodološkega pristopa pri uresničevanju prvotnega
+                                    raziskovalnega koncepta, katerega namen je bil, da bi za obdobje
+                                    parlamentarizma v Kraljevini Srbov, Hrvatov in Slovencev do
+                                    uvedbe šestojanuarske diktature leta 1929 preučili odnose in
+                                    stike slovenskih političnih strank z drugimi strankami, tokovi
+                                    in skupinami v jugoslovanskem političnem življenju tistega časa.
+                                    Med raziskovanjem se je izkazalo, da je bila taksna začetna
+                                    tematska naloga ozka in neracionalna, ker ni mogla ustrezno
+                                    odgovoriti na številna bistvena vprašanja o položaju in razvoju,
+                                    ciljih in interesih slovenskega naroda v skupni jugoslovanski
+                                    državi. Prav to je bil razlog, da se je zastavljeno raziskovalno
+                                    dele postopoma. usmerjalo na širše področje in preučevanje
+                                    večjega števila vprašanj, za katera je kazalo, da bi lahko dala
+                                    celovitejši in vsebinsko bogatejši v pogled v dejanski položaj
+                                    in vlogo Slovencev v politiki jugoslovanske države v letih 1918-
+                                    1929. </entity:description>
+            </METS:xmlData>
          </METS:mdWrap>
       </METS:techMD>
    </METS:amdSec>

@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/26749">
+           OBJID="http://hdl.handle.net/11686/26749"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2014-04-14T18:02:20"
                  LASTMODDATE="2017-02-15T11:45:35"
                  RECORDSTATUS="Active">
@@ -69,7 +71,27 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Če bi skušali
+                                    zgodovinski položaj Slovencev in njihovo mentaliteto ob vstopu v
+                                    prvo svetovno vojno razumeti zgolj z branjem takratne slovenske
+                                    literature - kar je pač pogled literarnega zgodovinarja - potem
+                                    bi opazili prevladujočo hromečo tradicijo katolištva in popolno
+                                    odsotnost tiste suverene mentalitete, ki je značilna za veliko
+                                    buržoazijo in ki izvira iz njenega suverenega ekonomskega
+                                    položaja. S tem nikakor ni mišljena kakšna nadutost - najboljši
+                                    primer tega, kar imamo zdajle v mislih, je Ivan Sergejevič
+                                    Turgenjev, ki, vsaj kar se literature tiče, združuje najboljši
+                                    lastnosti velike buržoazije in plemstva: svetovljanstvo in
+                                    humor. Slovenci pa buržoazije, kaj šele plemstva, nismo imeli -
+                                    to je sicer splošno znano obče mesto, ki pa se velikokrat
+                                    premalo upošteva. V slovenski literaturi tega časa je opazna
+                                    tudi odsotnost temeljnih naravoslovnih in tehničnih miselnih
+                                    vzorcev, kaj šele, da bi bili predmet literature. Naj za
+                                    ilustracijo navedemo najbolj kičast primer, ki ga je, seveda,
+                                    spet, razumeti kot literarno prispodobo: Eiffelov stolp je bil
+                                    zgrajen leta 1889, Cankarjeva Erotika pa je gorela šele čez
+                                    deset let </entity:description>
                <entity:page>140</entity:page>
             </METS:xmlData>
          </METS:mdWrap>

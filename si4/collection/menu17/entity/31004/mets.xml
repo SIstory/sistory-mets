@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/31004">
+           OBJID="http://hdl.handle.net/11686/31004"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2015-05-15T08:36:16"
                  LASTMODDATE="2017-02-15T09:26:14"
                  RECORDSTATUS="Active">
@@ -99,7 +101,30 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Na Slovenskem so od
+                                    uveljavitve deželne avtonomije leta 1861 do zloma habsburške
+                                    monarhije delovali kot njeni nosilci deželni zbori, v prvi
+                                    Jugoslaviji pa so z ustavo in zakoni dobili značaj
+                                    predstavniških teles skupščini ljubljanske in mariborske oblasti
+                                    (1927—1929) ter banski svet Dravske banovine (1930-1941). Ti
+                                    organi so imeli nalogo, da z različnimi pristojnostmi sodelujejo
+                                    pri izvajanju gospodarsko-socialnih in prosvetno-kulturnih
+                                    dejavnosti, ki so jih osrednje centralistične oblasti prepustile
+                                    največjim upravnim enotam deželam, oblastem in banovinam, pri
+                                    svoji dejavnosti pa so si prizadevali uveljavljati parlamentarne
+                                    metode. Uspešno delovanje deželnega zbora Kranjske po letu 1908
+                                    je bilo za Slovensko ljudsko stranko pomembna izkušnja pri
+                                    vodenju slovenskih oblastnih samouprav, ki ga je prevzela po
+                                    volilni zmagi leta 1927. Po njeni zaslugi so samoupravni organi
+                                    ljubljanske in mariborske oblasti razširili svoje pristojnosti
+                                    in dosegli pomembne uspehe v prizadevanjih za razvoj Slovenije.
+                                    Tudi imenovani banski svet je pod njenim vodstvom v drugi
+                                    polovici tridesetih let v ugodnih gospodarskih razmerah in s
+                                    privilegiji vladne stranke precej avtonomno izvajal pomembne
+                                    naloge za napredek Slovenije v primerjavi s prvim obdobjem
+                                    svojega delovanja, ko so ga vodili liberalci in je moral
+                                    reševati zlasti socialne posledice gospodarske krize. </entity:description>
                <entity:page>421</entity:page>
             </METS:xmlData>
          </METS:mdWrap>

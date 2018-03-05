@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/3039">
+           OBJID="http://hdl.handle.net/11686/3039"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2011-11-23T16:45:40"
                  LASTMODDATE="2017-02-13T12:32:55"
                  RECORDSTATUS="Active">
@@ -69,7 +71,38 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity"/>
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Ljubljana je bila pred
+                                    napadom na Kraljevino Jugoslavijo aprila 1941 vodilno slovensko
+                                    mesto tudi v političnem pogledu, Tu so bila vodstva vseh
+                                    pomembnih političnih strank, sindikalnih organizacij in gibanj,
+                                    pa tudi ljubljanska organizacija ilegalne Komunistične partije
+                                    Slovenije (KPS) je bila v mestu in zlasti v okolici številčnejša
+                                    kot drugje na Slovenskem. Do prvega tesnejšega povezovanja med
+                                    političnimi skupinami, ki so po okupaciji ustanovile
+                                    Protiimperialistično, kasneje preimenovano v Osvobodilno fronto
+                                    slovenskega naroda, je prišlo ob ustanavljanju Društva
+                                    prijateljev Sovjetske zveze. Predstavniki KPS so najprej
+                                    navezali stike s posameznimi kulturniki, z nekdanjim
+                                    ljubljanskim županom Ivanom Hribarjem in inž. Črtomirom
+                                    Nagodetom, ki je postal tudi tajnik društva ter krščanskimi
+                                    socialisti, s skupinami okrog dr. Aleša Stanovnika in Edvarda
+                                    Kocbeka in krščansko socialistično sindikalno organizacijo,
+                                    Jugoslovansko strokovno zvezo, katere tajnik je bil Tone Fajfar,
+                                    predsednik pa Srečko Žumer. Krščanski socialisti so po
+                                    pretrganju stikov s strani KPS poiskali zvezo z njimi na lastno
+                                    pobudo. Za to so se odločili na tajnem sestanku v Laškem junija
+                                    1940, z namenom, da bodo skupaj s KPS sodelovali pri obrambi
+                                    domovine pred naraščajočo močjo italijanskega fašizma in
+                                    nemškega nacizma, Z vodstvom levega krila sokola, ki je nastalo
+                                    po razcepu v organizaciji pa je KPS navezala stike konec
+                                    decembra 1940, najprej s Francetom Lubejem, zatem po se z
+                                    drugimi. Torej kasnejša ustanovitev Protiimperialistične fronte
+                                    ni bila nenadejano dejanje, pač pa zavestna odločitev vseh treh
+                                    njenih najpomembnejših političnih skupin, da bodo sodelovale in
+                                    udejanjale obrambne, osvobodilne kot tudi socialne teženje v
+                                    delu slovenskega naroda. </entity:description>
+            </METS:xmlData>
          </METS:mdWrap>
       </METS:techMD>
    </METS:amdSec>

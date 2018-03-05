@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/30987">
+           OBJID="http://hdl.handle.net/11686/30987"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2015-05-14T09:21:22"
                  LASTMODDATE="2017-02-15T11:21:55"
                  RECORDSTATUS="Active">
@@ -96,7 +98,22 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Članek obravnava koncept
+                                    zgodovinske kulture, ki se je v razvil v okviru (zahodno) nemške
+                                    didaktike zgodovine. Ta se je v času po drugi svetovni vojni
+                                    intenzivno ukvarjala z dilemami svoje sodobne zgodovine, pri
+                                    čemer se je razvila cela paleta pristopov k obravnavi
+                                    preteklosti. Eden izmed teh konceptov je zgodovinska kultura, ki
+                                    pomeni način, kako se določena družba ukvarja s preteklostjo in
+                                    zgodovino. V članku so predstavljeni mejniki v razvoju koncepta
+                                    zgodovinske kulture, njena definicija, značilnosti in
+                                    zgodovinski razvoj. Pouk zgodovine, ki upošteva koncept
+                                    zgodovinske kulture, učence pripravlja na razumevanje
+                                    zgodovinske kulture okolja, v katerem učenci živijo. Avtor
+                                    navaja tri predloge za raziskovanje slovenske zgodovinske
+                                    kulture, ter izraža prepričanje, da lahko zgodovinska kultura
+                                    vnese novo dimenzijo v slovensko didaktiko zgodovine. </entity:description>
                <entity:page>73</entity:page>
             </METS:xmlData>
          </METS:mdWrap>

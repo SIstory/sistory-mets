@@ -10,7 +10,11 @@
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
            ID="collection."
            TYPE="collection"
-           OBJID="http://hdl.handle.net/11686/menu4">
+           OBJID="http://hdl.handle.net/11686/menu4"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd
+           http://purl.org/dc/terms/ http://www.dublincore.org/schemas/xmls/qdc/dcterms.xsd
+           http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd
+           http://www.loc.gov/standards/premis/v1 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2018-02-09T11:06:16"
                  LASTMODDATE="2018-02-09T11:06:16"
                  RECORDSTATUS="Active">

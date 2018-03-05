@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/37829">
+           OBJID="http://hdl.handle.net/11686/37829"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2017-06-19T12:35:39"
                  LASTMODDATE="2017-06-19T16:15:30"
                  RECORDSTATUS="Active">
@@ -64,7 +66,21 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity"/>
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Knjigo Johna Reeda
+                                    »Deset dni, ki so pretresli svet« sem bral z največjim
+                                    zanimanjem in pozornostjo, ki ves čas ni popustila. Brez
+                                    pridržka jo priporočam delavcem sveta. To je knjiga, ki bi zanjo
+                                    želel, da bi bila objavljena v milijonih izvodov in prevedena v
+                                    vse jezike. Resnično in kar najbolj živahno' razlaga dogodke, ki
+                                    so tako pomembni za razumevanje proletarske revolucije in
+                                    diktature proletariata. O teh vprašanjih se na široko diskutira,
+                                    toda preden te ideje sprejmeš ali odkloniš, moraš razumeti
+                                    popoln pomen svoje odločitve. Knjiga Johna Reeda bo nedvomno
+                                    pomagala razjasniti to vprašanje, ki je temeljni problem
+                                    mednarodnega delavskega gibanja. Konec leta 1919 V. I. LENIN
+                                </entity:description>
+            </METS:xmlData>
          </METS:mdWrap>
       </METS:techMD>
    </METS:amdSec>

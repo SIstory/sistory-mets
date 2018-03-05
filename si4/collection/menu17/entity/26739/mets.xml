@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/26739">
+           OBJID="http://hdl.handle.net/11686/26739"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2014-04-14T17:10:50"
                  LASTMODDATE="2017-02-15T11:48:00"
                  RECORDSTATUS="Active">
@@ -69,7 +71,23 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Ko so se v Čarobni gori
+                                    Thomasa Manna udeleženci znamenitega disputa med leporečnim
+                                    liberalcem Lodovicom Settembrinijem in totalitarizme 20.
+                                    stoletja napovedujočim »malim jezuitom« Leom Nafto kratko
+                                    dotaknili bližajoče se vojne nevarnosti, je glavni junak romana
+                                    Hans Kastorp izjavil, da politike ne razume in ga ne zanima.
+                                    Toda ob »velikem tresku«, kot to imenuje Mann, je Kastorp »svojo
+                                    malo usodo« brez obotavljanja povezal z nemško in obče evropsko,
+                                    saj je skupaj z milijoni mladih ljudi brez pomislekov odšel na
+                                    bojišče in izginil v vojnem požaru. V Kastorpu naj bi bilo
+                                    precej Mannovega, avtobiografskega. Kot je znano, je rastoči
+                                    vojni vihar sprva tudi Thomas Mann razglašal za »čiščenje,
+                                    osvobajanje in veličastno upanje«, nato pa je v letih množičnega
+                                    ubijanja spremenil stališče in ugotovil, da sta »velika vojna«
+                                    obrat in meja, ki sta globoko »razklala življenje in zavest«.
+                                </entity:description>
                <entity:page>8</entity:page>
             </METS:xmlData>
          </METS:mdWrap>

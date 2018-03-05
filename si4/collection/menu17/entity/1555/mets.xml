@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/1555">
+           OBJID="http://hdl.handle.net/11686/1555"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2012-11-14T12:37:06"
                  LASTMODDATE="2017-02-15T14:00:08"
                  RECORDSTATUS="Active">
@@ -95,7 +97,25 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity"/>
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv">
+                  <p xmlns="http://www.w3.org/1999/xhtml">Pred nekaj leti sem v arhivu naletela na pismo Ljubljančanke,
+                                        datirano z 19. januarjem 1945, ki se glasi: “Iskrena hvala
+                                        za recepte, toda zdaj bolj malo pečem v roru, le toliko
+                                        kurimo, da si skuhamo, ker štejemo polenčka, da ja enega
+                                        preveč ne pokurimo, sobe pa imamo kot “Frigidare” mrzle, no
+                                        pa saj to je zdravo, kot pravijo. Po mestu so že skoro vse
+                                        lesene ograje izginile. /.../. Najlepša Vam hvala za poslano
+                                        ajdovo in koruzno moko. Ob dobrih žgancih se Vas bomo
+                                        hvaležni spominjali”. Ta droben dokument in njegovo obširno
+                                        zgodbo sem postavila v širši okvir v doktorski disertaciji z
+                                        naslovom Življenje Ljubljančanov med nemško okupacijo,
+                                        nadgradnja začetega dela pa je pričujoča monografija, ki
+                                        odgovori na vprašanje, kako sta druga svetovna vojna in
+                                        okupacija vplivali na Ljubljano in vsakodnevno življenje v
+                                        njej.</p>
+               </entity:description>
+            </METS:xmlData>
          </METS:mdWrap>
       </METS:techMD>
    </METS:amdSec>
@@ -107,8 +127,9 @@
          </METS:file>
       </METS:fileGrp>
       <METS:fileGrp USE="DEFAULT">
-         <METS:file ID="" OWNERID="Zivljenje Ljubljancanov med drugo svetovno vojno.pdf">
-            <METS:FLocat LOCTYPE="HANDLE" xlink:href="https://hdl.handle.net/11686/"/>
+         <METS:file ID="file684"
+                    OWNERID="Zivljenje Ljubljancanov med drugo svetovno vojno.pdf">
+            <METS:FLocat LOCTYPE="HANDLE" xlink:href="https://hdl.handle.net/11686/file684"/>
          </METS:file>
       </METS:fileGrp>
    </METS:fileSec>
@@ -119,7 +140,7 @@
          <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/menu17"/>
          <METS:div TYPE="entity" DMDID="default.dc default.mods" ADMID="default.amd">
             <METS:fptr FILEID="thumbnail"/>
-            <METS:fptr FILEID=""/>
+            <METS:fptr FILEID="file684"/>
          </METS:div>
       </METS:div>
    </METS:structMap>

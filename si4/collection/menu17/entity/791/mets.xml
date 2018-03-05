@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/791">
+           OBJID="http://hdl.handle.net/11686/791"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2011-11-02T20:45:58"
                  LASTMODDATE="2017-02-10T11:15:11"
                  RECORDSTATUS="Active">
@@ -103,7 +105,28 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity"/>
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Tukaj zbrani spisi,
+                                    nekateri prvič objavljeni v slovenskem jeziku, so vsi razen treh
+                                    nastali v letih 1956 - 1976. Vsi ti obravnavajo vznemirljivo
+                                    obnašanje Avstrije do Slovencev na Koroškem, ki se je v tistih
+                                    letih namreč vse bolj očitno usmerjalo k obračunu izrinjenju s
+                                    slovenskim življem v deželi, predvsem in nemudoma pa k temu, da
+                                    se mu odreče položaj njenega zgodovinskega, konstitutivnega
+                                    elementa, zaradi katerega je v krogu habsburških dežel Koroška
+                                    nekdaj celo nosila razpoznavno oznako “slovenja vojvodina”,
+                                    “windisches Herzogtum”. Tisočletje in več je bila to dežela dveh
+                                    jezikov, ki danes nosita ime nemški in slovenski, pri čemer naj
+                                    bi bili, kakor je to poudaril zgodovinar Bogo Grafenauer, alpski
+                                    Slovani “prvo ljudstvo, katerega jezik se je tukaj ohranil od
+                                    naselitve v 6. stoletju do današnjega dne”. Dediči tega ljudstva
+                                    in njegovega jezika, Slovenci, so zato pomembni za preteklost in
+                                    sedanjost Koroške, za identiteto, ki se z njo ponaša. Zato, in
+                                    še posebno po nazoru postmoderne in združujoče se Evrope, ki
+                                    hoče biti tudi domovina narodov in ne le skupnost držav, bi se
+                                    spodobilo, da bi imeli Slovenci v tej deželi svoje človeka
+                                    dostojno, enakopravno in zagotovljeno mesto. </entity:description>
+            </METS:xmlData>
          </METS:mdWrap>
       </METS:techMD>
    </METS:amdSec>

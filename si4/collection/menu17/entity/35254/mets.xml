@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/35254">
+           OBJID="http://hdl.handle.net/11686/35254"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2016-06-14T13:09:18"
                  LASTMODDATE="2017-02-13T08:37:39"
                  RECORDSTATUS="Active">
@@ -95,7 +97,14 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Telovadba, šport, modema
+                                    olimpijska tekmovanja so socialna inovacija 19. stoletja in
+                                    evropskega prostora, na eni strani celinskega, na drugi
+                                    angleškega in so v slovenski kulturni prostor vstopili v drugi
+                                    polovici 19. stoletja. V prispevku osvetlimo pojav in razvoj
+                                    gimnastike ali telovadbe na Slovenskem, ki je bil v veliki meri
+                                    avtonomen, medtem ko se stereotipno poudarja češki vzor. </entity:description>
                <entity:page>157</entity:page>
             </METS:xmlData>
          </METS:mdWrap>

@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/31027">
+           OBJID="http://hdl.handle.net/11686/31027"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2015-06-02T10:53:37"
                  LASTMODDATE="2017-02-15T12:26:54"
                  RECORDSTATUS="Active">
@@ -92,7 +94,16 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Avtor raziskuje temo o
+                                    idealni podobi otroka preko naslovnic osnovnošolskih učbenikov v
+                                    poznem sovjetskem ter post sovjetskem času v Rusiji.
+                                    Predstavljena je zgodovina ikon otroštva, ki so bile oblikovane
+                                    tako za otroke kot tudi za odrasle. Avtor je tematiko razdelil v
+                                    štiri časovna obdobja: zgodnja 80. leta (»romantično« sovjetsko
+                                    otroštvo), pozna 80. leta (»monumentalno« sovjetsko otroštvo),
+                                    devetdeseta leta (»tradicionalno ljudsko« otroštvo) ter obdobje
+                                    po letu 2000 (otroštvo, ki se zaveda globalizma). </entity:description>
                <entity:page>146</entity:page>
             </METS:xmlData>
          </METS:mdWrap>

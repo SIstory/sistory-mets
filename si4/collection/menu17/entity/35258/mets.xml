@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/35258">
+           OBJID="http://hdl.handle.net/11686/35258"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2016-06-14T13:47:55"
                  LASTMODDATE="2017-02-13T08:23:27"
                  RECORDSTATUS="Active">
@@ -90,7 +92,16 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> V prispevku poskušamo
+                                    prikazati pomen »nadnacionalnega« za razvoj slovenskega
+                                    nacionalnega gibanja. Pri tem izhajamo iz podmene, da so prav
+                                    vsi historični procesi in velika večina zgodovinskega dogajanja
+                                    - in sicer tako politično kakor še zlasti ekonomsko, socialno in
+                                    kulturno -, ki je potekalo na t. i. slovenskem etničnem ozemlju
+                                    in ki je pojmovano kot del »nacionalne zgodovine«, v vzročni
+                                    zvezi s »transnacionalnimi« dogodki, pojavi, procesi in
+                                    strukturami. </entity:description>
                <entity:page>95</entity:page>
             </METS:xmlData>
          </METS:mdWrap>

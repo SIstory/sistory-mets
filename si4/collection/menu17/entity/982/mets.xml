@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/982">
+           OBJID="http://hdl.handle.net/11686/982"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2011-11-02T20:36:25"
                  LASTMODDATE="2017-02-15T11:49:32"
                  RECORDSTATUS="Active">
@@ -98,7 +100,23 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity"/>
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv">
+                  <p xmlns="http://www.w3.org/1999/xhtml">Pričujoča razprava ima namen, podati pregledno podobo o
+                                        začetni stopnji industrializacije slovenskega prostora, ki
+                                        po našem mnenju obsega čas poldrugega stoletja od leta 1720
+                                        do leta 1870. Danes že primeroma dobro poznamo splošno
+                                        gospodarsko zgodovino Slovencev, a nekatere njene specialne
+                                        panoge še niso podrobneje raziskane. Mednje sodi tudi
+                                        industrializacija; ta v naši razpravi ni obravnavana samo
+                                        kot dopolnilo splošne gospodarske zgodovine, temveč tudi kot
+                                        vodilni, poudarjeni in zato v določenem smislu »samostojni«
+                                        (v bistvu seveda ne samostojni, izolirani) družbenoekonomski
+                                        proces v moderni dobi, ki je bistveno prispeval - in še
+                                        prispeva - k oblikovanju naše družbe v izrazito industrijsko
+                                        družbo.</p>
+               </entity:description>
+            </METS:xmlData>
          </METS:mdWrap>
       </METS:techMD>
    </METS:amdSec>

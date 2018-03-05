@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/20239">
+           OBJID="http://hdl.handle.net/11686/20239"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2013-10-03T12:16:49"
                  LASTMODDATE="2017-02-10T11:13:53"
                  RECORDSTATUS="Active">
@@ -93,7 +95,22 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity"/>
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv">
+                  <p xmlns="http://www.w3.org/1999/xhtml">Vsebinski prikaz arhivske zapuščine Petra Grassellija, ki jo
+                                        hrani Zgodovinski arhivLjubljana, je le mozaični kamen v
+                                        obogatitvi našega vedenja o življenju in delu ter o
+                                        nacionalnem,kulturnem in političnem osveščanju dela
+                                        slovenskega meščanstva in inteligencev drugi polovici 19. in
+                                        v začetku 20. stoletja. Na svoji dolgi in razgibani 93-letni
+                                        življenjskipoti je Grasselli srečal vrsto ljudi, s katerimi
+                                        je imel bolj ali manj tesne prijateljske in uradnestike.
+                                        Tudi sam je bil aktiven v kulturnem, političnem in sploh
+                                        javnem življenju v ljubljanskemin tudi slovenskem prostoru
+                                        od srede 60. let prejšnjega stoletja dalje. Ohranjenogradivo
+                                        nam daje delno sliko njegovega delovanja.</p>
+               </entity:description>
+            </METS:xmlData>
          </METS:mdWrap>
       </METS:techMD>
    </METS:amdSec>

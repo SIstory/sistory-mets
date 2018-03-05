@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/1558">
+           OBJID="http://hdl.handle.net/11686/1558"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2011-11-02T20:19:44"
                  LASTMODDATE="2017-02-15T13:55:03"
                  RECORDSTATUS="Active">
@@ -94,7 +96,23 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity"/>
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Šolstvo na Slovenskem
+                                    oziroma v celotni Jugoslaviji se je v prvih povojnih letih
+                                    razvijalo pod močnim vplivom širših družbenopolitičnih razmer.
+                                    Zaradi monopolnega položaja komunistične partije v državi je
+                                    bilo tudi šolstvo podvrženo ideologizaciji, po drugi strani pa
+                                    so načrtovane želje po še temeljitejšem poseganju in
+                                    reformiranju celotnega šolstva preprečevale slabe gospodarske
+                                    razmere v državi zaradi vojne in zaradi pretiranega investiranja
+                                    v razvoj težke industrije, saj v takšnem gospodarskem
+                                    načrtovanju ni bilo veliko prostora za investicije v terciarne
+                                    dejavnosti. Državna oblast je začela opuščati posnemanje
+                                    sovjetskega boljševističnega družbenega modela po t.im.
+                                    informbirojevskem sporu leta 1948, ko je zaradi navezovanja
+                                    stikov z zahodnimi velesilami opustila dotedanjo totalitarno
+                                    ortodoksno komunistično politiko. </entity:description>
+            </METS:xmlData>
          </METS:mdWrap>
       </METS:techMD>
    </METS:amdSec>

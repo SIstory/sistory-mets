@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/35294">
+           OBJID="http://hdl.handle.net/11686/35294"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2016-06-15T16:31:02"
                  LASTMODDATE="2017-02-10T13:01:10"
                  RECORDSTATUS="Active">
@@ -98,7 +100,21 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Avtorica na podlagi
+                                    literature in popularnega tiska (Tedenska tribuna, Antena)
+                                    prikaže razvoj slovenske popularne glasbe v času po drugi
+                                    svetovni vojni - od osvoboditve do osemdesetih let - kako in v
+                                    kakšni meri so vplivali zahodni trendi na nastanek in razvoj
+                                    množičnih glasbenih oblik v državi s socialističnim sistemom.
+                                    Intenzivnost seznanjanja z zahodnimi glasbenimi smernicami, ki
+                                    so po prvi svetovni vojni začele krojiti svetovno glasbeno
+                                    prizorišče, je bila pri nas odvisna od danih družbeno političnih
+                                    razmer oziroma od jugoslovanskega odpiranja proti zahodnemu
+                                    svetu. V povojnem obdobju so se kot oblike slovenske popularne
+                                    glasbe, ki so z zamikom ali pa skoraj sočasno sledile razvoju
+                                    Zahoda, zvrstile jazzovska glasbena zvrst, pop glasba s
+                                    popevkami in beat slogom, rockovska in punkovska glasba. </entity:description>
                <entity:page>233</entity:page>
             </METS:xmlData>
          </METS:mdWrap>

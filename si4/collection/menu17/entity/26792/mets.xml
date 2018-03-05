@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/26792">
+           OBJID="http://hdl.handle.net/11686/26792"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2014-04-15T16:40:23"
                  LASTMODDATE="2017-02-14T14:03:12"
                  RECORDSTATUS="Active">
@@ -93,7 +95,28 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Ilegalna Komunistična
+                                    partija Slovenije je v zadnjih letih pred drugo svetovno vojno
+                                    načrtno vzpostavljala komunistične organizacije (celice) zlasti
+                                    v industrijskih središčih, kar posredno izpričuje njeno takratno
+                                    politično usmerjenost k delavstvu, med katerim je tudi pretežno
+                                    iskala potencialne nove člane in simpatizerje. Tako so na
+                                    Gorenjskem kot območja komunistične dejavnosti izstopali
+                                    naslednji kraji: Jesenice, Kranj, Tržič in okolica Kamnika.
+                                    Pokrajina je bila od konca leta 1940 dalje razdeljena na tri
+                                    partijska okrožja (jeseniško, kranjsko in kamniško), katerih
+                                    vodstva so bila sprva neposredna vezana na centralni komite KPS
+                                    v Ljubljani. Po nemški okupaciji Gorenjske so z začrtano mejo
+                                    med nemškim in italijanskim okupacijskim območjem postale zveze
+                                    med gorenjskimi okrožji in osrednjim vodstvom otežene, zato so
+                                    že v poletju 1941 ustanovili vmesni forum, to je pokrajinski
+                                    komite (PK) KPS za Gorenjsko; njegov prvi sekretarje bil član CK
+                                    KPS Stane Žagar, konec leta 1941 pa ga je nasledil član CK KPS
+                                    Tone Dolinšek. PK KPS naj bi ob povezovalni vlogi učinkoviteje
+                                    obvladoval položaj in usmerjal dejavnost partijskih organizacij
+                                    v celotni pokrajini. Ob začetku vojne je na Gorenjskem delovalo
+                                    okoli 42 celic in približno 260 članov KPS. </entity:description>
                <entity:page>464</entity:page>
             </METS:xmlData>
          </METS:mdWrap>

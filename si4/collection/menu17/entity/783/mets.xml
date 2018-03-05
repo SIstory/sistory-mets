@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/783">
+           OBJID="http://hdl.handle.net/11686/783"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2011-11-02T20:53:30"
                  LASTMODDATE="2017-02-14T09:28:45"
                  RECORDSTATUS="Active">
@@ -73,7 +75,32 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity"/>
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Knjiga ni celotna
+                                    zgodovina Slovencev v prvi svetovni vojni. Usmerjena je le k
+                                    enemu vprašanju iz tistega časa: Kako se je oblikovala politična
+                                    volja, ki se je izrazila v narodni samoodločbi ob koncu vojne?
+                                    Oblikovanje politične volje v socialno, gospodarsko, ideološko
+                                    tako različni, znotraj pa razredno nasprotujoči si družbeni
+                                    enoti, kakršna je tedanji slovenski narod, je sila zapleten
+                                    razvoj in ga pač nikoli ne bo mogoče vsega dogledati. Kar knjiga
+                                    poskuša, je pogled na snovanja, zamisli, pobude, dejanja tistih
+                                    delčkov družbene nadrasti, ki so si lastili in prilastili vlogo
+                                    nosilcev politične volje. V ospredju zanimanja stoji volja,
+                                    verificirana po njenem družbenem učinku, ne po namerah in
+                                    izhodiščih njenih pobudnikov. Obnašanje nosilcev in pobudnikov
+                                    raziskuje knjiga dovolj nadrobno, a ne zaradi njih samih, ampak
+                                    zaradi učinka njihovega obnašanja. Zato sta vrstni red
+                                    pregledovanja nosilcev in odmera pozornosti njihovim zamislim
+                                    določena predvsem po njihovem deležu v družbeno uresničeni
+                                    politični volji ob koncu vojne. Razume pa se, da je ta pogled
+                                    pogojen po družbeni izkušnji zadnjega polstoletja, ko se je
+                                    slovenski delavski razred s svojim revolucionarnim gibanjem
+                                    potrdil kot odločilni dejavnik druge slovenske državne
+                                    samoodločbe in ko se samoodločanje naroda tudi na novi stopnji
+                                    zgodovinskega procesa kaže kot neločljiv del boja za
+                                    osvobojevanje človeka in dela </entity:description>
+            </METS:xmlData>
          </METS:mdWrap>
       </METS:techMD>
    </METS:amdSec>

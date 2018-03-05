@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/35310">
+           OBJID="http://hdl.handle.net/11686/35310"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2016-06-17T09:06:19"
                  LASTMODDATE="2017-02-10T12:42:12"
                  RECORDSTATUS="Active">
@@ -94,7 +96,23 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity"/>
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> The brief period of
+                                    agony at the end of the 18th century, when the mineral spring in
+                                    Rogaška Slatina was being exploited by at least five landowners,
+                                    was ended by the purchase of the spring and the surrounding area
+                                    by the Styrian provincial diets. Representing a veritable
+                                    treasure house of data, guest rosters from the first half of the
+                                    19th century are among the most valuable documents on the
+                                    thermal spa. They list the number and professional structure of
+                                    spa guests; their place of origin; the length of their stay; and
+                                    the reason for their arrival. This period brought about
+                                    considerable changes in the overall plan and design of the spa
+                                    building. The life of spa’s guests, however, followed the usual
+                                    routine of following their doctors’ Orders that included the
+                                    drinking diet, bathing in the warm thermal water, long walks,
+                                    and trips to the surrounding countryside. </entity:description>
+            </METS:xmlData>
          </METS:mdWrap>
       </METS:techMD>
    </METS:amdSec>

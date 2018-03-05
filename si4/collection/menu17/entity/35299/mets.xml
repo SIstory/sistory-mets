@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/35299">
+           OBJID="http://hdl.handle.net/11686/35299"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2016-06-16T11:37:39"
                  LASTMODDATE="2017-02-13T11:43:07"
                  RECORDSTATUS="Active">
@@ -104,7 +106,21 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> V Sloveniji so si
+                                    komunisti po drugi svetovni vojni oblast zagotovili tako, da so
+                                    večplastni osvobodilni boj proti okupatorju izkoristili za svoje
+                                    načrte o prevzemu oblasti, ga izkrivili in izrabili zase. Uspelo
+                                    jim ga je izenačiti s komunističnim odporom in predstavnike
+                                    nekomunističnih tokov izločiti kot »kolaboracioniste«. Ta
+                                    falzifikat je učinkovit še danes - tudi kot posledica ideološko
+                                    pobarvanih učbenikov. Začeli so ga graditi 16.9.1941, ko je
+                                    Vrhovni plenum OF monopoliziral odpor in sprejet t. i. »zaščitni
+                                    odlok«. Prispevek bo prikazal nastanek in razvoj tega
+                                    falzifikata, ki je imel za posledico številne zločine, tudi
+                                    povojne množične pomore, izločitev vsake opozicije v deželi,
+                                    zapiranje in sojenje nasprotnikov, proticerkveno naravnane
+                                    prisilne ukrepe, izselitve itd. </entity:description>
                <entity:page>363</entity:page>
             </METS:xmlData>
          </METS:mdWrap>

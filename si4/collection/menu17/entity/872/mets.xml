@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/872">
+           OBJID="http://hdl.handle.net/11686/872"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2011-11-02T20:44:22"
                  LASTMODDATE="2017-02-14T09:30:23"
                  RECORDSTATUS="Active">
@@ -88,7 +90,25 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity"/>
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Ves čas po letu 1945 je
+                                    veljalo prepričanje, daje prva Narodna vlada tista, ki je bila
+                                    ustanovljena v Ajdovščini 5. maja 1945, kar pa seveda ni
+                                    ustrezalo resnici. Pomembnost in prelomnost dogajanj konec leta
+                                    1918 sta bili porinjeni vstran in zamenjalo ju je glorificiranje
+                                    ''petomajske vlade". Tudi protesti v javnosti niso bili dovolj
+                                    za pravilno vrednotenje dogodkov ob koncu prve svetovne vojne. V
+                                    specifični situaciji, ko se je konec leta 1918 sesedal
+                                    večstoletni avstrijski imperij, smo Slovenci dobili priložnost,
+                                    da svojo usodo vzamemo v lastne roke. Najodgovornejši politiki
+                                    so najprej v obliki Narodnega sveta, od 31. oktobra 1918 pa v
+                                    obliki Narodne vlade, prevzeli v slovenske rake tako rekoč vso
+                                    oblast v Sloveniji. Zaradi različnih vzrokov pa smo Slovenci
+                                    ostali tudi po letu 1918 v okviru večje državne skupnosti,
+                                    katere usoda nam je vsem dobro znana, saj smo jo preživljali iz
+                                    dneva v dan, in se je obdržala skoraj 72 let in nato propadla.
+                                </entity:description>
+            </METS:xmlData>
          </METS:mdWrap>
       </METS:techMD>
    </METS:amdSec>

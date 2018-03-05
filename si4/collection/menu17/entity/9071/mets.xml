@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/9071">
+           OBJID="http://hdl.handle.net/11686/9071"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2012-10-15T13:44:00"
                  LASTMODDATE="2017-02-14T14:26:26"
                  RECORDSTATUS="Active">
@@ -90,7 +92,27 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity"/>
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Bralec bo v njej našel
+                                    snov, ki je primarno vezana na oblikovanje slovenske
+                                    protestantske književnosti 16. stoletja, toda tudi na evropsko
+                                    politično, versko, glasbeno, kulturno in intelektualno zgodovino
+                                    zgodnjega novega veka. In sicer snov, ki more imeti v formi
+                                    psihičnih slik, posledic občestvenega spomina dolgega trajanja,
+                                    občutne, čeprav še ne jasno razpoznane implikacije celo v tako
+                                    sodobnih dogajanjih, kot so bile npr. do nedavna aktualne
+                                    občestvene zadrege zastran postavitve islamskega verskega
+                                    središča v Ljubljani. V ospredju historiografske naracije tokrat
+                                    niso niti osebe in njihova morda izjemna dejanja, niti njihove
+                                    biografije in ne pomembnejši dogodki tistega časa, temveč so za
+                                    miselno osišče po filološko vzeta slovstvena dela Primoža
+                                    Trubarja, okoli katerih se napletajo občestvene in individualne
+                                    zgodbe. Poznavanje le-teh pa tvori referenčni prostor za
+                                    razumevanje omenjanih književnih besedil, toda tudi za
+                                    doumevanje razvoja slovenske književnosti v omenjeni dobi in –
+                                    nenazadnje – Trubarjeve osebne in intelektualne biografije ter
+                                    fiziognomije. </entity:description>
+            </METS:xmlData>
          </METS:mdWrap>
       </METS:techMD>
    </METS:amdSec>

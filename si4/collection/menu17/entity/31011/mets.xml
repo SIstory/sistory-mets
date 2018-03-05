@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/31011">
+           OBJID="http://hdl.handle.net/11686/31011"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2015-05-15T10:45:33"
                  LASTMODDATE="2017-02-15T09:18:41"
                  RECORDSTATUS="Active">
@@ -95,7 +97,20 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Avtorica analizira
+                                    izbrane učbenike zgodovine za osnovno šolo, ki so izšli v
+                                    obdobju od leta 2000 do leta 2004 v Sloveniji, Veliki Britaniji,
+                                    Franciji in Nemčiji. Analiza vključuje primerjavo vsebinskih
+                                    elementov učbenikov, tematizacije vsebin, zastopanosti področij
+                                    družbenega življenja v preteklosti ter izbranih vsebin (prva
+                                    svetovna vojna, totalitarizem, druga svetovna vojna, vloga
+                                    žensk). Zanimiva je primerjava zastopanosti posameznih
+                                    zgodovinskih obdobij v obravnavanih učbenikih, ki kaže, da
+                                    učbeniki v največji meri poudarjajo sodobno obdobje - to je čas
+                                    20. stoletja. Na koncu avtorica podaja tudi predloge za
+                                    izboljšanje učbenikov, ki so lahko pripomoček piscem učbenikov
+                                    na področju družboslovja. </entity:description>
                <entity:page>149</entity:page>
             </METS:xmlData>
          </METS:mdWrap>

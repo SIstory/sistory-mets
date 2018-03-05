@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/30991">
+           OBJID="http://hdl.handle.net/11686/30991"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2015-05-14T09:57:53"
                  LASTMODDATE="2017-02-15T11:20:49"
                  RECORDSTATUS="Active">
@@ -98,7 +100,23 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Prispevek predstavlja
+                                    povzetek rezultatov in predlogov raziskave z naslovom Lokalna
+                                    zgodovina pri družboslovnih predmetih v osnovni in srednji šoli,
+                                    s katero smo želeli osvetliti in ovrednotiti zastopanost lokalne
+                                    zgodovine pri vseh družboslovnih učnih načrtih in učbenikih
+                                    (razen pri zgodovini) v devetletni osnovni šoli ter v gimnaziji.
+                                    Raziskava, kjer smo analizirali 32 sodobnih učnih načrtov in 91
+                                    učbenikov in delovnih zvezkov, je temeljila na načelu, da preko
+                                    poznavanja preteklosti in sedanjosti domačega okolja lahko
+                                    posežemo v temelje učenčevega dojemanja in razumevanja
+                                    globalnega sveta. Ugotovili smo, da je zastopanost vsebine
+                                    lokalne zgodovine v učnih načrtih in učbenikih za osnovno šolo
+                                    in gimnazije (pre)skromna in vsebinsko-ciljno pomanjkljivo
+                                    poudarjena. Pri tem izpostavljamo predvsem problem vloge in
+                                    pomena lokalne zgodovine, zato predlagamo več načinov, kako
+                                    vključiti te vsebine v osnovnih in srednjih šolah. </entity:description>
                <entity:page>227</entity:page>
             </METS:xmlData>
          </METS:mdWrap>

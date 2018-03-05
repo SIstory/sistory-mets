@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/30997">
+           OBJID="http://hdl.handle.net/11686/30997"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2015-05-14T10:43:01"
                  LASTMODDATE="2017-02-15T09:30:16"
                  RECORDSTATUS="Active">
@@ -92,7 +94,26 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Avtorica v prispevku
+                                    predstavlja različne vrste zapisov učne snovi pri zgodovini. Ker
+                                    so prvi zapisi učne snovi nastajali na tabli s pomočjo krede, je
+                                    bila tabelska slika le zapis ključnih besed ali kratkih stavkov
+                                    po točkah. Z uporabo prosojnic in grafoskopa, računalnika in
+                                    Microsoft PowerPointa ter drugih pripomočkov (kartoni, papir,
+                                    plakati), pa se je tudi zapis učne snovi oz. t.i. tabelska slika
+                                    izpopolnila. Avtorica razvrsti zapise v tri vrste, in sicer v
+                                    klasične zapise učne snovi, ki vključujejo stavke ali ključne
+                                    besede; v neklasične zapise učne snovi ali učno-delovne liste,
+                                    ki vključujejo poleg učnega gradiva tudi številne naloge ter v
+                                    grafične zapise, ki shematsko oz. grafično predstavljajo celotno
+                                    ali del učne vsebine na ta način, da prikazujejo različne
+                                    odnose, hierarhije, povezave, primerjave itd. Pri nastajanju
+                                    zapisa učne snovi morajo učitelji upoštevati tudi časovno
+                                    realizacijo, saj morajo učenci imeti dovolj časa za ustvarjanje
+                                    zapisa. Učitelji pa ne smejo pozabiti na preverjanje teh
+                                    zapisov, da se bodo učenci lahko pravilno naučili novo učno snov
+                                    pri zgodovini. </entity:description>
                <entity:page>327</entity:page>
             </METS:xmlData>
          </METS:mdWrap>

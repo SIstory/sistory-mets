@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/35248">
+           OBJID="http://hdl.handle.net/11686/35248"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2016-06-13T12:49:57"
                  LASTMODDATE="2017-02-13T08:38:23"
                  RECORDSTATUS="Active">
@@ -91,7 +93,50 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> S Trubarjevim rodom in
+                                    sorodstvom na Rašici sta se zadnja ukvarjala A. Kaspret (pred
+                                    1914) in F. Kidrič (1920). Ponovna dostopnost sklenjene serije
+                                    urbarjev gospostva Tutjak od 1464 dalje, pritegnitev novih virov
+                                    in vnovična interpretacija že znanih podatkov postavljajo njune
+                                    ugotovitve ter interpretacije Trubarjevih življenjepiscev v
+                                    precej drugačno luč. Prispevek je zasnovan kot rekonstrukcija
+                                    imaginarnega rojstnega lista Primoža Trubarja in njegove osebne
+                                    izkaznice. Trubar se ni nujno rodil leta 1508, kot je zapisal
+                                    sam, saj njegove navedbe starosti kažejo tudi na možni rojstni
+                                    letnici 1507 in 1509. Na svet ni prišel v Temkóvem mlinu pod
+                                    Rašico, kjer je danes urejena »Trubarjeva domačija«, temveč
+                                    približno 400 metrov vzhodno od tod v Sklopovem mlinu pod
+                                    Kukmako, odraščal pa tu in bržčas tudi na očetovi kmetiji na
+                                    bližnji Kukmaki. Njegov oče Mihelj v številnih urbarskih omembah
+                                    nikoli ni naveden kot Trubar, marveč dosledno kot Mull(n)er, kar
+                                    je bila prvotno poklicna oznaka (mlinar) in iz nje izpeljano
+                                    lastno ime Malnar, saj Mihelj ni bil iz Trubarjevega rodu,
+                                    temveč le oženjen z Jero Trubar. Primož je tako na Rašici veljal
+                                    za Malnarjevega Primoža, kajti Trubarjev ni mogel biti ne po
+                                    očetu ne po hišnem imenu, ampak kvečjemu v širšem, sorodstvenem
+                                    pomenu besede. Za priimek Trubar seje odločil šele v šolah,
+                                    najverjetneje zato, ker bi bil z zelo pogostim poklicnim
+                                    priimkom kot Malnar, Müller oz. Molitor premalo prepoznaven.
+                                    Pomenljivo je, da si za osebni pečatnik ni izbral mlinskega
+                                    kolesa, temveč orodje očetovega drugega, tesarskega poklica.
+                                    Različice zapisovanja priimka Trubar v turjaških urbarjih
+                                    (Trobar, Trober, Trabar, Traber, pozneje dosledno Truber)
+                                    pričajo o nečisti izgovorjavi prvega samoglasnika, kar je v
+                                    zapisu dalo grafema -o in -u (Trober, Truber). Zadnjega - Truber
+                                    - torej ni samovoljno vpeljal Primož Trubar, ki bi s tem svoj
+                                    priimek »poneslovenil«, kot so menili njegovi življenjepisci.
+                                    Najverjetnejša etimologija priimka je res iz glagola trobiti,
+                                    toda pri prvem nosilcu priimka je šlo veliko prej kot za poklic
+                                    (piskač ali trobec) za kakšno značajsko lastnost, telesno
+                                    značilnost ali morda za onomatopoijo. Prispevek obravnava tudi
+                                    ponovno najdeni najzgodnejši dokument s Trubarjevim lastnoročnim
+                                    podpisom in pečatom - listino, izdano v Laškem leta 1533. Podpis
+                                    se opazno razlikuje od poznejših in prav tako je po obliki
+                                    drugačen pečat, medtem ko ostaja njegova vsebina do Trubarjeve
+                                    smrti nespremenjena: inicialki P in T ter tesarska sekira kot
+                                    znamenje očetovega poklica. Listino bi lahko označili kot
+                                    Trubarjevo prvo »osebno izkaznico«. </entity:description>
                <entity:page>39</entity:page>
             </METS:xmlData>
          </METS:mdWrap>

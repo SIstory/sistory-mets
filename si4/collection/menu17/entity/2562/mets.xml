@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/2562">
+           OBJID="http://hdl.handle.net/11686/2562"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2011-12-06T15:35:45"
                  LASTMODDATE="2017-02-13T12:22:04"
                  RECORDSTATUS="Active">
@@ -98,7 +100,49 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity"/>
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Za ljubljanske Nemce
+                                    lahko rečemo, da so izginili kakor Avari - popolnoma in skoraj
+                                    brez sledov. Medtem ko povprečen Slovenec ve, da je na
+                                    Slovenskem včasih prebivala nemska manjšina na Kočevskem, so le
+                                    redki tisti, ki vedo, da se je k Nemcem prištevala skoraj petina
+                                    prebivalcev Ljubljane. Kulturni podobi mesta je nemštvo dajalo
+                                    svoj pečat nekako do začetka 20. stoletja. Nemska kultura je v
+                                    Ljubljani prednjačila vse do prve svetovne vojne, predvsem po
+                                    zaslugi nemskega Filharmoničnega društva in nemškega Jubilejnega
+                                    gledališča, seveda pa tudi zaradi "okusa" povprečnega kranjskega
+                                    izobraženega, ki se je oblikoval tudi zaradi avstrijskega
+                                    šolskega sistema, v katerem dolgo ni bilo prostora za slovensko
+                                    univerzo. Nemščina se je ohranila kot občevalni jezik višjih
+                                    slojev in tako je npr. na promenadi ali v kavarni tujce se v
+                                    začetku 20. stoletja lahko dobil vtis, da je Ljubljana popolnoma
+                                    nemško mesto. Najbogatejši meščani so se steli pretežno za Nemce
+                                    ali pa so (večinoma) sodili v nemški kulturni krog. Ta dejstva
+                                    so vodila do bahaških ter tu in tam nerazsodnih izjav glasila
+                                    ljubljanskih Nemcev, ki se mu je ob koncu 19. stoletja zapisalo,
+                                    da je Ljubljana nemško mesto. Na podlagi naštetih dejstev je ta
+                                    časopis trdil, da tretjina ljubljanskih prebivalcev odkrito
+                                    izpričuje svoje nemštvo, tretjina jih je nasilno sloveniziranih
+                                    ali pa so v slovenski tabor prešli zaradi koristoljubja in
+                                    neznačajnosti. Kakor koli: Nemci, ki so na Kranjskem
+                                    predstavljali okrog pet odstotkov prebivalstva, so imeli deželo
+                                    v letih 1877-1883 popolnoma v svojih rokah (obdobje nemske
+                                    večine v deželnem zboru), njeni prestolnici Ljubljani pa so
+                                    vladali celih trinajst let (1869-1882). Njihov
+                                    gospodarsko-finančni vpliv v deželi je bil tudi po občutnem
+                                    zmanjšanju njihove politične moči velikanski in je slonel
+                                    predvsem na Kranjski hranilnici, ki je bila vse do konca
+                                    monarhije (poleg drugih nemških gospodarsko-finančnih
+                                    korporacij) neusahljiv vir za ohranjanje kranjskega nemštva.
+                                    Nemščina je kljub maloštevilnosti kranjskih Nemcev ostala uradni
+                                    in deželni jezik na Kranjskem vse do zatona monarhije. Kranjski
+                                    Nemci so prav do konca Avstro-Ogrske ohranili fantastične
+                                    namere, da Slovencem odrečejo pravico do samoodločbe in jih
+                                    prisilijo, da se s svojim narodnim telesom in ozemljem utopijo v
+                                    novonastali Nemčiji ali vsaj nemski Avstriji. Po vsej tej
+                                    mogočnosti in vseh visokoletečih ciljih pa za kranjskim nemštvom
+                                    ni ostalo skoraj nobenih sledov. </entity:description>
+            </METS:xmlData>
          </METS:mdWrap>
       </METS:techMD>
    </METS:amdSec>

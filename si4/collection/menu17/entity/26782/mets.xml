@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/26782">
+           OBJID="http://hdl.handle.net/11686/26782"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2014-04-15T15:52:44"
                  LASTMODDATE="2017-02-14T14:08:20"
                  RECORDSTATUS="Active">
@@ -87,7 +89,19 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Trboveljska premogokopna
+                                    družba (TPD) je bila kot delniška družba ustanovljena 30.
+                                    decembra 1872 s sedežem na Dunaju. Najprej je imela v lasti
+                                    rudnik v Trbovljah, postopno pa je kupila tudi sosednje
+                                    premogovnike v Zagorju in Hrastniku, in to s pomočjo francoskega
+                                    kapitala, ki je postal lastnik večine njenih delnic. Ob koncu
+                                    19. stoletja je bila veliko podjetje, ki je imelo poleg osmih
+                                    velikih premogovnikov v lasti še vrsto priključenih industrij,
+                                    med njimi razen hrastniške steklarne vse večje industrijske
+                                    obrate v Zasavju. Od TPD so bili tako odvisni ne le rudarji in
+                                    njihove družine, ampak dejansko vsi prebivalci teh krajev.
+                                </entity:description>
                <entity:page>338</entity:page>
             </METS:xmlData>
          </METS:mdWrap>

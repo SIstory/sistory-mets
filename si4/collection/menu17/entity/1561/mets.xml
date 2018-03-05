@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/1561">
+           OBJID="http://hdl.handle.net/11686/1561"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2011-11-02T20:17:04"
                  LASTMODDATE="2017-02-13T11:20:20"
                  RECORDSTATUS="Active">
@@ -99,7 +101,25 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity"/>
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv">
+                  <p xmlns="http://www.w3.org/1999/xhtml"> Komunistična partija Slovenije (KPS) je ob napadu sil osi na
+                                        Jugoslavijo aprila 1941 stopila na politično prizorišče kot
+                                        družbeno marginalna stranka, z manj kot 1.300 člani. Bila je
+                                        integralni del centralistično urejene Komunistične partije
+                                        Jugoslavije (KPJ), le-ta pa je bila sekcija Kominterne.
+                                        Omenjeni okvir je pomembno določal njeno delovanje in
+                                        usmeritve, ki jih je usklajevala z interesi revolucije in
+                                        državnimi interesi Sovjetske zveze, ki je bila hkrati edina
+                                        socialistična država boljševiškega tipa. Njena glavna idejna
+                                        voditelja sta bila Edvard Kardelj in Boris Kidrič. Za sabo
+                                        je imela dvajset let ilegalnega delovanja in temu ustrezno
+                                        je bila ob nastopu vojne tudi usposobljena. Kar je bilo še
+                                        posebej pomembno, vojno je dočakala notranje poenotena, saj
+                                        je do takrat že zaključila s procesom boljševizacije, ki so
+                                        ga spremljale notranje čistke. </p>
+               </entity:description>
+            </METS:xmlData>
          </METS:mdWrap>
       </METS:techMD>
    </METS:amdSec>

@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/912">
+           OBJID="http://hdl.handle.net/11686/912"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2012-04-13T12:21:09"
                  LASTMODDATE="2016-12-18T10:43:02"
                  RECORDSTATUS="Active">
@@ -99,7 +101,53 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity"/>
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv">
+                  <p xmlns="http://www.w3.org/1999/xhtml">Namen znanstvene monografije je odpreti nove perspektive
+                                        znotraj aktualnih razprav o cenzuri in svobodi tiska v
+                                        Sloveniji in obenem te razprave umestiti v širši (tako
+                                        prostorski, geografski kot časovni, zgodovinski) kontekst.
+                                        Nove perspektive, ki jih znanstvena monografija prinaša,
+                                        presegajo delitev pozicij, ki se je v javnem prostoru
+                                        vzpostavila ob polemikah o cenzuri in ki je bila natančen
+                                        posnetek delitve znotraj političnega polja – delitve na
+                                        konservativno, ki želi obračunati s preostanki
+                                        »totalitarizma« v novinarstvu in liberalno pozicijo, ki želi
+                                        novinarstvo pripeljati v sklad z »evropskimi standardi«.</p>
+                  <p xmlns="http://www.w3.org/1999/xhtml">V znanstveni monografiji tako izpostavljamo nekatere vidike,
+                                        ki jih tako strukturirana razprava nujno izpušča: vpliv
+                                        nedavnih ekonomskih sprememb na novinarske prakse
+                                        (prekarizacija, fleksibilizacija); možnost politike
+                                        novinarstva, ki uhaja napačni dilemi med poslušnostjo
+                                        oblasti in objektivnostjo; možnosti novinarstva, ki ni
+                                        omejeno le na popisovanje dejanj države in biznisa (z nekaj
+                                        malega »kulture«). V ta namen je potrebno omenjene razprave
+                                        in polemike nujno razširiti, zato so v zborniku tudi teksti
+                                        o emancipatorni vlogi partizanskih in ženskih oziroma
+                                        feminističnih časopisov, kar sta pomembna zgleda
+                                        nekonvencionalne in nekonformistične osvobodilne politike
+                                        novinarstva; in teksti o trenutnem stanju v medijskih poljih
+                                        v drugih postsocialističnih državah, kar kaže na analognost
+                                        določenih družbenih, političnih in ekonomskih procesov in
+                                        spodbija interpretacije medijske situacije v Sloveniji kot
+                                        nečesa, kar izvira iz lokalnih dejavnikov in posebnosti.</p>
+                  <p xmlns="http://www.w3.org/1999/xhtml">Gre za procese, ki so značilni za celotno postsocialistično
+                                        pol-periferijo svetovnega kapitalističnega sistema, kjer se
+                                        v polju medijev povezujeta tako ekonomsko kot ideološko
+                                        nasilje, saj manjšanje socialne varnosti in
+                                        »fleksbilizacija« omogočata veliko bolj odkrit in neposreden
+                                        ideološki pritisk – obenem pa na istem področju obstaja
+                                        pogosto zamolčana in pozabljena tradicija osvobodilnih
+                                        novinarskih praks, ki so se podobnim procesom uspešno
+                                        upirale že v preteklosti. Cilj znanstvene monografije je
+                                        tako, z uporabo novih perspektiv in analitičnih pristopov,
+                                        ustvariti pogoje za javno razpravo, ki lahko potencialno
+                                        omogoči reinvencijo takšnih novinarskih praks tudi v
+                                        sedanjosti, v novih zgodovinskih razmerah. <br/>
+                     <br/> Izdaja je primarno dostopna v <a href="http://www.pei.si/Sifranti/StaticPage.aspx?id=68" target="_blank">Digitalni knjižnici Pedagoškega
+                                            inštituta</a>.</p>
+               </entity:description>
+            </METS:xmlData>
          </METS:mdWrap>
       </METS:techMD>
    </METS:amdSec>

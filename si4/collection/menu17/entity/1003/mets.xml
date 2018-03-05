@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/1003">
+           OBJID="http://hdl.handle.net/11686/1003"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2011-11-10T08:01:54"
                  LASTMODDATE="2017-02-13T09:13:12"
                  RECORDSTATUS="Active">
@@ -75,7 +77,23 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity"/>
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv">
+                  <p xmlns="http://www.w3.org/1999/xhtml">V Muzeju novejše zgodovine Slovenije hranimo obsežno zbirko
+                                        fotografij o Ljubljani. lzvira iz prve polovice 20. stoletja
+                                        in spada v fotografski fond časopisa Slovenec. Gradivo je
+                                        Muzej pridobil v petdesetih letih prejšnjega stoletja.
+                                        Časopis Slovenec je izhajal med letoma 1873 in 1945, od
+                                        konca leta 1924 do poletja leta 1932 je kot njegova tedenska
+                                        priloga izhajal tudi Ilustrirani Slovenec in mnogo
+                                        originalnih fotografij iz našega foto arhiva je bilo
+                                        objavljenih prav tam. Razstava in katalog sta zasnovana
+                                        tako, da je na eni strani stara črno-bela fotografija iz
+                                        muzejskega arhiva, na drugi strani pa današnja barvna
+                                        fotografija, ki je posneta z istega mesta in s čim bolj
+                                        podobnega zornega kota kot stara fotografija.</p>
+               </entity:description>
+            </METS:xmlData>
          </METS:mdWrap>
       </METS:techMD>
    </METS:amdSec>

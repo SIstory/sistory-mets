@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/12960">
+           OBJID="http://hdl.handle.net/11686/12960"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2012-10-17T12:08:15"
                  LASTMODDATE="2017-02-13T11:13:14"
                  RECORDSTATUS="Active">
@@ -71,7 +73,24 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity"/>
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv">
+                  <p xmlns="http://www.w3.org/1999/xhtml">Pričujoča knjiga prinaša za knjižno objavo prirejeno in
+                                        deloma predelano doktorsko disertacijo, ki ne obravnava
+                                        celotne zgodovine slovenskih izobražencev v času tuje
+                                        zasedbe med letoma 1941 in 1945, temveč predvsem osvetljuje
+                                        odnos okupatorjev, Osvobodilne fronte in
+                                        protirevolucionarnega tabora do tukajšnjega izobraženstva.
+                                        Monografija skuša seveda tudi pokazati, kako so se na
+                                        medvojne izzive odzivali slovenski izobraženci, in oceniti,
+                                        v kolikšnem številu in zakaj so se odločali za eno ali drugo
+                                        sprto slovensko stran oziroma zakaj so se izmikali
+                                        opredeljevanju. Medvojno dogajanje na Slovenskem lahko
+                                        označimo kot prepletanje marsikdaj protislovnih procesov,
+                                        zajetih v pojmih okupacija, osvobodilni boj, revolucija,
+                                        državljanska vojna in kolaboracija.</p>
+               </entity:description>
+            </METS:xmlData>
          </METS:mdWrap>
       </METS:techMD>
    </METS:amdSec>

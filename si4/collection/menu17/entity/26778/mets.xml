@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/26778">
+           OBJID="http://hdl.handle.net/11686/26778"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2014-04-15T15:37:19"
                  LASTMODDATE="2017-02-14T14:11:30"
                  RECORDSTATUS="Active">
@@ -87,7 +89,16 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Razvoj, organizacija in
+                                    izvajanje skrbi za vojne invalide je dolgotrajen proces, ki je
+                                    povezan s politično, gospodarsko in kulturno stopnjo razvoja
+                                    posameznega naroda. Ta razvoj je potekal v tesni odvisnosti od
+                                    razumevanja in spoštovanja vojaka, posebej vojaka invalida, ki
+                                    je v tako osebno stanje prišel v glavnem zaradi sodelovanja v
+                                    vojaških situacijah in posegih oziroma zaradi aktivnega
+                                    sodelovanja v bitkah, v raznih drugih vojaških operacijah in
+                                    aktivnostih v zaledju ter podobno. </entity:description>
                <entity:page>302</entity:page>
             </METS:xmlData>
          </METS:mdWrap>

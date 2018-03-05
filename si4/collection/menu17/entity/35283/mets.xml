@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/35283">
+           OBJID="http://hdl.handle.net/11686/35283"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2016-06-15T15:07:01"
                  LASTMODDATE="2017-02-13T11:52:45"
                  RECORDSTATUS="Active">
@@ -90,7 +92,24 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Avtor v prvem delu
+                                    prispevka razpravlja o vzrokih za prevrednotenje (revizijo)
+                                    novejše zgodovine. Vzroke vidi v novih odkritjih in spoznanjih
+                                    slovenskega in evropskega zgodovinopisja; v spremenjenih
+                                    razmerah v Evropi in svetu ter s tem povezanimi poskusi
+                                    drugačnega vrednotenja zgodovine in zgodovinskih simbolov
+                                    (čeprav naj bi protifašizem ostajal temeljna vrednota sodobne
+                                    evropske družbe) in v spremenjeni ideološki in politični podobi
+                                    Slovenije v zadnjih letih. V drugem delu prispevka je obravnavan
+                                    odnos do komunistične ideologije in do komunistov v posameznih
+                                    obdobjih slovenske zgodovine od konca prve svetovne vojne do
+                                    danes. Avtor zaključuje z ugotovitvijo, da se želi nihalo bolj
+                                    uravnoteženega zgodovinopisja, ki ga je stroka uspela v zadnjih
+                                    dvajsetih letih nekako »zaustaviti« na sredini, potisniti na
+                                    drugi skrajni rob (»domobranska resnica namesto »partizanske
+                                    resnice«). Takim pogledom naj bi prilagodili javno
+                                    predstavljanje zgodovine. </entity:description>
                <entity:page>287</entity:page>
             </METS:xmlData>
          </METS:mdWrap>

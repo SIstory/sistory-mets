@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/26789">
+           OBJID="http://hdl.handle.net/11686/26789"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2014-04-15T16:28:54"
                  LASTMODDATE="2017-02-14T14:06:11"
                  RECORDSTATUS="Active">
@@ -89,7 +91,28 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Okraj Kamnik je sodil po
+                                    obsegu med srednje okraje v Dravski banovini. Po ljudskem štetju
+                                    z dne 31. marca 1931 je živelo 38.683 prebivalcev od tega 18.340
+                                    moških in 20.343 žensk. Leta 1937 je okraj zajemal 18 občin in
+                                    20 občin leta 1939. V okraju je živelo nekaj nad 60% kmečkega
+                                    prebivalstva, prevladovali so srednje posestniki. Okraj je leta
+                                    1937 meril 584 km2. Mesto Kamnik je bil sedež političnega
+                                    okraja, okrajno sodišče pa je delovalo v Kamniku in na Brdu v
+                                    občini Lukovica. Tudi davčna in katastrska uprava je imela sedež
+                                    v Kamniku, medtem ko so delovali oddelki finančne kontrole v
+                                    Domžalah, Kamniku in Lukovici. Poleg mesta Kamnik so bili še
+                                    trije trgi in sicer Domžale, Mengeš in Motnik. V okraju so
+                                    delovale štiri zdravstvene občine, kjer je bil tudi sedež
+                                    banovinskega zdravnika, to so bile Domžale, Kamnik, Lukovica in
+                                    Mengeš. Javni lekarni sta bili v Domžalah in Kamniku. V Kamniku
+                                    je delovala tudi Protituberkulozna liga, ki je uspela zgraditi
+                                    Tuberkulozni dispanzer. Na občnem zboru omenjene lige novembra
+                                    1935 je bil za predsednika izvoljen neumoren in zaslužen dr.
+                                    Julij Polec. Za častnega člana so izvolili dr. Roberta
+                                    Neubauerja, saj si je močno prizadeval za ustanovitev takšnega
+                                    dispanzerja v Kamniku. </entity:description>
                <entity:page>422</entity:page>
             </METS:xmlData>
          </METS:mdWrap>

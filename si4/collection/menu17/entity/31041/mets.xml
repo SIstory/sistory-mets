@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/31041">
+           OBJID="http://hdl.handle.net/11686/31041"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2015-06-02T11:59:17"
                  LASTMODDATE="2017-02-15T12:17:32"
                  RECORDSTATUS="Active">
@@ -86,7 +88,23 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> The paper deals with
+                                    aspects of the so-called “Verwahrlosung” of children on the
+                                    basis of an extensive speech/report delivered at the 1907 First
+                                    Austrian Child Protection Conference by Lydia v. Wolfring
+                                    president of the Pestalozzi Society, one of numerous
+                                    contemporary voluntary organizations dealing with child
+                                    protection and youth welfare in the Habsburg Monarchy at the
+                                    time. “Verwahrlosung” referred to children’s and youth’s
+                                    material, emotional and moral neglect and was intensively
+                                    debated by state officials, university professors, school
+                                    teachers as well as engaged individuals in early 20th century
+                                    Austria, particularly within the scholarly, intellectual and
+                                    political environment of the imperial capital, Vienna. The paper
+                                    brings forward the contents of “Verwahrlosung”, attitudes and
+                                    practices in regard to child “neglect”, as well as children’s
+                                    experiences themselves. </entity:description>
                <entity:page>325</entity:page>
             </METS:xmlData>
          </METS:mdWrap>

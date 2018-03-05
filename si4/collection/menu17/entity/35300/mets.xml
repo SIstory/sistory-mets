@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/35300">
+           OBJID="http://hdl.handle.net/11686/35300"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2016-06-16T11:51:53"
                  LASTMODDATE="2017-02-10T12:55:55"
                  RECORDSTATUS="Active">
@@ -91,7 +93,19 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> V svojem prispevku se v
+                                    kontekstu primerjav z nacionalnim oblikovanjem Slovencev
+                                    osredotočam na kratek pregled oblikovanja norveške nacionalne
+                                    identitete v 19. stoletju in v času pred drugo svetovno vojno.
+                                    Ob nedvomnih vplivih norveške kulture (literature, še posebej
+                                    dramatike, glasbe in slikarstva) na proces ustvarjanja in
+                                    krepitve slovenske identitete v času med obema vojnama, namenjam
+                                    posebno pozornost odmevom osamosvajanja Norveške v letu 1905 v
+                                    slovenskem časopisju. Norveško nacionalno oblikovanje je
+                                    vplivalo tudi na prelom v slovenskem liberalnem taboru, ki se je
+                                    zgodil z izdajo knjige Josipa Vidmarja Kulturni problem
+                                    slovenstva, kar obravnavam v zadnjem delu prispevka. </entity:description>
                <entity:page>315</entity:page>
             </METS:xmlData>
          </METS:mdWrap>

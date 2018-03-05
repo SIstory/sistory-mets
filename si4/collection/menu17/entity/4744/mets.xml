@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/4744">
+           OBJID="http://hdl.handle.net/11686/4744"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2012-10-29T11:16:58"
                  LASTMODDATE="2016-12-18T10:31:47"
                  RECORDSTATUS="Active">
@@ -96,7 +98,36 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv">
+                  <p xmlns="http://www.w3.org/1999/xhtml">V organizaciji Zgodovinskega društva Ormož, Zgodovinskega
+                                        društva Celje, Zveze zgodovinskih društev Slovenije in OŠ
+                                        Središče ob Dravi (ter pod pokroviteljstvom občine Ormož in
+                                        Medicinske fakultete v Mariboru) se je prisrčna slovesnost
+                                        ob odkritju spominske plošče dr. Štefanu Kočevarju
+                                        (1808-1883) na njegovi rojstni hiši v Središču ob Dravi 9.
+                                        aprila 2005 nadaljevala z znanstvenim simpozijem, na katerem
+                                        je enajst referentov osvetlilo življenje in delo tega
+                                        skromnega, a slovenstvu do zadnjega atoma predanega
+                                        narodnjaka. Večina referatov se je osredotočila na
+                                        Kočevarjevo narodno-politično delo in predstavila njegovo
+                                        delovanje v okviru ilirskega gibanja, njegovo vlogo pri
+                                        akciji zbiranja podpisov za Zedinjeno Slovenijo (1848) in
+                                        njegovo politično delovanje v šestdesetih in sedemdesetih
+                                        letih, ko je bil Kočevar glavni organizator slovenske
+                                        stranke na Spodnjem Štajerskem. Dva prispevka sta na
+                                        inovativen način osvetlila Kočevarjevo strokovno delo na
+                                        področju medicine, z vrsto novih podatkov pa so postregli
+                                        tudi bolj »lokalno« orientirani referati, npr. o
+                                        Kočevarjevem rojstnem kraju (Središče ob Dravi) in njegovem
+                                        rodu. Dr. Štefana Kočevarja, ki je v zadnjih desetletjih kar
+                                        nekako izginil iz slovenskega kolektivnega spomina, so že
+                                        sodobniki upravičeno označevali za »neskaljeni biser
+                                        čistega, vzvišenega rodoljubja« (J. Vošnjak). Da ta ocena ni
+                                        pretirana, potrjujejo tudi referati, zbrani v pričujočem
+                                        zborniku. Upamo, da smo z njim dodali kamenček v Kočevarjev
+                                        življenjski mozaik.</p>
+               </entity:description>
                <entity:page>1</entity:page>
             </METS:xmlData>
          </METS:mdWrap>

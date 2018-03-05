@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/26791">
+           OBJID="http://hdl.handle.net/11686/26791"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2014-04-15T16:35:50"
                  LASTMODDATE="2017-02-14T14:05:36"
                  RECORDSTATUS="Active">
@@ -100,7 +102,26 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> V prvi polovici 20.
+                                    stoletja je pri razvoju Domžal igral izjemno pomembno vlogo
+                                    benificiat in nato prvi domžalski župnik Franc Bernik, ki je bil
+                                    v Domžalah nepretrgoma od leta 1903 do 1948, razen v času druge
+                                    svetovne vojne, ko je bil izgnan v Ljubljano. V tem času je v
+                                    Domžalah zapustil neizbrisno sled in ustvaril občudovanja vredno
+                                    zapuščino. Področja njegovega delovanja so bila izjemno številna
+                                    in raznolika, od utečenega dela, ki ga ima vsak župnik
+                                    (maševanje, krsti, poroke pogrebi, verouk itd.), do glasbenega
+                                    komponiranja, pisanja dramskih besedil, verskih in zgodovinskih
+                                    knjig, ustanavljanja in vodenja zadrug ter številnih društev,
+                                    ukvarjanja z delavstvom, vodenja kulturnih in socialnih ustanov,
+                                    organiziranja shodov in kongresov, obnove in nabave nove opreme
+                                    za župnijsko cerkev, kjer je delo zaupal uglednim ustvarjalcem
+                                    takratnega časa, kot so freskar Slavko Pengov, arhitekt Ivan
+                                    Vurnik, kipar Franc Kralj itd. Ta sestavek se bo omejil le na
+                                    njegov vpliv pri društveno-kulturnem, socialnem in gospodarskem
+                                    (zadružnem) razvoju Domžal, pri čemer je bila ključnega pomena
+                                    ustanovitev župnije leta 1908. </entity:description>
                <entity:page>450</entity:page>
             </METS:xmlData>
          </METS:mdWrap>

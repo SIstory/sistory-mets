@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/993">
+           OBJID="http://hdl.handle.net/11686/993"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2011-11-02T20:33:16"
                  LASTMODDATE="2017-02-10T11:02:36"
                  RECORDSTATUS="Active">
@@ -99,15 +101,32 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity"/>
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv">
+                  <p xmlns="http://www.w3.org/1999/xhtml">Iztekajoče se dvajseto stoletje je stoletje svetovnih vojn,
+                                        revolucij in tudi agrarnih reform. Te so spremljevalni pojav
+                                        in proces, kije spremljal prevrate in revolucije. Največ
+                                        agrarnih reform v pestri zgodovini človeštva je bilo
+                                        izvedenih po drugi svetovni vojni. Agrarna reforma je zajela
+                                        ves svet. Izvedena je bila v državah, ki so se osvobajale
+                                        kolonialnega gospostva oziroma tam, kjer so bile izvedene
+                                        nacionalno osvobodilne revolucije. Izvedena je bila v več
+                                        kot petintridesetih državah po vsem svetu. V prvih letih po
+                                        koncu druge svetovne vojne so agrarno reformo uzakonili in
+                                        izvedli predvsem v vzhodnoevropskih državah, ki so jih
+                                        osvobodile enote sovjetske Rdeče armade in so politično
+                                        postale del sovjetske interesne sfere kot tako imenovane
+                                        države ljudske demokracije</p>
+               </entity:description>
+            </METS:xmlData>
          </METS:mdWrap>
       </METS:techMD>
    </METS:amdSec>
    <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink" ID="default.file">
       <METS:fileGrp USE="DEFAULT">
-         <METS:file ID=""
+         <METS:file ID="file531"
                     OWNERID="AGRARNA_REFORMA_IN_KOLONIZACIJA_V_SLOVENIJI (1945-1948).pdf">
-            <METS:FLocat LOCTYPE="HANDLE" xlink:href="https://hdl.handle.net/11686/"/>
+            <METS:FLocat LOCTYPE="HANDLE" xlink:href="https://hdl.handle.net/11686/file531"/>
          </METS:file>
       </METS:fileGrp>
    </METS:fileSec>
@@ -117,7 +136,7 @@
       <METS:div TYPE="collection">
          <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/menu17"/>
          <METS:div TYPE="entity" DMDID="default.dc default.mods" ADMID="default.amd">
-            <METS:fptr FILEID=""/>
+            <METS:fptr FILEID="file531"/>
          </METS:div>
       </METS:div>
    </METS:structMap>

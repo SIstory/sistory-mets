@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/20424">
+           OBJID="http://hdl.handle.net/11686/20424"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2014-01-05T10:16:11"
                  LASTMODDATE="2017-02-13T12:15:26"
                  RECORDSTATUS="Active">
@@ -100,7 +102,36 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity"/>
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv">
+                  <p xmlns="http://www.w3.org/1999/xhtml"> Prvi Ravnihar, ki ga omenja Slovenski biografski leksikon,
+                                        je Janez (1798-1876), rojen ob koncu 18. stoletja v Škofji
+                                        Loki, oskrbnik raznih graščin in vinski trgovec. Sledijo mu
+                                        trije njegovi sinovi: Ludvik (1827-1901), sodnik in politik,
+                                        v letih 1867- 1870 prvi slovenski deželni poslanec
+                                        dolenjskih mest, Franc (1832-1904), deželni uradnik, eden
+                                        ustanoviteljev ljubljanske čitalnice, Sokola, Dramatičnega
+                                        društva in Glasbene matice, in sodnik Nikomed (1840-1928).
+                                        Tretjo generacijo zastopa v Slovenskem biografskem leksikonu
+                                        Francetov sin Vladimir (1871-1954), pisec naših spominov,
+                                        četrto pa njegova otroka Evgenij (1912-1949) in Božena
+                                        (rojena 1914). Dr. Vladimir Ravnihar je s svojim delom v
+                                        Glasbeni matici, Sokolu in drugih društvih nadaljeval in
+                                        širil očetovo delo, po politični aktivnosti pa je daleč
+                                        presegel strica Ludvika. O političnih prilikah njegovega
+                                        časa naj tu spregovorim nekaj besed. Od prve službe (1895)
+                                        do nemško-italijanskega napada na Jugoslavijo (1941), ki z
+                                        njim zaključuje svoje spomine, je preživel Ravnihar
+                                        približno pol časa v habsburški monarhiji, pol pa v
+                                        kraljevini Jugoslaviji. Obe obdobji sta bili seveda zelo
+                                        različni. V prvem je gospodoval Dunaj, v drugem Beograd.
+                                        Drugačno je bilo gospodarsko, geografsko, kulturno,
+                                        jezikovno, politično in še marsikakšno okolje. Vendar pa so
+                                        obe obdobji pretresali narodnostni boji, v vsaki državi
+                                        drugačni, Slovence pa še boji med liberalnim in katoliškim
+                                        taborom, v obeh državah podobni. </p>
+               </entity:description>
+            </METS:xmlData>
          </METS:mdWrap>
       </METS:techMD>
    </METS:amdSec>

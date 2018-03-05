@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/790">
+           OBJID="http://hdl.handle.net/11686/790"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2011-11-02T20:46:31"
                  LASTMODDATE="2017-02-10T11:55:04"
                  RECORDSTATUS="Active">
@@ -74,7 +76,37 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity"/>
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Monografijo o dr. Ivanu
+                                    Šušteršiču sem si sprva zamislil kot spremno študijo h knjigi
+                                    njegovih (izbranih) govorov in spisov v knjižni zbirki, ki bi
+                                    obsegla, nekako po zgledu zbirke »Dela slovenskih pesnikov in
+                                    pisateljev«, dela najpomembnejših slovenskih politikov. Zamisel
+                                    takšne knjižne vrste je sicer imela nekaj odmeva med slovenskimi
+                                    zgodovinarji, vendar se načrtovalci znanstvenega dela niso
+                                    odločili za kaj bolj otipljivega. Samotež pripraviti
+                                    Šušteršičeve govore in spise za kritično izdajo, bi daleč
+                                    preseglo moje moči posameznika. Ostal sem pri študiji o
+                                    Šušteršičevi politični poti, ki pa je morala zdaj postati
+                                    samostojna, ne le spremna. To je pomenilo, da mora zajeti vsaj v
+                                    glavnih potezah tudi snov njegovih zelo številnih govorov
+                                    (člankov je bilo malo), ker jih bralec pač ne bo dobil zbranih
+                                    pred oči. Študija je zato prerastla samo sebe v (pre)obsežno
+                                    monografijo. Po drugi strani je obsežnost še pospešila
+                                    skušnjava, da se ne omejim samo na tisto, kar j c v neposredni
+                                    zvezi z dejavnostjo Šušteršiča samega, marveč da se tudi ne
+                                    izognem širšemu toku slovenske politične zgodovine. In glede na
+                                    to. da je bil Šušteršič osrednja osebnost te zgodovine kar
+                                    dobrega četrt stoletja, seje moralo zgoditi, kar se je zgodilo:
+                                    zredil sem debelo knjigo. Če je to zdaj breme za založnika in če
+                                    utegne plašiti tudi bralca, se vendar ne strašim prevzeti
+                                    odgovornosti zanjo. Dr. Ivan Šušteršič si namreč debelo knjigo
+                                    zasluži. Upam, da bo potrpežljivi in vztrajni bralec na koncu
+                                    temu prepričanju pritrdil, četudi bo morda obžaloval, da knjiga
+                                    ni boljša. Opravičim se lahko samo s tem, da me gmota snovi ni
+                                    odgnala od dela. Četudi res ni dosti manjkalo. O dr. Ivanu
+                                    Šušteršiču pa se bo tako še pisalo. </entity:description>
+            </METS:xmlData>
          </METS:mdWrap>
       </METS:techMD>
    </METS:amdSec>

@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/31026">
+           OBJID="http://hdl.handle.net/11686/31026"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2015-06-02T10:49:59"
                  LASTMODDATE="2017-02-15T12:27:18"
                  RECORDSTATUS="Active">
@@ -92,7 +94,18 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> V prispevku gre za
+                                    pregled nekaterih osrednjih konceptualizacij otroštva, vsebin in
+                                    načinov preučevanja otrok predvsem v zgodovini, antropologiji in
+                                    sociologiji. Umestitev otroštva v raziskovalno polje, njegova
+                                    postavitev kot objekta oz. subjekta preučevanja je tesno
+                                    prepletena s tem, kako se je otroštvo obravnavalo in zamišljalo
+                                    v družbi. Pripovedi o otroštvu so povezane z vprašanjem
+                                    oblikovanja identitet in spominov. Avtorica opozarja, da čeprav
+                                    gre pri otroških spominih za osebna spominjanja na preteklost,
+                                    se spomini na otroštvo oblikujejo v sodobnosti in v družbi.
+                                </entity:description>
                <entity:page>133</entity:page>
             </METS:xmlData>
          </METS:mdWrap>

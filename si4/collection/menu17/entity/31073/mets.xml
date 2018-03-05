@@ -8,9 +8,11 @@
            xmlns:premis="http://www.loc.gov/standards/premis/v1"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
            ID="entity."
            TYPE="entity"
-           OBJID="http://hdl.handle.net/11686/31073">
+           OBJID="http://hdl.handle.net/11686/31073"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
    <METS:metsHdr CREATEDATE="2015-06-03T13:55:26"
                  LASTMODDATE="2017-02-15T11:58:54"
                  RECORDSTATUS="Active">
@@ -90,7 +92,20 @@
       </METS:techMD>
       <METS:techMD ID="default.si4">
          <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
-            <METS:xmlData xmlns:entity="http://sistory.si/schema/si4/entity">
+            <METS:xmlData xsi:schemaLocation="http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd">
+               <entity:description xml:lang="slv"> Jeseni leta 1992 je v
+                                    Sloveniji začelo delovati 54 šol s programom osnovne šole za
+                                    begunce. Vanje se je vključevalo 9000 otrok začasnih beguncev,
+                                    poučevalo pa je 450 učiteljev beguncev iz BiH. Osnovne šole so
+                                    delovale v centrih za begunce ali v popoldanskem času v
+                                    slovenskih osnovnih šolah ali drugih improviziranih prostorih.
+                                    Poleg improvizacije in neugodnih materialnih okoliščin so bili
+                                    posebnost šole njeni učitelji. Polovica jih ni imela pedagoške
+                                    izobrazbe, pred vojno so bili zaposleni kot ekonomisti,
+                                    inženirji, zdravniki, uradniki ali pa so bili študenti, tu pa
+                                    tam celo dijaki srednjih šol. Prispevek predstavi problematiko
+                                    šolanja begunskih otrok v Sloveniji in z njim v zvezi arhivsko
+                                    gradivo. </entity:description>
                <entity:page>726</entity:page>
             </METS:xmlData>
          </METS:mdWrap>
