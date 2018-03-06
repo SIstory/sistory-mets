@@ -317,6 +317,47 @@
     </xsl:param>
     
     <xsl:template match="sistory:root">
+        <!-- entity relacije med parent in child intelektualnimi entitetami -->
+        <!-- prvi vredost je tip entitete (primary ali dependent),
+             druga vrednost je Handle suffix parent entitete,
+             tretja vrednost je Handle suffix child entitete -->
+        <xsl:variable name="collectionId" select="concat('menu',sistory:publication[1]/sistory:MENU_ID/@id)"/>
+        <xsl:result-document href="{concat($outputDir,$collectionId,'/parent-child.txt')}" method="text" encoding="UTF-8">
+            <!-- TODO: dal sem samo neposredne parent child povezave, ker menim, da trenutno nimamo parent-child-child povezav -->
+            <xsl:for-each select="sistory:publication">
+                <xsl:sort select="sistory:ID" data-type="number" order="ascending"/>
+                <xsl:variable name="pubId" select="sistory:ID"/>
+                <xsl:choose>
+                    <!-- če je samostojna publikacija ali če je parent publikacija, ki ni child, potem je primarna entiteta -->
+                    <xsl:when test="not(sistory:PARENT)">
+                        <!-- če je samostojna primary publikacija brez childov, ne naredim nič -->
+                        <!-- če je primary publikacija z child publikacijami procesiram -->
+                        <xsl:for-each select="sistory:CHILDREN/sistory:CHILD">
+                            <xsl:text>primary</xsl:text>
+                            <xsl:text> </xsl:text>
+                            <xsl:value-of select="$pubId"/>
+                            <xsl:text> </xsl:text>
+                            <xsl:value-of select="."/>
+                            <xsl:text>&#xa;</xsl:text>
+                        </xsl:for-each>
+                    </xsl:when>
+                    <!-- drugače je odvisna entiteta -->
+                    <xsl:otherwise>
+                        <!-- če ima child publikacija samo parent publikacijo, ne procesiram -->
+                        <!-- če pa ima child publikacija tudi svoje child publikacije: -->
+                        <xsl:for-each select="sistory:CHILDREN/sistory:CHILD">
+                            <xsl:text>dependent</xsl:text>
+                            <xsl:text> </xsl:text>
+                            <xsl:value-of select="$pubId"/>
+                            <xsl:text> </xsl:text>
+                            <xsl:value-of select="."/>
+                            <xsl:text>&#xa;</xsl:text>
+                        </xsl:for-each>
+                    </xsl:otherwise>
+                </xsl:choose>
+            </xsl:for-each>
+        </xsl:result-document>
+        
         <!-- zajamem podatke iz ekstra dokument, v katerega sem shranil podatke iz sistory frontendta, ki niso bili v SIstory XML Basic -->
         <xsl:variable name="menuDocument" select="concat('../working/menu',sistory:publication[1]/sistory:MENU_ID/@id,'-frontend.xml')"/>
         <xsl:variable name="frontends" select="document($menuDocument)"/>
