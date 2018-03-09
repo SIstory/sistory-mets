@@ -133,4 +133,9 @@
          <METS:div TYPE="entity" DMDID="default.dc default.mods" ADMID="default.amd"/>
       </METS:div>
    </METS:structMap>
+   <METS:behaviorSec xmlns:xlink="http://www.w3.org/1999/xlink" ID="si4.behavior">
+      <METS:behavior BTYPE="default">
+         <METS:mechanism LOCTYPE="URL" xlink:href="resources/assets/xsd/default/"/>
+      </METS:behavior>
+   </METS:behaviorSec>
 </METS:mets>

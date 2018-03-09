@@ -154,9 +154,9 @@
                             </xsl:otherwise>
                         </xsl:choose>
                     </METS:structMap>
-                    <METS:behaviorSec ID="default.behavior" xmlns:xlink="http://www.w3.org/1999/xlink">
-                        <METS:behavior BTYPE="collection">
-                            <METS:mechanism LOCTYPE="URL" xlink:href="http://sistory.si/resources/assets/xsd/default/mets.xsd"/>
+                    <METS:behaviorSec ID="si4.behavior" xmlns:xlink="http://www.w3.org/1999/xlink">
+                        <METS:behavior BTYPE="default">
+                            <METS:mechanism LOCTYPE="URL" xlink:href="resources/assets/xsd/default/"/>
                         </METS:behavior>
                     </METS:behaviorSec>
                 </METS:mets>

@@ -34,6 +34,148 @@
          </METS:xmlData>
       </METS:mdWrap>
    </METS:dmdSec>
+   <METS:dmdSec ID="section.dc.1">
+      <METS:mdWrap MDTYPE="DC">
+         <METS:xmlData>
+            <dcterms:title xml:lang="slv">O SIstory</dcterms:title>
+            <dcterms:title xml:lang="eng">About</dcterms:title>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:dmdSec ID="section.collection.1">
+      <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="COLLECTION" MIMETYPE="text/xml">
+         <METS:xmlData xmlns:collection="http://sistory.si/schema/si4/collection" xsi:schemaLocation="http://sistory.si/si4/collection ../../schema/collection.1.0.xsd">
+            <collection:description xml:lang="slv"><div xmlns="http://www.w3.org/1999/xhtml">
+               <h2>O portalu <em>Zgodovina Slovenije - SIstory</em></h2>
+               <p>Portal <em>Zgodovina Slovenije - SIstory</em> nastaja v okviru dejavnosti <a
+                  href="/publikacije/?menuBottom=2" target="_blank">raziskovalne infrastrukture
+                  Slovenskega zgodovinopisja</a>. Portal SIstory je spletni sistem slovenskega
+                  zgodovinopisja, ki poleg dostopnih historičnih vsebin, relevantnih za proučevanje
+                  slovenske zgodovine, omogoča ustvarjanje raziskovalnih podatkov in njihovo uporabo v
+                  raziskovalnem okolju.</p>
+               <p>Portal omogoča hiter in enostaven dostop do prosto in odprto dostopnega
+                  verificiranega digitalnega in digitaliziranega gradiva, opremljenega z licencami <a
+                     href="https://creativecommons.org/" target="_blank">Creative Commons</a>.
+                  Uporabnik mora upoštevati splošne <a href="/publikacije/?menuBottom=3"
+                     target="_blank">Pogoje uporabe</a> in navodila za <a
+                        href="/publikacije/?menuBottom=14" target="_blank">Navedbo vira</a>. Uporabnik
+                  lahko do gradiva dostopa preko:</p>
+               <ul>
+                  <li>navigacije (menijskega sistema) in</li>
+                  <li>iskalnikov.</li>
+               </ul>
+               <p>Informacijski strokovnjaki lahko do metapodatkov o gradivu s portala SIstory
+                  dostopajo preko:</p>
+               <ul>
+                  <li><a href="http://www.sistory.si/restconsole.html" target="_blank">aplikacijskega
+                     programskega vmesnika (API)</a>, oziroma direktno preko <a
+                        href="http://www.sistory.si/oairest.php?verb=GetRecord&amp;metadataPrefix=oai_dc&amp;identifier=SISTORY:ID:1"
+                        target="_blank">RestApi</a>;</li>
+                  <li><a
+                     href="http://www.sistory.si/oai.php?verb=ListRecords&amp;metadataPrefix=oai_dc"
+                     target="_blank">protokola za zajemanje metapodatkov</a>;</li>
+                  <li>kot RDFa na metapodatkovni strani digitalnih objektov;</li>
+               </ul>
+               <p>OCR digitaliziranih PDF datotek starejših SIstory publikacij (manj kot SISTORY:ID
+                  cca. 35000) pa je še vedno dostopen preko <a
+                     href="http://www.sistory.si/raw2xml.php?ID=1" target="_blank">XML</a>. ID je
+                  SISTORY:ID publikacije, ki vsebuje PDF datoteko.</p>
+            </div></collection:description>
+            <collection:description xml:lang="eng"><div xmlns="http://www.w3.org/1999/xhtml">
+               <h2>About the History of Slovenia – SIstory portal</h2>
+               <p>The <em>History of Slovenia – SIstory</em> portal has been established as part of
+                  activities carried out by the <a href="/publikacije/?menuBottom=2&amp;language=en"
+                     target="_blank">Research Infrastructure of Slovenian Historiography</a>. The
+                  SIstory portal is an online system of Slovenian historiography, which not only
+                  enables access to historical content relevant for the study of Slovenian history but
+                  also offers the possibility to create research data and use it in a research
+                  environment.</p>
+               <p>The portal provides quick, easy, free and open access to verified digital and
+                  digitized material to which the <a href="https://creativecommons.org/"
+                     target="_blank">Creative Commons</a> licenses are attached. The user has to
+                  follow the general <a href="/publikacije/?menuBottom=3&amp;language=en"
+                     target="_blank">Terms of use</a> and instructions for <a
+                        href="/publikacije/?menuBottom=14&amp;language=en" target="_blank">source
+                        citing</a>. They can access the material via:</p>
+               <ul>
+                  <li>Navigation (menu system)</li>
+                  <li>Search engines</li>
+               </ul>
+               <p>IT professionals can access the metadata relating to material from the SIstory
+                  portal:</p>
+               <ul>
+                  <li>Via the <a href="http://www.sistory.si/restconsole.html" target="_blank"
+                     >application programming interface (API)</a> or directly via <a
+                        href="http://www.sistory.si/oairest.php?verb=GetRecord&amp;metadataPrefix=oai_dc&amp;identifier=SISTORY:ID:1"
+                        target="_blank">RestApi</a></li>
+                  <li>Via the <a
+                     href="http://www.sistory.si/oai.php?verb=ListRecords&amp;metadataPrefix=oai_dc"
+                     target="_blank">Protocol for metadata harvesting</a></li>
+                  <li>As RDFa on the frontend of the digital objects</li>
+               </ul>
+               <p>The OCR of the digitised PDF files included in older SIstory publications (35000 less
+                  than SISTORY:ID) is still accessible via <a
+                     href="http://www.sistory.si/raw2xml.php?ID=1" target="_blank">XML</a>. An ID is
+                  the SISTORY:ID of the publication containing the PDF file.</p>
+            </div></collection:description>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:dmdSec ID="section.dc.3">
+      <METS:mdWrap MDTYPE="DC">
+         <METS:xmlData>
+            <dcterms:title xml:lang="slv">Pogoji uporabe</dcterms:title>
+            <dcterms:title xml:lang="eng">Terms of use</dcterms:title>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:dmdSec ID="section.collection.3">
+      <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="COLLECTION" MIMETYPE="text/xml">
+         <METS:xmlData xmlns:collection="http://sistory.si/schema/si4/collection" xsi:schemaLocation="http://sistory.si/si4/collection ../../schema/collection.1.0.xsd">
+            <collection:description xml:lang="slv"><div xmlns="http://www.w3.org/1999/xhtml">
+               <h2>Splošni pogoji uporabe portala Zgodovina Slovenije - SIstory</h2>
+               <p>Obveščamo vas, da so splošni pogoji uporabe vsebin, ki so objavljene na spletnem
+                  portalu Zgodovina Slovenije - SIstory zaradi postopkov prenove portala v pripravi,
+                  zato so objavljeni začasni pogoji uporabe vsebin.</p>
+               <h3>1. Splošno</h3>
+               <p>Vsebina Splošnih pogojev o uporabi spletnega portala Zgodovina Slovenije – SIstory (v
+                  nadaljevanju portal SIstory) se nanaša na pogoje uporabe spletnih vsebin na spletni
+                  strani sistory.si ter predstavlja pravno veljaven in zavezujoč sporazum med
+                  ponudnikom ter uporabniki spletne strani sistory.si.</p>
+               <h3>2. Avtorske in sorodne pravice</h3>
+               <p>V času obnove portala SIstory so vse pravice na objavljenih vsebinah, ki so varovane
+                  z avtorsko in sorodnimi pravicami, pridržane, kar pomeni, da jih je brez predhodnega
+                  pisnega soglasja imetnika pravic prepovedano uporabljati in izkoriščati, kar velja
+                  tako za komercialne kot za nekomercialne namene uporabe, pri čemer pa te omejitve ne
+                  posegajo v dovoljene oblike uporabe avtorsko varovanih vsebin, kot jih določajo
+                  pravila veljavnega Zakona o avtorski in sorodnih pravicah. Omejitve prav tako ne
+                  veljajo za dela v javni domeni, na katerih so avtorske pravice že potekle.</p>
+               <h3>3. Priprava splošnih pogojev</h3>
+               <p>Po vzpostavitvi obnovljenega portala SIstory si bomo prizadevali, da bo večina vsebin
+                  na voljo pod pogoji ustrezne licence <a target="_blank"
+                     href="http://creativecommons.org/">Creative Commons</a>, kar bo uporabnikom
+                  omogočalo prostejšo uporabo in izkoriščanje avtorskih del, objavljenih na portalu
+                  Sistory.</p>
+            </div></collection:description>
+            <collection:description xml:lang="eng"><div xmlns="http://www.w3.org/1999/xhtml">
+               <h2>General terms of use of the History of Slovenia – SIstory web portal</h2>
+               <p>As the SIstory web portal has been under reconstruction, the general terms of use of
+                  the contents published on the portal have been in preparation.</p>
+               <p>During the reconstruction of the SIstory web portal, all the rights on the published
+                  contents protected by the copyright or related rights have been reserved; it is
+                  prohibited to use or exploit them either for commercial or non-commercial purposes
+                  without the authorisation of the owner of the rights. In accordance with the
+                  Copyright and Related Rights Act, these restrictions do not interfere with the
+                  authorised forms of use of the copyrighted contents. Likewise, the restrictions do
+                  not apply to the works in public domain for which the copyright has expired.</p>
+               <p>In the reconstructed version of the SIstory web portal, we will strive for the
+                  majority of contents to be available under the conditions of the licence
+                  Creative Commons, which would allow a broad use and exploitation of copyrighted
+                  works published on the SIstory web portal.</p>
+            </div></collection:description>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
    <METS:amdSec ID="default.amd">
       <METS:techMD ID="default.premis">
          <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
@@ -64,10 +206,16 @@
          </METS:div>
       </METS:div>
    </METS:structMap>
-   <METS:behaviorSec xmlns:xlink="http://www.w3.org/1999/xlink" ID="default.behavior">
-      <METS:behavior BTYPE="collection">
-         <METS:mechanism LOCTYPE="URL"
-                         xlink:href="http://sistory.si/resources/assets/xsd/default/mets.xsd"/>
+   <METS:structMap ID="footer">
+      <METS:div TYPE="section" DMDID="section.dc.1 section.collection.1">
+         <METS:div TYPE="section" DMDID="section.dc.3 section.collection.3">
+            
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+   <METS:behaviorSec ID="si4.behavior" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <METS:behavior BTYPE="default">
+         <METS:mechanism LOCTYPE="URL" xlink:href="resources/assets/xsd/default/"/>
       </METS:behavior>
    </METS:behaviorSec>
 </METS:mets>

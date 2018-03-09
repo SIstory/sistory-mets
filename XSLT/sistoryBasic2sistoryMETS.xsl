@@ -721,6 +721,11 @@
                                         </METS:div>
                                     </METS:div>
                                 </METS:structMap>
+                                <METS:behaviorSec ID="si4.behavior" xmlns:xlink="http://www.w3.org/1999/xlink">
+                                    <METS:behavior BTYPE="default">
+                                        <METS:mechanism LOCTYPE="URL" xlink:href="resources/assets/xsd/default/"/>
+                                    </METS:behavior>
+                                </METS:behaviorSec>
                             </METS:mets>
                         </xsl:result-document>
                     </xsl:for-each>
@@ -817,6 +822,11 @@
                             </xsl:otherwise>
                         </xsl:choose>
                     </METS:structMap>
+                    <METS:behaviorSec ID="si4.behavior" xmlns:xlink="http://www.w3.org/1999/xlink">
+                        <METS:behavior BTYPE="default">
+                            <METS:mechanism LOCTYPE="URL" xlink:href="resources/assets/xsd/default/"/>
+                        </METS:behavior>
+                    </METS:behaviorSec>
                 </METS:mets>
             </xsl:result-document>
         </xsl:for-each>
