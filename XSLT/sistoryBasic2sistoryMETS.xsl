@@ -540,7 +540,7 @@
                                             <xsl:value-of select="sistory:URN"/>
                                         </premis:objectIdentifierValue>
                                     </premis:objectIdentifier>
-                                    <premis:objectCategory>Entity</premis:objectCategory>
+                                    <premis:objectCategory>Intellectual entity</premis:objectCategory>
                                 </METS:xmlData>
                             </METS:mdWrap>
                         </METS:techMD>

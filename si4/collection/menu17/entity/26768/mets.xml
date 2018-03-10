@@ -81,7 +81,7 @@
                   <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
                   <premis:objectIdentifierValue>http://hdl.handle.net/11686/26768#page=172</premis:objectIdentifierValue>
                </premis:objectIdentifier>
-               <premis:objectCategory>Entity</premis:objectCategory>
+               <premis:objectCategory>Intellectual entity</premis:objectCategory>
             </METS:xmlData>
          </METS:mdWrap>
       </METS:techMD>
