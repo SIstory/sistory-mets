@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/776">
+   <METS:metsHdr CREATEDATE="2012-06-16T06:07:57"
+                 LASTMODDATE="2017-02-13T11:28:48"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name>Meden, Katja</METS:name>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="default.dc">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dc:title xml:lang="slv">»Liberalizem« v Sloveniji</dc:title>
+            <dc:creator>Repe, Božo</dc:creator>
+            <dc:description xml:lang="slv">Z »liberalizmom« v povojni slovenski in jugoslovanski zgodovini označujemo obdobje med sredino šestdesetih in sredino sedemdesetih let, ko je znotraj edine in vladajoče stranke Zveze komunistov Jugoslavije (ZKJ) prišlo do pomembnih demokratičnih sprememb, ki so odsevale tudi v družbi. Ti procesi so bili nasilno pretrgani v prvi polovici sedemdesetih let. Najmočnejša demokratična gibanja so bila v Sloveniji, na Hrvaškem in v Srbiji, do izraza pa so prišla tudi v Makedoniji. Ponekod so se izražala tudi v poudarjenih poskusih nacionalne afirmacije (Slovenija, Makedonija), pri čemer je prihajalo tudi do nacionalizma (Hrvaška). Partijski »liberalizem« s klasičnim (meščanskim) nima razen nekaterih najbolj splošnih demokratičnih postavk nobene zveze...</dc:description>
+            <dc:description xml:lang="eng">In post-war Slovene and Yugoslav history, the term "liberalism" is used to denote the period between the mid-sixties and mid-seventies. It was the time when important democratic changes occurred within the only and leading party, the Communist Party of Yugoslavia (CPY), which was also reflected in society. Democratic processes were forcibly interrupted in the first half of the seventies. Democratic movements were the strongest in Slovenia, Croatia and Serbia, and they also gained ground in Macedonia. In places they were expressed as attempts at national affirmation (Slovenia, Macedonia), which sometimes led to nationalism (Croatia). Party "liberalism" is in no way related to classic liberalism, except in a few fundamental democratic principles. The democratic movements in the sixties had their precedents. The transition from a multi-party to a one-party system in the first post-war years in Yugoslavia was fast and forcible, but traces of pluralism remained. The same was true of Slovenia, where the process was completed during the war with the so-called "Dolomite Declaration" (adopted on 1st March, 1943); with the Declaration, the Liberation Front lost, its coalitional character, while two of the founding groups (the Christian Socialist and the Sokoli) renounced their independent (Party) political activities.</dc:description>
+            <dc:subject xml:lang="slv">Slovenija</dc:subject>
+            <dc:subject xml:lang="slv">liberalizem</dc:subject>
+            <dc:subject xml:lang="slv">Zveza komunistov Slovenije</dc:subject>
+            <dc:subject xml:lang="slv">politične razmere</dc:subject>
+            <dc:subject xml:lang="slv">politična reforma</dc:subject>
+            <dc:subject xml:lang="slv">1965-1974</dc:subject>
+            <dc:subject xml:lang="eng">Slovenia</dc:subject>
+            <dc:subject xml:lang="eng">liberalism</dc:subject>
+            <dc:subject xml:lang="eng">League of Communists of Slovenia</dc:subject>
+            <dc:subject xml:lang="eng">political situation</dc:subject>
+            <dc:subject xml:lang="eng">political reform</dc:subject>
+            <dc:subject xml:lang="eng">1965-1974</dc:subject>
+            <dc:publisher>RO ZZB NOV Slovenije, Ljubljana</dc:publisher>
+            <dc:contributor>Milena Štrajnar (gl. in odg. ur.)</dc:contributor>
+            <dc:contributor>Sonja Likar (lekt.)</dc:contributor>
+            <dc:date xsi:type="dcterms:W3CDTF">1992</dc:date>
+            <dc:type xsi:type="dcterms:DCMIType">Text</dc:type>
+            <dc:identifier>COBISS.SI-ID 32142848</dc:identifier>
+            <dc:language xsi:type="dcterms:ISO639-3">slv</dc:language>
+            <dc:coverage xml:lang="slv">Slovenija, 1965-1974</dc:coverage>
+            <dcterms:isPartOf>Borec. Revija za zgodovino, literaturo in antropologijo, 1992, št. 9-10</dcterms:isPartOf>
+            <dcterms:license xsi:type="dcterms:URI">http://creativecommons.org/licenses/by-nc-nd/2.5/si/</dcterms:license>
+            <dcterms:license xml:lang="slv">Priznanje avtorstva-Nekomercialo-Brez predelav 2.5 Slovenija (CC BY-NC-ND 2.5 SI)</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:dmdSec ID="default.mods">
+      <METS:mdWrap MDTYPE="MODS" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <mods:mods>
+               <mods:relatedItem type="series">
+                  <mods:titleInfo>
+                     <mods:title>Borec. Revija za zgodovino, literaturo in antropologijo, 1992, št. 9-10</mods:title>
+                  </mods:titleInfo>
+               </mods:relatedItem>
+            </mods:mods>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="default.amd">
+      <METS:techMD ID="default.premis">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>si4</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue/>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>Local name</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>776</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>http://hdl.handle.net/11686/776</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectCategory>Intellectual entity</premis:objectCategory>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="default.si4">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <entity:desc xml:lang="slv">
+                  <p xmlns="http://www.w3.org/1999/xhtml">Z »liberalizmom« v povojni slovenski in jugoslovanski
+                                        zgodovini označujemo obdobje med sredino šestdesetih in
+                                        sredino sedemdesetih let, ko je znotraj edine in vladajoče
+                                        stranke Zveze komunistov Jugoslavije (ZKJ) prišlo do
+                                        pomembnih demokratičnih sprememb, ki so odsevale tudi v
+                                        družbi. Ti procesi so bili nasilno pretrgani v prvi polovici
+                                        sedemdesetih let. Najmočnejša demokratična gibanja so bila v
+                                        Sloveniji, na Hrvaškem in v Srbiji, do izraza pa so prišla
+                                        tudi v Makedoniji. Ponekod so se izražala tudi v poudarjenih
+                                        poskusih nacionalne afirmacije (Slovenija, Makedonija), pri
+                                        čemer je prihajalo tudi do nacionalizma (Hrvaška). Partijski
+                                        »liberalizem« s klasičnim (meščanskim) nima razen nekaterih
+                                        najbolj splošnih demokratičnih postavk nobene zveze...</p>
+               </entity:desc>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink" ID="default.file">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="file369" OWNERID="BOREC_1992_09-10.pdf">
+            <METS:FLocat LOCTYPE="HANDLE" xlink:href="https://hdl.handle.net/11686/file369"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   ID="default.structure"
+                   TYPE="primary">
+      <METS:div TYPE="collection">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/menu17"/>
+         <METS:div TYPE="entity" DMDID="default.dc default.mods" ADMID="default.amd">
+            <METS:fptr FILEID="file369"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+   <METS:behaviorSec xmlns:xlink="http://www.w3.org/1999/xlink" ID="si4.behavior">
+      <METS:behavior BTYPE="default">
+         <METS:mechanism LOCTYPE="URL" xlink:href="resources/assets/xsd/default/"/>
+      </METS:behavior>
+   </METS:behaviorSec>
+</METS:mets>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/31064">
+   <METS:metsHdr CREATEDATE="2015-06-03T12:33:24"
+                 LASTMODDATE="2017-02-15T12:02:48"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name>Meden, Katja</METS:name>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="default.dc">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dc:title xml:lang="slv">Otroštvo, ki ga ni bilo</dc:title>
+            <dc:creator>Keršič, Marta Milena</dc:creator>
+            <dc:creator>Pučnik Rudl, Majda</dc:creator>
+            <dc:subject xml:lang="slv">otroštvo</dc:subject>
+            <dc:subject xml:lang="slv">komunizem</dc:subject>
+            <dc:subject xml:lang="slv">zločini</dc:subject>
+            <dc:subject xml:lang="slv">travme</dc:subject>
+            <dc:subject xml:lang="slv">izbris spomina</dc:subject>
+            <dc:subject xml:lang="eng">childhood</dc:subject>
+            <dc:subject xml:lang="eng">communism</dc:subject>
+            <dc:subject xml:lang="eng">crime</dc:subject>
+            <dc:subject xml:lang="eng">trauma</dc:subject>
+            <dc:subject xml:lang="eng">erasure of memory</dc:subject>
+            <dc:publisher>Zveza zgodovinskih društev Slovenije</dc:publisher>
+            <dc:contributor>Peter Štih (gl. in od. ur.)</dc:contributor>
+            <dc:contributor>Aida Škoro Babić (ur. in prev.)</dc:contributor>
+            <dc:contributor>Mateja Jeraj (ur.)</dc:contributor>
+            <dc:contributor>Matevž Košir (ur.)</dc:contributor>
+            <dc:contributor>Bojan Balkovec (ur.)</dc:contributor>
+            <dc:date xsi:type="dcterms:W3CDTF">2012</dc:date>
+            <dc:type xsi:type="dcterms:DCMIType">Text</dc:type>
+            <dc:language xsi:type="dcterms:ISO639-3">slv</dc:language>
+            <dcterms:alternative xml:lang="eng">Childhood That did not Exist</dcterms:alternative>
+            <dcterms:abstract xml:lang="slv">Razprava je razmislek o potrebi po prekinitvi molka o življenju otrok žrtev komunističnega sistema, o strašni izkušnji vojne, izgubah, taboriščih, zaporih, šikaniranju in preganjanju. Osebne travme so se večale z odvzemom možnosti za nadaljnje izobraževanje in zaposlitev, z negativnim javnim mnenjem, s pritiski na ožjo in širšo družino. Otroštvo pričevalcev je bilo nasilno pretrgano. O preživelih dogodkih, doživljanju in čustvovanju se ni smelo govoriti. Posledice travm in izbrisa spomina segajo vse do danes.</dcterms:abstract>
+            <dcterms:abstract xml:lang="eng">Discussion is a consideration of the need to break the silence about the life of child victims of the communist system, the terrible experience of war, loss, camps, prisons, harassment and persecution. Personal traumas grew with taking opportunities for further education and employment, with a negative public opinion, the pressure on the close and wider family. Childhood of witnesses was violently interrupted. They were not allowed to speak about the events they survived, about their experiences and emotions. The consequences of trauma and memories are still present today.</dcterms:abstract>
+            <dcterms:isPartOf>Zbirka zgodovinskega časopisa, 45</dcterms:isPartOf>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:dmdSec ID="default.mods">
+      <METS:mdWrap MDTYPE="MODS" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <mods:mods>
+               <mods:relatedItem type="series">
+                  <mods:titleInfo>
+                     <mods:title>Zbirka zgodovinskega časopisa, 45</mods:title>
+                  </mods:titleInfo>
+               </mods:relatedItem>
+            </mods:mods>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="default.amd">
+      <METS:techMD ID="default.premis">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>si4</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue/>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>Local name</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>31064</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>http://hdl.handle.net/11686/31064#page=610</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectCategory>Intellectual entity</premis:objectCategory>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="default.si4">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <entity:desc xml:lang="slv"> Razprava je razmislek o
+                                    potrebi po prekinitvi molka o življenju otrok žrtev
+                                    komunističnega sistema, o strašni izkušnji vojne, izgubah,
+                                    taboriščih, zaporih, šikaniranju in preganjanju. Osebne travme
+                                    so se večale z odvzemom možnosti za nadaljnje izobraževanje in
+                                    zaposlitev, z negativnim javnim mnenjem, s pritiski na ožjo in
+                                    širšo družino. Otroštvo pričevalcev je bilo nasilno pretrgano. O
+                                    preživelih dogodkih, doživljanju in čustvovanju se ni smelo
+                                    govoriti. Posledice travm in izbrisa spomina segajo vse do
+                                    danes. </entity:desc>
+               <entity:page>610</entity:page>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   ID="default.structure"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/31016"/>
+         <METS:div TYPE="entity" DMDID="default.dc default.mods" ADMID="default.amd"/>
+      </METS:div>
+   </METS:structMap>
+   <METS:behaviorSec xmlns:xlink="http://www.w3.org/1999/xlink" ID="si4.behavior">
+      <METS:behavior BTYPE="default">
+         <METS:mechanism LOCTYPE="URL" xlink:href="resources/assets/xsd/default/"/>
+      </METS:behavior>
+   </METS:behaviorSec>
+</METS:mets>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/31004">
+   <METS:metsHdr CREATEDATE="2015-05-15T08:36:16"
+                 LASTMODDATE="2017-02-15T09:26:14"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name>Meden, Katja</METS:name>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="default.dc">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dc:title xml:lang="slv">Banski svet Dravske banovine 1930-1941, naslednik "deželnega zbora in oblastnih samouprav"</dc:title>
+            <dc:creator>Stiplovšek, Miroslav</dc:creator>
+            <dc:subject xml:lang="slv">deželni zbor</dc:subject>
+            <dc:subject xml:lang="slv">oblastna skupščina</dc:subject>
+            <dc:subject xml:lang="slv">banski svet</dc:subject>
+            <dc:subject xml:lang="slv">samouprava</dc:subject>
+            <dc:subject xml:lang="slv">avtonomija</dc:subject>
+            <dc:subject xml:lang="slv">Ljubljanska oblast</dc:subject>
+            <dc:subject xml:lang="slv">Mariborska oblast</dc:subject>
+            <dc:subject xml:lang="slv">Dravska banovina</dc:subject>
+            <dc:subject xml:lang="eng">provincial council</dc:subject>
+            <dc:subject xml:lang="eng">seif-government autonomy</dc:subject>
+            <dc:subject xml:lang="eng">assembly</dc:subject>
+            <dc:subject xml:lang="eng">Banovian council</dc:subject>
+            <dc:subject xml:lang="eng">Ljubljana's authorities</dc:subject>
+            <dc:subject xml:lang="eng">Maribor's authorities</dc:subject>
+            <dc:subject xml:lang="eng">Drava Banovina</dc:subject>
+            <dc:publisher>Oddelek za zgodovino Filozofske fakultete Univerze v Ljubljani, Ljubljana</dc:publisher>
+            <dc:contributor>Danijela Trškan (ur.)</dc:contributor>
+            <dc:contributor>Darja Pipuš Sunesko (prev.)</dc:contributor>
+            <dc:contributor>Danijela Trškan (prev.)</dc:contributor>
+            <dc:date xsi:type="dcterms:W3CDTF">2011</dc:date>
+            <dc:type xsi:type="dcterms:DCMIType">Text</dc:type>
+            <dc:language xsi:type="dcterms:ISO639-3">slv</dc:language>
+            <dcterms:alternative xml:lang="eng">The Banovinian Council of Drava Banovina 1930-1941, the successor of the »Provincial Assembly and Self-authority«</dcterms:alternative>
+            <dcterms:abstract xml:lang="slv">Na Slovenskem so od uveljavitve deželne avtonomije leta 1861 do zloma habsburške monarhije delovali kot njeni nosilci deželni zbori, v prvi Jugoslaviji pa so z ustavo in zakoni dobili značaj predstavniških teles skupščini ljubljanske in mariborske oblasti (1927—1929) ter banski svet Dravske banovine (1930-1941). Ti organi so imeli nalogo, da z različnimi pristojnostmi sodelujejo pri izvajanju gospodarsko-socialnih in prosvetno-kulturnih dejavnosti, ki so jih osrednje centralistične oblasti prepustile največjim upravnim enotam deželam, oblastem in banovinam, pri svoji dejavnosti pa so si prizadevali uveljavljati parlamentarne metode. Uspešno delovanje deželnega zbora Kranjske po letu 1908 je bilo za Slovensko ljudsko stranko pomembna izkušnja pri vodenju slovenskih oblastnih samouprav, ki ga je prevzela po volilni zmagi leta 1927. Po njeni zaslugi so samoupravni organi ljubljanske in mariborske oblasti razširili svoje pristojnosti in dosegli pomembne uspehe v prizadevanjih za razvoj Slovenije. Tudi imenovani banski svet je pod njenim vodstvom v drugi polovici tridesetih let v ugodnih gospodarskih razmerah in s privilegiji vladne stranke precej avtonomno izvajal pomembne naloge za napredek Slovenije v primerjavi s prvim obdobjem svojega delovanja, ko so ga vodili liberalci in je moral reševati zlasti socialne posledice gospodarske krize.</dcterms:abstract>
+            <dcterms:abstract xml:lang="eng">From the enforcement of autonomy of the land of Slovenia in 1861 to the collapse of the Habsburg monarchy, there were provincial assemblies as the principles. In first Yugoslavia with the Constitution and laws, the character of representative bodies also obtained the assemblies of Ljubljana and Maribor's authority (1927-1929) and the Banovian council of the Drava Banovina (1930—1941). These organs had the role to participate with various jurisdictions in executing economic - social and secular - cultural activities, which the central centralistic authorities gave to the largest administrative units of the land, authorities and banovinas. The organs also endeavoured to enforce parliamental methods in their actions. The successful Operation of the provincial assembly of Carniola after 1908 was an important experience for the Slovenian People's Party in running Slovenian local self-governments, which it took over after an electoral win in 1927. Thanks to it, the self-governmental organs of Ljubljana and Maribor spread their activities and achieved important breakthroughs in the strive for the development o f Slovenia. Even the so-called Banovian council under its leadership in the second half of the thirties, during favourable economic conditions and with the Privileges o f the leading party, rather autonomously carried out important assignments for the progress of Slovenia in comparison to the first period, led by the liberals and when the council had to deal with the social consequences of the economic crisis.</dcterms:abstract>
+            <dcterms:isPartOf>Historia: znanstvena zbirka Oddelka za zgodovino Filozofska fakultete v Ljubljani; 19</dcterms:isPartOf>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:dmdSec ID="default.mods">
+      <METS:mdWrap MDTYPE="MODS" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <mods:mods>
+               <mods:relatedItem type="series">
+                  <mods:relatedItem type="series">
+                     <mods:titleInfo>
+                        <mods:title>Historia: znanstvena zbirka Oddelka za zgodovino Filozofska fakultete v Ljubljani</mods:title>
+                     </mods:titleInfo>
+                     <mods:part>
+                        <mods:detail type="volumens">
+                           <mods:number>19</mods:number>
+                        </mods:detail>
+                     </mods:part>
+                  </mods:relatedItem>
+               </mods:relatedItem>
+            </mods:mods>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="default.amd">
+      <METS:techMD ID="default.premis">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>si4</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue/>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>Local name</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>31004</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>http://hdl.handle.net/11686/31004#page=421</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectCategory>Intellectual entity</premis:objectCategory>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="default.si4">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <entity:desc xml:lang="slv"> Na Slovenskem so od
+                                    uveljavitve deželne avtonomije leta 1861 do zloma habsburške
+                                    monarhije delovali kot njeni nosilci deželni zbori, v prvi
+                                    Jugoslaviji pa so z ustavo in zakoni dobili značaj
+                                    predstavniških teles skupščini ljubljanske in mariborske oblasti
+                                    (1927—1929) ter banski svet Dravske banovine (1930-1941). Ti
+                                    organi so imeli nalogo, da z različnimi pristojnostmi sodelujejo
+                                    pri izvajanju gospodarsko-socialnih in prosvetno-kulturnih
+                                    dejavnosti, ki so jih osrednje centralistične oblasti prepustile
+                                    največjim upravnim enotam deželam, oblastem in banovinam, pri
+                                    svoji dejavnosti pa so si prizadevali uveljavljati parlamentarne
+                                    metode. Uspešno delovanje deželnega zbora Kranjske po letu 1908
+                                    je bilo za Slovensko ljudsko stranko pomembna izkušnja pri
+                                    vodenju slovenskih oblastnih samouprav, ki ga je prevzela po
+                                    volilni zmagi leta 1927. Po njeni zaslugi so samoupravni organi
+                                    ljubljanske in mariborske oblasti razširili svoje pristojnosti
+                                    in dosegli pomembne uspehe v prizadevanjih za razvoj Slovenije.
+                                    Tudi imenovani banski svet je pod njenim vodstvom v drugi
+                                    polovici tridesetih let v ugodnih gospodarskih razmerah in s
+                                    privilegiji vladne stranke precej avtonomno izvajal pomembne
+                                    naloge za napredek Slovenije v primerjavi s prvim obdobjem
+                                    svojega delovanja, ko so ga vodili liberalci in je moral
+                                    reševati zlasti socialne posledice gospodarske krize. </entity:desc>
+               <entity:page>421</entity:page>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   ID="default.structure"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/30974"/>
+         <METS:div TYPE="entity" DMDID="default.dc default.mods" ADMID="default.amd"/>
+      </METS:div>
+   </METS:structMap>
+   <METS:behaviorSec xmlns:xlink="http://www.w3.org/1999/xlink" ID="si4.behavior">
+      <METS:behavior BTYPE="default">
+         <METS:mechanism LOCTYPE="URL" xlink:href="resources/assets/xsd/default/"/>
+      </METS:behavior>
+   </METS:behaviorSec>
+</METS:mets>

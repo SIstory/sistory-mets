@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/26749">
+   <METS:metsHdr CREATEDATE="2014-04-14T18:02:20"
+                 LASTMODDATE="2017-02-15T11:45:35"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name>Meden, Katja</METS:name>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="default.dc">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dc:title xml:lang="slv">Velika vojna v literarnem odsevu</dc:title>
+            <dc:creator>Schmidt, Goran</dc:creator>
+            <dc:description xml:lang="slv">Če bi skušali zgodovinski položaj Slovencev in njihovo mentaliteto ob vstopu v prvo svetovno vojno razumeti zgolj z branjem takratne slovenske literature - kar je pač pogled literarnega zgodovinarja - potem bi opazili prevladujočo hromečo tradicijo katolištva in popolno odsotnost tiste suverene mentalitete, ki je značilna za veliko buržoazijo in ki izvira iz njenega suverenega ekonomskega položaja. S tem nikakor ni mišljena kakšna nadutost - najboljši primer tega, kar imamo zdajle v mislih, je Ivan Sergejevič Turgenjev, ki, vsaj kar se literature tiče, združuje najboljši lastnosti velike buržoazije in plemstva: svetovljanstvo in humor. Slovenci pa buržoazije, kaj šele plemstva, nismo imeli - to je sicer splošno znano obče mesto, ki pa se velikokrat premalo upošteva. V slovenski literaturi tega časa je opazna tudi odsotnost temeljnih naravoslovnih in tehničnih miselnih vzorcev, kaj šele, da bi bili predmet literature. Naj za ilustracijo navedemo najbolj kičast primer, ki ga je, seveda, spet, razumeti kot literarno prispodobo: Eiffelov stolp je bil zgrajen leta 1889, Cankarjeva Erotika pa je gorela šele čez deset let</dc:description>
+            <dc:subject xml:lang="slv">Slovenci</dc:subject>
+            <dc:subject xml:lang="slv">1914-1918</dc:subject>
+            <dc:subject xml:lang="slv">prva svetovna vojna</dc:subject>
+            <dc:subject xml:lang="slv">kulturna zgodovina</dc:subject>
+            <dc:subject xml:lang="eng">Slovenes</dc:subject>
+            <dc:subject xml:lang="eng">1914-1918</dc:subject>
+            <dc:subject xml:lang="eng">World War I</dc:subject>
+            <dc:subject xml:lang="eng">cultural history</dc:subject>
+            <dc:publisher>Slovenska matica, Ljubljana</dc:publisher>
+            <dc:contributor>Peter Vodopivec (ur.)</dc:contributor>
+            <dc:contributor>Katja Kleindienst (ur.)</dc:contributor>
+            <dc:date xsi:type="dcterms:W3CDTF">2005</dc:date>
+            <dc:type xsi:type="dcterms:DCMIType">Text</dc:type>
+            <dc:language xsi:type="dcterms:ISO639-3">slv</dc:language>
+            <dcterms:license xsi:type="dcterms:URI">http://creativecommons.org/licenses/by-nc-nd/2.5/si/</dcterms:license>
+            <dcterms:license xml:lang="slv">Priznanje avtorstva-Nekomercialo-Brez predelav 2.5 Slovenija (CC BY-NC-ND 2.5 SI)</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="default.amd">
+      <METS:techMD ID="default.premis">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>si4</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue/>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>Local name</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>26749</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>http://hdl.handle.net/11686/26749#page=140</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectCategory>Intellectual entity</premis:objectCategory>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="default.si4">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <entity:desc xml:lang="slv"> Če bi skušali
+                                    zgodovinski položaj Slovencev in njihovo mentaliteto ob vstopu v
+                                    prvo svetovno vojno razumeti zgolj z branjem takratne slovenske
+                                    literature - kar je pač pogled literarnega zgodovinarja - potem
+                                    bi opazili prevladujočo hromečo tradicijo katolištva in popolno
+                                    odsotnost tiste suverene mentalitete, ki je značilna za veliko
+                                    buržoazijo in ki izvira iz njenega suverenega ekonomskega
+                                    položaja. S tem nikakor ni mišljena kakšna nadutost - najboljši
+                                    primer tega, kar imamo zdajle v mislih, je Ivan Sergejevič
+                                    Turgenjev, ki, vsaj kar se literature tiče, združuje najboljši
+                                    lastnosti velike buržoazije in plemstva: svetovljanstvo in
+                                    humor. Slovenci pa buržoazije, kaj šele plemstva, nismo imeli -
+                                    to je sicer splošno znano obče mesto, ki pa se velikokrat
+                                    premalo upošteva. V slovenski literaturi tega časa je opazna
+                                    tudi odsotnost temeljnih naravoslovnih in tehničnih miselnih
+                                    vzorcev, kaj šele, da bi bili predmet literature. Naj za
+                                    ilustracijo navedemo najbolj kičast primer, ki ga je, seveda,
+                                    spet, razumeti kot literarno prispodobo: Eiffelov stolp je bil
+                                    zgrajen leta 1889, Cankarjeva Erotika pa je gorela šele čez
+                                    deset let </entity:desc>
+               <entity:page>140</entity:page>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   ID="default.structure"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/26732"/>
+         <METS:div TYPE="entity" DMDID="default.dc" ADMID="default.amd"/>
+      </METS:div>
+   </METS:structMap>
+   <METS:behaviorSec xmlns:xlink="http://www.w3.org/1999/xlink" ID="si4.behavior">
+      <METS:behavior BTYPE="default">
+         <METS:mechanism LOCTYPE="URL" xlink:href="resources/assets/xsd/default/"/>
+      </METS:behavior>
+   </METS:behaviorSec>
+</METS:mets>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/30417">
+   <METS:metsHdr CREATEDATE="2015-01-30T13:26:41"
+                 LASTMODDATE="2017-02-14T08:50:39"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name>Meden, Katja</METS:name>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="default.dc">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dc:title xml:lang="slv">Otokar Rybář v dunajskem parlamentu: 2. del</dc:title>
+            <dc:creator>Rustja, Peter</dc:creator>
+            <dc:subject xml:lang="slv">Slovenci</dc:subject>
+            <dc:subject xml:lang="slv">politična zgodovina</dc:subject>
+            <dc:subject xml:lang="slv">Trst</dc:subject>
+            <dc:subject xml:lang="slv">Avstro-Ogrska</dc:subject>
+            <dc:subject xml:lang="slv">1873-1897</dc:subject>
+            <dc:subject xml:lang="eng">Slovenes</dc:subject>
+            <dc:subject xml:lang="eng">political history</dc:subject>
+            <dc:subject xml:lang="eng">Trieste</dc:subject>
+            <dc:subject xml:lang="eng">Austro-Hungarian Empire</dc:subject>
+            <dc:subject xml:lang="eng">1873-1897</dc:subject>
+            <dc:publisher>Krožek za družbena vprašanja Virgil Šček, Trst</dc:publisher>
+            <dc:publisher>Zveza zgodovinskih društev Slovenije, Ljubljana</dc:publisher>
+            <dc:date xsi:type="dcterms:W3CDTF">2003</dc:date>
+            <dc:type xsi:type="dcterms:DCMIType">Text</dc:type>
+            <dc:identifier>COBISS.SI-ID 1880556</dc:identifier>
+            <dc:language xsi:type="dcterms:ISO639-3">slv</dc:language>
+            <dcterms:alternative xml:lang="deu">Otokar Rybář im Wiener Parlament: zweite Teil</dcterms:alternative>
+            <dcterms:alternative xml:lang="ita">Otokar Rybář al Parlamento di Vienna: secondo volume</dcterms:alternative>
+            <dcterms:alternative xml:lang="ces">Otokar Rybář v parlamentu ve Vidni: druhá část</dcterms:alternative>
+            <dcterms:isPartOf>Krožek za družbena vprašanja Virgil Šček; 37</dcterms:isPartOf>
+            <dcterms:isPartOf>Zbirka Zgodovinskega časopisa; 28</dcterms:isPartOf>
+            <dcterms:isPartOf xsi:type="dcterms:URI">http://hdl.handle.net/11686/26738</dcterms:isPartOf>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:dmdSec ID="default.mods">
+      <METS:mdWrap MDTYPE="MODS" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <mods:mods>
+               <mods:relatedItem type="series">
+                  <mods:relatedItem type="series">
+                     <mods:titleInfo>
+                        <mods:title>Krožek za družbena vprašanja Virgil Šček</mods:title>
+                     </mods:titleInfo>
+                     <mods:part>
+                        <mods:detail type="volumens">
+                           <mods:number>37</mods:number>
+                        </mods:detail>
+                     </mods:part>
+                  </mods:relatedItem>
+               </mods:relatedItem>
+               <mods:relatedItem type="series">
+                  <mods:relatedItem type="series">
+                     <mods:titleInfo>
+                        <mods:title>Zbirka Zgodovinskega časopisa</mods:title>
+                     </mods:titleInfo>
+                     <mods:part>
+                        <mods:detail type="volumens">
+                           <mods:number>28</mods:number>
+                        </mods:detail>
+                     </mods:part>
+                  </mods:relatedItem>
+               </mods:relatedItem>
+            </mods:mods>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="default.amd">
+      <METS:techMD ID="default.premis">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>si4</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue/>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>Local name</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>30417</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>http://hdl.handle.net/11686/30417</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectCategory>Intellectual entity</premis:objectCategory>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink" ID="default.file">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="file17390" OWNERID="V_DUNAJSKEM_PARLAMENTU_II.pdf">
+            <METS:FLocat LOCTYPE="HANDLE" xlink:href="https://hdl.handle.net/11686/file17390"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   ID="default.structure"
+                   TYPE="primary">
+      <METS:div TYPE="collection">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/menu17"/>
+         <METS:div TYPE="entity" DMDID="default.dc default.mods" ADMID="default.amd">
+            <METS:fptr FILEID="file17390"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+   <METS:behaviorSec xmlns:xlink="http://www.w3.org/1999/xlink" ID="si4.behavior">
+      <METS:behavior BTYPE="default">
+         <METS:mechanism LOCTYPE="URL" xlink:href="resources/assets/xsd/default/"/>
+      </METS:behavior>
+   </METS:behaviorSec>
+</METS:mets>

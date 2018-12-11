@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/31058">
+   <METS:metsHdr CREATEDATE="2015-06-03T12:12:06"
+                 LASTMODDATE="2017-02-15T12:05:58"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name>Meden, Katja</METS:name>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="default.dc">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dc:title xml:lang="slv">Nasilnost druge svetovne vojne in otroštvo</dc:title>
+            <dc:creator>Deželak Barič, Vida</dc:creator>
+            <dc:subject xml:lang="slv">okupacija</dc:subject>
+            <dc:subject xml:lang="slv">raznarodovanje</dc:subject>
+            <dc:subject xml:lang="slv">odpor</dc:subject>
+            <dc:subject xml:lang="slv">represalije</dc:subject>
+            <dc:subject xml:lang="slv">državljanska vojna</dc:subject>
+            <dc:subject xml:lang="slv">smrtne žrtve</dc:subject>
+            <dc:subject xml:lang="eng">occupation</dc:subject>
+            <dc:subject xml:lang="eng">denacionalisation</dc:subject>
+            <dc:subject xml:lang="eng">resistance</dc:subject>
+            <dc:subject xml:lang="eng">reprisals</dc:subject>
+            <dc:subject xml:lang="eng">civil war</dc:subject>
+            <dc:subject xml:lang="eng">victims</dc:subject>
+            <dc:publisher>Zveza zgodovinskih društev Slovenije</dc:publisher>
+            <dc:contributor>Peter Štih (gl. in od. ur.)</dc:contributor>
+            <dc:contributor>Aida Škoro Babić (ur. in prev.)</dc:contributor>
+            <dc:contributor>Mateja Jeraj (ur.)</dc:contributor>
+            <dc:contributor>Matevž Košir (ur.)</dc:contributor>
+            <dc:contributor>Bojan Balkovec (ur.)</dc:contributor>
+            <dc:date xsi:type="dcterms:W3CDTF">2012</dc:date>
+            <dc:type xsi:type="dcterms:DCMIType">Text</dc:type>
+            <dc:language xsi:type="dcterms:ISO639-3">slv</dc:language>
+            <dcterms:alternative xml:lang="eng">Violence of the Second World War and Childhood</dcterms:alternative>
+            <dcterms:abstract xml:lang="slv">Totalnost 2. svetovne vojne je otroke močno prizadela. Otroci so trpeli v izgnanstvu in okupatorjevih taboriščih, v maščevalnih akcijah nad civilnim prebivalstvom, bili so žrtve državljanske vojne in povojnega revolucionarnega obračuna. Okupator je na njih gradil politiko raznarodovanja in vsi vojni akterji so si jih prizadevali pridobiti za svoje cilje. Otroci so trpeli zlasti v primerih razbitja družin, smrti staršev ter ožjih svojcev, odtrganosti od doma, psihičnega in fizičnega nasilja. Več kot 5500 mladoletnih oseb je izgubilo življenje med vojno in neposredno po njej.</dcterms:abstract>
+            <dcterms:abstract xml:lang="eng">Children were very much affected by the totality of the second world war. They suffered in exile and in occupation camps, in vengeful actions over civilians, they were victims of the civil war and afterwar revolucionary reprisal. Occupier built its policy of denacionalisation on them and all war parties tried to use them for their purposes. Children suffered especially in cases of family destruction, when it came to death of their parents and close relatives, when they were kept away from their homes, becuase of mental and physical violence. More then 5500 minors lost their lives during the war and in the short time after the war.</dcterms:abstract>
+            <dcterms:isPartOf>Zbirka zgodovinskega časopisa, 45</dcterms:isPartOf>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:dmdSec ID="default.mods">
+      <METS:mdWrap MDTYPE="MODS" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <mods:mods>
+               <mods:relatedItem type="series">
+                  <mods:titleInfo>
+                     <mods:title>Zbirka zgodovinskega časopisa, 45</mods:title>
+                  </mods:titleInfo>
+               </mods:relatedItem>
+            </mods:mods>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="default.amd">
+      <METS:techMD ID="default.premis">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>si4</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue/>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>Local name</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>31058</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>http://hdl.handle.net/11686/31058#page=532</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectCategory>Intellectual entity</premis:objectCategory>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="default.si4">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <entity:desc xml:lang="slv"> Totalnost 2. svetovne
+                                    vojne je otroke močno prizadela. Otroci so trpeli v izgnanstvu
+                                    in okupatorjevih taboriščih, v maščevalnih akcijah nad civilnim
+                                    prebivalstvom, bili so žrtve državljanske vojne in povojnega
+                                    revolucionarnega obračuna. Okupator je na njih gradil politiko
+                                    raznarodovanja in vsi vojni akterji so si jih prizadevali
+                                    pridobiti za svoje cilje. Otroci so trpeli zlasti v primerih
+                                    razbitja družin, smrti staršev ter ožjih svojcev, odtrganosti od
+                                    doma, psihičnega in fizičnega nasilja. Več kot 5500 mladoletnih
+                                    oseb je izgubilo življenje med vojno in neposredno po njej.
+                                </entity:desc>
+               <entity:page>532</entity:page>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   ID="default.structure"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/31016"/>
+         <METS:div TYPE="entity" DMDID="default.dc default.mods" ADMID="default.amd"/>
+      </METS:div>
+   </METS:structMap>
+   <METS:behaviorSec xmlns:xlink="http://www.w3.org/1999/xlink" ID="si4.behavior">
+      <METS:behavior BTYPE="default">
+         <METS:mechanism LOCTYPE="URL" xlink:href="resources/assets/xsd/default/"/>
+      </METS:behavior>
+   </METS:behaviorSec>
+</METS:mets>

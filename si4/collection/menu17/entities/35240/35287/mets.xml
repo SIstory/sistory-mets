@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/35287">
+   <METS:metsHdr CREATEDATE="2016-06-15T15:41:17"
+                 LASTMODDATE="2017-02-13T11:47:53"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name>Meden, Katja</METS:name>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="default.dc">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dc:title xml:lang="slv">Migracije in stereotipi</dc:title>
+            <dc:title xml:lang="slv">Primer optantov</dc:title>
+            <dc:creator>Gombač, Jure</dc:creator>
+            <dc:subject xml:lang="slv">stereotipi</dc:subject>
+            <dc:subject xml:lang="slv">migracije</dc:subject>
+            <dc:subject xml:lang="slv">optanti</dc:subject>
+            <dc:subject xml:lang="eng">stereotypes</dc:subject>
+            <dc:subject xml:lang="eng">migrations</dc:subject>
+            <dc:subject xml:lang="eng">the optanti</dc:subject>
+            <dc:publisher>Zveza Zgodovinskih društev Slovenije, Ljubljana</dc:publisher>
+            <dc:contributor>Mitja Ferenc (ur.)</dc:contributor>
+            <dc:contributor>Branka Petkovšek (ur.)</dc:contributor>
+            <dc:contributor>Nives Sulič Dular (prev. ang.)</dc:contributor>
+            <dc:contributor>Matjaž Klemenčič (prev. ang.)</dc:contributor>
+            <dc:contributor>Stanislav Južnič (prev. ang.)</dc:contributor>
+            <dc:date xsi:type="dcterms:W3CDTF">2006</dc:date>
+            <dc:type xsi:type="dcterms:DCMIType">Text</dc:type>
+            <dc:language xsi:type="dcterms:ISO639-3">slv</dc:language>
+            <dcterms:alternative xml:lang="eng">Migrations and Stereotypes</dcterms:alternative>
+            <dcterms:alternative xml:lang="eng">The Case of the Optanti</dcterms:alternative>
+            <dcterms:abstract xml:lang="slv">Avtor v svojem prispevku s pomočjo zgodovinskega primera skuša opozoriti na specifično oblikovanje stereotipov znotraj migracijskih procesov. Tipe migracij namreč določajo prostor, čas in motivacija, kar pa je večkrat težko določiti. Včasih prav zaradi posebnosti stereotipov, da za svoj nastanek potrebujejo določen čas, prostor in okolje, zgodovinski pogled postane nepogrešljiv pripomoček drugim družboslovnim in humanističnim vedam pri njihovem raziskovanju. Ta pristop se skuša preizkusiti na primeru pojma optanti, ko se zgodovinsko ozadje sooči z družboslovnim «definicijami stereotipa.</dcterms:abstract>
+            <dcterms:abstract xml:lang="eng">Using his case study of the optanti as the basis for his research the author analyzes the formation of stereotypes within the process of migration. Migration types are namely defined by time, by locale, and by motivation, the last of which may be somewhat difficult to defìne. In order to be conceived, stereotypes need a certain place, a certain time, and specific circumstances. At this point, history with its peculiar view becomes an indispensable tool for the humanities and for other social disciplines in the course of their research. This approach was applied in the case study of the optanti in which the necessary historical background is confronted with definitions of a stereotype as it is perceived by the social sciences.</dcterms:abstract>
+            <dcterms:isPartOf>Zbirka Zgodovinskega časopisa ; 32</dcterms:isPartOf>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:dmdSec ID="default.mods">
+      <METS:mdWrap MDTYPE="MODS" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <mods:mods>
+               <mods:relatedItem type="series">
+                  <mods:relatedItem type="series">
+                     <mods:titleInfo>
+                        <mods:title>Zbirka Zgodovinskega časopisa</mods:title>
+                     </mods:titleInfo>
+                     <mods:part>
+                        <mods:detail type="volumens">
+                           <mods:number>32</mods:number>
+                        </mods:detail>
+                     </mods:part>
+                  </mods:relatedItem>
+               </mods:relatedItem>
+            </mods:mods>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="default.amd">
+      <METS:techMD ID="default.premis">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>si4</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue/>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>Local name</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>35287</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>http://hdl.handle.net/11686/35287#page=323</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectCategory>Intellectual entity</premis:objectCategory>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="default.si4">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <entity:desc xml:lang="slv"> Avtor v svojem prispevku
+                                    s pomočjo zgodovinskega primera skuša opozoriti na specifično
+                                    oblikovanje stereotipov znotraj migracijskih procesov. Tipe
+                                    migracij namreč določajo prostor, čas in motivacija, kar pa je
+                                    večkrat težko določiti. Včasih prav zaradi posebnosti
+                                    stereotipov, da za svoj nastanek potrebujejo določen čas,
+                                    prostor in okolje, zgodovinski pogled postane nepogrešljiv
+                                    pripomoček drugim družboslovnim in humanističnim vedam pri
+                                    njihovem raziskovanju. Ta pristop se skuša preizkusiti na
+                                    primeru pojma optanti, ko se zgodovinsko ozadje sooči z
+                                    družboslovnim «definicijami stereotipa. </entity:desc>
+               <entity:page>323</entity:page>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   ID="default.structure"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/35240"/>
+         <METS:div TYPE="entity" DMDID="default.dc default.mods" ADMID="default.amd"/>
+      </METS:div>
+   </METS:structMap>
+   <METS:behaviorSec xmlns:xlink="http://www.w3.org/1999/xlink" ID="si4.behavior">
+      <METS:behavior BTYPE="default">
+         <METS:mechanism LOCTYPE="URL" xlink:href="resources/assets/xsd/default/"/>
+      </METS:behavior>
+   </METS:behaviorSec>
+</METS:mets>

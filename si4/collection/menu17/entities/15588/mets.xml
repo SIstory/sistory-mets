@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/15588">
+   <METS:metsHdr CREATEDATE="2013-05-14T22:57:37"
+                 LASTMODDATE="2016-12-16T20:41:48"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.11" TYPE="INDIVIDUAL">
+         <METS:name>Pančur, Andrej</METS:name>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="default.dc">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dc:title xml:lang="slv">Delček mladosti</dc:title>
+            <dc:title xml:lang="slv">Spomini na delo v Ljudski mladini Slovenije in Jugoslavije ter SKOJ v letih 1947-1950</dc:title>
+            <dc:creator>Perovšek, France</dc:creator>
+            <dc:subject xml:lang="slv">Ljudska mladina Slovenije</dc:subject>
+            <dc:subject xml:lang="slv">Zveza komunistične mladine Jugoslavije</dc:subject>
+            <dc:subject xml:lang="slv">mladinske delovne akcije</dc:subject>
+            <dc:subject xml:lang="slv">gospodarstvo</dc:subject>
+            <dc:subject xml:lang="slv">šolstvo</dc:subject>
+            <dc:subject xml:lang="slv">kultura</dc:subject>
+            <dc:subject xml:lang="slv">tisk</dc:subject>
+            <dc:subject xml:lang="slv">telesna vzgoja in šport</dc:subject>
+            <dc:subject xml:lang="eng">Ljudska mladina Slovenije/People's Youth of Slovenia</dc:subject>
+            <dc:subject xml:lang="eng">Zveza komunistične mladine Jugoslavije/Association of the Communist Youth of Yugoslavia</dc:subject>
+            <dc:subject xml:lang="eng">youth work actions</dc:subject>
+            <dc:subject xml:lang="eng">economy</dc:subject>
+            <dc:subject xml:lang="eng">culture</dc:subject>
+            <dc:subject xml:lang="eng">physical education and sport</dc:subject>
+            <dc:publisher>Društvo piscev zgodovine NOB Slovenije, Ljubljana</dc:publisher>
+            <dc:contributor>France Pečelin (gl. ur.)</dc:contributor>
+            <dc:contributor>Jurij Perovšek (ur.)</dc:contributor>
+            <dc:contributor>Marjetka Kastelic (lekt.)</dc:contributor>
+            <dc:date xsi:type="dcterms:W3CDTF">2004</dc:date>
+            <dc:type xsi:type="dcterms:DCMIType">Text</dc:type>
+            <dc:language xsi:type="dcterms:ISO639-3">slv</dc:language>
+            <dcterms:bibliographicCitation>COBISS.SI-ID 213607936</dcterms:bibliographicCitation>
+            <dcterms:isPartOf>Partizanski knjižni klub; 42</dcterms:isPartOf>
+            <dcterms:isPartOf xsi:type="dcterms:URI">http://hdl.handle.net/11686/20234</dcterms:isPartOf>
+            <dcterms:license xsi:type="dcterms:URI">http://creativecommons.org/licenses/by-nc-nd/2.5/si/</dcterms:license>
+            <dcterms:license xml:lang="slv">Priznanje avtorstva-Nekomercialo-Brez predelav 2.5 Slovenija (CC BY-NC-ND 2.5 SI)</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:dmdSec ID="default.mods">
+      <METS:mdWrap MDTYPE="MODS" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <mods:mods>
+               <mods:relatedItem type="series">
+                  <mods:relatedItem type="series">
+                     <mods:titleInfo>
+                        <mods:title>Partizanski knjižni klub</mods:title>
+                     </mods:titleInfo>
+                     <mods:part>
+                        <mods:detail type="volumens">
+                           <mods:number>42</mods:number>
+                        </mods:detail>
+                     </mods:part>
+                  </mods:relatedItem>
+               </mods:relatedItem>
+            </mods:mods>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="default.amd">
+      <METS:techMD ID="default.premis">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>si4</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue/>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>Local name</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>15588</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>http://hdl.handle.net/11686/15588</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectCategory>Intellectual entity</premis:objectCategory>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink" ID="default.file">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="file5370" OWNERID="Delcek_mladosti.pdf">
+            <METS:FLocat LOCTYPE="HANDLE" xlink:href="https://hdl.handle.net/11686/file5370"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   ID="default.structure"
+                   TYPE="primary">
+      <METS:div TYPE="collection">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/menu17"/>
+         <METS:div TYPE="entity" DMDID="default.dc default.mods" ADMID="default.amd">
+            <METS:fptr FILEID="file5370"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+   <METS:behaviorSec xmlns:xlink="http://www.w3.org/1999/xlink" ID="si4.behavior">
+      <METS:behavior BTYPE="default">
+         <METS:mechanism LOCTYPE="URL" xlink:href="resources/assets/xsd/default/"/>
+      </METS:behavior>
+   </METS:behaviorSec>
+</METS:mets>

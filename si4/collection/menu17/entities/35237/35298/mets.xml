@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/35298">
+   <METS:metsHdr CREATEDATE="2016-06-16T11:09:10"
+                 LASTMODDATE="2017-02-10T12:59:27"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name>Meden, Katja</METS:name>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="default.dc">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dc:title xml:lang="slv">Nekateri evropski vplivi na kmečko gibanje v Dravski banovini v liberalno-unitarnem in katoliškem taboru v letih 1929-1941</dc:title>
+            <dc:creator>Vidovič-Miklavčič, Anka</dc:creator>
+            <dc:subject xml:lang="slv">obdobje 1929-1941</dc:subject>
+            <dc:subject xml:lang="slv">liberalno-unitarni tabor</dc:subject>
+            <dc:subject xml:lang="slv">katoliški tabor</dc:subject>
+            <dc:subject xml:lang="slv">Dravska banovina</dc:subject>
+            <dc:subject xml:lang="slv">Slovenska kmetska stranka</dc:subject>
+            <dc:subject xml:lang="slv">slovanski agrarizem</dc:subject>
+            <dc:subject xml:lang="slv">kmečko stanovsko gibanje</dc:subject>
+            <dc:subject xml:lang="eng">1929-1941 period</dc:subject>
+            <dc:subject xml:lang="eng">liberal Unitarian camp</dc:subject>
+            <dc:subject xml:lang="eng">catholic camp</dc:subject>
+            <dc:subject xml:lang="eng">Drava Province</dc:subject>
+            <dc:subject xml:lang="eng">Slovene Farmers’ Party,</dc:subject>
+            <dc:subject xml:lang="eng">Slavic agrarian movement,</dc:subject>
+            <dc:subject xml:lang="eng">peasant estate movement</dc:subject>
+            <dc:publisher>Zveza zgodovinskih društev Slovenije, Ljubljana</dc:publisher>
+            <dc:contributor>Nevenka Troha (ur.)</dc:contributor>
+            <dc:contributor>Mojca Šorn (ur.)</dc:contributor>
+            <dc:contributor>Bojan Balkovec (ur.)</dc:contributor>
+            <dc:date xsi:type="dcterms:W3CDTF">2008</dc:date>
+            <dc:type xsi:type="dcterms:DCMIType">Text</dc:type>
+            <dc:language xsi:type="dcterms:ISO639-3">slv</dc:language>
+            <dcterms:alternative xml:lang="eng">European Influences on the Agrarian Movement in the Drava Province and Their Impact upon the Liberal-Unitarian and upon the Catholic Camps between 1929 and 1941</dcterms:alternative>
+            <dcterms:abstract xml:lang="slv">Avtorica v svojem referatu prikazuje kmečko gibanje v Dravski banovini, kije sprejemalo v svojem programu novodobne evropske vplive v zadnjem desetletju prve Jugoslavije. Liberalna Pucljeva Samostojna kmetijska stranka, kasnejša Slovenska kmetska stranka oziroma Zveza slovenskih kmetov, se je navduševala za slovanski agrarizem. Brodarjevi Kmečki zvezi pa je bila vzor katoliška belgijska Kmečka zveza, prijateljsko pa je sodelovala še s češkoslovaško katoliško kmečko organizacijo Svazom lidovych zemeldelcu ceskoslovenskych. Ob tem je pregledno orisana dejavnost v obeh političnih taborih pri uresničevanju »novodobnega programa reformističnega mladega kmečkega gibanja« v smeri stanovstva, ki pa je ostalo na pol poti.</dcterms:abstract>
+            <dcterms:abstract xml:lang="eng">The author analyzes the agrarian movement in the Drava Province that in the last decade of the first Yugoslav state was open to European influence and adopted new ideas in its platform. The liberal Independent Farmers’ Party (Samostojna kmetijska stranka, later Slovenska kmetska stranka or Zveza slovenskih kmetov), led by Ivan Pucelj, enthusiastically supported the Slavic agrarian movement while the Belgian catholic Farmers’ League served as a model to Brodar’s Farmers’ League (Kmečka zveza); the latter also fostered friendly ties with Svazom lidovych zemedelcu ceskoslovenskych, a Czechoslovakian catholic farmers organization. Examined are activities in both politicai camps and their attempts to accomplish ≫the modem program of the young reformist agrarian movement≪ as well as establish a special peasant estate; however, this goal remained only halfway.</dcterms:abstract>
+            <dcterms:isPartOf>Zbirka zgodovinskega časopisa ; 35</dcterms:isPartOf>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:dmdSec ID="default.mods">
+      <METS:mdWrap MDTYPE="MODS" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <mods:mods>
+               <mods:relatedItem type="series">
+                  <mods:relatedItem type="series">
+                     <mods:titleInfo>
+                        <mods:title>Zbirka zgodovinskega časopisa</mods:title>
+                     </mods:titleInfo>
+                     <mods:part>
+                        <mods:detail type="volumens">
+                           <mods:number>35</mods:number>
+                        </mods:detail>
+                     </mods:part>
+                  </mods:relatedItem>
+               </mods:relatedItem>
+            </mods:mods>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="default.amd">
+      <METS:techMD ID="default.premis">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>si4</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue/>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>Local name</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>35298</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>http://hdl.handle.net/11686/35298#page=297</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectCategory>Intellectual entity</premis:objectCategory>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="default.si4">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <entity:desc xml:lang="slv"> Avtorica v svojem
+                                    referatu prikazuje kmečko gibanje v Dravski banovini, kije
+                                    sprejemalo v svojem programu novodobne evropske vplive v zadnjem
+                                    desetletju prve Jugoslavije. Liberalna Pucljeva Samostojna
+                                    kmetijska stranka, kasnejša Slovenska kmetska stranka oziroma
+                                    Zveza slovenskih kmetov, se je navduševala za slovanski
+                                    agrarizem. Brodarjevi Kmečki zvezi pa je bila vzor katoliška
+                                    belgijska Kmečka zveza, prijateljsko pa je sodelovala še s
+                                    češkoslovaško katoliško kmečko organizacijo Svazom lidovych
+                                    zemeldelcu ceskoslovenskych. Ob tem je pregledno orisana
+                                    dejavnost v obeh političnih taborih pri uresničevanju
+                                    »novodobnega programa reformističnega mladega kmečkega gibanja«
+                                    v smeri stanovstva, ki pa je ostalo na pol poti. </entity:desc>
+               <entity:page>297</entity:page>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   ID="default.structure"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/35237"/>
+         <METS:div TYPE="entity" DMDID="default.dc default.mods" ADMID="default.amd"/>
+      </METS:div>
+   </METS:structMap>
+   <METS:behaviorSec xmlns:xlink="http://www.w3.org/1999/xlink" ID="si4.behavior">
+      <METS:behavior BTYPE="default">
+         <METS:mechanism LOCTYPE="URL" xlink:href="resources/assets/xsd/default/"/>
+      </METS:behavior>
+   </METS:behaviorSec>
+</METS:mets>

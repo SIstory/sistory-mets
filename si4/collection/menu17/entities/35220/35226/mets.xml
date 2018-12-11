@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/35226">
+   <METS:metsHdr CREATEDATE="2016-05-27T09:23:47"
+                 LASTMODDATE="2017-02-15T13:39:30"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name>Meden, Katja</METS:name>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="default.dc">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dc:title xml:lang="slv">»Delo dr. Frana Zwittra za rešitev mejnih vprašanj«</dc:title>
+            <dc:creator>Nećak, Dušan</dc:creator>
+            <dc:subject xml:lang="slv">Fran Zwitter</dc:subject>
+            <dc:subject xml:lang="slv">najnovejša zgodovina</dc:subject>
+            <dc:subject xml:lang="slv">meje</dc:subject>
+            <dc:subject xml:lang="slv">manjšine</dc:subject>
+            <dc:subject xml:lang="slv">narodno vprašanje</dc:subject>
+            <dc:subject xml:lang="eng">Fran Zwitter</dc:subject>
+            <dc:subject xml:lang="eng">recent history</dc:subject>
+            <dc:subject xml:lang="eng">borders</dc:subject>
+            <dc:subject xml:lang="eng">minorities</dc:subject>
+            <dc:subject xml:lang="eng">national question</dc:subject>
+            <dc:publisher>Zveza zgodovinskih društev Slovenije: Oddelek za zgodovino, Filozofska fakulteta</dc:publisher>
+            <dc:contributor>Peter Štih (ur.)</dc:contributor>
+            <dc:date xsi:type="dcterms:W3CDTF">2006</dc:date>
+            <dc:type xsi:type="dcterms:DCMIType">Text</dc:type>
+            <dc:language xsi:type="dcterms:ISO639-3">slv</dc:language>
+            <dcterms:alternative xml:lang="eng">»Fran Zwitter’s Work on the Solution of Border Questions«</dcterms:alternative>
+            <dcterms:abstract xml:lang="slv">Avtor prikazuje delo profesorja Zwittra za rešitev slovenskih mejnih vprašanj, še zlasti slovenske severne in zahodne meje. Gre za obdobje med letoma 1945 in 1948. Besedilu je dodano nekaj izvirnih arhivskih dokumentov, ki plastično prikazujejo njegovo zadevno delo.</dcterms:abstract>
+            <dcterms:abstract xml:lang="eng">The paper focuses on Fran Zwitter’s work on the question o f Slovene borders, especially the one to the north and the one to the west, in the period between 1944 and 1947. The treatise is supplemented by originai archivai documents that will shed additional light upon Fran Zwitter’s activities in this field.</dcterms:abstract>
+            <dcterms:isPartOf>Zbirka Zgodovinski časopis; 31</dcterms:isPartOf>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:dmdSec ID="default.mods">
+      <METS:mdWrap MDTYPE="MODS" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <mods:mods>
+               <mods:relatedItem type="series">
+                  <mods:relatedItem type="series">
+                     <mods:titleInfo>
+                        <mods:title>Zbirka Zgodovinski časopis</mods:title>
+                     </mods:titleInfo>
+                     <mods:part>
+                        <mods:detail type="volumens">
+                           <mods:number>31</mods:number>
+                        </mods:detail>
+                     </mods:part>
+                  </mods:relatedItem>
+               </mods:relatedItem>
+            </mods:mods>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="default.amd">
+      <METS:techMD ID="default.premis">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>si4</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue/>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>Local name</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>35226</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>http://hdl.handle.net/11686/35226#page=57</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectCategory>Intellectual entity</premis:objectCategory>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="default.si4">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <entity:desc xml:lang="slv"> Avtor prikazuje delo
+                                    profesorja Zwittra za rešitev slovenskih mejnih vprašanj, še
+                                    zlasti slovenske severne in zahodne meje. Gre za obdobje med
+                                    letoma 1945 in 1948. Besedilu je dodano nekaj izvirnih arhivskih
+                                    dokumentov, ki plastično prikazujejo njegovo zadevno delo.
+                                </entity:desc>
+               <entity:page>57</entity:page>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   ID="default.structure"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/35220"/>
+         <METS:div TYPE="entity" DMDID="default.dc default.mods" ADMID="default.amd"/>
+      </METS:div>
+   </METS:structMap>
+   <METS:behaviorSec xmlns:xlink="http://www.w3.org/1999/xlink" ID="si4.behavior">
+      <METS:behavior BTYPE="default">
+         <METS:mechanism LOCTYPE="URL" xlink:href="resources/assets/xsd/default/"/>
+      </METS:behavior>
+   </METS:behaviorSec>
+</METS:mets>

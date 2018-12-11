@@ -34,6 +34,19 @@
          </METS:xmlData>
       </METS:mdWrap>
    </METS:dmdSec>
+   <METS:dmdSec ID="search.tab.1">
+      <METS:mdWrap MDTYPE="DC">
+         <METS:xmlData>
+            <dcterms:title xml:lang="slv">SI-DIH</dcterms:title>
+            <!-- relativna pot do slovenske vstopne strani si4 -->
+            <dcterms:relation xsi:type="dcterms:URI">/</dcterms:relation>
+            <!-- Ker je možno, da so nazivi tabov večjezični, mora biti za vsako jezikovno različico poseben title -->
+            <dcterms:title xml:lang="eng">SI-DIH</dcterms:title>
+            <!-- relativna pot do angleške vstopne strani si4 -->
+            <dcterms:relation xsi:type="dcterms:URI">/?language=en</dcterms:relation>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
    <METS:dmdSec ID="section.dc.1">
       <METS:mdWrap MDTYPE="DC">
          <METS:xmlData>
@@ -42,7 +55,7 @@
          </METS:xmlData>
       </METS:mdWrap>
    </METS:dmdSec>
-   <METS:dmdSec ID="section.collection.1">
+   <METS:dmdSec ID="section.description.1">
       <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="COLLECTION" MIMETYPE="text/xml">
          <METS:xmlData xmlns:collection="http://sistory.si/schema/si4/collection" xsi:schemaLocation="http://sistory.si/si4/collection ../../schema/collection.1.0.xsd">
             <collection:description xml:lang="slv"><div xmlns="http://www.w3.org/1999/xhtml">
@@ -129,7 +142,7 @@
          </METS:xmlData>
       </METS:mdWrap>
    </METS:dmdSec>
-   <METS:dmdSec ID="section.collection.3">
+   <METS:dmdSec ID="section.description.3">
       <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="COLLECTION" MIMETYPE="text/xml">
          <METS:xmlData xmlns:collection="http://sistory.si/schema/si4/collection" xsi:schemaLocation="http://sistory.si/si4/collection ../../schema/collection.1.0.xsd">
             <collection:description xml:lang="slv"><div xmlns="http://www.w3.org/1999/xhtml">
@@ -206,11 +219,21 @@
          </METS:div>
       </METS:div>
    </METS:structMap>
-   <METS:structMap ID="footer">
-      <METS:div TYPE="section" DMDID="section.dc.1 section.collection.1">
-         <METS:div TYPE="section" DMDID="section.dc.3 section.collection.3">
-            
+   <METS:structMap ID="search.tabs" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <METS:div TYPE="search">
+         <METS:div TYPE="tab" DMDID="search.tab.1"/>
+      </METS:div>
+   </METS:structMap>
+   <METS:structMap ID="si4.description">
+      <METS:div TYPE="description.section">
+         <METS:div TYPE="section" DMDID="section.dc.1 section.description.1">
+            <METS:div TYPE="section" DMDID="section.dc.3 section.description.3"/>
+            <!-- ostali div z vsebino -->
          </METS:div>
+         <!-- novi div s sklopom vsebine: možni maksimalno štirje (spodnji so prazni -->
+         <METS:div></METS:div>
+         <METS:div></METS:div>
+         <METS:div></METS:div>
       </METS:div>
    </METS:structMap>
    <METS:behaviorSec ID="si4.behavior" xmlns:xlink="http://www.w3.org/1999/xlink">

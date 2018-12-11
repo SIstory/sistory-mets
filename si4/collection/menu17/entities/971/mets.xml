@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/971">
+   <METS:metsHdr CREATEDATE="2012-04-13T12:23:28"
+                 LASTMODDATE="2017-02-14T14:27:50"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name>Meden, Katja</METS:name>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="default.dc">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dc:title xml:lang="slv">V primežu medplemiških prerivanj</dc:title>
+            <dc:title xml:lang="slv">[elektronski vir]</dc:title>
+            <dc:creator>Ravnikar, Tone</dc:creator>
+            <dc:description xml:lang="slv">Znanstvena monografija V primežu medplemiških prerivanj sodi v zvrst mikrozgodovinskih raziskav, katerih značilnost je, da skušajo na podlagi čimbolj popolne dokumentacije in njene precizne analize podati čimbolj podrobno in natančno podobo določenega manjšega prostora; topogledno del Toneta Ravnikarja prinaša številna nova spoznanja in ugotovitve tako na ravni faktografskih dejstev kot tudi na nivoju njihove interpretacije. Marsikatero vprašanje, ki se je dolgo nerazrešeno vleklo po literaturi, je rešeno, marsikatera trditev ali interpretacija je popravljena, marsikatera oseba ali posest je na novo determinirana ali lokalizirana, predvsem pa je delo uspelo pokazati na odločilno vlogo, ki jo je imelo plemstvo pri zgodovinskem razvoju Savinjske in Šaleške doline v obdobju od 11. do 14. stoletja. Monografija je prva znanstveno utemeljena slika kompleksnega političnega, upravnega, cerkvenega, posestnega in gospodarskega razvoja Savinjske in Šaleške doline v visokem in poznem srednjem veku. Z njo je bistveno obogateno poznavanje srednjeveške zgodovine obravnavanega prostora kot tudi poznavanje zgodovine posameznih plemiških rodbin, ki niso bile pomembne samo na lokalnem nivoju ampak tudi v širšem okviru. Z izdajateljskega stališča so posebnost izdaje barvne reprodukcije izvirnih dokumentov (listin, grafičnih upodobitev krajev ...), ki služijo kot neposredni vir. Izdaja je primarno dostopna v Digitalni knjižnici Pedagoškega inštituta.</dc:description>
+            <dc:subject xml:lang="slv">Slovenija</dc:subject>
+            <dc:subject xml:lang="slv">zgodovina</dc:subject>
+            <dc:subject xml:lang="slv">srednji vek</dc:subject>
+            <dc:subject xml:lang="slv">Savinjska dolina</dc:subject>
+            <dc:subject xml:lang="slv">Šaleška dolina</dc:subject>
+            <dc:subject xml:lang="eng">Slovenia</dc:subject>
+            <dc:subject xml:lang="eng">History</dc:subject>
+            <dc:subject xml:lang="eng">Meddle Ages</dc:subject>
+            <dc:subject xml:lang="eng">Šaleška dolina</dc:subject>
+            <dc:publisher>Pedagoški inštitut, Ljubljana</dc:publisher>
+            <dc:contributor>Jonatan Vinkler</dc:contributor>
+            <dc:contributor>Andrej Hozjan</dc:contributor>
+            <dc:contributor>Anton Ožinger</dc:contributor>
+            <dc:date xsi:type="dcterms:W3CDTF">2010</dc:date>
+            <dc:type xsi:type="dcterms:DCMIType">Text</dc:type>
+            <dc:identifier>COBISS.SI-ID 253577728</dc:identifier>
+            <dc:language xsi:type="dcterms:ISO639-3">slv</dc:language>
+            <dc:coverage xml:lang="slv">Slovenija, srednji vek</dc:coverage>
+            <dcterms:isPartOf>Zbirka Digitalna knjižnica. Dissertationes ; 13</dcterms:isPartOf>
+            <dcterms:isPartOf xsi:type="dcterms:URI">http://hdl.handle.net/11686/9068</dcterms:isPartOf>
+            <dcterms:isPartOf xsi:type="dcterms:URI">http://hdl.handle.net/11686/9067</dcterms:isPartOf>
+            <dcterms:license xsi:type="dcterms:URI">http://creativecommons.org/licenses/by-nc-nd/2.5/si/</dcterms:license>
+            <dcterms:license xml:lang="slv">Priznanje avtorstva-Nekomercialo-Brez predelav 2.5 Slovenija (CC BY-NC-ND 2.5 SI)</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:dmdSec ID="default.mods">
+      <METS:mdWrap MDTYPE="MODS" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <mods:mods>
+               <mods:relatedItem type="series">
+                  <mods:relatedItem type="series">
+                     <mods:titleInfo>
+                        <mods:title>Zbirka Digitalna knjižnica. Dissertationes</mods:title>
+                     </mods:titleInfo>
+                     <mods:part>
+                        <mods:detail type="volumens">
+                           <mods:number>13</mods:number>
+                        </mods:detail>
+                     </mods:part>
+                  </mods:relatedItem>
+               </mods:relatedItem>
+            </mods:mods>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="default.amd">
+      <METS:techMD ID="default.premis">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>si4</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue/>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>Local name</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>971</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>http://hdl.handle.net/11686/971</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectCategory>Intellectual entity</premis:objectCategory>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="default.si4">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <entity:desc xml:lang="slv">
+                  <p xmlns="http://www.w3.org/1999/xhtml">Znanstvena monografija V primežu medplemiških prerivanj sodi
+                                        v zvrst mikrozgodovinskih raziskav, katerih značilnost je,
+                                        da skušajo na podlagi čimbolj popolne dokumentacije in njene
+                                        precizne analize podati čimbolj podrobno in natančno podobo
+                                        določenega manjšega prostora; topogledno del Toneta
+                                        Ravnikarja prinaša številna nova spoznanja in ugotovitve
+                                        tako na ravni faktografskih dejstev kot tudi na nivoju
+                                        njihove interpretacije. Marsikatero vprašanje, ki se je
+                                        dolgo nerazrešeno vleklo po literaturi, je rešeno,
+                                        marsikatera trditev ali interpretacija je popravljena,
+                                        marsikatera oseba ali posest je na novo determinirana ali
+                                        lokalizirana, predvsem pa je delo uspelo pokazati na
+                                        odločilno vlogo, ki jo je imelo plemstvo pri zgodovinskem
+                                        razvoju Savinjske in Šaleške doline v obdobju od 11. do 14.
+                                        stoletja. Monografija je prva znanstveno utemeljena slika
+                                        kompleksnega političnega, upravnega, cerkvenega, posestnega
+                                        in gospodarskega razvoja Savinjske in Šaleške doline v
+                                        visokem in poznem srednjem veku. Z njo je bistveno obogateno
+                                        poznavanje srednjeveške zgodovine obravnavanega prostora kot
+                                        tudi poznavanje zgodovine posameznih plemiških rodbin, ki
+                                        niso bile pomembne samo na lokalnem nivoju ampak tudi v
+                                        širšem okviru. Z izdajateljskega stališča so posebnost
+                                        izdaje barvne reprodukcije izvirnih dokumentov (listin,
+                                        grafičnih upodobitev krajev ...), ki služijo kot neposredni
+                                        vir. </p>
+                  <p xmlns="http://www.w3.org/1999/xhtml"> Izdaja je primarno dostopna v <a href="http://www.pei.si/Sifranti/StaticPage.aspx?id=85" target="_blank">Digitalni knjižnici Pedagoškega
+                                            inštituta</a>.</p>
+               </entity:desc>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink" ID="default.file">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="file510" OWNERID="V_primezu_medlemish_prerivanj1.pdf">
+            <METS:FLocat LOCTYPE="HANDLE" xlink:href="https://hdl.handle.net/11686/file510"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   ID="default.structure"
+                   TYPE="primary">
+      <METS:div TYPE="collection">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/menu17"/>
+         <METS:div TYPE="entity" DMDID="default.dc default.mods" ADMID="default.amd">
+            <METS:fptr FILEID="file510"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+   <METS:behaviorSec xmlns:xlink="http://www.w3.org/1999/xlink" ID="si4.behavior">
+      <METS:behavior BTYPE="default">
+         <METS:mechanism LOCTYPE="URL" xlink:href="resources/assets/xsd/default/"/>
+      </METS:behavior>
+   </METS:behaviorSec>
+</METS:mets>

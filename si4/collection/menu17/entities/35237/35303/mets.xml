@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/35303">
+   <METS:metsHdr CREATEDATE="2016-06-16T13:00:19"
+                 LASTMODDATE="2017-02-10T12:51:21"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name>Meden, Katja</METS:name>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="default.dc">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dc:title xml:lang="slv">Judje s Spodnje Štajerske in Gorenjske kot žrtve holokavsta v Evropi</dc:title>
+            <dc:creator>Pančur, Andrej</dc:creator>
+            <dc:subject xml:lang="slv">Spodnja Štajerska</dc:subject>
+            <dc:subject xml:lang="slv">Gorenjska</dc:subject>
+            <dc:subject xml:lang="slv">Jugoslavija</dc:subject>
+            <dc:subject xml:lang="slv">druga svetovna vojna</dc:subject>
+            <dc:subject xml:lang="slv">Judje</dc:subject>
+            <dc:subject xml:lang="slv">holokavst</dc:subject>
+            <dc:subject xml:lang="slv">nacizem</dc:subject>
+            <dc:subject xml:lang="slv">begunci</dc:subject>
+            <dc:subject xml:lang="slv">izgnanci</dc:subject>
+            <dc:subject xml:lang="eng">Lower Styria</dc:subject>
+            <dc:subject xml:lang="eng">Upper Carniola</dc:subject>
+            <dc:subject xml:lang="eng">Yugoslavia</dc:subject>
+            <dc:subject xml:lang="eng">Second World War</dc:subject>
+            <dc:subject xml:lang="eng">Jews</dc:subject>
+            <dc:subject xml:lang="eng">the Holocaust</dc:subject>
+            <dc:subject xml:lang="eng">Nazism</dc:subject>
+            <dc:subject xml:lang="eng">refugees</dc:subject>
+            <dc:subject xml:lang="eng">exiles</dc:subject>
+            <dc:publisher>Zveza zgodovinskih društev Slovenije, Ljubljana</dc:publisher>
+            <dc:contributor>Nevenka Troha (ur.)</dc:contributor>
+            <dc:contributor>Mojca Šorn (ur.)</dc:contributor>
+            <dc:contributor>Bojan Balkovec (ur.)</dc:contributor>
+            <dc:date xsi:type="dcterms:W3CDTF">2008</dc:date>
+            <dc:type xsi:type="dcterms:DCMIType">Text</dc:type>
+            <dc:language xsi:type="dcterms:ISO639-3">slv</dc:language>
+            <dcterms:alternative xml:lang="eng">Jews of Lower Styria and Upper Carniola as Holocaust Victims in Europe</dcterms:alternative>
+            <dcterms:abstract xml:lang="eng">The history of the Holocaust shows great regional différences, which only become clear when they are placed within a wider European context. The exclusion of Jews from society, the deprivation of civil and human rights, their expropriation, exile or déportation and their slavery are those stages of Jew persécution which eventually led to the systematic murder of Jews in Nazi Europe. At a local level these general stages were carried out in an entirely different time and content; in Germany gradually ever since 1933, and elsewhere more or less quickly by adopting local anti-Jew législation, spreading German influence and/or by German occupation. In the territories of Lower Styria and Upper Camiola, later occupied by Germany, very few Jews resided before the war (some 250). They were mostly immigrants from thè middle and upper classes. Among these there was a relatively high number of immigrants with foreign citizenship. Many originated from Central European countries, where they had already been subjected to various types o f persécution due to the spread of Nazi authority (Germany, Austria, Czechoslovakia). The Jews from these countries, which had been living in Yugoslavia for some time, applied for Yugoslav citizenship, while at the same time, more and more Jewish refugees entered thè country. The Yugoslav national authorities consequently exercised an increasingly restrictive policy towards Jewish refugees and citizenship applicants, and eventually accepted two anti-Jewish decrees in October 1940. The genuine persécution of the Jewish population in Lower Styria and Upper Camiola began after the defeat of Yugoslavia in the April war of 1941, when Germany occupied both provinces. That was why most Jews immediately fled to safety in the direction of Italy. Since there were only so few Jews left, they were at first persecuted together with racially and politically unwanted Slovenians (citizenship deprivation, confiscation of property, exile into Serbia or Croatia). It was only on Ist April, 1942 that the Nurenberg race laws came into effect in Lower Styria, while these laws were never passed in Upper Camiola. However, at that time there were practically no Jews left in this région for the occupier to lead to their deaths at the concentration camps. In this regard, the Holocaust in Lower Styria and Upper Camiola was carried out quite differently as elsewhere in German Europe, where the Jewish population was persecuted separately and far more radically than other groups of unwanted population. After the second half of 1941, when the Holocaust of the occupied East began to spread over the remaining European Jews, Lower Styria and Upper Camiola were already »free of Jews«. The Jewish refugees and exiles thus suffered the Holocaust in other European countries, particularly in Italy, Serbia, Croatia and Hungary. Among the mass of the remaining refugees and exiles, a great deal outlasted the battle against time, yet there were quite a few that had not survived the Holocaust.</dcterms:abstract>
+            <dcterms:abstract xml:lang="slv">Zgodovina holokavsta izkazuje velike regionalne razlike, katere pridejo jasno do izraza šele z umestitvijo v širši evropski kontekst. Na kasnejšem nemškem okupacijskem območju Spodnje Štajerske (Untersteiermark) in Gorenjske (Besetzte Gebiete Karntens und Krains) je pred vojno živelo relativno malo Judov, med katerimi jih je veliko izviralo iz srednjeevropskih držav, kjer so bili Judje že podvrženi različnim oblikam preganjanja. Aprila 1941 se je z okupacijo to preganjanje razširilo še na tiste, ki pred okupatorjem niso pobegnili na varno. Sprva so jih preganjali skupaj z rasno in politično nezaželenimi Slovenci (odvzem državljanstva, zaplemba premoženja, izgon v Srbijo in na Hrvaško). Šele 1. aprila 1942 so na Spodnjem Štajerskem začeli veljati nürnberški rasni zakoni, na Gorenjskem pa ti zakoni sploh nikoli niso bili uveljavljeni. Toda takrat tam praktično ni bilo več Judov, nad katerimi bi okupator izvajal holokavst, temveč so ti Judje postali žrtve holokavsta v drugih evropskih deželah.</dcterms:abstract>
+            <dcterms:isPartOf>Zbirka zgodovinskega časopisa ; 35</dcterms:isPartOf>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:dmdSec ID="default.mods">
+      <METS:mdWrap MDTYPE="MODS" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <mods:mods>
+               <mods:relatedItem type="series">
+                  <mods:relatedItem type="series">
+                     <mods:titleInfo>
+                        <mods:title>Zbirka zgodovinskega časopisa</mods:title>
+                     </mods:titleInfo>
+                     <mods:part>
+                        <mods:detail type="volumens">
+                           <mods:number>35</mods:number>
+                        </mods:detail>
+                     </mods:part>
+                  </mods:relatedItem>
+               </mods:relatedItem>
+            </mods:mods>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="default.amd">
+      <METS:techMD ID="default.premis">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>si4</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue/>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>Local name</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>35303</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>http://hdl.handle.net/11686/35303#page=369</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectCategory>Intellectual entity</premis:objectCategory>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="default.si4">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <entity:desc xml:lang="slv"> Zgodovina holokavsta
+                                    izkazuje velike regionalne razlike, katere pridejo jasno do
+                                    izraza šele z umestitvijo v širši evropski kontekst. Na
+                                    kasnejšem nemškem okupacijskem območju Spodnje Štajerske
+                                    (Untersteiermark) in Gorenjske (Besetzte Gebiete Karntens und
+                                    Krains) je pred vojno živelo relativno malo Judov, med katerimi
+                                    jih je veliko izviralo iz srednjeevropskih držav, kjer so bili
+                                    Judje že podvrženi različnim oblikam preganjanja. Aprila 1941 se
+                                    je z okupacijo to preganjanje razširilo še na tiste, ki pred
+                                    okupatorjem niso pobegnili na varno. Sprva so jih preganjali
+                                    skupaj z rasno in politično nezaželenimi Slovenci (odvzem
+                                    državljanstva, zaplemba premoženja, izgon v Srbijo in na
+                                    Hrvaško). Šele 1. aprila 1942 so na Spodnjem Štajerskem začeli
+                                    veljati nürnberški rasni zakoni, na Gorenjskem pa ti zakoni
+                                    sploh nikoli niso bili uveljavljeni. Toda takrat tam praktično
+                                    ni bilo več Judov, nad katerimi bi okupator izvajal holokavst,
+                                    temveč so ti Judje postali žrtve holokavsta v drugih evropskih
+                                    deželah. </entity:desc>
+               <entity:page>369</entity:page>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   ID="default.structure"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/35237"/>
+         <METS:div TYPE="entity" DMDID="default.dc default.mods" ADMID="default.amd"/>
+      </METS:div>
+   </METS:structMap>
+   <METS:behaviorSec xmlns:xlink="http://www.w3.org/1999/xlink" ID="si4.behavior">
+      <METS:behavior BTYPE="default">
+         <METS:mechanism LOCTYPE="URL" xlink:href="resources/assets/xsd/default/"/>
+      </METS:behavior>
+   </METS:behaviorSec>
+</METS:mets>

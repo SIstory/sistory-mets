@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/26774">
+   <METS:metsHdr CREATEDATE="2014-04-15T15:15:46"
+                 LASTMODDATE="2017-02-14T14:13:12"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name>Meden, Katja</METS:name>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="default.dc">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dc:title xml:lang="slv">Minister Stjepan Radić in Slovenci</dc:title>
+            <dc:creator>Berberih Slana, Aleksandra</dc:creator>
+            <dc:description xml:lang="slv">"Tukaj jaz izjavljam, kot predsednik hrvatskega kmečkega kluba, kot zastopnik predsednika Radiča, ker sem za to pooblaščen: Priznamo vsesplošno politično stanje, kakor je danes po vidovdanski ustavi z dinastijo Karadjordjevičev na čelu in pri tem vodeč računa o izvajanju pozitivne politike v smislu jasno izražene volje hrvaškega naroda trikrat zapovrstjo na izvedenih volitvah glede na politična dejstva in celotno politično ureditev, kakor je danes. Popravek teh dejstev in te ureditve, ki je po svoji volji in vesti ne moremo odobriti, naj bo predmet revizije ustave oziroma narodnega sporazuma med narodi SHS. Mi se nikoli nismo borili proti tej naši državi in njenim interesom, vendar pa je zaradi omenjenih dejstev, katera sem poudaril, nastalo med narodom upiranje, ki se je površno, od daleč, razumelo kot protidržavno, čeprav je bilo spontano in ni bilo organizirano. Takšno vprašanje, če bi se nadaljevalo in poostrilo, še posebej, kakor je bilo v času volitev, pred in po volitvah, bi lahko postalo nevarno za celo našo prihodnost in prav zaradi te naše skupne prihodnosti in zaradi nespremenljive volje za sporazum s srbskim narodom, smo mi naredili vse, da se hrvatski narod loti sodelovanja v ureditvi države, vendar je to možno le na temelju faktične in resnične enakopravnosti, ki se mora doseči s spontanim narodnim sporazumom...".</dc:description>
+            <dc:subject xml:lang="slv">zgodovina Slovencev</dc:subject>
+            <dc:subject xml:lang="slv">republikansko gibanje</dc:subject>
+            <dc:subject xml:lang="slv">politična zgodovina</dc:subject>
+            <dc:subject xml:lang="slv">SHS</dc:subject>
+            <dc:subject xml:lang="slv">politične stranke</dc:subject>
+            <dc:subject xml:lang="slv">Slovenija</dc:subject>
+            <dc:subject xml:lang="slv">Hrvaška</dc:subject>
+            <dc:subject xml:lang="slv">politika</dc:subject>
+            <dc:subject xml:lang="eng">history of Slovenes</dc:subject>
+            <dc:subject xml:lang="eng">republican movements</dc:subject>
+            <dc:subject xml:lang="eng">political history</dc:subject>
+            <dc:subject xml:lang="eng">SHS</dc:subject>
+            <dc:subject xml:lang="eng">political parties</dc:subject>
+            <dc:subject xml:lang="eng">politics</dc:subject>
+            <dc:subject xml:lang="eng">Slovenia</dc:subject>
+            <dc:subject xml:lang="eng">Croatia</dc:subject>
+            <dc:publisher>Oddelek za zgodovino Filozofske fakultete Univerze v Ljubljani, Ljubljana</dc:publisher>
+            <dc:contributor>Dušan Nećak (ur.)</dc:contributor>
+            <dc:date xsi:type="dcterms:W3CDTF">2005</dc:date>
+            <dc:type xsi:type="dcterms:DCMIType">Text</dc:type>
+            <dc:language xsi:type="dcterms:ISO639-3">slv</dc:language>
+            <dcterms:isPartOf>Historia : znanstvena zbirka Oddelka za zgodovino Filozofska fakultete v Ljubljani ; 10</dcterms:isPartOf>
+            <dcterms:license xsi:type="dcterms:URI">http://creativecommons.org/licenses/by-nc-nd/2.5/si/</dcterms:license>
+            <dcterms:license xml:lang="slv">Priznanje avtorstva-Nekomercialo-Brez predelav 2.5 Slovenija (CC BY-NC-ND 2.5 SI)</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:dmdSec ID="default.mods">
+      <METS:mdWrap MDTYPE="MODS" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <mods:mods>
+               <mods:relatedItem type="series">
+                  <mods:relatedItem type="series">
+                     <mods:titleInfo>
+                        <mods:title>Historia : znanstvena zbirka Oddelka za zgodovino Filozofska fakultete v Ljubljani</mods:title>
+                     </mods:titleInfo>
+                     <mods:part>
+                        <mods:detail type="volumens">
+                           <mods:number>10</mods:number>
+                        </mods:detail>
+                     </mods:part>
+                  </mods:relatedItem>
+               </mods:relatedItem>
+            </mods:mods>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="default.amd">
+      <METS:techMD ID="default.premis">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>si4</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue/>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>Local name</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>26774</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>http://hdl.handle.net/11686/26774#page=240</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectCategory>Intellectual entity</premis:objectCategory>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="default.si4">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <entity:desc xml:lang="slv"> "Tukaj jaz izjavljam,
+                                    kot predsednik hrvatskega kmečkega kluba, kot zastopnik
+                                    predsednika Radiča, ker sem za to pooblaščen: Priznamo
+                                    vsesplošno politično stanje, kakor je danes po vidovdanski
+                                    ustavi z dinastijo Karadjordjevičev na čelu in pri tem vodeč
+                                    računa o izvajanju pozitivne politike v smislu jasno izražene
+                                    volje hrvaškega naroda trikrat zapovrstjo na izvedenih volitvah
+                                    glede na politična dejstva in celotno politično ureditev, kakor
+                                    je danes. Popravek teh dejstev in te ureditve, ki je po svoji
+                                    volji in vesti ne moremo odobriti, naj bo predmet revizije
+                                    ustave oziroma narodnega sporazuma med narodi SHS. Mi se nikoli
+                                    nismo borili proti tej naši državi in njenim interesom, vendar
+                                    pa je zaradi omenjenih dejstev, katera sem poudaril, nastalo med
+                                    narodom upiranje, ki se je površno, od daleč, razumelo kot
+                                    protidržavno, čeprav je bilo spontano in ni bilo organizirano.
+                                    Takšno vprašanje, če bi se nadaljevalo in poostrilo, še posebej,
+                                    kakor je bilo v času volitev, pred in po volitvah, bi lahko
+                                    postalo nevarno za celo našo prihodnost in prav zaradi te naše
+                                    skupne prihodnosti in zaradi nespremenljive volje za sporazum s
+                                    srbskim narodom, smo mi naredili vse, da se hrvatski narod loti
+                                    sodelovanja v ureditvi države, vendar je to možno le na temelju
+                                    faktične in resnične enakopravnosti, ki se mora doseči s
+                                    spontanim narodnim sporazumom...". </entity:desc>
+               <entity:page>240</entity:page>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   ID="default.structure"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/26733"/>
+         <METS:div TYPE="entity" DMDID="default.dc default.mods" ADMID="default.amd"/>
+      </METS:div>
+   </METS:structMap>
+   <METS:behaviorSec xmlns:xlink="http://www.w3.org/1999/xlink" ID="si4.behavior">
+      <METS:behavior BTYPE="default">
+         <METS:mechanism LOCTYPE="URL" xlink:href="resources/assets/xsd/default/"/>
+      </METS:behavior>
+   </METS:behaviorSec>
+</METS:mets>

@@ -18,7 +18,7 @@
     version="2.0">
     
     <!-- Če želim, da v mets.xml vključim lokacijo sheme, mora biti parameter schemaLocation true -->
-    <xsl:param name="schemaLocation">true</xsl:param>
+    <xsl:param name="schemaLocation"></xsl:param>
     
     <!-- TODO:
             - Naredi seznam uporabnikov administracije in iz njega potegni podatke o uporabniku (Priimek, Ime)
@@ -322,41 +322,6 @@
              druga vrednost je Handle suffix parent entitete,
              tretja vrednost je Handle suffix child entitete -->
         <xsl:variable name="collectionId" select="concat('menu',sistory:publication[1]/sistory:MENU_ID/@id)"/>
-        <xsl:result-document href="{concat($outputDir,$collectionId,'/parent-child.txt')}" method="text" encoding="UTF-8">
-            <!-- TODO: dal sem samo neposredne parent child povezave, ker menim, da trenutno nimamo parent-child-child povezav -->
-            <xsl:for-each select="sistory:publication">
-                <xsl:sort select="sistory:ID" data-type="number" order="ascending"/>
-                <xsl:variable name="pubId" select="sistory:ID"/>
-                <xsl:choose>
-                    <!-- če je samostojna publikacija ali če je parent publikacija, ki ni child, potem je primarna entiteta -->
-                    <xsl:when test="not(sistory:PARENT)">
-                        <!-- če je samostojna primary publikacija brez childov, ne naredim nič -->
-                        <!-- če je primary publikacija z child publikacijami procesiram -->
-                        <xsl:for-each select="sistory:CHILDREN/sistory:CHILD">
-                            <xsl:text>primary</xsl:text>
-                            <xsl:text> </xsl:text>
-                            <xsl:value-of select="$pubId"/>
-                            <xsl:text> </xsl:text>
-                            <xsl:value-of select="."/>
-                            <xsl:text>&#xa;</xsl:text>
-                        </xsl:for-each>
-                    </xsl:when>
-                    <!-- drugače je odvisna entiteta -->
-                    <xsl:otherwise>
-                        <!-- če ima child publikacija samo parent publikacijo, ne procesiram -->
-                        <!-- če pa ima child publikacija tudi svoje child publikacije: -->
-                        <xsl:for-each select="sistory:CHILDREN/sistory:CHILD">
-                            <xsl:text>dependent</xsl:text>
-                            <xsl:text> </xsl:text>
-                            <xsl:value-of select="$pubId"/>
-                            <xsl:text> </xsl:text>
-                            <xsl:value-of select="."/>
-                            <xsl:text>&#xa;</xsl:text>
-                        </xsl:for-each>
-                    </xsl:otherwise>
-                </xsl:choose>
-            </xsl:for-each>
-        </xsl:result-document>
         
         <!-- zajamem podatke iz ekstra dokument, v katerega sem shranil podatke iz sistory frontendta, ki niso bili v SIstory XML Basic -->
         <xsl:variable name="menuDocument" select="concat('../working/menu',sistory:publication[1]/sistory:MENU_ID/@id,'-frontend.xml')"/>
@@ -365,7 +330,7 @@
             <xsl:variable name="sistoryID" select="sistory:ID"/>
             <xsl:variable name="menuID" select="sistory:MENU_ID/@id"/>
             <xsl:variable name="extraData" select="$frontends/entity:root/entity:frontend[entity:id=$sistoryID]"/>
-            <xsl:result-document href="{concat($outputDir,'menu',$menuID,'/entity/',$sistoryID,'/mets.xml')}">
+            <xsl:result-document href="{concat($outputDir,'menu',$menuID,'/entities/',if (sistory:PARENT) then concat(sistory:PARENT,'/') else '',$sistoryID,'/mets.xml')}">
                 <METS:mets xmlns:METS="http://www.loc.gov/METS/"
                     xmlns:xlink="http://www.w3.org/TR/xlink"
                     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
@@ -374,144 +339,20 @@
                     xmlns:dcmitype="http://purl.org/dc/dcmitype/"
                     xmlns:premis="http://www.loc.gov/standards/premis/v1"
                     xmlns:mods="http://www.loc.gov/mods/v3"
-                    ID="entity."
                     TYPE="entity"
                     OBJID="http://hdl.handle.net/11686/{$sistoryID}">
                     <xsl:if test="$schemaLocation = 'true'">
                         <xsl:attribute name="xsi:schemaLocation">http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/dcterms.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd</xsl:attribute>
                     </xsl:if>
-                    <METS:metsHdr CREATEDATE="{translate(sistory:DATETIME_ADDED,'  ','T')}">
-                        <xsl:if test="sistory:DATETIME_MODIFIED">
-                            <xsl:attribute name="LASTMODDATE">
-                                <xsl:value-of select="translate(sistory:DATETIME_MODIFIED,'  ','T')"/>
-                            </xsl:attribute>
-                        </xsl:if>
-                        <xsl:attribute name="RECORDSTATUS">
-                            <xsl:choose>
-                                <xsl:when test="number(sistory:STATUS) = 1">Active</xsl:when>
-                                <xsl:otherwise>Inactive</xsl:otherwise>
-                            </xsl:choose>
-                        </xsl:attribute>
-                        <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
-                            <METS:name>SIstory</METS:name>
-                            <METS:note>http://sistory.si/</METS:note>
-                        </METS:agent>
-                        <xsl:variable name="userID" select="sistory:USER_ID_ADDED"/>
-                        <xsl:variable name="userName">
-                            <xsl:for-each select="$users/sistory:user[sistory:id = $userID]">
-                                <xsl:call-template name="user-name"/>
-                            </xsl:for-each>
-                        </xsl:variable>
-                        <xsl:if test="string-length($userName) gt 0">
-                            <METS:agent ROLE="CREATOR" ID="user.{$userID}" TYPE="INDIVIDUAL">
-                                <xsl:copy-of select="$userName"/>
-                            </METS:agent>
-                        </xsl:if>
-                    </METS:metsHdr>
+                    <!-- mets Header -->
+                    <xsl:call-template name="metsHdr"/>
                     <!-- default Dublin Core metapodatki -->
                     <METS:dmdSec ID="default.dc">
                         <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
                             <METS:xmlData>
-                                <xsl:apply-templates select="sistory:TITLE[@titleType='Title']"/>
-                                <xsl:choose>
-                                    <xsl:when test="sistory:TITLE[@titleType='Alternative Title'][@lang='eng'] and sistory:TITLE[@titleType='Sistory:Title'][@lang='eng']">
-                                        <!-- Če imata oba ta elementa vpisan naslov v angleščini, potem ta naslov ni originalen metapodatek,
-                                             temveč je napisan za predstavitvene potrebe portala SIstory. Zato sistory:Title ne mapiramo,
-                                             od dcterms:alternative pa mapiramo samo neangleške naslove. -->
-                                        <xsl:apply-templates select="sistory:TITLE[@titleType='Alternative Title']" mode="brez_anglescine"/>
-                                    </xsl:when>
-                                    <xsl:otherwise>
-                                        <xsl:apply-templates select="sistory:TITLE[@titleType='Sistory:Title']"/>
-                                        <xsl:apply-templates select="sistory:TITLE[@titleType='Alternative Title']" mode="z_anglescino"/>
-                                    </xsl:otherwise>
-                                </xsl:choose>
-                                <xsl:apply-templates select="sistory:CREATOR"/>
-                                <xsl:apply-templates select="sistory:CREATOR2"/>
-                                <xsl:apply-templates select="sistory:DESCRIPTION[@descriptionType='Description']"/>
-                                <xsl:apply-templates select="sistory:DESCRIPTION[@descriptionType='Abstracts']"/>
-                                <xsl:apply-templates select="sistory:DESCRIPTION[@descriptionType='TableOfContents']"/>
-                                <xsl:apply-templates select="sistory:SUBJECT[not(@subjectAttr)]"/>
-                                <xsl:apply-templates select="sistory:SUBJECT[@subjectAttr='UDK']"/>
-                                <xsl:apply-templates select="sistory:SUBJECT[@subjectAttr='ARRS']"/>
-                                <xsl:apply-templates select="sistory:PUBLISHER"/>
-                                <xsl:apply-templates select="sistory:CONTRIBUTOR"/>
-                                <xsl:apply-templates select="sistory:DATE[@type='Date']"/>
-                                <!-- ponekod je manjkal datum: v tem primeru pogledam, če je zapisan vsaj v YEAR polju -->
-                                <xsl:if test="not(sistory:DATE[@type='Date'])  and sistory:YEAR">
-                                    <dcterms:date xsi:type="dcterms:W3CDTF">
-                                        <xsl:value-of select="sistory:YEAR"/>
-                                    </dcterms:date>
-                                </xsl:if>
-                                <xsl:apply-templates select="sistory:DATE[@type='Date Created']"/>
-                                <xsl:apply-templates select="sistory:DATE[@type='Date Valid']"/>
-                                <xsl:apply-templates select="sistory:DATE[@type='Date Available']"/>
-                                <xsl:apply-templates select="sistory:DATE[@type='Date Issued']"/>
-                                <xsl:apply-templates select="sistory:DATE[@type='Date Modified']"/>
-                                <xsl:apply-templates select="sistory:DATE[@type='Date Accepted']"/>
-                                <xsl:apply-templates select="sistory:DATE[@type='Date Copyrighted']"/>
-                                <xsl:apply-templates select="sistory:DATE[@type='Date Submited']"/>
-                                <!-- sistory Type samo takrat, kadar ne obstaja dcterms:type -->
-                                <xsl:choose>
-                                    <xsl:when test="sistory:TYPE and sistory:TYPE_DC">
-                                        <xsl:apply-templates select="sistory:TYPE_DC"/>
-                                    </xsl:when>
-                                    <xsl:when test="sistory:TYPE and not(sistory:TYPE_DC)">
-                                        <xsl:apply-templates select="sistory:TYPE"/>
-                                    </xsl:when>
-                                    <xsl:when test="not(sistory:TYPE) and sistory:TYPE_DC">
-                                        <xsl:apply-templates select="sistory:TYPE_DC"/>
-                                    </xsl:when>
-                                    <xsl:otherwise>
-                                        <xsl:message>
-                                            <xsl:text>Publikacija </xsl:text>
-                                            <xsl:value-of select="sistory:ID"/>
-                                            <xsl:text> nima označenega tipa (Type)</xsl:text>
-                                        </xsl:message>
-                                    </xsl:otherwise>
-                                </xsl:choose>
-                                <xsl:apply-templates select="sistory:FORMAT[@formatType='Format']"/>
-                                <xsl:apply-templates select="sistory:FORMAT[@formatType='Extent']"/>
-                                <xsl:apply-templates select="sistory:FORMAT[@formatType='Medium']"/>
-                                <xsl:apply-templates select="sistory:IDENTIFIER[@identifierType='Identifier']"/>
-                                <!-- signaturo mapiram v dcterms:indentifier -->
-                                <xsl:apply-templates select="sistory:IDENTIFIER[@identifierType='Sistory signatura']"/>
-                                <xsl:apply-templates select="sistory:IDENTIFIER[@identifierType='Bibliographic citation']"/>
-                                <xsl:apply-templates select="sistory:SOURCE[@sourceType='Source']"/>
-                                <xsl:apply-templates select="sistory:LANGUAGE"/>
-                                <xsl:if test="sistory:SOURCE[@sourceType='Vir - URN Naslov'] and not(contains(sistory:SOURCE[@sourceType='Vir - URN Naslov'],'SISTORY:ID:'))">
-                                    <xsl:apply-templates select="sistory:SOURCE[@sourceType='Vir - URN Naslov']"/>
-                                </xsl:if>
-                                <xsl:apply-templates select="sistory:COLLECTION"/>
-                                <xsl:apply-templates select="sistory:RELATION[@relationType='relation']"/>
-                                <xsl:apply-templates select="sistory:RELATION[@relationType='isVersionOf']"/>
-                                <xsl:apply-templates select="sistory:RELATION[@relationType='hasVersion']"/>
-                                <xsl:apply-templates select="sistory:RELATION[@relationType='isReplacedBy']"/>
-                                <xsl:apply-templates select="sistory:RELATION[@relationType='replaces']"/>
-                                <xsl:apply-templates select="sistory:RELATION[@relationType='isRequiredBy']"/>
-                                <xsl:apply-templates select="sistory:RELATION[@relationType='requires']"/>
-                                <xsl:apply-templates select="sistory:RELATION[@relationType='isPartOf']"/>
-                                <xsl:apply-templates select="sistory:RELATION[@relationType='hasPart']"/>
-                                <xsl:apply-templates select="sistory:RELATION[@relationType='isReferencedBy']"/>
-                                <xsl:apply-templates select="sistory:RELATION[@relationType='references']"/>
-                                <xsl:apply-templates select="sistory:RELATION[@relationType='isFormatOf']"/>
-                                <xsl:apply-templates select="sistory:RELATION[@relationType='hasFormat']"/>
-                                <xsl:apply-templates select="sistory:RELATION[@relationType='conformsTo']"/>
-                                <xsl:apply-templates select="sistory:COVERAGE[@coverageType='Coverage']"/>
-                                <xsl:apply-templates select="sistory:COVERAGE[@coverageType='Spatial']"/>
-                                <xsl:apply-templates select="sistory:COVERAGE[@coverageType='Temporal']"/>
-                                <xsl:apply-templates select="sistory:COPYRIGHT"/>
-                                <xsl:apply-templates select="sistory:RIGHTS[@rightsType='rights']"/>
-                                <xsl:apply-templates select="sistory:RIGHTS[@rightsType='accessRights']"/>
-                                <xsl:apply-templates select="sistory:RIGHTS[@rightsType='license']"/>
-                                <xsl:apply-templates select="sistory:OTHER[@otherType='rightsHolder']"/>
-                                <xsl:apply-templates select="sistory:AUDIENCE[@audienceType='audience']"/>
-                                <xsl:apply-templates select="sistory:AUDIENCE[@audienceType='educationLevel']"/>
-                                <xsl:apply-templates select="sistory:AUDIENCE[@audienceType='mediator']"/>
-                                <xsl:apply-templates select="sistory:OTHER[@otherType='accrualMethod']"/>
-                                <xsl:apply-templates select="sistory:OTHER[@otherType='accrualPeriodicity']"/>
-                                <xsl:apply-templates select="sistory:OTHER[@otherType='accrualPolicy']"/>
-                                <xsl:apply-templates select="sistory:OTHER[@otherType='instructionalMethod']"/>
-                                <xsl:apply-templates select="sistory:OTHER[@otherType='provenance']"/>
+                                <xsl:call-template name="dc-group"/>
+                                <!-- dodatni dcterms metapodatki -->
+                                <xsl:call-template name="dcterms-group"/>
                             </METS:xmlData>
                         </METS:mdWrap>
                     </METS:dmdSec>
@@ -554,14 +395,14 @@
                                             <xsl:attribute name="xsi:schemaLocation">http://sistory.si/schema/si4/entity https://raw.githubusercontent.com/SIstory/si4-mets/master/schema/entity.1.0.xsd</xsl:attribute>
                                         </xsl:if>
                                         <xsl:if test="$extraData/html:description_sl/html:section">
-                                            <entity:description xml:lang="slv">
+                                            <entity:desc xml:lang="slv">
                                                 <xsl:apply-templates select="$extraData/html:description_sl/html:section/html:div/html:ul/html:li/html:div/html:div" mode="nodes"/>
-                                            </entity:description>
+                                            </entity:desc>
                                         </xsl:if>
                                         <xsl:if test="$extraData/html:description_en/entity:section">
-                                            <entity:description xml:lang="eng">
+                                            <entity:desc xml:lang="eng">
                                                 <xsl:apply-templates select="$extraData/html:description_en/entity:section/entity:div/entity:ul/entity:li/entity:div/entity:div" mode="nodes"/>
-                                            </entity:description>
+                                            </entity:desc>
                                         </xsl:if>
                                         <xsl:if test="number(sistory:PAGE) gt 0">
                                             <entity:page>
@@ -619,7 +460,7 @@
                         <xsl:variable name="fileName" select="@file"/>
                         <xsl:variable name="handle" select="$extraData/entity:files/entity:div/entity:aside/entity:div[entity:div[1][entity:div[entity:div[2][. = $fileName]]]]/entity:a/@href"/>
                         <xsl:variable name="fileID" select="tokenize($handle,'/')[last()]"/>
-                        <xsl:result-document href="{concat($outputDir,'menu',$menuID,'/entity/',$sistoryID,'/file/',$fileID,'/mets.xml')}">
+                        <xsl:result-document href="{concat($outputDir,'menu',$menuID,'/entities/',if (../sistory:PARENT) then concat(../sistory:PARENT,'/') else '',$sistoryID,'/',$fileID,'/mets.xml')}">
                             <METS:mets xmlns:METS="http://www.loc.gov/METS/"
                                 xmlns:xlink="http://www.w3.org/TR/xlink"
                                 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
@@ -628,7 +469,6 @@
                                 xmlns:dcmitype="http://purl.org/dc/dcmitype/"
                                 xmlns:premis="http://www.loc.gov/premis/v3"
                                 xmlns:mods="http://www.loc.gov/mods/v3"
-                                ID="file."
                                 TYPE="file"
                                 OBJID="http://hdl.handle.net/11686/{$fileID}">
                                 <xsl:if test="$schemaLocation = 'true'">
@@ -832,6 +672,146 @@
         </xsl:for-each>
     </xsl:template>
     
+    <xsl:template name="metsHdr">
+        <METS:metsHdr CREATEDATE="{translate(sistory:DATETIME_ADDED,'  ','T')}">
+            <xsl:if test="sistory:DATETIME_MODIFIED">
+                <xsl:attribute name="LASTMODDATE">
+                    <xsl:value-of select="translate(sistory:DATETIME_MODIFIED,'  ','T')"/>
+                </xsl:attribute>
+            </xsl:if>
+            <xsl:attribute name="RECORDSTATUS">
+                <xsl:choose>
+                    <xsl:when test="number(sistory:STATUS) = 1">Active</xsl:when>
+                    <xsl:otherwise>Inactive</xsl:otherwise>
+                </xsl:choose>
+            </xsl:attribute>
+            <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+                <METS:name>SIstory</METS:name>
+                <METS:note>http://sistory.si/</METS:note>
+            </METS:agent>
+            <xsl:variable name="userID" select="sistory:USER_ID_ADDED"/>
+            <xsl:variable name="userName">
+                <xsl:for-each select="$users/sistory:user[sistory:id = $userID]">
+                    <xsl:call-template name="user-name"/>
+                </xsl:for-each>
+            </xsl:variable>
+            <xsl:if test="string-length($userName) gt 0">
+                <METS:agent ROLE="CREATOR" ID="user.{$userID}" TYPE="INDIVIDUAL">
+                    <xsl:copy-of select="$userName"/>
+                </METS:agent>
+            </xsl:if>
+        </METS:metsHdr>
+    </xsl:template>
+    
+    <xsl:template name="dc-group">
+        <!-- dc spacename -->
+        <xsl:apply-templates select="sistory:TITLE[@titleType='Title']"/>
+        <xsl:apply-templates select="sistory:CREATOR"/>
+        <xsl:apply-templates select="sistory:CREATOR2"/>
+        <xsl:apply-templates select="sistory:DESCRIPTION[@descriptionType='Description']"/>
+        <xsl:apply-templates select="sistory:SUBJECT[not(@subjectAttr)]"/>
+        <xsl:apply-templates select="sistory:SUBJECT[@subjectAttr='UDK']"/>
+        <xsl:apply-templates select="sistory:SUBJECT[@subjectAttr='ARRS']"/>
+        <xsl:apply-templates select="sistory:PUBLISHER"/>
+        <xsl:apply-templates select="sistory:CONTRIBUTOR"/>
+        <xsl:apply-templates select="sistory:DATE[@type='Date']"/>
+        <!-- ponekod je manjkal datum: v tem primeru pogledam, če je zapisan vsaj v YEAR polju -->
+        <xsl:if test="not(sistory:DATE[@type='Date'])  and sistory:YEAR">
+            <dc:date xsi:type="dcterms:W3CDTF">
+                <xsl:value-of select="sistory:YEAR"/>
+            </dc:date>
+        </xsl:if>
+        <!-- sistory Type samo takrat, kadar ne obstaja dcterms:type -->
+        <xsl:choose>
+            <xsl:when test="sistory:TYPE and sistory:TYPE_DC">
+                <xsl:apply-templates select="sistory:TYPE_DC"/>
+            </xsl:when>
+            <xsl:when test="sistory:TYPE and not(sistory:TYPE_DC)">
+                <xsl:apply-templates select="sistory:TYPE"/>
+            </xsl:when>
+            <xsl:when test="not(sistory:TYPE) and sistory:TYPE_DC">
+                <xsl:apply-templates select="sistory:TYPE_DC"/>
+            </xsl:when>
+            <xsl:otherwise>
+                <xsl:message>
+                    <xsl:text>Publikacija </xsl:text>
+                    <xsl:value-of select="sistory:ID"/>
+                    <xsl:text> nima označenega tipa (Type)</xsl:text>
+                </xsl:message>
+            </xsl:otherwise>
+        </xsl:choose>
+        <xsl:apply-templates select="sistory:FORMAT[@formatType='Format']"/>
+        <xsl:apply-templates select="sistory:IDENTIFIER[@identifierType='Identifier']"/>
+        <!-- signaturo mapiram v dcterms:indentifier -->
+        <xsl:apply-templates select="sistory:IDENTIFIER[@identifierType='Sistory signatura']"/>
+        <xsl:apply-templates select="sistory:SOURCE[@sourceType='Source']"/>
+        <xsl:if test="sistory:SOURCE[@sourceType='Vir - URN Naslov'] and not(contains(sistory:SOURCE[@sourceType='Vir - URN Naslov'],'SISTORY:ID:'))">
+            <xsl:apply-templates select="sistory:SOURCE[@sourceType='Vir - URN Naslov']"/>
+        </xsl:if>
+        <xsl:apply-templates select="sistory:LANGUAGE"/>
+        <xsl:apply-templates select="sistory:RELATION[@relationType='relation']"/>
+        <xsl:apply-templates select="sistory:COVERAGE[@coverageType='Coverage']"/>
+        <xsl:apply-templates select="sistory:RIGHTS[@rightsType='rights']"/>
+    </xsl:template>
+    
+    <xsl:template name="dcterms-group">
+        <!-- dcterms namespace -->
+        <xsl:choose>
+            <xsl:when test="sistory:TITLE[@titleType='Alternative Title'][@lang='eng'] and sistory:TITLE[@titleType='Sistory:Title'][@lang='eng']">
+                <!-- Če imata oba ta elementa vpisan naslov v angleščini, potem ta naslov ni originalen metapodatek,
+                                             temveč je napisan za predstavitvene potrebe portala SIstory. Zato sistory:Title ne mapiramo,
+                                             od dcterms:alternative pa mapiramo samo neangleške naslove. -->
+                <xsl:apply-templates select="sistory:TITLE[@titleType='Alternative Title']" mode="brez_anglescine"/>
+            </xsl:when>
+            <xsl:otherwise>
+                <xsl:apply-templates select="sistory:TITLE[@titleType='Sistory:Title']"/>
+                <xsl:apply-templates select="sistory:TITLE[@titleType='Alternative Title']" mode="z_anglescino"/>
+            </xsl:otherwise>
+        </xsl:choose>
+        <xsl:apply-templates select="sistory:DESCRIPTION[@descriptionType='Abstracts']"/>
+        <xsl:apply-templates select="sistory:DESCRIPTION[@descriptionType='TableOfContents']"/>
+        <xsl:apply-templates select="sistory:DATE[@type='Date Created']"/>
+        <xsl:apply-templates select="sistory:DATE[@type='Date Valid']"/>
+        <xsl:apply-templates select="sistory:DATE[@type='Date Available']"/>
+        <xsl:apply-templates select="sistory:DATE[@type='Date Issued']"/>
+        <xsl:apply-templates select="sistory:DATE[@type='Date Modified']"/>
+        <xsl:apply-templates select="sistory:DATE[@type='Date Accepted']"/>
+        <xsl:apply-templates select="sistory:DATE[@type='Date Copyrighted']"/>
+        <xsl:apply-templates select="sistory:DATE[@type='Date Submited']"/>
+        <xsl:apply-templates select="sistory:FORMAT[@formatType='Extent']"/>
+        <xsl:apply-templates select="sistory:FORMAT[@formatType='Medium']"/>
+        <xsl:apply-templates select="sistory:IDENTIFIER[@identifierType='Bibliographic citation']"/>
+        <xsl:apply-templates select="sistory:COLLECTION"/>
+        <xsl:apply-templates select="sistory:RELATION[@relationType='isVersionOf']"/>
+        <xsl:apply-templates select="sistory:RELATION[@relationType='hasVersion']"/>
+        <xsl:apply-templates select="sistory:RELATION[@relationType='isReplacedBy']"/>
+        <xsl:apply-templates select="sistory:RELATION[@relationType='replaces']"/>
+        <xsl:apply-templates select="sistory:RELATION[@relationType='isRequiredBy']"/>
+        <xsl:apply-templates select="sistory:RELATION[@relationType='requires']"/>
+        <xsl:apply-templates select="sistory:RELATION[@relationType='isPartOf']"/>
+        <xsl:apply-templates select="sistory:RELATION[@relationType='hasPart']"/>
+        <xsl:apply-templates select="sistory:RELATION[@relationType='isReferencedBy']"/>
+        <xsl:apply-templates select="sistory:RELATION[@relationType='references']"/>
+        <xsl:apply-templates select="sistory:RELATION[@relationType='isFormatOf']"/>
+        <xsl:apply-templates select="sistory:RELATION[@relationType='hasFormat']"/>
+        <xsl:apply-templates select="sistory:RELATION[@relationType='conformsTo']"/>
+        <xsl:apply-templates select="sistory:COVERAGE[@coverageType='Spatial']"/>
+        <xsl:apply-templates select="sistory:COVERAGE[@coverageType='Temporal']"/>
+        <!-- glavnino avtorskih pravic pustim v dcterms -->
+        <xsl:apply-templates select="sistory:COPYRIGHT"/>
+        <xsl:apply-templates select="sistory:RIGHTS[@rightsType='accessRights']"/>
+        <xsl:apply-templates select="sistory:RIGHTS[@rightsType='license']"/>
+        <xsl:apply-templates select="sistory:OTHER[@otherType='rightsHolder']"/>
+        <xsl:apply-templates select="sistory:AUDIENCE[@audienceType='audience']"/>
+        <xsl:apply-templates select="sistory:AUDIENCE[@audienceType='educationLevel']"/>
+        <xsl:apply-templates select="sistory:AUDIENCE[@audienceType='mediator']"/>
+        <xsl:apply-templates select="sistory:OTHER[@otherType='accrualMethod']"/>
+        <xsl:apply-templates select="sistory:OTHER[@otherType='accrualPeriodicity']"/>
+        <xsl:apply-templates select="sistory:OTHER[@otherType='accrualPolicy']"/>
+        <xsl:apply-templates select="sistory:OTHER[@otherType='instructionalMethod']"/>
+        <xsl:apply-templates select="sistory:OTHER[@otherType='provenance']"/>
+    </xsl:template>
+    
     <xsl:template match="html:div[contains(@style,'max-width:75rem')]" mode="nodes">
         <xsl:apply-templates mode="nodes"/>
     </xsl:template>
@@ -904,7 +884,7 @@
     </xsl:template>
     
     <xsl:template match="sistory:TYPE">
-        <dcterms:type xsi:type="dcterms:DCMIType">
+        <dc:type xsi:type="dcterms:DCMIType">
             <xsl:choose>
                 <xsl:when test="contains(.,'Besedilo')">Text</xsl:when>
                 <xsl:when test="contains(.,'Povezava')">
@@ -921,19 +901,19 @@
                 <xsl:when test="contains(.,'Sistem')">Text</xsl:when>
                 <xsl:when test="contains(.,'Analogno')">PhysicalObject</xsl:when>
             </xsl:choose>
-        </dcterms:type>
+        </dc:type>
     </xsl:template>
     <xsl:template match="sistory:TYPE_DC">
-        <dcterms:type xsi:type="dcterms:DCMIType">
+        <dc:type xsi:type="dcterms:DCMIType">
             <xsl:value-of select=" translate(@title,' ','')"/>
-        </dcterms:type>
+        </dc:type>
     </xsl:template>
     
     <!-- title skupina -->
     <xsl:template match="sistory:TITLE[@titleType='Title']">
-        <dcterms:title xml:lang="{@lang}">
+        <dc:title xml:lang="{@lang}">
             <xsl:value-of select="normalize-space(.)"/>
-        </dcterms:title>
+        </dc:title>
     </xsl:template>
     <xsl:template match="sistory:TITLE[@titleType='Sistory:Title']">
         <dcterms:alternative xml:lang="eng">
@@ -955,21 +935,21 @@
     
     <!-- avtorji / ustvarjalci -->
     <xsl:template match="sistory:CREATOR">
-        <dcterms:creator>
+        <dc:creator>
             <xsl:value-of select="concat(sistory:PRIIMEK,', ',sistory:IME)"/>
-        </dcterms:creator>
+        </dc:creator>
     </xsl:template>
     <xsl:template match="sistory:CREATOR2">
-        <dcterms:creator xml:lang="{@lang}">
+        <dc:creator xml:lang="{@lang}">
             <xsl:value-of select="normalize-space(.)"/>
-        </dcterms:creator>
+        </dc:creator>
     </xsl:template>
     
     <!-- Description -->
     <xsl:template match="sistory:DESCRIPTION[@descriptionType='Description']">
-        <dcterms:description xml:lang="{@lang}">
+        <dc:description xml:lang="{@lang}">
             <xsl:value-of select="normalize-space(.)"/>
-        </dcterms:description>
+        </dc:description>
     </xsl:template>
     <xsl:template match="sistory:DESCRIPTION[@descriptionType='Abstracts']">
         <dcterms:abstract xml:lang="{@lang}">
@@ -983,25 +963,25 @@
     </xsl:template>
     
     <xsl:template match="sistory:SUBJECT[not(@subjectAttr)]">
-        <dcterms:subject xml:lang="{@lang}">
+        <dc:subject xml:lang="{@lang}">
             <xsl:value-of select="normalize-space(.)"/>
-        </dcterms:subject>
+        </dc:subject>
     </xsl:template>
     <xsl:template match="sistory:SUBJECT[@subjectAttr='ARRS']">
-        <dcterms:subject xml:lang="slv">
+        <dc:subject xml:lang="slv">
             <xsl:value-of select="normalize-space(.)"/>
-        </dcterms:subject>
+        </dc:subject>
     </xsl:template>
     <xsl:template match="sistory:SUBJECT[@subjectAttr='UDK']">
-        <dcterms:subject xsi:type="dcterms:UDC">
+        <dc:subject xsi:type="dcterms:UDC">
             <xsl:value-of select="normalize-space(.)"/>
-        </dcterms:subject>
+        </dc:subject>
     </xsl:template>
     
     <xsl:template match="sistory:PUBLISHER">
-        <dcterms:publisher>
+        <dc:publisher>
             <xsl:value-of select="normalize-space(.)"/>
-        </dcterms:publisher>
+        </dc:publisher>
     </xsl:template>
     
     <xsl:template match="sistory:COLLECTION">
@@ -1011,44 +991,44 @@
     </xsl:template>
     
     <xsl:template match="sistory:CONTRIBUTOR">
-        <dcterms:contributor>
+        <dc:contributor>
             <xsl:value-of select="normalize-space(.)"/>
-        </dcterms:contributor>
+        </dc:contributor>
     </xsl:template>
     
     <!-- začetek dateGroup -->
     <xsl:template match="sistory:DATE[@type='Date'][not(@format)]">
         <xsl:choose>
             <xsl:when test="string-length(.) = 4 and matches(.,'\d{4}')">
-                <dcterms:date xsi:type="dcterms:W3CDTF">
+                <dc:date xsi:type="dcterms:W3CDTF">
                     <xsl:value-of select="normalize-space(.)"/>
-                </dcterms:date>
+                </dc:date>
             </xsl:when>
             <xsl:otherwise>
-                <dcterms:date>
+                <dc:date>
                     <xsl:value-of select="normalize-space(.)"/>
-                </dcterms:date>
+                </dc:date>
             </xsl:otherwise>
         </xsl:choose>
     </xsl:template>
     <xsl:template match="sistory:DATE[@type='Date'][@format='W3CDTF']">
         <xsl:choose>
             <xsl:when test="contains(., '-01-01')">
-                <dcterms:date xsi:type="dcterms:W3CDTF">
+                <dc:date xsi:type="dcterms:W3CDTF">
                     <xsl:value-of select="substring-before(.,'-')"/>
-                </dcterms:date>
+                </dc:date>
             </xsl:when>
             <xsl:otherwise>
-                <dcterms:date xsi:type="dcterms:W3CDTF">
+                <dc:date xsi:type="dcterms:W3CDTF">
                     <xsl:value-of select="normalize-space(.)"/>
-                </dcterms:date>
+                </dc:date>
             </xsl:otherwise>
         </xsl:choose>
     </xsl:template>
     <xsl:template match="sistory:DATE[@type='Date'][@format='Period']">
-        <dcterms:date xsi:type="dcterms:Period">
+        <dc:date xsi:type="dcterms:Period">
             <xsl:apply-templates select="sistory:START"/><xsl:apply-templates select="sistory:END"/><xsl:apply-templates select="sistory:NAME"/><xsl:apply-templates select="sistory:SCHEME"/>
-        </dcterms:date>
+        </dc:date>
     </xsl:template>
     
     <xsl:template match="sistory:DATE[@type='Date Created'][@format='W3CDTF']">
@@ -1251,14 +1231,14 @@
     <xsl:template match="sistory:FORMAT[@formatType='Format']">
         <xsl:choose>
             <xsl:when test="@formatAttr='IMT'">
-                <dcterms:format xsi:type="dcterms:IMT">
+                <dc:format xsi:type="dcterms:IMT">
                     <xsl:value-of select="normalize-space(.)"/>
-                </dcterms:format>
+                </dc:format>
             </xsl:when>
             <xsl:otherwise>
-                <dcterms:format>
+                <dc:format>
                     <xsl:value-of select="normalize-space(.)"/>
-                </dcterms:format>
+                </dc:format>
             </xsl:otherwise>
         </xsl:choose>
     </xsl:template>
@@ -1275,14 +1255,14 @@
     
     <!-- začete identifier skupine -->
     <xsl:template match="sistory:IDENTIFIER[@identifierType='Identifier']">
-        <dcterms:identifier>
+        <dc:identifier>
             <xsl:value-of select="normalize-space(.)"/>
-        </dcterms:identifier>
+        </dc:identifier>
     </xsl:template>
     <xsl:template match="sistory:IDENTIFIER[@identifierType='Sistory signatura']">
-        <dcterms:identifier>
+        <dc:identifier>
             <xsl:value-of select="normalize-space(.)"/>
-        </dcterms:identifier>
+        </dc:identifier>
     </xsl:template>
     <xsl:template match="sistory:IDENTIFIER[@identifierType='Bibliographic citation']">
         <dcterms:bibliographicCitation>
@@ -1292,41 +1272,41 @@
     
     <!-- source -->
     <xsl:template match="sistory:SOURCE[@sourceType='Vir - URN Naslov']">
-        <dcterms:source xsi:type="dcterms:URI">
+        <dc:source xsi:type="dcterms:URI">
             <xsl:value-of select="normalize-space(.)"/>
-        </dcterms:source>
+        </dc:source>
     </xsl:template>
     <xsl:template match="sistory:SOURCE[@sourceType='Source']">
         <xsl:if test="@sourceAttr='xml:lang'">
-            <dcterms:source xml:lang="{@lang}">
+            <dc:source xml:lang="{@lang}">
                 <xsl:value-of select="normalize-space(.)"/>
-            </dcterms:source>
+            </dc:source>
         </xsl:if>
         <xsl:if test="@sourceAttr='URI'">
-            <dcterms:source xsi:type="dcterms:URI">
+            <dc:source xsi:type="dcterms:URI">
                 <xsl:value-of select="normalize-space(.)"/>
-            </dcterms:source>
+            </dc:source>
         </xsl:if>
     </xsl:template>
     
     <!-- language -->
     <xsl:template match="sistory:LANGUAGE">
-        <dcterms:language xsi:type="dcterms:ISO639-3">
+        <dc:language xsi:type="dcterms:ISO639-3">
             <xsl:value-of select="@lang"/>
-        </dcterms:language>
+        </dc:language>
     </xsl:template>
     
     <!-- začetek relation skupine -->
     <xsl:template match="sistory:RELATION[@relationType='relation']">
         <xsl:if test="@relationAttr='xml:lang'">
-            <dcterms:relation xml:lang="{@lang}">
+            <dc:relation xml:lang="{@lang}">
                 <xsl:value-of select="normalize-space(.)"/>
-            </dcterms:relation>
+            </dc:relation>
         </xsl:if>
         <xsl:if test="@relationAttr='URI'">
-            <dcterms:relation xsi:type="dcterms:URI">
+            <dc:relation xsi:type="dcterms:URI">
                 <xsl:value-of select="normalize-space(.)"/>
-            </dcterms:relation>
+            </dc:relation>
         </xsl:if>
     </xsl:template>
     <xsl:template match="sistory:RELATION[@relationType='isVersionOf']">
@@ -1488,9 +1468,9 @@
     
     <!-- začetek coverageGroup -->
     <xsl:template match="sistory:COVERAGE[@coverageType='Coverage']">
-        <dcterms:coverage xml:lang="{@lang}">
+        <dc:coverage xml:lang="{@lang}">
             <xsl:value-of select="normalize-space(.)"/>
-        </dcterms:coverage>
+        </dc:coverage>
     </xsl:template>
     <xsl:template match="sistory:COVERAGE[@coverageType='Spatial']">
         <xsl:if test="@attr=''">
@@ -1617,14 +1597,14 @@
     <!-- začetek rightsGroup -->
     <xsl:template match="sistory:RIGHTS[@rightsType='rights']">
         <xsl:if test="@rightsAttr='xml:lang'">
-            <dcterms:rights xml:lang="{@lang}">
+            <dc:rights xml:lang="{@lang}">
                 <xsl:value-of select="normalize-space(.)"/>
-            </dcterms:rights>
+            </dc:rights>
         </xsl:if>
         <xsl:if test="@rightsAttr='URI'">
-            <dcterms:rights xsi:type="dcterms:URI">
+            <dc:rights xsi:type="dcterms:URI">
                 <xsl:value-of select="normalize-space(.)"/>
-            </dcterms:rights>
+            </dc:rights>
         </xsl:if>
     </xsl:template>
     <xsl:template match="sistory:RIGHTS[@rightsType='accessRights']">

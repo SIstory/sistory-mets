@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/35306">
+   <METS:metsHdr CREATEDATE="2016-06-16T14:09:58"
+                 LASTMODDATE="2017-02-10T12:45:05"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name>Meden, Katja</METS:name>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="default.dc">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dc:title xml:lang="slv">Podobnosti in razlike med slovenskim (jugoslovanskim) in vzhodnoevropskim tipom socializma</dc:title>
+            <dc:creator>Repe, Božo</dc:creator>
+            <dc:description xml:lang="slv">Avtor v prispevku prikazuje razlike in podobnosti med slovenskim (jugoslovanskim) tipom socializma in tistim v vzhodnoevropskih državah. Izhaja iz stališča, da so med posameznimi socialističnimi državami prav tako velike razlike kot med posameznimi kapitalističnimi državami. Razlike so tudi znotraj držav v posameznih časovnih obdobjih. Po navedbi podobnosti in razlik zaključi, da današnja definicija slovenske (jugoslovanske) družbe kot totalitaristične do leta 1990 ni upravičena in da se je Slovenija od petdesetih let dalje postopoma demokratizirala. ≫Vmesnost≪ Slovenije (in Jugoslavije) med dvema sistemoma in dvema blokoma bo vsaj s historiografskega stališča torej še naprej ostala zgodovinsko dejstvo.</dc:description>
+            <dc:subject xml:lang="slv">politični sistem</dc:subject>
+            <dc:subject xml:lang="slv">Jugoslavija</dc:subject>
+            <dc:subject xml:lang="slv">spor z Informbirojem</dc:subject>
+            <dc:subject xml:lang="slv">socializem</dc:subject>
+            <dc:subject xml:lang="slv">samoupravljanje</dc:subject>
+            <dc:subject xml:lang="slv">totalitarizem</dc:subject>
+            <dc:subject xml:lang="slv">avtokracija</dc:subject>
+            <dc:subject xml:lang="slv">historiografija</dc:subject>
+            <dc:subject xml:lang="eng">politicai system</dc:subject>
+            <dc:subject xml:lang="eng">Yugoslavia</dc:subject>
+            <dc:subject xml:lang="eng">conflict with the Cominform</dc:subject>
+            <dc:subject xml:lang="eng">socialism</dc:subject>
+            <dc:subject xml:lang="eng">self-management</dc:subject>
+            <dc:subject xml:lang="eng">totalitarianism</dc:subject>
+            <dc:subject xml:lang="eng">autocracy</dc:subject>
+            <dc:subject xml:lang="eng">historiography</dc:subject>
+            <dc:publisher>Zveza zgodovinskih društev Slovenije, Ljubljana</dc:publisher>
+            <dc:contributor>Nevenka Troha (ur.)</dc:contributor>
+            <dc:contributor>Mojca Šorn (ur.)</dc:contributor>
+            <dc:contributor>Bojan Balkovec (ur.)</dc:contributor>
+            <dc:date xsi:type="dcterms:W3CDTF">2008</dc:date>
+            <dc:type xsi:type="dcterms:DCMIType">Text</dc:type>
+            <dc:language xsi:type="dcterms:ISO639-3">slv</dc:language>
+            <dcterms:alternative xml:lang="eng">Similarities and Differences between the Slovene (Yugoslav) and East European Types of Socialism</dcterms:alternative>
+            <dcterms:abstract xml:lang="slv">Explored are differences and similarities between the Slovene (Yugoslav) type of socialism and that of East European countries. The author posits that differences between socialist countries are just as marked as differences between capitalist ones. There are also différences within individual countries and in different periods. In conclusion, the author suggests that the present widely embraced conviction that up to the 1990s thè Slovene (Yugoslav) society was a totalitarian one is hardly justified; indeed, since the 1950s it became increasingly more democratic. The position of Slovenia, as well as Yugoslavia, »in-between« the two systems and blocs shall, at least from the historiographic perspective, remain a historic fact.</dcterms:abstract>
+            <dcterms:isPartOf>Zbirka zgodovinskega časopisa ; 35</dcterms:isPartOf>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:dmdSec ID="default.mods">
+      <METS:mdWrap MDTYPE="MODS" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <mods:mods>
+               <mods:relatedItem type="series">
+                  <mods:relatedItem type="series">
+                     <mods:titleInfo>
+                        <mods:title>Zbirka zgodovinskega časopisa</mods:title>
+                     </mods:titleInfo>
+                     <mods:part>
+                        <mods:detail type="volumens">
+                           <mods:number>35</mods:number>
+                        </mods:detail>
+                     </mods:part>
+                  </mods:relatedItem>
+               </mods:relatedItem>
+            </mods:mods>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="default.amd">
+      <METS:techMD ID="default.premis">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>si4</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue/>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>Local name</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>35306</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>http://hdl.handle.net/11686/35306#page=409</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectCategory>Intellectual entity</premis:objectCategory>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="default.si4">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <entity:desc xml:lang="slv"> Avtor v prispevku
+                                    prikazuje razlike in podobnosti med slovenskim (jugoslovanskim)
+                                    tipom socializma in tistim v vzhodnoevropskih državah. Izhaja iz
+                                    stališča, da so med posameznimi socialističnimi državami prav
+                                    tako velike razlike kot med posameznimi kapitalističnimi
+                                    državami. Razlike so tudi znotraj držav v posameznih časovnih
+                                    obdobjih. Po navedbi podobnosti in razlik zaključi, da današnja
+                                    definicija slovenske (jugoslovanske) družbe kot totalitaristične
+                                    do leta 1990 ni upravičena in da se je Slovenija od petdesetih
+                                    let dalje postopoma demokratizirala. ≫Vmesnost≪ Slovenije (in
+                                    Jugoslavije) med dvema sistemoma in dvema blokoma bo vsaj s
+                                    historiografskega stališča torej še naprej ostala zgodovinsko
+                                    dejstvo. </entity:desc>
+               <entity:page>409</entity:page>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   ID="default.structure"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/35237"/>
+         <METS:div TYPE="entity" DMDID="default.dc default.mods" ADMID="default.amd"/>
+      </METS:div>
+   </METS:structMap>
+   <METS:behaviorSec xmlns:xlink="http://www.w3.org/1999/xlink" ID="si4.behavior">
+      <METS:behavior BTYPE="default">
+         <METS:mechanism LOCTYPE="URL" xlink:href="resources/assets/xsd/default/"/>
+      </METS:behavior>
+   </METS:behaviorSec>
+</METS:mets>

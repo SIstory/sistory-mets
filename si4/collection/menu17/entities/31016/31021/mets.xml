@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/31021">
+   <METS:metsHdr CREATEDATE="2015-06-02T10:21:34"
+                 LASTMODDATE="2017-02-15T13:24:47"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name>Meden, Katja</METS:name>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="default.dc">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dc:title xml:lang="slv">Podoba otroka v slovenski mladinski književnosti</dc:title>
+            <dc:creator>Blažić, Milena Mileva</dc:creator>
+            <dc:subject xml:lang="slv">otrok, , , , ,</dc:subject>
+            <dc:subject xml:lang="slv">slovenska mladinska književnost</dc:subject>
+            <dc:subject xml:lang="slv">sončno otroštvo</dc:subject>
+            <dc:subject xml:lang="slv">senčno otroštvo</dc:subject>
+            <dc:subject xml:lang="slv">idealizacija</dc:subject>
+            <dc:subject xml:lang="slv">podoba otroka</dc:subject>
+            <dc:subject xml:lang="slv">romantizacija</dc:subject>
+            <dc:subject xml:lang="eng">child</dc:subject>
+            <dc:subject xml:lang="eng">Slovenian youth literature</dc:subject>
+            <dc:subject xml:lang="eng">sunny childhood</dc:subject>
+            <dc:subject xml:lang="eng">cloudy childhood</dc:subject>
+            <dc:subject xml:lang="eng">idealisation</dc:subject>
+            <dc:subject xml:lang="eng">romanticism</dc:subject>
+            <dc:subject xml:lang="eng">image of child</dc:subject>
+            <dc:publisher>Zveza zgodovinskih društev Slovenije</dc:publisher>
+            <dc:contributor>Peter Štih (gl. in od. ur.)</dc:contributor>
+            <dc:contributor>Aida Škoro Babić (ur. in prev.)</dc:contributor>
+            <dc:contributor>Mateja Jeraj (ur.)</dc:contributor>
+            <dc:contributor>Matevž Košir (ur.)</dc:contributor>
+            <dc:contributor>Bojan Balkovec (ur.)</dc:contributor>
+            <dc:date xsi:type="dcterms:W3CDTF">2012</dc:date>
+            <dc:type xsi:type="dcterms:DCMIType">Text</dc:type>
+            <dc:language xsi:type="dcterms:ISO639-3">slv</dc:language>
+            <dcterms:alternative xml:lang="eng">The Image of a Child in Slovenian Youth Literature</dcterms:alternative>
+            <dcterms:abstract xml:lang="slv">Otroštvo naj bi bilo zaščiteno obdobje, odrasli naj bi vedno ravnali v dobrobit otrok, vendar v realnosti to ni tako. Tudi etimologija besede otrok (France Bezlaj, Marko Snoj) kaže na neskladje med besednim in dejanskim pojmovanjem otroka. Na osnovi analize etimologije besede otrok v Bezlajevem in Snojevem etimološkem slovarju lahko ugotovimo, da se beseda otrok pojavlja najpogosteje v smislu delavec, hlapec, paž, sluga, služabnik, suženj, tlačan in manj pogosto kot deček, fant, malček, mož, otrok. Odsotnost omembe otroka ženskega spola je sama po sebi zgovorna. Stephen Hawking je manjša, vzporedna vesolja poimenoval otroška vesolja (baby universes).</dcterms:abstract>
+            <dcterms:abstract xml:lang="eng">Period of childhood is supposed to be protected period. Adults are supposed to act for the benefit of the child, but reality shows us it is not like that. Even the etymology of the word »child« in Slovene (France Bezlaj, Marko Snoj) is showing the disparity in understanding of the word and of the real understanding of the child. On the basis of the etymology analyses of the word »child« in the Bezlaj’s dictionary and in Snoj’s dictionary, we can say the word “child” appears the most often within the meaning of worker, farmhand, page, servant, slave, serf, and less as a boy, nipper, youngster, man, little boy. The absence of the mentioning of feminine child is self-explanatory. Stephen Hawkin called smaller, parallel universes baby universes.</dcterms:abstract>
+            <dcterms:isPartOf>Zbirka zgodovinskega časopisa, 45</dcterms:isPartOf>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:dmdSec ID="default.mods">
+      <METS:mdWrap MDTYPE="MODS" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <mods:mods>
+               <mods:relatedItem type="series">
+                  <mods:titleInfo>
+                     <mods:title>Zbirka zgodovinskega časopisa, 45</mods:title>
+                  </mods:titleInfo>
+               </mods:relatedItem>
+            </mods:mods>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="default.amd">
+      <METS:techMD ID="default.premis">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>si4</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue/>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>Local name</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>31021</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>http://hdl.handle.net/11686/31021#page=53</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectCategory>Intellectual entity</premis:objectCategory>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="default.si4">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <entity:desc xml:lang="slv"> Otroštvo naj bi bilo
+                                    zaščiteno obdobje, odrasli naj bi vedno ravnali v dobrobit
+                                    otrok, vendar v realnosti to ni tako. Tudi etimologija besede
+                                    otrok (France Bezlaj, Marko Snoj) kaže na neskladje med besednim
+                                    in dejanskim pojmovanjem otroka. Na osnovi analize etimologije
+                                    besede otrok v Bezlajevem in Snojevem etimološkem slovarju lahko
+                                    ugotovimo, da se beseda otrok pojavlja najpogosteje v smislu
+                                    delavec, hlapec, paž, sluga, služabnik, suženj, tlačan in manj
+                                    pogosto kot deček, fant, malček, mož, otrok. Odsotnost omembe
+                                    otroka ženskega spola je sama po sebi zgovorna. Stephen Hawking
+                                    je manjša, vzporedna vesolja poimenoval otroška vesolja (baby
+                                    universes). </entity:desc>
+               <entity:page>53</entity:page>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   ID="default.structure"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/31016"/>
+         <METS:div TYPE="entity" DMDID="default.dc default.mods" ADMID="default.amd"/>
+      </METS:div>
+   </METS:structMap>
+   <METS:behaviorSec xmlns:xlink="http://www.w3.org/1999/xlink" ID="si4.behavior">
+      <METS:behavior BTYPE="default">
+         <METS:mechanism LOCTYPE="URL" xlink:href="resources/assets/xsd/default/"/>
+      </METS:behavior>
+   </METS:behaviorSec>
+</METS:mets>

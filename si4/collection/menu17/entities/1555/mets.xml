@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/1555">
+   <METS:metsHdr CREATEDATE="2012-11-14T12:37:06"
+                 LASTMODDATE="2017-02-15T14:00:08"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name>Meden, Katja</METS:name>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="default.dc">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dc:title xml:lang="slv">Življenje Ljubljančanov med drugo svetovno vojno</dc:title>
+            <dc:creator>Šorn, Mojca</dc:creator>
+            <dc:description xml:lang="slv">Pred nekaj leti sem v arhivu naletela na pismo Ljubljančanke, datirano z 19. januarjem 1945, ki se glasi: “Iskrena hvala za recepte, toda zdaj bolj malo pečem v roru, le toliko kurimo, da si skuhamo, ker štejemo polenčka, da ja enega preveč ne pokurimo, sobe pa imamo kot “Frigidare” mrzle, no pa saj to je zdravo, kot pravijo. Po mestu so že skoro vse lesene ograje izginile. /.../. Najlepša Vam hvala za poslano ajdovo in koruzno moko. Ob dobrih žgancih se Vas bomo hvaležni spominjali”. Ta droben dokument in njegovo obširno zgodbo sem postavila v širši okvir v doktorski disertaciji z naslovom Življenje Ljubljančanov med nemško okupacijo, nadgradnja začetega dela pa je pričujoča monografija, ki odgovori na vprašanje, kako sta druga svetovna vojna in okupacija vplivali na Ljubljano in vsakodnevno življenje v njej.</dc:description>
+            <dc:description xml:lang="slv">The monograph illustrates the life of Ljubljana inhabitants during WW II. It clearly shows that the German occupying authorities were much less involved in the every-day life of these inhabitants than their predecessors, the Italian occupying formations. The authorities, who operated within some sort of Slovene autonomous territory of the so-called Ljubljana Province, even tried to improve the living standard of Ljubljana’s inhabitants during the time of the German occupation. However, the long-lasting war prevented the realization of this goal. In addition to a depiction of the changes made in the daily routine of the Ljubljana population, the monograph also presents the new, wartime portrait of Ljubljana. It reveals that various measures implemented by the occupying bodies, such as compulsory blackout and the police curfew, as well as the general shortages, together affected the overall outlook of Ljubljana. This was clearly reflected in the long queues at stores, the turning of city parks into cultivated fields, the reduction in traffic and the increase of bicycles due to the lack of gasoline, as well as frequent power blackouts that often eliminated lighting in the city.</dc:description>
+            <dc:subject xml:lang="slv">Slovenija</dc:subject>
+            <dc:subject xml:lang="slv">druga svetovna vojna</dc:subject>
+            <dc:subject xml:lang="slv">vsakdanje življenje</dc:subject>
+            <dc:subject xml:lang="slv">Ljubljana</dc:subject>
+            <dc:subject xml:lang="slv">družbene razmere</dc:subject>
+            <dc:subject xml:lang="eng">Slovenia</dc:subject>
+            <dc:subject xml:lang="eng">World War II</dc:subject>
+            <dc:subject xml:lang="eng">every-day life</dc:subject>
+            <dc:subject xml:lang="eng">Ljubljana</dc:subject>
+            <dc:publisher>Inštitut za novejšo zgodovino, Ljubljana</dc:publisher>
+            <dc:contributor>Žarko Lazarevič (ur.)</dc:contributor>
+            <dc:date xsi:type="dcterms:W3CDTF">2007</dc:date>
+            <dc:type xsi:type="dcterms:DCMIType">Text</dc:type>
+            <dc:identifier>COBISS.SI-ID 236081920</dc:identifier>
+            <dc:language xsi:type="dcterms:ISO639-3">slv</dc:language>
+            <dc:coverage xml:lang="slv">Ljubljana, 1941-1945</dc:coverage>
+            <dcterms:isPartOf>Zbirka Razpoznavanja = Recognitiones ; 6</dcterms:isPartOf>
+            <dcterms:isPartOf xsi:type="dcterms:URI">http://hdl.handle.net/11686/4822</dcterms:isPartOf>
+            <dcterms:isPartOf xsi:type="dcterms:URI">http://hdl.handle.net/11686/4893</dcterms:isPartOf>
+            <dcterms:license xsi:type="dcterms:URI">http://creativecommons.org/licenses/by-nc-nd/2.5/si/</dcterms:license>
+            <dcterms:license xml:lang="slv">Priznanje avtorstva-Nekomercialo-Brez predelav 2.5 Slovenija (CC BY-NC-ND 2.5 SI)</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:dmdSec ID="default.mods">
+      <METS:mdWrap MDTYPE="MODS" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <mods:mods>
+               <mods:relatedItem type="series">
+                  <mods:relatedItem type="series">
+                     <mods:titleInfo>
+                        <mods:title>Zbirka Razpoznavanja = Recognitiones</mods:title>
+                     </mods:titleInfo>
+                     <mods:part>
+                        <mods:detail type="volumens">
+                           <mods:number>6</mods:number>
+                        </mods:detail>
+                     </mods:part>
+                  </mods:relatedItem>
+               </mods:relatedItem>
+            </mods:mods>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="default.amd">
+      <METS:techMD ID="default.premis">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>si4</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue/>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>Local name</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>1555</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>http://hdl.handle.net/11686/1555</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectCategory>Intellectual entity</premis:objectCategory>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="default.si4">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <entity:desc xml:lang="slv">
+                  <p xmlns="http://www.w3.org/1999/xhtml">Pred nekaj leti sem v arhivu naletela na pismo Ljubljančanke,
+                                        datirano z 19. januarjem 1945, ki se glasi: “Iskrena hvala
+                                        za recepte, toda zdaj bolj malo pečem v roru, le toliko
+                                        kurimo, da si skuhamo, ker štejemo polenčka, da ja enega
+                                        preveč ne pokurimo, sobe pa imamo kot “Frigidare” mrzle, no
+                                        pa saj to je zdravo, kot pravijo. Po mestu so že skoro vse
+                                        lesene ograje izginile. /.../. Najlepša Vam hvala za poslano
+                                        ajdovo in koruzno moko. Ob dobrih žgancih se Vas bomo
+                                        hvaležni spominjali”. Ta droben dokument in njegovo obširno
+                                        zgodbo sem postavila v širši okvir v doktorski disertaciji z
+                                        naslovom Življenje Ljubljančanov med nemško okupacijo,
+                                        nadgradnja začetega dela pa je pričujoča monografija, ki
+                                        odgovori na vprašanje, kako sta druga svetovna vojna in
+                                        okupacija vplivali na Ljubljano in vsakodnevno življenje v
+                                        njej.</p>
+               </entity:desc>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink" ID="default.file">
+      <METS:fileGrp USE="THUMB">
+         <METS:file ID="thumbnail">
+            <METS:FLocat LOCTYPE="URL"
+                         xlink:href="Zivljenje Ljubljancanov med drugo svetovno vojno.jpg"/>
+         </METS:file>
+      </METS:fileGrp>
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="file684"
+                    OWNERID="Zivljenje Ljubljancanov med drugo svetovno vojno.pdf">
+            <METS:FLocat LOCTYPE="HANDLE" xlink:href="https://hdl.handle.net/11686/file684"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   ID="default.structure"
+                   TYPE="primary">
+      <METS:div TYPE="collection">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/menu17"/>
+         <METS:div TYPE="entity" DMDID="default.dc default.mods" ADMID="default.amd">
+            <METS:fptr FILEID="thumbnail"/>
+            <METS:fptr FILEID="file684"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+   <METS:behaviorSec xmlns:xlink="http://www.w3.org/1999/xlink" ID="si4.behavior">
+      <METS:behavior BTYPE="default">
+         <METS:mechanism LOCTYPE="URL" xlink:href="resources/assets/xsd/default/"/>
+      </METS:behavior>
+   </METS:behaviorSec>
+</METS:mets>

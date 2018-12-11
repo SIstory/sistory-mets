@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/26759">
+   <METS:metsHdr CREATEDATE="2014-04-15T13:03:44"
+                 LASTMODDATE="2017-02-14T14:17:49"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name>Meden, Katja</METS:name>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="default.dc">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dc:title xml:lang="slv">Sindikalna prizadevanja učiteljskih društev za ureditev učiteljskih plač na Kranjskem v začetku 20. stoletja</dc:title>
+            <dc:creator>Šuštar, Branko</dc:creator>
+            <dc:description xml:lang="slv">Slovensko učiteljstvo na Kranjskem je začetek 20. stoletja pričakalo ločeno v društveni zvezi večinsko liberalne (Zaveza) in katoliške usmeritve (Slomškova zveza) ter s skromnimi plačami. Delovanje učiteljskih društev je pomenilo stanovsko povezovanje predstavnikov uveljavljajočega intelektualnega poklica, skrb za njihovo nadaljnjo pedagoško izobraževanje in za izboljševanja materialnih pravic, hkrati pa tudi spodbudo narodnostnemu delovanju učiteljstva na kulturnem in gospodarskem področju. Učiteljska društva so tako združevala dejavnost današnjih stanovskih strokovnih društev in sindikatov, a tudi njihov politični pomen ni bil zanemarljiv, saj so bili učitelji ne le nosilci narodnostnega in kulturnega gibanja, temveč večkrat tudi predstavniki političnih strank. Posamezna učiteljska društva so od 60. let 19. stoletja združevala učiteljstvo posameznih okrajev, povezovala pa so se tudi v deželne zveze (na Kranjskem je tako deželno Slovensko učiteljsko društvo v Ljubljani delovalo do 1920), leta 1889 pa je slovensko učiteljstvo oblikovalo tudi vseslovensko učiteljsko zvezo. Dokler je bila ta Zaveza slovenskih učiteljskih društev nestrankarska povezava sicer pretežno liberalno usmerjenega učiteljstva, med učiteljstvom ni prišlo do odločnega preloma in jasne ločitve duhov, konec 19. stoletja pa je bila navezava na liberalno stranko že povsem jasna.</dc:description>
+            <dc:subject xml:lang="slv">učitelji</dc:subject>
+            <dc:subject xml:lang="slv">društva</dc:subject>
+            <dc:subject xml:lang="slv">plače</dc:subject>
+            <dc:subject xml:lang="slv">Kranjska</dc:subject>
+            <dc:subject xml:lang="slv">1898-1918</dc:subject>
+            <dc:subject xml:lang="slv">20. stoletje</dc:subject>
+            <dc:subject xml:lang="eng">teachers</dc:subject>
+            <dc:subject xml:lang="eng">associations</dc:subject>
+            <dc:subject xml:lang="eng">fee</dc:subject>
+            <dc:subject xml:lang="eng">Kranjska</dc:subject>
+            <dc:subject xml:lang="eng">1898-1918</dc:subject>
+            <dc:subject xml:lang="eng">20th century</dc:subject>
+            <dc:subject xml:lang="eng">Slovenia</dc:subject>
+            <dc:publisher>Oddelek za zgodovino Filozofske fakultete Univerze v Ljubljani, Ljubljana</dc:publisher>
+            <dc:contributor>Dušan Nećak (ur.)</dc:contributor>
+            <dc:date xsi:type="dcterms:W3CDTF">2005</dc:date>
+            <dc:type xsi:type="dcterms:DCMIType">Text</dc:type>
+            <dc:language xsi:type="dcterms:ISO639-3">slv</dc:language>
+            <dcterms:isPartOf>Historia : znanstvena zbirka Oddelka za zgodovino Filozofska fakultete v Ljubljani ; 10</dcterms:isPartOf>
+            <dcterms:license xsi:type="dcterms:URI">http://creativecommons.org/licenses/by-nc-nd/2.5/si/</dcterms:license>
+            <dcterms:license xml:lang="slv">Priznanje avtorstva-Nekomercialo-Brez predelav 2.5 Slovenija (CC BY-NC-ND 2.5 SI)</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:dmdSec ID="default.mods">
+      <METS:mdWrap MDTYPE="MODS" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <mods:mods>
+               <mods:relatedItem type="series">
+                  <mods:relatedItem type="series">
+                     <mods:titleInfo>
+                        <mods:title>Historia : znanstvena zbirka Oddelka za zgodovino Filozofska fakultete v Ljubljani</mods:title>
+                     </mods:titleInfo>
+                     <mods:part>
+                        <mods:detail type="volumens">
+                           <mods:number>10</mods:number>
+                        </mods:detail>
+                     </mods:part>
+                  </mods:relatedItem>
+               </mods:relatedItem>
+            </mods:mods>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="default.amd">
+      <METS:techMD ID="default.premis">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>si4</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue/>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>Local name</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>26759</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>http://hdl.handle.net/11686/26759#page=48</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectCategory>Intellectual entity</premis:objectCategory>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="default.si4">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <entity:desc xml:lang="slv"> Slovensko učiteljstvo na
+                                    Kranjskem je začetek 20. stoletja pričakalo ločeno v društveni
+                                    zvezi večinsko liberalne (Zaveza) in katoliške usmeritve
+                                    (Slomškova zveza) ter s skromnimi plačami. Delovanje učiteljskih
+                                    društev je pomenilo stanovsko povezovanje predstavnikov
+                                    uveljavljajočega intelektualnega poklica, skrb za njihovo
+                                    nadaljnjo pedagoško izobraževanje in za izboljševanja
+                                    materialnih pravic, hkrati pa tudi spodbudo narodnostnemu
+                                    delovanju učiteljstva na kulturnem in gospodarskem področju.
+                                    Učiteljska društva so tako združevala dejavnost današnjih
+                                    stanovskih strokovnih društev in sindikatov, a tudi njihov
+                                    politični pomen ni bil zanemarljiv, saj so bili učitelji ne le
+                                    nosilci narodnostnega in kulturnega gibanja, temveč večkrat tudi
+                                    predstavniki političnih strank. Posamezna učiteljska društva so
+                                    od 60. let 19. stoletja združevala učiteljstvo posameznih
+                                    okrajev, povezovala pa so se tudi v deželne zveze (na Kranjskem
+                                    je tako deželno Slovensko učiteljsko društvo v Ljubljani
+                                    delovalo do 1920), leta 1889 pa je slovensko učiteljstvo
+                                    oblikovalo tudi vseslovensko učiteljsko zvezo. Dokler je bila ta
+                                    Zaveza slovenskih učiteljskih društev nestrankarska povezava
+                                    sicer pretežno liberalno usmerjenega učiteljstva, med
+                                    učiteljstvom ni prišlo do odločnega preloma in jasne ločitve
+                                    duhov, konec 19. stoletja pa je bila navezava na liberalno
+                                    stranko že povsem jasna. </entity:desc>
+               <entity:page>48</entity:page>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   ID="default.structure"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/26733"/>
+         <METS:div TYPE="entity" DMDID="default.dc default.mods" ADMID="default.amd"/>
+      </METS:div>
+   </METS:structMap>
+   <METS:behaviorSec xmlns:xlink="http://www.w3.org/1999/xlink" ID="si4.behavior">
+      <METS:behavior BTYPE="default">
+         <METS:mechanism LOCTYPE="URL" xlink:href="resources/assets/xsd/default/"/>
+      </METS:behavior>
+   </METS:behaviorSec>
+</METS:mets>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/37171">
+   <METS:metsHdr CREATEDATE="2017-03-07T10:05:26"
+                 LASTMODDATE="2017-06-19T16:26:00"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.6" TYPE="INDIVIDUAL">
+         <METS:name>JurijHadalin</METS:name>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="default.dc">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dc:title xml:lang="slv">Zgodovina Lavantinske škofije (1228 — 1928)</dc:title>
+            <dc:creator>Kovačič, Franc</dc:creator>
+            <dc:subject xml:lang="slv">cerkvena zgodovina</dc:subject>
+            <dc:subject xml:lang="slv">lavantinska škofija</dc:subject>
+            <dc:subject xml:lang="slv">zgodovinski pregledi</dc:subject>
+            <dc:subject xml:lang="slv">slovenski duhovniki</dc:subject>
+            <dc:subject xml:lang="slv">biografije</dc:subject>
+            <dc:subject xml:lang="slv">arhivski viri</dc:subject>
+            <dc:subject xml:lang="eng">ecclesiastical history</dc:subject>
+            <dc:subject xml:lang="eng">Lavantine diocese</dc:subject>
+            <dc:subject xml:lang="eng">historical surveys</dc:subject>
+            <dc:subject xml:lang="eng">Slovenian priests</dc:subject>
+            <dc:subject xml:lang="eng">biographies</dc:subject>
+            <dc:subject xml:lang="eng">archive sources</dc:subject>
+            <dc:publisher>Lavantinski kn. šk. ordinariat, Maribor</dc:publisher>
+            <dc:date xsi:type="dcterms:W3CDTF">1928</dc:date>
+            <dc:type xsi:type="dcterms:DCMIType">Text</dc:type>
+            <dc:language xsi:type="dcterms:ISO639-3">slv</dc:language>
+            <dcterms:license xsi:type="dcterms:URI">http://creativecommons.org/publicdomain/mark/1.0/</dcterms:license>
+            <dcterms:license xml:lang="eng">Public Domain Mark 1.0</dcterms:license>
+            <dcterms:license xml:lang="slv">Avtorske pravice so potekle, delo je v javni domeni.</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="default.amd">
+      <METS:techMD ID="default.premis">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>si4</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue/>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>Local name</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>37171</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>http://hdl.handle.net/11686/37171</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectCategory>Intellectual entity</premis:objectCategory>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink" ID="default.file">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="file22525" OWNERID="Zgodovina_Lavantinska_skofije_1228_1928.pdf">
+            <METS:FLocat LOCTYPE="HANDLE" xlink:href="https://hdl.handle.net/11686/file22525"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   ID="default.structure"
+                   TYPE="primary">
+      <METS:div TYPE="collection">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/menu17"/>
+         <METS:div TYPE="entity" DMDID="default.dc" ADMID="default.amd">
+            <METS:fptr FILEID="file22525"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+   <METS:behaviorSec xmlns:xlink="http://www.w3.org/1999/xlink" ID="si4.behavior">
+      <METS:behavior BTYPE="default">
+         <METS:mechanism LOCTYPE="URL" xlink:href="resources/assets/xsd/default/"/>
+      </METS:behavior>
+   </METS:behaviorSec>
+</METS:mets>

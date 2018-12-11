@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/35248">
+   <METS:metsHdr CREATEDATE="2016-06-13T12:49:57"
+                 LASTMODDATE="2017-02-13T08:38:23"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name>Meden, Katja</METS:name>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="default.dc">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dc:title xml:lang="slv">Korenito nova spoznanja o izvoru, imenu in identiteti Primoža Trubarja</dc:title>
+            <dc:creator>Golec, Boris</dc:creator>
+            <dc:subject xml:lang="slv">Slovenci</dc:subject>
+            <dc:subject xml:lang="slv">narodna identiteta</dc:subject>
+            <dc:subject xml:lang="slv">kulturna zgodovina</dc:subject>
+            <dc:subject xml:lang="slv">16.st.</dc:subject>
+            <dc:subject xml:lang="eng">Slovenes</dc:subject>
+            <dc:subject xml:lang="eng">national identity</dc:subject>
+            <dc:subject xml:lang="eng">cultural history</dc:subject>
+            <dc:subject xml:lang="eng">16th cent.</dc:subject>
+            <dc:publisher>Zveza zgodovinskih društev Slovenije, Ljubljana</dc:publisher>
+            <dc:contributor>Nevenka Troha (ur.)</dc:contributor>
+            <dc:contributor>Mojca Šorn (ur.)</dc:contributor>
+            <dc:contributor>Bojan Balkovec (ur.)</dc:contributor>
+            <dc:date xsi:type="dcterms:W3CDTF">2008</dc:date>
+            <dc:type xsi:type="dcterms:DCMIType">Text</dc:type>
+            <dc:language xsi:type="dcterms:ISO639-3">slv</dc:language>
+            <dcterms:abstract xml:lang="slv">S Trubarjevim rodom in sorodstvom na Rašici sta se zadnja ukvarjala A. Kaspret (pred 1914) in F. Kidrič (1920). Ponovna dostopnost sklenjene serije urbarjev gospostva Tutjak od 1464 dalje, pritegnitev novih virov in vnovična interpretacija že znanih podatkov postavljajo njune ugotovitve ter interpretacije Trubarjevih življenjepiscev v precej drugačno luč. Prispevek je zasnovan kot rekonstrukcija imaginarnega rojstnega lista Primoža Trubarja in njegove osebne izkaznice. Trubar se ni nujno rodil leta 1508, kot je zapisal sam, saj njegove navedbe starosti kažejo tudi na možni rojstni letnici 1507 in 1509. Na svet ni prišel v Temkóvem mlinu pod Rašico, kjer je danes urejena »Trubarjeva domačija«, temveč približno 400 metrov vzhodno od tod v Sklopovem mlinu pod Kukmako, odraščal pa tu in bržčas tudi na očetovi kmetiji na bližnji Kukmaki. Njegov oče Mihelj v številnih urbarskih omembah nikoli ni naveden kot Trubar, marveč dosledno kot Mull(n)er, kar je bila prvotno poklicna oznaka (mlinar) in iz nje izpeljano lastno ime Malnar, saj Mihelj ni bil iz Trubarjevega rodu, temveč le oženjen z Jero Trubar. Primož je tako na Rašici veljal za Malnarjevega Primoža, kajti Trubarjev ni mogel biti ne po očetu ne po hišnem imenu, ampak kvečjemu v širšem, sorodstvenem pomenu besede. Za priimek Trubar seje odločil šele v šolah, najverjetneje zato, ker bi bil z zelo pogostim poklicnim priimkom kot Malnar, Müller oz. Molitor premalo prepoznaven. Pomenljivo je, da si za osebni pečatnik ni izbral mlinskega kolesa, temveč orodje očetovega drugega, tesarskega poklica. Različice zapisovanja priimka Trubar v turjaških urbarjih (Trobar, Trober, Trabar, Traber, pozneje dosledno Truber) pričajo o nečisti izgovorjavi prvega samoglasnika, kar je v zapisu dalo grafema -o in -u (Trober, Truber). Zadnjega - Truber - torej ni samovoljno vpeljal Primož Trubar, ki bi s tem svoj priimek »poneslovenil«, kot so menili njegovi življenjepisci. Najverjetnejša etimologija priimka je res iz glagola trobiti, toda pri prvem nosilcu priimka je šlo veliko prej kot za poklic (piskač ali trobec) za kakšno značajsko lastnost, telesno značilnost ali morda za onomatopoijo. Prispevek obravnava tudi ponovno najdeni najzgodnejši dokument s Trubarjevim lastnoročnim podpisom in pečatom - listino, izdano v Laškem leta 1533. Podpis se opazno razlikuje od poznejših in prav tako je po obliki drugačen pečat, medtem ko ostaja njegova vsebina do Trubarjeve smrti nespremenjena: inicialki P in T ter tesarska sekira kot znamenje očetovega poklica. Listino bi lahko označili kot Trubarjevo prvo »osebno izkaznico«.</dcterms:abstract>
+            <dcterms:abstract xml:lang="eng">The last to study Trubar’s lineage and relatives in Rašica were A. Kaspret (before 1914) and F. Kidrič (1920). Since thè complete series of land registers of the Turjak lords from 1464 onwards is once again available, and new sources have been acquired, as well as the interprétation of known data done anew, their fìndings and the interprétations of Trubar’s biographers are now seen in a rather different light. This contribution is designed as a reconstruction of Primož Trubar’s imaginary birth certificate and identity card. Trubar had not necessarily been bom in 1508, as he himself wrote, for his statements declaring his age also point to the possible birth year of 1507 or 1509. He was not bom at the Temko mili below Rašica, where »Trubar’s home« is located today, but approximately 400 métrés east of here at the Sklop mili below Kukmaka; he was raised here and probably also on his father’s farm in the nearby Kukmaka. His father, Mihelj, is never listed as a Trubar in the numerous land registers, but consistently as Mull(n)er, which was primarily a sign of vocation (miller) and of the proper noun Malnar derived from it, since Mihelj did not belong to Trubar’s lineage but was merely married to Jera Trubar. In Rašica Primož was therefore called Malnar Primož, for he could not be considered a Trubar neither after his father nor after the household name, but at the most in a wider, relations-wise meaning of thè word. He opted for the sumame Trubar during schooling, probably because he would not have been recognisable enough with a common vocational sumame such as Malnar, Müller or Molitor. It is significant that he did not choose a mili wheel for his personal seal, but thè tool of his father’s other, carpenter’s, profession. The different versions of the spelling of the sumame Trubar in Turjak land registers (Trobar, Trober, Trabar, Traber, later on consistently Trüber) teil of the unclear pronunciation of the first vowel, which in spelling produced the graphemes -o and -u (Trober, Trüber). The last one - Trüber - was therefore not introduced arbitrarily by Primož Trubar himself in order to make his sumame »less Slovenian«, as his biographers believed. The most probable etymology of the sumame does in fact come from the verb to trampet (»trobiti«), however, the first carrier of such a sumame was more likely named thus after a characteristic, a physical quality or perhaps after onomatopoeia, rather than after a vocation (piper or trumpeter). The contribution also discusses the oldest document containing Trubar’s handwritten signature and seal, which has once again been found- a document issued in the town of Laško in 1533. The signature differs considerably from later ones, and the seal is also of a different shape, while its contents remain unchanged until Trubar’s death: the initiais P and T, and a carpenter’s axe as a sign of his father’s vocation. This document could be labelled Trubar’s first »identity card«.</dcterms:abstract>
+            <dcterms:isPartOf>Zbirka zgodovinskega časopisa ; 35</dcterms:isPartOf>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:dmdSec ID="default.mods">
+      <METS:mdWrap MDTYPE="MODS" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <mods:mods>
+               <mods:relatedItem type="series">
+                  <mods:relatedItem type="series">
+                     <mods:titleInfo>
+                        <mods:title>Zbirka zgodovinskega časopisa</mods:title>
+                     </mods:titleInfo>
+                     <mods:part>
+                        <mods:detail type="volumens">
+                           <mods:number>35</mods:number>
+                        </mods:detail>
+                     </mods:part>
+                  </mods:relatedItem>
+               </mods:relatedItem>
+            </mods:mods>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="default.amd">
+      <METS:techMD ID="default.premis">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>si4</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue/>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>Local name</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>35248</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>http://hdl.handle.net/11686/35248#page=39</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectCategory>Intellectual entity</premis:objectCategory>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="default.si4">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <entity:desc xml:lang="slv"> S Trubarjevim rodom in
+                                    sorodstvom na Rašici sta se zadnja ukvarjala A. Kaspret (pred
+                                    1914) in F. Kidrič (1920). Ponovna dostopnost sklenjene serije
+                                    urbarjev gospostva Tutjak od 1464 dalje, pritegnitev novih virov
+                                    in vnovična interpretacija že znanih podatkov postavljajo njune
+                                    ugotovitve ter interpretacije Trubarjevih življenjepiscev v
+                                    precej drugačno luč. Prispevek je zasnovan kot rekonstrukcija
+                                    imaginarnega rojstnega lista Primoža Trubarja in njegove osebne
+                                    izkaznice. Trubar se ni nujno rodil leta 1508, kot je zapisal
+                                    sam, saj njegove navedbe starosti kažejo tudi na možni rojstni
+                                    letnici 1507 in 1509. Na svet ni prišel v Temkóvem mlinu pod
+                                    Rašico, kjer je danes urejena »Trubarjeva domačija«, temveč
+                                    približno 400 metrov vzhodno od tod v Sklopovem mlinu pod
+                                    Kukmako, odraščal pa tu in bržčas tudi na očetovi kmetiji na
+                                    bližnji Kukmaki. Njegov oče Mihelj v številnih urbarskih omembah
+                                    nikoli ni naveden kot Trubar, marveč dosledno kot Mull(n)er, kar
+                                    je bila prvotno poklicna oznaka (mlinar) in iz nje izpeljano
+                                    lastno ime Malnar, saj Mihelj ni bil iz Trubarjevega rodu,
+                                    temveč le oženjen z Jero Trubar. Primož je tako na Rašici veljal
+                                    za Malnarjevega Primoža, kajti Trubarjev ni mogel biti ne po
+                                    očetu ne po hišnem imenu, ampak kvečjemu v širšem, sorodstvenem
+                                    pomenu besede. Za priimek Trubar seje odločil šele v šolah,
+                                    najverjetneje zato, ker bi bil z zelo pogostim poklicnim
+                                    priimkom kot Malnar, Müller oz. Molitor premalo prepoznaven.
+                                    Pomenljivo je, da si za osebni pečatnik ni izbral mlinskega
+                                    kolesa, temveč orodje očetovega drugega, tesarskega poklica.
+                                    Različice zapisovanja priimka Trubar v turjaških urbarjih
+                                    (Trobar, Trober, Trabar, Traber, pozneje dosledno Truber)
+                                    pričajo o nečisti izgovorjavi prvega samoglasnika, kar je v
+                                    zapisu dalo grafema -o in -u (Trober, Truber). Zadnjega - Truber
+                                    - torej ni samovoljno vpeljal Primož Trubar, ki bi s tem svoj
+                                    priimek »poneslovenil«, kot so menili njegovi življenjepisci.
+                                    Najverjetnejša etimologija priimka je res iz glagola trobiti,
+                                    toda pri prvem nosilcu priimka je šlo veliko prej kot za poklic
+                                    (piskač ali trobec) za kakšno značajsko lastnost, telesno
+                                    značilnost ali morda za onomatopoijo. Prispevek obravnava tudi
+                                    ponovno najdeni najzgodnejši dokument s Trubarjevim lastnoročnim
+                                    podpisom in pečatom - listino, izdano v Laškem leta 1533. Podpis
+                                    se opazno razlikuje od poznejših in prav tako je po obliki
+                                    drugačen pečat, medtem ko ostaja njegova vsebina do Trubarjeve
+                                    smrti nespremenjena: inicialki P in T ter tesarska sekira kot
+                                    znamenje očetovega poklica. Listino bi lahko označili kot
+                                    Trubarjevo prvo »osebno izkaznico«. </entity:desc>
+               <entity:page>39</entity:page>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   ID="default.structure"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/35237"/>
+         <METS:div TYPE="entity" DMDID="default.dc default.mods" ADMID="default.amd"/>
+      </METS:div>
+   </METS:structMap>
+   <METS:behaviorSec xmlns:xlink="http://www.w3.org/1999/xlink" ID="si4.behavior">
+      <METS:behavior BTYPE="default">
+         <METS:mechanism LOCTYPE="URL" xlink:href="resources/assets/xsd/default/"/>
+      </METS:behavior>
+   </METS:behaviorSec>
+</METS:mets>

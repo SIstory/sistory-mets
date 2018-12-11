@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/35277">
+   <METS:metsHdr CREATEDATE="2016-06-15T12:59:26"
+                 LASTMODDATE="2016-11-23T18:12:57"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.6" TYPE="INDIVIDUAL">
+         <METS:name>JurijHadalin</METS:name>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="default.dc">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dc:title xml:lang="slv">Stereotipno o zgodovinskem spominu na slovenske Jude</dc:title>
+            <dc:title xml:lang="eng">Stereotypes about Historic Memories of Slovene Jews</dc:title>
+            <dc:creator>Toš, Marjan</dc:creator>
+            <dc:subject xml:lang="slv">Judje</dc:subject>
+            <dc:subject xml:lang="slv">judovstvo</dc:subject>
+            <dc:subject xml:lang="slv">judovska skupnost</dc:subject>
+            <dc:subject xml:lang="slv">sinagoga</dc:subject>
+            <dc:subject xml:lang="slv">antisemitizem</dc:subject>
+            <dc:subject xml:lang="slv">holokavst</dc:subject>
+            <dc:subject xml:lang="slv">Murska Sobota</dc:subject>
+            <dc:subject xml:lang="slv">Lendava</dc:subject>
+            <dc:subject xml:lang="slv">Prekmurje</dc:subject>
+            <dc:subject xml:lang="eng">Jews</dc:subject>
+            <dc:subject xml:lang="eng">Judaism</dc:subject>
+            <dc:subject xml:lang="eng">Jewish community</dc:subject>
+            <dc:subject xml:lang="eng">synagogue</dc:subject>
+            <dc:subject xml:lang="eng">anti-Semitism</dc:subject>
+            <dc:subject xml:lang="eng">holocaust</dc:subject>
+            <dc:subject xml:lang="eng">Murska Sobota</dc:subject>
+            <dc:subject xml:lang="eng">Lendava</dc:subject>
+            <dc:subject xml:lang="eng">Prekmurje</dc:subject>
+            <dc:publisher>Zveza Zgodovinskih društev Slovenije, Ljubljana</dc:publisher>
+            <dc:contributor>Mitja Ferenc (ur.)</dc:contributor>
+            <dc:contributor>Branka Petkovšek (ur.)</dc:contributor>
+            <dc:contributor>Nives Sulič Dular (prev. ang.)</dc:contributor>
+            <dc:contributor>Matjaž Klemenčič (prev. ang.)</dc:contributor>
+            <dc:contributor>Stanislav Južnič (prev. ang.)</dc:contributor>
+            <dc:date xsi:type="dcterms:W3CDTF">2006</dc:date>
+            <dc:type xsi:type="dcterms:DCMIType">Text</dc:type>
+            <dc:language xsi:type="dcterms:ISO639-3">slv</dc:language>
+            <dcterms:abstract xml:lang="slv">Judje so v preteklosti srednjeveške Evrope odigrali izjemno pomembno vlogo na gospodarskem in kulturnem področju. Na današnjem slovenskem ozemlju so se v 12. in 13. stoletju naselili v koroških in štajerskih mestih in v njih razvili živahno gospodarsko dejavnost. Po srednjeveških izgonih iz Koroške, Štajerske in Kranjske med leti 1496 - 1515 je bila njihova prisotnost vse do 18. stoletja izjemno skromna. Od 18. stoletja dalje jih v večjem številu najdemo v Prekmurju, kjer jih je bilo največ na prelomu 19. in 20. stoletja. V holokavstu druge svetovne vojne je bila prekmurska vplivna in organizacijsko trdna judovska skupnost skoraj povsem uničena. Ostali so le ostanki njenih ostankov, ki so bili postopoma potisnjeni na rob socialnega in zgodovinskega spomina in iz njega počasi celo povsem izbrisani. Do izraza je prišla kriptična prisotnost Judov v Sloveniji, ki jo je spremljal tudi svojevrstni »antisemitizem brez Judov«. Poglavitni stereotip, s katerim smo soočeni tudi v samostojni Sloveniji po letu 1991 je, da v Sloveniji Judov ni, oziroma je njihova prisotnost povsem obrobna.</dcterms:abstract>
+            <dcterms:abstract xml:lang="eng">Jews played an extremely important role in the culture and economy of medieval Europe. They settled in the territory of present-day Slovenia in the 12th and the 13th centuries, mostly in the towns of Koroško and Štajersko, where they soon developed flourishing economic activities. Between 1496 and 1515, after they had been banished from Koroško, Štajersko and Kranjsko, the Jewish population decreased sharply. Upon their return in the 18th Century most of them settled in the region of Prekmurje where they were most numerous at the tum of the 19th Century. But the once influential Jewish community with strong institutional life was almost completely destroyed in the holocaust. The few survivors that remained were gradually pushed to the edge of social and historic awareness and eventually even completely erased from memory. This cryptic presence of the Jewish community in Slovenia was accompanied by a specific form of »anti-Semitism with no Jews«. The principal stereotype about the Jews in Slovenia that has persisted to this day holds that there are no Jews in Slovenia; if, however, there are some their presence is hardly relevant.</dcterms:abstract>
+            <dcterms:isPartOf>Zbirka Zgodovinskega časopisa ; 32</dcterms:isPartOf>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:dmdSec ID="default.mods">
+      <METS:mdWrap MDTYPE="MODS" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <mods:mods>
+               <mods:relatedItem type="series">
+                  <mods:relatedItem type="series">
+                     <mods:titleInfo>
+                        <mods:title>Zbirka Zgodovinskega časopisa</mods:title>
+                     </mods:titleInfo>
+                     <mods:part>
+                        <mods:detail type="volumens">
+                           <mods:number>32</mods:number>
+                        </mods:detail>
+                     </mods:part>
+                  </mods:relatedItem>
+               </mods:relatedItem>
+            </mods:mods>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="default.amd">
+      <METS:techMD ID="default.premis">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>si4</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue/>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>Local name</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>35277</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>http://hdl.handle.net/11686/35277#page=211</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectCategory>Intellectual entity</premis:objectCategory>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="default.si4">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <entity:page>211</entity:page>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   ID="default.structure"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/35240"/>
+         <METS:div TYPE="entity" DMDID="default.dc default.mods" ADMID="default.amd"/>
+      </METS:div>
+   </METS:structMap>
+   <METS:behaviorSec xmlns:xlink="http://www.w3.org/1999/xlink" ID="si4.behavior">
+      <METS:behavior BTYPE="default">
+         <METS:mechanism LOCTYPE="URL" xlink:href="resources/assets/xsd/default/"/>
+      </METS:behavior>
+   </METS:behaviorSec>
+</METS:mets>

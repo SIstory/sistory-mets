@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/35279">
+   <METS:metsHdr CREATEDATE="2016-06-15T13:28:59"
+                 LASTMODDATE="2016-11-23T18:09:54"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.6" TYPE="INDIVIDUAL">
+         <METS:name>JurijHadalin</METS:name>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="default.dc">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dc:title xml:lang="slv">Rokovnjaški mit</dc:title>
+            <dc:title xml:lang="eng">The Myth about the Brigands</dc:title>
+            <dc:creator>Stariha, Gorazd</dc:creator>
+            <dc:subject xml:lang="slv">rokovnjaštvo</dc:subject>
+            <dc:subject xml:lang="slv">roparji</dc:subject>
+            <dc:subject xml:lang="slv">mit</dc:subject>
+            <dc:subject xml:lang="slv">zgodovina</dc:subject>
+            <dc:subject xml:lang="slv">društva</dc:subject>
+            <dc:subject xml:lang="slv">literatura</dc:subject>
+            <dc:subject xml:lang="eng">brigands</dc:subject>
+            <dc:subject xml:lang="eng">robbers</dc:subject>
+            <dc:subject xml:lang="eng">myth</dc:subject>
+            <dc:subject xml:lang="eng">History</dc:subject>
+            <dc:subject xml:lang="eng">societies</dc:subject>
+            <dc:subject xml:lang="eng">literature</dc:subject>
+            <dc:publisher>Zveza Zgodovinskih društev Slovenije, Ljubljana</dc:publisher>
+            <dc:contributor>Mitja Ferenc (ur.)</dc:contributor>
+            <dc:contributor>Branka Petkovšek (ur.)</dc:contributor>
+            <dc:contributor>Nives Sulič Dular (prev. ang.)</dc:contributor>
+            <dc:contributor>Matjaž Klemenčič (prev. ang.)</dc:contributor>
+            <dc:contributor>Stanislav Južnič (prev. ang.)</dc:contributor>
+            <dc:date xsi:type="dcterms:W3CDTF">2006</dc:date>
+            <dc:type xsi:type="dcterms:DCMIType">Text</dc:type>
+            <dc:language xsi:type="dcterms:ISO639-3">slv</dc:language>
+            <dcterms:abstract xml:lang="slv">Preprosti ljudje so vedno potrebovali svoje ljudske junake, na katere so prenašali svoje želje po kljubovanju zatiralski gospodi in oblasti. To robinhudovsko vlogo so pri nas dodelili rokovnjačem. Vendar pa rokovnjači niso bili nikakršni romantični junaki, ki bi ropali bogate in dajali revnim, ampak nasilneži, ki so se jih bali vsi ljudje. Navadne ljudi so zažirali za dnevni živež, bogate pa so ropali in tudi morili. S časom pa je želja po socialnem mitu prevladala nad pozabljenimi dejstvi in danes rokovnjač predstavlja nagajivega in neposlušnega pohajkača.</dcterms:abstract>
+            <dcterms:abstract xml:lang="eng">Simple people have always felt the need for folk heroes on whom they could project their wish to withstand the oppressing nobility and the ruling authorities. In Slovenia, this Robin-Hood role had been attributed to brigands. Far from being romantic heroes robbing the rich to give to the poor, these bandits were bullies feared by everyone. They were stealing from the poor, taking their meager daily eamings, and robbed, occasionally even murdered, the rich. But the yearning for a social myth gradually prevailed over the long-forgotten facts. The present concept of a brigand evokes only an image of a disobedient and mischievous vagabond.</dcterms:abstract>
+            <dcterms:isPartOf>Zbirka Zgodovinskega časopisa ; 32</dcterms:isPartOf>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:dmdSec ID="default.mods">
+      <METS:mdWrap MDTYPE="MODS" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <mods:mods>
+               <mods:relatedItem type="series">
+                  <mods:relatedItem type="series">
+                     <mods:titleInfo>
+                        <mods:title>Zbirka Zgodovinskega časopisa</mods:title>
+                     </mods:titleInfo>
+                     <mods:part>
+                        <mods:detail type="volumens">
+                           <mods:number>32</mods:number>
+                        </mods:detail>
+                     </mods:part>
+                  </mods:relatedItem>
+               </mods:relatedItem>
+            </mods:mods>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="default.amd">
+      <METS:techMD ID="default.premis">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>si4</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue/>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>Local name</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>35279</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>http://hdl.handle.net/11686/35279#page=233</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectCategory>Intellectual entity</premis:objectCategory>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="default.si4">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <entity:page>233</entity:page>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   ID="default.structure"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/35240"/>
+         <METS:div TYPE="entity" DMDID="default.dc default.mods" ADMID="default.amd"/>
+      </METS:div>
+   </METS:structMap>
+   <METS:behaviorSec xmlns:xlink="http://www.w3.org/1999/xlink" ID="si4.behavior">
+      <METS:behavior BTYPE="default">
+         <METS:mechanism LOCTYPE="URL" xlink:href="resources/assets/xsd/default/"/>
+      </METS:behavior>
+   </METS:behaviorSec>
+</METS:mets>

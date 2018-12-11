@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/35973">
+   <METS:metsHdr CREATEDATE="2016-08-10T23:48:08"
+                 LASTMODDATE="2017-02-14T08:53:15"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name>Meden, Katja</METS:name>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="default.dc">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dc:title xml:lang="slv">Pismo, pisava, pisar</dc:title>
+            <dc:title xml:lang="slv">Prispevek k zgodovini kranjskih listin do leta 1300</dc:title>
+            <dc:creator>Kos, Dušan</dc:creator>
+            <dc:subject xml:lang="slv">diplomatika</dc:subject>
+            <dc:subject xml:lang="slv">listine</dc:subject>
+            <dc:subject xml:lang="slv">srednji vek</dc:subject>
+            <dc:subject xml:lang="slv">Kranjska</dc:subject>
+            <dc:subject xml:lang="eng">diplomatics</dc:subject>
+            <dc:subject xml:lang="eng">documents</dc:subject>
+            <dc:subject xml:lang="eng">Carniola</dc:subject>
+            <dc:subject xml:lang="eng">Middle Ages</dc:subject>
+            <dc:publisher>Zgodovinski arhiv Ljubljana, Ljubljana</dc:publisher>
+            <dc:date xsi:type="dcterms:W3CDTF">1994</dc:date>
+            <dc:type xsi:type="dcterms:DCMIType">Text</dc:type>
+            <dc:identifier>COBISS.SI-ID 48503808</dc:identifier>
+            <dc:language xsi:type="dcterms:ISO639-3">slv</dc:language>
+            <dcterms:abstract xml:lang="slv">Monografija je posvečena razvoju, strukturi in izvorom samostojnih privatnih listin, ki so nastajale na ozemlju modeme Kranjske od leta 1136 do leta 1300. Raziskava temelji na podlagi 405 listin do leta 1324, ohranjenih v originalih, prepisih ali regestah, ki se nahajajo v slovenskih, avstrijskih, nemških in italijanskih arhivih ter so povečini že publicirane. 41 listin iz časa med letoma 1302 in 1324 je odbranih zaradi primerjav. Natančneje so raziskane listine, ki so jih izstavile fizične in pravne osebe s sedežem na Kranjskem, listine tujih izstaviteljev pa so vzete v omej enem številu za primerjavo : listine oglejskih patriarhov, koroških vojvod, goriških grofov, vetrinjskega in gornjegrajskega samostana, briksenških in freisinških škofov. Prvi dve poglavji v monografiji sta posvečeni značaju in vsebini listin ter vplivu pravnega in političnega dogajanja, oz. nekaterim prostorskim in časovnim danostim pri odvijanju pravnih dejanj in nastajanju listin. Osrednji del monografije je analiza zunanjih in notranjih značilnosti (formul) ter diktata. Zaključni del je posvečen zgodovini in značilnostim pisarn in pisarjev na Kranjskem.</dcterms:abstract>
+            <dcterms:abstract xml:lang="eng">The monograph is dedicated to the development, structure and origins of the private documents originating from the territory of the medieval Carniola from the year 1136 to 1300. The basis of the research are 405 documents (1136-1324), preserved in original, in later transcription or regestum, kept in Slovenian, Austrian, German and Italian archives and are mainly already published. Researched in detail are documents issued by natural and juridical subjects with their seat in Carniola; documents of foreign issuers are considered in a limited number for comparison, e.g. the documents of the patriarchs of Aquileia, the Carinthian dukes, the Counts of Gorizia and Tyrol, the monastery of Viktring, the Brixen and Freising bishops. The first two chapters deal with the character and contents of the documents, with the influence of the juridical and political events, territorial and time facts within the development of legal action and the formation of the documents. The core part of the monograph is an analysis of the external and internal characteristics of the documents (formulas) and their order (dictation). The concluding part deals with the history of the chancery and writers in Carniola till 1300.</dcterms:abstract>
+            <dcterms:isPartOf>Gradivo in razprave; 14</dcterms:isPartOf>
+            <dcterms:isPartOf xsi:type="dcterms:URI">http://hdl.handle.net/11686/20231</dcterms:isPartOf>
+            <dcterms:isPartOf xsi:type="dcterms:URI">http://hdl.handle.net/11686/4878</dcterms:isPartOf>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:dmdSec ID="default.mods">
+      <METS:mdWrap MDTYPE="MODS" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <mods:mods>
+               <mods:relatedItem type="series">
+                  <mods:relatedItem type="series">
+                     <mods:titleInfo>
+                        <mods:title>Gradivo in razprave</mods:title>
+                     </mods:titleInfo>
+                     <mods:part>
+                        <mods:detail type="volumens">
+                           <mods:number>14</mods:number>
+                        </mods:detail>
+                     </mods:part>
+                  </mods:relatedItem>
+               </mods:relatedItem>
+            </mods:mods>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="default.amd">
+      <METS:techMD ID="default.premis">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>si4</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue/>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>Local name</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>35973</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>http://hdl.handle.net/11686/35973</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectCategory>Intellectual entity</premis:objectCategory>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="default.si4">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <entity:desc xml:lang="slv"> Monografija je posvečena
+                                    razvoju, strukturi in izvorom samostojnih privatnih listin, ki
+                                    so nastajale na ozemlju modeme Kranjske od leta 1136 do leta
+                                    1300. Raziskava temelji na podlagi 405 listin do leta 1324,
+                                    ohranjenih v originalih, prepisih ali regestah, ki se nahajajo v
+                                    slovenskih, avstrijskih, nemških in italijanskih arhivih ter so
+                                    povečini že publicirane. 41 listin iz časa med letoma 1302 in
+                                    1324 je odbranih zaradi primerjav. Natančneje so raziskane
+                                    listine, ki so jih izstavile fizične in pravne osebe s sedežem
+                                    na Kranjskem, listine tujih izstaviteljev pa so vzete v omej
+                                    enem številu za primerjavo : listine oglejskih patriarhov,
+                                    koroških vojvod, goriških grofov, vetrinjskega in
+                                    gornjegrajskega samostana, briksenških in freisinških škofov.
+                                    Prvi dve poglavji v monografiji sta posvečeni značaju in vsebini
+                                    listin ter vplivu pravnega in političnega dogajanja, oz.
+                                    nekaterim prostorskim in časovnim danostim pri odvijanju pravnih
+                                    dejanj in nastajanju listin. Osrednji del monografije je analiza
+                                    zunanjih in notranjih značilnosti (formul) ter diktata.
+                                    Zaključni del je posvečen zgodovini in značilnostim pisarn in
+                                    pisarjev na Kranjskem. </entity:desc>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink" ID="default.file">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="file18579" OWNERID="Dusan_Kos_Pismo.pdf">
+            <METS:FLocat LOCTYPE="HANDLE" xlink:href="https://hdl.handle.net/11686/file18579"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   ID="default.structure"
+                   TYPE="primary">
+      <METS:div TYPE="collection">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/menu17"/>
+         <METS:div TYPE="entity" DMDID="default.dc default.mods" ADMID="default.amd">
+            <METS:fptr FILEID="file18579"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+   <METS:behaviorSec xmlns:xlink="http://www.w3.org/1999/xlink" ID="si4.behavior">
+      <METS:behavior BTYPE="default">
+         <METS:mechanism LOCTYPE="URL" xlink:href="resources/assets/xsd/default/"/>
+      </METS:behavior>
+   </METS:behaviorSec>
+</METS:mets>

@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/8979">
+   <METS:metsHdr CREATEDATE="2012-04-23T08:44:04"
+                 LASTMODDATE="2016-12-18T10:29:01"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.11" TYPE="INDIVIDUAL">
+         <METS:name>Pančur, Andrej</METS:name>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="default.dc">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dc:title xml:lang="slv">Kronika</dc:title>
+            <dc:title xml:lang="slv">V zlatih črkah v zgodovini</dc:title>
+            <dc:title xml:lang="slv">Razprave v spomin Olgi Janša-Zorn</dc:title>
+            <dc:subject xml:lang="slv">slovensko zgodovinopisje</dc:subject>
+            <dc:subject xml:lang="slv">zgodovinarke</dc:subject>
+            <dc:subject xml:lang="slv">lokalna zgodovina</dc:subject>
+            <dc:subject xml:lang="slv">šolstvo</dc:subject>
+            <dc:subject xml:lang="slv">društva</dc:subject>
+            <dc:subject xml:lang="slv">biografija</dc:subject>
+            <dc:subject xml:lang="slv">kultura in politika</dc:subject>
+            <dc:subject xml:lang="slv">Slovenian histography</dc:subject>
+            <dc:subject xml:lang="slv">local history</dc:subject>
+            <dc:subject xml:lang="slv">biography</dc:subject>
+            <dc:subject xml:lang="slv">education system</dc:subject>
+            <dc:subject xml:lang="slv">societies</dc:subject>
+            <dc:subject xml:lang="slv">culture and politics</dc:subject>
+            <dc:publisher>Zveza zgodovinskih društev Slovenije, Ljubljana</dc:publisher>
+            <dc:contributor>Miha Preinfalk (ur.)</dc:contributor>
+            <dc:date xsi:type="dcterms:W3CDTF">2009</dc:date>
+            <dc:type xsi:type="dcterms:DCMIType">Text</dc:type>
+            <dc:identifier>COBISS.SI-ID 245372928</dc:identifier>
+            <dc:language xsi:type="dcterms:ISO639-3">slv</dc:language>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="default.amd">
+      <METS:techMD ID="default.premis">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>si4</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue/>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>Local name</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>8979</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>http://hdl.handle.net/11686/8979</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectCategory>Intellectual entity</premis:objectCategory>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="default.si4">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <entity:desc xml:lang="slv">
+                  <p xmlns="http://www.w3.org/1999/xhtml">Posamezni prispevki:</p>
+                  <ul xmlns="http://www.w3.org/1999/xhtml">
+                     <li>Miha Preinfalk: <a href="http://sistory.si/?urn=SISTORY:ID:8990#page=5" target="_blank">Uvodna beseda</a>
+                     </li>
+                     <li>Darja Mihelič, Matija Zorn: <a href="http://sistory.si/?urn=SISTORY:ID:8991#page=6" target="_blank">Olga Janša-Zorn - utrinki iz
+                                                življenja in dela</a>
+                     </li>
+                     <li>Matija Zorn: <a href="http://sistory.si/?urn=SISTORY:ID:8992#page=26" target="_blank">Bibliografija izr. prof. dr. Olge
+                                                Janša-Zorn</a>
+                     </li>
+                     <li>Branko Marušič: <a href="http://sistory.si/?urn=SISTORY:ID:8993#page=44" target="_blank">Dnevnik z ekskurzije študentov
+                                                zgodovine po zahodni Bosni in Dalmaciji (20. – 30.
+                                                junij 1962)</a>
+                     </li>
+                     <li>Darja Mihelič: <a href="http://sistory.si/?urn=SISTORY:ID:8994#page=49" target="_blank">Načrt sistematične agrarne
+                                                kolonizacije v srednjem veku (Piran, začetek 14.
+                                                stoletja)</a>
+                     </li>
+                     <li>Günther Bernhard: <a href="http://sistory.si/?urn=SISTORY:ID:8995#page=61" target="_blank">"Moram si upati, pa naj me stane
+                                                telo in življenje, take priložnosti ne bom imel
+                                                nikdar več". Potovanje Johanna Baptista Schlagerja v
+                                                Rim leta 1765</a>
+                     </li>
+                     <li>Eva Holz: <a href="http://sistory.si/?urn=SISTORY:ID:8996#page=79" target="_blank">Nekoč, v starih časih ... Utrinki o
+                                                razbojništvu na Kranjskem</a>
+                     </li>
+                     <li>Irena Žmuc, Gregor Moder: <a href="http://sistory.si/?urn=SISTORY:ID:8997#page=95" target="_blank">"...Plesale lepote 'z Ljubljane so
+                                                cele..." Kongresna miza v Mestnem muzeju
+                                                Ljubljana</a>
+                     </li>
+                     <li>Stane Granda: <a href="http://sistory.si/?urn=SISTORY:ID:8998#page=103" target="_blank">O začetkih Šmarjeških
+                                            Toplic</a>
+                     </li>
+                     <li>Petra Kavrečič: <a href="http://sistory.si/?urn=SISTORY:ID:8999#page=111" target="_blank">Biseri avstrijske riviere: Opatija,
+                                                Gradež, Portorož. Začetki modernega turizma na
+                                                severnem Jadranu</a>
+                     </li>
+                     <li>Janez Mlinar: <a href="http://sistory.si/?urn=SISTORY:ID:9000#page=127" target="_blank">Razvoj turizma v Kranjski
+                                            Gori</a>
+                     </li>
+                     <li>Rozina Švent: <a href="http://sistory.si/?urn=SISTORY:ID:9001#page=137" target="_blank">Le kar je zapisano, se tudi ohrani.
+                                                Preučevanje lokalne zgodovine – primer Gozd
+                                                Martuljka</a>
+                     </li>
+                     <li>Borut Batagelj: <a href="http://sistory.si/?urn=SISTORY:ID:9002#page=149" target="_blank">"Bohinj – slovenska Švica". Začetki
+                                                zimskega turizma v Bohinju pred prvo svetovno
+                                                vojno</a>
+                     </li>
+                     <li>Miroslav Stiplovšek: <a href="http://sistory.si/?urn=SISTORY:ID:9003#page=159" target="_blank">Razglasitev Domžal za trg (1925) in
+                                                mesto (1952), priznanje za velik gospodarski
+                                                napredek od sredine 19. stoletja</a>
+                     </li>
+                     <li>Dragica Čeč: <a href="http://sistory.si/?urn=SISTORY:ID:9004#page=172" target="_blank">"Jo s hudim kaznovanjem opomniti,
+                                                kje so meje častnosti". Načini discipliniranja
+                                                meščanskih hčera na prehodu iz 18. v 19.
+                                                stoletje</a>
+                     </li>
+                     <li>Jože Ciperle: <a href="http://sistory.si/?urn=SISTORY:ID:9005#page=192" target="_blank">Filozofski študij na liceju v
+                                                Ljubljani v prvi polovici 19. stoletja</a>
+                     </li>
+                     <li>Peter Štih: <a href="http://sistory.si/?urn=SISTORY:ID:9006#page=210" target="_blank">Pomen avstrijskih univerz za začetke
+                                                slovenskega znanstvenega zgodovinopisja</a>
+                     </li>
+                     <li>Gorazd Stariha: <a href="http://sistory.si/?urn=SISTORY:ID:9007#page=218" target="_blank">Odzivi oblasti na slovenstvo
+                                                kranjske mladine in učiteljev (1861–1867)</a>
+                     </li>
+                     <li>Ernst Bruckmüller: <a href="http://sistory.si/?urn=SISTORY:ID:9008#page=224" target="_blank">Habsburška in jezikovno-nacionalna
+                                                identiteta. Razmišljanja o razmerju med narodno
+                                                zavestjo in šolsko izobrazbo v habsburški
+                                                monarhiji</a>
+                     </li>
+                     <li>Petra Svoljšak: <a href="http://sistory.si/?urn=SISTORY:ID:9009#page=238" target="_blank">"Namen je bil pač, otroke popolnoma
+                                                preroditi v laškem duhu". Šolstvo pod italijansko
+                                                okupacijo 1915–1917</a>
+                     </li>
+                     <li>Mojca Šorn: <a href="http://sistory.si/?urn=SISTORY:ID:9010#page=248" target="_blank">Zavod za slepe otroke in mladino v
+                                                Kočevju</a>
+                     </li>
+                     <li>Tatjana Dekleva: <a href="http://sistory.si/?urn=SISTORY:ID:9011#page=258" target="_blank">Nastanek Biotehniške fakultete
+                                                Univerze v Ljubljani</a>
+                     </li>
+                     <li>Danijela Trškan: <a href="http://sistory.si/?urn=SISTORY:ID:9012#page=270" target="_blank">Krajevna zgodovina v osnovnošolskih
+                                                učnih načrtih za zgodovino 1945–2005</a>
+                     </li>
+                     <li>Ana Lavrič: <a href="http://sistory.si/?urn=SISTORY:ID:9013#page=283" target="_blank">Svetniški zavetniki ljubljanskih
+                                                baročnih akademij in društev</a>
+                     </li>
+                     <li>Tanja Žigon: <a href="http://sistory.si/?urn=SISTORY:ID:9014#page=299" target="_blank">Ludvik Germonik in Peter Pavel pl.
+                                                Radics – ustanovitelja Grillparzerjevega društva na
+                                                Dunaju</a>
+                     </li>
+                     <li>Borut Loparnik: <a href="http://sistory.si/?urn=SISTORY:ID:9015#page=306" target="_blank">Glasbeno delo društev na Slovenskem
+                                                do velike vojne</a>
+                     </li>
+                     <li>Andrej Vovko: <a href="http://sistory.si/?urn=SISTORY:ID:9016#page=316" target="_blank">Članstvo Slovenske matice v Kranju
+                                                in okolici do prve svetovne vojne</a>
+                     </li>
+                     <li>Rolanda Fugger Germadnik: <a href="http://sistory.si/?urn=SISTORY:ID:9017#page=332" target="_blank">Muzejsko društvo v Celju
+                                                (Museal-Verein in Cilli), 1883–1922</a>
+                     </li>
+                     <li>Branko Šuštar: <a href="http://sistory.si/?urn=SISTORY:ID:9018#page=340" target="_blank">Z združitvijo razdeljeno
+                                                učiteljstvo: odpor učiteljskega društva "Edinstvo"
+                                                zoper edinost učiteljske organizacije UJU
+                                                1926–1928</a>
+                     </li>
+                     <li>Matija Zorn: <a href="http://sistory.si/?urn=SISTORY:ID:9019#page=359" target="_blank">Uporaba zgodovinskih virov pri
+                                                sorodnih vedah zgodovine</a>
+                     </li>
+                     <li>Anja Dular: <a href="http://sistory.si/?urn=SISTORY:ID:9020#page=377" target="_blank">Rozalija Eger – pomembna, a premalo
+                                                znana ljubljanska tiskarka</a>
+                     </li>
+                     <li>Peter Vodopivec: <a href="http://sistory.si/?urn=SISTORY:ID:9021#page=389" target="_blank">O knjigi Josipa Šumana in sodelavcev
+                                                Die Slovenen (1881)</a>
+                     </li>
+                     <li>Petra Kramberger: <a href="http://sistory.si/?urn=SISTORY:ID:9022#page=399" target="_blank">Iz publicistične preteklosti Ptuja:
+                                                nemški časniki in časopisi v mestu trdnjavskega
+                                                trikotnika</a>
+                     </li>
+                     <li>Angelika Hribar: <a href="http://sistory.si/?urn=SISTORY:ID:9023#page=413" target="_blank">Dve oporoki. Družina Demšar iz
+                                                Železnikov in nastajanje meščanstva v slovenskem
+                                                prostoru</a>
+                     </li>
+                     <li>Irena Gantar Godina: <a href="http://sistory.si/?urn=SISTORY:ID:9024#page=424" target="_blank">Ob 100. obletnici VIII.
+                                                vseslovanskega časnikarskega kongresa septembra 1908
+                                                v Ljubljani</a>
+                     </li>
+                     <li>Marjan Drnovšek: <a href="http://sistory.si/?urn=SISTORY:ID:9025#page=436" target="_blank">Zakaj je bila za slovenske
+                                                izseljence Amerika bolj privlačna kot Srbija in
+                                                Rusija?</a>
+                     </li>
+                     <li>Jože Žontar: <a href="http://sistory.si/?urn=SISTORY:ID:9026#page=452" target="_blank">Od neoabsolutizma do razpada
+                                                monarhije</a>
+                     </li>
+                     <li>Katarina Bedina: <a href="http://sistory.si/?urn=SISTORY:ID:9027#page=476" target="_blank">Nepopustljivi boj frančiškanskega
+                                                patra Stanislava Škrabca za cerkveno petje v
+                                                narodnem jeziku</a>
+                     </li>
+                     <li>Ignacij Voje: <a href="http://sistory.si/?urn=SISTORY:ID:9028#page=482" target="_blank">Gradnja pravoslavne cerkve sv.
+                                                Cirila in Metoda v Ljubljani</a>
+                     </li>
+                     <li>Vida Deželak Barič: <a href="http://sistory.si/?urn=SISTORY:ID:9029#page=490" target="_blank">Slovanska apostola sv. Ciril in
+                                                Metod v interpretaciji Osvobodilne fronte med drugo
+                                                svetovno vojno</a>
+                     </li>
+                     <li>Dušan Nećak: <a href="http://sistory.si/?urn=SISTORY:ID:9030#page=502" target="_blank">Dachauski procesi 1947–1949</a>
+                     </li>
+                     <li>Branko Marušič: <a href="http://sistory.si/?urn=SISTORY:ID:9031#page=512" target="_blank">Pesnik Biagio Marin iz Gradeža in
+                                                Slovenci</a>
+                     </li>
+                  </ul>
+               </entity:desc>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink" ID="default.file">
+      <METS:fileGrp USE="THUMB">
+         <METS:file ID="thumbnail">
+            <METS:FLocat LOCTYPE="URL" xlink:href="kronika 2009-OJZ.jpg"/>
+         </METS:file>
+      </METS:fileGrp>
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="file2706" OWNERID="v_zlatih_crkah_v_zgodovini.pdf">
+            <METS:FLocat LOCTYPE="HANDLE" xlink:href="https://hdl.handle.net/11686/file2706"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   ID="default.structure"
+                   TYPE="primary">
+      <METS:div TYPE="collection">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/menu17"/>
+         <METS:div TYPE="entity" DMDID="default.dc" ADMID="default.amd">
+            <METS:fptr FILEID="thumbnail"/>
+            <METS:fptr FILEID="file2706"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+   <METS:behaviorSec xmlns:xlink="http://www.w3.org/1999/xlink" ID="si4.behavior">
+      <METS:behavior BTYPE="default">
+         <METS:mechanism LOCTYPE="URL" xlink:href="resources/assets/xsd/default/"/>
+      </METS:behavior>
+   </METS:behaviorSec>
+</METS:mets>

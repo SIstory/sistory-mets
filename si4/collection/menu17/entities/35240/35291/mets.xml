@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/35291">
+   <METS:metsHdr CREATEDATE="2016-06-15T16:03:31"
+                 LASTMODDATE="2016-11-23T17:42:47"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.6" TYPE="INDIVIDUAL">
+         <METS:name>JurijHadalin</METS:name>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="default.dc">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dc:title xml:lang="slv">OZNA - vojaška protiobveščevalna ali zločinsko-genocidna organizacija?</dc:title>
+            <dc:title xml:lang="eng">The OZNA - A Military Counterintelligence or a Criminal and Genocidal Organization?</dc:title>
+            <dc:creator>Dornik Šubelj, Ljuba</dc:creator>
+            <dc:subject xml:lang="slv">vojaška obveščevalna in protiobveščevalna služba</dc:subject>
+            <dc:subject xml:lang="slv">policijski aparat</dc:subject>
+            <dc:subject xml:lang="slv">varnostno obveščevalna služba</dc:subject>
+            <dc:subject xml:lang="slv">SMERŠ (smrt špijonom )</dc:subject>
+            <dc:subject xml:lang="slv">vojni zločini</dc:subject>
+            <dc:subject xml:lang="slv">likvidacije</dc:subject>
+            <dc:subject xml:lang="slv">čiščenje</dc:subject>
+            <dc:subject xml:lang="slv">protinacizem</dc:subject>
+            <dc:subject xml:lang="slv">protikomunizem</dc:subject>
+            <dc:subject xml:lang="slv">genocidna organizacija</dc:subject>
+            <dc:subject xml:lang="slv">vojaški zakoni</dc:subject>
+            <dc:subject xml:lang="eng">military intelligence and counterintelligence service</dc:subject>
+            <dc:subject xml:lang="eng">police apparatus</dc:subject>
+            <dc:subject xml:lang="eng">security intelligence service</dc:subject>
+            <dc:subject xml:lang="eng">SMERŠ (Death to Spies)</dc:subject>
+            <dc:subject xml:lang="eng">war crimes</dc:subject>
+            <dc:subject xml:lang="eng">executions</dc:subject>
+            <dc:subject xml:lang="eng">cleansing</dc:subject>
+            <dc:subject xml:lang="eng">anti-Nazism</dc:subject>
+            <dc:subject xml:lang="eng">anticommunism</dc:subject>
+            <dc:subject xml:lang="eng">genocidal organization</dc:subject>
+            <dc:subject xml:lang="eng">military law</dc:subject>
+            <dc:publisher>Zveza Zgodovinskih društev Slovenije, Ljubljana</dc:publisher>
+            <dc:contributor>Mitja Ferenc (ur.)</dc:contributor>
+            <dc:contributor>Branka Petkovšek (ur.)</dc:contributor>
+            <dc:contributor>Nives Sulič Dular (prev. ang.)</dc:contributor>
+            <dc:contributor>Matjaž Klemenčič (prev. ang.)</dc:contributor>
+            <dc:contributor>Stanislav Južnič (prev. ang.)</dc:contributor>
+            <dc:date xsi:type="dcterms:W3CDTF">2006</dc:date>
+            <dc:type xsi:type="dcterms:DCMIType">Text</dc:type>
+            <dc:language xsi:type="dcterms:ISO639-3">slv</dc:language>
+            <dcterms:abstract xml:lang="slv">V članku opredeljujem dilemo o vlogi in značaju Ozne kot vojaško obveščevalne in protiobveščevalne organizacije, ki je nastala na podlagi sovjetskih vzgledov - konkretno SMERŠA in kot taka bila udeležena v povojnih obračunih z nasprotniki partizanskega gibanja. Od ustanovitve do marca 1946 je delovala v okviru ministrstva za obrambo, nato pa je v njem ostal le njen III. odsek, ki se je preimenoval v KOS JA, medtem ko so ostali odseki Ozne prešli v ministrstvo za notranje zadeve in se preimenovali v Upravo državne varnosti, - UDBO in opravljali funkcijo politične policije. Ne glede na to so pripadniki UDBe do leta 1952 ostali vojaške osebe. Šele tega leta so bili demobilizirani.</dcterms:abstract>
+            <dcterms:abstract xml:lang="eng">Investigated is the dilemma about the role and character of the OZNA (Department for Protection of the People). A military intelligence and counterintelligence organization, the OZNA was pattemed after the SMERŠ. Its abbreviations literally denoting Death to Spies, the SMERŠ was the Russian counterintelligence agency. The OZN A participated in post-war executions of those who were not supporters of the partisan movement. It operated within the Ministry of Defense until March 1946 when all but its third unit were allotted to the Ministry of Interior Affairs and renamed the UDBA (State Security Administration), which was, in fact, the political police (secret police); the third unit was renamed KOS JA (Counterintelligence Agency of the Yugoslav Army). Members of the UDBA remained in military service until 1952 when they were demobilized.</dcterms:abstract>
+            <dcterms:isPartOf>Zbirka Zgodovinskega časopisa ; 32</dcterms:isPartOf>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:dmdSec ID="default.mods">
+      <METS:mdWrap MDTYPE="MODS" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <mods:mods>
+               <mods:relatedItem type="series">
+                  <mods:relatedItem type="series">
+                     <mods:titleInfo>
+                        <mods:title>Zbirka Zgodovinskega časopisa</mods:title>
+                     </mods:titleInfo>
+                     <mods:part>
+                        <mods:detail type="volumens">
+                           <mods:number>32</mods:number>
+                        </mods:detail>
+                     </mods:part>
+                  </mods:relatedItem>
+               </mods:relatedItem>
+            </mods:mods>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="default.amd">
+      <METS:techMD ID="default.premis">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>si4</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue/>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>Local name</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>35291</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>http://hdl.handle.net/11686/35291#page=339</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectCategory>Intellectual entity</premis:objectCategory>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="default.si4">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <entity:page>339</entity:page>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   ID="default.structure"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/35240"/>
+         <METS:div TYPE="entity" DMDID="default.dc default.mods" ADMID="default.amd"/>
+      </METS:div>
+   </METS:structMap>
+   <METS:behaviorSec xmlns:xlink="http://www.w3.org/1999/xlink" ID="si4.behavior">
+      <METS:behavior BTYPE="default">
+         <METS:mechanism LOCTYPE="URL" xlink:href="resources/assets/xsd/default/"/>
+      </METS:behavior>
+   </METS:behaviorSec>
+</METS:mets>

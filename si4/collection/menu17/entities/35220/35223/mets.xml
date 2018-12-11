@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/35223">
+   <METS:metsHdr CREATEDATE="2016-05-26T11:51:22"
+                 LASTMODDATE="2017-02-15T13:47:40"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name>Meden, Katja</METS:name>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="default.dc">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dc:title xml:lang="slv">Fran Zwitter in demografska zgodovina</dc:title>
+            <dc:creator>Verginella, Marta</dc:creator>
+            <dc:description xml:lang="slv">Zwittrovo zanimanje za demografijo je bilo pionirskega značaja. Za njegovo dovzetnost do statistično socioloških prijemov je bil odločilen čas izpopolnjevanja v Parizu. Na razvoj prebivalstva je gledal kot na pomemben zgodovinski proces, ki je v tesnem odnosu s socialno-gospodarskim razvojem in g a je treba včleniti »v celotno razvojno linijo slovenske zgodovine«. V delih Prebivalstvo na Slovenskem od XVIII. stoletja do današnjih dni in Zgodovinski razvoj prebivalstva na Koroškem in njegove socialni osnove je obravnaval prebivalstvo kot »zelo važen barometer celotnega družbenega razvoja«.</dc:description>
+            <dc:description xml:lang="eng">Fran Zwitter, who was a pioneer of démographie history in Slovenia, had leamed about statistical and sociological methods during his advanced study in Paris. He viewed population development as an important historié process closely intertwined with socioeconomic development. It needed to be considered in relation with the »entire developmental course of Slovene history.« In his two texts, Prebivalstvo na Slovenskem od XVIII. stoletja do današnjih dni (Population of Slovenia from thè 18th Century to the Present) and Zgodovinski razvoj prebivalstva na Koroškem in njegove socialne osnove (Historie Development of Carinthian Population and Its Social Basis) he considered population a »very important indicator o f the development of the entire society.«</dc:description>
+            <dc:subject xml:lang="slv">Fran Zwitter</dc:subject>
+            <dc:subject xml:lang="slv">demografska zgodovina</dc:subject>
+            <dc:subject xml:lang="slv">prebivalstvo</dc:subject>
+            <dc:subject xml:lang="eng">demographic history</dc:subject>
+            <dc:subject xml:lang="eng">population</dc:subject>
+            <dc:subject xml:lang="eng">Fran Zwitter</dc:subject>
+            <dc:publisher>Zveza zgodovinskih društev Slovenije: Oddelek za zgodovino, Filozofska fakulteta</dc:publisher>
+            <dc:contributor>Peter Štih (ur.)</dc:contributor>
+            <dc:date xsi:type="dcterms:W3CDTF">2006</dc:date>
+            <dc:type xsi:type="dcterms:DCMIType">Text</dc:type>
+            <dc:language xsi:type="dcterms:ISO639-3">slv</dc:language>
+            <dcterms:alternative xml:lang="eng">Fran Zwitter and Demographic History</dcterms:alternative>
+            <dcterms:isPartOf>Zbirka Zgodovinski časopis; 31</dcterms:isPartOf>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:dmdSec ID="default.mods">
+      <METS:mdWrap MDTYPE="MODS" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <mods:mods>
+               <mods:relatedItem type="series">
+                  <mods:relatedItem type="series">
+                     <mods:titleInfo>
+                        <mods:title>Zbirka Zgodovinski časopis</mods:title>
+                     </mods:titleInfo>
+                     <mods:part>
+                        <mods:detail type="volumens">
+                           <mods:number>31</mods:number>
+                        </mods:detail>
+                     </mods:part>
+                  </mods:relatedItem>
+               </mods:relatedItem>
+            </mods:mods>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="default.amd">
+      <METS:techMD ID="default.premis">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>si4</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue/>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>Local name</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>35223</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>http://hdl.handle.net/11686/35223#page=29</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectCategory>Intellectual entity</premis:objectCategory>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="default.si4">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <entity:desc xml:lang="slv"> Zwittrovo zanimanje za
+                                    demografijo je bilo pionirskega značaja. Za njegovo dovzetnost
+                                    do statistično socioloških prijemov je bil odločilen čas
+                                    izpopolnjevanja v Parizu. Na razvoj prebivalstva je gledal kot
+                                    na pomemben zgodovinski proces, ki je v tesnem odnosu s
+                                    socialno-gospodarskim razvojem in g a je treba včleniti »v
+                                    celotno razvojno linijo slovenske zgodovine«. V delih
+                                    Prebivalstvo na Slovenskem od XVIII. stoletja do današnjih dni
+                                    in Zgodovinski razvoj prebivalstva na Koroškem in njegove
+                                    socialni osnove je obravnaval prebivalstvo kot »zelo važen
+                                    barometer celotnega družbenega razvoja«. </entity:desc>
+               <entity:page>29</entity:page>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   ID="default.structure"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/35220"/>
+         <METS:div TYPE="entity" DMDID="default.dc default.mods" ADMID="default.amd"/>
+      </METS:div>
+   </METS:structMap>
+   <METS:behaviorSec xmlns:xlink="http://www.w3.org/1999/xlink" ID="si4.behavior">
+      <METS:behavior BTYPE="default">
+         <METS:mechanism LOCTYPE="URL" xlink:href="resources/assets/xsd/default/"/>
+      </METS:behavior>
+   </METS:behaviorSec>
+</METS:mets>

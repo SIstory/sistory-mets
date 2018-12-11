@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/35281">
+   <METS:metsHdr CREATEDATE="2016-06-15T14:38:18"
+                 LASTMODDATE="2017-02-13T11:44:52"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name>Meden, Katja</METS:name>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="default.dc">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dc:title xml:lang="slv">(Pra)strah italijanskega Trsta pred slovensko in slovansko "nevarnostjo"</dc:title>
+            <dc:creator>Pahor, Milan</dc:creator>
+            <dc:subject xml:lang="slv">strah</dc:subject>
+            <dc:subject xml:lang="slv">nevarnost</dc:subject>
+            <dc:subject xml:lang="slv">slovenski</dc:subject>
+            <dc:subject xml:lang="slv">slovanski</dc:subject>
+            <dc:subject xml:lang="slv">italijanski</dc:subject>
+            <dc:subject xml:lang="slv">Trst</dc:subject>
+            <dc:subject xml:lang="eng">fear</dc:subject>
+            <dc:subject xml:lang="eng">danger</dc:subject>
+            <dc:subject xml:lang="eng">Slovene</dc:subject>
+            <dc:subject xml:lang="eng">Slavic</dc:subject>
+            <dc:subject xml:lang="eng">Italian</dc:subject>
+            <dc:subject xml:lang="eng">Trieste</dc:subject>
+            <dc:publisher>Zveza Zgodovinskih društev Slovenije, Ljubljana</dc:publisher>
+            <dc:contributor>Mitja Ferenc (ur.)</dc:contributor>
+            <dc:contributor>Branka Petkovšek (ur.)</dc:contributor>
+            <dc:contributor>Nives Sulič Dular (prev. ang.)</dc:contributor>
+            <dc:contributor>Matjaž Klemenčič (prev. ang.)</dc:contributor>
+            <dc:contributor>Stanislav Južnič (prev. ang.)</dc:contributor>
+            <dc:date xsi:type="dcterms:W3CDTF">2006</dc:date>
+            <dc:type xsi:type="dcterms:DCMIType">Text</dc:type>
+            <dc:language xsi:type="dcterms:ISO639-3">slv</dc:language>
+            <dcterms:alternative xml:lang="eng">Italians of Trieste and Their Primal Fear of Slovene and Slavic "Peril"</dcterms:alternative>
+            <dcterms:abstract xml:lang="slv">V Trstu na stičišču latinskega sveta s slovenskim in slovanskim se je v zadnjih 150-ih letih vgnezdil strah pred t. i. slovensko in slovansko »nevarnostjo«. Italijanski romanski svet ni znal izkoristiti možnosti, da bi se na robu dveh kultur razvil dialog in politika sožitja, torej obojestranska obogatitev in oplemenitev. Namesto sožitja je prevladal strah pred novim in zato neznanim slovenskim svetom. Slovenski narodni preporod je povzročil strah pred tako prisotnostjo v mestu. Omenjeno stanje je po prvi vojni izkoristi fašizem do take mere, da je uzakonil politiko nasilja nad slovenskim prebivalstvom Julijske krajine. Po drugi vojni je bilo dodatno vse pogojeno od problema eksodusa iz Istre, ki je delno spremenil sestavo prebivalstva in od žgočega problema fojb. Na eni strani strah, na drugi strani pa stalno ponavljanje zgodbe o višji rasi in kulturi. Rečenica o »italiani, brava gente« in istočasno prekritje fašističnih zločinov, ki jih lahko ponazorimo z besedami: Narodni dom v Trstu, Bazovica, Gonars, Rab, Rižarna v Trstu. Prepletanje mitov in stereotipov na stičišču narodov in kultur.</dcterms:abstract>
+            <dcterms:abstract xml:lang="eng">During the last 150 years, fear of the so-called Slovene and Slavic »peril« settled in Trieste, a town at the crossroads of two worlds, the Latin and the Slavic. Italians were not able to turn to advantage the possibility for dialog and coexistence between the two cultures that would resuit in mutual growth and enrichment. The Slovene national revival triggered considerable anxiety over the unknown, and therefore fearful, Slavic culture. After the First World War the fascist regime legalized the policy of violence over the Slovene population of Venezia Giulia (Julijska krajina). When the Second World War ended, the situation was further com plicated because of the exodus from Istria that considerably changed the population structure in that area, and the burning question of the fojbe, mass graves of Italian victims executed at the end of the war. There has been fear of Slovenes among the Italians of Trieste yet, simultaneously, their repetitions about the superiority of the Italian race and culture; the slogan about the »Italiani, brava gente« on one side and the concealm ent of fascist crimes committed in the Slovene National Home in Trieste, in Bazzoviza (Bazovica), in the concentration camps in Gonars and Rab, in the Trieste rice-mill (Rižarna), an so on: an interconnection of myths and stereotypes at the crossroads of nations and cultures.</dcterms:abstract>
+            <dcterms:isPartOf>Zbirka Zgodovinskega časopisa ; 32</dcterms:isPartOf>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:dmdSec ID="default.mods">
+      <METS:mdWrap MDTYPE="MODS" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <mods:mods>
+               <mods:relatedItem type="series">
+                  <mods:relatedItem type="series">
+                     <mods:titleInfo>
+                        <mods:title>Zbirka Zgodovinskega časopisa</mods:title>
+                     </mods:titleInfo>
+                     <mods:part>
+                        <mods:detail type="volumens">
+                           <mods:number>32</mods:number>
+                        </mods:detail>
+                     </mods:part>
+                  </mods:relatedItem>
+               </mods:relatedItem>
+            </mods:mods>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="default.amd">
+      <METS:techMD ID="default.premis">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>si4</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue/>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>Local name</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>35281</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>http://hdl.handle.net/11686/35281#page=263</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectCategory>Intellectual entity</premis:objectCategory>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="default.si4">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <entity:desc xml:lang="slv"> V Trstu na stičišču
+                                    latinskega sveta s slovenskim in slovanskim se je v zadnjih
+                                    150-ih letih vgnezdil strah pred t. i. slovensko in slovansko
+                                    »nevarnostjo«. Italijanski romanski svet ni znal izkoristiti
+                                    možnosti, da bi se na robu dveh kultur razvil dialog in politika
+                                    sožitja, torej obojestranska obogatitev in oplemenitev. Namesto
+                                    sožitja je prevladal strah pred novim in zato neznanim
+                                    slovenskim svetom. Slovenski narodni preporod je povzročil strah
+                                    pred tako prisotnostjo v mestu. Omenjeno stanje je po prvi vojni
+                                    izkoristi fašizem do take mere, da je uzakonil politiko nasilja
+                                    nad slovenskim prebivalstvom Julijske krajine. Po drugi vojni je
+                                    bilo dodatno vse pogojeno od problema eksodusa iz Istre, ki je
+                                    delno spremenil sestavo prebivalstva in od žgočega problema
+                                    fojb. Na eni strani strah, na drugi strani pa stalno ponavljanje
+                                    zgodbe o višji rasi in kulturi. Rečenica o »italiani, brava
+                                    gente« in istočasno prekritje fašističnih zločinov, ki jih lahko
+                                    ponazorimo z besedami: Narodni dom v Trstu, Bazovica, Gonars,
+                                    Rab, Rižarna v Trstu. Prepletanje mitov in stereotipov na
+                                    stičišču narodov in kultur. </entity:desc>
+               <entity:page>263</entity:page>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   ID="default.structure"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/35240"/>
+         <METS:div TYPE="entity" DMDID="default.dc default.mods" ADMID="default.amd"/>
+      </METS:div>
+   </METS:structMap>
+   <METS:behaviorSec xmlns:xlink="http://www.w3.org/1999/xlink" ID="si4.behavior">
+      <METS:behavior BTYPE="default">
+         <METS:mechanism LOCTYPE="URL" xlink:href="resources/assets/xsd/default/"/>
+      </METS:behavior>
+   </METS:behaviorSec>
+</METS:mets>

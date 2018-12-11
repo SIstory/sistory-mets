@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/35268">
+   <METS:metsHdr CREATEDATE="2016-06-14T16:31:08"
+                 LASTMODDATE="2017-02-13T11:43:41"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name>Meden, Katja</METS:name>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="default.dc">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dc:title xml:lang="slv">(Ne)enotni o plebiscitu</dc:title>
+            <dc:creator>Pesek, Rosvita</dc:creator>
+            <dc:subject xml:lang="slv">plebiscit</dc:subject>
+            <dc:subject xml:lang="slv">politične stranke</dc:subject>
+            <dc:subject xml:lang="slv">osamosvojitev</dc:subject>
+            <dc:subject xml:lang="slv">skupščina</dc:subject>
+            <dc:subject xml:lang="slv">Demos</dc:subject>
+            <dc:subject xml:lang="eng">plebiscite</dc:subject>
+            <dc:subject xml:lang="eng">political parties</dc:subject>
+            <dc:subject xml:lang="eng">attainment of independence</dc:subject>
+            <dc:subject xml:lang="eng">parliament</dc:subject>
+            <dc:subject xml:lang="eng">DEMOS</dc:subject>
+            <dc:publisher>Zveza Zgodovinskih društev Slovenije, Ljubljana</dc:publisher>
+            <dc:contributor>Mitja Ferenc (ur.)</dc:contributor>
+            <dc:contributor>Branka Petkovšek (ur.)</dc:contributor>
+            <dc:contributor>Nives Sulič Dular (prev. ang.)</dc:contributor>
+            <dc:contributor>Matjaž Klemenčič (prev. ang.)</dc:contributor>
+            <dc:contributor>Stanislav Južnič (prev. ang.)</dc:contributor>
+            <dc:date xsi:type="dcterms:W3CDTF">2006</dc:date>
+            <dc:type xsi:type="dcterms:DCMIType">Text</dc:type>
+            <dc:language xsi:type="dcterms:ISO639-3">slv</dc:language>
+            <dcterms:alternative xml:lang="eng">(Un)Unanimous on the Plebiscite</dcterms:alternative>
+            <dcterms:abstract xml:lang="slv">V političnem in delno tudi že v politološkem in zgodovinskem jeziku na Slovenskem se je uveljavila sintagma o t. i. plebiscitarni enotnosti, ki je vladala v deželi jeseni leta 1990, ko se je odločalo o tem, ali naj Slovenija 23. decembra izvede plebiscit o odhodu iz jugoslovanske federacije in se odloči za pot samostojne in neodvisne države. Avtorica se v prispevku ukvarja z vprašanjem, kako so se politični subjekti na Slovenskem odzvali na prvo pobudo o plebiscitu, ki jo je oktobra 1990 predlagala Socialistična stranka Slovenije (SSS), predvsem pa s tem, kako je mesec kasneje nastala odločitev za plebiscit, ki jo je Demos podprl v Poljčah in kako so se na to drugo pobudo, ki je Slovence kasneje pripeljala do cilja - samostojne države - odzvali v opozicijskih strankah in tudi znotraj Demosa. Sprašuje se, ali je upravičeno govoriti o t.i. plebiscitarni enotnosti političnih sil ali zgolj o plebiscitarni enotnosti slovenskega naroda, ki je 23. decembra 1990 rezultirala v 88.5% podpori za samostojno in neodvisno slovensko državo.</dcterms:abstract>
+            <dcterms:abstract xml:lang="eng">The syntagm about the alleged plebiscite unity that pervaded Slovenia in the fall of 1990 has become a permanency in Slovene politics and, at least partly, in the language of politology and history. At the time, a decision had to be made whether Slovenia should organize on December 23, 1990 a plebiscite about its departure from the state of Yugoslavia to begin a new life as an independent country. This paper examines several subjects: reactions of Slovene politicians to the initiative about the plebiscite that was proposed by the Socialist Party of Slovenia in October 1990; the decision for the plebiscite a year later that was supported by the Democratic Opposition of Slovenia (the DEMOS) in Poljče; and the reaction of oppositional parties as well as the ones within the DEMOS to this second initiative that ultimately led to its goal - independent Slovenia. The author wonders if it is legitimate to speak of the plebiscite politicai unity rather than merely of plebiscite unity o f Slovenes, 88.5 percent of which on December 23, 1990 opted for an independent and autonomous state of Slovenia.</dcterms:abstract>
+            <dcterms:isPartOf>Zbirka Zgodovinskega časopisa ; 32</dcterms:isPartOf>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:dmdSec ID="default.mods">
+      <METS:mdWrap MDTYPE="MODS" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <mods:mods>
+               <mods:relatedItem type="series">
+                  <mods:relatedItem type="series">
+                     <mods:titleInfo>
+                        <mods:title>Zbirka Zgodovinskega časopisa</mods:title>
+                     </mods:titleInfo>
+                     <mods:part>
+                        <mods:detail type="volumens">
+                           <mods:number>32</mods:number>
+                        </mods:detail>
+                     </mods:part>
+                  </mods:relatedItem>
+               </mods:relatedItem>
+            </mods:mods>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="default.amd">
+      <METS:techMD ID="default.premis">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>si4</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue/>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>Local name</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>35268</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>http://hdl.handle.net/11686/35268#page=95</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectCategory>Intellectual entity</premis:objectCategory>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="default.si4">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <entity:desc xml:lang="slv"> V političnem in delno
+                                    tudi že v politološkem in zgodovinskem jeziku na Slovenskem se
+                                    je uveljavila sintagma o t. i. plebiscitarni enotnosti, ki je
+                                    vladala v deželi jeseni leta 1990, ko se je odločalo o tem, ali
+                                    naj Slovenija 23. decembra izvede plebiscit o odhodu iz
+                                    jugoslovanske federacije in se odloči za pot samostojne in
+                                    neodvisne države. Avtorica se v prispevku ukvarja z vprašanjem,
+                                    kako so se politični subjekti na Slovenskem odzvali na prvo
+                                    pobudo o plebiscitu, ki jo je oktobra 1990 predlagala
+                                    Socialistična stranka Slovenije (SSS), predvsem pa s tem, kako
+                                    je mesec kasneje nastala odločitev za plebiscit, ki jo je Demos
+                                    podprl v Poljčah in kako so se na to drugo pobudo, ki je
+                                    Slovence kasneje pripeljala do cilja - samostojne države -
+                                    odzvali v opozicijskih strankah in tudi znotraj Demosa. Sprašuje
+                                    se, ali je upravičeno govoriti o t.i. plebiscitarni enotnosti
+                                    političnih sil ali zgolj o plebiscitarni enotnosti slovenskega
+                                    naroda, ki je 23. decembra 1990 rezultirala v 88.5% podpori za
+                                    samostojno in neodvisno slovensko državo. </entity:desc>
+               <entity:page>95</entity:page>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   ID="default.structure"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/35240"/>
+         <METS:div TYPE="entity" DMDID="default.dc default.mods" ADMID="default.amd"/>
+      </METS:div>
+   </METS:structMap>
+   <METS:behaviorSec xmlns:xlink="http://www.w3.org/1999/xlink" ID="si4.behavior">
+      <METS:behavior BTYPE="default">
+         <METS:mechanism LOCTYPE="URL" xlink:href="resources/assets/xsd/default/"/>
+      </METS:behavior>
+   </METS:behaviorSec>
+</METS:mets>

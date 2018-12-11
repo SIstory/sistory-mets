@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/35244">
+   <METS:metsHdr CREATEDATE="2016-06-13T10:31:04"
+                 LASTMODDATE="2017-02-13T08:41:00"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name>Meden, Katja</METS:name>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="default.dc">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dc:title xml:lang="slv">Slovenija - Avstrija - Evropa</dc:title>
+            <dc:title xml:lang="slv">Historične asociacije o poteh družbenih inovacij</dc:title>
+            <dc:creator>Bruckmüller, Ernst</dc:creator>
+            <dc:subject xml:lang="slv">Slovenija</dc:subject>
+            <dc:subject xml:lang="slv">Avstrija</dc:subject>
+            <dc:subject xml:lang="slv">Evropa</dc:subject>
+            <dc:subject xml:lang="slv">inovacije v tehniki</dc:subject>
+            <dc:subject xml:lang="slv">gospodarstvu</dc:subject>
+            <dc:subject xml:lang="slv">religiji</dc:subject>
+            <dc:subject xml:lang="slv">umetnosti</dc:subject>
+            <dc:subject xml:lang="slv">znanosti</dc:subject>
+            <dc:subject xml:lang="slv">Josef Ressel</dc:subject>
+            <dc:subject xml:lang="slv">ladijski vijak</dc:subject>
+            <dc:subject xml:lang="slv">socializem</dc:subject>
+            <dc:subject xml:lang="eng">Slovenia</dc:subject>
+            <dc:subject xml:lang="eng">Austria</dc:subject>
+            <dc:subject xml:lang="eng">Europe</dc:subject>
+            <dc:subject xml:lang="eng">innovations in technology</dc:subject>
+            <dc:subject xml:lang="eng">economy</dc:subject>
+            <dc:subject xml:lang="eng">religion</dc:subject>
+            <dc:subject xml:lang="eng">art</dc:subject>
+            <dc:subject xml:lang="eng">science</dc:subject>
+            <dc:subject xml:lang="eng">Josef Ressel</dc:subject>
+            <dc:subject xml:lang="eng">ship propeller</dc:subject>
+            <dc:subject xml:lang="eng">socialism</dc:subject>
+            <dc:publisher>Zveza zgodovinskih društev Slovenije, Ljubljana</dc:publisher>
+            <dc:contributor>Nevenka Troha (ur.)</dc:contributor>
+            <dc:contributor>Mojca Šorn (ur.)</dc:contributor>
+            <dc:contributor>Bojan Balkovec (ur.)</dc:contributor>
+            <dc:date xsi:type="dcterms:W3CDTF">2008</dc:date>
+            <dc:type xsi:type="dcterms:DCMIType">Text</dc:type>
+            <dc:language xsi:type="dcterms:ISO639-3">slv</dc:language>
+            <dcterms:alternative xml:lang="deu">Slowenien - Österreich - Europa</dcterms:alternative>
+            <dcterms:alternative xml:lang="deu">Historische Assoziationen zur Frage der Wege gesellschaftlicher Innovationen</dcterms:alternative>
+            <dcterms:abstract xml:lang="slv">V srednjem in zgodnjem novem veku so najpomembnejše družbene, gospodarske ter verske in kulturne evropske inovacije v Slovenijo in Avstrijo prihajale iz Italije oziroma z Zahoda. V času baroka je Srednja Evropa postala očitno bolj samostojna in je v 19. in zgodnjem 20. stoletju doživela vrhunec lastne kreativnosti.</dcterms:abstract>
+            <dcterms:abstract xml:lang="eng">During the Middle Ages and the Early Modem Times the most important social, economic, religious, and cultural European innovations came to Slovenia and Austria via Italy or from the West. In the Baroque period Central Europe apparently became more independent and in the 19th and 20th Century reached the peak of its own creativity.</dcterms:abstract>
+            <dcterms:isPartOf>Zbirka zgodovinskega časopisa ; 35</dcterms:isPartOf>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:dmdSec ID="default.mods">
+      <METS:mdWrap MDTYPE="MODS" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <mods:mods>
+               <mods:relatedItem type="series">
+                  <mods:relatedItem type="series">
+                     <mods:titleInfo>
+                        <mods:title>Zbirka zgodovinskega časopisa</mods:title>
+                     </mods:titleInfo>
+                     <mods:part>
+                        <mods:detail type="volumens">
+                           <mods:number>35</mods:number>
+                        </mods:detail>
+                     </mods:part>
+                  </mods:relatedItem>
+               </mods:relatedItem>
+            </mods:mods>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="default.amd">
+      <METS:techMD ID="default.premis">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>si4</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue/>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>Local name</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>35244</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>http://hdl.handle.net/11686/35244#page=9</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectCategory>Intellectual entity</premis:objectCategory>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="default.si4">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <entity:desc xml:lang="slv"> V srednjem in zgodnjem
+                                    novem veku so najpomembnejše družbene, gospodarske ter verske in
+                                    kulturne evropske inovacije v Slovenijo in Avstrijo prihajale iz
+                                    Italije oziroma z Zahoda. V času baroka je Srednja Evropa
+                                    postala očitno bolj samostojna in je v 19. in zgodnjem 20.
+                                    stoletju doživela vrhunec lastne kreativnosti. </entity:desc>
+               <entity:page>9</entity:page>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   ID="default.structure"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/35237"/>
+         <METS:div TYPE="entity" DMDID="default.dc default.mods" ADMID="default.amd"/>
+      </METS:div>
+   </METS:structMap>
+   <METS:behaviorSec xmlns:xlink="http://www.w3.org/1999/xlink" ID="si4.behavior">
+      <METS:behavior BTYPE="default">
+         <METS:mechanism LOCTYPE="URL" xlink:href="resources/assets/xsd/default/"/>
+      </METS:behavior>
+   </METS:behaviorSec>
+</METS:mets>

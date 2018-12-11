@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/31027">
+   <METS:metsHdr CREATEDATE="2015-06-02T10:53:37"
+                 LASTMODDATE="2017-02-15T12:26:54"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name>Meden, Katja</METS:name>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="default.dc">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dc:title xml:lang="eng">Ideal Childhood on the Front Cover: Sovietness, Folkness and Globality in Russian Reading Primer 1980s–2000s</dc:title>
+            <dc:creator>Bezrogov, Vitaly</dc:creator>
+            <dc:subject xml:lang="slv">otroštvo</dc:subject>
+            <dc:subject xml:lang="slv">zgodovina</dc:subject>
+            <dc:subject xml:lang="slv">vzgoja</dc:subject>
+            <dc:subject xml:lang="slv">izobraževanje</dc:subject>
+            <dc:subject xml:lang="slv">družina</dc:subject>
+            <dc:subject xml:lang="slv">odraščanje</dc:subject>
+            <dc:subject xml:lang="slv">socialna zgodovina</dc:subject>
+            <dc:subject xml:lang="eng">childhood</dc:subject>
+            <dc:subject xml:lang="eng">history</dc:subject>
+            <dc:subject xml:lang="eng">education</dc:subject>
+            <dc:subject xml:lang="eng">upbringing</dc:subject>
+            <dc:subject xml:lang="eng">family</dc:subject>
+            <dc:subject xml:lang="eng">social history</dc:subject>
+            <dc:publisher>Zveza zgodovinskih društev Slovenije</dc:publisher>
+            <dc:contributor>Peter Štih (gl. in od. ur.)</dc:contributor>
+            <dc:contributor>Aida Škoro Babić (ur. in prev.)</dc:contributor>
+            <dc:contributor>Mateja Jeraj (ur.)</dc:contributor>
+            <dc:contributor>Matevž Košir (ur.)</dc:contributor>
+            <dc:contributor>Bojan Balkovec (ur.)</dc:contributor>
+            <dc:date xsi:type="dcterms:W3CDTF">2012</dc:date>
+            <dc:type xsi:type="dcterms:DCMIType">Text</dc:type>
+            <dc:language xsi:type="dcterms:ISO639-3">eng</dc:language>
+            <dcterms:alternative xml:lang="slv">Idealno otroštvo na naslovnici</dcterms:alternative>
+            <dcterms:abstract xml:lang="slv">Avtor raziskuje temo o idealni podobi otroka preko naslovnic osnovnošolskih učbenikov v poznem sovjetskem ter post sovjetskem času v Rusiji. Predstavljena je zgodovina ikon otroštva, ki so bile oblikovane tako za otroke kot tudi za odrasle. Avtor je tematiko razdelil v štiri časovna obdobja: zgodnja 80. leta (»romantično« sovjetsko otroštvo), pozna 80. leta (»monumentalno« sovjetsko otroštvo), devetdeseta leta (»tradicionalno ljudsko« otroštvo) ter obdobje po letu 2000 (otroštvo, ki se zaveda globalizma).</dcterms:abstract>
+            <dcterms:abstract xml:lang="eng">The author investigates the ideal child images as they are reflected through the elementary textbooks’ covers in the Late Soviet and Post Soviet periods in Russia. One can see the history of childhood ‘icons’ constructed both for pupils and adults. Four periods of such history are the following: early 1980s (romantic Soviet childhood), late 1980s (monumental Soviet childhood), the 1990s (traditional folk childhood), and the 2000s (knowing childhood for globality).</dcterms:abstract>
+            <dcterms:isPartOf>Zbirka zgodovinskega časopisa, 45</dcterms:isPartOf>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:dmdSec ID="default.mods">
+      <METS:mdWrap MDTYPE="MODS" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <mods:mods>
+               <mods:relatedItem type="series">
+                  <mods:titleInfo>
+                     <mods:title>Zbirka zgodovinskega časopisa, 45</mods:title>
+                  </mods:titleInfo>
+               </mods:relatedItem>
+            </mods:mods>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="default.amd">
+      <METS:techMD ID="default.premis">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>si4</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue/>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>Local name</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>31027</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>http://hdl.handle.net/11686/31027#page=146</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectCategory>Intellectual entity</premis:objectCategory>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="default.si4">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <entity:desc xml:lang="slv"> Avtor raziskuje temo o
+                                    idealni podobi otroka preko naslovnic osnovnošolskih učbenikov v
+                                    poznem sovjetskem ter post sovjetskem času v Rusiji.
+                                    Predstavljena je zgodovina ikon otroštva, ki so bile oblikovane
+                                    tako za otroke kot tudi za odrasle. Avtor je tematiko razdelil v
+                                    štiri časovna obdobja: zgodnja 80. leta (»romantično« sovjetsko
+                                    otroštvo), pozna 80. leta (»monumentalno« sovjetsko otroštvo),
+                                    devetdeseta leta (»tradicionalno ljudsko« otroštvo) ter obdobje
+                                    po letu 2000 (otroštvo, ki se zaveda globalizma). </entity:desc>
+               <entity:page>146</entity:page>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   ID="default.structure"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/31016"/>
+         <METS:div TYPE="entity" DMDID="default.dc default.mods" ADMID="default.amd"/>
+      </METS:div>
+   </METS:structMap>
+   <METS:behaviorSec xmlns:xlink="http://www.w3.org/1999/xlink" ID="si4.behavior">
+      <METS:behavior BTYPE="default">
+         <METS:mechanism LOCTYPE="URL" xlink:href="resources/assets/xsd/default/"/>
+      </METS:behavior>
+   </METS:behaviorSec>
+</METS:mets>

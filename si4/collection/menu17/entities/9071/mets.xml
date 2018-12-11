@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/9071">
+   <METS:metsHdr CREATEDATE="2012-10-15T13:44:00"
+                 LASTMODDATE="2017-02-14T14:26:26"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name>Meden, Katja</METS:name>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="default.dc">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dc:title xml:lang="slv">Uporniki, "hudi farji" in Hudičevi soldatje</dc:title>
+            <dc:title xml:lang="slv">[elektronski vir]</dc:title>
+            <dc:creator>Vinkler, Jonatan</dc:creator>
+            <dc:description xml:lang="slv">Bralec bo v njej našel snov, ki je primarno vezana na oblikovanje slovenske protestantske književnosti 16. stoletja, toda tudi na evropsko politično, versko, glasbeno, kulturno in intelektualno zgodovino zgodnjega novega veka. In sicer snov, ki more imeti v formi psihičnih slik, posledic občestvenega spomina dolgega trajanja, občutne, čeprav še ne jasno razpoznane implikacije celo v tako sodobnih dogajanjih, kot so bile npr. do nedavna aktualne občestvene zadrege zastran postavitve islamskega verskega središča v Ljubljani. V ospredju historiografske naracije tokrat niso niti osebe in njihova morda izjemna dejanja, niti njihove biografije in ne pomembnejši dogodki tistega časa, temveč so za miselno osišče po filološko vzeta slovstvena dela Primoža Trubarja, okoli katerih se napletajo občestvene in individualne zgodbe. Poznavanje le-teh pa tvori referenčni prostor za razumevanje omenjanih književnih besedil, toda tudi za doumevanje razvoja slovenske književnosti v omenjeni dobi in – nenazadnje – Trubarjeve osebne in intelektualne biografije ter fiziognomije.</dc:description>
+            <dc:subject xml:lang="slv">Trubar, Primož (1508-1586)</dc:subject>
+            <dc:subject xml:lang="slv">Slovenska književnost</dc:subject>
+            <dc:subject xml:lang="slv">Protestantizem</dc:subject>
+            <dc:subject xml:lang="slv">Kulturna zgodovina</dc:subject>
+            <dc:subject xml:lang="slv">Evropa</dc:subject>
+            <dc:subject xml:lang="slv">16.st.</dc:subject>
+            <dc:subject xml:lang="eng">Trubar, Primož (1508-1586)</dc:subject>
+            <dc:subject xml:lang="eng">Slovenian literature</dc:subject>
+            <dc:subject xml:lang="eng">protestantism</dc:subject>
+            <dc:subject xml:lang="eng">cultural history</dc:subject>
+            <dc:subject xml:lang="eng">16th century</dc:subject>
+            <dc:subject xml:lang="eng">Europa</dc:subject>
+            <dc:publisher>Pedagoški inštitut, Ljubljana</dc:publisher>
+            <dc:date xsi:type="dcterms:W3CDTF">2011</dc:date>
+            <dc:type xsi:type="dcterms:DCMIType">Text</dc:type>
+            <dc:identifier>COBISS.SI-ID 259209728</dc:identifier>
+            <dc:language xsi:type="dcterms:ISO639-3">slv</dc:language>
+            <dc:coverage xml:lang="slv">Ljubljana, Slovenija, Srednja Evropa, Balkan, novi vek</dc:coverage>
+            <dcterms:isPartOf>Digitalna knjižnica, Dissertationes 17</dcterms:isPartOf>
+            <dcterms:isPartOf xsi:type="dcterms:URI">http://hdl.handle.net/11686/9068</dcterms:isPartOf>
+            <dcterms:isPartOf xsi:type="dcterms:URI">http://hdl.handle.net/11686/9067</dcterms:isPartOf>
+            <dcterms:license xsi:type="dcterms:URI">http://creativecommons.org/licenses/by-nc-nd/2.5/si/</dcterms:license>
+            <dcterms:license xml:lang="slv">Priznanje avtorstva-Nekomercialo-Brez predelav 2.5 Slovenija (CC BY-NC-ND 2.5 SI)</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:dmdSec ID="default.mods">
+      <METS:mdWrap MDTYPE="MODS" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <mods:mods>
+               <mods:relatedItem type="series">
+                  <mods:titleInfo>
+                     <mods:title>Digitalna knjižnica, Dissertationes 17</mods:title>
+                  </mods:titleInfo>
+               </mods:relatedItem>
+            </mods:mods>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="default.amd">
+      <METS:techMD ID="default.premis">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>si4</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue/>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>Local name</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>9071</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>http://hdl.handle.net/11686/9071</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectCategory>Intellectual entity</premis:objectCategory>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="default.si4">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <entity:desc xml:lang="slv"> Bralec bo v njej našel
+                                    snov, ki je primarno vezana na oblikovanje slovenske
+                                    protestantske književnosti 16. stoletja, toda tudi na evropsko
+                                    politično, versko, glasbeno, kulturno in intelektualno zgodovino
+                                    zgodnjega novega veka. In sicer snov, ki more imeti v formi
+                                    psihičnih slik, posledic občestvenega spomina dolgega trajanja,
+                                    občutne, čeprav še ne jasno razpoznane implikacije celo v tako
+                                    sodobnih dogajanjih, kot so bile npr. do nedavna aktualne
+                                    občestvene zadrege zastran postavitve islamskega verskega
+                                    središča v Ljubljani. V ospredju historiografske naracije tokrat
+                                    niso niti osebe in njihova morda izjemna dejanja, niti njihove
+                                    biografije in ne pomembnejši dogodki tistega časa, temveč so za
+                                    miselno osišče po filološko vzeta slovstvena dela Primoža
+                                    Trubarja, okoli katerih se napletajo občestvene in individualne
+                                    zgodbe. Poznavanje le-teh pa tvori referenčni prostor za
+                                    razumevanje omenjanih književnih besedil, toda tudi za
+                                    doumevanje razvoja slovenske književnosti v omenjeni dobi in –
+                                    nenazadnje – Trubarjeve osebne in intelektualne biografije ter
+                                    fiziognomije. </entity:desc>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink" ID="default.file">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="file2735" OWNERID="UPORNIKI_hudi_farji_in_hudicevi_soldate.pdf">
+            <METS:FLocat LOCTYPE="HANDLE" xlink:href="https://hdl.handle.net/11686/file2735"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   ID="default.structure"
+                   TYPE="primary">
+      <METS:div TYPE="collection">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/menu17"/>
+         <METS:div TYPE="entity" DMDID="default.dc default.mods" ADMID="default.amd">
+            <METS:fptr FILEID="file2735"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+   <METS:behaviorSec xmlns:xlink="http://www.w3.org/1999/xlink" ID="si4.behavior">
+      <METS:behavior BTYPE="default">
+         <METS:mechanism LOCTYPE="URL" xlink:href="resources/assets/xsd/default/"/>
+      </METS:behavior>
+   </METS:behaviorSec>
+</METS:mets>

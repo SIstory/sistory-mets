@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/30988">
+   <METS:metsHdr CREATEDATE="2015-05-14T09:28:27"
+                 LASTMODDATE="2017-02-15T11:21:38"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name>Meden, Katja</METS:name>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="default.dc">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dc:title xml:lang="slv">Prisotnost lokalne zgodovine v srednješolskih učnih načrtih za zgodovino od leta 1945 do leta 2010 v Sloveniji</dc:title>
+            <dc:creator>Trškan, Danijela</dc:creator>
+            <dc:subject xml:lang="slv">lokalna zgodovina</dc:subject>
+            <dc:subject xml:lang="slv">gimnazije</dc:subject>
+            <dc:subject xml:lang="slv">poklicne in strokovne srednje šole</dc:subject>
+            <dc:subject xml:lang="slv">učni načrti</dc:subject>
+            <dc:subject xml:lang="slv">učni cilji</dc:subject>
+            <dc:subject xml:lang="slv">učna vsebina</dc:subject>
+            <dc:subject xml:lang="slv">navodila</dc:subject>
+            <dc:subject xml:lang="slv">domači kraj</dc:subject>
+            <dc:subject xml:lang="eng">local history</dc:subject>
+            <dc:subject xml:lang="eng">general secondary schools</dc:subject>
+            <dc:subject xml:lang="eng">vocational and professional secondary schools</dc:subject>
+            <dc:subject xml:lang="eng">curricula</dc:subject>
+            <dc:subject xml:lang="eng">teaching goals</dc:subject>
+            <dc:subject xml:lang="eng">teaching content</dc:subject>
+            <dc:subject xml:lang="eng">hometown</dc:subject>
+            <dc:subject xml:lang="eng">instructions</dc:subject>
+            <dc:publisher>Oddelek za zgodovino Filozofske fakultete Univerze v Ljubljani, Ljubljana</dc:publisher>
+            <dc:contributor>Danijela Trškan (ur.)</dc:contributor>
+            <dc:contributor>Darja Pipuš Sunesko (prev.)</dc:contributor>
+            <dc:contributor>Danijela Trškan (prev.)</dc:contributor>
+            <dc:date xsi:type="dcterms:W3CDTF">2011</dc:date>
+            <dc:type xsi:type="dcterms:DCMIType">Text</dc:type>
+            <dc:language xsi:type="dcterms:ISO639-3">slv</dc:language>
+            <dcterms:alternative xml:lang="eng">The presence of local History in Secondary School History Curricula from 1945 to 2010 in Slovenia</dcterms:alternative>
+            <dcterms:abstract xml:lang="slv">V prispevku avtorica predstavlja, v kolikšni meri je bila prisotna lokalna zgodovina v učnih ciljih, pri vsebini in navodilih v srednješolskih učnih načrtih, katalogih ali programih za zgodovino, ki so bili izdani od leta 1945 do leta 2010. posebej za gimnazije in posebej za poklicne in strokovne srednje šole. Ugotovila je, da je lokalna zgodovina najbolj prisotna v najnovejših učnih načrtih, saj navajajo dijake na preučevanje zgodovine domačega kraja s primerjanjem le-tega s širšim okoljem.</dcterms:abstract>
+            <dcterms:abstract xml:lang="eng">In this contribution the author explores to what extent local history was present in goals, content and instructions in secondary school curricula, catalogues or programmes for history, all published between 1945 and 2010. separately for general secondary schools, vocational and professional secondary schools. The author’s findings are that local history topics were mostly present in the most recent curricula, because of the desire to familiarize pupils with research of the local history in their hometowns, with regard to broader surroundings.</dcterms:abstract>
+            <dcterms:isPartOf>Historia: znanstvena zbirka Oddelka za zgodovino Filozofska fakultete v Ljubljani; 19</dcterms:isPartOf>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:dmdSec ID="default.mods">
+      <METS:mdWrap MDTYPE="MODS" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <mods:mods>
+               <mods:relatedItem type="series">
+                  <mods:relatedItem type="series">
+                     <mods:titleInfo>
+                        <mods:title>Historia: znanstvena zbirka Oddelka za zgodovino Filozofska fakultete v Ljubljani</mods:title>
+                     </mods:titleInfo>
+                     <mods:part>
+                        <mods:detail type="volumens">
+                           <mods:number>19</mods:number>
+                        </mods:detail>
+                     </mods:part>
+                  </mods:relatedItem>
+               </mods:relatedItem>
+            </mods:mods>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="default.amd">
+      <METS:techMD ID="default.premis">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>si4</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue/>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>Local name</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>30988</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>http://hdl.handle.net/11686/30988#page=121</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectCategory>Intellectual entity</premis:objectCategory>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="default.si4">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <entity:desc xml:lang="slv"> V prispevku avtorica
+                                    predstavlja, v kolikšni meri je bila prisotna lokalna zgodovina
+                                    v učnih ciljih, pri vsebini in navodilih v srednješolskih učnih
+                                    načrtih, katalogih ali programih za zgodovino, ki so bili izdani
+                                    od leta 1945 do leta 2010. posebej za gimnazije in posebej za
+                                    poklicne in strokovne srednje šole. Ugotovila je, da je lokalna
+                                    zgodovina najbolj prisotna v najnovejših učnih načrtih, saj
+                                    navajajo dijake na preučevanje zgodovine domačega kraja s
+                                    primerjanjem le-tega s širšim okoljem. </entity:desc>
+               <entity:page>121</entity:page>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   ID="default.structure"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/30974"/>
+         <METS:div TYPE="entity" DMDID="default.dc default.mods" ADMID="default.amd"/>
+      </METS:div>
+   </METS:structMap>
+   <METS:behaviorSec xmlns:xlink="http://www.w3.org/1999/xlink" ID="si4.behavior">
+      <METS:behavior BTYPE="default">
+         <METS:mechanism LOCTYPE="URL" xlink:href="resources/assets/xsd/default/"/>
+      </METS:behavior>
+   </METS:behaviorSec>
+</METS:mets>

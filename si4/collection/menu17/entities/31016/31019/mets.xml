@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/31019">
+   <METS:metsHdr CREATEDATE="2015-06-02T10:13:06"
+                 LASTMODDATE="2017-02-15T13:27:01"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name>Meden, Katja</METS:name>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="default.dc">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dc:title xml:lang="slv">Otroci v izročilu slovenskih ljudskih pesmi</dc:title>
+            <dc:creator>Mihelič, Darja</dc:creator>
+            <dc:subject xml:lang="slv">zgodovina otrok</dc:subject>
+            <dc:subject xml:lang="slv">slovenska ljudska pesem</dc:subject>
+            <dc:subject xml:lang="slv">nezakonska mati</dc:subject>
+            <dc:subject xml:lang="slv">detomor</dc:subject>
+            <dc:subject xml:lang="slv">sirota</dc:subject>
+            <dc:subject xml:lang="slv">mačeha</dc:subject>
+            <dc:subject xml:lang="eng">child history</dc:subject>
+            <dc:subject xml:lang="eng">Slovenian folk song</dc:subject>
+            <dc:subject xml:lang="eng">unwed mother</dc:subject>
+            <dc:subject xml:lang="eng">infanticid</dc:subject>
+            <dc:subject xml:lang="eng">orphan</dc:subject>
+            <dc:subject xml:lang="eng">stepmother</dc:subject>
+            <dc:publisher>Zveza zgodovinskih društev Slovenije</dc:publisher>
+            <dc:contributor>Peter Štih (gl. in od. ur.)</dc:contributor>
+            <dc:contributor>Aida Škoro Babić (ur. in prev.)</dc:contributor>
+            <dc:contributor>Mateja Jeraj (ur.)</dc:contributor>
+            <dc:contributor>Matevž Košir (ur.)</dc:contributor>
+            <dc:contributor>Bojan Balkovec (ur.)</dc:contributor>
+            <dc:date xsi:type="dcterms:W3CDTF">2012</dc:date>
+            <dc:type xsi:type="dcterms:DCMIType">Text</dc:type>
+            <dc:language xsi:type="dcterms:ISO639-3">slv</dc:language>
+            <dcterms:alternative xml:lang="eng">Children in the Songs of Slovenian Folk Heritage</dcterms:alternative>
+            <dcterms:abstract xml:lang="slv">Prispevek predstavlja otroke različnih starostnih obdobij skozi izročilo slovenskih ljudskih pesmi. Najprej obravnava pesmi, ki govorijo o nosečnosti in pripravah na rojstvo otroka, sledijo pesmi, ki govorijo o dojenčku in otroku v prvih letih starosti, o času odraščanja, ko je bil otrok po ljudskem izročilu pogosto deležen surovega, če ne celo usodnega ravnanja s strani staršev, zlasti pa krušnih staršev (mačehe). Sledi obdobje »zrelega« otroštva, ko dekleta in fantje zahajajo na pota mladostne ljubezni, ko trpijo zaradi dogovorjenih porok ali morajo zaradi odločitev staršev v samostan, nekatera dekleta pa so tudi žrtve ugrabitev.</dcterms:abstract>
+            <dcterms:abstract xml:lang="eng">Paper is representing children of different ages through songs of Slovenian folk heritage. At the beginning it is dealing with songs on the topic of pregnancy and preparations for the birth of a child. Then the author represents songs about the infant and its first years, about growing, when the child was – according to folk heritage – often molested by its parents, especially stepparents (stepmother), sometimes fatally. In the period of “mature” childhood, when girls and boys are stepping on the road of youth love, when they are suffering because of arranged marriages or they have to go to convent on their parent’s decision, some girls are even victims of abduction.</dcterms:abstract>
+            <dcterms:isPartOf>Zbirka zgodovinskega časopisa, 45</dcterms:isPartOf>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:dmdSec ID="default.mods">
+      <METS:mdWrap MDTYPE="MODS" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <mods:mods>
+               <mods:relatedItem type="series">
+                  <mods:titleInfo>
+                     <mods:title>Zbirka zgodovinskega časopisa, 45</mods:title>
+                  </mods:titleInfo>
+               </mods:relatedItem>
+            </mods:mods>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="default.amd">
+      <METS:techMD ID="default.premis">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>si4</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue/>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>Local name</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>31019</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>http://hdl.handle.net/11686/31019#page=27</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectCategory>Intellectual entity</premis:objectCategory>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="default.si4">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <entity:desc xml:lang="slv"> Prispevek predstavlja
+                                    otroke različnih starostnih obdobij skozi izročilo slovenskih
+                                    ljudskih pesmi. Najprej obravnava pesmi, ki govorijo o
+                                    nosečnosti in pripravah na rojstvo otroka, sledijo pesmi, ki
+                                    govorijo o dojenčku in otroku v prvih letih starosti, o času
+                                    odraščanja, ko je bil otrok po ljudskem izročilu pogosto deležen
+                                    surovega, če ne celo usodnega ravnanja s strani staršev, zlasti
+                                    pa krušnih staršev (mačehe). Sledi obdobje »zrelega« otroštva,
+                                    ko dekleta in fantje zahajajo na pota mladostne ljubezni, ko
+                                    trpijo zaradi dogovorjenih porok ali morajo zaradi odločitev
+                                    staršev v samostan, nekatera dekleta pa so tudi žrtve ugrabitev.
+                                </entity:desc>
+               <entity:page>27</entity:page>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   ID="default.structure"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/31016"/>
+         <METS:div TYPE="entity" DMDID="default.dc default.mods" ADMID="default.amd"/>
+      </METS:div>
+   </METS:structMap>
+   <METS:behaviorSec xmlns:xlink="http://www.w3.org/1999/xlink" ID="si4.behavior">
+      <METS:behavior BTYPE="default">
+         <METS:mechanism LOCTYPE="URL" xlink:href="resources/assets/xsd/default/"/>
+      </METS:behavior>
+   </METS:behaviorSec>
+</METS:mets>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/26746">
+   <METS:metsHdr CREATEDATE="2014-04-14T17:51:51"
+                 LASTMODDATE="2017-02-15T11:46:27"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name>Meden, Katja</METS:name>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="default.dc">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dc:title xml:lang="slv">"Ne jaz, ampak vojska je napisala to povest." Prva svetovna vojna in slovenska književnost (1914-1941).</dc:title>
+            <dc:creator>Smolej, Tone</dc:creator>
+            <dc:description xml:lang="slv">V prispevku se bomo ukvarjali s podobo prve svetovne vojne v pomembnejši slovenski poeziji, prozi in dramatiki med letoma 1914 in 1941, dnevniških zapisov in spominov pa ne bomo obravnavali. Uvodoma velja poudariti, da se prva takšna raziskava pojavi že dve leti po koncu vojne (Pregelj 1920), nato pa tovrstne študije zamrejo vse do konca osemdesetih, ko Stanko Janež objavi pregled odmevov vojne v književnosti. Lado Kralj (1997) je za salzburški simpozij o moderni vojni na odru preučil podobnosti med slovensko in nemško ekspresionistično dramatiko z motivi prve svetovne vojne, Alenka Koron pa je za moskovsko konferenco o prvi svetovni vojni v književnosti in kulturi zahodnih in južnih Slovanov leta 2003 pripravila prispevek o vojni prozi Milana Puglja. Ivan Vogrič (2001) pa je orisal ideološko ozadje pisateljev tega časa.</dc:description>
+            <dc:subject xml:lang="slv">slovenska književnost</dc:subject>
+            <dc:subject xml:lang="slv">tematologija</dc:subject>
+            <dc:subject xml:lang="slv">prva svetovna vojna</dc:subject>
+            <dc:subject xml:lang="eng">Slovene literature</dc:subject>
+            <dc:subject xml:lang="eng">literary themes</dc:subject>
+            <dc:subject xml:lang="eng">World War I</dc:subject>
+            <dc:publisher>Slovenska matica, Ljubljana</dc:publisher>
+            <dc:contributor>Peter Vodopivec (ur.)</dc:contributor>
+            <dc:contributor>Katja Kleindienst (ur.)</dc:contributor>
+            <dc:date xsi:type="dcterms:W3CDTF">2005</dc:date>
+            <dc:type xsi:type="dcterms:DCMIType">Text</dc:type>
+            <dc:language xsi:type="dcterms:ISO639-3">slv</dc:language>
+            <dcterms:license xsi:type="dcterms:URI">http://creativecommons.org/licenses/by-nc-nd/2.5/si/</dcterms:license>
+            <dcterms:license xml:lang="slv">Priznanje avtorstva-Nekomercialo-Brez predelav 2.5 Slovenija (CC BY-NC-ND 2.5 SI)</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="default.amd">
+      <METS:techMD ID="default.premis">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>si4</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue/>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>Local name</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>26746</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>http://hdl.handle.net/11686/26746#page=97</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectCategory>Intellectual entity</premis:objectCategory>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="default.si4">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <entity:desc xml:lang="slv"> V prispevku se bomo
+                                    ukvarjali s podobo prve svetovne vojne v pomembnejši slovenski
+                                    poeziji, prozi in dramatiki med letoma 1914 in 1941, dnevniških
+                                    zapisov in spominov pa ne bomo obravnavali. Uvodoma velja
+                                    poudariti, da se prva takšna raziskava pojavi že dve leti po
+                                    koncu vojne (Pregelj 1920), nato pa tovrstne študije zamrejo vse
+                                    do konca osemdesetih, ko Stanko Janež objavi pregled odmevov
+                                    vojne v književnosti. Lado Kralj (1997) je za salzburški
+                                    simpozij o moderni vojni na odru preučil podobnosti med
+                                    slovensko in nemško ekspresionistično dramatiko z motivi prve
+                                    svetovne vojne, Alenka Koron pa je za moskovsko konferenco o
+                                    prvi svetovni vojni v književnosti in kulturi zahodnih in južnih
+                                    Slovanov leta 2003 pripravila prispevek o vojni prozi Milana
+                                    Puglja. Ivan Vogrič (2001) pa je orisal ideološko ozadje
+                                    pisateljev tega časa. </entity:desc>
+               <entity:page>97</entity:page>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   ID="default.structure"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/26732"/>
+         <METS:div TYPE="entity" DMDID="default.dc" ADMID="default.amd"/>
+      </METS:div>
+   </METS:structMap>
+   <METS:behaviorSec xmlns:xlink="http://www.w3.org/1999/xlink" ID="si4.behavior">
+      <METS:behavior BTYPE="default">
+         <METS:mechanism LOCTYPE="URL" xlink:href="resources/assets/xsd/default/"/>
+      </METS:behavior>
+   </METS:behaviorSec>
+</METS:mets>

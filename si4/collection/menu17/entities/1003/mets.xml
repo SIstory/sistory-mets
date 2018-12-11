@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/1003">
+   <METS:metsHdr CREATEDATE="2011-11-10T08:01:54"
+                 LASTMODDATE="2017-02-13T09:13:12"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name>Meden, Katja</METS:name>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="default.dc">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dc:title xml:lang="slv">Izgubljeni pogledi</dc:title>
+            <dc:title xml:lang="slv">Ljubljana nekoč in danes</dc:title>
+            <dc:creator>Vraničar, Ivo</dc:creator>
+            <dc:description xml:lang="slv">V Muzeju novejše zgodovine Slovenije hranimo obsežno zbirko fotografij o Ljubljani. lzvira iz prve polovice 20. stoletja in spada v fotografski fond časopisa Slovenec. Gradivo je Muzej pridobil v petdesetih letih prejšnjega stoletja. Časopis Slovenec je izhajal med letoma 1873 in 1945, od konca leta 1924 do poletja leta 1932 je kot njegova tedenska priloga izhajal tudi Ilustrirani Slovenec in mnogo originalnih fotografij iz našega foto arhiva je bilo objavljenih prav tam. Razstava in katalog sta zasnovana tako, da je na eni strani stara črno-bela fotografija iz muzejskega arhiva, na drugi strani pa današnja barvna fotografija, ki je posneta z istega mesta in s čim bolj podobnega zornega kota kot stara fotografija.</dc:description>
+            <dc:description xml:lang="eng">The Slovenian National Museum of Contemporary History is the keeper of an extensive collection of photos on Ljubljana. They originate from the first half of the 20 century and are part of the photographic fund of the newspaper Slovenec. The materials were acquired by the Museum in the 1950s. Slovenec was published between 1873 and 1945, and from the end of 1924 to summer 1932 it had an illustrated weekly supplement called lIustrirani Slovenec; a number of the original photos from our archives were published there. The exhibition and the catalogue are designed so that every old black and white photo from the Museum's archives is accompanied by a present-day colour photograph taken from the same spot and from more or less the same angle as the old one.</dc:description>
+            <dc:subject xml:lang="slv">fotomonografija</dc:subject>
+            <dc:subject xml:lang="slv">kulturna zgodovina</dc:subject>
+            <dc:subject xml:lang="slv">Ljubljana</dc:subject>
+            <dc:subject xml:lang="eng">Photomonography</dc:subject>
+            <dc:subject xml:lang="eng">Cultural history</dc:subject>
+            <dc:subject xml:lang="eng">Ljubljana</dc:subject>
+            <dc:publisher>Muzej novejše zgodovine Slovenije, Ljubljana</dc:publisher>
+            <dc:publisher>Modrijan, Ljubljana</dc:publisher>
+            <dc:contributor>Sarah Bervar (fotografije in reprodukcije)</dc:contributor>
+            <dc:contributor>Sašo Kovačič (fotograf)</dc:contributor>
+            <dc:contributor>Maja Kraigher (prev.)</dc:contributor>
+            <dc:date xsi:type="dcterms:W3CDTF">2006</dc:date>
+            <dc:type xsi:type="dcterms:DCMIType">Text</dc:type>
+            <dc:identifier>COBISS.SI-ID 226955264</dc:identifier>
+            <dc:language xsi:type="dcterms:ISO639-3">slv</dc:language>
+            <dc:language xsi:type="dcterms:ISO639-3">eng</dc:language>
+            <dcterms:alternative xml:lang="eng">Lost sights</dcterms:alternative>
+            <dcterms:alternative xml:lang="eng">Ljubljana of yore and today</dcterms:alternative>
+            <dcterms:license xsi:type="dcterms:URI">http://creativecommons.org/licenses/by-nc-nd/2.5/si/</dcterms:license>
+            <dcterms:license xml:lang="slv">Priznanje avtorstva-Nekomercialo-Brez predelav 2.5 Slovenija (CC BY-NC-ND 2.5 SI)</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="default.amd">
+      <METS:techMD ID="default.premis">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>si4</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue/>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>Local name</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>1003</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>http://hdl.handle.net/11686/1003</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectCategory>Intellectual entity</premis:objectCategory>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="default.si4">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <entity:desc xml:lang="slv">
+                  <p xmlns="http://www.w3.org/1999/xhtml">V Muzeju novejše zgodovine Slovenije hranimo obsežno zbirko
+                                        fotografij o Ljubljani. lzvira iz prve polovice 20. stoletja
+                                        in spada v fotografski fond časopisa Slovenec. Gradivo je
+                                        Muzej pridobil v petdesetih letih prejšnjega stoletja.
+                                        Časopis Slovenec je izhajal med letoma 1873 in 1945, od
+                                        konca leta 1924 do poletja leta 1932 je kot njegova tedenska
+                                        priloga izhajal tudi Ilustrirani Slovenec in mnogo
+                                        originalnih fotografij iz našega foto arhiva je bilo
+                                        objavljenih prav tam. Razstava in katalog sta zasnovana
+                                        tako, da je na eni strani stara črno-bela fotografija iz
+                                        muzejskega arhiva, na drugi strani pa današnja barvna
+                                        fotografija, ki je posneta z istega mesta in s čim bolj
+                                        podobnega zornega kota kot stara fotografija.</p>
+               </entity:desc>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink" ID="default.file">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="file541" OWNERID="IZGUBLJENI_POGLEDI.pdf">
+            <METS:FLocat LOCTYPE="HANDLE" xlink:href="https://hdl.handle.net/11686/file541"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   ID="default.structure"
+                   TYPE="primary">
+      <METS:div TYPE="collection">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/menu17"/>
+         <METS:div TYPE="entity" DMDID="default.dc" ADMID="default.amd">
+            <METS:fptr FILEID="file541"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+   <METS:behaviorSec xmlns:xlink="http://www.w3.org/1999/xlink" ID="si4.behavior">
+      <METS:behavior BTYPE="default">
+         <METS:mechanism LOCTYPE="URL" xlink:href="resources/assets/xsd/default/"/>
+      </METS:behavior>
+   </METS:behaviorSec>
+</METS:mets>

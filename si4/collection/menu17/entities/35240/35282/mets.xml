@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/35282">
+   <METS:metsHdr CREATEDATE="2016-06-15T14:52:42"
+                 LASTMODDATE="2016-11-23T18:06:07"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.6" TYPE="INDIVIDUAL">
+         <METS:name>JurijHadalin</METS:name>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="default.dc">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dc:title xml:lang="slv">Vsi antikomunisti - vsi demokrati</dc:title>
+            <dc:title xml:lang="eng">All Anti-Communists - All Democrats</dc:title>
+            <dc:creator>Pelikan, Egon</dc:creator>
+            <dc:subject xml:lang="slv">Jugoslavija</dc:subject>
+            <dc:subject xml:lang="slv">ideologije</dc:subject>
+            <dc:subject xml:lang="slv">komunizem</dc:subject>
+            <dc:subject xml:lang="slv">antikomunizem</dc:subject>
+            <dc:subject xml:lang="slv">demokracija</dc:subject>
+            <dc:subject xml:lang="slv">politični katolicizem</dc:subject>
+            <dc:subject xml:lang="slv">katoliška desnica</dc:subject>
+            <dc:subject xml:lang="eng">Yugoslavia</dc:subject>
+            <dc:subject xml:lang="eng">ideologies</dc:subject>
+            <dc:subject xml:lang="eng">communism</dc:subject>
+            <dc:subject xml:lang="eng">anticommunism</dc:subject>
+            <dc:subject xml:lang="eng">democracy</dc:subject>
+            <dc:subject xml:lang="eng">political Catholicism</dc:subject>
+            <dc:subject xml:lang="eng">Catolic right-wing party</dc:subject>
+            <dc:publisher>Zveza Zgodovinskih društev Slovenije, Ljubljana</dc:publisher>
+            <dc:contributor>Mitja Ferenc (ur.)</dc:contributor>
+            <dc:contributor>Branka Petkovšek (ur.)</dc:contributor>
+            <dc:contributor>Nives Sulič Dular (prev. ang.)</dc:contributor>
+            <dc:contributor>Matjaž Klemenčič (prev. ang.)</dc:contributor>
+            <dc:contributor>Stanislav Južnič (prev. ang.)</dc:contributor>
+            <dc:date xsi:type="dcterms:W3CDTF">2006</dc:date>
+            <dc:type xsi:type="dcterms:DCMIType">Text</dc:type>
+            <dc:language xsi:type="dcterms:ISO639-3">slv</dc:language>
+            <dcterms:abstract xml:lang="slv">Mit o »antikomunistih - demokratih« je nastal po osamosvojitvi Republike Slovenije, v emigraciji pa je obstajal že prej, kar je do določene mere razumljivo že zaradi totalitarnega sistema v tedanji Sloveniji znotraj socialistične Jugoslavije. Poskusi prikaza idejnih in političnih pozicij vrste ideologov s strani slovenske katoliške desnice kot stališč, ki naj bi bile povsem v sozvočju s postulati demokratične družbe, kot so jo razumeli tedaj in kot jo razumemo danes, nedvomno spadajo v ta kontekst. Pojav danes ni prisoten samo v Sloveniji, ampak v vsej vzhodni post-socialistični Evropi, saj gre za prav posebno »postmoderno« obliko utrjevanja mita, pri kateri antikomunizem v politični rabi omogoči vzpostavljanje aktualne pozicije posameznikov in posameznih družbenih skupin (v časih komunizma so temu rekli »družbenopolitične« vloge), skladno s poznano mislijo še bolj poznanega evropskega diktatorja-» če Judov ne bi bilo, bi si jih bili morali izmisliti«. Posebno vlogo znotraj teh strategij ima seveda manipulacija z zgodovinopisjem.</dcterms:abstract>
+            <dcterms:abstract xml:lang="eng">The myth about »the anti-communists versus the democrats« originated after Slovenia gained its independence in 1991. Yet it had already existed among Slovene immigrants, which is perfectly understandable - up to a point - in view of the totalitarian system during the period when Slovenia was still part of socialist Yugoslavia. An attempt to depict idcas and politicai positions of ideologists from the ranks of Slovene Catholic right-wing orientation, presum ably in perfect accord with the postulates of democratie society as it had been understood at the time and is still understood today, undeniably fall within this context. This belief is typical not only of present-day Slovenia but of all post-socialist countries in Eastern Europe. By applying a specific »postmodem« method of strengthening this myth an anticommunist stance, used in politicai context, enables the construction of prominent positions for individuate and social groups (such positions were termed »sociopolitical« roles during communism). This is in accord with the well-known statement by a noted European dictator: » If the Jews didn’t exist, we would have to invent them.« And manipulation with historiography certainly plays a very special role within these strategies.</dcterms:abstract>
+            <dcterms:isPartOf>Zbirka Zgodovinskega časopisa ; 32</dcterms:isPartOf>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:dmdSec ID="default.mods">
+      <METS:mdWrap MDTYPE="MODS" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <mods:mods>
+               <mods:relatedItem type="series">
+                  <mods:relatedItem type="series">
+                     <mods:titleInfo>
+                        <mods:title>Zbirka Zgodovinskega časopisa</mods:title>
+                     </mods:titleInfo>
+                     <mods:part>
+                        <mods:detail type="volumens">
+                           <mods:number>32</mods:number>
+                        </mods:detail>
+                     </mods:part>
+                  </mods:relatedItem>
+               </mods:relatedItem>
+            </mods:mods>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="default.amd">
+      <METS:techMD ID="default.premis">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>si4</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue/>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>Local name</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>35282</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>http://hdl.handle.net/11686/35282#page=275</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectCategory>Intellectual entity</premis:objectCategory>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="default.si4">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <entity:page>275</entity:page>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   ID="default.structure"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/35240"/>
+         <METS:div TYPE="entity" DMDID="default.dc default.mods" ADMID="default.amd"/>
+      </METS:div>
+   </METS:structMap>
+   <METS:behaviorSec xmlns:xlink="http://www.w3.org/1999/xlink" ID="si4.behavior">
+      <METS:behavior BTYPE="default">
+         <METS:mechanism LOCTYPE="URL" xlink:href="resources/assets/xsd/default/"/>
+      </METS:behavior>
+   </METS:behaviorSec>
+</METS:mets>

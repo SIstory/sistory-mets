@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/31474">
+   <METS:metsHdr CREATEDATE="2015-10-05T16:12:13"
+                 LASTMODDATE="2015-10-05T16:15:56"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.6" TYPE="INDIVIDUAL">
+         <METS:name>JurijHadalin</METS:name>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="default.dc">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dc:title xml:lang="slv">Turizem v slovenskih hribih in gorah</dc:title>
+            <dc:title xml:lang="eng">Tourism in the Slovenian hills and mountains</dc:title>
+            <dc:creator>Dolenc, Ervin</dc:creator>
+            <dc:description xml:lang="slv">Beseda turizem v prvotnem pomenu označuje vsakovrstno popotovanje. Do množičnega individualnega avtomobilizma sredi 20. stoletja so zato pod to besedo razumeli predvsem pohodniško potovanje. Najpogostejši cilj peš izletov in potovanj pa so bili in so še vedno ravno hribi, poti na razgledne točke. Tako je slovenščina v sedemdesetih letih 19. stoletja poleg besede popotnik uporabljala še besedo turist, uporabniki pa sojo pojasnjevali s pomenom “gorohodec” ali “hribohodec” kot posebna vrsta popotnika.</dc:description>
+            <dc:subject xml:lang="slv">kulturna zgodovina</dc:subject>
+            <dc:subject xml:lang="slv">gospodarska zgodovina</dc:subject>
+            <dc:subject xml:lang="slv">Slovenija</dc:subject>
+            <dc:subject xml:lang="slv">nacionalizem</dc:subject>
+            <dc:subject xml:lang="slv">gospodarstvo</dc:subject>
+            <dc:subject xml:lang="slv">društva</dc:subject>
+            <dc:subject xml:lang="slv">množične organizacije</dc:subject>
+            <dc:subject xml:lang="eng">cultural history</dc:subject>
+            <dc:subject xml:lang="eng">economic history</dc:subject>
+            <dc:subject xml:lang="eng">Slovenia</dc:subject>
+            <dc:subject xml:lang="eng">nationalism</dc:subject>
+            <dc:subject xml:lang="eng">economy</dc:subject>
+            <dc:subject xml:lang="eng">societies</dc:subject>
+            <dc:subject xml:lang="eng">mass organisations</dc:subject>
+            <dc:publisher>Zveza zgodovinskih društev Slovenije, Ljubljana</dc:publisher>
+            <dc:contributor>Franc Rozman (ur.)</dc:contributor>
+            <dc:contributor>Žarko Lazarević (ur.)</dc:contributor>
+            <dc:date xsi:type="dcterms:W3CDTF">1996</dc:date>
+            <dc:type xsi:type="dcterms:DCMIType">Text</dc:type>
+            <dc:language xsi:type="dcterms:ISO639-3">slv</dc:language>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="default.amd">
+      <METS:techMD ID="default.premis">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>si4</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue/>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>Local name</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>31474</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>http://hdl.handle.net/11686/31474#page=140</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectCategory>Intellectual entity</premis:objectCategory>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="default.si4">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <entity:desc xml:lang="slv">
+                  <pre xmlns="http://www.w3.org/1999/xhtml">Beseda turizem v prvotnem pomenu označuje vsakovrstno popotovanje. Do množičnega
+individualnega avtomobilizma sredi 20. stoletja so zato pod to besedo razumeli
+predvsem pohodniško potovanje. Najpogostejši cilj peš izletov in potovanj pa so bili in
+so še vedno ravno hribi, poti na razgledne točke. Tako je slovenščina v sedemdesetih
+letih 19. stoletja poleg besede popotnik uporabljala še besedo turist, uporabniki pa sojo
+pojasnjevali s pomenom “gorohodec” ali “hribohodec” kot posebna vrsta popotnika.</pre>
+               </entity:desc>
+               <entity:page>140</entity:page>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   ID="default.structure"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/31450"/>
+         <METS:div TYPE="entity" DMDID="default.dc" ADMID="default.amd"/>
+      </METS:div>
+   </METS:structMap>
+   <METS:behaviorSec xmlns:xlink="http://www.w3.org/1999/xlink" ID="si4.behavior">
+      <METS:behavior BTYPE="default">
+         <METS:mechanism LOCTYPE="URL" xlink:href="resources/assets/xsd/default/"/>
+      </METS:behavior>
+   </METS:behaviorSec>
+</METS:mets>

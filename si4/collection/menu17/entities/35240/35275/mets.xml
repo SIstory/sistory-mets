@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/35275">
+   <METS:metsHdr CREATEDATE="2016-06-15T12:24:07"
+                 LASTMODDATE="2016-11-23T18:16:37"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.6" TYPE="INDIVIDUAL">
+         <METS:name>JurijHadalin</METS:name>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="default.dc">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dc:title xml:lang="slv">Protinacistični odpor na Južnem Koroškem</dc:title>
+            <dc:title xml:lang="slv">Primer "najbolj čistega NOB-ja" ali vendarle uvod v "komunistično revolucijo"?</dc:title>
+            <dc:title xml:lang="eng">Anti-Nazi Resistance in South Carinthia</dc:title>
+            <dc:title xml:lang="eng">A Case of the "Purest Fight for National Liberation," or Clearly a Prologue to "Communist Revolution"?</dc:title>
+            <dc:creator>Linasi, Marjan</dc:creator>
+            <dc:subject xml:lang="slv">revolucija</dc:subject>
+            <dc:subject xml:lang="slv">protinacistični odpor</dc:subject>
+            <dc:subject xml:lang="slv">Južna Koroška</dc:subject>
+            <dc:subject xml:lang="slv">NOB</dc:subject>
+            <dc:subject xml:lang="eng">revolution</dc:subject>
+            <dc:subject xml:lang="eng">anti-Nazi resistance</dc:subject>
+            <dc:subject xml:lang="eng">Southern Carinthia</dc:subject>
+            <dc:subject xml:lang="eng">National Liberation War</dc:subject>
+            <dc:publisher>Zveza Zgodovinskih društev Slovenije, Ljubljana</dc:publisher>
+            <dc:contributor>Mitja Ferenc (ur.)</dc:contributor>
+            <dc:contributor>Branka Petkovšek (ur.)</dc:contributor>
+            <dc:contributor>Nives Sulič Dular (prev. ang.)</dc:contributor>
+            <dc:contributor>Matjaž Klemenčič (prev. ang.)</dc:contributor>
+            <dc:contributor>Stanislav Južnič (prev. ang.)</dc:contributor>
+            <dc:date xsi:type="dcterms:W3CDTF">2006</dc:date>
+            <dc:type xsi:type="dcterms:DCMIType">Text</dc:type>
+            <dc:language xsi:type="dcterms:ISO639-3">slv</dc:language>
+            <dcterms:abstract xml:lang="slv">Avtor se v svoji razpravi ukvarja z vprašanjem, koliko je bilo revolucionarne vsebine oziroma priprav za poznejšo revolucijo v protinacističnem odporu na Južnem Koroškem, kjer je bil le-ta po splošnem prepričanju najbolj narodno-osvobodilen. Na osnovi številnih navedb iz dokumentov KP je prišel do sklepa, da so revolucionarni cilji za čas po vojni obstajali tudi tukaj, le da jih je morala KP še bolj kot drugje skrivati, in jih torej lahko razberemo med vrsticami iz dokumentov in prepoznamo po določenih vidnih elementih. Zlasti slednje, torej peterokraka zvezda kot vidni simbol na zastavah in pokrivalih, pozdrav s pestjo, petje revolucionarnih pesmi in ogovarjanje na komunističen način so tisti vidni znaki, po katerih je lahko vsakdo vedel, da gre za prisotnost in prevladujoč vpliv KP. Da so vendarle sprejemali vodilno vlogo partije, je razlog v socialnem sestavu slovenskega prebivalstva Južne Koroške, kjer so prevladovali drobni posestniki in veliko kmečkega proletariata, kot narodna manjšina so bili zapostavljeni, nacistični sistem jih je obsodil na uničenje, druge, nekomunistične alternative za odpor pa ni bilo. Zaradi britanske zasedbe in umika jugoslovanske vojske je druga, revolucionarna faza izostala; tako se je, tudi zaradi tamkajšnjih političnih razmer, po vojni vseskozi še bolj kot drugje vzdrževal mit o »najbolj čistem NOB«.</dcterms:abstract>
+            <dcterms:abstract xml:lang="eng">According to the prevaling opinion the fight against the Nazis in South Carinthia (now part of Austria) was the fight for national liberation in its purest sense. The author posits the question as to what degree it also contained revolutionary elements, that is preparations for subsequent revolution. After having analyzed a number of Communist Party documents he arrived at the conclusion that preparations for the revolution that was to take place after the end of the war were under way also in Carinthia, although even more carefully concealed than elsewhere. Upon detailed analysis, however, they can be discemed from the documents and recognized by certain perfectly visible elements. The most characteristic ones, such as the fìve-armed star on flags and headgear, fist greeting, singing of revolutionary songs, and addressing in the communist manner, were the discemible signs that indicated the presence and prevalent influence of the Communist Party. The reason why this leading role of the Party had been accepted by the local Slovene population lies in the social structure of Carinthian Slovenes. Most of them were small landed proprietors and the agricultural proletariat. Discriminated as a national minority and later on sentenced to extermination by the Nazis, these people had no other, non-com munist alternative for resistance. Because of the British occupation and the retreat o f the Yugoslav army the second, revolutionary phase of the fight for liberation had not occurred in Carinthia. With regard to this, and also in view of the politicai circumstances at the time, the myth about the “purest fight for national liberation” in Carinthia has been maintained there longer than elsewhere.</dcterms:abstract>
+            <dcterms:isPartOf>Zbirka Zgodovinskega časopisa ; 32</dcterms:isPartOf>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:dmdSec ID="default.mods">
+      <METS:mdWrap MDTYPE="MODS" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <mods:mods>
+               <mods:relatedItem type="series">
+                  <mods:relatedItem type="series">
+                     <mods:titleInfo>
+                        <mods:title>Zbirka Zgodovinskega časopisa</mods:title>
+                     </mods:titleInfo>
+                     <mods:part>
+                        <mods:detail type="volumens">
+                           <mods:number>32</mods:number>
+                        </mods:detail>
+                     </mods:part>
+                  </mods:relatedItem>
+               </mods:relatedItem>
+            </mods:mods>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="default.amd">
+      <METS:techMD ID="default.premis">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>si4</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue/>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>Local name</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>35275</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>http://hdl.handle.net/11686/35275#page=189</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectCategory>Intellectual entity</premis:objectCategory>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="default.si4">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <entity:page>189</entity:page>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   ID="default.structure"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/35240"/>
+         <METS:div TYPE="entity" DMDID="default.dc default.mods" ADMID="default.amd"/>
+      </METS:div>
+   </METS:structMap>
+   <METS:behaviorSec xmlns:xlink="http://www.w3.org/1999/xlink" ID="si4.behavior">
+      <METS:behavior BTYPE="default">
+         <METS:mechanism LOCTYPE="URL" xlink:href="resources/assets/xsd/default/"/>
+      </METS:behavior>
+   </METS:behaviorSec>
+</METS:mets>

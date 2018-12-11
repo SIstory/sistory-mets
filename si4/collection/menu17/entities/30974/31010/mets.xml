@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/31010">
+   <METS:metsHdr CREATEDATE="2015-05-15T10:40:22"
+                 LASTMODDATE="2017-02-15T09:19:04"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name>Meden, Katja</METS:name>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="default.dc">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dc:title xml:lang="slv">Igra vlog pri pouku zgodovine</dc:title>
+            <dc:creator>Polanšek, Andreja</dc:creator>
+            <dc:subject xml:lang="slv">pouk zgodovine</dc:subject>
+            <dc:subject xml:lang="slv">učne metode</dc:subject>
+            <dc:subject xml:lang="slv">izkustveno učenje</dc:subject>
+            <dc:subject xml:lang="slv">igra vlog</dc:subject>
+            <dc:subject xml:lang="eng">Role play</dc:subject>
+            <dc:subject xml:lang="eng">teaching methods</dc:subject>
+            <dc:subject xml:lang="eng">experimental learning</dc:subject>
+            <dc:subject xml:lang="eng">history lessons</dc:subject>
+            <dc:publisher>Oddelek za zgodovino Filozofske fakultete Univerze v Ljubljani, Ljubljana</dc:publisher>
+            <dc:contributor>Danijela Trškan (ur.)</dc:contributor>
+            <dc:contributor>Darja Pipuš Sunesko (prev.)</dc:contributor>
+            <dc:contributor>Danijela Trškan (prev.)</dc:contributor>
+            <dc:date xsi:type="dcterms:W3CDTF">2011</dc:date>
+            <dc:type xsi:type="dcterms:DCMIType">Text</dc:type>
+            <dc:language xsi:type="dcterms:ISO639-3">slv</dc:language>
+            <dcterms:alternative xml:lang="eng">Role play in History lessons</dcterms:alternative>
+            <dcterms:abstract xml:lang="slv">Metoda igre vlog pri pouku zgodovine predstavlja poenostavljeno rekonstrukcijo določenega zgodovinskega dogodka oziroma procesa ali pa zgolj oživitev zgodovinskih okoliščin. V igri so dogodki zgoščeni, skoncentrirani, število dejavnih udeležencev je omenjeno na nekatere ključne like, ki so poenostavljeni. Iz preteklosti so izbrane le tiste prvine in dejavniki, ki so bistveni za doseganje učnih ciljev. Identifikacija, ki nastaja ob vživljanju v vnaprej določeno in opredeljeno vlogo, se odvija predvsem na ravni komponente časa in družbe. Metoda je primerna za prikaz prelomnih dogodkov zgodovine, procesov odločanja in sprejemanja sklepov ter tudi za prikaz vsakdanjega življenja. Namenska in sistematična uporaba metode, z jasno opredeljenimi cilji vodi do boljšega znanja učencev, tako na področju pomnjenja podatkov, kot pri razumevanju snovi, pa tudi pri višjih miselnih procesih.</dcterms:abstract>
+            <dcterms:abstract xml:lang="eng">The method of role play in history lessons presents a simplified reconstruction of a certain historical event or process or the mere re-enactment of historical circumstances. The events in the play are Condensed, concentrated; the number of active participants is limited only to key characters, which are simplified. Only those characteristics and factors are selected from the past, which crucially impact the achievement of teaching goals. Identification, which emerges in acting out a determined role, takes place predominantly on the level of the time component and society. The method is appropriate to display key historical events, decision-making processes, as well as displaying everyday life in history. The purpose and systematic use of the method with clearly defined goals leads to a better knowledge of pupils both in the area of memorizing data as in understanding the content and higher thought processes.</dcterms:abstract>
+            <dcterms:isPartOf>Historia: znanstvena zbirka Oddelka za zgodovino Filozofska fakultete v Ljubljani; 19</dcterms:isPartOf>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:dmdSec ID="default.mods">
+      <METS:mdWrap MDTYPE="MODS" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <mods:mods>
+               <mods:relatedItem type="series">
+                  <mods:relatedItem type="series">
+                     <mods:titleInfo>
+                        <mods:title>Historia: znanstvena zbirka Oddelka za zgodovino Filozofska fakultete v Ljubljani</mods:title>
+                     </mods:titleInfo>
+                     <mods:part>
+                        <mods:detail type="volumens">
+                           <mods:number>19</mods:number>
+                        </mods:detail>
+                     </mods:part>
+                  </mods:relatedItem>
+               </mods:relatedItem>
+            </mods:mods>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="default.amd">
+      <METS:techMD ID="default.premis">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>si4</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue/>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>Local name</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>31010</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>http://hdl.handle.net/11686/31010#page=313</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectCategory>Intellectual entity</premis:objectCategory>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="default.si4">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <entity:desc xml:lang="slv"> Metoda igre vlog pri
+                                    pouku zgodovine predstavlja poenostavljeno rekonstrukcijo
+                                    določenega zgodovinskega dogodka oziroma procesa ali pa zgolj
+                                    oživitev zgodovinskih okoliščin. V igri so dogodki zgoščeni,
+                                    skoncentrirani, število dejavnih udeležencev je omenjeno na
+                                    nekatere ključne like, ki so poenostavljeni. Iz preteklosti so
+                                    izbrane le tiste prvine in dejavniki, ki so bistveni za
+                                    doseganje učnih ciljev. Identifikacija, ki nastaja ob vživljanju
+                                    v vnaprej določeno in opredeljeno vlogo, se odvija predvsem na
+                                    ravni komponente časa in družbe. Metoda je primerna za prikaz
+                                    prelomnih dogodkov zgodovine, procesov odločanja in sprejemanja
+                                    sklepov ter tudi za prikaz vsakdanjega življenja. Namenska in
+                                    sistematična uporaba metode, z jasno opredeljenimi cilji vodi do
+                                    boljšega znanja učencev, tako na področju pomnjenja podatkov,
+                                    kot pri razumevanju snovi, pa tudi pri višjih miselnih procesih.
+                                </entity:desc>
+               <entity:page>313</entity:page>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   ID="default.structure"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/30974"/>
+         <METS:div TYPE="entity" DMDID="default.dc default.mods" ADMID="default.amd"/>
+      </METS:div>
+   </METS:structMap>
+   <METS:behaviorSec xmlns:xlink="http://www.w3.org/1999/xlink" ID="si4.behavior">
+      <METS:behavior BTYPE="default">
+         <METS:mechanism LOCTYPE="URL" xlink:href="resources/assets/xsd/default/"/>
+      </METS:behavior>
+   </METS:behaviorSec>
+</METS:mets>

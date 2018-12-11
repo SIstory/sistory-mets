@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/26854">
+   <METS:metsHdr CREATEDATE="2014-06-12T14:54:37"
+                 LASTMODDATE="2016-12-16T20:25:24"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.11" TYPE="INDIVIDUAL">
+         <METS:name>Pančur, Andrej</METS:name>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="default.dc">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dc:title xml:lang="deu">Geschichte des Eisens in Inner-Österreich von der Urzeit bis zum Anfange des XIX. Jahrhunderts</dc:title>
+            <dc:title xml:lang="deu">Mit besonderes Berücksichtigung der Ökonomischen, sozialen und handelspolitischen Verhältnisse sowie des Eisenhandels nach sämtlichen europäischen Ländern, der Levante und Nordafrika</dc:title>
+            <dc:title xml:lang="deu">Erste Abteilung Krain, Görz und Istrien</dc:title>
+            <dc:creator>Müllner, Alfons</dc:creator>
+            <dc:subject xml:lang="slv">metalurgija</dc:subject>
+            <dc:subject xml:lang="slv">železarstvo</dc:subject>
+            <dc:subject xml:lang="slv">železo</dc:subject>
+            <dc:subject xml:lang="slv">železova ruda</dc:subject>
+            <dc:subject xml:lang="slv">zgodovinski pregled</dc:subject>
+            <dc:subject xml:lang="slv">Kranjska</dc:subject>
+            <dc:subject xml:lang="slv">Istra</dc:subject>
+            <dc:subject xml:lang="slv">Gorica</dc:subject>
+            <dc:subject xml:lang="slv">pridobivanje rude</dc:subject>
+            <dc:subject xml:lang="slv">nahajališča rude</dc:subject>
+            <dc:subject xml:lang="slv">predelava rude</dc:subject>
+            <dc:subject xml:lang="slv">plavži</dc:subject>
+            <dc:subject xml:lang="slv">talilne peči</dc:subject>
+            <dc:subject xml:lang="slv">izdelki iz železa</dc:subject>
+            <dc:subject xml:lang="eng">metallurgy</dc:subject>
+            <dc:subject xml:lang="eng">iron</dc:subject>
+            <dc:subject xml:lang="eng">iron ore</dc:subject>
+            <dc:subject xml:lang="eng">historical overview</dc:subject>
+            <dc:subject xml:lang="eng">Carniola</dc:subject>
+            <dc:subject xml:lang="eng">Istria</dc:subject>
+            <dc:subject xml:lang="eng">Gorizia</dc:subject>
+            <dc:subject xml:lang="eng">extraction of minerals</dc:subject>
+            <dc:subject xml:lang="eng">ore deposits</dc:subject>
+            <dc:subject xml:lang="eng">ore processing</dc:subject>
+            <dc:subject xml:lang="eng">smelting furnaces</dc:subject>
+            <dc:subject xml:lang="eng">furnace</dc:subject>
+            <dc:publisher>Verlag von Halm und Goldmann, Leipzig</dc:publisher>
+            <dc:date xsi:type="dcterms:W3CDTF">1909</dc:date>
+            <dc:type xsi:type="dcterms:DCMIType">Text</dc:type>
+            <dc:identifier>COBISS.SI-ID 9878277</dc:identifier>
+            <dc:language xsi:type="dcterms:ISO639-3">deu</dc:language>
+            <dcterms:license xsi:type="dcterms:URI">http://creativecommons.org/publicdomain/mark/1.0/</dcterms:license>
+            <dcterms:license xml:lang="eng">Public Domain Mark 1.0</dcterms:license>
+            <dcterms:license xml:lang="slv">Avtorske pravice so potekle, delo je v javni domeni.</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="default.amd">
+      <METS:techMD ID="default.premis">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>si4</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue/>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>Local name</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>26854</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>http://hdl.handle.net/11686/26854</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectCategory>Intellectual entity</premis:objectCategory>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="default.si4">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <entity:desc xml:lang="slv">
+                  <p xmlns="http://www.w3.org/1999/xhtml">Več o Alfonsu Müllnerju na portalu Slovenska biografija.
+                                        <br/> Na portalu Zgodovina Slovenije - SIstory je dostopna
+                                        tudi kopija tipkopisa slovenskega prevoda njegove knjige
+                                        Geschichte des Eisens in Krain, Görz und Istrien von der
+                                        Urzeit bis zum Anfänge des XIX. Jahrhunderts, do nje lahko
+                                        dostopate preko te <a href="http://sistory.si/SISTORY:ID:26862">kazalke.</a>
+                  </p>
+               </entity:desc>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink" ID="default.file">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="file15812" OWNERID="Geschichte_des_Eisens.pdf">
+            <METS:FLocat LOCTYPE="HANDLE" xlink:href="https://hdl.handle.net/11686/file15812"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   ID="default.structure"
+                   TYPE="primary">
+      <METS:div TYPE="collection">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/menu17"/>
+         <METS:div TYPE="entity" DMDID="default.dc" ADMID="default.amd">
+            <METS:fptr FILEID="file15812"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+   <METS:behaviorSec xmlns:xlink="http://www.w3.org/1999/xlink" ID="si4.behavior">
+      <METS:behavior BTYPE="default">
+         <METS:mechanism LOCTYPE="URL" xlink:href="resources/assets/xsd/default/"/>
+      </METS:behavior>
+   </METS:behaviorSec>
+</METS:mets>

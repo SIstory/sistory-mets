@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/30996">
+   <METS:metsHdr CREATEDATE="2015-05-14T10:37:55"
+                 LASTMODDATE="2017-02-15T10:12:53"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name>Meden, Katja</METS:name>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="default.dc">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dc:title xml:lang="slv">Gibljive podobe - film pri pouku zgodovine v gimnazijah</dc:title>
+            <dc:creator>Žagar, Jurij</dc:creator>
+            <dc:subject xml:lang="slv">pouk zgodovine</dc:subject>
+            <dc:subject xml:lang="slv">gimnazija</dc:subject>
+            <dc:subject xml:lang="slv">filmska vzgoja</dc:subject>
+            <dc:subject xml:lang="slv">dokumentarni film</dc:subject>
+            <dc:subject xml:lang="slv">igrani film</dc:subject>
+            <dc:subject xml:lang="slv">domači film</dc:subject>
+            <dc:subject xml:lang="slv">propagandni film</dc:subject>
+            <dc:subject xml:lang="eng">history Iessons</dc:subject>
+            <dc:subject xml:lang="eng">general secondary school</dc:subject>
+            <dc:subject xml:lang="eng">film education</dc:subject>
+            <dc:subject xml:lang="eng">documentary</dc:subject>
+            <dc:subject xml:lang="eng">feature film</dc:subject>
+            <dc:subject xml:lang="eng">homemade film</dc:subject>
+            <dc:subject xml:lang="eng">propaganda film</dc:subject>
+            <dc:publisher>Oddelek za zgodovino Filozofske fakultete Univerze v Ljubljani, Ljubljana</dc:publisher>
+            <dc:contributor>Danijela Trškan (ur.)</dc:contributor>
+            <dc:contributor>Darja Pipuš Sunesko (prev.)</dc:contributor>
+            <dc:contributor>Danijela Trškan (prev.)</dc:contributor>
+            <dc:date xsi:type="dcterms:W3CDTF">2011</dc:date>
+            <dc:type xsi:type="dcterms:DCMIType">Text</dc:type>
+            <dc:language xsi:type="dcterms:ISO639-3">slv</dc:language>
+            <dcterms:alternative xml:lang="eng">Moving images - film in History lessons in general secondary school</dcterms:alternative>
+            <dcterms:abstract xml:lang="slv">Učenci črpajo iz zakladnice gibljivih podob - filmov prikaze daljne preteklosti in žive podobe preteklega stoletja. Spoznavajo gibljivo sliko kot primarni in sekundarni vir ter se aktivno vključijo v analizo filmov. Predstavijo ali opišejo lahko krajše video ponazoritve zgodovine, pripravijo obširnejše referate ali posnamejo dokumentarni oz. igrani film. Vloga učitelja je vloga koordinatorja, tistega, ki sodeluje pri zasnovi ideje, njeni izpeljavi in vrednotenju, hkrati pa zna učencem pustiti veliko ustvarjalne svobode in originalnosti Pri analizi filmov. Učitelji lahko v gimnazijah uporabijo pri pouku zgodovine različne vrste filmov, ki jih predstavljamo v tem prispevku.</dcterms:abstract>
+            <dcterms:abstract xml:lang="eng">The pupils gather from the treasury of moving images or films images of the distant Past and living portraits of past centuries. They recognize film as a elementary and secondary source and actively get involved in the film analysis. They can present or describe brief video illustrations of history, prepare longer papers or record a documentary or feature film. The role of the teacher is that of a coordinator, one, who participates in the idea, its execution and evaluation, and at the same time knows how to give the pupils enough Creative freedom and originality in analysing the film. Teachers in general secondary schools can use various types of films, which we present in the article.</dcterms:abstract>
+            <dcterms:isPartOf>Historia: znanstvena zbirka Oddelka za zgodovino Filozofska fakultete v Ljubljani; 19</dcterms:isPartOf>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:dmdSec ID="default.mods">
+      <METS:mdWrap MDTYPE="MODS" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <mods:mods>
+               <mods:relatedItem type="series">
+                  <mods:relatedItem type="series">
+                     <mods:titleInfo>
+                        <mods:title>Historia: znanstvena zbirka Oddelka za zgodovino Filozofska fakultete v Ljubljani</mods:title>
+                     </mods:titleInfo>
+                     <mods:part>
+                        <mods:detail type="volumens">
+                           <mods:number>19</mods:number>
+                        </mods:detail>
+                     </mods:part>
+                  </mods:relatedItem>
+               </mods:relatedItem>
+            </mods:mods>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="default.amd">
+      <METS:techMD ID="default.premis">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>si4</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue/>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>Local name</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>30996</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>http://hdl.handle.net/11686/30996#page=303</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectCategory>Intellectual entity</premis:objectCategory>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="default.si4">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <entity:desc xml:lang="slv"> Učenci črpajo iz
+                                    zakladnice gibljivih podob - filmov prikaze daljne preteklosti
+                                    in žive podobe preteklega stoletja. Spoznavajo gibljivo sliko
+                                    kot primarni in sekundarni vir ter se aktivno vključijo v
+                                    analizo filmov. Predstavijo ali opišejo lahko krajše video
+                                    ponazoritve zgodovine, pripravijo obširnejše referate ali
+                                    posnamejo dokumentarni oz. igrani film. Vloga učitelja je vloga
+                                    koordinatorja, tistega, ki sodeluje pri zasnovi ideje, njeni
+                                    izpeljavi in vrednotenju, hkrati pa zna učencem pustiti veliko
+                                    ustvarjalne svobode in originalnosti Pri analizi filmov.
+                                    Učitelji lahko v gimnazijah uporabijo pri pouku zgodovine
+                                    različne vrste filmov, ki jih predstavljamo v tem prispevku.
+                                </entity:desc>
+               <entity:page>303</entity:page>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   ID="default.structure"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/30974"/>
+         <METS:div TYPE="entity" DMDID="default.dc default.mods" ADMID="default.amd"/>
+      </METS:div>
+   </METS:structMap>
+   <METS:behaviorSec xmlns:xlink="http://www.w3.org/1999/xlink" ID="si4.behavior">
+      <METS:behavior BTYPE="default">
+         <METS:mechanism LOCTYPE="URL" xlink:href="resources/assets/xsd/default/"/>
+      </METS:behavior>
+   </METS:behaviorSec>
+</METS:mets>

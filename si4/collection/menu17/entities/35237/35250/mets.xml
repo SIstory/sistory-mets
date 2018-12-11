@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/35250">
+   <METS:metsHdr CREATEDATE="2016-06-13T13:05:47"
+                 LASTMODDATE="2017-02-13T08:38:05"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name>Meden, Katja</METS:name>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="default.dc">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dc:title xml:lang="slv">Protestantski most med Tübingenom in Notranjo Avstrijo</dc:title>
+            <dc:creator>Južnič, Stanislav</dc:creator>
+            <dc:subject xml:lang="slv">protestantizem</dc:subject>
+            <dc:subject xml:lang="slv">Ljubljana</dc:subject>
+            <dc:subject xml:lang="slv">Württenberg</dc:subject>
+            <dc:subject xml:lang="slv">Ivan Ungnad</dc:subject>
+            <dc:subject xml:lang="slv">Nikodem Frischlin</dc:subject>
+            <dc:subject xml:lang="slv">Gaspar Peucer</dc:subject>
+            <dc:subject xml:lang="slv">zgodovina astronomije in astrologije</dc:subject>
+            <dc:subject xml:lang="eng">Protestants</dc:subject>
+            <dc:subject xml:lang="eng">Ljubljana</dc:subject>
+            <dc:subject xml:lang="eng">Württenberg</dc:subject>
+            <dc:subject xml:lang="eng">Hans Ungnad</dc:subject>
+            <dc:subject xml:lang="eng">Nikodemus Frischlin</dc:subject>
+            <dc:subject xml:lang="eng">Gaspar Peucer</dc:subject>
+            <dc:subject xml:lang="eng">History of Astronomy and Astrology</dc:subject>
+            <dc:publisher>Zveza zgodovinskih društev Slovenije, Ljubljana</dc:publisher>
+            <dc:contributor>Nevenka Troha (ur.)</dc:contributor>
+            <dc:contributor>Mojca Šorn (ur.)</dc:contributor>
+            <dc:contributor>Bojan Balkovec (ur.)</dc:contributor>
+            <dc:date xsi:type="dcterms:W3CDTF">2008</dc:date>
+            <dc:type xsi:type="dcterms:DCMIType">Text</dc:type>
+            <dc:language xsi:type="dcterms:ISO639-3">slv</dc:language>
+            <dcterms:alternative xml:lang="eng">Protestant Bridge between Tübingen and Inner Austria</dcterms:alternative>
+            <dcterms:abstract xml:lang="eng">Ungnad’s books replaced his sword to build thè bridge between Tübingen scientists and their Inner-Austrian hosts. The Duke of Württenberg and his counsellor Ungnad prepared road for rector Nikodemus Frischlin arrival to Ljubljana, rector Hieronymus Megiser to Celovec and Johannes Kepler to Graz. Ungnad and Frischlin refiised the populär astrological divinations of their day, and Frischlin even published a book against them. Frischlin’s student Maestlin and Maestlin’s student Kepler disliked Frischlin’s arguments. Frischlin worsened Maestlin’s antagonism when he dared to accept papal calendar reform in Ljubljana and he happened to be among the first protestant to do so. During his Ljubljana days Frischlin changed his juvenile support of Copemicus’ astronomy into agnosticism by publishing the most elaborate statement about the inability of astronomical measurements to choose the trae world system.</dcterms:abstract>
+            <dcterms:abstract xml:lang="slv">Opisujemo Ungnadovo prelevitev iz vojskovodje v tiskarja, ki je gradil most med Tübingenslcimi učenjaki in njihovimi notranjeavstrijskimi gostitelji. Württenberski vojvoda in njegov svetovalec Ungnad sta pripravila pot, po kateri je Nikodem Frischlin prišel v Ljubljano, Hieronymus Megiser v Celovec, Johannes Kepler pa v Gradec. Ungnad in Frischlin nista zaupala tedaj priljubljenim astrološkim napovedim, Frischlin paje proti njim spisal celo knjigo. Dokazujemo da seje Frischlin s tem zameril svojemu učencu Maestlinu in Maestlinovemu dijaku Keplerju. Piko na i je postavil Frischlinov sprejem katoliške gregorijanske koledarske reforme v Ljubljani. Za nameček seje v Ljubljani prelevil iz mladostnega kopemikanca v dvomljivca, saj je med vsemi sodobniki najbolj prepričljivo podvomil v možnost, da bi astronomske meritve lahko verodostojno odločale o pravilnem sistemu sveta.</dcterms:abstract>
+            <dcterms:isPartOf>Zbirka zgodovinskega časopisa ; 35</dcterms:isPartOf>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:dmdSec ID="default.mods">
+      <METS:mdWrap MDTYPE="MODS" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <mods:mods>
+               <mods:relatedItem type="series">
+                  <mods:relatedItem type="series">
+                     <mods:titleInfo>
+                        <mods:title>Zbirka zgodovinskega časopisa</mods:title>
+                     </mods:titleInfo>
+                     <mods:part>
+                        <mods:detail type="volumens">
+                           <mods:number>35</mods:number>
+                        </mods:detail>
+                     </mods:part>
+                  </mods:relatedItem>
+               </mods:relatedItem>
+            </mods:mods>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="default.amd">
+      <METS:techMD ID="default.premis">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>si4</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue/>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>Local name</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>35250</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>http://hdl.handle.net/11686/35250#page=41</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectCategory>Intellectual entity</premis:objectCategory>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="default.si4">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <entity:desc xml:lang="slv"> Opisujemo Ungnadovo
+                                    prelevitev iz vojskovodje v tiskarja, ki je gradil most med
+                                    Tübingenslcimi učenjaki in njihovimi notranjeavstrijskimi
+                                    gostitelji. Württenberski vojvoda in njegov svetovalec Ungnad
+                                    sta pripravila pot, po kateri je Nikodem Frischlin prišel v
+                                    Ljubljano, Hieronymus Megiser v Celovec, Johannes Kepler pa v
+                                    Gradec. Ungnad in Frischlin nista zaupala tedaj priljubljenim
+                                    astrološkim napovedim, Frischlin paje proti njim spisal celo
+                                    knjigo. Dokazujemo da seje Frischlin s tem zameril svojemu
+                                    učencu Maestlinu in Maestlinovemu dijaku Keplerju. Piko na i je
+                                    postavil Frischlinov sprejem katoliške gregorijanske koledarske
+                                    reforme v Ljubljani. Za nameček seje v Ljubljani prelevil iz
+                                    mladostnega kopemikanca v dvomljivca, saj je med vsemi sodobniki
+                                    najbolj prepričljivo podvomil v možnost, da bi astronomske
+                                    meritve lahko verodostojno odločale o pravilnem sistemu sveta.
+                                </entity:desc>
+               <entity:page>41</entity:page>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   ID="default.structure"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/35237"/>
+         <METS:div TYPE="entity" DMDID="default.dc default.mods" ADMID="default.amd"/>
+      </METS:div>
+   </METS:structMap>
+   <METS:behaviorSec xmlns:xlink="http://www.w3.org/1999/xlink" ID="si4.behavior">
+      <METS:behavior BTYPE="default">
+         <METS:mechanism LOCTYPE="URL" xlink:href="resources/assets/xsd/default/"/>
+      </METS:behavior>
+   </METS:behaviorSec>
+</METS:mets>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/2250">
+   <METS:metsHdr CREATEDATE="2012-10-03T14:52:44"
+                 LASTMODDATE="2017-02-10T10:57:53"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name>Meden, Katja</METS:name>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="default.dc">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dc:title xml:lang="slv">A Slovene History</dc:title>
+            <dc:title xml:lang="slv">Society – politics – culture</dc:title>
+            <dc:title xml:lang="slv">[elektronski vir]</dc:title>
+            <dc:creator>Štih, Peter</dc:creator>
+            <dc:creator>Simoniti, Vasko</dc:creator>
+            <dc:creator>Vodopivec, Peter</dc:creator>
+            <dc:subject xml:lang="slv">Slovene History</dc:subject>
+            <dc:subject xml:lang="slv">Medieval History</dc:subject>
+            <dc:subject xml:lang="slv">Modern History</dc:subject>
+            <dc:subject xml:lang="slv">Political History</dc:subject>
+            <dc:subject xml:lang="slv">Cultural History</dc:subject>
+            <dc:subject xml:lang="eng">Slovene History</dc:subject>
+            <dc:subject xml:lang="eng">Medieval History</dc:subject>
+            <dc:subject xml:lang="eng">Modern History</dc:subject>
+            <dc:subject xml:lang="eng">Political History</dc:subject>
+            <dc:subject xml:lang="eng">Cultural History</dc:subject>
+            <dc:publisher>Inštitut za novejšo zgodovino, Ljubljana</dc:publisher>
+            <dc:date xsi:type="dcterms:W3CDTF">2008</dc:date>
+            <dc:type xsi:type="dcterms:DCMIType">Text</dc:type>
+            <dc:identifier>COBISS.SI-ID 38396002</dc:identifier>
+            <dc:language xsi:type="dcterms:ISO639-3">eng</dc:language>
+            <dcterms:alternative xml:lang="eng">A Slovene History</dcterms:alternative>
+            <dcterms:alternative xml:lang="eng">Society – politics – culture</dcterms:alternative>
+            <dcterms:alternative xml:lang="eng">[elektronski vir]</dcterms:alternative>
+            <dcterms:isPartOf xsi:type="dcterms:URI">http://hdl.handle.net/11686/4893</dcterms:isPartOf>
+            <dcterms:license xsi:type="dcterms:URI">http://creativecommons.org/licenses/by-nc-nd/2.5/si/</dcterms:license>
+            <dcterms:license xml:lang="slv">Priznanje avtorstva-Nekomercialo-Brez predelav 2.5 Slovenija (CC BY-NC-ND 2.5 SI)</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="default.amd">
+      <METS:techMD ID="default.premis">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>si4</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue/>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>Local name</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>2250</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>http://hdl.handle.net/11686/2250</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectCategory>Intellectual entity</premis:objectCategory>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="default.si4">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <entity:desc xml:lang="slv"> The geographic position
+                                    of present-day Slovenia, squeezed between the Alps and the
+                                    Adriatic Sea, has exposed this territory to the tides of
+                                    history. It has always been a place of transition, a borderland
+                                    and a crossroads, but also a bridge between different cultures,
+                                    people, nations and states. Although small in size – the modern
+                                    Slovene state measures just 20,000 km2 - four major European
+                                    geographical regions meet in its territory: the Alps, which
+                                    cover the north-west, the Pannonian Plain, also known as the
+                                    Great Hungarian Plain, to the east, the Dinaric Alps, known also
+                                    by the ancient toponym of the Karst (Kras), which covers the
+                                    southern part of Slovene territory, and the Mediterranean,
+                                    which, as the Adriatic, makes its most northerly encroachment
+                                    into continental central Europe in the Gulf of Trieste. </entity:desc>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink" ID="default.file">
+      <METS:fileGrp USE="THUMB">
+         <METS:file ID="thumbnail">
+            <METS:FLocat LOCTYPE="URL" xlink:href="slozgANG.JPG"/>
+         </METS:file>
+      </METS:fileGrp>
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="file821" OWNERID="Slovenska-zgodovina-ENG.pdf">
+            <METS:FLocat LOCTYPE="HANDLE" xlink:href="https://hdl.handle.net/11686/file821"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   ID="default.structure"
+                   TYPE="primary">
+      <METS:div TYPE="collection">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/menu17"/>
+         <METS:div TYPE="entity" DMDID="default.dc" ADMID="default.amd">
+            <METS:fptr FILEID="thumbnail"/>
+            <METS:fptr FILEID="file821"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+   <METS:behaviorSec xmlns:xlink="http://www.w3.org/1999/xlink" ID="si4.behavior">
+      <METS:behavior BTYPE="default">
+         <METS:mechanism LOCTYPE="URL" xlink:href="resources/assets/xsd/default/"/>
+      </METS:behavior>
+   </METS:behaviorSec>
+</METS:mets>

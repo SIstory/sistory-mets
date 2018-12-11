@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/1559">
+   <METS:metsHdr CREATEDATE="2011-11-02T20:18:57"
+                 LASTMODDATE="2016-12-18T10:35:32"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.11" TYPE="INDIVIDUAL">
+         <METS:name>Pančur, Andrej</METS:name>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="default.dc">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dc:title xml:lang="slv">Za zapahi</dc:title>
+            <dc:title xml:lang="slv">Prebivalstvo Slovenije v okupatorjevih zaporih 1941-1945</dc:title>
+            <dc:creator>Guštin, Damijan</dc:creator>
+            <dc:subject xml:lang="slv">okupacija</dc:subject>
+            <dc:subject xml:lang="slv">zaporniki</dc:subject>
+            <dc:subject xml:lang="slv">kazenski zavodi</dc:subject>
+            <dc:subject xml:lang="slv">kazenske sankcije</dc:subject>
+            <dc:subject xml:lang="slv">kazensko pravo</dc:subject>
+            <dc:subject xml:lang="slv">zgodovinski pregledi</dc:subject>
+            <dc:subject xml:lang="eng">occupation</dc:subject>
+            <dc:subject xml:lang="eng">prisoners</dc:subject>
+            <dc:subject xml:lang="eng">penal institution</dc:subject>
+            <dc:subject xml:lang="eng">criminal law</dc:subject>
+            <dc:subject xml:lang="eng">historical overview</dc:subject>
+            <dc:publisher>Inštitut za novejšo zgodovino, Ljubljana</dc:publisher>
+            <dc:date xsi:type="dcterms:W3CDTF">2006</dc:date>
+            <dc:type xsi:type="dcterms:DCMIType">Text</dc:type>
+            <dc:identifier>COBISS.SI-ID 230457856</dc:identifier>
+            <dc:language xsi:type="dcterms:ISO639-3">slv</dc:language>
+            <dc:coverage xml:lang="slv">Slovenija, 1941-1945</dc:coverage>
+            <dcterms:isPartOf>Zbirka Razpoznavanja = Recognitiones ; 4</dcterms:isPartOf>
+            <dcterms:isPartOf xsi:type="dcterms:URI">http://hdl.handle.net/11686/4822</dcterms:isPartOf>
+            <dcterms:isPartOf xsi:type="dcterms:URI">http://hdl.handle.net/11686/4893</dcterms:isPartOf>
+            <dcterms:license xsi:type="dcterms:URI">http://creativecommons.org/licenses/by-nc-nd/2.5/si/</dcterms:license>
+            <dcterms:license xml:lang="slv">Priznanje avtorstva-Nekomercialo-Brez predelav 2.5 Slovenija (CC BY-NC-ND 2.5 SI)</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:dmdSec ID="default.mods">
+      <METS:mdWrap MDTYPE="MODS" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <mods:mods>
+               <mods:relatedItem type="series">
+                  <mods:relatedItem type="series">
+                     <mods:titleInfo>
+                        <mods:title>Zbirka Razpoznavanja = Recognitiones</mods:title>
+                     </mods:titleInfo>
+                     <mods:part>
+                        <mods:detail type="volumens">
+                           <mods:number>4</mods:number>
+                        </mods:detail>
+                     </mods:part>
+                  </mods:relatedItem>
+               </mods:relatedItem>
+            </mods:mods>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="default.amd">
+      <METS:techMD ID="default.premis">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>si4</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue/>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>Local name</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>1559</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>http://hdl.handle.net/11686/1559</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectCategory>Intellectual entity</premis:objectCategory>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="default.si4">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <entity:desc xml:lang="slv">
+                  <p xmlns="http://www.w3.org/1999/xhtml"> Štiriletna okupacija večine slovenskega ozemlja v času druge
+                                        svetovne vojne je obdobje, ko je policijski in sodni odvzem
+                                        prostosti prebivalstvu Slovenije dosegel svojo največjo
+                                        razsežnost. Odvzem prostosti je sodil med najbolj razširjene
+                                        represivne ukrepe okupatorjev, posebej pri zatiranju
+                                        slovenskega odporniškega gibanja. Zapori so tudi v vojnem
+                                        času opravljali svojo funkcijo v zatiranju kriminalitete. Ta
+                                        je v vojnem času sicer upadla, predvsem pa je postala za
+                                        okupacijske oblasti manj nevarna. Zapori so se tako
+                                        spremenili v prostore za številne v preiskovalnih postopkih,
+                                        odkoder so jih pošiljali v koncentracijska in zbirna
+                                        taborišča, v kraj izgona ali konfinacije.</p>
+                  <p xmlns="http://www.w3.org/1999/xhtml"> Italijanski okupator, ki je zasedeni del slovenskega ozemlja
+                                        oblikoval v Ljubljansko pokrajino in ga hitro priključil že
+                                        3. maja 1941 državnemu ozemlju Kraljevine Italije, je
+                                        ohranil sodne institucije in kazensko pravosodje v dotedanji
+                                        obliki, uvedel pa je lastne, ki so sodile v tistih primerih,
+                                        ko je bila ena od vpletenih strani v postopku italijanska.
+                                        Italija je, čeprav je pokrajino anektirala, še najbolj med
+                                        vsemi tremi okupanti upoštevala predpise mednarodnega
+                                        vojnega prava glede dopustnega ravnanja v okupirani deželi.
+                                        Vzpostavila je lastno policijo, domačo pa deloma razpustila
+                                        oziroma posameznike vključila kot pomožno policijo. Ni pa v
+                                        pokrajino uvedla svojega kazenskega zakonika, niti sodišč, z
+                                        izjemo vojaškega vojnega sodišča, ki je za pravno osnovo
+                                        svojega delovanja imelo Mussolinijev odlok o uporabi
+                                        določenih členov kazenskega zakonika in seznama kaznivih
+                                        dejanj z dne 3. oktobra 1941. To sodišče je v v 21 mesecih
+                                        svojega delovanja do dneva kapitulacije Italije obravnavalo
+                                        okoli 13.000 oseb, večinoma pripadnikov odporniškega
+                                        gibanja.</p>
+                  <p xmlns="http://www.w3.org/1999/xhtml">Kazenskim sodiščem, ki so ostala v funkciji, je preostalo
+                                        sojenje v kriminalnih zadevah. Za podobno ureditev
+                                        pravosodja na okupiranih in nato priključenih območjih se je
+                                        odločila tudi madžarska država. Poleg rednega sodstva je
+                                        politične delitve obravnavalo hitro vojaško sodišče ali
+                                        pozneje vojaško sodišče šefa generalštaba, ki je v hitrem
+                                        postopku obravnavalo vsa dejanja zoper madžarsko državo in
+                                        režim. Nemški okupator, ki je zasedeno slovensko ozemlje
+                                        nameraval hitro in povsem vključiti v svoje državno ozemlje,
+                                        je vpeljal drugačen represivni sistem. Zato je še pred
+                                        aneksijo, ki jo je zaradi pojava odporniškega gibanja
+                                        odložil do konca vojne, po takojšnjem izgonu 8 %
+                                        prebivalstva podelil državljanstvo 90 % preostalega
+                                        prebivalstva. Popolnoma je uničil pravosodni sistem, saj je
+                                        nameraval po aneksiji na ozemlje uvesti svojega. V vmesnem
+                                        času, ki se je raztegnil na dve leti, sta najnujnejše
+                                        kazenske zadeve obravnavala kar komandanta varnostne
+                                        policije in varnostne službe na območju civilne uprave. V ta
+                                        namen sta junija 1941 ustanovila poseben kazenski oddelek,
+                                        ki je obravnaval zgolj zadeve strogo nepolitičnega značaja.
+                                        Vsi delikti, kjer je bilo politično ozadje ali politične
+                                        oznake, so sodili v pristojnost Tajne državne policije
+                                        (gestapa).</p>
+                  <p xmlns="http://www.w3.org/1999/xhtml">Ta je sama izvajala preiskovalni postopek, preučila dokaze in
+                                        družbeno nevarnost vsakega od preiskovanih ter ga nato
+                                        bodisi izpustila, predlagala odvedbo v koncentracijsko
+                                        taborišče ali pa z osebno odločitvijo komandanta varnostne
+                                        policije in varnostne službe obsodila na smrt. Tako je
+                                        nemška okupacijska oblast obravnavala vse pripadnike in
+                                        simpatizerje odporniškega gibanja. Šele v letu 1944 je bil
+                                        manjši del takšnih zadev predan političnim kazenskim
+                                        zbornicam (na Gorenjskem) oziroma posebnemu sodišču za
+                                        politične zadeve (na Štajerskem). Obe sodni ustanovi sta
+                                        delovali zunaj rednega sodstva, ki je bilo na območju
+                                        civilne uprave v kazenskih zadevah vzpostavljeno v letu
+                                        1943. Pravosodni sistem, ki ga je nemški okupator uvedelna
+                                        območju operacijske cone Jadransko primorje jeseni 1943, je
+                                        formalno upošteval suverenost Italije. Ohranil je dotedanjo
+                                        pravosodno in sodno ureditev, uvajal pa je poleg policijskih
+                                        kazenskih ukrepov z izvensodnimi usmrtitvami, z odvažanjem v
+                                        koncentracijska taborišča (od katerih je enega tudi postavil
+                                        v Trstu) in na prisilno delo, posebna sodišča javne
+                                        varnosti, ki so obravnavala politične delikte, »črno borzo«,
+                                        preskrbo in gospodarske prestopke (delovala so v Trstu,
+                                        Gorici in Ljubljani).</p>
+                  <p xmlns="http://www.w3.org/1999/xhtml">Tolikšen obseg policijske in sodne represije, tako proti
+                                        odporniškemu gibanju kot običajnemu kriminalu in posebnim
+                                        omejitvam zaradi vojne (nedovoljeni prehodi meje,
+                                        zatemnitev, policijska ura, nedovoljeno poslušanje radia) je
+                                        povzročil, da kapacitete zaporov v nobeni slovenski
+                                        pokrajini niso več zadoščale potrebam, zlasti ne na nemškem
+                                        območju, kjer je prišlo do množičnih akcij odvzema prostosti
+                                        kmalu po zasedbi. Okupatorji so dobili ob zasedbi
+                                        jugoslovanskega dela slovenskega ozemlja že izdelan sistem
+                                        zaporov, ki je pred vojno zadoščal za potrebe policijskih in
+                                        sodnih oblasti. Dva samostojna kazenska zavoda v Mariboru in
+                                        Begunjah sta pomenila del širšega sistema kazenskih zavodov
+                                        na ravni Kraljevine Jugoslavije. Bili so štirje zapori
+                                        okrožnih sodišč in 49 zaporov okrajnih sodišč. Njihove
+                                        zmogljivosti so znašale pri okrožnih zaporih med 120 in 290
+                                        jetniki, medtem ko so manjši sodni zapori okrajnih sodišč
+                                        imeli med 10 in 40 mest. Policijska oz. žandarmerijska
+                                        oblastva so imela tudi policijske zapore; največji
+                                        policijski zapor v Ljubljani je premogel okoli 50 mest.
+                                        Nemški okupacijski in represivni sistem je potreboval mnogo
+                                        več prostora v zaporih za zapornike v preiskovalnem
+                                        postopku.</p>
+                  <p xmlns="http://www.w3.org/1999/xhtml"> Na Gorenjskem si je zato uredil velik osrednji preiskovalni
+                                        zapor v dotedanji ženski kaznilnici v Begunjah. Policija pa
+                                        je izrabila tudi sodne zapore okrajnih sodišč, ki so postali
+                                        ob ukinitvi sodišč in sodnih jetnikov predvsem preiskovalni
+                                        zapori za politične zapornike. Območje Štajerske je bilo z
+                                        velikimi zapori bolje preskrbljeno, saj sta na tem območju
+                                        ostala kar dva okrožna zapora s po okoli 250 mesti vsak;
+                                        poleg tega pa je bila na voljo še moška kaznilnica, v kateri
+                                        je bilo tudi okoli 460 mest. Kaznilnica v Mariboru je bila
+                                        edina, ki jo je nemška Državna pravosodna uprava ob420
+                                        držala v isti funkciji, saj je vso vojno služila za
+                                        prestajanje kazni. Zapornike so dovažali tudi z območij
+                                        zunaj slovenskega ozemlja, iz avstrijskih in čeških krajev,
+                                        polovico pa so predstavljali tisti, ki jih je obsodil
+                                        kazenski oddelek oziroma od leta 1943 sodišča. Ker je že v
+                                        letih 1941 in 1942 primanjkovalo prostora v obeh osrednjih
+                                        preiskovalnih zaporih, je komandant varnostne policije in
+                                        varnostne službe osnoval poseben policijski zapor na gradu
+                                        Borlu in izpostavo mariborskega sodnega zapora v Strnišču,
+                                        kjer so bili zaporniki zaposleni pri gradnji tovarne
+                                        aluminija.</p>
+                  <p xmlns="http://www.w3.org/1999/xhtml">V zadnjem obdobju vojne, že od jeseni 1943, so pravosodne
+                                        oblasti na štajerskem delu območja civilne uprave ukinile 14
+                                        manjših, bolj izpostavljenih zaporov okrajnih sodišč. V
+                                        Ljubljanski pokrajini, kjer je italijanski okupator v
+                                        največji meri ohranil predvojno pravosodno ureditev, so v
+                                        enakih funkcijah ostali tudi sodni zapori, vključno z
+                                        največjima v pokrajini, v Ljubljani in Novem mestu. Z
+                                        zapiranjem preiskovalnih zapornikov, ki so bili v
+                                        pristojnosti policijskih in vojaških oblasti se je postopoma
+                                        spreminjala vloga sodnih zaporov. Z delom oddelka vojaškega
+                                        vojnega sodišča 2. armade v Ljubljani, ki je potreboval
+                                        vojaški sodni zapor, je bila vloga sodnega zapora v
+                                        Ljubljani določena za ves čas italijanske okupacije, saj je
+                                        število sodišču izročenih zapornikov zavzemalo večji del
+                                        zmogljivosti tega zapora. Zapor je bil v drugi polovici leta
+                                        1942, dokler oblasti niso ukrepale in večine pripornikov
+                                        preselile v vojaški zapor v Belgijski kasarni v Ljubljani,
+                                        tako prenapolnjen, da je število zapornikov trikrat
+                                        presegalo njegovo zmogljivost. Od začetka leta 1943 je bil
+                                        sodni zapor namenjen zgolj sodnim zapornikom v preiskovalnem
+                                        postopku in na prestajanju kazni; takih zapornikov je bilo
+                                        med 15 in 20%, ostali so čakali v zaporu na sojenje pred
+                                        vojaškim vojnim sodiščem. V sodnem zaporu je prestajal kazen
+                                        tudi tisti del njegovih obsojencev, ki je bil obsojen na
+                                        krajše zaporne kazni do šestih mesecev. Vse preostale so
+                                        italijanske pravosodne oblasti takoj po obsodbi pošiljale na
+                                        prestajanje kazni v kaznilnice in zapore v Italijo.</p>
+                  <p xmlns="http://www.w3.org/1999/xhtml">Zapornike so med transporti prehodno zbirali v zaporu v
+                                        Kopru. Vsi policijski organi in vojaške formacije v
+                                        pokrajini, ki so se ukvarjale s policijskim delom, so
+                                        vzpostavili POVZETEK 421 svoje ločene preiskovalne zapore.
+                                        Tako sta bila v Ljubljani še preiskovalni zapori fašistične
+                                        milice in vojaških karabinjerjev. V slednjem so zbirali
+                                        zapornike, ki so bili kot sumljivi poslani v koncentracijska
+                                        taborišča v Italijo (Rab, zlasti pa Gonars, Renicci, Visco).
+                                        V obdobju po nemški okupaciji dotedanjih italijanskih
+                                        pokrajin in njihovem upravnem preoblikovanju v Operacijsko
+                                        cono Jadransko primorje je nemška okupacijska oblast
+                                        uporabljal predvsem velike sodne zapore v večjih središčih
+                                        operacijske cone, saj je bilo narodnoosvobodilno gibanje že
+                                        tako močno, da je vojaško lahko resno ogrožalo manjša
+                                        središča. Aretirane med vojaško policijskimi akcijami na
+                                        podeželju, pa tudi ujete pripadnike NOV in POS, so
+                                        okupatorji vodili v vojaško zavarovanih transportih v zapore
+                                        v Ljubljani, Trstu, Gorici, od koder so jih odpremljali v
+                                        koncentracijska taborišča in na prisilno delo. Za vojni čas
+                                        je bila značilna deprofesionalizacija nadzornega osebja v
+                                        zaporih, ki je bila posledica avtonomnega ustanavljanja
+                                        zaporov s strani vojaških enot in policijskih sil in
+                                        podobnega. Zaradi tega so bili tudi jetniki izpostavljeni
+                                        večjemu pritisku in manj strokovnemu ravnanju, saj so bili
+                                        policisti, karabinjerji, vojaki do zapornikov, zlasti
+                                        političnih, bolj nasilni. </p>
+                  <p xmlns="http://www.w3.org/1999/xhtml">Domače, slovensko osebje je v okupatorjevih očeh veljalo za
+                                        manj zanesljivo in zapornikom, s katerimi jih je družila
+                                        nacionalna pripadnost, bolj naklonjeno. Zato ne preseneča,
+                                        da se je del nadzornega osebja po volji okupatorjev znašel
+                                        tudi med zaporniki, ko so odkrili njihovo sodelovanje z
+                                        osvobodilnim gibanjem ali nedovoljeno pomoč jetnikom. V
+                                        pomoči jetnikom in sodelovanju z osvobodilnim gibanjem se je
+                                        najbolj angažiralo osebje sodnega zapora v Ljubljani, zlasti
+                                        v prvem letu okupacije. Represija, namenjena zatiranju
+                                        narodnoosvobodilnega gibanja, je povzročila veliko spremembo
+                                        v številu, strukturi in položaju zapornikov in to v vseh
+                                        delih okupiranega slovenskega ozemlja. Upoštevaje le tiste,
+                                        ki so bili v zaporih dlje kot dva meseca, je bilo v zaporih
+                                        okoli 64.000 ljudi na območju, ki so ga zajemale povojne
+                                        statistike LR Slovenije; po drugih kriterijih, ob
+                                        upoštevanju dejstva, da je bila mnogim ljudem odvzeta
+                                        prostost za daljši čas, niso pa medtem bili v zaporih (del
+                                        izgnanih, 422 del interniranih, del konfiniranih) se število
+                                        ljudi, ki so bili prizadeti z odvzemom prostosti, dvigne na
+                                        okoli 120.000 prebivalcev, kar bi pomenilo okoli 8 %
+                                        prebivalstva. Kar okoli 90% je k njihovemu številu
+                                        prispevala kriminalizacija političnih dejanj in odpora proti
+                                        okupaciji.</p>
+                  <p xmlns="http://www.w3.org/1999/xhtml">Tako imenovani politični zaporniki so bili člani in
+                                        simpatizerji odporniških političnih organizacij, ki so bile
+                                        vključene v osvobodilno gibanje, kršilci omejitvenih odredb
+                                        okupacijskih oblasti. Pomemben del zapornikov so bili tudi
+                                        tudi ujeti ali aretirani partizani. Postopek proti njim se,
+                                        razen da je bil strožji zaradi pravne opredelitve njihovega
+                                        ravnanja kot oboroženega upora ali pripadanja oboroženim
+                                        tolpam, ni razlikoval od tistega proti civilnim osebam in so
+                                        bivali v enakih razmerah in istih zaporih kot ostali
+                                        politični jetniki. Politični jetniki so bili med
+                                        preiskovalnim postopkom pogosto mučeni, ne glede na to
+                                        katera policija jih je zasliševala. Mučenje zapornikov pri
+                                        nemški tajni državni policiji je bilo eden od uradnih
+                                        postopkov (»poostreno zaslišanje«), ki ga je odobraval
+                                        komandant varnostne policije in varnostne službe. Prav
+                                        surovost preiskovalnega postopka in strah pred usmrtitvijo
+                                        sta označevala življenje političnega preiskovalnega jetnika,
+                                        poleg neznosnih bivanjskih razmer zaradi prenapolnjenosti
+                                        zaporov. Obsojencev na prestajanju kazni je bilo v zaporih
+                                        mnogo manj kot zapornikov v preiskovalnem postopku, saj je
+                                        večje število obsojenih, okoli 3.500, doseglo v svojem
+                                        21-mesečnem sodnem poslovanju italijansko vojaško vojno
+                                        sodišče 2. armade v Ljubljani. Nemška posebna sodišča so
+                                        obsodila na Slovenskem okoli 500 oseb.</p>
+                  <p xmlns="http://www.w3.org/1999/xhtml"> Večina od obsojenih jetnikov je bila odvedena na prestajanje
+                                        kazni v matične države okupatorjev. Okoli 750 obsojenih pred
+                                        vojaškim vojnim sodiščem na kazni daljše od pol leta je bilo
+                                        poslanih v zapore in kaznilnice v Italijo; njihovo
+                                        premeščanje je trajalo od decembra 1941 do septembra 1943.
+                                        Tedaj so bili razporejeni v okoli 50 kazenskih zavodov od
+                                        Tranija pri Bariju in Neaplja na jugu Italije do
+                                        Alessandrije, in Benetk na severovzhodu. V kazenske zavode v
+                                        Nemčijo zunaj območja višjega deželnega sodišča v Gradcu sta
+                                        bili avgusta 1944 poslani v kaznilnici Aichach in
+                                        Kassel-Wehlheiden le dve skupini obsojencev z okupiranega
+                                        območja. Obsojeni pred madžarskimi vojaškimi in civilnimi
+                                        sodišči so kazni prestajali v zaporih v Szombathellyju,
+                                        Čakovcu, kaznilnicah v Budimpešti, Vacu, Komarnem,
+                                        Sopron-Köhidu. Osrednji preiskovalni zapori v Ljubljani,
+                                        Mariboru, Begunjah, Trstu so bili zaradi velikega števila
+                                        zaprtih podobni velikim ranžirnim postajam, od koder so
+                                        dnevno dovažali in odvažali po več desetin zapornikov in
+                                        tudi več kot tisoč mesečno. Skozi ljubljanski sodni zapor je
+                                        šlo od začetka vojne do italijanske kapitulacije okoli 8.500
+                                        zapornikov, od česar je bilo 7.700 političnih zapornikov. V
+                                        sodnem zaporu v Mariboru je bilo v prvih treh letih vojne
+                                        zaprtih 9.900 zapornikov. V sodni zapor v Trstu je bilo v
+                                        obdobju po nastanku Operacijske cone Jadransko primorje
+                                        pripeljanih 23.900 zapornikov. </p>
+                  <p xmlns="http://www.w3.org/1999/xhtml">V takih razmerah je bilo življenje zapornikov v zaporih
+                                        predvsem čakanje pred naslednjo postajo. Nekateri zaporniki
+                                        so bili z nedokazano krivdo usmrčeni kot talci ali v
+                                        povračilnih akcijah; drugi, obsojeni, so bili odvedeni v
+                                        kaznilnice, kjer so bili še najbolj zaščiteni pred vojno
+                                        vihro, tretji so bili preventivno ali kazensko odvedeni v
+                                        koncentracijska taborišča. Sodne in policijske eksekucije
+                                        obsojenih na smrt so bile sestavni del življenja v mnogih
+                                        zaporih, saj so bila zaporniška dvorišča za nemške
+                                        policijske oblasti primeren prostor za usmrtitve. Tako so še
+                                        dodatno zastraševali zapornike in tudi okoliško
+                                        prebivalstvo. Življenje v zaporih se je razlikovalo od
+                                        tistega na svobodi, čeprav pod okupacijo. Imelo je vse
+                                        slabosti, ki jih nalaga življenje v skupini.</p>
+                  <p xmlns="http://www.w3.org/1999/xhtml"> Življenje je bilo utečeno in predpisanemu redu so se morali
+                                        podrejati vsi, ne glede na prenapolnjenost zaporov.
+                                        Označevala ga je utesnjenost bivanja v prenapolnjenem
+                                        prostoru; v mnogih primerih so živeli zaporniki v razmerah,
+                                        ki so bile daleč pod v mirnih časih predpisanimi normativi
+                                        minimalnega prostora na zapornika. Tegobe izolacije, ki so
+                                        jih čutili, so lažje premagovali tam, kjer so živeli v
+                                        skupinah; to pa je bilo zaradi prenapolnjenosti zaporniških
+                                        kapacitet običajno, v samicah so prestajali del kazni le
+                                        obsojeni na najdaljše zaporne kazni. V italijanskih zaporih
+                                        in kaznilnicah so si ponekod slovenski politični zaporniki
+                                        upali zavračati določila hišnih redov glede obveznega dela
+                                        in obiskovanja verskih obredov, s čimer so odnosi 424 z
+                                        upravami in osebjem zaporov postali bistveno bolj napeti.
+                                        Res pa je, da je to upiranje krepilo njihovo samozavest in
+                                        notranjo homogenost skupin zapornikov. Okupatorjevi ukrepi
+                                        so prizadeli tolikšno in takšno število ljudi, da se je
+                                        spremenilo odzivanje prebivalstva na zapore in zapornike.
+                                        Prejšnjemu nelagodju do zapornikov in odklanjanju stikov ni
+                                        bilo več sledu; zapornike so sprejemali kot integralni del
+                                        družbe v nenormalnih razmerah vojne. Mnogo več jih je bilo
+                                        na različne načine pripravljenih pomagati zaprtim.</p>
+                  <p xmlns="http://www.w3.org/1999/xhtml">Svojci, pa tudi drugi - znanci, prijatelji, ustanove - so
+                                        poskušali pomagati s posredovanji za zaprte, jih obiskovali,
+                                        poizvedovali pri oblasteh o njihovi usodi. Iskali so zveze
+                                        do političnih, vojaških in policijskih oblastnikov v njihovo
+                                        korist, bili so pripravljeni na podkupovanja, tveganje pri
+                                        ugledu in premoženju. Jetniki so z njihovim trudom v zapore
+                                        dobivali pošto, pakete za življenjsko pomembno dopolnjevanje
+                                        prehrane, obiskovali so jih in jim prinašali perilo, kar je
+                                        vse izboljševalo počutje jetnikov v zavesti, da niso
+                                        zapuščeni. Vse to seveda ne izključuje tudi koristoljubja,
+                                        saj se je posredovanje v korist zaprtih v nekaterih primerih
+                                        razvilo v donosno obrt, v kateri so sodelovali policijski
+                                        funkcionarji, nadzorno osebje v zaporih in posredovalci. V
+                                        posredovanja se je vključeval tudi Rdeči križ, ki je,
+                                        kolikor mu je bilo dovoljeno, poskušal izboljšati tudi
+                                        položaj zapornikov; prav iznajdljivo posredovanje
+                                        Slovenskega Rdečega križa je omogočilo izpustitev skoraj
+                                        vseh zapornikov, ki so po kapitulaciji Italije ostali v
+                                        njenih zaporih in kaznilnicah. </p>
+                  <p xmlns="http://www.w3.org/1999/xhtml">Od novembra 1943 do maja 1944 so njegovi delegati s pravimi
+                                        in ponarejenimi dovolilnicami policijskih oblastev dosegli
+                                        izpustitev okoli 1.800 zapornikov. Le manjši del zapornikov
+                                        je tako bil odveden v Nemčijo na delo oziroma v
+                                        koncentracijska taborišča. Zanje se je zavzemalo tudi
+                                        narodnoosvobodilno gibanje, saj je bil velik del zapornikov
+                                        pripadnikov tega gibanja. Pomagala jim je posebna
+                                        organizacija Ljudska pomoč oz. Slovenska narodna pomoč. Iz
+                                        zaporov je na različne načine, s podkupovanjem in na nasilen
+                                        način poskušala rešiti za gibanje najpomembnejše jetnike.
+                                        Njeni pripadniki so z orožjem nekajkrat vdrli v zapore in
+                                        rešili zapornike (iz zaporov v Sevnici, Škofji Loki, Celju,
+                                        Šmarjah pri Jelšah, Begunjah). </p>
+               </entity:desc>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink" ID="default.file">
+      <METS:fileGrp USE="THUMB">
+         <METS:file ID="thumbnail">
+            <METS:FLocat LOCTYPE="URL" xlink:href="Za zapahi.jpg"/>
+         </METS:file>
+      </METS:fileGrp>
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="file688" OWNERID="Za zapahi.pdf">
+            <METS:FLocat LOCTYPE="HANDLE" xlink:href="https://hdl.handle.net/11686/file688"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   ID="default.structure"
+                   TYPE="primary">
+      <METS:div TYPE="collection">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/menu17"/>
+         <METS:div TYPE="entity" DMDID="default.dc default.mods" ADMID="default.amd">
+            <METS:fptr FILEID="thumbnail"/>
+            <METS:fptr FILEID="file688"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+   <METS:behaviorSec xmlns:xlink="http://www.w3.org/1999/xlink" ID="si4.behavior">
+      <METS:behavior BTYPE="default">
+         <METS:mechanism LOCTYPE="URL" xlink:href="resources/assets/xsd/default/"/>
+      </METS:behavior>
+   </METS:behaviorSec>
+</METS:mets>

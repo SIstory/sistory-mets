@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/38025">
+   <METS:metsHdr CREATEDATE="2017-10-16T08:22:31"
+                 LASTMODDATE="2017-10-23T15:55:51"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="default.dc">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dc:title xml:lang="slv">Zgodovina Ribnice in ribniške pokrajine</dc:title>
+            <dc:creator>Skubic, Anton</dc:creator>
+            <dc:subject xml:lang="slv">Ribnica</dc:subject>
+            <dc:subject xml:lang="slv">ribniška pokrajina</dc:subject>
+            <dc:subject xml:lang="slv">slovenski duhovniki</dc:subject>
+            <dc:subject xml:lang="slv">župnije</dc:subject>
+            <dc:subject xml:lang="slv">zgodovina</dc:subject>
+            <dc:subject xml:lang="eng">Ribnica</dc:subject>
+            <dc:subject xml:lang="eng">Ribnica region</dc:subject>
+            <dc:subject xml:lang="eng">slovenian priests</dc:subject>
+            <dc:subject xml:lang="eng">parishes</dc:subject>
+            <dc:subject xml:lang="eng">history</dc:subject>
+            <dc:publisher>Editorial Baraga; Buenos Aires</dc:publisher>
+            <dc:contributor>za natis pripravil Josip Lesar</dc:contributor>
+            <dc:date xsi:type="dcterms:W3CDTF">1976</dc:date>
+            <dc:type xsi:type="dcterms:DCMIType">Text</dc:type>
+            <dc:language xsi:type="dcterms:ISO639-3">slv</dc:language>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="default.amd">
+      <METS:techMD ID="default.premis">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>si4</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue/>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>Local name</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>38025</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>http://hdl.handle.net/11686/38025</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectCategory>Intellectual entity</premis:objectCategory>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="default.si4">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <entity:desc xml:lang="slv"> V tej knjigi prihaja na
+                                    svetlo zgodovinsko delo, ki je sad dolgoletnega truda
+                                    svoječasnega ribniškega župnika in dekana Antona Skubica.
+                                    Sestavljal ga je dolgo dobo med leti 1915 do 1940, toda v
+                                    zaokroženo celoto, k'i bi bila po njegovi sodbi zrela za objavo
+                                    v knjigi, ga ni izgradil. Prošnjam in prigovarjanjem
+                                    prijateljev, naj bi ta knjiga čimprej izšla, se nikakor ni hotel
+                                    ali mogel vdati; pač pa je v raznih publikacijah ob raznih
+                                    prilikah objavljal posamezne razprave, povzete iz celotnega
+                                    zgodovinskega dela. Kolikor je mogel urednik ugotoviti v danih
+                                    razmerah v tujini in ob malem številu pripomočkov, ki so mu bili
+                                    na razpolago, je Skubic objavil: Opis božje poti NOVA ŠTIFTA v
+                                    Ilustriranem Slovencu z dne 17. junija 1928; razpravo IZ
+                                    ZGODOVINE ŠOLSTVA V RIBNICI v reviji Slovenski učitelj iz leta
+                                    1930 (v nadaljevanjih): ZGOŠČEN PREGLED ZGODOVINE RIBNICE v
+                                    Ilustriranem Slovencu z dne 1. decembra 1931 pod zaglavjem: Iz
+                                    zgodovine slovenskih mest. Ob raznih priložnostih je objavljal
+                                    tudi krajše zgodovinske razprave, ki jih pa urednik podrobno ni
+                                    mogel ugotoviti ob pomanjkanju virov. Omeniti je le še, da je v
+                                    letu 1933, v kolikor urednika ne vara spomin, ob priložnosti
+                                    odkritja spominske plošče Jakobu Petelinu Gallusu, na podlagi
+                                    danih mu zgodovinskih virov skušal dokazati, da je bil ta slavni
+                                    slovenski glasbenik rojen v Ribnici. Za Skubičevo zgodovinsko
+                                    delo je bilo med slovensko inteligenco že za njegovega življenja
+                                    veliko zanimanja. Zlasti ribniški rojaki, profesorji zgodovine
+                                    (npr. dr. Fr. Trdan iz Suš ja, prof. Fr. Ambrožič iz Goriče
+                                    vasi, prof. dr. Jože Rus iz trga, prof. Fr. Fric iz Hrvače, p.
+                                    Maver Grebenc iz Dol. Lazov), kakor tudi drugi ribniški
+                                    intelektualci so željno čakali na izid te zgodovine, toda
+                                    avtorja je na veliko žalost vseh začetkom leta 1940 prehitela
+                                    nenadna smrt. </entity:desc>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec xmlns:xlink="http://www.w3.org/1999/xlink" ID="default.file">
+      <METS:fileGrp USE="DEFAULT">
+         <METS:file ID="file22888" OWNERID="ZGODOVINA_RIBNICE_RIBNISKE_POKRAJINE.pdf">
+            <METS:FLocat LOCTYPE="HANDLE" xlink:href="https://hdl.handle.net/11686/file22888"/>
+         </METS:file>
+      </METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   ID="default.structure"
+                   TYPE="primary">
+      <METS:div TYPE="collection">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/menu17"/>
+         <METS:div TYPE="entity" DMDID="default.dc" ADMID="default.amd">
+            <METS:fptr FILEID="file22888"/>
+         </METS:div>
+      </METS:div>
+   </METS:structMap>
+   <METS:behaviorSec xmlns:xlink="http://www.w3.org/1999/xlink" ID="si4.behavior">
+      <METS:behavior BTYPE="default">
+         <METS:mechanism LOCTYPE="URL" xlink:href="resources/assets/xsd/default/"/>
+      </METS:behavior>
+   </METS:behaviorSec>
+</METS:mets>

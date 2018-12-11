@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/30984">
+   <METS:metsHdr CREATEDATE="2015-05-14T08:40:37"
+                 LASTMODDATE="2017-02-15T11:25:09"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name>Meden, Katja</METS:name>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="default.dc">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dc:title xml:lang="slv">Bibilografija dr. Štefana Trojarja od leta 1966 do leta 2008</dc:title>
+            <dc:creator>Trškan, Danijela</dc:creator>
+            <dc:subject xml:lang="slv">Štefan Trojar</dc:subject>
+            <dc:subject xml:lang="slv">bibliografija</dc:subject>
+            <dc:subject xml:lang="slv">Cobiss</dc:subject>
+            <dc:subject xml:lang="slv">monografija</dc:subject>
+            <dc:subject xml:lang="slv">članki</dc:subject>
+            <dc:subject xml:lang="slv">sekundarno avtorstvo</dc:subject>
+            <dc:subject xml:lang="slv">recenzije</dc:subject>
+            <dc:subject xml:lang="slv">referati</dc:subject>
+            <dc:subject xml:lang="eng">Štefan Trojar</dc:subject>
+            <dc:subject xml:lang="eng">bibliography</dc:subject>
+            <dc:subject xml:lang="eng">monograph</dc:subject>
+            <dc:subject xml:lang="eng">articles</dc:subject>
+            <dc:subject xml:lang="eng">secondary authorship</dc:subject>
+            <dc:subject xml:lang="eng">reviews</dc:subject>
+            <dc:subject xml:lang="eng">papers</dc:subject>
+            <dc:publisher>Oddelek za zgodovino Filozofske fakultete Univerze v Ljubljani, Ljubljana</dc:publisher>
+            <dc:contributor>Danijela Trškan (ur.)</dc:contributor>
+            <dc:contributor>Darja Pipuš Sunesko (prev.)</dc:contributor>
+            <dc:contributor>Danijela Trškan (prev.)</dc:contributor>
+            <dc:date xsi:type="dcterms:W3CDTF">2011</dc:date>
+            <dc:type xsi:type="dcterms:DCMIType">Text</dc:type>
+            <dc:language xsi:type="dcterms:ISO639-3">slv</dc:language>
+            <dcterms:alternative xml:lang="eng">Dr. Štefan Trojar - Bibliography from 1966 to 2008</dcterms:alternative>
+            <dcterms:abstract xml:lang="slv">Poleg bibliografije dr. Štefana Trojarja, kije objavljena na Cobissu od leta 1972 naprej, smo dodali tudi tiste prispevke, ki jih Trojar objavil pred tem ter recenzije učbenikov, priročnikov in drugih gradiv. Osebna bibliografija je razdeljena v monografije in druga dela, članke, sekundarno avtorstvo (mentorstvo), recenzije gradiv in referate. Pri posameznih vrstah bibliografije so prispevki predstavljeni kronološko.</dcterms:abstract>
+            <dcterms:abstract xml:lang="eng">Apart from the bibliography of Dr. Štefan Trojar, which has been published on Cobiss after 1972, we have also added contributions that Trojar had published prior to 1972, as well as his various textbook reviews, reviews of manuals and other material. His personal bibliography is divided into monographs and other work, articles, secondary authorship (mentorship), reviews of various material and papers. For individual types of bibliography, the contributions are presented in chronological order.</dcterms:abstract>
+            <dcterms:isPartOf>Historia: znanstvena zbirka Oddelka za zgodovino Filozofska fakultete v Ljubljani; 19</dcterms:isPartOf>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:dmdSec ID="default.mods">
+      <METS:mdWrap MDTYPE="MODS" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <mods:mods>
+               <mods:relatedItem type="series">
+                  <mods:relatedItem type="series">
+                     <mods:titleInfo>
+                        <mods:title>Historia: znanstvena zbirka Oddelka za zgodovino Filozofska fakultete v Ljubljani</mods:title>
+                     </mods:titleInfo>
+                     <mods:part>
+                        <mods:detail type="volumens">
+                           <mods:number>19</mods:number>
+                        </mods:detail>
+                     </mods:part>
+                  </mods:relatedItem>
+               </mods:relatedItem>
+            </mods:mods>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="default.amd">
+      <METS:techMD ID="default.premis">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>si4</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue/>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>Local name</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>30984</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>http://hdl.handle.net/11686/30984#page=29</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectCategory>Intellectual entity</premis:objectCategory>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="default.si4">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <entity:desc xml:lang="slv"> Poleg bibliografije dr.
+                                    Štefana Trojarja, kije objavljena na Cobissu od leta 1972
+                                    naprej, smo dodali tudi tiste prispevke, ki jih Trojar objavil
+                                    pred tem ter recenzije učbenikov, priročnikov in drugih gradiv.
+                                    Osebna bibliografija je razdeljena v monografije in druga dela,
+                                    članke, sekundarno avtorstvo (mentorstvo), recenzije gradiv in
+                                    referate. Pri posameznih vrstah bibliografije so prispevki
+                                    predstavljeni kronološko. </entity:desc>
+               <entity:page>29</entity:page>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   ID="default.structure"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/30974"/>
+         <METS:div TYPE="entity" DMDID="default.dc default.mods" ADMID="default.amd"/>
+      </METS:div>
+   </METS:structMap>
+   <METS:behaviorSec xmlns:xlink="http://www.w3.org/1999/xlink" ID="si4.behavior">
+      <METS:behavior BTYPE="default">
+         <METS:mechanism LOCTYPE="URL" xlink:href="resources/assets/xsd/default/"/>
+      </METS:behavior>
+   </METS:behaviorSec>
+</METS:mets>

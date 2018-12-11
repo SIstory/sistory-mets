@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/20427">
+   <METS:metsHdr CREATEDATE="2014-01-06T13:25:04"
+                 LASTMODDATE="2017-02-10T11:22:01"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name>Meden, Katja</METS:name>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="default.dc">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dc:title xml:lang="slv">Spoznanja raziskovalnega projekta Avstrija. Jugoslavija. Slovenija. Slovenska narodna identiteta v času</dc:title>
+            <dc:creator>Nećak, Dušan</dc:creator>
+            <dc:description xml:lang="slv">Raziskovalni projekt, ki smo ga v okviru širšega projekta "Grenzloses Österreich" prijavili pri Zveznemu ministrstvu za znanost in raziskovanje Republike Avstrije leta 1994, je imel dve temeljni izhodišči: želeli smo interdisciplinarno obdelali problematiko slovenske narodne identitete, njenega oblikovanja, razvoja in utrjevanja v času različnih držav, v katerih so živeli Slovenci. želeli smo naslovno problematiko obdelati diahrono, sinhrono in primerjalno, ter vsaj poskusiti odgovoriti na vprašanje o (ne)pomembnosti "narodnega" v današnjih časih regionalnih vseh drugih integracij v svetu.</dc:description>
+            <dc:subject xml:lang="slv">narodna identiteta</dc:subject>
+            <dc:subject xml:lang="slv">uvodnik</dc:subject>
+            <dc:subject xml:lang="eng">national identity</dc:subject>
+            <dc:subject xml:lang="eng">foreword</dc:subject>
+            <dc:publisher>Oddelek za zgodovino Filozofske fakultete Univerze v Ljubljani, Ljubljana</dc:publisher>
+            <dc:contributor>Dušan Nećak (ur.)</dc:contributor>
+            <dc:date xsi:type="dcterms:W3CDTF">1997</dc:date>
+            <dc:type xsi:type="dcterms:DCMIType">Text</dc:type>
+            <dc:language xsi:type="dcterms:ISO639-3">slv</dc:language>
+            <dcterms:isPartOf>Historia: znanstvena zbirka Oddelka za zgodovino Filozofska fakultete v Ljubljani; 1</dcterms:isPartOf>
+            <dcterms:license xsi:type="dcterms:URI">http://creativecommons.org/licenses/by-nc-nd/2.5/si/</dcterms:license>
+            <dcterms:license xml:lang="slv">Priznanje avtorstva-Nekomercialo-Brez predelav 2.5 Slovenija (CC BY-NC-ND 2.5 SI)</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:dmdSec ID="default.mods">
+      <METS:mdWrap MDTYPE="MODS" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <mods:mods>
+               <mods:relatedItem type="series">
+                  <mods:relatedItem type="series">
+                     <mods:titleInfo>
+                        <mods:title>Historia: znanstvena zbirka Oddelka za zgodovino Filozofska fakultete v Ljubljani</mods:title>
+                     </mods:titleInfo>
+                     <mods:part>
+                        <mods:detail type="volumens">
+                           <mods:number>1</mods:number>
+                        </mods:detail>
+                     </mods:part>
+                  </mods:relatedItem>
+               </mods:relatedItem>
+            </mods:mods>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="default.amd">
+      <METS:techMD ID="default.premis">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>si4</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue/>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>Local name</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>20427</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>http://hdl.handle.net/11686/20427#page=8</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectCategory>Intellectual entity</premis:objectCategory>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="default.si4">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <entity:desc xml:lang="slv">
+                  <p xmlns="http://www.w3.org/1999/xhtml">Raziskovalni projekt, ki smo ga v okviru širšega projekta
+                                        "Grenzloses Österreich" prijavili pri Zveznemu ministrstvu
+                                        za znanost in raziskovanje Republike Avstrije leta 1994, je
+                                        imel dve temeljni izhodišči:</p>
+                  <ol xmlns="http://www.w3.org/1999/xhtml">
+                     <li> želeli smo interdisciplinarno obdelali problematiko
+                                            slovenske narodne identitete, njenega oblikovanja,
+                                            razvoja in utrjevanja v času različnih držav, v katerih
+                                            so živeli Slovenci.</li>
+                     <li> želeli smo naslovno problematiko obdelati diahrono,
+                                            sinhrono in primerjalno, ter vsaj poskusiti odgovoriti
+                                            na vprašanje o (ne)pomembnosti "narodnega" v današnjih
+                                            časih regionalnih vseh drugih integracij v svetu.</li>
+                  </ol>
+               </entity:desc>
+               <entity:page>8</entity:page>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   ID="default.structure"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/20421"/>
+         <METS:div TYPE="entity" DMDID="default.dc default.mods" ADMID="default.amd"/>
+      </METS:div>
+   </METS:structMap>
+   <METS:behaviorSec xmlns:xlink="http://www.w3.org/1999/xlink" ID="si4.behavior">
+      <METS:behavior BTYPE="default">
+         <METS:mechanism LOCTYPE="URL" xlink:href="resources/assets/xsd/default/"/>
+      </METS:behavior>
+   </METS:behaviorSec>
+</METS:mets>

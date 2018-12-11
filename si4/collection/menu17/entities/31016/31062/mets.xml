@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/TR/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:premis="http://www.loc.gov/standards/premis/v1"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:entity="http://sistory.si/schema/sistory/v3/entity"
+           xmlns:html="http://www.w3.org/1999/xhtml"
+           TYPE="entity"
+           OBJID="http://hdl.handle.net/11686/31062">
+   <METS:metsHdr CREATEDATE="2015-06-03T12:27:07"
+                 LASTMODDATE="2017-02-15T12:04:08"
+                 RECORDSTATUS="Active">
+      <METS:agent ROLE="DISSEMINATOR" TYPE="ORGANIZATION">
+         <METS:name>SIstory</METS:name>
+         <METS:note>http://sistory.si/</METS:note>
+      </METS:agent>
+      <METS:agent ROLE="CREATOR" ID="user.100" TYPE="INDIVIDUAL">
+         <METS:name>Meden, Katja</METS:name>
+      </METS:agent>
+   </METS:metsHdr>
+   <METS:dmdSec ID="default.dc">
+      <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <dc:title xml:lang="slv">Otroci med holokavstom</dc:title>
+            <dc:creator>Toš, Marjan</dc:creator>
+            <dc:subject xml:lang="slv">holokavst</dc:subject>
+            <dc:subject xml:lang="slv">Judje</dc:subject>
+            <dc:subject xml:lang="slv">koncentracijska taborišča</dc:subject>
+            <dc:subject xml:lang="slv">genocid</dc:subject>
+            <dc:subject xml:lang="slv">otroci</dc:subject>
+            <dc:subject xml:lang="eng">holocaust</dc:subject>
+            <dc:subject xml:lang="eng">Jews</dc:subject>
+            <dc:subject xml:lang="eng">concentration camps</dc:subject>
+            <dc:subject xml:lang="eng">genocide</dc:subject>
+            <dc:subject xml:lang="eng">children</dc:subject>
+            <dc:publisher>Zveza zgodovinskih društev Slovenije</dc:publisher>
+            <dc:contributor>Peter Štih (gl. in od. ur.)</dc:contributor>
+            <dc:contributor>Aida Škoro Babić (ur. in prev.)</dc:contributor>
+            <dc:contributor>Mateja Jeraj (ur.)</dc:contributor>
+            <dc:contributor>Matevž Košir (ur.)</dc:contributor>
+            <dc:contributor>Bojan Balkovec (ur.)</dc:contributor>
+            <dc:date xsi:type="dcterms:W3CDTF">2012</dc:date>
+            <dc:type xsi:type="dcterms:DCMIType">Text</dc:type>
+            <dc:language xsi:type="dcterms:ISO639-3">slv</dc:language>
+            <dcterms:alternative xml:lang="eng">Children in the Holocoust</dcterms:alternative>
+            <dcterms:abstract xml:lang="slv">Od šestih milijonov Judov, umorjenih med holokavstom, je bilo okoli milijon in pol otrok. Število preživelih otrok je ocenjeno na le nekaj tisoč. Judovski otroci so prihajali iz različnih okolij in holokavst je nasilno končal njihovo otroštvo. Med njimi so bili tudi otroci slovenskih Judov, še zlasti iz Prekmurja, ki so po množičnih deportacijah aprila 1944 večinoma končali mlada življenja v taborišču smrti – Auschwitzu. Možnosti za preživetja otrok so bile majhne, čeprav so se mnogi skrivali, da bi preživeli. Po vojni so poskušali preživeli Judi zaživeti na novo. Med njimi je bilo tudi na tisoče sirot.</dcterms:abstract>
+            <dcterms:abstract xml:lang="eng">Among six million Jews killed in the holocaust, there were a million and a half children. Only a few thousand children survived. Jewish children came from different environments and the holocaust violently ended their childhood. Amongst them were also children of Slovenian Jews, especially those from the Prekmurje region, who lost their young lives in the camp of death - Auschwitz after numerous deportations in April 1944. Children's chances of survival were small, despite the fact that many of them were hiding to survive. After the war the surviving Jews tried to restart their lives again. And among them were thousands of orphans.</dcterms:abstract>
+            <dcterms:isPartOf>Zbirka zgodovinskega časopisa, 45</dcterms:isPartOf>
+            <dcterms:license xsi:type="dcterms:URI">https://creativecommons.org/licenses/by-nc-nd/4.0/</dcterms:license>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:dmdSec ID="default.mods">
+      <METS:mdWrap MDTYPE="MODS" MIMETYPE="text/xml">
+         <METS:xmlData>
+            <mods:mods>
+               <mods:relatedItem type="series">
+                  <mods:titleInfo>
+                     <mods:title>Zbirka zgodovinskega časopisa, 45</mods:title>
+                  </mods:titleInfo>
+               </mods:relatedItem>
+            </mods:mods>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec ID="default.amd">
+      <METS:techMD ID="default.premis">
+         <METS:mdWrap MDTYPE="PREMIS:OBJECT" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>si4</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue/>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>Local name</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>31062</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectIdentifier>
+                  <premis:objectIdentifierType>hdl</premis:objectIdentifierType>
+                  <premis:objectIdentifierValue>http://hdl.handle.net/11686/31062#page=588</premis:objectIdentifierValue>
+               </premis:objectIdentifier>
+               <premis:objectCategory>Intellectual entity</premis:objectCategory>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+      <METS:techMD ID="default.si4">
+         <METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="ENTITY" MIMETYPE="text/xml">
+            <METS:xmlData>
+               <entity:desc xml:lang="slv"> Od šestih milijonov
+                                    Judov, umorjenih med holokavstom, je bilo okoli milijon in pol
+                                    otrok. Število preživelih otrok je ocenjeno na le nekaj tisoč.
+                                    Judovski otroci so prihajali iz različnih okolij in holokavst je
+                                    nasilno končal njihovo otroštvo. Med njimi so bili tudi otroci
+                                    slovenskih Judov, še zlasti iz Prekmurja, ki so po množičnih
+                                    deportacijah aprila 1944 večinoma končali mlada življenja v
+                                    taborišču smrti – Auschwitzu. Možnosti za preživetja otrok so
+                                    bile majhne, čeprav so se mnogi skrivali, da bi preživeli. Po
+                                    vojni so poskušali preživeli Judi zaživeti na novo. Med njimi je
+                                    bilo tudi na tisoče sirot. </entity:desc>
+               <entity:page>588</entity:page>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:structMap xmlns:xlink="http://www.w3.org/1999/xlink"
+                   ID="default.structure"
+                   TYPE="dependent">
+      <METS:div TYPE="entity">
+         <METS:mptr LOCTYPE="HANDLE" xlink:href="http://hdl.handle.net/11686/31016"/>
+         <METS:div TYPE="entity" DMDID="default.dc default.mods" ADMID="default.amd"/>
+      </METS:div>
+   </METS:structMap>
+   <METS:behaviorSec xmlns:xlink="http://www.w3.org/1999/xlink" ID="si4.behavior">
+      <METS:behavior BTYPE="default">
+         <METS:mechanism LOCTYPE="URL" xlink:href="resources/assets/xsd/default/"/>
+      </METS:behavior>
+   </METS:behaviorSec>
+</METS:mets>
